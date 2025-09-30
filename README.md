@@ -36,11 +36,11 @@
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 *Main dashboard with KPI cards, document volume trends, and sentiment distribution*
 
-### Sentiment Analysis
+### AI Assistant (XISS)
 ![Sentiment Analysis](screenshots/sentiment-analysis.png)
 *Detailed sentiment analysis with trends, patterns, and risk progression*
 
-### AI Assistant (XISS)
+### Sentiment Analysis
 ![AI Assistant](screenshots/ai-assistant.png)
 *Intelligent AI assistant for document analysis and Q&A*
 
