@@ -105,8 +105,27 @@ export default function QuarterlyComparison({ dateRange, onExport }: QuarterlyCo
       </div>
 
       {data.length === 0 ? (
-        <div className="flex items-center justify-center h-[350px] text-gray-500 dark:text-gray-400">
-          No quarterly data available for the selected date range
+        <div className="flex flex-col items-center justify-center h-[350px] text-gray-500 dark:text-gray-400">
+          <Calendar className="w-16 h-16 mb-4 opacity-50" />
+          <p className="text-lg font-medium">No quarterly data available</p>
+          <p className="text-sm mt-2">Try expanding your date range</p>
+        </div>
+      ) : years.length === 1 ? (
+        <div className="flex flex-col items-center justify-center h-[350px]">
+          <div className="text-center mb-6">
+            <Calendar className="w-16 h-16 mx-auto mb-4 text-amber-500" />
+            <p className="text-lg font-medium text-gray-700 dark:text-gray-300 mb-2">
+              Single Year Data Detected
+            </p>
+            <p className="text-sm text-gray-500 dark:text-gray-400 max-w-md">
+              This chart compares quarters across multiple years. Please expand your date range to include at least 2 years (e.g., 2016-01-01 to 2025-12-31) to see year-over-year comparisons.
+            </p>
+          </div>
+          <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-lg p-4 max-w-md">
+            <p className="text-sm text-amber-800 dark:text-amber-200">
+              <strong>Current data:</strong> Only showing {years[0]} data. Add more years to enable comparison.
+            </p>
+          </div>
         </div>
       ) : (
         <ResponsiveContainer width="100%" height={350}>
