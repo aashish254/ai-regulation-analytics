@@ -1,0 +1,83 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Methane Emissions Mitigation Research and Development Act”.SEC. 2. METHANE EMISSION DETECTION AND MITIGATION.
+(a) In General.—Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is amended by adding at the end the following new section:
+“SEC. 969E. METHANE LEAK DETECTION AND MITIGATION.
+“(a) Technical Assistance.—
+“(1) IN GENERAL.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Commerce, and the heads of other appropriate Federal agencies, shall carry out a program of methane emissions detection and mitigation research, development, and demonstration for technologies and methods that significantly detect, quantify, and mitigate methane emissions. In carrying out the program, the Secretary shall—
+“(A) enter into cooperative agreements with State or local governments, institutions of higher education, or for-profit entities to provide technical assistance to—
+“(i) prevent or respond to methane releases, including prediction, detection, mitigation, quantification, and identification of leaks, vents, and other outflows throughout the natural gas infrastructure (including natural gas storage, pipelines, and natural gas production sites); and
+“(ii) protect public health in the event of a major methane release;
+“(B) in coordination with representatives from private sector entities, State and local governments, and institutions of higher education, establish a publicly accessible resource for best practices in the design, construction, maintenance, performance, monitoring, and incident response for—
+“(i) pipeline systems, including compressor stations;
+“(ii) production wells;
+“(iii) storage facilities; and
+“(iv) other vulnerable infrastructure;
+“(C) in coordination with representatives from private sector entities, State and local governments, and institutions of higher education, establish a publicly accessible resource for best practices in evaluation and incorporation of emission reduction technologies, including—
+“(i) metrics for performance evaluation; and
+“(ii) principles for selection and integration of emission reduction technologies that are best suited for the project or entity concerned;
+“(D) support research of technologies to more accurately quantify emissions, including—
+“(i) the ability to accurately characterize and measure methane emissions through various atmospheric conditions such as wind, rain, fog, and dust;
+“(ii) improvements to data analytics and machine learning platforms;
+“(iii) the ability to characterize temporal patterns in emissions, such as through continuous monitoring or multitiered system practices;
+“(iv) improvements to high-resolution spectroscopic databases of methane;
+“(v) the ability to remotely detect carbon and ethane isotopes to facilitate attribution of sources of methane emissions; and
+“(vi) improvements to Lidar detection technologies;
+“(E) identify high-risk characteristics of pipelines, wells, storage facilities, and materials, geologic risk factors, or other key factors that increase the likelihood or intensity of methane emissions leaks;
+“(F) identify methane mitigation methods and technologies in coal mines; and
+“(G) in collaboration with private sector entities and institutions of higher education, quantify and map significant geologic methane seeps and other sources of natural emissions across the United States.
+“(2) CONSIDERATIONS.—In carrying out the program under this section, the Secretary shall consider the following:
+“(A) Historical data of methane emissions.
+“(B) Public health consequences.
+“(C) Public safety.
+“(D) Novel materials and designs for pipelines, compressor stations, components, and wells (including casing, cement, and wellhead).
+“(E) Regional geologic traits.
+“(F) Induced and natural seismicity.“(b) Methane Leak Detection Consortium.—
+“(1) IN GENERAL.—Not later than one year after the date of the enactment of this section, the Secretary shall establish and operate a Methane Emissions Measurement and Mitigation Research Consortium (in this section referred to as the ‘Consortium’) for the purpose of supporting, to the maximum extent practicable, data sharing, research prioritization, and researching cooperative leak detection and repair strategies pertaining to methane emissions detection, quantification, and mitigation.
+“(2) MEMBERSHIP.—The members of the Consortium shall be representatives from the National Institute of Standards and Technology, other relevant Federal agencies, National Laboratories, oil and gas operators and industry groups, vendors of methane detection and quantification technologies, institutions of higher education, community organizations, relevant nongovernmental organizations, and other entities.
+“(3) RESPONSIBILITIES.—The Consortium shall develop and implement a multiyear plan that—
+“(A) identifies technical goals and milestones for the Consortium; and
+“(B) facilitates data sharing for the purposes of—
+“(i) bettering the understanding of methane emissions from the oil and gas sector;
+“(ii) improving emissions detection, measurement, and mitigation capabilities, including assessing multi-tiered atmospheric measurements; and
+“(iii) improving the understanding of methane quantification data analytics and machine learning platforms, including for calibration of measurements.
+“(4) REPORTING.—
+“(A) IN GENERAL.—The Secretary shall report on the Consortium’s activities to the appropriate congressional committees.
+“(B) INITIAL REPORT.—Not later than 18 months after the date of the enactment of this section, the Secretary shall submit to the appropriate congressional committees a report summarizing the activities, findings, and progress of the program under this section. The report shall include the following:
+“(i) A review of LDAR technologies available to the oil and gas sector for the purpose of methane emissions measurement and mitigation.
+“(ii) A summary of research gaps and priorities related to methane emissions detection, measurement, and mitigation capabilities.
+“(iii) A description of the data sharing and cooperative activities that have been initiated pursuant to paragraph (3)(B).
+“(C) ANNUAL REPORT.—Not later than one year after the date on which the report under subparagraph (B) is submitted and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report summarizing the activities, findings, and progress of the program under this section. The report shall include the following:
+“(i) An updated review of LDAR technologies available to oil and gas operators for the purpose of methane emissions measurement and mitigation.
+“(ii) A description of the state of methane emissions detection and measurement capabilities.
+“(iii) A summary of research priorities relating to methane emissions detection, measurement, and mitigation.
+“(iv) An update on the data sharing and cooperative activities undertaken by members of the Consortium.
+“(5) SUNSET; TERMINATION.—
+“(A) IN GENERAL.—The Secretary may provide support to the Consortium for a period of not more than ten years, subject to the availability of appropriations.
+“(B) MERIT REVIEW.—Not later than five years after the date on which the Consortium is established, the Secretary shall conduct a review to determine whether the Consortium has achieved the technical goals and milestones identified under paragraph (3)(A).
+“(6) DEFINITIONS.—In this section:
+“(A) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘appropriate congressional committees’ means the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+“(B) LDAR.—The term ‘LDAR’ means a technology, program, or activity that is intended to monitor, detect, measure, or repair methane leaks.
+“(C) SECRETARY.—The term ‘Secretary’ means the Secretary of Energy.
+“(7) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the Secretary to carry out this section the following:
+“(A) $36,000,000 for fiscal year 2025.
+“(B) $38,000,000 for fiscal year 2026.
+“(C) $40,000,000 for fiscal year 2027.
+“(D) $42,000,000 for fiscal year 2028.
+“(E) $44,000,000 for fiscal year 2029.”.(b) Clerical Amendment.—The table of contents in section 1(b) of the Energy Policy Act of 2005 is amended by adding at the end of the items relating to subtitle F of title IX of such Act the following new item:
+
+“Sec. 969E. Methane leak detection and mitigation.”.(c) National Facilities For Testing And Intercalibration Program Relating To Methane.—
+(1) IN GENERAL.—Not later than one year after the date of the enactment of this Act and subject to the availability of appropriations, the Secretary of Commerce, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall establish a program through the National Institute of Standards and Technology’s Center for Greenhouse Gas Measurements, Standards, and Information established pursuant to section 10222 of the Research and Development, Competition, and Innovation Act (Public Law 117–167; 42 U.S.C. 18932) that establishes national facilities to advance methane detection, quantification, and relevant standards and supporting methods for testing and intercalibration of methane measurements and the publication and maintenance of standards for such measurements.
+(2) RESPONSIBILITIES.—The facilities established under paragraph (1) shall facilitate detection and quantification of carbon, carbon isotopes, methane, ethane, and gases associated with such sources, provide high-resolution spectroscopic reference data advancing accuracy of remote sensing technologies, develop methods relating methane concentration observations to the associated emission fluxes, and facilitate the rapid performance testing of existing and new technologies for the measurement of methane emissions, including testing conditions with a wide range of the following:
+(A) Sizes and extents of emission sources.
+(B) Geographic diversity.
+(C) Temporal characteristics.
+(D) Diversity of atmospheric conditions, such as wind, rain, fog, clouds, and dust.
+(E) Diversity of observing platforms.
+(F) Quantification of atmospheric emission plumes.
+(3) ANNUAL REPORT.—Not later than two years after the date of the enactment of this Act and annually thereafter, the Secretary of Commerce shall submit to Congress a report summarizing the activities, findings, and progress of the program established under paragraph (1).
+(4) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the Secretary of Commerce to carry out this section the following:
+(A) $15,000,000 for fiscal year 2025.
+(B) $17,000,000 for fiscal year 2026.
+(C) $19,000,000 for fiscal year 2027.
+(D) $21,000,000 for fiscal year 2028.
+(E) $23,000,000 for fiscal year 2029 and each fiscal year thereafter.

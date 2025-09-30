@@ -1,0 +1,9 @@
+(c) Evaluation of State programs.—Section 116(e) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(e)) is amended—
+
+(1) in paragraph (1)—
+
+(A) in the first sentence, by striking “shall conduct ongoing” and inserting “shall use data to conduct analyses and ongoing”; and
+
+(B) in the second sentence, by striking “conduct the” and inserting “conduct such analyses and”; and
+
+(2) in paragraph (2), by adding “A State may use other forms of analysis, such as machine learning or other advanced analytics, to improve program operations and outcomes and to identify areas for further evaluation.” at the end.

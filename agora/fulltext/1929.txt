@@ -1,0 +1,81 @@
+A BILL
+To provide for international protection of digital freedom, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Advancing Digital Freedom Act of 2024”.
+
+
+SEC. 2. Statement of policy.
+
+
+It is the policy of the United States—
+
+
+(1) to ensure that technology is developed, deployed, and governed in accordance with universal human rights, the rule of law, and democratic values;
+
+
+(2) to protect and promote digital freedom as a cornerstone of United States foreign policy and prioritize digital freedom to the highest extent possible in diplomatic engagements with foreign countries;
+
+
+(3) to cooperate and engage with like-minded countries committed to developing, deploying, and using technology in a manner that respects democracy, the rule of law, and human rights; and
+
+
+(4) to lead global efforts to protect digital freedom, counter disinformation and misinformation, and advance democratic governance in the digital space consistent with guidelines outlined in the United States International Cyberspace and Digital Policy Strategy.
+
+
+SEC. 3. Coordinator for Digital Freedom defined.
+
+
+In this Act, the term “Coordinator for Digital Freedom” means the Coordinator for Digital Freedom in the Bureau of Cyberspace and Digital Policy in the United States Department of State.
+
+
+SEC. 4. Role of the Coordinator for Digital Freedom.
+
+
+(a) Central objective.—The central objective of the Coordinator for Digital Freedom shall be to promote efforts that—
+(1) improve the state of digital freedom globally;
+(2) ensure digital freedom remains a foremost foreign policy priority of the United States Government; and
+(3) coordinate responses to concerning trends impacting digital freedom.
+
+
+(b) Duties and responsibilities.—The Coordinator shall—
+(1) engage foreign governments, nongovernmental organizations, and other actors to coordinate efforts to defend digital freedom against digital authoritarianism and other authoritarian approaches to governance and usage of technology;
+(2) support multilateral efforts to protect and reinforce information integrity within the context of respect for freedom of expression;
+(3) advance the development and maintenance of technology that is designed, governed, and deployed in manners consistent with democracy, the rule of law, and human rights;
+(4) promote digital inclusion across the digital space;
+(5) engage and advance discussions to promote the democratic governance of artificial intelligence and the implications of artificial intelligence governance on human rights and democracy;
+(6) lead efforts within the Department of State to continue publishing guidelines for protecting digital freedom across the cyberspace, including through the Risk Management Profile for Artificial Intelligence and Human Rights, as well as the Roadmap for Building Civil Resilience to the Global Digital Information Manipulation Challenge; and
+(7) make recommendations regarding opportunities to advance digital freedom internally within the Department of State, as well as through diplomatic engagements with foreign countries.
+
+
+(c) Additional duties.—In addition to the duties and responsibilities specified in subsections (a) and (b), the Coordinator may carry out other duties that the Secretary of State may assign.
+
+
+SEC. 5. Annual report on state of digital freedom in the world.
+
+
+(a) In general.—Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Bureau of Cyberspace and Digital Policy shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the state of global digital freedom.
+
+
+(b) Elements.—The report required under subsection (a) shall include—
+
+
+(1) an analysis of concerning trends impacting digital freedom globally, including—
+(A) digital authoritarianism and threats to democracy;
+(B) censorship and propaganda;
+(C) threats to information integrity;
+(D) threats to digital inclusion;
+(E) threats to privacy in the digital space; and
+(F) risks to responsible management of artificial intelligence and democratic governance of artificial intelligence;
+
+
+(2) a discussion of particular regions or countries of concern that are experiencing the greatest threats to digital freedom; and
+
+
+(3) recommendations for how to protect and promote digital freedom in response to these concerning trends.

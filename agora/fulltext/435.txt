@@ -1,0 +1,128 @@
+ H. R. 1715
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+May 10, 2023
+Received; read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+AN ACT
+To direct the Department of Energy and the National Oceanic and Atmospheric Administration to conduct collaborative research in order to advance numerical weather and climate prediction in the United States, and for other purposes.
+
+ Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Advanced Weather Model Computing Development Act”.
+
+
+SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) DEPARTMENT.—The term “Department” means the Department of Energy.
+
+
+(2) NATIONAL LABORATORY.—The term “National Laboratory” has the meaning given such term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+
+
+(3) SECRETARY.—The term “Secretary” means the Secretary of Energy.
+
+
+(4) ADMINISTRATOR.—The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+
+ SEC. 3. DEPARTMENT OF ENERGY AND NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION RESEARCH AND DEVELOPMENT COORDINATION.
+
+
+(a) In General.—The Secretary and Administrator shall carry out collaborative research and development activities in artificial intelligence and high performance computing focused on the advancement of climate models and operational numerical weather prediction relevant to agency missions.
+
+
+(b) Memorandum Of Understanding.—The Secretary and Administrator shall carry out the activities under subsection (a) through the establishment of a memorandum of understanding, or other appropriate interagency agreement. Such memorandum or agreement, as the case may be, shall require the use of a competitive, merit-reviewed process, which considers applications from Federal agencies, National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities.
+
+
+(c) Activities.—In carrying out the activities under subsection (a), the Secretary and Administrator may—
+
+
+(1) conduct collaborative research to develop new methods and optimization of modeling and simulation, machine learning, data assimilation, large scale data analytics, and predictive analysis techniques;
+
+
+(2) explore options for performance portability of the optimized weather model codes between the operational computing systems of the National Oceanic and Atmospheric Administration and the Department’s high performance computers;
+
+
+(3) develop methods to accommodate large data sets of weather and climate information;
+
+
+(4) to the maximum extent practicable, and in compliance with national security policies, promote collaboration, open community-based development, and data sharing between Federal agencies, National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities by providing the necessary access and secure data transfer capabilities; and
+
+
+(5) support maintenance of and improvements to scientific computing infrastructure that the Secretary and Administrator determine appropriate.
+
+
+(d) Coordination.—In carrying out the activities under subsection (a), the Secretary and Administrator are authorized to—
+
+
+(1) carry out reimbursable agreements between the Department, the National Oceanic and Atmospheric Administration, and other entities in order to maximize the effectiveness of research and development; and
+
+
+(2) collaborate with other Federal agencies as appropriate.
+
+
+(e) Report.—Not later than two years after the date of the enactment of this Act, the Secretary and Administrator shall submit to the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate, a report detailing the following:
+
+
+(1) Interagency coordination between each Federal agency involved in the research and development activities carried out under this section.
+
+
+(2) Potential opportunities to expand the technical capabilities of the Department and the National Oceanic and Atmospheric Administration.
+
+
+(3) Collaborative research achievements.
+
+
+(4) Areas of future mutually beneficial gains as a result of the activities described in subsection (c).
+
+
+(5) Continuation of coordination between the Department and the National Oceanic and Atmospheric Administration on activities described in subsection (c).
+
+ SEC. 4. CLIMATE AND WEATHER PREDICTION ON HIGH PERFORMANCE COMPUTERS INITIATIVE.
+
+
+(a) In General.—The Administrator, in collaboration with the Secretary, shall carry out an initiative, which may leverage Department high performance computers or expertise, to run advanced models in order to conduct proof of concept scenarios in comparison with current issued forecasts and models. The Secretary and Administrator shall carry out the initiative through a competitive, merit-reviewed process, and consider applications from Federal agencies, National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities.
+
+
+(b) Components.—In carrying out the initiative under subsection (a), the Administrator shall prevent duplication and coordinate research efforts in artificial intelligence, high performance computing, modeling and simulation, machine learning, data assimilation, large scale data analytics, and predictive analysis across the Department, and may—
+
+
+(1) run real-time weather forecast scenarios to conduct comparative research between National Weather Service issued forecasts to forecasts developed through the use of operational models run on high performance computers;
+
+
+(2) share relevant modeling system and applications innovations developed through the initiative, including Unified Forecast System-based applications, through community-based activities; and
+
+
+(3) leverage related weather and climate efforts and data from the National Science and Technology Council, the Interagency Council for Advancing Meteorological Services, and other relevant interagency entities.
+
+
+(c) Report.—Not later than two years after the date of the enactment of this Act, the Administrator shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate a report evaluating the following:
+
+
+(1) The effectiveness of the initiative under subsection (a), including applied research discoveries, and advanced modeling improvements achieved.
+
+
+(2) Potential opportunities to expand the high performance computing capabilities of the Department and the National Oceanic and Atmospheric Administration.
+
+
+(d) Sunset.—The authority under this section shall terminate five years after the date of the enactment of this section.
+
+ SEC. 5. RESEARCH SECURITY.
+
+
+The activities authorized under this Act shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of the CHIPS Act of 2022 (Public Law 117–167; 42 U.S.C. 19231 et seq.)).
+
+
+Passed the House of Representatives May 9, 2023.

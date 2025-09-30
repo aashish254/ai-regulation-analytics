@@ -1,0 +1,14 @@
+ AN ACT concerning discrimination in automobile insurance underwriting and supplementing P.L.1997, c.151. (C.17:29A3 46.1 et al.).
+
+
+BE IT ENACTED by the Senate and General Assembly of the State of New Jersey:
+
+
+1. 
+a. An automobile insurer using an automated or predictive underwriting system shall annually provide documentation and analysis to the Department of Banking and Insurance to demonstrate that there is no discriminatory outcome in the pricing on the basis of race, ethnicity, sexual orientation, or religion, that is determined by the use of the insurer’s automated or predictive underwriting system. Additionally, an insurer shall demonstrate to the commissioner that each pricing segment is balanced and not disproportionate to the overall policyholder population.
+b. As used in this act, “automated or predictive underwriting system” means a computer-generated process that is used to evaluate the risk of a policyholder and determine an insurance rate. An automated or predictive underwriting system may include, but is not limited to, the use of robotic process automation, artificial intelligence, or other specialized technology in its underwriting process.
+
+1. The Commissioner of Banking and Insurance shall adopt rules and regulations pursuant to the “Administrative procedure Act,” P.L.1968, c.410 (C.52:14B-1 et seq.), to effectuate the purposes of this act.
+
+2. This act shall take effect on the first day of the sixth month next following enactment and shall apply to automobile insurance policies initiated or renewed on or after that date. The Commissioner of Banking and Insurance may take any anticipatory administrative action in advance as shall be necessary for the implementation of this act.
+

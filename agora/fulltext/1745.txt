@@ -1,0 +1,65 @@
+SEC. 1078. Study and report on Department of Defense use of unmanned ground vehicle systems manufactured by certain foreign entities.
+
+(a) Study on Department of Defense use of certain unmanned ground vehicle systems.--
+
+(1) STUDY.--The Secretary of Defense shall conduct a study on the use by the Department of Defense of covered unmanned ground vehicle systems manufactured by covered foreign entities.
+
+(2) REPORT.--Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees a report on the study required under paragraph (1). Such report shall include each of the following:
+
+(A) An assessment of the extent to which covered unmanned ground vehicle systems manufactured by covered foreign entities are used by the Department, including a list of all such covered unmanned ground vehicle systems.
+
+(B) An assessment of the national security threats associated with using covered unmanned ground vehicle systems in applications of the Department, including with respect to--
+
+(i) cybersecurity;
+
+(ii) technological maturity of the systems; and
+
+(iii) technological vulnerabilities in the systems that may be exploited by foreign adversaries of the United States.
+
+(C) A description of any actions taken by the Department to identify covered foreign entities that--
+
+(i) develop or manufacture covered unmanned ground vehicle systems; and
+
+(ii) have a military-civil nexus on the list maintained by the Department under section 1260H(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116-283; 10 U.S.C. 113 note).
+
+(D) An assessment of the feasibility and advisability of directing the Defense Innovation Unit, or another entity in the Department of Defense, to develop a list of United States manufacturers of covered unmanned ground vehicle systems.
+
+(E) A recommendation on whether a prohibition on the procurement and operation of covered unmanned ground vehicle systems is in the best interest of the national security of the United States.
+
+(F) The findings and recommendations of the Secretary with respect to the matters covered by the study and report.
+
+(b) Prohibition on procurement and operation by Department of Defense.--
+
+(1) IN GENERAL.--Subject to paragraph (3), and except as provided in paragraph (2), beginning on the date that is one year after the date of the submission of the report required under subsection (a)(2), the Secretary of Defense may not procure or operate any covered unmanned ground vehicle system that is manufactured by a covered foreign entity.
+
+(2) EXCEPTION FOR NATIONAL SECURITY.--Paragraph (1) shall not apply with respect to the procurement or operation of a covered unmanned ground vehicle system that is manufactured by a covered foreign entity if the Secretary of Defense or the Secretary of a military department determines that the procurement or operation of such system is in the national interest of the United States.
+
+(3) APPLICABILITY.--Paragraph (1) shall not apply unless the Secretary of Defense includes in the report required under paragraph (2) of subsection (a) a recommendation pursuant to subparagraph (E) of that paragraph that a prohibition on the procurement and operation of covered unmanned ground vehicle systems is in the best interest of the national security of the United States.
+
+(c) Definitions.--In this section:
+
+(1) The term "covered foreign country" means any of the following:
+
+(A) The People's Republic of China.
+
+(B) The Russian Federation.
+
+(C) The Islamic Republic of Iran.
+
+(D) The Democratic People's Republic of Korea.
+
+(2) The term "covered foreign entity" means an entity that is domiciled in a covered foreign country or subject to influence or control by the government of a covered foreign country, as determined by the Secretary of Defense.
+
+(3) The term "covered unmanned ground vehicle system"--
+
+(A) means a mechanical device that--
+
+(i) is capable of locomotion, navigation, or movement on the ground; and
+
+(ii) operates at a distance from one or more operators or supervisors based on commands or in response to sensor data, or through any combination thereof; and
+
+(B) includes--
+
+(i) remote surveillance vehicles, autonomous patrol technologies, mobile robotics, and humanoid robots; and
+
+(ii) the vehicle, its payload, and any external device used to control the vehicle.

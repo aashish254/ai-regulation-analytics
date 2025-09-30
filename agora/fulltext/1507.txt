@@ -1,0 +1,84 @@
+AN ACT to amend the Indiana Code concerning elections. 
+
+
+Be it enacted by the General Assembly of the State of Indiana: 
+
+
+SECTION 1. IC 3-9-8 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON PASSAGE]: 
+
+
+Chapter 8. Use of Digitally Altered Media in Elections 
+
+
+Sec. 1. (a) As used in this chapter, "campaign communication" means a communication, regardless of the format of the communication or the medium through which the communication is disseminated: 
+(1) that advocates for the election or defeat of a clearly identified candidate; 
+(2) the purpose of which is to: 
+(A) injure a candidate in an election; or 
+(B) influence the outcome of an election; or 
+(3) that solicits a contribution. 
+
+
+(b) For purposes of subsection (a)(1), a candidate is clearly identified if any of the following apply: 
+(1) The communication includes one (1) or more of the following: 
+(A) The name of the candidate. 
+(B) A video, photograph, or drawing of the candidate. 
+(C) Fabricated media depicting the candidate. 
+(2) The identity of the candidate is apparent by unambiguous reference. 
+
+
+Sec. 2.(a)For purposes of this chapter,subject to subsection(b), "candidate" has the meaning set forth in IC 3-5-2-6. 
+
+
+(b) For purposes of this chapter, "candidate" includes an individual who holds an elected office, including: 
+(1) a federal or state office, including a federal or state legislative office; 
+(2) a school board office; or 
+(3) a local office. 
+
+
+Sec. 3. As used in this chapter, "fabricated media" means any of the following: 
+(1) Media that includes an audio or visual recording of an individual's speech, appearance, or conduct that has been altered without the individual's consent such that: 
+(A) the media conveys a materially inaccurate depiction of the individual's speech, appearance, or conduct as recorded in the unaltered recording; and 
+(B) a reasonable person would be unable to recognize that the recording has been altered. 
+(2) Media in which an artificially generated audio or visual imitation of an individual that: (A) has been created without the individual's consent; and (B)is sufficiently lifelike that a reasonable person would be unable to distinguish the speech or appearance of the imitation from the speech or appearance of the individual; is used to convey a fictional depiction of the individual's speech, appearance, or conduct. 
+(3) Media depicting the speech, appearance, or conduct of an artificially generated person, the appearance or speech of which is not a recognizable imitation of an identifiable individual. 
+
+
+Sec. 4. As used in this chapter, "media" means: 
+(1) recorded audio; 
+(2) a recorded image; or 
+(3) recorded video. 
+
+
+Sec. 5.If a campaign communication includes fabricated media depicting a candidate, the person that paid for the campaign communication must include a disclaimer, separate from the disclaimer required under IC3-9-3-2.5(d),that meets the following requirements: 
+(1) The disclaimer must state: "Elements of this media have been digitally altered or artificially generated.".
+(2) If the campaign communication is a printed communication, the disclaimer must be printed in a manner that complies with IC 3-9-3-2.5(e). 
+(3) If the campaign communication is an audio communication, the disclaimer must be read: 
+(A)in each language used in the campaign communication; 
+(B) at a speed and pitch at which the disclaimer is reasonably understandable; and 
+(C) at a volume that is not lower than the loudest audio included in the campaign communication; at the beginning of the campaign communication, at the end of the campaign communication, and, if the campaign communication is more than two (2) minutes in length, at intervals of two (2) minutes for the duration of the campaign communication. 
+(4)If the campaign communication is a video communication, the disclaimer must be: 
+(A) printedina manner that complies with IC3-9-3-2.5(e); and 
+(B) displayed continuously for the duration of the campaign communication. 
+
+
+Sec. 6. (a) A candidate depicted in fabricated media that is included in a campaign communication that does not include a disclaimer required by section 5 of this chapter may bring a civil action against: 
+(1) the person that paid for the campaign communication; 
+(2) the person that sponsored the campaign communication; and 
+(3) a person that disseminates the campaign communication, if: 
+(A) the campaign communication included the disclaimer when provided to the person; and 
+(B) the person knowingly, intentionally, or recklessly altered or removed the disclaimer before disseminating the campaign communication. 
+
+
+(b) A plaintiff who prevails in an action brought under subsection (a) is entitled to recover: 
+(1) the plaintiff's actual damages; 
+(2) injunctive relief; and 
+(3) the amount of any court costs and reasonable attorney's fees incurred by the plaintiff in connection with the action. 
+
+
+(c) The plaintiff in an action under this section has the burden of proving by clear and convincing evidence that the plaintiff was depicted in fabricated media in the campaign communication that is the subject of the action. 
+
+
+(d) A court shall expedite the hearing of an action brought under this section. 
+
+
+SECTION 2. An emergency is declared for this act.

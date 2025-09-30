@@ -1,0 +1,253 @@
+ SEC. 2. COVERAGE AND PAYMENT FOR CERTAIN TESTS AND ASSISTIVE TELEHEALTH CONSULTATIONS; DEMONSTRATION PROGRAM UNDER CERTAIN STATE MEDICAID PROGRAMS.
+
+
+(a) Tests And Assistive Telehealth Consultations Demonstration.—Part C of title XVIII of the Social Security Act is amended by inserting after section 1859 (42 U.S.C. 1395w–28) the following new subsection:
+
+
+“SEC. 1859A. TESTS AND ASSISTIVE TELEHEALTH CONSULTATIONS DEMONSTRATION.
+
+ “(a) Establishment.—
+
+
+“(1) IN GENERAL.—The Secretary shall establish a Value-Based Insurance Design Model demonstration program (in this section referred to as the ‘VBID demonstration program’) to provide to eligible Medicare beneficiaries—
+
+
+“(A) an assistive telehealth consultation that is furnished via a telecommunications system by a physician or practitioner to an eligible telehealth individual enrolled under part B notwithstanding that the individual physician or practitioner ordering the test did not furnish the test or that the individual physician or practitioner providing the assistive telehealth consultation is not at the same location as the beneficiary; and
+
+
+“(B) home and community-based care.
+
+
+“(2) AGREEMENTS.—The Secretary shall enter into agreements with eligible MA organizations under which such organizations shall offer eligible MA plans under the VBID demonstration program to eligible Medicare beneficiaries.
+
+
+“(3) LIMITATIONS ON NUMBER OF PLANS FOR VBID DEMONSTRATION PROGRAM.—The VBID demonstration program shall be carried out with respect to not greater than 25 MA plans, with a minimum of 10 MA plans that serve rural or underserved areas.
+
+
+“(4) ELIGIBLE MA PLANS DEFINED.—For purposes of this section, the term ‘eligible MA plan’ means a plan that, in addition to items and services for which coverage is otherwise provided under this part (including benefits under section 1852(a)(3) and notwithstanding any waivers under section 1915(c)), provides for coverage of—
+
+
+“(A) tests that are medical devices (as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act or wearable patient monitoring device, including adaptive artificial intelligence, machine learning, and software as a medical device (SaMD) technologies that operate to the full scope of medical purpose defined by the Administrator of the Food and Drug Administration) and are identified by the Secretary as having appropriate at home use that is approved under section 505 of the Federal Food, Drug, and Cosmetic Act, and are either—
+
+
+“(i) a diagnostic test or screening for the diagnosis of influenza or a similar respiratory condition that is required to obtain a final diagnosis of COVID–19 for an individual when such test is ordered by a physician or practitioner in conjunction with a COVID–19 diagnostic test or screening for purposes of discounting a diagnosis of influenza or a related diagnosis for such individual;
+
+
+“(ii) a serology test for COVID–19;
+
+
+“(iii) a diagnostic test or screening for the diagnosis of prostate cancer, ovarian cancer, breast cancer, hypothyroidism, rheumatoid arthritis, celiac disease, vascular inflammation, cardiovascular health, strep throat, or lipoprotein (A);
+
+
+“(iv) a haptoglobin genetic test;
+
+
+“(v) a prediabetes and diabetes screening;
+
+
+“(vi) an IgE allergy test;
+
+
+“(vii) a screening or diagnostic capsule endoscopy; or
+
+
+“(viii) any other test identified by the Secretary, including those proposed by the MA organization, as having appropriate for at-home use that is approved under section 505 of the Federal Food, Drug, and Cosmetic Act;
+
+
+“(B) assistive telehealth consultations;
+
+
+“(C) telehealth services;
+
+
+“(D) fitness benefits;
+
+
+“(E) meal benefits (beyond limited basis);
+
+
+“(F) transportation services;
+
+
+“(G) safety and other equipment not otherwise covered under this title; and
+
+
+“(H) care in rural or highly rural areas (as determined in consultation with the Secretary of Agriculture using the Rural-Urban Commuting Areas coding system).
+
+
+“(5) OTHER MATTERS RELATING TO DOCUMENTATION AND CLAIMS REVIEW.—The requirements of paragraphs (2) and (3) of section 410.32(d) of title 42, Code of Federal Regulations (as in effect on the date of the enactment of this paragraph), relating to documentation and claims review, respectively, shall apply to a test described in paragraph (4)(A) and an assistive telehealth consultation.
+
+
+“(6) DEMOGRAPHIC DATA.—To be eligible for reimbursement under this paragraph, each claim for reimbursement shall include, with respect to each eligible Medicare beneficiary, the following demographic data:
+
+
+“(A) Age.
+
+
+“(B) Race and ethnicity.
+
+
+“(C) Gender.
+
+
+“(D) An affirmative or negative statement of the existence of any chronic condition.
+
+
+“(E) Any other information the Secretary determines appropriate.
+
+
+“(7) ASSISTIVE TELEHEALTH CONSULTATION.—In this subsection, the term ‘assistive telehealth consultation’ means a telehealth service (as defined in section 1834(m)(4)(F)) that is—
+
+
+“(A) an evaluation and management service;
+
+
+“(B) an assessment of any evidence of systems which would make a diagnostic test or screening necessary to be furnished in the home of an eligible telehealth individual;
+
+
+“(C) the ordering of a diagnostic test or screening;
+
+
+“(D) an assessment of an individual succeeding the delivery of a diagnostic test or screening;
+
+
+“(E) any assistance in the collection (or transmission) of images or data necessary for a diagnostic test or screening and securing the sample for shipping;
+
+
+“(F) the referral of an eligible telehealth individual to a physician or practitioner for in-person treatment; or
+
+
+“(G) the review of a diagnostic test or screening by a physician or practitioner.
+
+ “(b) Eligible MA Organizations.—For purposes of this section, the term ‘eligible MA organization’ means an MA organization that—
+
+
+“(1) is located in a State that the Secretary has determined is able to participate in the VBID demonstration program by agreeing to make available data necessary for purposes of conducting the independent evaluation required under subsection (h); and
+
+
+“(2) meets such other criteria as the Secretary may require.
+
+ “(c) Eligible Medicare Beneficiary Defined.—In this section, the term ‘eligible Medicare beneficiary’ means a Medicare beneficiary who—
+
+
+“(1) is eligible for benefits under this title and—
+
+
+“(A) is eligible to enroll in an eligible MA plan under the VBID demonstration program;
+
+
+“(B) is a subsidy-eligible individual (as defined in section 1860D–14(a)(3)(A)); and
+
+
+“(C) is age 65 or older; or
+
+
+“(2) is a dual eligible individual (as defined in section 1915(h)(2)(B)) or qualified medicare beneficiary (as defined in section 1905(p)(1)) who is eligible for medical assistance under a State plan under title XIX.
+
+ “(d) Payments.—The Secretary shall establish payment rates for eligible MA organizations offering eligible MA plans under the VBID demonstration program for benefits covered under such program (and not otherwise covered under part C) and provided to eligible Medicare beneficiaries under such plans. Such payment rates shall—
+
+
+“(1) be based upon payment rates established for purposes of payment under section 1853;
+
+
+“(2) be in addition to payments otherwise made to such organization with respect to such plans under part C;
+
+
+“(3) be adjusted to reflect the costs of treating eligible Medicare beneficiaries under this section; and
+
+
+“(4) not be made for a test via a telecommunications system described in subsection (a)(4), unless the physician or practitioner determines such a test is medically necessary and appropriate (as determined by the Secretary).
+
+ “(e) Special Election Period.—Notwithstanding sections 1852(e)(2)(C) and 1860D–1(b)(1)(B)(iii), an eligible Medicare beneficiary may, other than during the annual, coordinated election periods under such sections discontinue enrollment in an MA plan not participating in the VBID demonstration program and enroll in an MA plan participating in such program.
+
+
+“(f) Beneficiary Education.—The Secretary shall help to educate, through State Health Insurance Assistance Programs and other organizations that assist seniors with respect to benefits and enrollment under this title, eligible Medicare beneficiaries on the availability of the VBID demonstration program.
+
+ “(g) Implementation.—
+
+
+“(1) DEADLINE.—The VBID demonstration program shall be implemented not later than January 1 of the second year beginning after the date of the enactment of this section.
+
+
+“(2) DURATION.—Subject to paragraph (3), the VBID demonstration program shall be conducted for a period of five years.
+
+
+“(3) EXTENSION OR EXPANSION.—Taking into account the report under subsection (h)(2), the Secretary may, through notice and comment rulemaking, expand the duration, scope, or both the duration and scope of the VBID demonstration program (including implementation on a nationwide or permanent basis or both), other than under the original Medicare fee-for-service program under parts A and B of such title, to the extent determined appropriate by the Secretary, unless the Secretary determines that such expansion is expected to—
+
+
+“(A) increase aggregate expenditures under this title and title XIX with respect to eligible Medicare beneficiaries participating in the VBID demonstration program; or
+
+
+“(B) decrease the quality of health care services furnished to eligible Medicare beneficiaries participating in the VBID demonstration program.
+
+ “(h) Independent Evaluation And Reports.—
+
+
+“(1) INDEPENDENT EVALUATION.—
+
+
+“(A) IN GENERAL.—The Secretary shall provide for the evaluation of the VBID demonstration program by an independent third party.
+
+
+“(B) EVALUATION OBJECTIVES.—Such evaluation shall determine the extent to which the VBID demonstration program has resulted in—
+
+
+“(i) improved patient care;
+
+
+“(ii) reduced hospitalizations or rehospitalizations;
+
+
+“(iii) reduced or delayed nursing facility admissions and lengths of stay under title XIX;
+
+
+“(iv) reduced spend down of income and assets for purposes of becoming eligible for medical assistance under a State plan under title XIX;
+
+
+“(v) improved quality of life for the eligible Medicare beneficiaries enrolled in an eligible MA plan participating in the VBID demonstration program;
+
+
+“(vi) improved caregiver satisfaction; and
+
+
+“(vii) addressing disparities and access for underserved populations.
+
+
+“(C) EVALUATION PROCESS.—Such evaluation shall be completed in accordance with the following process:
+
+
+“(i) The Secretary shall, prior to the implementation of such program, establish goals for such program with respect to the evaluation objectives described in subparagraph (B) and criteria for measuring the extent to which an eligible MA plan participating in the VBID demonstration program meets such goals.
+
+
+“(ii) The Secretary shall implement clear data collection and reporting requirements for such eligible MA plans in order to carry out such evaluation.
+
+
+In carrying out such process, the Secretary shall recognize that definitions, benefits, and program requirements for long-term care services and supports vary across States.
+
+
+“(2) REPORTS.—Not later than four years after the implementation of the VBID demonstration program, the Secretary shall submit to Congress a report containing the results of the evaluation conducted under paragraph (1), together with such recommendations for legislative or administrative action as the Secretary determines appropriate. In preparing such report, the Secretary shall use at least three years worth of data under the VBID demonstration program.
+
+ “(i) Budget Neutrality.—For any year after the third year of the VBID demonstration program, the Secretary shall ensure that the aggregate payments made under this title and title XIX, including under the VBID demonstration program, do not exceed the amount which the Secretary estimates would have been expended under such titles during such year if the VBID demonstration program had not been implemented.
+
+
+“(j) Paperwork Reduction Act.—Chapter 35 of title 44, United States Code, shall not apply to the testing and evaluation of the VBID demonstration program.”.
+
+ (b) Demonstration Program Under Certain State Medicaid Programs.—
+
+
+(1) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, subject to paragraph (3), the Secretary of Health and Human Services, acting through the Deputy Administrator and Director of the Center for Medicare and Medicaid Innovation of the Centers for Medicare & Medicaid Services, shall administer a program that awards grants to at least 5, but not more than 10 States or territories for purposes of the State Medicaid program to provide coverage to individuals entitled to benefits under the State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) for tests described in section 1859A(a)(4) of such Act that are ordered and assistive telehealth consultations that are furnished via a telecommunications system by a physician or practitioner to such individuals notwithstanding that the individual physician or practitioner ordering the test did not furnish the test or that the individual physician or practitioner providing the assistive telehealth consultation is not at the same location as the individuals.
+
+
+(2) APPLICATIONS.—To be eligible to receive a grant under this subsection, a State shall submit an application to the Secretary in such manner, and containing such information as the Secretary may require.
+
+
+(3) DURATION; AMOUNT.—
+
+
+(A) DURATION.—A grant under this subsection shall be for a 4-year period.
+
+
+(B) AMOUNT.—A State that is awarded a grant under this subsection shall be for an amount not to exceed $12,000,000.
+
+
+(4) FUNDING.—The Secretary, acting through the Deputy Administrator and Director, shall provide for not more than $100,000,000 to carry out the program described in paragraph (1) from amounts otherwise appropriated pursuant to section 1115A(f) of the Social Security Act (42 U.S.C. 1315a(f)).

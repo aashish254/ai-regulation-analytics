@@ -1,0 +1,158 @@
+SECTION 1. Short title.
+
+This Act may be cited as the “China Technology Transfer Control Act of 2025”.
+
+SEC. 2. Definitions.
+
+In this Act:
+
+(1) CHINESE PERSON.—The term “Chinese person” means—
+
+(A) an individual who is a citizen or national of the People's Republic of China; or
+
+(B) an entity organized under the laws of the People's Republic of China or otherwise subject to the jurisdiction of the Government of the People's Republic of China.
+
+(2) COVERED NATIONAL INTEREST TECHNOLOGY OR INTELLECTUAL PROPERTY.—The term “covered national interest technology or intellectual property” includes the following:
+
+(A) Technology or intellectual property that would make a significant contribution to the military potential of the People’s Republic of China that would prove detrimental to the national security of the United States.
+
+(B) Technology or intellectual property that is a component of the production of products included in the most recent list required under section 183 of the Trade Act of 1974, as added by section 6(a), determined in consultation with the United States Trade Representative.
+
+(C) Technology used by the Government of the People's Republic of China to carry out violations of human rights or religious liberties.
+
+(3) FOREIGN PERSON.—The term “foreign person” means any person that is not a United States person.
+
+(4) KNOWINGLY.—The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+(5) INTELLECTUAL PROPERTY.—The term “intellectual property” means—
+
+(A) any work protected by a copyright under title 17, United States Code;
+
+(B) any property protected by a patent granted by the United States Patent and Trademark Office under title 35, United States Code;
+
+(C) any word, name, symbol, or device, or any combination thereof, that is registered as a trademark with the United States Patent and Trademark Office under the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (commonly known as the “Lanham Act” or the “Trademark Act of 1946”) (15 U.S.C. 1051 et seq.);
+
+(D) a trade secret (as defined in section 1839 of title 18, United States Code); or
+
+(E) any other form of intellectual property.
+
+(6) TECHNOLOGY.—The term “technology” includes goods or services relating to information systems, internet-based services, production-enhancing logistics, robotics, artificial intelligence, biotechnology, or computing.
+
+(7) UNITED STATES PERSON.—The term “United States person” means—
+
+(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+(B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+
+SEC. 3. Sense of Congress.
+
+It is the sense of Congress that—
+
+(1) while the United States is committed to promoting cultural and technological exchange with other countries, it is our responsibility to protect the United States when channels for such exchange are exploited by adversaries; and
+
+(2) the People's Republic of China consistently seeks to exploit those channels, not only in its theft of intellectual property but also in its manipulation of lawful transfer and uses of technology in ways that directly support its military objectives and threaten the United States.
+
+SEC. 4. Control of export of covered national interest technology and Intellectual property to People's Republic of China.
+
+(a) In general.—On and after the date that is 180 days after the date of the enactment of this Act, the President shall control the export or re-export to, or transfer in, the People's Republic of China of any covered national interest technology or intellectual property subject to the jurisdiction of the United States or exported by any United States person.
+
+(b) Report required.—Not later than 90 days after the date of the enactment of this Act, the Secretary of State and the Secretary of Commerce shall jointly submit to Congress a report assessing whether covered national interest technology or intellectual property should be controlled as required by subsection (a) under—
+
+(1) the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations; or
+
+(2) the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
+
+(c) Regulations.—Not later than 180 days after the date of the enactment of this Act, the President shall prescribe such regulations as are necessary to carry out subsection (a).
+
+SEC. 5. Imposition of sanctions with respect to provision to or purchase from People's Republic of China of covered national interest technology and intellectual property.
+
+(a) In general.—The President shall, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests in property of a person described in subsection (b) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+(b) Persons described.—A person described in this subsection is—
+
+(1) a foreign person that, on or after the date of the enactment of this Act, knowingly sells or otherwise provides to, or knowingly purchases from, the People's Republic of China any covered national interest technology or intellectual property subject to the jurisdiction of the United States; or
+
+(2) a Chinese person that, on or after such date of enactment, knowingly uses covered national interest technology or intellectual property provided to the Chinese person in violation of section 4 or any other export control law of the United States.
+
+(c) Exception relating to importation of goods.—
+
+(1) IN GENERAL.—The requirement to block and prohibit all transactions in all property and interests in property under subsection (a) shall not include the authority to impose sanctions on the importation of goods.
+
+(2) GOOD DEFINED.—In this subsection, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+
+(d) Waiver.—The President may waive the imposition of sanctions under subsection (a) with respect to a person if the President determines and reports to Congress that the waiver is in the national security interests of the United States.
+
+(e) Implementation; penalties.—
+
+(1) IMPLEMENTATION.—The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+
+(2) PENALTIES.—A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out that subsection shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+(3) INAPPLICABILITY OF NATIONAL EMERGENCY REQUIREMENT.—The requirements of section 202 of the International Emergency Economic Powers Act (50 U.S.C. 1701) shall not apply for purposes of this section.
+
+SEC. 6. Establishment of list of certain products receiving support from Government of People's Republic of China or used by that government for human rights violations.
+
+(a) In general.—Chapter 8 of title I of the Trade Act of 1974 (19 U.S.C. 2241 et seq.) is amended by adding at the end the following:
+
+“SEC. 183. List of certain products receiving support from Government of People's Republic of China or used by that Government for human rights violations.
+
+“(a) In general.—Not later than 120 days after the date of the enactment of the China Technology Transfer Control Act of 2025, and annually thereafter, the United States Trade Representative shall set forth a list of products manufactured or produced in, or exported from, the People's Republic of China that are determined by—
+
+“(1) the Trade Representative—
+
+“(A) to receive support from the Government of the People's Republic of China pursuant to the Made in China 2025 Industrial policy of that Government; or
+
+“(B) to otherwise receive support from that Government and that have or will in the future displace net exports of like products by the United States; or
+
+“(2) the Secretary of State to be used by the Government of the People's Republic of China to carry out violations of human rights or religious liberties.
+
+“(b) Identification of Products Receiving Support Pursuant to Made In China 2025 Policy.—
+
+“(1) IN GENERAL.—The Trade Representative shall include in the list under subsection (a)(1)(A) any product specified in the following documents set forth by the Government of the People's Republic of China:
+
+“(A) Notice on Issuing Made in China 2025.
+
+“(B) China Manufacturing 2025.
+
+“(C) Notice on Issuing the 13th Five-year National Strategic Emerging Industries Development Plan.
+
+“(D) Guiding Opinion on Promoting International Industrial Capacity and Equipment Manufacturing Cooperation.
+
+“(E) Any other document that expresses a national strategy or stated goal in connection with the Made in China 2025 industrial policy set forth by the Government of the People's Republic of China, the Communist Party of China, or another entity or individual capable of impacting the national strategy of the People's Republic of China.
+
+“(2) INCLUDED PRODUCTS.—In addition to such products as the Trade Representative shall include pursuant to paragraph (1) in the list under subsection (a)(1)(A), the Trade Representative shall include products in the following industries:
+
+“(A) Civil aircraft.
+
+“(B) Turbine engines.
+
+“(C) Motor car and vehicle.
+
+“(D) Advanced medical equipment.
+
+“(E) Advanced construction equipment.
+
+“(F) Agricultural machinery.
+
+“(G) Railway equipment.
+
+“(H) Diesel locomotive.
+
+“(I) Moving freight.
+
+“(J) Semiconductor.
+
+“(K) Lithium battery manufacturing.
+
+“(L) Artificial intelligence.
+
+“(M) High-capacity computing.
+
+“(N) Quantum computing.
+
+“(O) Robotics.
+
+“(P) Biotechnology.”.
+
+(b) Clerical amendment.—The table of contents for the Trade Act of 1974 is amended by inserting after the item relating to section 182 the following:
+“Sec. 183. List of certain products receiving support from Government of People's Republic of China or used by that Government for human rights violations.”.

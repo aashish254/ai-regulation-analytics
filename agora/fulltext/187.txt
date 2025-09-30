@@ -1,0 +1,12 @@
+SEC. 350. STRATEGY AND ASSESSMENT ON USE OF AUTOMATION AND ARTIFICIAL INTELLIGENCE FOR SHIPYARD OPTIMIZATION.
+
+(a) Strategy.--The Secretary of the Navy, in coordination with the Shipyard Infrastructure Optimization Program of the Department of the Navy, shall develop and implement a strategy to leverage commercial best practices used in shipyards to improve the efficiency of operations and to demonstrate a digital platform that uses artificial intelligence to analyze data on the maintenance and condition of shipboard assets of the Navy at shipyards, for the purpose of improving the readiness of the Armed Forces, predicting and diagnosing issues prior to the occurrence of such issues, and lowering maintenance costs.
+(b) Assessment.--The Secretary of the Navy shall conduct an assessment of the costs of maintenance delays on shipboard assets of the Navy and the potential cost savings of adopting artificial intelligence predictive maintenance technologies to assist in the determination of the condition of in-service equipment and estimate when maintenance should be performed prior to failure or end of life of such equipment. Such assessment shall include--
+	(1) an analysis of maintenance delays and costs due to unplanned and unpredicted maintenance issues;
+	(2) an evaluation of opportunities to demonstrate commercial best practices at shipyards, including the demonstration of artificial intelligence technologies to ensure timely predictions for individuals responsible for maintenance and planning at shipyards by connecting datasets, executing models, and providing outputs in near real-time;
+	(3) an identification of shipyard assets of the Navy with sufficient data available to enable near-term demonstrations of artificial intelligence predictive maintenance technologies, and an estimate of resources needed within the Navy to accelerate such demonstrations with respect to such assets; and
+	(4) an identification of any policy or technical challenges to implementing artificial intelligence or machine learning for purposes of carrying out the Shipyard Infrastructure Optimization Program of the Department of the Navy.
+(c) Briefing.--Not later than 180 days after the date of the enactment of this Act, the Secretary of the Navy shall provide to the congressional defense committees a briefing on--
+	(1) the strategy under subsection (a);
+	(2) the results of the assessment under subsection (b); and
+	(3) a plan to execute any measures pursuant to such assessment.

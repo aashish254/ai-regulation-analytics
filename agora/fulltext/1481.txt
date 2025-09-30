@@ -1,0 +1,41 @@
+A BILL to amend the Code of West Virginia, 1931, as amended, by adding thereto a new section, designated §17-2A-25, relating to creation of the "Road Optimization and Assessment Data Road Pilot Program"; legislative findings and purpose; Commissioner of Highways to promulgate rules; and specifics to be contained in rules to determine how best to maintain roads and highways.
+
+Be it enacted by the Legislature of West Virginia:
+
+ 
+
+ARTICLE 2A. WEST VIRGINIA COMMISSIONER OF HIGHWAYS.
+§17-2A-25. Road optimization and assessment data road pilot program; legislative findings and purposes.
+(a) The Legislature hereby finds and declares that:
+
+(1) Properly maintained roads and highways are important to the economic and industrial growth and development and well-being of the state and to the health, education, welfare, and prosperity of its citizens;
+
+(2) Roads and highways of the state that are not well maintained because of potholes, patching, cracking, road shoulder issues, canopy brush, and drainage issues, do not contribute to the health, education, welfare, and prosperity of its citizens of this state;
+
+(3) Data has been collected from the West Virginia Division of Highways containing an overall assessment and evaluation of the issues stated in subdivision of this section;
+
+(4) The purpose of this section is to create a pilot program to study alternative methods of assessing the conditions of the roads and highways and methods of financing road and highway maintenance with respect to the issues stated in this section.
+
+(b) The Legislature declares that a pilot program designated the "Road Optimization and Assessment Data Road Pilot Program" is hereby created.
+
+(c) The Commissioner of Highways shall promulgate rules for legislative approval in accordance with §29A-3-1 et seq. of this code concerning the collection of data and the overall assessment of the conditions of the roads and highways of the state and the repairs and maintenance required to develop the pilot program.  The rules shall also include that the pilot program:
+
+(1) Use Machine Learning (ML) and Artificial Intelligence (AI) to assess the roads.
+(2) Have a combination of urban and rural roads, using Monongalia and Preston Counties as a test bed.
+
+(3) Use existing assessments in the pilot counties to begin to teach the program.
+
+(4) Require the Division of Highways to have employees drive all of the roads in Monongalia and Preston Counties to capture the data.
+
+(5) Use of GPS positioning and Geotagged positioning including high accuracy precision GPS to indicate road geometry and curvature.
+
+(6) Use Laser measuring systems (including video) that are capable of longitudinal profiling, identifying and measuring cracks, pavement distress, including potholes, patching, cracking, road shoulder issues, canopy brush, and drainage issues.
+(7) Use videos of the roads allowing pavement distress for imagery as well as canopy brush, drainage documentation and the use of a Reflectometer system to check the reflectivity of  painted lines.
+
+(8) Require post data capture processing to create a baseline for road condition assessment based on Division of Highways standards and the ASTM D6433-11 Standard Practice for Roads and Parking Lots Pavement Condition Index Surveys.
+
+(9) Require that the pilot program data capturing and processing twice per year (spring and fall) for three years.  The data shall also compare the changes in road conditions such as deterioration of roads from previous condition, average daily traffic, heavy truck traffic if information is available.
+
+(10) Require that ultimately the data gathered be used to render a predictive analysis of roads and highways that results in preventive maintenance for the roads and highways, rather than reactive maintenance.
+
+ 

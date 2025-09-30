@@ -1,0 +1,63 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Atomic Supply Chain Solutions Act”.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) The United States remains an esteemed global leader in the area of nuclear safety.
+(2) The strength of the nuclear supply chain of the United States is directly tied to the growth of the nuclear energy sector.SEC. 3. NUCLEAR SUPPLY CHAIN EVALUATION.
+(a) In General.—Not later than 270 days after the date of enactment of this Act, the Secretary of Energy shall develop and submit to the appropriate congressional committees an evaluation of the nuclear supply chain of the United States.
+(b) Contents.—
+(1) BUILDING UP AT THE RIGHT TIME.—The evaluation developed and submitted under subsection (a) shall include a general description of—
+(A) past efforts within the nuclear supply chain of the United States to meet increased demand;
+(B) the importance of proactively bolstering the nuclear supply chain of the United States in order to meet future demand for nuclear energy; and
+(C) lessons learned from the construction of Vogtle 3 and 4 in Georgia, including an analysis of how the nuclear supply chain of the United States operated during such construction and any improvements that could be made to assist with future nuclear construction projects, including workforce and supply chain considerations.
+(2) COMPONENT REGULATORY CHALLENGES.—The evaluation developed and submitted under subsection (a) shall include—
+(A) an analysis of whether the requirement for an N–stamp is appropriate and necessary, as determined through the use of probabilistic methodology or other similar methods, for certain nuclear components and materials (selected by the Secretary of Energy) that currently require an N–stamp;
+(B) a general analysis of the costs associated with regulatory requirements relating to—
+(i) safety-related nuclear components and materials that receive appropriate ASME certification;
+(ii) safety-related nuclear components and materials that do not receive appropriate ASME certification but instead receive acceptance by the Nuclear Regulatory Commission through commercial grade dedication; and
+(iii) nonsafety-related nuclear components and materials that do not have to obtain a relevant quality assurance requirement;
+(C) identification of potential ways to streamline the acquisition and maintenance of N–stamps and other similar certifications for entities that already have obtained such N–stamps or other similar certifications; and
+(D) an analysis of N–stamps being effective for a total of a period of 3 years, whether such period could be increased, and what impact such an increase would have on safety and the cost associated with obtaining an N–stamp.
+(3) ADVANCED MANUFACTURING AND INNOVATIVE TECHNOLOGIES.—
+(A) IN GENERAL.—The evaluation developed and submitted under subsection (a) may include an analysis of potential uses and benefits that advanced manufacturing and innovative technologies, such as 3D printing, advanced modeling and simulation, augmented reality training, artificial intelligence, robotics, and drones, can provide to the nuclear supply chain of the United States, if the Secretary determines such analysis to be pertinent.
+(B) INCLUSIONS.—The analysis under subparagraph (A) may include a general description of—
+(i) the current status of innovative technologies described in such subparagraph with respect to the use of such technologies within the nuclear supply chain of the United States;
+(ii) potential uses for such technologies within the nuclear supply chain of the United States, including use for—
+(I) reducing cybersecurity vulnerabilities;
+(II) maximizing the efficiency and effectiveness of transporting nuclear components and materials;
+(III) examining the technology readiness of individual components, including structural and thermal analysis;
+(IV) predicting maintenance schedules and subsequent costs;
+(V) training nuclear supply chain workforce participants;
+(VI) identifying counterfeit nuclear components and materials; and
+(VII) any other use that may be relevant;
+(iii) economic considerations associated with such technologies; and
+(iv) potential challenges associated with such technologies, including potential regulatory challenges with respect to the use of such technologies within the nuclear supply chain of the United States.
+(4) ALLIED COOPERATION.—The evaluation developed and submitted under subsection (a) shall include a general description of—
+(A) the relationship between the United States and Canada with respect to nuclear components and materials, including recommendations on bolstering nuclear-related collaboration with Canada to extend North American civil nuclear energy leadership around the world; and
+(B) whether certain nuclear components and materials that are manufactured in the United States, as selected by the Secretary of Energy, are cost competitive with similar nuclear components and materials that are manufactured internationally.
+(5) ADVANCED NUCLEAR DEMAND.—The evaluation developed and submitted under subsection (a) shall include a description of how advanced nuclear technology, including the anticipated increased demand for advanced nuclear technology, will impact the existing nuclear supply chain of the United States, and recommendations for increasing the resiliency of the nuclear supply chain of the United States to prepare for such increased demand.SEC. 4. STATEMENT OF POLICY ON HALEU.
+It is the policy of the United States to prioritize establishing a robust, diversified domestic high-assay, low enriched uranium (HALEU) market that will ultimately strengthen the energy independence and national security of the United States while reducing procurement and national security risks associated with HALEU, especially with the anticipated increased demand for advanced nuclear technology.SEC. 5. DEFINITIONS.
+In this Act:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+(A) the Committee on Energy and Commerce of the House of Representatives; and
+(B) the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate.
+(2) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(3) ASME.—The term “ASME” means the American Society for Mechanical Engineers.
+(4) N–STAMP.—The term “N–stamp” means the ASME Nuclear Certification.
+(5) NUCLEAR COMPONENTS AND MATERIALS.—The term “nuclear components and materials” includes—
+(A) reactor pressure vessels;
+(B) thermocouples;
+(C) heat exchangers;
+(D) pumps;
+(E) sensors;
+(F) piping;
+(G) castings;
+(H) structural steel;
+(I) concrete;
+(J) cabling;
+(K) nuclear grade graphite;
+(L) helium;
+(M) sodium;
+(N) molten salts;
+(O) beryllium; and
+(P) any other component or material determined appropriate by the Secretary of Energy.

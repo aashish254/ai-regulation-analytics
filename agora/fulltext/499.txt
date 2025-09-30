@@ -1,0 +1,176 @@
+ H. R. 2993
+
+
+To counter the military-civil fusion strategy of the Chinese Communist Party and prevent United States contributions to the development of dual-use technology in China.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+April 28, 2023
+
+
+Mr. Banks introduced the following bill; which was referred to the Committee on Armed Services, and in addition to the Committees on Science, Space, and Technology, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To counter the military-civil fusion strategy of the Chinese Communist Party and prevent United States contributions to the development of dual-use technology in China.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Preventing PLA Acquisition of United States Technology Act of 2023”.
+
+
+ SEC. 2. COUNTERING THE MILITARY-CIVIL FUSION STRATEGY OF THE CHINESE COMMUNIST PARTY.
+
+
+(a) Definitions.—In this section:
+
+
+(1) CHINESE ENTITY OF CONCERN.—The term “Chinese entity of concern” means—
+
+
+(A) any college or university in the People's Republic of China that is determined by the Secretary of Defense to be involved in the implementation of the military-civil fusion strategy, including—
+
+
+(i) any college or university known as the “Seven Sons of National Defense”;
+
+
+(ii) any college or university that receives funding from—
+
+
+(I) the People's Liberation Army; or
+
+
+(II) the Equipment Development Department, or the Science and Technology Commission, of the Central Military Commission;
+
+
+(iii) any college or university in the People's Republic of China involved in military training and education, including any such college or university in partnership with the People's Liberation Army;
+
+
+(iv) any college or university in the People's Republic of China that conducts military research or hosts dedicated military initiatives or laboratories, including such a college or university designated under the “double first-class university plan”;
+
+
+(v) any college or university in the People's Republic of China that is designated by the State Administration for Science, Technology, and Industry for the National Defense to host “joint construction” programs;
+
+
+(vi) any college or university in the People's Republic of China that has launched a platform for military-civil fusion or created national defense laboratories; and
+
+
+(vii) any college or university in the People’s Republic of China that conducts research or hosts dedicated initiatives or laboratories for any other related security entity beyond the People’s Liberation Army, including the People’s Armed Police, the Ministry of Public Security, and the Ministry of State Security;
+
+
+(B) any enterprise for which the majority shareholder or ultimate parent entity is the Government of the People’s Republic of China at any level of that government;
+
+
+(C) any privately owned company in the People's Republic of China—
+
+
+(i) that has received a military production license, such as the Weapons and Equipment Research and Production Certificate, the Equipment Manufacturing Unit Qualification, the Weapons and Equipment Quality Management System Certificate, or the Weapons and Equipment Research and Production Unit Classified Qualification Permit;
+
+
+(ii) that is otherwise known to have set up mechanisms for engaging in activity in support of military initiatives;
+
+
+(iii) that has a history of subcontracting for the People's Liberation Army or its affiliates;
+
+
+(iv) that is participating in, or receiving benefits under, a military-civil fusion demonstration base; or
+
+
+(v) that has an owner, director, or a senior management official who has served as a delegate to the National People’s Congress, a member of the Chinese People’s Political Consultative Conference, or a member of the Central Committee of the Chinese Communist Party; and
+
+
+(D) any entity that—
+
+
+(i) is identified by the Secretary of Defense under section 1260H(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note) as a Chinese military company; and
+
+
+(ii) is included in the Non-SDN Chinese Military-Industrial Complex Companies List published by the Department of the Treasury.
+
+
+(2) COVERED ENTITY.—The term “covered entity” means—
+
+
+(A) any Federal agency that engages in research or provides funding for research, including the National Science Foundation and the National Institutes of Health;
+
+
+(B) any institution of higher education, or any other private research institution, that receives any Federal financial assistance; and
+
+
+(C) any private company headquartered in the United States that receives Federal financial assistance.
+
+
+(3) FEDERAL FINANCIAL ASSISTANCE.—The term “Federal financial assistance” has the meaning given the term in section 200.1 of title 2, Code of Federal Regulations (or successor regulations).
+
+
+(4) MILITARY-CIVIL FUSION STRATEGY.—The term “military-civil fusion strategy” means the strategy of the Chinese Communist Party aiming to mobilize non-military resources and expertise for military application, including the development of technology, improvements in logistics, and other uses by the People’s Liberation Army.
+
+
+ (b) Prohibitions.—
+
+
+(1) IN GENERAL.—No covered entity may engage with a Chinese entity of concern in any scientific research or technical exchange that has a direct bearing on, or the potential for dual use in, the development of technologies that the Chinese Communist Party has identified as a priority of its national strategy of military-civil fusion and that are listed on the website under subsection (c)(1)(A).
+
+
+(2) PRIVATE PARTNERSHIPS.—No covered entity described in subsection (a)(2)(C) may form a partnership or joint venture with another such covered entity for the purpose of engaging in any scientific research or technical exchange described in paragraph (1).
+
+
+ (c) Website.—
+
+
+(1) IN GENERAL.—The Secretary of Defense, in consultation with the Secretary of State, the Director of National Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Energy, the Secretary of Education, the Secretary of the Treasury, and the Secretary of Commerce, shall establish, and periodically update not less than twice a year, a website that includes—
+
+
+(A) a list of the specific areas of scientific research or technical exchange for which the prohibitions under subsection (b) apply, which shall initially include some or all aspects of the fields of quantum computing, photonics and lasers, robotics, big data analytics, semiconductors, new and advanced materials, biotechnology (including synthetic biology and genetic engineering), 5G and all future generations of telecommunications, advanced nuclear technology (including nuclear power and energy storage), aerospace technology, and artificial intelligence; and
+
+
+(B) to the extent practicable, a list of all Chinese entities of concern.
+
+
+(2) LIST OF SPECIFIC AREAS.—In developing the list under paragraph (1)(A), the Secretary of Defense shall monitor and consider the fields identified by the State Administration for Science, Technology, and Industry for the National Defense of the People's Republic of China as defense-relevant and consider, including the more than 280 fields of study designated as of the date of enactment of this Act, and any others designated thereafter, as disciplines with national defense characteristics that have the potential to support military-civil fusion.
+
+
+(3) RESOURCES.—In establishing the website under paragraph (1), the Secretary of Defense may use as a model any existing resources, such as the China Defense Universities Tracker maintained by the Australian Strategic Policy Institute, subject to any other laws applicable to such resources.
+
+
+ (d) Exception.—The prohibitions under subsection (b) shall not apply to any collaborative study or research project in fields involving information that would not contribute substantially to the goals of the military‑civil fusion strategy, as determined by regulations issued by the Secretary of Defense.
+
+
+ (e) Annual Reporting Requirements.—
+
+
+(1) IN GENERAL.—Not later than 180 days after the date of enactment of this Act, and December 31 of each year thereafter, each covered entity shall submit to the Secretary of Defense a report that discloses—
+
+
+(A) any research relationships the covered entity has with a Chinese entity of concern or has had during the previous year;
+
+
+(B) any research relationships the covered entity has considered with a Chinese entity of concern during the previous year and declined; and
+
+
+(C) any research relationships the covered entity has terminated with a Chinese entity of concern during the previous year because the relationship violates subsection (b) or as a result of related concerns.
+
+
+(2) AUDIT.—The Secretary of Defense may enter into a contract with an independent entity to conduct an audit of any report submitted under paragraph (1) to ensure compliance with the requirements of such paragraph.
+
+
+ (f) Enforcement.—
+
+
+(1) IN GENERAL.—Notwithstanding any other provision of law, a covered entity described in subparagraph (B) or (C) of subsection (a)(2) that violates a prohibition under subsection (b), or violates subsection (e), on or after the date of enactment of this Act shall be precluded from receiving any Federal financial assistance on or after the date of such violation.
+
+
+(2) REGULATIONS.—The Secretary of Defense, in consultation with the Secretary of State, the Director of National Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Energy, the Secretary of Education, the Secretary of the Treasury, and the Secretary of Commerce, shall—
+
+
+(A) promulgate regulations to enforce the prohibitions under subsection (b), the auditing requirements under subsection (e), and the requirement under paragraph (1); and
+
+
+(B) coordinate with the heads of other Federal agencies to ensure the enforcement of such prohibitions and requirements.

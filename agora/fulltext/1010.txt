@@ -1,0 +1,140 @@
+Chapter 3-performance Accountability
+SEC. 119. PERFORMANCE ACCOUNTABILITY SYSTEM.
+(a) State Performance Accountability Measures.—
+(1) PRIMARY INDICATORS OF PERFORMANCE.—Section 116(b)(2)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(b)(2)(A)) is amended—
+(A) in clause (i)—
+(i) in subclause (II)—
+(I) by striking “fourth” and inserting “second”; and
+(II) by inserting “and remain in unsubsidized employment during the fourth quarter after exit from the program” after “the program”;
+(ii) in subclause (V)—
+(I) by striking “, during a program year,”;
+(II) by striking “are in” and inserting “enter into”; and
+(III) by inserting before the semicolon at the end the following: “within 6 months after the quarter in which the participant enters into the education and training program”; and
+(iii) by amending subclause (VI) to read as follows:
+“(VI) of the program participants who received training services and who exited the program during a program year, the percentage of such program participants who completed, prior to such exit, on-the-job training, employer-directed skills development, incumbent worker training, or an apprenticeship.”;
+(B) in clause (ii)—
+(i) in subclause (II)—
+(I) by striking “fourth” and inserting “second”;
+(II) by inserting “, and who remain in such activities or unsubsidized employment during the fourth quarter after exit from the program” after “the program”; and
+(III) by striking “and” at the end;
+(ii) in subclause (III)—
+(I) by striking “(VI)” and inserting “(V)”; and
+(II) by striking the period at the end and inserting “; and”; and
+(iii) by adding at the end the following:
+“(IV) of the program participants who exited a program during a program year, the percentage of such program participants who completed, prior to such exit, paid or unpaid work experiences as described in section 129(c)(2)(C).”; and
+(C) by striking clause (iv).
+(2) LEVELS OF PERFORMANCE.—Section 116(b)(3)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(b)(3)(A)) is amended—
+(A) by amending clause (iii) to read as follows:
+“(iii) IDENTIFICATION IN STATE PLAN.—
+“(I) SECRETARIES.—For each State submitting a State plan, the Secretaries of Labor and Education shall, not later than December 1 of the year prior to the year in which such State plan is submitted, for the first 2 program years covered by the State plan, and not later than December 1 of the year prior to the third program year covered by the State plan, for the third and fourth program years covered by the State plan—
+“(aa) propose to the State expected levels of performance for each of the corresponding primary indicators of performance for each of the programs described in clause (ii) for such State, which shall—
+“(AA) be consistent with the factors listed in clause (v); and
+“(BB) be proposed in a manner that ensures sufficient time is provided for the State to evaluate and respond to such proposals; and
+“(bb) publish, on a public website of the Department of Labor, the statistical model developed under clause (viii) and the methodology used to develop each such expected level of performance.
+“(II) STATES.—Each State shall—
+“(aa) evaluate each of the expected levels of performance proposed under subclause (I) with respect to such State;
+“(bb) based on such evaluation of each such expected level of performance—
+“(AA) accept the expected level of performance as so proposed; or
+“(BB) provide a counterproposal for such proposed expected level of performance, including an analysis of how the counterproposal addresses factors or circumstances unique to the State that may not have been accounted for in the expected level of performance; and
+“(cc) include in the State plan, with respect to each of the corresponding primary indicators of performance for each of the programs described in clause (ii) for such State—
+“(AA) the expected level of performance proposed under subclause (I);
+“(BB) the counterproposal for such proposed level, if any; and
+“(CC) the expected level of performance that is agreed to under clause (iv).”; and
+(B) in clause (v)(II)—
+(i) in the matter preceding item (aa), by striking “based on” and inserting “based on each of the following considerations that are found to be predictive of performance on an indicator for a program”; and
+(ii) in item (bb), by striking “ex-offender status” and inserting “justice-involved individual status, foster care status, school status, education level, highest grade level completed, low-income status”.(b) Performance Reports.—Section 116(d) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(d)) is amended—
+(1) by amending paragraph (1) to read as follows:
+“(1) IN GENERAL.—
+“(A) TEMPLATE FOR PERFORMANCE REPORTS.—Not later than 12 months after the date of enactment of the A Stronger Workforce for America Act, the Secretary of Labor, in conjunction with the Secretary of Education, shall develop, or review and modify, as appropriate, to comply with the requirements of this subsection, the template for performance reports that shall be used by States (including by States on behalf of eligible providers of training services under section 122) and local boards to produce a report on outcomes achieved by the core programs. In developing, or reviewing and modifying, such templates, the Secretary of Labor, in conjunction with the Secretary of Education, shall take into account the need to maximize the value of the templates for workers, jobseekers, employers, local elected officials, State officials, Federal policymakers, and other key stakeholders.
+“(B) STANDARDIZED REPORTING.—In developing, or reviewing and modifying, the template under subparagraph (A), the Secretary of Labor, in conjunction with the Secretary of Education, shall ensure that performance reports produced by States and local areas for core programs and eligible training providers collect and report, in a comparable and uniform format, common data elements, which use terms that are assigned identical meanings across all such reports.
+“(C) ADDITIONAL REPORTING.—The Secretary of Labor, in conjunction with the Secretary of Education—
+“(i) in addition to the common data elements described under subparagraph (B), may require a core program to provide additional information as necessary for effective reporting; and
+“(ii) shall periodically review any requirement for additional information to ensure the requirement is necessary and does not impose an undue reporting burden.”.
+(2) in paragraph (2)—
+(A) by redesignating subparagraphs (J) through (L) as subparagraphs (K) through (M), respectively and inserting after subparagraph (I) the following:
+“(J) the median earnings gain of participants who received training services, calculated as the difference between—
+“(i) median participant earnings in unsubsidized employment during the second quarter after program exit; and
+“(ii) median participant earnings in the second quarter prior to entering the program;”.
+(B) in subparagraph (L), as so redesignated, by striking clause (ii); and
+(C) by striking “strategies for programs” and all that follows through “the performance”, and inserting “strategies for programs, the performance”;
+(3) in paragraph (3)—
+(A) in subparagraph (B), by striking “and” at the end;
+(B) by redesignating subparagraph (C) as subparagraph (E); and
+(C) by inserting after subparagraph (B) the following:
+“(C) the percentage of a local area’s allocation under section 133(b) that the local area spent on services paid for through an individual training account described in section 134(c)(3)(F)(iii) or a training contract described in section 134(c)(3)(G)(ii);
+“(D) the percentage of a local area’s allocation under section 133(b) that the local area spent on supportive services; and”;
+(4) by amending paragraph (4) to read as follows:
+“(4) CONTENTS OF ELIGIBLE TRAINING PROVIDERS PERFORMANCE REPORT.—
+“(A) IN GENERAL.—The State shall use the information submitted by the eligible providers of training services under section 122 and administrative records, including quarterly wage records, of the participants of the programs offered by the providers to produce a performance report on the eligible providers of training services in the State, which shall include, subject to paragraph (6)(C)—
+“(i) with respect to each program of study (or the equivalent) of such a provider—
+“(I) information specifying the levels of performance achieved with respect to the primary indicators of performance described in subclauses (I) through (IV) of subsection (b)(2)(A)(i) with respect to all individuals engaging in the program of study (or the equivalent); and
+“(II) the total number of individuals exiting from the program of study (or the equivalent); and
+“(ii) with respect to all such providers—
+“(I) the total number of participants who received training services through each adult and dislocated worker program authorized under chapter 3 of subtitle B, disaggregated by the type of entity that provided the training, during the most recent program year and the 3 preceding program years;
+“(II) the total number of participants who exited from training services, disaggregated by the type of entity that provided the training, during the most recent program year and the 3 preceding program years;
+“(III) the average cost per participant for the participants who received training services, disaggregated by the type of entity that provided the training, during the most recent program year and the 3 preceding program years; and
+“(IV) the number of individuals with barriers to employment served by each adult and dislocated worker program authorized under chapter 3 of subtitle B, disaggregated by each subpopulation of such individuals, and by race, ethnicity, sex, and age.
+“(iii) with respect to each recognized postsecondary credential on the list of credentials awarded by eligible providers in the State described in section 122(d)(2)—
+“(I) information specifying the levels of performance achieved with respect to the primary indicators of performance described in subclauses (I) through (IV) of subsection (b)(2)(A)(i) for all participants in the State receiving such credential; and
+“(II) information specifying the levels of performance achieved with respect to the primary indicators of performance described in subclauses (I) through (IV) of subsection (b)(2)(A)(i) for participants in the State receiving such credential with respect to individuals with barriers to employment, disaggregated by each subpopulation of such individuals, and by race, ethnicity, sex, and age.”; and
+(5) in paragraph (6)—
+(A) by amending subparagraph (A) to read as follows:
+“(A) STATE PERFORMANCE REPORTS.—The Secretary of Labor and the Secretary of Education shall annually make available the performance reports for States containing the information described in paragraph (2), which shall include making such reports available—
+“(i) digitally using transparent, linked, open, and interoperable data formats that are human readable and machine actionable such that the data from these reports—
+“(I) are easily understandable; and
+“(II) can be easily included in web-based tools and services supporting search, discovery, comparison, analysis, navigation, and guidance; and
+“(ii) in a printable format.”; and
+(B) in subparagraph (B)—
+(i) by striking “(including by electronic means), in an easily understandable format,”; and
+(ii) by adding at the end the following: “The Secretary of Labor and the Secretary of Education shall include, on the website where the State performance reports required under subparagraph (A) are made available, a link to local area performance reports and the eligible training provider report for each State. Such reports shall be made available in each of the formats described in subparagraph (A).”.(c) Evaluation Of State Programs.—Section 116(e) of the Workforce Innovation and Opportunity Act(29 U.S.C. 3141(e)) is amended—
+(1) in paragraph (1)—
+(A) by striking “shall conduct ongoing” and inserting “shall use data to conduct analyses and ongoing”; and
+(B) by striking “conduct the” and inserting “conduct such analyses and”; and
+(2) in paragraph (2), by adding “A State may use other forms of analysis, such as machine learning or other advanced analytics, to improve program operations and outcomes and to identify areas for further evaluation.” at the end.(d) Sanctions For State Failure To Meet State Performance Accountability Measures.—Section 116(f) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(f)) is amended to read as follows:
+“(f) Sanctions For State Failure To Meet State Performance Accountability Measures.—
+“(1) TARGETED SUPPORT AND ASSISTANCE.—
+“(A) IN GENERAL.—If a State fails to meet 80 percent of the State adjusted level of performance for an indicator described in subsection (b)(2)(A) for a program for any program year, the Secretary of Labor and the Secretary of Education shall provide technical assistance.
+“(B) SANCTIONS.—
+“(i) IN GENERAL.—If the State fails in the manner described in subclause (I) or (II) of clause (ii) with respect to a program year, the percentage of each amount that would (in the absence of this subparagraph) be reserved by the Governor under section 128(a)(1) for the immediately succeeding program year shall be reduced by 5 percentage points until such date as the Secretary of Labor or the Secretary of Education, as appropriate, determines that the State meets the State adjusted level of performance, in the case of a failure described in clause (ii)(I), or has submitted the reports for the appropriate program years, in the case of a failure described in clause (ii)(II).
+“(ii) FAILURES.—A State shall be subject to clause (i)—
+“(I) if (except in the case of exceptional circumstances as determined by the Secretary of Labor or the Secretary of Education, as appropriate), such State fails to submit a report under subsection (d) for any program year; or
+“(II) for a failure under subparagraph (A) that continues for a second consecutive year.
+“(2) COMPREHENSIVE SUPPORT AND ASSISTANCE.—
+“(A) IN GENERAL.—If a State fails to meet an average of 90 percent of the State adjusted levels of performance for a program across all performance indicators for any program year, or if a State fails to meet an average of 90 percent of the State adjusted levels of performance for a single performance indicator across all programs for any program year, the Secretary of Labor and the Secretary of Education shall provide technical assistance, as described and authorized under section 168(b), including assistance in the development of a comprehensive performance improvement plan.
+“(B) SECOND CONSECUTIVE YEAR FAILURE.—If such failure under subparagraph (A) continues for a second consecutive year, the percentage of each amount that would (in the absence of this subsection) be reserved by the Governor under section 128(a)(1) for the immediately succeeding program year shall be reduced by 10 percentage points until such date as the Secretary of Labor or the Secretary of Education, as appropriate, determines that the State meets such State adjusted levels of performance.
+“(3) LIMITATION.—The total reduction under this subsection to the percentage of each amount that would (in the absence of this subsection) be reserved by the Governor under section 128(a)(1) may not exceed 10 percentage points for a program year.
+“(4) REALLOTMENT OF REDUCTIONS.—
+“(A) IN GENERAL.—The amounts available for reallotment for a program year shall be reallotted to the States that were not subject to a reduction of funds under paragraph (1)(B) or paragraph (2)(B) of this subsection for such program year (in this paragraph referred to individually as an ‘eligible State’).
+“(B) AMOUNTS AVAILABLE FOR REALLOTMENT.—In this paragraph, the amounts available for reallotment for a program year means the amounts available under section 127(b)(1)(C) and paragraph (1)(B) or (2)(B), respectively, of section 132(b) for such program year which would (in the absence of paragraph (1)(B) or paragraph (2)(B) of this subsection) have otherwise been reserved under section 128(a)(1) by a Governor of a State for such program year.
+“(C) REALLOTMENT AMOUNTS.—In making reallotments under subparagraph (A) for a program year to eligible States, the Secretary shall allot to each eligible State—
+“(i) in the case of amounts available under section 127(b)(1)(C), an amount based on the relative amount of the allotment made (before the allotments under this clause are made) to such eligible State under section 127(b)(1)(C) for such program year, compared to the total allotments made (before the allotments under this clause are made) to all eligible States under section 127(b)(1)(C) for such program year; and
+“(ii) in the case of amounts available under paragraph (1)(B) or (2)(B), respectively, of section 132(b), an amount based on the relative amount of the allotment made (before the allotments under this clause are made) to such eligible State under paragraph (1)(B) or (2)(B), respectively, of section 132(b) for such program year, compared to the total allotments made (before the allotments under this clause are made) to all eligible States under paragraph (1)(B) or (2)(B), respectively, of section 132(b) for such program year.”.(e) Sanctions For Local Area Failure To Meet Local Performance Accountability Measures.—Section 116(g) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(g)) is amended—
+(1) in paragraph (1)—
+(A) by inserting “80 percent of the” before “local performance”; and
+(B) by striking “accountability measures” and inserting “accountability levels of performance on an indicator of performance, an average of 90 percent of the local levels of performance across indicators for a single program, or an average of 90 percent for a single performance indicator across all programs”; and
+(2) in paragraph (2)—
+(A) by amending subparagraph (A) to read as follows:
+“(A) IN GENERAL.—If such failure continues, the Governor shall take corrective actions, which shall include—
+“(i) in the case of a failure, for a second consecutive year, on any individual indicator, across indicators for a single program, or on a single indicator across programs, a 5-percent reduction in the amount that would have otherwise been allocated (in the absence of this clause) to the local area for the immediately succeeding program year under chapter 2 or 3 of subtitle B for the program subject to the performance failure;
+“(ii) in the case of a failure, as described in paragraph (1), for a third consecutive year, the development of a reorganization plan through which the Governor shall—
+“(I) require the appointment and certification of a new local board, consistent with the criteria established under section 107(b);
+“(II) prohibit the use of one-stop partners identified as achieving a poor level of performance; and
+“(III) revise or redesignate a local area, which may include merging a local area with another local area if the Governor determines that the likely cause of such continued performance failure of a local area is due to such local area’s designation being granted without the appropriate consideration of parameters described under section 106(b)(1)(B); or
+“(iii) other significant actions determined appropriate by the Governor.”;
+(B) in subparagraph (B)(i), by inserting “(ii)” after “subparagraph (A)”; and
+(C) by adding at the end the following:
+“(D) REALLOCATION OF REDUCTIONS.—
+“(i) IN GENERAL.—With respect to any amounts available under section 128(b), paragraph (2)(A) or (3) of section 133(b), and section 133(b)(2)(B) to a Governor for a program year which would (in the absence of subparagraph (A)(i)) have otherwise been allocated by such Governor to a local area for such program year—
+“(I) not more than 10 percent of the amounts available under each such section may be reserved by the Governor to provide technical assistance to local areas within the State that were subject to a reduction of allocation amounts pursuant to subparagraph (A)(i) for such program year; and
+“(II) the amounts remaining after the reservations under subclause (I) shall be reallocated by the Governor to the local areas within the State that were not subject to a reduction of allocation amounts pursuant to subparagraph (A)(i) for such program year (in this subparagraph referred to individually as an ‘eligible local area’).
+“(ii) REALLOCATION AMOUNTS.—In making reallocations under clause (i)(II) for a program year to eligible local areas within a State, the Governor of the State shall allocate to each such eligible local area—
+“(I) in the case of amounts remaining under section 128(b), an amount based on the relative amount of the allocation made (before the allocations under this subclause are made) to such eligible local area under section 128(b) for such program year, compared to the total allocations made (before the allocations under this subclause are made) to all eligible local areas within the State under section 128(b) for such program year;
+“(II) in the case of amounts remaining under paragraph (2)(A) or (3) of section 133(b), an amount based on the relative amount of the allocation made (before the allocations under this subclause are made) to such eligible local area under paragraph (2)(A) or (3) of section 133(b), as appropriate, for such program year, compared to the total allocations made (before the allocations under this subclause are made) under paragraph (2)(A) or (3) of section 133(b), as appropriate, to all eligible local areas within the State for such program year; and
+“(III) in the case of amounts remaining under section 133(b)(2)(B), an amount based on the relative amount of the allocation made (before the allocations under this subclause are made) to such eligible local area under section 133(b)(2)(B) for such program year, compared to the total allocations made (before the allocations under this subclause are made) under section 133(b)(2)(B) to all eligible local areas within the State for such program year.”.(f) Establishing Pay-For-Performance Contract Strategy Incentives.—Section 116(h) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(h)) is amended by striking “non-Federal funds” and inserting “the funds reserved under section 128(a)(1)”.(g) Fiscal And Management Accountability Information Systems.—Section 116(i) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(i)) is amended—
+(1) in the first sentence of paragraph (2), by inserting “, and may use information provided from the National Directory of New Hires in accordance with section 453(j)(8) of the Social Security Act (42 U.S.C. 653(j)(8))” after “State law”;
+(2) by redesignating paragraph (3) as paragraph (4); and
+(3) by inserting after paragraph (2) the following:
+“(3) DESIGNATED ENTITY.—The Governor shall designate a State agency (or appropriate State entity) to assist in carrying out the performance reporting requirements for core programs and eligible training providers. The designated State agency (or appropriate State entity) shall be responsible for—
+“(A) facilitating data matches using quarterly wage record information, including wage record information made available by other States, to measure employment and earnings outcomes;
+“(B) data validation and reliability, as described in subsection (d)(5); and
+“(C) protection against disaggregation that would violate applicable privacy standards, as described in subsection (d)(6)(C).”.

@@ -1,0 +1,39 @@
+ SEC. 106. RIGHT TO INDIVIDUAL AUTONOMY.
+
+
+(a) In General.—A covered entity shall not collect, process, maintain, or disclose an individual’s personal information to—
+
+
+(1) create, improve upon, or maintain;
+
+
+(2) process with; or
+
+
+(3) otherwise link an individual with;
+
+
+an algorithm, model, or other means designed for behavioral personalization, without the affirmative express consent of that individual.
+
+ (b) Consent.—A covered entity must obtain express affirmative consent from an individual before it may provide a behaviorally personalized version of a product or service, and not less than every calendar year thereafter. Where consent is denied, a covered entity must provide the product or service without behavioral personalization.
+
+ (c) Exceptions To Providing Product Or Service.—
+
+
+(1) Where the offering of a substantially similar product or service without behavioral personalization is infeasible, a covered entity shall provide, to the greatest extent feasible, a core aspect or part of the product or service that can be offered without behavioral personalization.
+
+
+(2) Where no core aspect or part of the product or service can function in a substantially similar function without behavioral personalization, a covered entity may deny providing an individual use of such product or service if such individual does not consent to behavioral personalization as required in subsection (a).
+
+ (d) Exception To Behavioral Processing.—Notwithstanding subsections (a) and (b), a covered entity may process personal information to create or operate behavioral personalization algorithms, models, or other mechanisms for the purpose of increasing the usability of the product or service provided by a covered entity that—
+
+
+(1) are built using aggregated personal information that is representative of all the personal information the covered entity maintains; and
+
+
+(2) have an output that is both uniform across the individuals that use the product or service and independent of a specific individual’s inherent or behavioral characteristics.
+
+ (e) Usability.—The term “usability” as used in subsection (d) does not include optimizations or other alterations to the product or service that are made with the primary purpose of increasing the amount of time an individual engages with or uses the product or service, unless such increase benefits the individual.
+
+
+(f) Small Businesses Excluded.—This section does not apply to a small business.

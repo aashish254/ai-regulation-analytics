@@ -1,0 +1,39 @@
+SEC. 1032. Competitive demonstration of large and extra large unmanned underwater vehicles.
+
+(a) Competitive demonstration required.--Not later than June 1, 2025, the Secretary of the Navy, in coordination with the Commander of the United States Indo-Pacific Command and in consultation with the Director of the Defense Innovation Unit, shall carry out a competitive demonstration of large and extra large unmanned underwater vehicle capabilities, including non-developmental items from commercial or foreign partner sources that leverage commercial solutions openings.
+
+(b) Criteria.--In developing and evaluating the competitive demonstration required by subsection (a), the Secretary of the Navy shall consider the following:
+
+(1) The ability of large and extra large unmanned underwater vehicles to integrate with mission autonomy planning capability and joint command and control systems.
+
+(2) The ability of such vehicles to execute high-value missions in a contested environment.
+
+(3) Vehicle performance with respect to navigation, endurance, and concepts of employment.
+
+(4) The technical maturity, reliability, and maintainability of such vehicles.
+
+(5) Feedback from military users, especially with respect to user interface, mission functionality, ease of use and deployment, and command and control.
+
+(6) Initial assessments of the total cost to procure, operate, and sustain a persistent large and extra large unmanned underwater vehicle presence in support of the operational requirements of the United States Indo-Pacific Command.
+
+(c) Use of funds.--The Secretary of the Navy may obligate and expend amounts made available for the Navy in fiscal year 2025 for research, development, test, and evaluation, and operation and maintenance to carry out the competitive demonstration required by subsection (a).
+
+(d) Assessments required.--
+
+(1) SECRETARY OF THE NAVY.--
+
+(A) IN GENERAL.--Not later than September 1, 2025, the Secretary of the Navy shall submit to the congressional defense committees the unaltered assessment of the Secretary of the competitive demonstration required by subsection (a).
+
+(B) ELEMENTS.--The assessment required by subparagraph (A) may include recommendations for updating the funding and acquisition plans for the large and extra large unmanned underwater vehicle program.
+
+(2) COMMANDER OF UNITED STATES INDO-PACIFIC COMMAND.--Not later than September 1, 2025, the Commander of the United States Indo-Pacific Command shall submit to the congressional defense committees the unaltered assessment of the Commander of the continued validity of the large and extra large unmanned underwater vehicle requirements and any proposed new requirements.
+
+(e) Large and extra large unmanned underwater vehicles defined.--In this section, the term "large and extra large unmanned underwater vehicles" means systems that--
+
+(1) are capable of--
+
+(A) operating while completely submerged in the sea; and
+
+(B) supporting one or more missions with a modular payload integration; and
+
+(2) have a range of at least 1,000 nautical miles.

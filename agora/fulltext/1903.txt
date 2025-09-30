@@ -1,0 +1,182 @@
+A BILL
+To ensure continued access to diabetes technology upon Medicare enrollment, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Diabetes Interventions Addressing Barriers to Enrollment, Technology, and Education Services (DIABETES) Act” or the “Diabetes Act”.
+
+
+SEC. 2. Findings; Sense of Congress.
+
+
+(a) Findings.—Congress finds the following:
+
+
+(1) According to the Centers for Disease Control and Prevention, in 2021, an estimated 38,400,000 Americans, or 11.6 percent of the entire United States population, have diabetes.
+
+
+(2) The total number of individuals with diabetes is projected to increase to an estimated 54,900,000 individuals by 2030.
+
+
+(3) Diabetes disproportionately impacts the Medicare population, as the Centers for Medicare & Medicaid Services found in 2022, and 26 percent of Medicare beneficiaries have diabetes.
+
+
+(4) Both type 1 and 2 diabetes can significantly harm long-term health and is associated with numerous comorbidities such as cancer, heart disease, chronic kidney disease, blindness, and amputations.
+
+
+(5) The direct and indirect cost of diabetes is significant as the American Diabetes Association found that the total annual cost of diabetes in 2022 was $412,900,000,000, $306,600,000,000 of which is attributable to direct medical costs.
+
+
+(6) The American Diabetes Association and the American Association of Clinical Endocrinology have set forth clinical guidelines that include the use of continuous glucose monitors, insulin pumps, automated insulin delivery systems, and diabetes self-management training for individuals with diabetes.
+
+
+(7) An automated insulin delivery system consists of a continuous glucose monitor, an insulin pump, and an algorithm or software.
+
+
+(8) The algorithm or software is a critical component of an automated insulin delivery system as it continuously learns the user’s behavior and physiological responses and automatically administers the appropriate amount of insulin.
+
+
+(9) Medicare currently fails to separately reimburse for the essential algorithms and software that drive automated insulin delivery (AID) systems, which may stifle future innovation and maintenance, and impede beneficiary access.
+
+
+(10) Medicare has an existing pathway to separately reimburse for the algorithm or software in an automated insulin delivery system, the Medicare durable medical equipment benefit.
+
+
+(b) Sense of Congress.—It is the sense of Congress that the Secretary of Health and Human Services should commit to take administrative action to—
+
+
+(1) recognize that the algorithm or software in an automated insulin delivery system is a “reasonable and necessary” item “for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member” consistent with Medicare coverage requirements under section 1862(a)(1)(A) of the Social Security Act;
+
+
+(2) ensure the algorithm or software in an automated insulin delivery system is treated as a separately payable supply to durable medical equipment; and
+
+
+(3) when applicable, recognize the algorithm or software in an automated insulin delivery system as “medical supplies associated with the injection of insulin” consistent with section 1860D–2(e)(1) of the Social Security Act.
+
+
+SEC. 3. Continued access to diabetes related technologies.
+
+
+(a) In general.—Section 1861(ww) of the Social Security Act (42 U.S.C. 1395x(ww)) is amended—
+
+
+(1) in paragraph (1)—
+
+
+(A) by striking “and” after “upon the agreement with the individual,”; and
+
+
+(B) by inserting “and ensuring care continuity for individuals using diabetes technology covered under part B as described in paragraph (5),” after “(as defined in paragraph (4)),”; and
+
+
+(2) by adding at the end the following new paragraph:
+
+
+“(5) (A) Subject to subparagraphs (B) and (C) of this paragraph, during the first 12 months of an individual’s enrollment for benefits under part B, a provider (as defined in subparagraph (E)) may certify to the Secretary that an individual is using 1 or multiple diabetes technologies covered under part B (as defined in subparagraph (D)).
+
+
+“(B) During the initial preventive physical examination or other covered service as determined appropriate by the Secretary during the period described in subparagraph (A), the provider may make a determination of the individual’s use of diabetes technology covered under part B. In the case where the provider makes such determination, the provider shall submit a certification to the Secretary as required under subparagraph (C).
+
+
+“(C) Not later than January 1, 2026, the Secretary shall—
+
+
+“(i) issue a finalized certification form, developed pursuant to public notice and opportunity for comment, for use under this paragraph;
+
+
+“(ii) issue guidance and instructions to medicare administrative contractors (as defined in section 1874A(3)), that require the relevant medicare administrative contractors to only assess whether the certification form is included in the individual’s medical records when making a determination of whether coverage of the diabetes technology covered under part B is reasonable and necessary as described in section 1862(a)(1)(A);
+
+
+“(iii) develop a process through notice and comment rulemaking for considering whether an individual’s diabetes technology that is not covered under part B at the time of the certification described in subparagraph (A) should be a covered benefit under existing statutory authority; and
+
+
+“(iv) issue appropriate guidance to relevant audit and oversight entities to ensure those entities do not inappropriately cause disruptions in access to diabetes technology covered under part B.
+
+
+“(D) For purposes of this paragraph, the term ‘diabetes technology covered under part B’ means, with respect to an individual, any device, related supplies, and software or algorithm that, at the time the certification described in subparagraph (C) is made with respect to the individual, is covered under part B for an individual that has diabetes under the applicable ICD–10 code list as determined by the Secretary.
+
+
+“(E) For purposes of this paragraph, the term ‘provider’ means a physician (as defined in section 1861(r)), nurse practitioner, clinical nurse specialist, physician assistant, (as those terms are defined in section 1861(aa)(5)), or certified nurse-midwife (as defined in section 1861(gg)(2)), or other provider of services or supplier as determined appropriate by the Secretary.”.
+
+
+(b) Effective date.—The amendments made by this section shall apply to items and services furnished on or after January 1, 2026.
+
+
+SEC. 4. Expanding access to diabetes outpatient self-management training services.
+
+
+(a) In general.—Section 1861(qq) of the Social Security Act (42 U.S.C. 1395x(qq)) is amended—
+
+
+(1) in paragraph (1)—
+
+
+(A) by inserting “and consistent with paragraph (2)(C)” after “as the Secretary determines appropriate”;
+
+
+(B) by inserting “or qualified non-physician practitioner” after “only if the physician”; and
+
+
+(C) by inserting “(or other physician or qualified non-physician practitioner furnishing items or services to such individual, in coordination with the physician or qualified non-physician practitioner managing such individual’s diabetic condition)” after “managing the individual’s diabetic condition”; and
+
+
+(2) in paragraph (2)—
+
+
+(A) in subparagraph (A), by striking “and” at the end;
+
+
+(B) in subparagraph (B)—
+
+
+(i) by striking “paragraph” and inserting “subparagraph”; and
+
+
+(ii) by striking the period at the end and inserting “; and”; and
+
+
+(C) by adding the following new subparagraph:
+
+
+“(C) the times determined appropriate by the Secretary shall in no way limit the quantity or duration of educational and training services furnished by a certified provider to an individual with diabetes if such service is deemed medically necessary by a physician or qualified non-physician practitioner.”.
+
+
+(b) Effective date.—The amendments made by this section shall apply to items and services furnished on or after January 1, 2026.
+
+
+SEC. 5. Providing insulin pump training and education.
+
+
+(a) In general.—Not later than January 1, 2026, the Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall establish new Healthcare Common Procedure Coding System codes under the fee schedule established under section 1848(b) of the Social Security Act (42 U.S.C. 1395w–4(b)) that describe hook-up, calibration, and patient training with respect to an insulin pump similar to Current Procedural Terminology codes 95249 and 95250 (and any succeeding codes). The Secretary shall ensure the newly established codes sufficiently describe patient education and training as well as insulin pump placement services for technologies covered under section 1834 of the Social Security Act (42 U.S.C. 1395m) and part D of title XVIII of the Social Security Act (42 U.S.C. 1395w–101 et seq.).
+
+
+(b) Education and outreach.—The Secretary shall use existing communications and mechanisms to provide education and outreach to stakeholders with respect to the ability of health professionals to bill the newly established codes described in subsection (a).
+
+
+SEC. 6. National coverage determination on insulin pumps.
+
+
+Not later than 180 days after the date of enactment of this Act, the Secretary of Health and Human Services shall issue a proposed national coverage determination (as defined in section 1869(f)(1)(B) of the Social Security Act (42 U.S.C. 1395ff(f)(1)(B)) for infusion pumps, continuous subcutaneous insulin infusion (CSII), number 280.14 pursuant to section 1862(l) of the Social Security Act (42 U.S.C. 1395y(l)).
+
+
+SEC. 7. Report on enrollee access to diabetes-related services and technologies in Federal health care programs.
+
+
+(a) In general.—Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States, in collaboration with the Secretary of Health and Human Services, shall submit to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives, a report that assesses the barriers individuals face in accessing diabetes technologies and diabetes self-management education and support services across Federal health care programs. The report shall specifically review barriers, which include prior authorization practices, the use of preferred formularies, coverage intensity limitations, and other utilization management techniques, to accessing diabetes technologies and diabetes self-management education and support services faced by individuals enrolled in a Federal health care program, and whether any Federal law, regulation, or policy adversely affects access to those covered services or limits the ability of individuals with diabetes to receive services that align with standards of care.
+
+
+(b) Definitions.—In this section:
+
+
+(1) DIABETES TECHNOLOGIES.—The term “diabetes technologies” means items described in section 1861(ww)(5)(D) of the Social Security Act, as added by section 3, and any device, related supplies, and software or algorithm that monitors or manages an individual’s diabetes that is medically necessary for the individual’s diagnosis of diabetes, regardless of whether the device, related supplies, and software or algorithm is covered under part B of title XVIII of the Social Security Act. Such term includes glucose monitors, insulin delivery technologies, related supplies, and software or algorithms.
+
+
+(2) DIABETES SELF-MANAGEMENT EDUCATION AND SUPPORT SERVICES.—The term “diabetes self-management education and support services” means services described in section 1861(qq) of the Social Security Act (42 U.S.C. 1395x(qq)).
+
+
+(3) FEDERAL HEALTH CARE PROGRAM.—The term “Federal health care program” means any plan or program that provides health benefits, whether through insurance or otherwise, that is directly funded in whole or in part, by the United States Government, including a Federal health care program (as defined in section 1128B(f) of the Social Security Act (42 U.S.C. 1320a–7b(f))) and a health benefits plan under chapter 89 of title 5, United States Code.

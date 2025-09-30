@@ -1,0 +1,71 @@
+ SEC. 908. PART 107 WAIVER IMPROVEMENTS.
+
+
+(a) In General.—The Administrator shall adopt a performance- and risk-based approach in reviewing requests for certificates of waiver under section 107.200 of title 14, Code of Federal Regulations.
+
+ (b) Standardization Of Waiver Application.—
+
+
+(1) IN GENERAL.—In carrying out subsection (a), the Administrator shall improve the process to submit requests for certificates of waiver described in subsection (a).
+
+
+(2) FORMAT.—In carrying out paragraph (1), the Administrator may not require the use of open-ended descriptive prompts that are required to be filled out by an applicant, except to provide applicants the ability to provide the FAA with information for an unusual or irregular operation.
+
+
+(3) DATA.—
+
+
+(A) IN GENERAL.—In carrying out paragraph (1), the Administrator shall leverage data gathered from previous requests for certificates of waivers.
+
+
+(B) CONSIDERATIONS.—In carrying out subparagraph (A), the Administrator shall safely use—
+
+
+(i) big data analytics; and
+
+
+(ii) machine learning.
+
+ (c) Consideration Of Property Access.—
+
+
+(1) IN GENERAL.—In determining whether to issue a certificate of waiver under section 107.200 of title 14, Code of Federal Regulations, the Administrator shall—
+
+
+(A) consider whether the waiver applicant has control over access to all real property on the ground within the area of operation; and
+
+
+(B) recognize and account for the safety enhancements of such controlled access.
+
+
+(2) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to influence the extent to which the Administrator considers a lack of control over access to all real property on the ground within an area of operation as affecting the safety of an operation intended to be conducted under such certificate of waiver.
+
+ (d) Public Availability Of Waivers.—
+
+
+(1) IN GENERAL.—The Administrator shall publish all certificates of waiver issued under section 107.200 of title 14, Code of Federal Regulations, on the website of the FAA, including, with respect to each issued certificate of waiver—
+
+
+(A) the terms, conditions, and limitations; and
+
+
+(B) the class of airspace and any restrictions related to operating near airports or heliports.
+
+
+(2) PUBLICATION.—In carrying out paragraph (1), the Administrator shall ensure that published information is made available in a manner that prevents inappropriate disclosure of proprietary information.
+
+ (e) Precedential Use Of Previously Approved Waivers.—
+
+
+(1) WAIVER APPROVAL PRECEDENT.—If the Administrator determines, using criteria for a particular waiver, that an application for a certificate of waiver issued under section 107.200 of title 14, Code of Federal Regulations, is substantially similar (or is comprised of elements that are substantially similar) to an application for a certificate of waiver that the Administrator has previously approved, the Administrator may streamline, as appropriate, the approval of applications for such a particular waiver.
+
+
+(2) RULE OF CONSTRUCTION.—Nothing in paragraph (1) shall be construed to preclude an applicant for a certificate of waiver from applying to modify a condition or remove a limitation of such certificate.
+
+ (f) Modification Of Waivers.—
+
+
+(1) IN GENERAL.—The Administrator shall establish an expedited review process for a request to modify or renew certificates of waiver previously issued under section 107.200 of title 14, Code of Federal Regulations, as appropriate.
+
+
+(2) USE OF REVIEW PROCESS.—The review process established under paragraph (1) shall be used to modify or renew certificates of waiver that cover operations that are substantially similar in all material facts to operations covered under a previously issued certificate of waiver.

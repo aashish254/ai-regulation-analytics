@@ -1,0 +1,136 @@
+SEC. 1682. ELECTROMAGNETIC WARFARE.
+
+(a) In General.--Part I of subtitle A of title 10, United States Code, is amended by adding at the end the following new chapter:
+
+``CHAPTER 25-- ELECTROMAGNETIC WARFARE
+``500. Electromagnetic Spectrum Operations Executive Committee.
+``500a. Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations.
+``500b. Annual report on electromagnetic spectrum operations strategy of the Department of Defense.
+``500c. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities.
+``500d. Electromagnetic spectrum superiority implementation plan.
+``500e. Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations.
+``500f. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions.
+``Sec. 500. Electromagnetic Spectrum Operations Executive Committee
+`(a) In General.--There is within the Department of Defense an Electromagnetic Spectrum Operations Executive Committee (in this section referred to as the Executive Committee').
+``(b) Purposes.--The Executive Committee shall--
+``(1) serve as the principal forum within the Department of Defense to inform, coordinate, and evaluate matters relating to electromagnetic warfare;
+``(2) provide senior oversight, coordination, and budget and capability harmonization with respect to such matters; and
+``(3) act as an advisory body to the Secretary of Defense, the Deputy Secretary of Defense, and the Management Action Group of the Deputy Secretary with respect to such matters.``(c) Responsibilities.--The Executive Committee shall--
+``(1) advise key senior level decision-making bodies of the Department of Defense with respect to the development and implementation of acquisition investments relating to electromagnetic warfare and electromagnetic spectrum operations of the Department, including relevant acquisition policies, projects, programs, modeling, and test and evaluation infrastructure;
+``(2) provide a forum to enable synchronization and integration support with respect to the development and acquisition of electromagnetic warfare capabilities by--
+``(A) aligning the processes of the Department for requirements, research, development, acquisition, testing, and sustainment; and
+``(B) carrying out other related duties; and
+``(3) act as the senior level review forum for the portfolio of capability investments of the Department relating to electromagnetic warfare and electromagnetic spectrum operations and other related matters.
+``(d) Coordination With Intelligence Community.--The Executive Committee, acting through the Under Secretary of Defense for Intelligence and Security, shall coordinate with the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) to generate requirements, facilitate collaboration, establish interfaces, and align efforts of the Department of Defense with respect to capabilities and acquisition activities related to electromagnetic spectrum operations in areas of dependency or mutual interest.``(e) Meetings.--(1) The Executive Committee shall hold meetings not less frequently than quarterly and as necessary to address particular issues.
+``(2) The Executive Committee may hold meetings by video conference.
+``(f) Membership.--The Executive Committee shall be composed of the following principal members:
+``(1) The Under Secretary of Defense for Acquisition and Sustainment.
+``(2) The Vice Chairman of the Joint Chiefs of Staff.
+``(3) The Under Secretary of Defense for Intelligence and Security.
+``(4) The Under Secretary of Defense for Policy.
+``(5) The Commander of the United States Strategic Command.
+``(6) The Chief Information Officer of the Department of Defense.
+``(7) Such other Federal officers or employees as the Secretary of Defense considers appropriate, consistent with other authorities of the Department of Defense and publications of the Joint Staff, including the Charter for the Electronic Warfare Executive Committee, dated March 17, 2015.
+``(g) Co-chairs of Executive Committee.--(1) The Under Secretary of Defense for Acquisition and Sustainment and the Vice Chairman of the Joint Chiefs of Staff, or their designees, shall serve as co-chairs of the Executive Committee.
+``(2) The co-chairs of the Executive Committee shall--
+``(A) preside at all Executive Committee meetings or have their designees preside at such meetings;
+``(B) provide administrative control of the Executive Committee;
+``(C) jointly guide the activities and actions of the Executive Committee;
+``(D) approve all agendas for and summaries of meetings of the Executive Committee;
+``(E) charter tailored working groups to conduct mission area analysis, as required, under subsection (i); and
+``(F) perform such other duties as may be necessary to ensure the good order and functioning of the Executive Committee.
+``(h) Electromagnetic Spectrum Operations Capability Team.--(1) There is within the Executive Committee an electromagnetic spectrum operations capability team, which shall--
+(A) serve as a flag officer level focus group and executive secretariat subordinate to the Executive Committee; and(B) in that capacity--
+``(i) provide initial senior level coordination on key electromagnetic spectrum operations issues;
+``(ii) prepare recommended courses of action to present to the Executive Committee; and
+``(iii) perform other related duties.
+
+``(2) The electromagnetic spectrum operations capability team shall be co-chaired by one representative from the Office of the Under Secretary of Defense for Acquisition and Sustainment and one representative from the Force Structure, Resources, and Assessment Directorate of the Joint Staff (J-8).
+``(3) The principal members of the Executive Committee shall designate representatives from their respective staffs to the electromagnetic spectrum operations capability team.
+``(i) Mission Area Working Groups.--(1) The Executive Committee shall establish mission area working groups on a temporary basis--
+``(A) to address specific issues and mission areas relating to electromagnetic spectrum operations;
+``(B) to involve subject matter experts and components of the Department of Defense with expertise in electromagnetic spectrum operations; and
+``(C) to perform other related duties.
+
+``(2) The Executive Committee shall dissolve a mission area working group established under paragraph (1) once the issue the working group was established to address is satisfactorily resolved.
+``(j) Administration.--The Under Secretary of Defense for Acquisition and Sustainment shall administratively support the Executive Committee, including by designating not fewer than two officials of the Department of Defense to support the day-to-day operations of the Executive Committee.
+``(k) Report to Congress.--Not later than February 28, 2024, and annually thereafter through 2030, the Executive Committee shall submit to the congressional defense committees a summary of activities of the Executive Committee during the preceding fiscal year.
+``Sec. 501. Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations
+``The Secretary of Defense shall--
+``(1) establish processes and procedures to develop, integrate, and enhance the electromagnetic spectrum operations mission area and the conduct of joint electromagnetic spectrum operations in all domains across the Department of Defense; and
+``(2) ensure that such processes and procedures provide for integrated defense-wide strategy, planning, and budgeting with respect to the conduct of such operations by the Department, including activities conducted to counter and deter such operations by malign actors.
+``Sec. 502. Annual report on electromagnetic spectrum operations strategy of the Department of Defense
+``(a) In General.--At the same time as the President submits to Congress the budget of the President under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Secretary of Defense, in coordination with the Chief Information Officer of the Department of Defense, the Chairman of the Joint Chiefs of Staff, and the Secretary of each of the military departments, shall submit to the congressional defense committees an annual report on the Electromagnetic Spectrum Superiority Strategy of the Department of Defense.
+``(b) Contents of Report.--Each report required under subsection (a) shall include each of the following:
+``(1) A description and overview of--
+``(A) the electromagnetic spectrum strategy of the Department of Defense;
+``(B) how such strategy supports the national defense strategy under section 113(g) of this title; and
+``(C) the organizational structure assigned to oversee the development of the Department's electromagnetic spectrum strategy, requirements, capabilities, programs, and projects.
+``(2) A list of all the electromagnetic spectrum operations acquisition programs and research and development projects of the Department of Defense and a description of how each program or project supports the Department's electromagnetic spectrum strategy.``(3) For each unclassified program or project on the list required by paragraph (2)--
+``(A) the senior acquisition executive and organization responsible for oversight of the program or project;
+``(B) whether or not validated requirements exist for the program or project and, if such requirements do exist, the date on which the requirements were validated and the organizational authority that validated such requirements;
+``(C) the total amount of funding appropriated, obligated, and forecasted by fiscal year for the program or project, including the program element or procurement line number from which the program or project receives funding;
+``(D) the development or procurement schedule for the program or project;
+``(E) an assessment of the cost, schedule, and performance of the program or project as it relates to the program baseline for the program or project, as of the date of the
+submission of the report, and the original program baseline for such program or project, if such baselines are not the same;
+``(F) the technology readiness level of each critical technology that is part of the program or project;
+``(G) whether or not the program or project is redundant or overlaps with the efforts of another military department; and
+``(H) the capability gap that the program or project is being developed or procured to fulfill.
+``(4) A classified annex that contains the items described in subparagraphs (A) through (H) of paragraph (3) for each classified program or project on the list required by paragraph (2).
+``Sec. 503. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities
+``At the same time as the President submits to Congress the budget of the President under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Secretary of Defense shall submit to the congressional defense committees an assessment by the Electromagnetic Spectrum Operations Executive Committee as to whether sufficient funds are requested in such budget for anticipated activities in such fiscal year for each of the following:
+``(1) The development of an electromagnetic battle management capability for joint electromagnetic spectrum operations.
+``(2) The establishment and operation of associated joint electromagnetic spectrum operations cells.
+``Sec. 504. Electromagnetic spectrum superiority implementation plan
+``(a) In General.--The Chief Information Officer of the Department of Defense shall be responsible for oversight of the electromagnetic superiority implementation plan.
+``(b) Report Required.--
+Concurrent with the submission of the budget of the President to Congress under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Chief Information Officer shall submit to the congressional defense committees a report that includes the following with respect to the electromagnetic superiority implementation plan:
+``(1) The implementation plan in effect as of the date of the report, noting any revisions from the preceding plan.
+``(2) A statement of the elements of the implementation plan that have been achieved.
+``(3) For each element that has been achieved, an assessment of whether the element is having its intended effect.
+``(4) For any element that has not been achieved, an assessment of progress made in achieving the element, including a description of any obstacles that may hinder further progress.
+``(5) For any element that has been removed from the implementation plan, a description of the reason for the removal of the element and an assessment of the impact of not pursuing achievement of the element.
+``(6) Such additional matters as the Chief Information Officer considers appropriate.
+
+`(c) Electromagnetic Superiority Implementation Plan Defined.--In this section, the term electromagnetic superiority
+implementation plan' means the Electromagnetic Superiority Implementation Plan signed by the Secretary of Defense on July 15, 2021, and any successor plan.
+``Sec. 505. Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations
+`(a) In General.--Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, the Secretary of Defense shall establish an Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations (in this section referred to as the operational lead') at the United States Strategic Command. The operational lead shall report to the Commander of the United States Strategic Command.
+``(b) Function.--The operational lead shall be responsible for synchronizing, assessing, and making recommendations to the Chairman of the Joint Chiefs of Staff with respect to the readiness of the combatant commands to conduct joint electromagnetic spectrum operations.``(c) Briefings Required.--Concurrent with the submission of the budget of the President to Congress under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Chairman, acting through the operational lead, shall provide to the congressional defense committees a briefing on the following:
+``(1) Progress made in achieving full operational capability to conduct joint electromagnetic spectrum operations and any impediments to achieving such capability.
+``(2) The readiness of the combatant commands to conduct such operations.
+``(3) Recommendations for overcoming any deficiencies in the readiness of the combatant commands to conduct such operations and any material gaps contributing to such deficiencies.
+``(4) Such other matters as the Chairman considers important to ensuring that the combatant commands are capable of conducting such operations.
+``Sec. 506. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions
+``(a) Evaluations of Armed Forces.--(1) Not later than October 1, 2024, and annually thereafter through 2029, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations shall each carry out an evaluation of the ability of the armed force concerned to perform electromagnetic spectrum operations missions required by each of the following:
+``(A) The Electromagnetic Spectrum Superiority Strategy.
+``(B) The Joint Staff-developed concept of operations for electromagnetic spectrum operations.
+``(C) The operations and contingency plans of the combatant commands.
+``(2) Not later than December 31 of each year in which evaluations are required under paragraph (1), each official specified in that paragraph shall certify to the congressional defense committees
+that the evaluation required to be carried out by that official has occurred.``(3) Each evaluation under paragraph (1) shall include an assessment of the following:
+``(A) Current programs of record, including--
+``(i) the ability of weapon systems to perform missions in contested electromagnetic spectrum environments; and
+``(ii) the ability of electromagnetic attack with capabilities to disrupt adversary operations.
+``(B) Future programs of record, including--
+``(i) the need for distributed or network-centric electromagnetic warfare and signals intelligence capabilities; and
+``(ii) the need for automated and machine learning- or artificial intelligence-assisted electromagnetic spectrum operations capabilities.
+``(C) Order of battle.
+``(D) Individual and unit training.
+``(E) Tactics, techniques, and procedures, including--
+``(i) maneuver, distribution of assets, and the use of decoys; and
+``(ii) integration of non-kinetic and kinetic fires.
+``(F) Other matters relevant to evaluating the ability of the armed force concerned to perform electromagnetic spectrum operations missions described in paragraph (1).`(b) Evaluations of Combatant Commands.--(1) Not later than October 1, 2024, and annually thereafter through 2029, the Chairman of the Joint Chiefs of Staff, acting through the Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations established under section 500e (in this section referred to as the operational lead'), shall carry out an evaluation of the plans and posture of the combatant commands to execute the electromagnetic spectrum operations envisioned in each of the following:
+``(A) The Electromagnetic Spectrum Superiority Strategy.
+``(B) The Joint Staff-developed concept of operations for electromagnetic spectrum operations.
+
+``(2) Each evaluation under paragraph (1) shall include an assessment, as relevant, of the following:
+``(A) Operation and contingency plans.
+``(B) The manning, organizational alignment, and capability of joint electromagnetic spectrum operations cells.
+``(C) Mission rehearsal and exercises.
+``(D) Force positioning, posture, and readiness.
+``(3) Not later than December 31 of each year in which an evaluation is required under paragraph (A), the Chairman of the Joint Chiefs of Staff, acting through the operational lead, shall brief the congressional defense committees on the results of the evaluation.''.
+
+(b) Clerical Amendment.--The tables of chapters at the beginning of subtitle A of title 10, United States Code, and at the beginning of part I of such subtitle, are each amended by inserting after the item relating to chapter 24 the following new item:
+``25. Electronic Warfare..........................................500''.
+
+(c) Conforming Repeal.--Section 1053 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. 113 note) is repealed.

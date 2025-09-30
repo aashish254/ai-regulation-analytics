@@ -1,0 +1,56 @@
+ SEC. 342. ESTABLISHMENT OF NATIONAL ADVISORY COMMITTEE ON AUTONOMOUS MARITIME SYSTEMS.
+
+
+(a) In General.—Chapter 151 of title 46, United States Code, is amended by adding at the end the following:
+
+
+“§ 15110. Establishment of National Advisory Committee on Autonomous Maritime Systems
+
+
+“(a) Establishment.—There is established a National Advisory Committee on Autonomous Maritime Systems (in this section referred to as the ‘Committee’).
+
+ “(b) Function.—The Committee shall advise the Secretary on matters relating to the regulation and use of Autonomous Systems within the territorial waters of the United States.
+
+ “(c) Membership.—
+
+
+“(1) IN GENERAL.—The Committee shall consist of 9 members appointed by the Secretary in accordance with this section and section 15109.
+
+
+“(2) EXPERTISE.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+
+“(3) REPRESENTATION.—Each of the following groups shall be represented by at least 1 member on the Committee:
+
+
+“(A) Marine safety or security entities.
+
+
+“(B) Vessel design and construction entities.
+
+
+“(C) Entities engaged in the production or research of unmanned vehicles, including drones, autonomous or semi-autonomous vehicles, or any other product or service integral to the provision, maintenance, or management of such products or services.
+
+
+“(D) Port districts, authorities, or terminal operators.
+
+
+“(E) Vessel operators.
+
+
+“(F) National labor unions representing merchant mariners.
+
+
+“(G) Maritime pilots.
+
+
+“(H) Commercial space transportation operators.
+
+
+“(I) Academic institutions.”.
+
+ (b) Clerical Amendments.—The analysis for chapter 151 of title 46, United States Code, is amended by adding at the end the following:
+
+
+“15110. Establishment of National Advisory Committee on Autonomous Maritime Systems.”.
+(c) Establishment.—Not later than 90 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall establish the Committee under section 15110 of title 46, United States Code (as added by this section).

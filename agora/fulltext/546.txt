@@ -1,0 +1,91 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Deceptive Experiences To Online Users Reduction Act” or the “DETOUR Act”.SEC. 2. DEFINITIONS.
+In this Act:
+(1) AFFIRMATIVE EXPRESS CONSENT.—The term “affirmative express consent”—
+(A) means an affirmative act by a user that—
+(i) clearly communicates the user's authorization for a specific act or practice for which the user's consent is sought to proceed;
+(ii) is freely taken by the user; and
+(iii) is taken after the user is informed about the act or practice for which consent is sought, including through the presentation to the user of a clear and conspicuous description of the act or practice; and
+(B) does not include—
+(i) the consent of a child or teen; or
+(ii) the consent to a provision contained in a general contract or service agreement.
+(2) AGGREGATED DATA.—The term “aggregated data” means data that have been combined or collected together in summary or other form such that the data is not linked or reasonably linkable to any individual.
+(3) AUTO-PLAY.—The term “auto-play” means the automatic playing of content selected by a personalized recommendation system for a user.
+(4) CHILD.—The term “child” has the meaning given such term in section 1302 of the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501).
+(5) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+(6) COMPULSIVE USAGE.—The term “compulsive usage” means any response stimulated by external factors that causes an individual to engage in repetitive behavior causing psychological distress, loss of control, anxiety, depression, or harmful stress responses.
+(7) COVERED RESEARCH.—The term “covered research” means behavioral or psychological experimentation or research, including through human experimentation, of overt or observable user actions on online platforms, including interactions between and among individuals and the activities of social groups, that involves interventions that are designed by the experimenter or researcher to alter or manipulate the emotions of users.
+(8) DE-IDENTIFIED DATA.—The term “de-identified data” means information that—
+(A) does not identify and is not linked or reasonably linkable to a distinct individual or a device, regardless of whether the information is aggregated; and
+(B) does not contain any persistent identifier or other information that could readily be used to reidentify, or link the information to, the individual to whom, or the device to which, the identifier or information pertains.
+(9) INDEPENDENT REVIEW BOARD.—The term “independent review board” means a board, committee, or other group that—
+(A) serves to—
+(i) protect the autonomy and privacy of users;
+(ii) prevent exploitative and manipulative acts or practices;
+(iii) promote transparent principles of user interface and user experience design;
+(iv) promote research in keeping with best practices of covered research; and
+(v) continually evaluate industry practices and issue guidance consistent with the objectives of this Act; and
+(B) is formally designated by a large online operator to review, to approve the initiation of, and to conduct ongoing periodic reviews of, any covered research by, or at the direction or discretion of, a large online operator, involving human subjects.
+(10) LARGE ONLINE OPERATOR.—The term “large online operator” means any person that—
+(A) provides an online service that has more than 100,000,000 authenticated users of an online service in any 30-day period; and
+(B) is subject to the jurisdiction of the Commission under the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+(11) ONLINE SERVICE.—The term “online service” means a website or a service, other than an internet access service, that is made available to the public over the internet, including a social network, a search engine, or an email service.
+(12) PUBLICLY AVAILABLE INFORMATION.—The term “publicly available information” means any information that a large online operator has a reasonable basis to believe has been lawfully made available to the general public from—
+(A) Federal, State, or local government records;
+(B) widely distributed media, including—
+(i) information from a telephone book or online directory;
+(ii) television, internet, or radio content or programming; or
+(iii) a website or online service made available to all members of the public, for free or for a fee, including where all members of the public, for free or for a fee, can log in to the website or online service;
+(C) a disclosure to the general public that is required to be made by Federal, State, or local law; or
+(D) the visual observation of the physical presence of an individual or a device in a public place, not including data collected by a device in the possession of the individual.
+(13) TEEN.—The term “teen” means an individual over the age of 12 and under the age of 17.
+(14) USER.—The term “user” means any individual who engages with an online service.
+(15) USER AUTONOMY.—The term “user autonomy” means the technical ability of a user to interact with a user interface of an online service in a manner that aligns with personal intent.
+(16) USER DATA.—The term “user data”—
+(A) means any information that identifies or is linked or reasonably linkable to an individual or a device that is linked or reasonably linkable to an individual, whether directly submitted to the large online operator by the user or derived from the observed activity of the user by the large online operator; and
+(B) does not include—
+(i) aggregated data;
+(ii) de-identified data; or
+(iii) publicly available information, or inferences derived solely based on publicly available information.
+(17) USER EXPERIENCE.—The term “user experience” means how a user interacts with an online service.
+(18) USER INTERFACE.—The term “user interface” means the point at which a user interacts with a system, device, or process of an online service.SEC. 3. UNFAIR AND DECEPTIVE ACTS AND PRACTICES RELATING TO THE MANIPULATION OF USER INTERFACES.
+(a) Conduct Prohibited.—It shall be unlawful for any large online operator—
+(1) to design, modify, or manipulate a user interface on an online service with the purpose or substantial effect of obscuring, subverting, or impairing user autonomy, decision making, or choice to obtain consent or user data;
+(2) to subdivide or segment consumers of online services into groups for the purposes of covered research, except with the affirmative express consent of each user involved; or
+(3) to design, modify, or manipulate a user interface on an online service, or portion of a user interface or online service, that is directed to a child or teen with the purpose or substantial effect of causing, increasing, or encouraging compulsive usage, including using video auto-play functions initiated without the consent of a user.(b) Duties Of Large Online Operators.—Any large online operator that engages in any form of covered research based on the activity or data of the users of the large online operator shall do each of the following:
+(1) Disclose to its users on a routine basis, but not less than once each 90 days, the general purpose of any such covered research to each user whose user data is or was subject to or included in any covered research during the previous 90-day period.
+(2) Disclose to the public on a routine basis, but not less than once each 90 days, any covered research with the purposes of promoting engagement or product conversion being currently undertaken, or concluded since the prior disclosure.
+(3) Present the disclosures described in paragraphs (1) and (2) in a manner that is—
+(A) clear, conspicuous, context-appropriate, and easily accessible; and
+(B) not deceptively obscured.
+(4) (A) Subject to subparagraph (B), remove and delete all user data obtained from affected users in the course of covered research if the large online operator—
+(i) determines (or determines that it has reason to believe) that the affirmative express consent required under this section from such users was not acquired; and
+(ii) is unable to obtain within 2 business days of such determination the affirmative express consent required under this section.
+(B) If unable to remove and delete user data pursuant to subparagraph (A), discontinue the covered research.
+(5)(A) Establish a process by which a user may choose to opt out of covered research at a later date from when the user previously provided affirmative express consent for such research.
+(B) Subject to subparagraph (A), following the decision of a user to opt out, stop collecting, processing, or transferring any data from such user for the purposes of the covered research.
+(6) Establish an independent review board that shall—
+(A) develop, on a continuing basis and using the resources developed under section 4, guidance and rules for the development of user interface and user experience design of the large online operator that are consistent with the requirements of subsection (a) of this section; and
+(B) review and have authority to approve, require modification in, or disapprove all covered research conducted on users or on the basis of user activity or data consistent with subsection (a)(2).
+(7) Ensure that any independent review board established under paragraph (6) registers with the Commission, including providing to the Commission—
+(A) the names and resumes of every member of the independent review board;
+(B) the composition and reporting structure of the independent review board to the management of the large online operator;
+(C) the process by which the independent review board is to be notified of covered research or modifications of covered research, along with the processes by which the independent review board is capable of vetoing or amending such research;
+(D) any compensation provided to members of the independent review board; and
+(E) any conflict of interest that might exist concerning the participation of an individual on the independent review board.SEC. 4. NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY RESOURCES.
+(a) In General.—Not later than 540 days after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall, acting through the Information Technology Laboratory of the National Institute of Standards and Technology, conduct research to develop and disseminate consensus-based resources consistent with subsection (b) that provide recommendations for user interface and user experience design that support user autonomy, choice, and decision making in providing user consent for online services.(b) Content Of Resources.—The resources developed under subsection (a) shall—
+(1) involve methodology for usability testing to identify usability problems by collecting quantitative and qualitative data to determine the ability of users to navigate options to achieve the specified goals of user autonomy, choice, and decision making in user interface and user experience design;
+(2) include examples or demonstrations of user interface design that may restrict the user autonomy, choice, or decision making of a user; and
+(3) include methodology to evaluate the ability to identify default settings that impair user autonomy.SEC. 5. ENFORCEMENT BY THE COMMISSION.
+(a) Unfair Or Deceptive Acts Or Practices.—A violation of section 3 or a regulation promulgated under this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+(b) Powers Of The Commission.—
+(1) IN GENERAL.—The Commission shall enforce section 3 and the regulations promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
+(2) PRIVILEGES AND IMMUNITIES.—Any person who violates section 3 or a regulation promulgated under this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+(3) AUTHORITY PRESERVED.—Nothing in this Act shall be construed to limit or expand the authority of the Commission under any other provision of law.(4) REGULATIONS.—Not later than 2 years after the date of enactment of this Act, the Commission shall promulgate regulations under section 553 of title 5, United States Code, that—
+(A) establish rules for the registration, formation, and oversight of independent review boards, including standards that ensure effective independence of such boards from improper or undue influence by a large online operator; and
+(B) using the resources produced by the Director of the National Institute of Standards and Technology under section 4 as guidance, define conduct that does not have the purpose or substantial effect of—
+(i) obscuring, subverting, or impairing user autonomy, decision making, or choice; or
+(ii) causing, increasing, or encouraging compulsive usage for a child or teen, such as—
+(I) de minimis user interface changes derived from testing consumer preferences where such changes of design elements are not done solely to obtain affirmative express consent or user data;
+(II) algorithms or data outputs outside the control of a large online operator or the affiliates of such operator; and
+(III) establishing default settings that provide enhanced privacy protection to users or otherwise enhance the autonomy and decision-making ability of such users.(5) SAFE HARBOR.—The Commission may not bring an enforcement action under this Act against any large online operator that relied in good faith on the definitions developed under paragraph (4)(B).

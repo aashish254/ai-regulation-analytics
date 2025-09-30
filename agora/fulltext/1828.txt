@@ -1,0 +1,231 @@
+A BILL to amend the Code of Virginia by adding in Title 59.1 a chapter numbered 58, consisting of sections numbered 59.1-607 through 59.1-612, relating to high-risk artificial intelligence; development, deployment, and use; civil penalties.
+
+Be it enacted by the General Assembly of Virginia:
+
+1. That the Code of Virginia is amended by adding in Title 59.1 a chapter numbered 58, consisting of sections numbered 59.1-607 through 59.1-612, as follows:
+
+CHAPTER 58.
+
+HIGH-RISK ARTIFICIAL INTELLIGENCE DEVELOPER AND DEPLOYER ACT.
+
+§ 59.1-607. Definitions.
+
+As used in this chapter, unless the context requires a different meaning:
+
+"Algorithmic discrimination" means the use of an artificial intelligence system that results in an unlawful differential treatment or impact that disfavors an individual or group of individuals on the basis of their actual or perceived age, color, disability, ethnicity, genetic information, limited proficiency in the English language, national origin, race, religion, reproductive health, sex, sexual orientation, veteran status, or other classification protected under state or federal law. "Algorithmic discrimination" does not include (i) the offer, license, or use of a high-risk artificial intelligence system by a developer or deployer for the sole purpose of the developer's or deployer's self-testing to identify, mitigate, or prevent discrimination or otherwise ensure compliance with state and federal law; (ii) the expansion of an applicant, customer, or participant pool to increase diversity or redress historical discrimination; or (iii) an act or omission by or on behalf of a private club or other establishment not in fact open to the public, as set forth in Title II of the Civil Rights Act of 1964, 42 U.S.C. § 2000a(e), as amended from time to time.
+
+"Artificial intelligence system" means any machine learning-based system that, for any explicit or implicit objective, infers from the inputs such system receives how to generate outputs, including content, decisions, predictions, and recommendations, that can influence physical or virtual environments. "Artificial intelligence system" does not include any artificial intelligence system or general purpose artificial intelligence model that is used for development, prototyping, and research activities before such artificial intelligence system or general purpose artificial intelligence model is made available to deployers or consumers.
+
+"Consequential decision" means any decision that has a material legal, or similarly significant, effect on the provision or denial to any consumer of (i) parole, probation, a pardon, or any other release from incarceration or court supervision; (ii) education enrollment or an education opportunity; (iii) access to employment; (iv) a financial or lending service; (v) access to health care services; (vi) housing; (vii) insurance; (viii) marital status; or (ix) a legal service.
+
+"Consumer" means a natural person who is a resident of the Commonwealth and is acting only in an individual or household context. "Consumer" does not include a natural person acting in a commercial or employment context.
+
+"Deployer" means any person doing business in the Commonwealth that deploys or uses a high-risk artificial intelligence system to make a consequential decision in the Commonwealth.
+
+"Developer" means any person doing business in the Commonwealth that develops or intentionally and substantially modifies a high-risk artificial intelligence system that is offered, sold, leased, given, or otherwise made available to deployers or consumers in the Commonwealth.
+
+"Facial recognition" means the use of a computer system that, for the purpose of attempting to determine the identity of an unknown individual, uses an algorithm to compare the facial biometric data of an unknown individual derived from a photograph, video, or image to a database of photographs or images and associated facial biometric data in order to identify potential matches to an individual. "Facial recognition" does not include facial verification technology, which involves the process of comparing an image or facial biometric data of a known individual, where such information is provided by that individual, to an image database, or to government documentation containing an image of the known individual, to identify a potential match in pursuit of the individual's identity.
+
+"General-purpose artificial intelligence model" means a model used by an artificial intelligence system or other system that (i) displays significant generality, (ii) is capable of competently performing a wide range of distinct tasks, and (iii) can be integrated into a variety of downstream applications or systems.
+
+"General-purpose artificial intelligence model" does not include any artificial intelligence model that is used for development, prototyping, and research activities before such artificial intelligence model is made available to deployers or consumers.
+
+"Generative artificial intelligence" means an artificial intelligence system that is capable of producing and used to produce synthetic content, including audio, images, text, and videos.
+
+"Generative artificial intelligence system" means any artificial intelligence system or service that incorporates generative artificial intelligence.
+
+"High-risk artificial intelligence system" means any artificial intelligence system that is specifically intended to autonomously make, or be a substantial factor in making, a consequential decision. A system or service is not a "high-risk artificial intelligence system" if it is intended to (i) perform a narrow procedural task, (ii) improve the result of a previously completed human activity, (iii) detect any decision-making patterns or any deviations from pre-existing decision-making patterns, or (iv) perform a preparatory task to an assessment relevant to a consequential decision. "High-risk artificial intelligence system" does not include any of the following technologies:
+
+1. Anti-fraud technology that does not use facial recognition technology;
+2. Anti-malware technology;
+3. Anti-virus technology;
+4. Artificial intelligence-enabled video games;
+5. Autonomous vehicle technology;
+6. Calculators;
+7. Cybersecurity technology;
+8. Databases;
+9. Data storage;
+10. Firewall technology;
+11. Internet domain registration;
+12. Internet website loading;
+13. Networking;
+14. Spam and robocall filtering;
+15. Spell-checking technology;
+16. Spreadsheets;
+17. Web caching;
+18. Web hosting or any similar technology; or
+19. Technology that communicates with consumers in natural language for the purpose of providing users with information, making referrals or recommendations, and answering questions and is subject to an acceptable use policy that prohibits generating content that is discriminatory or unlawful.
+
+"Intentional and substantial modification" means any deliberate change made to (i) an artificial intelligence system that results, at the time when the change is implemented and any time thereafter, in any new material risk of algorithmic discrimination or (ii) a general-purpose artificial intelligence model that affects compliance of the general-purpose artificial intelligence model, materially changes the purpose of the general-purpose artificial intelligence model, or results in any new reasonably foreseeable risk of algorithmic discrimination. "Intentional and substantial modification" does not include (a) any customization made by deployers that (1) is based on legitimate nondiscriminatory business justifications, (2) is within the scope and purpose of the artificial intelligence tool, and (3) that does not result in a material change to the risks of algorithmic discrimination or (b) any change made to a high-risk artificial intelligence system, or the performance of a high-risk artificial intelligence system, if (1) the high-risk artificial intelligence system continues to learn after such high-risk artificial intelligence system is offered, sold, leased, licensed, given, or otherwise made available to a deployer, or deployed, and (2) such change (A) is made to such high-risk artificial intelligence system as a result of any learning described in clause (b) (1) and (B) was predetermined by the deployer or the third party contracted by the deployer and included within the initial impact assessment of such high-risk artificial intelligence system as required in § 59.1-609.
+
+"Machine learning" means the development of algorithms to build data-derived statistical models that are capable of drawing inferences from previously unseen data without explicit human instruction.
+
+"Person" includes any individual, corporation, partnership, association, cooperative, limited liability company, trust, joint venture, or any other legal or commercial entity and any successor, representative, agent, agency, or instrumentality thereof. "Person" does not include any government or political subdivision.
+
+"Principal basis" means the use of an output of a high-risk artificial intelligence system to make a decision without (i) human review, oversight, involvement, or intervention or (ii) meaningful consideration by a human.
+
+"Red-teaming" means adversarial testing to identify the potential adverse behaviors or outcomes of an artificial intelligence system, identify how such behaviors or outcomes occur, and stress test the safeguards against such behaviors or outcomes.
+
+"Substantial factor" means a factor that (i) uses the principal basis for making a consequential decision, (ii) is capable of altering the outcome of a consequential decision, and (iii) is generated by an artificial intelligence system. "Substantial factor" includes any use of an artificial intelligence system to generate any content, decision, prediction, or recommendation concerning a consumer that is used as the principal basis to make a consequential decision concerning the consumer.
+
+"Synthetic content" means information, such as images, video, audio clips, and, to the extent practicable, text, that has been significantly modified or generated by algorithms, including by artificial intelligence.
+
+"Trade secret" means information, including a formula, pattern, compilation, program, device, method, technique, or process, that (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
+
+§ 59.1-608. Operating standards for developers of high-risk artificial intelligence systems.
+
+A. Each developer of a high-risk artificial intelligence system shall use a reasonable duty of care to protect consumers from any known or reasonably foreseeable risks of algorithmic discrimination arising from the intended and contracted uses. In any enforcement action brought by the Attorney General pursuant to § 59.1-611, there shall be a rebuttable presumption that a developer of a high-risk artificial intelligence system used a reasonable duty of care as required by this subsection if the developer complied with the requirements of this section.
+
+B. No developer of a high-risk artificial intelligence system shall offer, sell, lease, give, or otherwise provide to a deployer or other developer a high-risk artificial intelligence system unless the developer makes available to the deployer or other developer:
+
+1. A statement disclosing the intended uses of such high-risk artificial intelligence system;
+
+2. Documentation disclosing the following:
+
+a. The known or reasonably known limitations of such high-risk artificial intelligence system, including any and all known or reasonably foreseeable risks of algorithmic discrimination arising from the intended uses of such high-risk artificial intelligence system;
+
+b. The purpose of such high-risk artificial intelligence system and the intended benefits and uses of such high-risk artificial intelligence system;
+
+c. A summary describing how such high-risk artificial intelligence system was evaluated for performance before such high-risk artificial intelligence system was licensed, sold, leased, given, or otherwise made available to a deployer or other developer;
+
+d. The measures the developer has taken to mitigate reasonable foreseeable risks of algorithmic discrimination that the developer knows arises from deployment or use of such high-risk artificial intelligence system; and
+
+e. How an individual can use such high-risk artificial intelligence system and monitor the performance of such high-risk artificial intelligence system for any risk of algorithmic discrimination;
+
+3. Documentation including (i) a description of how the high-risk artificial intelligence system was evaluated for performance and for mitigation of algorithmic discrimination before such system was made available to the deployer or other developer; (ii) a description of the intended outputs of the high-risk artificial intelligence system; (iii) a description of the measures the developer has taken to mitigate known or reasonably foreseeable risks of algorithmic discrimination that may arise from the reasonably foreseeable deployment of the high-risk artificial intelligence system; and (iv) a description of how the high-risk artificial intelligence system should be used, not be used, and be monitored by an individual when such system is used to make, or is a substantial factor in making, a consequential decision; and
+
+4. Any additional documentation that is reasonably necessary to assist the deployer or other developer in understanding the outputs and monitoring performance of the high-risk artificial intelligence system for risks of algorithmic discrimination.
+
+C. Each developer that offers, sells, leases, gives, or otherwise makes available to a deployer or other developer a high-risk artificial intelligence system shall make available to the deployer or other developer to the extent feasible and necessary, information and documentation through artifacts such as system cards or predeployment impact assessments, including any risk management policy designed and implemented and any relevant impact assessment completed, and such documentation and information shall enable the deployer, other developer, or a third party contracted by the deployer to complete an impact assessment as required in § 59.1-609.
+
+D. A developer that also serves as a deployer for any high-risk artificial intelligence system shall not be required to generate the documentation required by this section unless such high-risk artificial intelligence system is provided to an unaffiliated entity acting as a deployer or as otherwise required by law.
+
+E. Nothing in this section shall be construed to require a developer to disclose any trade secret, information that could create a security risk, or other confidential or proprietary information protected under state or federal law.
+
+F. High-risk artificial intelligence systems that are in conformity with the latest version of the Artificial Intelligence Risk Management Framework published by the National Institute of Standards and Technology,   Standard ISO/IEC 42001 of the International Organization for Standardization, or another nationally or internationally recognized risk management framework for artificial intelligence systems, or parts thereof, shall be presumed to be in conformity with related requirements set out in this section and in associated regulations.
+
+G. For any disclosure required pursuant to this section, each developer shall, no later than 90 days after the developer performs an intentional and substantial modification to any high-risk artificial intelligence system, update such disclosure as necessary to ensure that such disclosure remains accurate.
+
+H. 1. Each developer of a high-risk generative artificial intelligence system that generates or substantially modifies synthetic content shall ensure that the outputs of such high-risk artificial intelligence system (i) are identifiable and detectable in a manner that is accessible by consumers using industry-standard tools or tools provided by the developer; (ii) comply with any applicable accessibility requirements, as synthetic content, to the extent reasonably feasible; and (iii) apply such identification at the time the output is generated;
+
+2. If such synthetic content is an audio, image, or video format that forms part of an evidently artistic, creative, satirical, fictional analogous work or program, such requirement for identifying outputs of high-risk artificial intelligence systems pursuant to subdivision 1 shall be limited to a manner that does not hinder the display or enjoyment of such work or program.
+
+3. The identification of outputs required by subdivision 1 shall not apply to (i) synthetic content that consists exclusively of text, is published to inform the public on any matter of public interest, or is unlikely to mislead a reasonable person consuming such synthetic content or (ii) the outputs of a high-risk artificial intelligence system that performs an assistive function for standard editing, does not substantially alter the input data provided by the developer, or is used to detect, prevent, investigate, or prosecute any crime as authorized by law.
+
+I. Where multiple developers directly contribute to the development of a high-risk artificial intelligence system, each developer shall be subject to the obligations and operating standards applicable to developers pursuant to this section solely with respect to its activities contributing to the development of the high-risk artificial intelligence system.
+
+§ 59.1-609. Operating standards for deployers of high-risk artificial intelligence systems.
+
+A. Each deployer of a high-risk artificial intelligence system shall use a reasonable duty of care to protect consumers from any known or reasonably foreseeable risks of algorithmic discrimination. In any enforcement action brought by the Attorney General pursuant to § 59.1-611, there shall be a rebuttable presumption that a deployer of a high-risk artificial intelligence system used a reasonable duty of care as required by this subsection if the deployer complied with the provisions of this section.
+
+B. No deployer shall deploy or use a high-risk artificial intelligence system to make a consequential decision unless the deployer has designed and implemented a risk management policy and program for such high-risk artificial intelligence system. The risk management policy shall specify the principles, processes, and personnel that the deployer shall use in maintaining the risk management program to identify, mitigate, and document any risk of algorithmic discrimination that is a reasonably foreseeable consequence of deploying or using such high-risk artificial intelligence system to make a consequential decision. Each risk management policy and program designed, implemented, and maintained pursuant to this subsection shall be reasonable considering the guidance and standards set forth in the latest version of:
+
+1. The Artificial Intelligence Risk Management Framework published by the National Institute of Standards and Technology;
+
+2. Standard ISO/IEC 42001 of the International Organization for Standardization;
+
+3. A nationally or internationally recognized risk management framework for artificial intelligence systems with requirements that are substantially equivalent to, and at least as stringent as, the requirements set forth in this section; or
+
+4. Any risk management framework for artificial intelligence systems that the Attorney General may designate and is substantially equivalent to, and at least as stringent as, the guidance and standards described in subdivision 1. High-risk artificial intelligence systems that are in conformity with the latest version of the Artificial Intelligence Risk Management Framework published by the National Institute of Standards and Technology, Standard ISO/IEC 42001 of the International Organization for Standardization, or another nationally or internationally recognized risk management framework for artificial intelligence systems, or parts thereof, shall be presumed to be in conformity with related requirements set out in this section and in associated regulations.
+
+C. Except as provided in this subsection, no deployer shall deploy or use a high-risk artificial intelligence system to make a consequential decision unless the deployer has completed an impact assessment for such high-risk artificial intelligence system. The deployer shall complete an impact assessment for a high-risk artificial intelligence system (i) before the deployer initially deploys such high-risk artificial intelligence system and (ii) before a significant update to such high-risk artificial intelligence system is used to make a consequential decision.
+
+Each impact assessment completed pursuant to this subsection shall include, at a minimum:   1. A statement by the deployer disclosing (i) the purpose, intended use cases and deployment context of, and benefits afforded by the high-risk artificial intelligence system and (ii) whether the deployment or use of the high-risk artificial intelligence system poses any known or reasonably foreseeable risk of algorithmic discrimination and, if so, (a) the nature of such algorithmic discrimination and (b) the steps that have been taken, to the extent feasible, to mitigate such risk;
+
+2. For each post-deployment impact assessment completed pursuant to this subsection, whether the intended use cases of the high-risk artificial intelligence system as updated were consistent with, or varied from, the developer's intended uses of such high-risk artificial intelligence system;
+
+3. A description of (i) the categories of data the high-risk artificial intelligence system processes as inputs and (ii) the outputs such high-risk artificial intelligence system produces;
+
+4. If the deployer used data to customize the high-risk artificial intelligence system, an overview of the categories of data the deployer used to customize such high-risk artificial intelligence system;
+
+5. A list of any metrics used to evaluate the performance and known limitations of the high-risk artificial intelligence system;
+
+6. A description of any transparency measures taken concerning the high-risk artificial intelligence system, including any measures taken to disclose to a consumer that such high-risk artificial intelligence system is in use when such high-risk artificial intelligence system is in use;
+
+7. A description of any post-deployment monitoring performed and user safeguards provided concerning such high-risk artificial intelligence system, including any oversight process established by the deployer to address issues arising from deployment or use of such high-risk artificial intelligence system as such issues arise; and
+
+8. An analysis of such high-risk artificial intelligence system's validity and reliability in accordance with standard industry practices and a description of any metrics used to evaluate the performance and known limitations of such high-risk artificial intelligence system.
+
+A single impact assessment may address a comparable set of high-risk artificial intelligence systems deployed or used by a deployer. High-risk artificial intelligence systems that are in conformity with the latest version of the Artificial Intelligence Risk Management Framework published by the National Institute of Standards and Technology, Standard ISO/IEC 42001 of the International Organization for Standardization, or another nationally or internationally recognized risk management framework for artificial intelligence systems, or parts thereof, shall be presumed to be in conformity with related requirements set out in this section and in associated regulations. If a deployer completes an impact assessment for the purpose of complying with another applicable law or regulation, such impact assessment shall be deemed to satisfy the requirements established in this subsection if such impact assessment is reasonably similar in scope and effect to the impact assessment that would otherwise be completed pursuant to this subsection. A deployer that completes an impact assessment pursuant to this subsection shall maintain such impact assessment and all records concerning such impact assessment for three years.
+
+Throughout the period of time that a high-risk artificial intelligence system is deployed and for a period of at least three years following the final deployment of such high-risk artificial intelligence system, the deployer shall retain all records concerning each impact assessment conducted on the high-risk artificial intelligence system, including all raw data used to evaluate the performance and known limitations of such system.
+
+D. Not later than the time that a deployer uses a high-risk artificial intelligence system to interact with a consumer, the deployer shall disclose to the consumer that the deployer is interacting with an artificial intelligence system disclosing (i) the purpose of such high-risk artificial intelligence system, (ii) the nature of such system, (iii) the nature of the consequential decision, (iv) the contact information for the deployer, and (v) a description of the artificial intelligence system in plain language of such system, which shall include (a) a description of the personal characteristics or attributes that such system will measure or assess, (b) the method by which the system measures or assesses such attributes or characteristics, (c) how such attributes or characteristics are relevant to the consequential decisions for which the system should be used, (d) any human components of such system, and (e) how any automated components of such system are used to inform such consequential decisions.
+
+A deployer that has deployed a high-risk artificial intelligence system to make a consequential decision concerning a consumer shall transmit to the consumer the consequential decision without undue delay. If such consequential decision is adverse to such consumer and based on personal data beyond information that the consumer provided directly to the deployer, the deployer shall provide to the consumer (a) a statement disclosing the principal reason or reasons for the consequential decision, including (1) the degree to which and manner in which the high-risk artificial intelligence system contributed to the consequential decision, (2) the type of data that was processed by such system in making the consequential decision, and (3) the sources of such data; (b) pursuant to the provisions of the Consumer Data Protection Act (§ 59.1-575 et seq.), an opportunity to correct any inaccuracies in the consumer's personal data that the high-risk artificial intelligence system processed in making, or as a substantial factor in making, the consequential decision; and   (c) an opportunity to appeal such adverse consequential decision concerning the consumer arising from the deployment of such system. Any such appeal shall allow for human review, if technically reasonable and practicable, unless providing the opportunity for appeal is not in the best interest of the consumer, including instances in which any delay might pose a risk to the life or safety of such consumer.
+
+E. Each deployer shall make available, in a manner that is clear and readily available, a statement summarizing how such deployer manages any reasonably foreseeable risk of algorithmic discrimination that may arise from the use or deployment of the high-risk artificial intelligence system.
+
+F. For any disclosure required pursuant to this section, each deployer shall, no later than 30 days after the deployer is notified by the developer that the developer has performed an intentional and substantial modification to any high-risk artificial intelligence system, update such disclosure as necessary to ensure that such disclosure remains accurate.
+
+G. Any deployer who performs an intentional and substantial modification to any high-risk artificial intelligence system shall comply with the documentation and disclosure requirements for developers pursuant to subsections B through G of § 59.1-608.
+
+H. Nothing in this section shall be construed to require a deployer to disclose any trade secret, information that could create a security risk, or other confidential or proprietary information protected under state or federal law.
+
+§ 59.1-610. Exemptions.
+
+A. Nothing in this chapter shall be construed to restrict a developer's or deployer's ability to (i) comply with federal, state, or municipal ordinances or regulations; (ii) comply with a civil, criminal, or regulatory inquiry, investigation, subpoena, or summons by federal, state, local, or other governmental authorities; (iii) cooperate with law-enforcement agencies concerning conduct or activity that the developer or deployer reasonably and in good faith believes may violate federal, state, or local law, ordinances, or regulations; (iv) investigate, establish, exercise, prepare for, or defend legal claims; (v) provide a product or service specifically requested by a consumer; (vi) perform under a contract to which a consumer is a party, including fulfilling the terms of a written warranty; (vii) take steps at the request of a consumer prior to entering into a contract; (viii) take immediate steps to protect an interest that is essential for the life or physical safety of the consumer or another individual; (ix) prevent, detect, protect against, or respond to security incidents, identity theft, fraud, harassment, or malicious or deceptive activities; (x) take actions to prevent, detect, protect against, report, or respond to the production, generation, incorporation, or synthesization of child sex abuse material, or any illegal activity, preserve the integrity or security of systems, or investigate, report, or prosecute those responsible for any such action; (xi) engage in public or peer-reviewed scientific or statistical research in the public interest that adheres to all other applicable ethics and privacy laws and is approved, monitored, and governed by an institutional review board that determines, or similar independent oversight entities that determine, (a) that the expected benefits of the research outweigh the risks associated with such research and (b) whether the developer or deployer has implemented reasonable safeguards to mitigate the risks associated with such research; (xii) assist another developer or deployer with any of the obligations imposed by this chapter; or (xiii) take any action that is in the public interest in the areas of public health, community health, or population health, but solely to the extent that such action is subject to suitable and specific measures to safeguard the public.
+
+B. The obligations imposed on developers or deployers by this chapter shall not restrict a developer's or deployer's ability to (i) conduct internal research to develop, improve, or repair products, services, or technologies; (ii) effectuate a product recall; (iii) identify and repair technical errors that impair existing or intended functionality; or (iv) perform internal operations that are reasonably aligned with the expectations of the consumer or reasonably anticipated based on the consumer's existing relationship with the developer or deployer.
+
+C. Nothing in this chapter shall be construed to impose any obligation on a developer or deployer to disclose trade secrets or information protected from disclosure by state or federal law.
+
+D. The obligations imposed on developers or deployers by this chapter shall not apply where compliance by the developer or deployer with such obligations would violate an evidentiary privilege under federal law or the laws of the Commonwealth.
+
+E. Nothing in this chapter shall be construed to impose any obligation on a developer or deployer that adversely affects the legally protected rights or freedoms of any person, including the rights of any person to freedom of speech or freedom of the press guaranteed in the First Amendment to the Constitution of the United States or under the Virginia Human Rights Act (§ 2.2-3900 et seq.).
+
+F. The obligations imposed on developers or deployers by this chapter shall not apply to any artificial intelligence system that is acquired by or for the federal government or any federal agency or department, including the U.S. Department of Commerce, the U.S. Department of Defense, and the National Aeronautics and Space Administration, unless such artificial intelligence system is a high-risk artificial intelligence system that is used to make, or is a substantial factor in making, a decision concerning employment or housing.
+
+G. For the purposes of this subsection:
+
+"Affiliate" means the same as that term is defined in § 6.2-899.
+"Bank" means the same as that term is defined in § 6.2-800.
+"Credit union" means the same as that term is defined in § 6.2-1300.
+"Federal credit union" means a credit union duly organized under federal law.
+"Mortgage lender" means the same as that term is defined in § 6.2-1600.
+"Out-of-state bank" means the same as that term is defined in § 6.2-836.
+"Out-of-state credit union" means a credit union organized and doing business in another state.
+"Savings institution" means the same as that term is defined in § 6.2-1100.
+"Subsidiary" means the same as that term is defined in § 6.2-700. The obligations imposed on developers or deployers by this chapter shall be deemed satisfied for any bank, out-of-state bank, credit union, federal credit union, mortgage lender, out-of-state credit union, savings institution, or any affiliate, subsidiary, or service provider thereof if such bank, out-of-state bank, credit union, federal credit union, mortgage lender, out-of-state credit union, savings institution, or affiliate, subsidiary, or service provider is subject to the jurisdiction of any state or federal regulator under any published guidance or regulations that apply to the use of high-risk artificial intelligence systems and such guidance or regulations.
+
+H. For purposes of this subsection, "insurer" means the same as that term is defined in § 38.2-100. The provisions of this chapter shall not apply to any insurer, or any high-risk artificial intelligence system developed by or for or deployed by an insurer for use in the business of insurance, if such insurer is regulated and supervised by the State Corporation Commission or a comparable federal regulating body and subject to examination by such entity under any existing statutes, rules, or regulations pertaining to unfair trade practices and unfair discrimination prohibited under Chapter 5 (§ 38.2-500 et seq.) of Title 38.2, or published guidance or regulations that apply to the use of high-risk artificial intelligence systems and such guidance or regulations aid in the prevention and mitigation of algorithmic discrimination caused by the use of a high-risk artificial intelligence system or any risk of algorithmic discrimination that is reasonably foreseeable as a result of the use of a high-risk artificial intelligence system. Nothing in this chapter shall be construed to delegate existing regulatory oversight of the business of insurance to any department or agency other than the Bureau of Insurance of the Virginia State Corporation Commission.
+
+I. The provisions of this chapter shall not apply to the development of an artificial intelligence system that is used exclusively for research, training, testing, or other pre-deployment activities performed by active participants of any sandbox software or sandbox environment established and subject to oversight by a designated agency or other government entity and that is in compliance with the provisions of this chapter.
+
+J. The provisions of this chapter shall not apply to a developer or deployer, or other person who develops, deploys, puts into service, or intentionally modifies, as applicable, a high-risk artificial intelligence system that (i) has been approved, authorized, certified, cleared, developed, or granted by a federal agency acting within the scope of the federal agency's authority, or by a regulated entity subject to the supervision and regulation of the Federal Housing Finance Agency or (ii) is in compliance with standards established by a federal agency or by a regulated entity subject to the supervision and regulation of the Federal Housing F inance Agency, if the standards are substantially equivalent or more stringent than the requirements of this chapter.
+
+K. The provisions of this chapter shall not apply to a developer or deployer, or other person that (i) facilitates or engages in the provision of telehealth services, as defined in § 32.1-122.03:1, or (ii) is a covered entity within the meaning of the federal Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. § 1320d et seq.) and the regulations promulgated under such federal act, as both may be amended from time to time, and is providing (a) health care recommendations that (1) are generated by an artificial intelligence system and (2) require a health care provider, as defined in § 8.01-581.1, to take action to implement the recommendations or (b) services utilizing an artificial intelligence system for an administrative, quality measurement, security, or internal cost or performance improvement function.
+
+L. If a developer or deployer engages in any action authorized by an exemption set forth in this section, the developer or deployer bears the burden of demonstrating that such action qualifies for such exemption.
+
+M. If a developer or deployer withholds information pursuant to an exemption set forth in this chapter for which disclosure would otherwise be required by this chapter, including the exemption from disclosure of trade secrets, the developer or deployer shall notify the subject of disclosure and provide a basis for withholding the information. If a developer or deployer redacts any information pursuant to an exemption from disclosure, the developer or deployer shall notify the subject of disclosure that the developer or deployer is redacting such information and provide the basis for such decision to redact. 
+
+§ 59.1-611. Enforcement; civil penalties.
+
+A. The Attorney General shall have exclusive authority to enforce the provisions of this chapter.
+
+B. Whenever the Attorney General has reasonable cause to believe that any person has engaged in or is engaging in any violation of this chapter, the Attorney General is empowered to issue a civil investigative demand. The provisions of § 59.1-9.10 shall apply mutatis mutandis to civil investigative demands issued   pursuant to this section. In rendering and furnishing any information requested pursuant to a civil investigative demand issued pursuant to this section, a developer or deployer may redact or omit any trade secrets or information protected from disclosure by state or federal law. If a developer or deployer refuses to disclose, redacts, or omits information based on the exemption from disclosure of trade secrets, such developer or deployer shall affirmatively state to the Attorney General that the basis for nondisclosure, redaction, or omission is because such information is a trade secret. To the extent that any information requested pursuant to a civil investigative demand issued pursuant to this section is subject to attorney-client privilege or work-product protection, disclosure of such information pursuant to the civil investigative demand shall not constitute a waiver of such privilege or protection. Any information, statement, or documentation provided to the Attorney General pursuant to this section shall be exempt from disclosure under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+
+C. Notwithstanding any contrary provision of law, the Attorney General may cause an action to be brought in the appropriate circuit court in the name of the Commonwealth to enjoin any violation of this chapter. The circuit court having jurisdiction may enjoin such violation notwithstanding the existence of an adequate alternative remedy at law.
+
+D. Any person who violates the provisions of this chapter shall be subject to a civil penalty in an amount not to exceed $1,000 plus reasonable attorney fees, expenses, and costs, as determined by the court. Any person who willfully violates the provisions of this chapter shall be subject to a civil penalty in an amount not less than $1,000 and not more than $10,000 plus reasonable attorney fees, expenses, and costs, as determined by the court. Such civil penalties shall be paid into the Literary Fund.
+
+E. Each violation of this chapter shall constitute a separate violation and shall be subject to any civil penalties imposed under this section.
+
+F. The Attorney General may require that a developer disclose to the Attorney General any statement or documentation described in this chapter if such statement or documentation is relevant to an investigation conducted by the Attorney General. The Attorney General may also require that a deployer disclose to the Attorney General any risk management policy designed and implemented, impact assessment completed, or record maintained pursuant to this chapter if such risk management policy, impact assessment, or record is relevant to an investigation conducted by the Attorney General.
+
+G. In an action brought by the Attorney General pursuant to this section, it shall be an affirmative defense that the developer or deployer (i) discovers a violation of any provision of this chapter through red-teaming or other method; (ii) no later than 45 days after discovering such violation (a) cures such violation and (b) provides notice to the Attorney General in a form and manner as prescribed by the Attorney General that such violation has been cured and evidence that any harm caused by such violation has been mitigated; and (iii) is otherwise in compliance with the requirements of this chapter.
+
+H. Prior to causing an action against a developer or deployer for a violation of this chapter pursuant to subsection C, the Attorney General shall determine, in consultation with the developer or deployer, if it is possible to cure the violation. If it is possible to cure such violation, the Attorney General may issue a notice of violation to the developer or deployer and afford the developer or deployer the opportunity to cure such violation within 45 days of the receipt of such notice of violation. In determining whether to grant such opportunity to cure such violation, the Attorney General shall consider (i) the number of violations; (ii) the size and complexity of the developer or deployer; (iii) the nature and extent of the developer's or deployer's business; (iv) the substantial likelihood of injury to the public; (v) the safety of persons or property; and (vi) whether such violation was likely caused by human or technical error. If the developer or deployer fails to cure such violation within 45 days of the receipt of such notice of violation, the Attorney General may proceed with such action.
+
+I. Nothing in this chapter shall create a private cause of action in favor of any person aggrieved by a violation of this chapter.
+
+§ 59.1-612. Construction of chapter.
+
+A. This chapter is declared to be remedial, with the purposes of protecting consumers and ensuring consumers receive information about consequential decisions affecting them. The provisions of this chapter granting rights or protections to consumers shall be construed broadly and exemptions construed narrowly.
+
+B. If any provision of this chapter or its application to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this chapter that can be given effect without the invalid provision or application, and to this end all the provisions of this chapter are hereby expressly declared to be severable.
+
+2. That the provisions of this act shall become effective on July 1, 2026.
+
+3. That compliance with the provisions of Chapter 58 (§ 59.1-607 et seq.) of Title 59.1 of the Code of Virginia, as created by this act, shall not (i) relieve a person from liability for any causes of action that existed at common law or by statute prior to July 1, 2026, or (ii) be construed to modify or otherwise affect, preempt, limit, or displace any causes of action that existed at common law or by statute prior to July 1, 2026. 

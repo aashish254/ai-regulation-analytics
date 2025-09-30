@@ -1,0 +1,102 @@
+1.0 SUBJECT: Generative Artificial Intelligence Policy
+
+
+2.0 DISTRIBUTION: Executive Branch Cabinet and Non-Cabinet Agencies
+
+
+3.0 FROM: Jeff Maxon, Interim Chief Information Technology Officer
+
+
+4.0 PURPOSE:
+The purpose of this policy is to outline the acceptable use of generative artificial intelligence (AI).
+The policy is created to protect the safety, privacy, and intellectual property rights of the State of
+Kansas.
+
+
+5.0 BACKGROUND:
+As generative AI technology progresses, chatbots, virtual assistants, and other systems based on it
+are becoming more prevalent. These can include standalone systems, be integrated as features
+within search engines, or be overtly or transparently embedded in all manner of other software
+tools. Examples include ChatGPT and DALL-E from OpenAI, Microsoft Bing’s chat, Microsoft
+365 Copilot, and Bard from Google.
+Generative AI tools have the potential to enhance productivity by assisting with tasks like drafting
+documents, editing text, generating ideas, and software coding. However, these technologies also
+come with potential risks that include inaccuracies, bias and unauthorized use of intellectual
+property in the content generated. In addition, content created by AI, and the public availability of
+information submitted to the AI, could pose security or privacy concerns.
+
+
+6.0 ORGANIZATIONS AFFECTED: Executive Branch Cabinet and Non-Cabinet Agencies
+
+
+7.0 REFERENCES:
+7.1 ITEC Policy 7230A
+7.2 State of Kansas Social Media Policy
+
+
+8.0 DEFINITIONS:
+8.1 Generative artificial intelligence (AI) uses advanced technologies such as predictive
+algorithms, machine learning, and large language models to process natural language and
+produce content in the form of text, images, or other types of media. Generated content is
+typically remarkably similar to what a human creator might produce, such as text consisting of
+entire narratives of naturally reading sentences.
+8.2 Restricted Use Information as defined in ITEC 7230A.
+8.3 Entity is defined as agencies, boards, commissions under the direction of the Governor or
+agents and contractors acting on behalf of those agencies, boards or commissions.
+
+
+9.0 POLICY: This policy shall serve as the primary governing document for usage of generative
+artificial intelligence technology as a user or related activities by the entities. While any entity may
+impose additional restrictions through their own policy, such policies must not conflict with the
+provisions outlined in this policy.
+9.1 This policy applies to all business use cases involving the State of Kansas, including but not
+limited to:
+9.1.1 development of software code,
+9.1.2 written documentation (i.e., policy, legislation, or regulations) and correspondence (such
+as memorandums, letters, text messages, and emails),
+9.1.3 research,
+9.1.4 summarizing and proofreading documents,
+9.1.5 making business decisions that impact short-term or long-term activities or policies and
+procedures.
+
+
+9.2 Responsibilities
+9.2.1 Responses generated from generative AI outputs shall be reviewed by knowledgeable
+human operators for accuracy, appropriateness, privacy and security before being acted
+upon or disseminated.
+9.2.2 Responses generated from generative AI shall not:
+9.2.2.1 be used verbatim,
+9.2.2.2 be assumed to be truthful, credible, or accurate,
+9.2.2.3 be treated as the sole source of reference,
+9.2.2.4 be used to issue official statements (i.e. policy, legislation, or regulations),
+9.2.2.5 be solely relied upon for making final decisions,
+9.2.2.6 be used to impersonate individuals or organizations.
+9.2.3 Restricted Use Information (RUI) shall not be provided when interacting with generative
+AI. Refer to ITEC Policy 7230A Section 9.16 Account Management - RUI.
+9.2.4 Material that is inappropriate for public release shall not be entered as input to generative
+AI. All information that is provided shall be subjected to the same standard as referenced
+in the State Social Media Policy and shall be treated as publicly available.
+9.2.5 Material that is copyrighted or the property of another, shall not be entered as input to
+generative AI.
+9.2.6 Generative AI shall not be used for any activities that are harmful, illegal, or in violation
+of state policy or agency acceptable use policy.
+9.2.7 Agencies shall ensure contractors disclose in their contracts the utilization of generative
+AI or integrations with generative AI platforms.
+9.2.8 Agency contracts shall prohibit contractors from using State of Kansas RUI or other
+confidential data in generative AI queries or for building or training proprietary
+generative AI programs unless explicitly approved by the agency head with consultation
+from the Chief Information Security Officer.
+9.2.9 Contractors utilizing Generative AI to build software explicitly for the State of Kansas
+must demonstrate positive control over all data input into the system.
+9.3 Software Code development
+9.3.1 Software code generated by generative AI shall only be implemented after the entity has
+identified and mitigated all business and security risks related to its use.
+9.3.2 All usage of software code generated by generative AI shall be annotated.
+
+
+10.0 RESPONSIBILITIES:
+10.1 Heads of entities are responsible for establishing procedures for their organization’s
+compliance with the requirements of this policy.
+10.2 OITS is responsible for the maintenance of this policy.
+11.0 HISTORY: This PPM was originally issued #8200.00, dated 19 May 2023.
+12.0 CONTACT: Chief Information Technology Architect

@@ -1,0 +1,25 @@
+SEC. 247. PILOT PROGRAM ON THE USE OF ELECTRONIC PORTFOLIOS TO EVALUATE CERTAIN APPLICANTS FOR TECHNICAL POSITIONS.
+ 
+(a) PILOT PROGRAM.—Beginning not later than one year after the date of the enactment of this Act, the Secretary of Defense shall carry out a pilot program under which certain applicants for technical positions within the Department of Defense will be evaluated, in part, based on electronic portfolios of the applicant’s work, as described in subsection (b). 
+
+(b) ACTIVITIES.—Under the pilot program, the human resources manager of each organization of the Department of Defense participating in the program, in consultation with relevant subject matter experts, shall— 
+(1) identify a subset of technical positions for which the evaluation of electronic portfolios would be appropriate as part of the hiring process; and 
+(2) as appropriate, assess applicants for such positions by reviewing electronic portfolios of the applicants’ best work, as selected by the applicant concerned. 
+(c) SCOPE OF PROGRAM.—The Secretary of Defense shall carry out the pilot program under subsection (a) in— 
+(1) the Joint Artificial Intelligence Center; 
+(2) the Defense Digital Service; 
+(3) at least one activity of each military department, as identified by the Secretary of the department concerned; and 
+(4) such other organizations and elements of the Department of Defense as the Secretary determines appropriate. 
+(d) REPORT.—Not later than two years after the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the congressional defense committees a report on the results of the program. At a minimum, the report shall— 
+(1) describe how the use of electronic portfolios in the hiring process affected the timeliness of the hiring process for technical positions in organizations of the Department of Defense participating in the program; 
+(2) assess the level of satisfaction of organization leaders, hiring authorities, and subject matter experts with the quality of applicants who were hired based on evaluations of electronic portfolios; 
+(3) identify other job series that could benefit from the 
+use of electronic portfolios in the hiring process; Recommenda-(4) recommend whether the use of electronic portfolios intions. the hiring process should be expanded or made permanent; 
+and (5) recommend any statutory, regulatory, or policy changestions. required to support the goals of the pilot program under sub.
+section (a).
+
+(e) TECHNICAL POSITION DEFINED.—In this section, the term ‘‘technical position’’ means a position in the Department of Defense that— 
+(1) requires expertise in artificial intelligence, data science, or software development; and 
+(2) is eligible for direct hire authority under section 9905 of title 5, United States Code, or section 2358a of title 10, United States Code. 
+
+(f) TERMINATION.—The authority to carry out the pilot program under subsection (a) shall terminate 5 years after the date of the enactment of this Act. 

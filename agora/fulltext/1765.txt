@@ -1,0 +1,583 @@
+PART MM
+   Section 1. Short title. This act shall be known and may  be  cited  as
+ the "artificial intelligence deceptive practices act".
+   §  2.  This act enacts into law major components of legislation neces-
+ sary to implement the artificial intelligence deceptive  practices  act.
+ Each  component  is  wholly  contained  within  a  Subpart identified as
+ Subparts A through C. The effective date for each  particular  provision
+ contained  within  such Subpart is set forth in the last section of such
+ Subpart. Any provision  in  any  section  contained  within  a  Subpart,
+ including  the effective date of the Subpart, which makes a reference to
+ a section "of this act", when used in connection  with  that  particular
+ component,  shall  be  deemed  to  mean  and  refer to the corresponding
+ section of the Subpart in which it is found. Section four  of  this  act
+ sets forth the general effective date of this act.
+ 
+SUBPART A
+ 
+   Section  1.  Section  50 of the civil rights law is amended to read as
+ follows:
+   § 50. Right of privacy. A person, firm or corporation  that  uses  for
+ advertising  purposes,  or for the purposes of trade, the name, portrait
+ [or], picture, LIKENESS, OR VOICE of any living  person  without  having
+ first obtained the written consent of such person, or if a minor of [his
+ or her] SUCH MINOR'S parent or guardian, is guilty of a misdemeanor.
+   §  2. Section 51 of the civil rights law, as amended by chapter 674 of
+ the laws of 1995, is amended to read as follows:
+   § 51. Action for injunction and for damages. Any  person  whose  name,
+ portrait,  picture,  LIKENESS  or  voice  is  used within this state for
+ advertising purposes or for the purposes of trade  without  the  written
+ consent  first  obtained  as  above  provided  may maintain an equitable
+ action in the supreme court of this state against the  person,  firm  or
+ corporation  so using [his] SUCH PERSON'S name, portrait, picture, LIKE-
+ NESS or voice, to prevent and restrain the use thereof; and may also sue
+ and recover damages for any injuries sustained by reason of such use and
+ if the defendant shall have knowingly used such person's name, portrait,
+ picture, LIKENESS or voice in such manner as is forbidden or declared to
+ be unlawful  by  section  fifty  of  this  article,  the  jury,  in  its
+ discretion,  may  award exemplary damages. But nothing contained in this
+ article shall be so construed as to prevent any person, firm  or  corpo-
+ ration  from  selling  or otherwise transferring any material containing
+ such name, portrait, picture, LIKENESS or voice in  whatever  medium  to
+ any  user  of such name, portrait, picture, LIKENESS or voice, or to any
+ third party for sale or transfer directly or indirectly to such a  user,
+ for use in a manner lawful under this article; nothing contained in this
+ article  shall  be so construed as to prevent any person, firm or corpo-
+ ration, practicing the profession of photography, from exhibiting in  or
+  about  [his  or  its]  THEIR establishment specimens of the work of such
+ establishment, unless the same is continued  by  such  person,  firm  or
+ corporation after written notice objecting thereto has been given by the
+ person  portrayed;  and  nothing  contained  in this article shall be so
+ construed as to prevent any person, firm or corporation from  using  the
+ name, portrait, picture, LIKENESS or voice of any manufacturer or dealer
+ in  connection  with  the  goods,  wares  and  merchandise manufactured,
+ produced or dealt in by [him] SUCH MANUFACTURER OR DEALER which [he has]
+ THEY HAVE sold or disposed of with such name, portrait,  picture,  LIKE-
+ NESS  or  voice  used  in  connection therewith; or from using the name,
+ portrait, picture, LIKENESS or voice of any author, composer  or  artist
+ in connection with [his] THEIR literary, musical or artistic productions
+ which  [he  has] THEY HAVE sold or disposed of with such name, portrait,
+ picture, LIKENESS or  voice  used  in  connection  therewith.    Nothing
+ contained  in  this section shall be construed to prohibit the copyright
+ owner of a sound recording from disposing of, dealing in,  licensing  or
+ selling  that  sound recording to any party, if the right to dispose of,
+ deal in, license or sell such sound  recording  has  been  conferred  by
+ contract  or  other written document by such living person or the holder
+ of such right. Nothing contained in  the  foregoing  sentence  shall  be
+ deemed  to  abrogate or otherwise limit any rights or remedies otherwise
+ conferred by federal law or state law.
+   § 3. The opening paragraph of subdivision 1 and subdivisions 4  and  5
+ of  section 52-b of the civil rights law, as added by chapter 109 of the
+ laws of 2019, are amended and a new subdivision 11 is added to  read  as
+ follows:
+   Any  person  depicted  in  a  still or video image, INCLUDING AN IMAGE
+ CREATED OR ALTERED BY DIGITIZATION, regardless of  whether  or  not  the
+ original  still  or  video image was consensually obtained, shall have a
+ cause of action against an individual who, for the purpose of harassing,
+ annoying or alarming such person, disseminated or published, or  threat-
+ ened  to  disseminate  or publish, such still or video image, where such
+ image:
+   4. Any person depicted in a still or video image, INCLUDING  AN  IMAGE
+ CREATED OR ALTERED BY DIGITIZATION, that depicts an unclothed or exposed
+ intimate  part of such person, or such person engaging in sexual conduct
+ as defined in subdivision ten of section 130.00 of the  penal  law  with
+ another  person,  which is disseminated or published without the consent
+ of such person and where such person had a reasonable  expectation  that
+ the  image  would  remain  private,  may  maintain  an action or special
+ proceeding for a court order to require any website that is  subject  to
+ personal  jurisdiction  under subdivision five of this section to perma-
+ nently remove such still or video image; any such  court  order  granted
+ pursuant  to  this subdivision may direct removal only as to images that
+ are reasonably within such website's control.
+   5. a. Any website that hosts or transmits  a  still  or  video  image,
+ INCLUDING  AN IMAGE CREATED OR ALTERED BY DIGITIZATION, viewable in this
+ state, taken under circumstances where the person depicted had a reason-
+ able expectation that the image would remain private, which depicts:
+   (i) an unclothed or exposed  intimate  part,  as  defined  in  section
+ 245.15 of the penal law, of a resident of this state; or
+   (ii) a resident of this state engaging in sexual conduct as defined in
+ subdivision  ten of section 130.00 of the penal law with another person;
+ and
+   b. Such still or video image is  hosted  or  transmitted  without  the
+ consent  of  such  resident  of this state, shall be subject to personal
+ jurisdiction in a civil action in  this  state  to  the  maximum  extent
+ permitted under the United States constitution and federal law.
+   11.  FOR  PURPOSES  OF  THIS  SECTION, "DIGITIZATION" MEANS THE USE OF
+ SOFTWARE, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE, OR ANY OTHER COMPU-
+ TER-GENERATED OR TECHNOLOGICAL  MEANS,  INCLUDING  ADAPTING,  MODIFYING,
+ MANIPULATING, OR ALTERING A REALISTIC DEPICTION.
+   § 4. Paragraph  b of subdivision 1 of section 52-c of the civil rights
+ law, as added by chapter 304 of the laws of 2020,  is amended to read as
+ follows:
+   b. "digitization" means to realistically depict the nude body parts of
+ another  human  being as the nude body parts of the depicted individual,
+ computer-generated nude body  parts  as  the  nude  body  parts  of  the
+ depicted  individual  or  the  depicted  individual  engaging  in sexual
+ conduct, as defined in subdivision ten of section 130.00  of  the  penal
+ law,  in  which  the depicted individual did not engage.  "DIGITIZATION"
+ MAY ALSO MEAN THE USE OF SOFTWARE, MACHINE LEARNING, ARTIFICIAL INTELLI-
+ GENCE, OR ANY OTHER COMPUTER-GENERATED OR TECHNOLOGICAL MEANS, INCLUDING
+ ADAPTING, MODIFYING, MANIPULATING, OR ALTERING A REALISTIC DEPICTION.
+   § 5. The civil rights law is amended by adding a new section  50-h  to
+ read as follows:
+   §  50-H.  PRIVATE RIGHT OF ACTION FOR FALSE LIGHT INVASION OF PRIVACY.
+ 1.  FOR THE PURPOSES OF THIS SECTION:
+   A. "DEPICTED INDIVIDUAL" MEANS AN INDIVIDUAL WHOSE  PICTURE,  PORTRAIT
+ OR VOICE APPEARS IN DIGITALLY-ALTERED MATERIAL IN A REALISTIC MANNER.
+   B. "ACTOR" MEANS A HUMAN BEING OR A LEGAL ENTITY.
+   C. "INDIVIDUAL" MEANS A NATURAL INDIVIDUAL.
+   D. "DIGITIZATION" MEANS THE USE OF SOFTWARE, MACHINE LEARNING, ARTIFI-
+ CIAL  INTELLIGENCE,  OR  ANY  OTHER  COMPUTER-GENERATED OR TECHNOLOGICAL
+ MEANS, INCLUDING ADAPTING, MODIFYING, MANIPULATING, OR ALTERING A  REAL-
+ ISTIC DEPICTION.
+   E.  "DIGITALLY-ALTERED  MATERIAL"  MEANS  ANY  AUDIO  OR VISUAL MEDIA,
+ INCLUDING ANY PHOTOGRAPH, FILM, VIDEOTAPE, AUDIO  RECORDING  OR  SIMILAR
+ MEDIUM  THAT  HAS  BEEN  CREATED  OR ALTERED IN A REALISTIC MANNER USING
+ DIGITIZATION.
+  2. A. A DEPICTED INDIVIDUAL SHALL HAVE A CAUSE OF  ACTION  AGAINST  AN
+ ACTOR  WHO DISCLOSES, DISSEMINATES, OR PUBLISHES DIGITALLY-ALTERED MATE-
+ RIAL THAT CONTAINS A FALSE STATEMENT OR REPRESENTATION WHICH PLACES SUCH
+ INDIVIDUAL IN A FALSE LIGHT, IF:
+   I. THE FALSE LIGHT IN WHICH THE DEPICTED INDIVIDUAL WAS  PLACED  WOULD
+ BE HIGHLY OFFENSIVE TO A REASONABLE PERSON; AND
+   II.  (A)  WHERE THE DEPICTED INDIVIDUAL IS A PRIVATE PERSON, THE ACTOR
+ KNEW OR IN THE EXERCISE OF REASONABLE CARE  SHOULD  HAVE  KNOWN  OF  THE
+ FALSITY  OF  SUCH  DIGITALLY-ALTERED MATERIAL; OR (B) WHERE THE DEPICTED
+ INDIVIDUAL IS A PUBLIC FIGURE, THE ACTOR HAD KNOWLEDGE OF OR ACTED  WITH
+ RECKLESS DISREGARD AS TO THE FALSITY OF SUCH DIGITALLY-ALTERED MATERIAL.
+   B.  IT  SHALL  NOT  BE  A DEFENSE TO AN ACTION UNDER THIS SECTION THAT
+ THERE IS A DISCLAIMER THAT THE DIGITALLY-ALTERED  MATERIAL  THAT  PLACES
+ THE  DEPICTED  INDIVIDUAL  IN A FALSE LIGHT WAS UNAUTHORIZED OR THAT THE
+ DEPICTED INDIVIDUAL DID NOT PARTICIPATE IN THE CREATION  OR  DEVELOPMENT
+ OF THE DIGITALLY-ALTERED MATERIAL.
+   3.  A  CAUSE OF ACTION UNDER THIS SECTION SHALL BE COMMENCED THE LATER
+ OF EITHER:
+   A. THREE YEARS AFTER THE DISCLOSURE, DISSEMINATION OR  PUBLICATION  OF
+ THE  DIGITALLY-ALTERED MATERIAL THAT PLACES THE DEPICTED INDIVIDUAL IN A
+ FALSE LIGHT;
+    B. ONE YEAR FROM THE DATE A PERSON  DISCOVERS,  OR  REASONABLY  SHOULD
+ HAVE  DISCOVERED,  THE  DISCLOSURE, DISSEMINATION OR PUBLICATION OF SUCH
+ DIGITALLY-ALTERED MATERIAL THAT PLACES  THE  DEPICTED  INDIVIDUAL  IN  A
+ FALSE LIGHT.
+   4.  IN  ANY  ACTION  COMMENCED PURSUANT TO THIS SECTION, THE FINDER OF
+ FACT, IN ITS DISCRETION, MAY AWARD INJUNCTIVE RELIEF, PUNITIVE  DAMAGES,
+ COMPENSATORY DAMAGES AND REASONABLE COURT COSTS AND ATTORNEYS' FEES.
+   5.  NOTHING  IN THIS SECTION SHALL BE READ TO REQUIRE A PRIOR CRIMINAL
+ COMPLAINT, PROSECUTION OR CONVICTION TO ESTABLISH THE  ELEMENTS  OF  THE
+ CAUSE OF ACTION PROVIDED FOR IN THIS SECTION.
+   6.  THE PROVISIONS OF THIS SECTION INCLUDING THE REMEDIES ARE IN ADDI-
+ TION TO, AND SHALL NOT SUPERSEDE, ANY OTHER RIGHTS OR REMEDIES AVAILABLE
+ IN LAW OR EQUITY.
+   7. IF ANY PROVISION OF THIS SECTION OR ITS APPLICATION TO  ANY  PERSON
+ OR  CIRCUMSTANCE  IS HELD INVALID, THE INVALIDITY SHALL NOT AFFECT OTHER
+ PROVISIONS OR APPLICATIONS OF THIS SECTION WHICH  CAN  BE  GIVEN  EFFECT
+ WITHOUT  THE  INVALID  PROVISION  OR  APPLICATION,  AND  TO THIS END THE
+ PROVISIONS OF THIS SECTION ARE SEVERABLE.
+   8. NOTHING IN THIS SECTION SHALL BE CONSTRUED TO LIMIT, OR TO ENLARGE,
+ THE PROTECTIONS THAT 47 U.S.C. § 230 CONFERS ON AN INTERACTIVE  COMPUTER
+ SERVICE FOR CONTENT PROVIDED BY ANOTHER INFORMATION CONTENT PROVIDER, AS
+ SUCH TERMS ARE DEFINED IN 47 U.S.C. § 230.
+   § 6. This act shall take effect immediately.
+ 
+SUBPART B
+ 
+   Section  1.  Section 10.00 of the penal law is amended by adding a new
+ subdivision 23 to read as follows:
+   23. "DIGITIZATION" MEANS THE USE OF SOFTWARE, MACHINE LEARNING,  ARTI-
+ FICIAL  INTELLIGENCE,  OR  ANY OTHER COMPUTER-GENERATED OR TECHNOLOGICAL
+ MEANS, INCLUDING ADAPTING, MODIFYING, MANIPULATING, OR ALTERING A  REAL-
+ ISTIC DEPICTION.
+   § 2. The penal law is amended by adding a new section 15.30 to read as
+ follows:
+ § 15.30 EFFECT OF USE OF DIGITIZATION UPON LIABILITY.
+   A  PERSON IS NOT RELIEVED OF CRIMINAL LIABILITY FOR CONDUCT BECAUSE IT
+ INVOLVES THE USE OF DIGITIZATION, REGARDLESS  OF  WHETHER  THE  MATERIAL
+ CREATED  OR  ALTERED  BY  DIGITIZATION INDICATES THROUGH A LABEL OR SOME
+ OTHER FORM OF INFORMATION PUBLISHED THAT DIGITIZATION WAS USED. EVIDENCE
+ OF USE OF DIGITIZATION MAY BE OFFERED WHENEVER IT IS RELEVANT TO  ESTAB-
+ LISH OR NEGATIVE THE CRIME CHARGED.
+   §  3.  Section 245.15 of the penal law, as added by chapter 109 of the
+ laws of 2019, subdivisions 1 and 2 as amended by chapter 513 of the laws
+ of 2023, is amended to read as follows:
+ § 245.15 Unlawful dissemination or publication of an intimate  image  OR
+            AUDIO RECORD.
+   1.  A  person is guilty of unlawful dissemination or publication of an
+ intimate image OR AUDIO RECORD when:
+   (a) (I) with intent to cause harm to the emotional, financial or phys-
+ ical welfare  of  another  person,  they  intentionally  disseminate  or
+ publish  a  still or video image depicting such other person with one or
+ more intimate parts exposed or engaging in  OBSCENE  OR  sexual  conduct
+ [with  another person], including an image created or altered by digiti-
+ zation, where such person may reasonably be identified from the still or
+ video image itself or from information displayed in connection with  the
+ still or video image; and 
+   [(b)]  (II)  the  actor  knew or reasonably should have known that the
+ person depicted did not consent to such  dissemination  or  publication,
+ including  the  dissemination  or publication of an image taken with the
+ consent of the person depicted when such person had a reasonable  expec-
+ tation  that  the  image would remain private, regardless of whether the
+ actor was present when such image was taken[.]; OR
+   (B) (I) WITH INTENT TO CAUSE HARM TO THE EMOTIONAL, FINANCIAL OR PHYS-
+ ICAL WELFARE  OF  ANOTHER  PERSON,  THEY  INTENTIONALLY  DISSEMINATE  OR
+ PUBLISH  AN  AUDIO RECORD DEPICTING SUCH OTHER PERSON ENGAGING IN SEXUAL
+ OR OBSCENE CONDUCT, INCLUDING AN AUDIO  RECORD  CREATED  OR  ALTERED  BY
+ DIGITIZATION,  WHERE  SUCH  PERSON MAY REASONABLY BE IDENTIFIED FROM THE
+ AUDIO RECORD ITSELF OR FROM INFORMATION DISPLAYED IN CONNECTION WITH THE
+ AUDIO RECORD; AND
+   (II) THE ACTOR KNEW OR REASONABLY SHOULD HAVE KNOWN  THAT  THE  PERSON
+ DEPICTED DID NOT CONSENT TO SUCH DISSEMINATION OR PUBLICATION, INCLUDING
+ THE  DISSEMINATION  OR  PUBLICATION  OF  AN  AUDIO RECORD TAKEN WITH THE
+ CONSENT OF THE PERSON DEPICTED WHEN SUCH PERSON HAD A REASONABLE  EXPEC-
+ TATION THAT THE AUDIO RECORD WOULD REMAIN PRIVATE, REGARDLESS OF WHETHER
+ THE ACTOR WAS PRESENT WHEN SUCH AUDIO RECORD WAS TAKEN.
+   2.  For  purposes  of  this section the following terms shall have the
+ following meanings:
+   (a) "intimate part" means the naked  genitals,  pubic  area,  anus  or
+ female nipple of the person;
+   (b) "disseminate" and "publish" shall have the same meaning as defined
+ in section 250.40 of this title;
+   (c)  "sexual conduct" shall have the same meaning as defined in subdi-
+ vision ten of section 130.00 of this chapter; and
+   (d) ["digitization" shall mean to alter an image in a realistic manner
+ utilizing an image  or  images  of  a  person,  other  than  the  person
+ depicted,  or  computer  generated images] "OBSCENE" SHALL HAVE THE SAME
+ MEANING AS DEFINED IN SECTION 235.00 OF THIS PART.
+   3. This section shall not apply to the following:
+   (a) the reporting of unlawful conduct;
+   (b) dissemination or publication of an intimate image OR AUDIO  RECORD
+ made  during  lawful  and  common  practices  of  law enforcement, legal
+ proceedings or medical treatment;
+   (c) images AND AUDIO RECORDS involving voluntary exposure in a  public
+ or commercial setting; or
+   (d)  dissemination or publication of an intimate image OR AUDIO RECORD
+ made for a legitimate public purpose.
+   4. Nothing in this section shall be construed to limit, or to enlarge,
+ the protections that 47 U.S.C § 230 confers on an  interactive  computer
+ service for content provided by another information content provider, as
+ such terms are defined in 47 U.S.C. § 230.
+   Unlawful  dissemination  or  publication of an intimate image OR AUDIO
+ RECORD is a class A misdemeanor.
+   § 4. Section 135.60 of the penal law, as amended by section 1 of  part
+ NN  of  chapter 55 of the laws of 2018, the opening paragraph as amended
+ by chapter 484 of the laws of 2021, subdivision 10 as added  by  chapter
+ 447 of the laws of 2021, is amended to read as follows:
+ § 135.60 Coercion in the third degree.
+   A  person  is  guilty of coercion in the third degree when [he or she]
+ SUCH PERSON compels or induces a person to engage in conduct  which  the
+ latter has a legal right to abstain from engaging in, or to abstain from
+ engaging  in conduct in which [he or she] SUCH LATTER PERSON has a legal
+ right to engage, or compels or induces a person to join a group,  organ-
+ ization  or  criminal enterprise which such latter person has a right to
+ abstain from joining, or compels or induces a person to produce, dissem-
+ inate, or otherwise display an  image  or  images  OR  AUDIO  RECORD  OR
+ RECORDS  depicting  nudity  of  such  person [or], depicting such person
+ engaged in sexual conduct as defined in subdivisions two  and  three  of
+ section  235.20  of this chapter, OR DEPICTING SUCH OTHER PERSON ENGAGED
+ IN CONDUCT THAT IS OBSCENE AS DEFINED IN SECTION 235.00  OF  THIS  PART,
+ INCLUDING  WHEN  SUCH MATERIAL IS CREATED OR ALTERED BY DIGITIZATION, by
+ means of instilling in [him or her] SUCH OTHER PERSON a  fear  that,  if
+ the demand is not complied with, the actor or another will:
+   1. Cause physical injury to a person; or
+   2. Cause damage to property; or
+   3. Engage in other conduct constituting a crime; or
+   4.  Accuse  some  person  of  a  crime or cause criminal charges to be
+ instituted against [him or her] SUCH PERSON; or
+   5. Expose a secret or publicize an  asserted  fact,  whether  true  or
+ false,  tending  to subject some person to hatred, contempt or ridicule;
+ or
+   6. Cause a strike, boycott or  other  collective  labor  group  action
+ injurious to some person's business; except that such a threat shall not
+ be deemed coercive when the act or omission compelled is for the benefit
+ of the group in whose interest the actor purports to act; or
+   7. Testify or provide information or withhold testimony or information
+ with respect to another's legal claim or defense; or
+   8.  Use  or  abuse  [his or her] THEIR position as a public servant by
+ performing some act within or related to [his  or  her]  THEIR  official
+ duties,  or  by failing or refusing to perform an official duty, in such
+ manner as to affect some person adversely; or
+   9. Perform any other act which would not in itself materially  benefit
+ the actor but which is calculated to harm another person materially with
+ respect to [his or her] THEIR health, safety, business, calling, career,
+ financial condition, reputation or personal relationships.
+   10.  Report  [his or her] THE PERSON'S immigration status or suspected
+ immigration status.
+   Coercion in the third degree is a class A misdemeanor.
+   § 5. Section 190.25 of the penal law,  the  section  heading,  opening
+ paragraph  and closing paragraph as amended by chapter 27 of the laws of
+ 1980, subdivisions 3 and 4 as amended and  subdivision  5  as  added  by
+ chapter 739 of the laws of 2021, is amended to read as follows:
+ § 190.25 Criminal impersonation in the second degree.
+   A person is guilty of criminal impersonation in the second degree when
+ [he] THE PERSON:
+   1. Impersonates another and does an act in such assumed character with
+ intent to obtain a benefit or to injure or defraud another; or
+   2.  Pretends to be a representative of some person or organization and
+ does an act in such pretended capacity with intent to obtain  a  benefit
+ or to injure or defraud another; or
+   3.  (a)  Pretends to be a public servant, or wears or displays without
+ authority any uniform, badge, insignia or  facsimile  thereof  by  which
+ such  public  servant is lawfully distinguished, or falsely expresses by
+ [his] words or actions that [he] SUCH PERSON is a public servant  or  is
+ acting  with approval or authority of a public agency or department; and
+ (b) so acts with intent to induce another to submit  to  such  pretended
+ official  authority,  to  solicit funds or to otherwise cause another to
+ act in reliance upon that pretense; or
+   4. Impersonates another by communication by internet website or  elec-
+ tronic means with intent to obtain a benefit or injure or defraud anoth-
+ er, or by such communication pretends to be a public servant in order to
+ induce  another  to  submit to such authority or act in reliance on such
+ pretense; or
+   5.  Impersonates  another  person, without such other person's permis-
+ sion, by using the other person's electronic signature  with  intent  to
+ obtain  a  benefit  or  injure  or  defraud  the other person or another
+ person. For the purposes of this subdivision, electronic signature shall
+ have the same meaning as set forth in subdivision three of section three
+ hundred two of the state technology law.
+   AS USED IN THIS SECTION, "IMPERSONATE" AND  "PRETEND"  SHALL  INCLUDE,
+ BUT NOT BE LIMITED TO, INSTANCES INVOLVING THE USE OF DIGITIZATION.
+   Criminal impersonation in the second degree is a class A misdemeanor.
+   §  6.  Section 190.26 of the penal law, as amended by chapter 2 of the
+ laws of 1998, subdivision 1 as amended by chapter 434  of  the  laws  of
+ 2008, is amended to read as follows:
+ § 190.26 Criminal impersonation in the first degree.
+   A  person is guilty of criminal impersonation in the first degree when
+ [he] THE PERSON:
+   1. Pretends to be a police officer or a federal law enforcement  offi-
+ cer  as  enumerated  in  section  2.15 of the criminal procedure law, or
+ wears or displays without authority, any uniform, badge or other  insig-
+ nia  or  facsimile  thereof, by which such police officer or federal law
+ enforcement officer is lawfully distinguished or expresses  by  [his  or
+ her]  words  or  actions that [he or she] SUCH PERSON is acting with the
+ approval or authority of any police department or acting  as  a  federal
+ law  enforcement  officer  with  the approval of any agency that employs
+ federal law enforcement officers as enumerated in section  2.15  of  the
+ criminal procedure law; and
+   2.  So  acts with intent to induce another to submit to such pretended
+ official authority or otherwise to act in reliance  upon  said  pretense
+ and in the course of such pretense commits or attempts to commit a felo-
+ ny; or
+   3.  Pretending to be a duly licensed physician or other person author-
+ ized to issue a prescription for any drug or any  instrument  or  device
+ used in the taking or administering of drugs for which a prescription is
+ required by law, communicates to a pharmacist an oral prescription which
+ is  required  to  be reduced to writing pursuant to section thirty-three
+ hundred thirty-two of the public health law.
+   AS USED IN THIS SECTION, "PRETEND" SHALL INCLUDE, BUT NOT  BE  LIMITED
+ TO, INSTANCES INVOLVING THE USE OF DIGITIZATION.
+   Criminal impersonation in the first degree is a class E felony.
+   §  7.  The  opening  paragraph  of section 190.78 of the penal law, as
+ added by chapter 619 of the laws of 2002, is amended to read as follows:
+   A person is guilty of identity theft in the third degree when  [he  or
+ she]  SUCH PERSON knowingly and with intent to defraud assumes the iden-
+ tity of another person, INCLUDING  WITH  THE  USE  OF  DIGITIZATION,  by
+ presenting  [himself  or  herself]  THEMSELF as that other person, or by
+ acting as that other person or by using personal identifying information
+ of that other person, and thereby:
+   § 8. The opening paragraph of section 190.79  of  the  penal  law,  as
+ added by chapter 619 of the laws of 2002, is amended to read as follows:
+   A  person  is guilty of [identify] IDENTITY theft in the second degree
+ when [he or she] SUCH  PERSON  knowingly  and  with  intent  to  defraud
+ assumes  the identity of another person, INCLUDING WITH THE USE OF DIGI-
+  TIZATION, by presenting [himself or  herself]  THEMSELF  as  that  other
+ person, or by acting as that other person or by using personal identify-
+ ing information of that other person, and thereby:
+   §  9.  The  opening  paragraph  of section 190.80 of the penal law, as
+ added by chapter 619 of the laws of 2002, is amended to read as follows:
+   A person is guilty of identity theft in the first degree when  [he  or
+ she]  SUCH PERSON knowingly and with intent to defraud assumes the iden-
+ tity of another person, INCLUDING  WITH  THE  USE  OF  DIGITIZATION,  by
+ presenting  [himself  or  herself]  THEMSELF as that other person, or by
+ acting as that other person or by using personal identifying information
+ of that other person, and thereby:
+   § 10. The opening paragraph of section 190.80-a of the penal  law,  as
+ added by chapter 226 of the laws of 2008, is amended to read as follows:
+   A  person is guilty of aggravated identity theft when [he or she] SUCH
+ PERSON knowingly and with intent to  defraud  assumes  the  identity  of
+ another  person,  INCLUDING  WITH THE USE OF DIGITIZATION, by presenting
+ [himself or herself] THEMSELF as that other person, or by acting as that
+ other person or by using personal identifying information of that  other
+ person,  and knows that such person is a member of the armed forces, and
+ knows that such member is presently deployed outside of the  continental
+ United States and:
+   §  11. The penal law is amended by adding a new section 245.20 to read
+ as follows:
+ § 245.20 UNLAWFUL DISSEMINATION OR PUBLICATION OF  A  FABRICATED  PHOTO-
+            GRAPHIC, VIDEOGRAPHIC, OR AUDIO RECORD.
+   1.  A  PERSON  IS GUILTY OF UNLAWFUL DISSEMINATION OR PUBLICATION OF A
+ FABRICATED PHOTOGRAPHIC, VIDEOGRAPHIC, OR AUDIO RECORD WHEN, WITH INTENT
+ TO CAUSE HARM TO THE LIBERTY OR EMOTIONAL, SOCIAL, FINANCIAL OR PHYSICAL
+ WELFARE OF AN IDENTIFIABLE PERSON OR PERSONS,  THE  ACTOR  INTENTIONALLY
+ CREATES  OR  CAUSES  TO BE CREATED A FABRICATED RECORD OF SUCH PERSON OR
+ PERSONS AND DISSEMINATES OR PUBLISHES SUCH  RECORD  OF  SUCH  PERSON  OR
+ PERSONS WITHOUT SUCH PERSON OR PERSONS' CONSENT.
+   2. FOR PURPOSES OF THIS SECTION:
+   (A)  "IDENTIFIABLE"  SHALL MEAN THE ABILITY TO DISCERN AN INDIVIDUAL'S
+ IDENTITY EITHER THROUGH THE FABRICATED RECORD ITSELF OR FROM INFORMATION
+ DISPLAYED IN CONNECTION WITH THE FABRICATED RECORD;
+   (B)  "FABRICATED  PHOTOGRAPHIC,  VIDEOGRAPHIC,  OR  AUDIO  RECORD"  OR
+ "FABRICATED  RECORD"  SHALL  MEAN  A  STILL IMAGE, VIDEO OR AUDIO RECORD
+ THAT:
+   (I) EXHIBITS A HIGH LEVEL OF  AUTHENTICITY  OR  CONVINCING  APPEARANCE
+ THAT IS VISUALLY OR AUDIBLY INDISTINGUISHABLE FROM REALITY;
+   (II)  IS  EITHER MANIPULATED OR ENTIRELY ARTIFICIAL, INCLUDING BUT NOT
+ LIMITED TO, MANIPULATION THROUGH DIGITIZATION; AND
+   (III) DEPICTS A SCENARIO THAT DID NOT ACTUALLY OCCUR OR THAT HAS  BEEN
+ ALTERED IN A SIGNIFICANT WAY FROM HOW IT ACTUALLY OCCURRED; AND
+   (C)  "DISSEMINATE"  AND  "PUBLISH"  SHALL  HAVE  THE  SAME MEANINGS AS
+ DEFINED IN SECTION 250.40 OF THIS TITLE.
+   3. THIS SECTION SHALL NOT APPLY TO THE FOLLOWING:
+   (A) DISSEMINATION OR PUBLICATION OF A FABRICATED RECORD  BY  A  PERSON
+ WHO  DID NOT CREATE THE FABRICATED RECORD OR CAUSE THE FABRICATED RECORD
+ TO BE CREATED, WHETHER OR NOT SUCH PERSON IS AWARE OF  THE  AUTHENTICITY
+ OF THE RECORD;
+   (B)  DISSEMINATION  OR  PUBLICATION  OF  A  FABRICATED RECORD THAT WAS
+ CREATED DURING THE LAWFUL AND COMMON PRACTICES OF LAW ENFORCEMENT, LEGAL
+ PROCEEDINGS OR MEDICAL TREATMENT WHERE THE RECORD IS NOT DISSEMINATED OR
+ PUBLISHED WITH THE INTENT TO MISREPRESENT ITS AUTHENTICITY; 
+   (C) DISSEMINATION OR PUBLICATION  OF  A  FABRICATED  RECORD  THAT  WAS
+ CREATED  FOR  THE  PURPOSE  OF  POLITICAL  OR SOCIAL COMMENTARY, PARODY,
+ SATIRE, OR ARTISTIC EXPRESSION THAT IS  NOT  DISSEMINATED  OR  PUBLISHED
+ WITH THE INTENT TO MISREPRESENT ITS AUTHENTICITY;
+   (D)  DISSEMINATION  OR  PUBLICATION  OF  A  FABRICATED RECORD THAT WAS
+ CREATED FOR THE PURPOSE OF  NEWS  REPORTING  WHERE  THE  RECORD  IS  NOT
+ DISSEMINATED OR PUBLISHED WITH THE INTENT TO MISREPRESENT ITS AUTHENTIC-
+ ITY;
+   (E)  DISSEMINATION  OR  PUBLICATION  OF  A  FABRICATED RECORD THAT WAS
+ CREATED WHERE THE PERSON REASONABLY BELIEVES THAT THE  DISSEMINATION  OR
+ PUBLICATION  OF THE RECORD IS NECESSARY TO PROTECT THEMSELVES FROM SERI-
+ OUS BODILY INJURY OR DEATH;
+   (F) DISSEMINATION OR PUBLICATION  OF  A  FABRICATED  RECORD  THAT  WAS
+ CREATED  FOR  THE  PURPOSE  OF  HISTORICAL  REENACTMENT OR PRESERVATION,
+ DIGITAL RESTORATION OR  PRESERVATION  OF  CULTURAL  HERITAGE  WHERE  THE
+ RECORD  IS NOT DISSEMINATED OR PUBLISHED WITH THE INTENT TO MISREPRESENT
+ ITS AUTHENTICITY;
+   (G) DISSEMINATION OR PUBLICATION  OF  A  FABRICATED  RECORD  THAT  WAS
+ CREATED  FOR THE PURPOSE OF TRAINING OR EDUCATION, PROVIDED HOWEVER THAT
+ SUCH TRAINING OR EDUCATION SHALL NOT INCLUDE THE TRAINING  OR  EDUCATION
+ OF A PERSON OR PERSONS TO ENGAGE IN UNLAWFUL ACTIVITIES;
+   (H)  DISSEMINATION  OR  PUBLICATION  OF  A  FABRICATED RECORD THAT WAS
+ CREATED FOR THE PURPOSE OF MEMORIALIZING A DECEASED PERSON;
+   (I) DISSEMINATION OR PUBLICATION  OF  A  FABRICATED  RECORD  THAT  WAS
+ CREATED FOR THE PURPOSE OF LAWFUL SCIENTIFIC, ACADEMIC, OR TECHNOLOGICAL
+ RESEARCH  OR  DEVELOPMENT  WHERE  THE  RECORD  IS  NOT  DISSEMINATED  OR
+ PUBLISHED WITH THE INTENT TO MISREPRESENT ITS AUTHENTICITY; AND
+   (J) INITIAL DISSEMINATION OR PUBLICATION OF A FABRICATED RECORD BY THE
+ PLATFORM OR SERVICE, PROVIDED THAT THE FABRICATED RECORD WAS NOT CREATED
+ BY AN INDIVIDUAL  WHO  IS  DIRECTLY  AFFILIATED  WITH  THE  PLATFORM  OR
+ SERVICE.
+  4. NOTHING IN THIS SECTION SHALL BE CONSTRUED TO LIMIT, OR TO ENLARGE,
+ THE  PROTECTIONS THAT 47 U.S.C. § 230 CONFERS ON AN INTERACTIVE COMPUTER
+ SERVICE FOR CONTENT PROVIDED BY ANOTHER INFORMATION CONTENT PROVIDER, AS
+ SUCH TERMS ARE DEFINED IN 47 U.S.C. § 230.
+   UNLAWFUL DISSEMINATION OR PUBLICATION OF  A  FABRICATED  PHOTOGRAPHIC,
+ VIDEOGRAPHIC, OR AUDIO RECORD IS A CLASS A MISDEMEANOR.
+   §  12. Section 263.10 of the penal law, as amended by chapter 1 of the
+ laws of 2000, is amended to read as follows:
+ § 263.10 Promoting an obscene sexual performance by a child.
+   A person is guilty of promoting an obscene  sexual  performance  by  a
+ child  when, knowing the character and content thereof, [he] SUCH PERSON
+ produces, directs or promotes any  obscene  performance  which  includes
+ sexual  conduct by a child less than seventeen years of age, INCLUDING A
+ PERFORMANCE CREATED OR ALTERED BY DIGITIZATION.
+   Promoting an obscene sexual performance by a child is a class D  felo-
+ ny.
+  §  13.  Section  263.11 of the penal law, as amended by chapter 456 of
+ the laws of 2012, is amended to read as follows:
+ § 263.11 Possessing an obscene sexual performance by a child.
+   A person is guilty of possessing an obscene sexual  performance  by  a
+ child  when, knowing the character and content thereof, [he] SUCH PERSON
+ knowingly has in [his] SUCH PERSON'S possession or control, or knowingly
+ accesses with intent to view, any  obscene  performance  which  includes
+ sexual  conduct  by  a child less than sixteen years of age, INCLUDING A
+ PERFORMANCE CREATED OR ALTERED BY DIGITIZATION.
+ 
+   Possessing an obscene sexual performance by a child is a class E felo-
+ ny.
+   §  14. Section 263.15 of the penal law, as amended by chapter 1 of the
+ laws of 2000, is amended to read as follows:
+ § 263.15 Promoting a sexual performance by a child.
+   A person is guilty of promoting a sexual performance by a child  when,
+ knowing  the  character  and content thereof, [he] SUCH PERSON produces,
+ directs or promotes any performance which includes sexual conduct  by  a
+ child  less than seventeen years of age, INCLUDING A PERFORMANCE CREATED
+ OR ALTERED BY DIGITIZATION.
+   Promoting a sexual performance by a child is a class D felony.
+   § 15. Section 263.16 of the penal law, as amended by  chapter  456  of
+ the laws of 2012, is amended to read as follows:
+ § 263.16 Possessing a sexual performance by a child.
+   A person is guilty of possessing a sexual performance by a child when,
+ knowing  the  character  and content thereof, [he] SUCH PERSON knowingly
+ has in [his] SUCH PERSON'S possession or control, or knowingly  accesses
+ with  intent to view, any performance which includes sexual conduct by a
+ child less than sixteen years of age, INCLUDING A PERFORMANCE CREATED OR
+ ALTERED BY DIGITIZATION.
+   Possessing a sexual performance by a child is a class E felony.
+   § 16. This act shall take effect on the ninetieth day after  it  shall
+ have become a law.
+ 
+                           
+SUBPART C
+   Section  1.  Section 14-106 of the election law is amended by adding a
+ new subdivision 5 to read as follows:
+   5. (A) FOR PURPOSES OF THIS SUBDIVISION:
+   (I) "DIGITIZATION" MEANS USE OF SOFTWARE, MACHINE LEARNING, ARTIFICIAL
+ INTELLIGENCE, OR ANY OTHER COMPUTER-GENERATED  OR  TECHNOLOGICAL  MEANS,
+ INCLUDING  ADAPTING,  MODIFYING,  MANIPULATING,  OR ALTERING A REALISTIC
+ DEPICTION.
+   (II) "DECEPTIVE MEDIA" MEANS  ANY  VIDEO  RECORDING,  MOTION  PICTURE,
+ FILM,  AUDIO RECORDING, ELECTRONIC IMAGE, PHOTOGRAPH, TEXT, OR ANY TECH-
+ NOLOGICAL REPRESENTATION OF SPEECH OR CONDUCT FULLY OR PARTIALLY CREATED
+ OR MODIFIED THROUGH DIGITIZATION THAT:
+   (1) EXHIBITS A HIGH LEVEL OF  AUTHENTICITY  OR  CONVINCING  APPEARANCE
+ THAT IS VISUALLY OR AUDIBLY INDISTINGUISHABLE FROM REALITY; AND
+   (2)  DEPICTS  A  SCENARIO THAT DID NOT ACTUALLY OCCUR OR THAT HAS BEEN
+ ALTERED IN A SIGNIFICANT WAY FROM HOW THEY ACTUALLY OCCURRED.
+   (B) (I) A PERSON, FIRM, ASSOCIATION, CORPORATION, CAMPAIGN, COMMITTEE,
+ OR ORGANIZATION THAT WITH THE INTENT TO UNDULY INFLUENCE THE OUTCOME  OF
+ AN ELECTION OR DECEIVE A VOTER, KNOWINGLY DISTRIBUTES OR PUBLISHES WITH-
+ IN  SIXTY  DAYS  OF  AN  ELECTION  ANY  POLITICAL COMMUNICATION THAT WAS
+ PRODUCED BY OR INCLUDES DIGITIZED DECEPTIVE MEDIA SHALL BE  REQUIRED  TO
+ DISCLOSE THE USE OF SUCH DIGITIZATION. 
+ (II)  (1) FOR VISUAL MEDIA THE DISCLOSURE SHALL BE PRINTED OR TYPED IN
+ AN APPROPRIATE LEGIBLE FONT SIZE CONSISTENT WITH OTHER TEXT APPEARING IN
+ THE VISUAL MEDIA AND IN THE SAME LANGUAGE USED ON THE  COMMUNICATION  TO
+ READ  AS  FOLLOWS:  "THIS  POLITICAL  COMMUNICATION WAS CREATED WITH THE
+ ASSISTANCE OF DIGITIZATION".
+   (2) FOR COMMUNICATION THAT IS AUDITORY, SUCH  AS  RADIO  OR  AUTOMATED
+ TELEPHONE  CALLS, CLEARLY SPEAKING THE STATEMENT AT THE BEGINNING OF THE
+ AUDIO IN THE SAME LANGUAGE  USED  IN  THE  COMMUNICATION  SATISFIES  THE
+ REQUIREMENTS OF CLAUSE ONE OF THIS SUBPARAGRAPH. 
+ (III) THIS PARAGRAPH SHALL NOT APPLY TO THE FOLLOWING:
+   (1) DECEPTIVE MEDIA THAT CONSTITUTES SATIRE OR PARODY;
+   (2) DECEPTIVE MEDIA CREATED FOR THE PURPOSES OF NEWS REPORTING; OR
+   (3)  INITIAL DISSEMINATION BY A PLATFORM OR SERVICE INCLUDING, BUT NOT
+ LIMITED TO, A WEBSITE, REGULARLY PUBLISHED NEWSPAPER, OR MAGAZINE.
+(C)(I) A REGISTERED VOTER  MAY  SEEK  INJUNCTIVE  OR  OTHER  EQUITABLE
+ RELIEF PROHIBITING THE DISTRIBUTION, PUBLICATION, OR BROADCASTING OF ANY
+ DECEPTIVE  MEDIA  IN VIOLATION OF THIS SUBDIVISION. AN ACTION UNDER THIS
+ PARAGRAPH SHALL BE INITIATED BY FILING AN APPLICATION FOR ORDER TO  SHOW
+ CAUSE IN THE SUPREME COURT WHERE THE VOTER RESIDES.
+   (II) A CANDIDATE WHOSE VOICE OR LIKENESS APPEARS IN DECEPTIVE MEDIA IN
+ VIOLATION  OF THIS SUBDIVISION MAY SEEK INJUNCTIVE RELIEF OR OTHER EQUI-
+ TABLE RELIEF PROHIBITING THE DISTRIBUTION, PUBLICATION  OR  BROADCASTING
+ OF ANY DECEPTIVE MEDIA IN VIOLATION OF THIS SUBDIVISION. AN ACTION UNDER
+ THIS  PARAGRAPH SHALL BE INITIATED BY FILING AN APPLICATION FOR AN ORDER
+ TO SHOW CAUSE IN THE SUPREME COURT WHERE THE DECEPTIVE  MEDIA  AT  ISSUE
+ COULD DECEIVE AND INFLUENCE ELECTORS IN AN UPCOMING ELECTION.
+   (III)  THIS  PARAGRAPH  SHALL  NOT BE CONSTRUED TO LIMIT OR PRECLUDE A
+ PLAINTIFF FROM PURSUING OR RECOVERING ANY OTHER AVAILABLE REMEDY.
+§ 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
+   § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+ sion,  section,  subpart  or  part  of this act shall be adjudged by any
+ court of competent jurisdiction to be invalid, such judgment  shall  not
+ affect,  impair,  or  invalidate  the  remainder  thereof,  but shall be
+ confined in its operation to the clause, sentence,  paragraph,  subdivi-
+ sion,  section, subpart or part thereof directly involved in the contro-
+ versy in which such judgment shall have  been  rendered.  It  is  hereby
+ declared  to  be  the intent of the legislature that this act would have
+ been enacted even if such invalid provisions had not been included here-
+ in.
+   § 4. This act shall take effect immediately  provided,  however,  that
+ the  applicable effective date of Subparts A through C of this act shall
+ be as specifically set forth in the last section of such Subparts.

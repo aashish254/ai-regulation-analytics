@@ -1,0 +1,63 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “AI Advancement and Reliability Act of 2024”.
+SEC. 2. ARTIFICIAL INTELLIGENCE ADVANCEMENT AND RELIABILITY.
+(a) In General.—Section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401; as enacted as part of division E of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021; Public Law 116–283) is amended—
+(1) by redesignating paragraphs (4), (5), (6), (7), (8), (9), (10), and (11) as paragraphs (6), (8), (9), (10), (11), (12), (13), and (14), respectively;
+(2) by inserting after paragraph (3) the following new paragraphs:
+“(4) ARTIFICIAL INTELLIGENCE RED TEAMING.—The term ‘artificial intelligence red teaming’ means a structured testing in a controlled environment simulating real-world conditions, using adversarial methods to find flaws and vulnerabilities in an artificial intelligence system and identify risks, flaws, and vulnerabilities of artificial intelligence systems, such as harmful outputs from such system, unforeseen or undesirable system behaviors, limitations, and potential risks associated with the misuse of such system.
+“(5) ARTIFICIAL INTELLIGENCE SYSTEM.—The term ‘artificial intelligence system’ has the meaning given such term in section 7223 of the Advancing American AI Act (40 U.S.C. 11301 note; as enacted as part of title LXXII of division G of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023; Public Law 117–263).”; and
+(3) by inserting after paragraph (6), as so redesignated, the following new paragraph:
+“(7) FEDERAL LABORATORY.—The term ‘Federal laboratory’ has the meaning given such term in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703).”.(b) Center For AI Advancement And Reliability.—Title LIII of division E of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401 et seq.) is amended by adding at the end the following new section:
+“SEC. 5304. CENTER FOR AI ADVANCEMENT AND RELIABILITY.
+“(a) Establishment.—
+“(1) IN GENERAL.—Subject to the availability of appropriations, the Under Secretary of Commerce for Standards and Technology (in this section referred to as the ‘Under Secretary’) shall establish a center on artificial intelligence, to be known as the ‘Center for AI Advancement and Reliability’ (in this section referred to as the ‘Center’), to ensure continued United States leadership in research, development, and evaluation of the reliability, robustness, resilience, security, and safety of artificial intelligence systems.
+“(2) PURPOSES.—The purposes of the Center are as follows:
+“(A) To advance the measurement science for artificial intelligence reliability, robustness, resilience, security, and safety.
+“(B) To support the National Institute of Standards and Technology laboratories as such laboratories carry out artificial intelligence activities related to robustness, resilience, and safety described in section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1).
+“(C) To collaborate with the private sector, standards development organizations, civil society, and Federal agencies in supporting the development of voluntary best practices and technical standards for evaluating the reliability, robustness, resilience, security, and safety of artificial intelligence systems.
+“(D) To increase the understanding of State, local, and Tribal governments, institutions of higher education, private sector entities, and the public of artificial intelligence reliability, robustness, resilience, security, and safety-related challenges and remediations.
+“(3) DIRECTOR.—The Under Secretary or appropriate designee shall serve as the Director of the Center.
+“(4) CONSULTATION AND COORDINATION.—In establishing the Center, the Under Secretary shall—
+“(A) coordinate with—
+“(i) the Director of the National Science Foundation;
+“(ii) the Director of the Office of Science and Technology Policy;
+“(iii) the Secretary of Energy;
+“(iv) the Secretary of Defense; and
+“(v) the Secretary of Homeland Security; and
+“(B) consult with the heads of such other Federal agencies as the Under Secretary considers appropriate.
+“(5) ACTIVITIES.—The activities of the Center, which the Center may include the following:
+“(A) Conducting evaluations and benchmarking of the capabilities and limitations of artificial intelligence over time.
+“(B) Conducting measurement research to inform the development of recommended best practices, benchmarks, methodologies, procedures, voluntary consensus-based technical standards, and other resources for the evaluation and assurance of reliable, robust, resilient, secure, and safe artificial intelligence systems and reduce the risk of the misuse of such systems, including relating to the following:
+“(i) Common definitions and characterizations for aspects of artificial intelligence safety, security, and robustness and the measurement of such that are applicable across many sectors and use cases.
+“(ii) The reliability, robustness, resilience, security, and safety of artificial intelligence systems and use cases, including the ability for such systems to withstand unexpected inputs and adversarial attacks.
+“(iii) Testing, evaluation, validation, and verification methods for risk management, including measurement and assurance for accuracy, transparency, reliability, security, verifiability, and safety throughout the lifecycle of artificial intelligence systems, including artificial intelligence red teaming.
+“(iv) Reference use cases for artificial intelligence systems and criteria for assessing safety risk in each such use case.
+“(C) Providing to relevant Federal agencies and National Institute of Standards and Technology laboratories, as appropriate, input and support for artificial intelligence risk management regarding reliability, robustness, resilience, security, and safety-related topics.
+“(D) Engaging with, or supporting the engagement of the United States Government with, international standards organizations, multilateral organizations, and organizations and topically relevant bodies among allies and partners to support international collaborations on activities described in this paragraph.
+“(E) As appropriate, and in coordination with ongoing National Institute of Standards and Technology activities, coordinating Federal research, development, demonstration, and standards engagement related to artificial intelligence reliability, robustness, resilience, security, and safety.
+“(6) REQUIREMENTS.—In carrying out the activities described in paragraph (6), the Under Secretary shall carry out the following:
+“(A) Support research that assesses and mitigates artificial intelligence reliability, robustness, resilience, security, and safety risks across several timescales, including demonstrable safety risks that arise from the use and misuse of artificial intelligence systems.
+“(B) Assess scenarios in which artificial intelligence systems could be deployed to create risks for economic or national security.
+“(C) Leverage computing resources, access to open datasets, open source software, and other resources from industry, government, nonprofit organizations, Federal laboratories, and institutions of higher education to advance the mission of the Center, as appropriate.
+“(D) Leverage existing Federal investments to advance the mission of the Center.
+“(E) Avoid unnecessary duplication with National Institute of Standards and Technology laboratory activities authorized under section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1).
+“(7) REPORT.—For each fiscal year beginning with fiscal year 2026, not later than 90 days after the submission of the President’s annual budget request for such fiscal year in accordance with section 1105 of title 31, United States Code, the Under Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes the following:
+“(A) A summarized budget in support of the Center for such fiscal year and the preceding fiscal year.
+“(B) A description of the goals, priorities, and metrics for guiding and evaluating the activities of the Center.“(b) Establishment Of Consortium.—
+“(1) IN GENERAL.—The Under Secretary shall establish a consortium (in this section referred to as the ‘Consortium’) of stakeholders from academic or research communities, Federal laboratories, private industry, and civil society in matters relating to artificial intelligence reliability, robustness, resilience, security, and safety to support—
+“(A) the Center in carrying out the activities specified in subsection (a)(6); and
+“(B) the National Institute of Standards and Technology in carrying out section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1).
+“(2) GOALS.—In addition to supporting the Center in carrying out activities under subsection (a)(6), the goals of the Consortium are the following:
+“(A) To evaluate the needs of stakeholders, including industry and civil society.
+“(B) To identify where gaps remain in the activities of the Center, including relating to measurement research and support for standards development, and provide recommendations to the Center on how to address such gaps.“(3) REPORT.—Not later than two years after the date of the enactment of this section, the Under Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing the contributions of the members of the Consortium in support the efforts of the Center.
+“(c) Scientific Integrity.—The Under Secretary shall ensure the Center, Consortium, and staff adhere to policies and procedures established pursuant to section 1009 of the America COMPETES Act (42 U.S.C. 6620), including by providing mechanisms for an employee or associate of the National Institute of Standards and Technology, a member of the Consortium, a private sector entity, researcher, or student affiliated with the Center or Consortium, an employee of an agency working with the Center, or a member of the public to report violations of such policies by confidential and anonymous means.
+“(d) Security.—This section shall be carried out in accordance with the provision of subtitle D of title VI of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19231 et seq.; enacted as part of division B of Public Law 117–167) and section 223 of the William Mac Thornberry National Defense Authorization Act for Fiscal Year 2021 (42 U.S.C. 6605).
+“(e) Limitation.—Information shared by an entity with, or provided to, the National Institute of Standards and Technology for the purpose of the activities described in this section may not be used by any Federal, State, local, or Tribal department or agency to regulate the activity of such entity.
+“(f) Prohibitions.—Nothing in this section may be construed to—
+“(1) provide the Under Secretary any enforcement authority that was not in effect on the day before the date of the enactment of this Act;
+“(2) confer any regulatory authority to any Federal, State, Tribal, or local department or agency;
+“(3) require any private sector entity to share data, including proprietary information, with the Under Secretary, the Center, or the Consortium; or
+“(4) modify any regulatory requirement to report or submit information to a Federal, State, Tribal or local department or agency.
+“(g) Sunset.—This section shall terminate on the date that is six years after the date of the enactment of this section.
+“(h) Authorization Of Appropriations.—There is to be authorized to be appropriated to the Under Secretary $10,000,000 for fiscal year 2025 to carry out this section.”.(c) Hiring Critical Technical Experts Update.—Subsection (c) of section 6 of the National Institute of Standards and Technology Act (15 U.S.C. 275) is amended by striking “section (b) shall expire on the date that is 5 years” and inserting “subsection (b) shall expire on the date that is 7 years”.
+(d) Clerical Amendment.—The tables of contents in section 2(b) and in title LIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 are amended by inserting after the items relating to section 5303 the following new items:

@@ -1,0 +1,13 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Artificial Intelligence Bug Bounty Act of 2023”.
+SEC. 2. ARTIFICIAL INTELLIGENCE BUG BOUNTY PROGRAMS.
+(a) Program For Foundational Artificial Intelligence Products Being Incorporated By Department Of Defense.—
+(1) DEVELOPMENT REQUIRED.—Not later than 180 days after the date of the enactment of this Act, the Chief Data and Artificial Intelligence Officer of the Department of Defense shall develop a bug bounty program for foundational artificial intelligence products being incorporated by the Department of Defense.
+(2) COLLABORATION.—In developing the program required by paragraph (1), the Chief may collaborate with the heads of other government agencies that have expertise in cybersecurity and artificial intelligence.
+(3) IMPLEMENTATION AUTHORIZED.—The Chief may carry out the program developed pursuant to subsection (a).
+(4) CONTRACTS.—The Secretary of Defense shall ensure that whenever the Department of Defense enters into any contract, the contract allows for participation in the bug bounty program developed pursuant to paragraph (1).
+(5) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to require—
+(A) the use of any foundational artificial intelligence product; or
+(B) the implementation of the program developed pursuant to paragraph (1) in order for the Department to incorporate a foundational artificial intelligence product.(b) Briefing.—Not later than one year after the date of the enactment of this Act, the Chief shall provide the congressional defense committees (as defined in section 101(a) of title 10, United States Code) a briefing on—
+(1) the development and implementation of bug bounty programs the Chief considers relevant to the matters covered by this section; and
+(2) long-term plans of the Chief with respect to such bug bounty programs.

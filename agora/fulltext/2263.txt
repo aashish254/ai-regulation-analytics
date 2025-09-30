@@ -1,0 +1,303 @@
+(Trial) Measures for Science and Technology Ethics Reviews
+
+Chapter 1	General Provisions
+
+Article 1	 These Measures have been formulated in accordance with the Law of the People’s Republic of China on Progress of Science and Technology, the Opinions on Strengthening the Governance of Science and Technology Ethics, and other laws and regulations and relevant provisions, in order to regulate scientific and technological (S&T) ethics reviews in scientific research, technology development, and other S&T activities, strengthen the prevention and control of S&T ethical risks, and promote responsible innovation.
+
+Article 2	 The following S&T activities shall be subject to S&T ethics reviews in accordance with these Measures:
+
+(1) S&T activities involving human research participants, including testing, surveys, observational studies, etc., with humans as research subjects, as well as scientific activities that use human biological samples, personal information or data, etc.;
+
+(2) S&T activities involving laboratory animals;
+
+(3) S&T activities that do not directly involve human beings or laboratory animals but may pose ethical risks and challenges in terms of life and health, the ecological environment, public order, sustainable development, etc.;
+
+(4) Other S&T activities that require S&T ethics review in accordance with laws, administrative regulations, and relevant national provisions.
+
+Article 3	 Those carrying out S&T activities shall adhere to the unity of advancing innovation and preventing risks, objectively assess and treat with caution uncertainties and S&T application risks, abide by the S&T ethics principles of promoting human wellbeing, respecting the right to life, upholding fairness and justice, reasonably controlling risks, and maintaining openness and transparency, and shall comply with China’s Constitution, laws, regulations, relevant provisions, and S&T ethics norms.
+
+S&T ethics reviews shall adhere to the principles of scientific basis, independence, impartiality, and transparency, make public the review system and procedures, objectively and prudently assess the ethical risks of S&T activities, be conducted in accordance with regulations, and consciously accept supervision by relevant parties. For matters involving national security, state secrets, trade secrets, and sensitive issues, related work shall be done properly and in accordance with laws and regulations.
+
+Chapter 2	Reviewers
+
+Article 4	 Institutes of higher education, scientific research institutions, medical and health institutions, and enterprises, among others, are the entities responsible for the management of S&T ethics reviews for their work units (单位). Work units engaged in S&T activities in areas such as life sciences, medicine, and artificial intelligence (AI), and whose research involves sensitive S&T ethics areas, shall establish S&T ethics (review) committees. Other work units with S&T ethical review requirements may establish S&T ethics (review) committees based on their actual situations.
+
+A work unit shall provide its S&T ethics (review) committee necessary staff, office space, funding, and other prerequisites, and take effective measures to ensure that the S&T ethics (review) committee carries out ethical review work independently.
+
+The establishment of professional and regional S&T ethics review centers should be explored.
+
+Article 5	 The main duties of the S&T ethics (review) committee include:
+
+(1) Formulating and improving the management system and work norms of the S&T ethics (review) committee;
+
+(2) Providing consultation on S&T ethics and guiding scientific and technical personnel in conducting S&T ethical risk assessments of S&T activities;
+
+(3) Conducting S&T ethics reviews and tracking and supervising the entire process of relevant S&T activities in accordance with requirements;
+
+(4) Determining whether proposed S&T activities fall within the scope of the list defined in Article 25 of these Measures;
+
+(5) Organizing and conducting training for committee members on S&T ethics reviews, and training for scientific and technical personnel on S&T ethics;
+
+(6) Accepting and assisting in investigating complaint reports on issues involving S&T ethics issues in relevant S&T activities;
+
+(7) Carrying out registration and reporting in accordance with the requirements of Articles 43, 44, and 45 of these Measures and cooperating with the local and relevant main industrial oversight departments (地方、相关行业主管部门) in conducting relevant work involving S&T ethics reviews.
+
+Article 6	 The S&T ethics (review) committee shall formulate its own charter, and establish and improve rules, norms, work procedures, and mechanisms for managing conflicts of interest for review, supervision, secrecy management (保密管理), and file management, to ensure that S&T ethics reviews are compliant, transparent, and traceable.
+
+Article 7	 The S&T ethics (review) committee shall have no fewer than seven members, with one chair and a number of deputy chairs. The committee shall be composed of peer expert members with relevant S&T backgrounds, and members with relevant professional backgrounds such as ethics and law, as well as members of different genders, and members from other work units, and committees in ethnic minority areas shall have members who are familiar with local conditions. Members shall have terms of office not to exceed five years, and may be re-elected.
+
+Article 8	 Members of S&T ethics (review) committees shall have relevant ethics review abilities and levels, be in good standing in terms of scientific research integrity, and comply with the following requirements:
+
+(1) Abide by China’s Constitution, laws and regulations, relevant S&T ethics rules and norms, and the charter of the S&T ethics (review) committee on which they serve;
+
+(2) Attend S&T ethics review meetings on time, and express review opinions independently and impartially;
+
+(3) Strictly comply with secrecy protection (保密) provisions, and not disclose or use for other purposes, without permission, any state secrets, private personal data, personal information, technical secrets, undisclosed information, etc., that they come into contact with or learn of in the course of ethics review work;
+
+(4) Comply with the requirements for managing conflicts of interest and recuse themselves in accordance with regulations;
+
+(5) Regularly participate in S&T ethics review business training;
+
+(6) Complete other tasks arranged by the committee.
+
+Chapter 3	Review Procedures
+
+Section 1	Application and Acceptance
+
+Article 9	S&T ethics risk assessments shall be conducted to carry out S&T activities. The S&T ethics (review) committee shall formulate the work unit's S&T ethics risk assessment methods in accordance with the requirements of these Measures, and guide S&T personnel in conducting S&T ethics risk assessments. If an assessment finds that an S&T activity falls within the scope of Article 2 of these Measures, the person in charge of the S&T activity shall apply to the S&T ethics (review) committee for an S&T ethics review. The application materials shall mainly include:
+
+(1) An overview of the S&T activity, including the name, purpose, significance, necessity, and previous S&T ethics reviews of the S&T activity;
+
+(2) The implementation plan and related materials for the S&T activity, including the S&T activity plan, possible S&T ethical risks and their prevention and control measures and emergency response plans, and the form in which the achievements of S&T activities are to be announced;
+
+(3) The legal qualification materials of the relevant institutions involved in the S&T activity, the relevant research experience and participation in S&T ethics training of participants, the source of funding for the S&T activity, conflict of interest declarations for the S&T activity, etc.;
+
+(4) Informed consent forms, and materials explaining the sources of biological samples, data and information, and laboratory animals;
+
+(5) A written commitment to comply with the requirements of S&T ethics and scientific research integrity; and
+
+(6) Other materials that the S&T ethics (review) committee deems necessary to submit.
+
+Article 10	The S&T ethics (review) committee shall decide whether to accept the application based on the S&T ethics review application materials, and shall notify the applicant. A decision to accept shall specify the applicable review procedures; and if the materials are incomplete, a one-time and complete notification of the required supplementary materials shall be made.
+
+Article 11	In principle, S&T ethics reviews shall adopt the meeting-based review method, except as otherwise provided in these Measures.
+
+Article 12	Where S&T activities with international cooperation fall within the scope of Article 2 of these Measures, such activities must pass the S&T ethics reviews prescribed by the countries where the cooperating parties are located before they may be conducted.
+
+Article 13	In the case of a work unit where the S&T ethics (review) committee fails to meet the requirements for review work, or the work unit has not established an S&T ethics (review) committee and has no personnel to carry out S&T activities, it shall commission, in writing, another S&T ethics (review) committee that satisfies the requirements to conduct ethics reviews.
+
+Section 2	General Procedures
+
+Article 14	The S&T ethics review meeting shall be presided over by the chair or his or her designated deputy chair. There shall be no fewer than five members present, and they shall include members from the different categories listed in Article 7.
+
+Based on the requirements of the review, the applicant may be required to attend the meeting in order to elaborate on the plan or explain specific issues. Consultants and experts from relevant fields who do not have a direct interest may be invited to provide advice. Consultants and experts shall not participate in voting at the meeting.
+
+Where the meeting is conducted by video, it shall comply with the relevant rules and requirements of the S&T ethics (review) committee on conditions for the use of video conferencing, meeting rules, etc.
+
+Article 15	The S&T ethics (review) committee shall conduct its reviews in accordance with the following key content and standards:
+
+(1) The proposed S&T activity shall comply with the principles of S&T ethics, and the qualifications of the scientific and technical personnel participating in the S&T activity, and the research infrastructure and facilities, shall satisfy the relevant requirements.
+
+(2) The proposed S&T activity has scientific and social value, and the achievement of its research objectives would have a positive effect for advancing human well-being and achieving sustainable social development. The S&T activity has reasonable risks relative to benefits, and the ethical risk control plan and emergency plan are scientific, appropriate, and operational.
+
+(3) For S&T activities involving humans as research participants, the recruitment plan is fair and reasonable, the collection, storage, use, and processing of biological samples are lawful and compliant, the handling of private personal data, biometric information, and other information complies with relevant regulations on personal information protection; plans for the assurance of research participants’ legal rights and interests, including remuneration and the treatment or compensation of injuries, are reasonable, and special protection is given to vulnerable groups; the informed consent form provided is complete, the risk disclosures are objective and sufficient, the presentation is clear and easy to understand, and the method and process of obtaining individuals’ informed consent is compliant and appropriate.
+
+(4) For S&T activities involving laboratory animals, the use of laboratory animals complies with the principles of replacement, reduction, and optimization (替代、减少、优化), the sources of laboratory animals are lawful and reasonable, the technical operation requirements for feeding, use, and handling comply with animal welfare standards, and safeguards for the safety of employees and the public environment are appropriate.
+
+(5) For S&T activities involving data and algorithms, data handling activities such as collection, storage, processing, and use, as well the research and development of new data technology, comply with relevant national regulations on data security, personal information protection, etc., and data security risk monitoring and emergency response plans are appropriate; the design, implementation, and application of algorithms, models, and systems complies with the principles of fairness, justice, transparency, reliability, and controllability; ethical risk assessment and emergency response plans are reasonable, and measures to protect the rights and interests of users are comprehensive and appropriate.
+
+(6) The formulated conflict of interest statement and management plan are reasonable.
+
+(7) Other content that the S&T ethics (review) committee deems necessary to review.
+
+Article 16	The S&T ethics (review) committee may decide to approve, approve with modifications, review again after modifications, or disapprove the reviewed S&T activity. Where the decision is to approve with modifications or review again after modifications, it shall propose modifications and clearly specify the modification requirements; and where the decision is to disapprove, it shall state the reasons.
+
+A review decision made by the S&T ethics (review) committee shall be approved by at least two-thirds of the members present.
+
+Article 17	The S&T ethics (review) committee shall generally make a review decision within 30 days after accepting the application, but it may be extended appropriately in special circumstances, with the extended time limit expressly stated. The review decision shall be delivered to the applicant in a timely manner.
+
+Article 18	Where the applicant objects to the review decision, the applicant may file a written appeal with the S&T ethics (review) committee that made the decision, stating the reasons and providing relevant supporting materials. Where the grounds for appeal are sufficient, the S&T ethics (review) committee shall make a new review decision in accordance with the provisions of these Measures.
+
+Article 19	The S&T ethics (review) committee shall conduct ethics follow-up reviews of reviewed and approved S&T activities, and when necessary, may make decisions such as suspending or terminating S&T activities. The interval before a follow-up review shall generally not exceed 12 months.
+
+The main contents of the follow-up review include:
+
+(1) The implementation and adjustment circumstances of the S&T activity implementation plan;
+
+(2) The implementation status of S&T ethical risk prevention and control measures;
+
+(3) Potential changes in S&T ethical risks, and circumstances that may affect the rights and interests or the safety of research participants; and
+
+(4) Other content requiring follow-up review.
+
+The S&T ethics (review) committee may require the person in charge of the S&T activity to submit relevant materials as required for the follow-up review.
+
+Article 20	Where adjustments to the implementation plan of an S&T activity, changes in the external environment, etc., may have caused changes in S&T ethical risks to occur, the person in charge of the S&T activity shall promptly report to the S&T ethics (review) committee. The S&T ethics (review) committee shall conduct an assessment of the risks and benefits, suggest whether to continue or suspend implementation, and, when necessary, conduct a new ethics review.
+
+Article 21	Where multiple work units cooperate to carry out an S&T activity the lead work unit may, based on the actual situation, establish mechanisms for S&T ethics review collaboration and mutual recognition of results, in order to strengthen the coordinated management of S&T ethics.
+
+Section 3	Simplified Procedures
+
+Article 22	Simplified review procedures may be applied in the following circumstances:
+
+(1) Where the likelihood of occurrence and degree of ethical risks in the S&T activities is not greater than minimal risks;
+
+(2) Where minor modifications are made to an approved S&T activity plan and they do not affect the risk-benefit ratio;
+
+(3) Where a follow-up review is for an S&T activity that has not undergone major adjustments in the preceding period.
+
+S&T ethics (review) committees shall formulate work rules for the application of simplified review procedures.
+
+Article 23	A review with simplified procedures shall be undertaken by at least two members designated by the chair of the S&T ethics (review) committee. During the review process, the applicant may be required to explain relevant issues. The review decision shall set out the reasons and basis for adopting simplified procedures.
+
+Where a review with simplified procedures is adopted, the S&T ethics (review) committee may adjust the frequency of follow-up reviews according to circumstances.
+
+Article 24	Where any of the following circumstances arise during a review with simplified procedures, it shall be adjusted, in accordance with provisions, to a meeting-based review applying normal procedures: 
+
+(1) The review result is a negative opinion;
+
+(2) There are doubts about the review content;
+
+(3) There is a lack of consensus among the members;
+
+(4) A member proposes that the review should be adjusted to a meeting-based review.
+
+Section 4	Expert Reconsideration Procedures
+
+Article 25	A checklist system for S&T activities requiring expert reconsideration shall be established, and checklist-style management (清单管理) shall be implemented for emerging S&T activities that may generate significant ethical risks and challenges. The checklist shall be adjusted dynamically according to work requirements, and shall be published by the Ministry of Science and Technology (MOST).
+
+Article 26	To conduct S&T activities that are included in checklist-style management, after a preliminary review by the S&T ethics (review) committee is passed, the work unit concerned shall submit a request for expert reconsideration to the local or relevant main industrial oversight department. Where multiple work units are involved, the lead work unit shall compile materials and apply to the local or relevant main industrial oversight department for expert reconsideration.
+
+Article 27	Where expert reconsideration is applied for, the work unit undertaking the S&T activity shall organize the submission of the following materials by the S&T ethics (review) committee and scientific and technical personnel, in accordance with requirements:
+
+(1) Materials listed in Article 9 of these Measures;
+
+(2) The preliminary review opinion of the S&T ethics (review) committee;
+
+(3) Other relevant materials required by the work unit organizing the reconsideration.
+
+Article 28	The local or relevant main industrial oversight department shall organize and establish an expert reconsideration panel, which shall consist of no fewer than five peer experts with high academic standing in fields related to the S&T activity, as well as experts in areas such as ethics and law. Members of S&T ethics (review) committees shall not participate in reconsideration work for S&T activities reviewed by their own committees.
+
+Reconsideration experts shall take the initiative to declare whether they have a direct interest in the matter under reconsideration, and strictly abide by secrecy protection provisions and recusal requirements.
+
+Article 29	The expert reconsideration panel shall conduct its reconsideration in accordance with the following key content and standards:
+
+(1) Compliance of the initial review opinion. The initial review opinion shall comply with China’s laws, administrative regulations, relevant national provisions, and S&T ethics requirements.
+
+(2) Reasonableness of the initial review opinion. The initial review opinion shall fully, adequately, appropriately, and reasonably assess the potential ethical risks and prevention and control measures of the S&T activity, taking into account the requirements of technology development and the actual situation of China’s S&T development.
+
+(3) Other content that the expert reconsideration panel deems necessary to review.
+
+Article 30	The expert reconsideration panel shall conduct the reconsideration in an appropriate manner and may, if necessary, require the relevant S&T ethics (review) committee and scientific and technical personnel to explain the relevant circumstances.
+
+The expert reconsideration panel shall issue a reconsideration opinion of either approval or disapproval, and the reconsideration opinion shall be approved by at least two-thirds of all reconsideration experts.
+
+Article 31	The local or relevant main industrial oversight department shall generally provide feedback to the applicant within 30 days of receipt of the reconsideration application.
+
+Article 32	The work unit’s S&T ethics (review) committee shall make an S&T ethics review decision based on the expert reconsideration opinion.
+
+Article 33	The work unit’s S&T ethics (review) committee shall strengthen the follow-up review and dynamic management of the S&T activities conducted by the work unit that are included in checklist-style management, and the interval before a follow-up review shall generally not exceed six months.
+
+Where there is a major change in S&T ethical risk, a new ethics review shall be carried out in accordance with the provisions of Article 20 of these Measures, and application shall be made for expert reconsideration.
+
+Article 34	If the State implements regulatory measures such as administrative examination and approval for relevant S&T activities included in checklist-style management, and compliance with ethical requirements is a condition for approval and part of the regulatory content, further expert reconsiderations for such activities need not be conducted. Examination and approval departments and regulatory departments, and work units undertaking S&T activities, shall strictly implement their ethics regulation responsibilities and prevent and control ethical risks.
+
+Section 5	Emergency Procedures
+
+Article 35	The S&T ethics (review) committee shall formulate a system for emergency S&T ethics reviews, clarify the emergency review process and standard operating rules for emergencies such as sudden public security incidents (突发公共事件), and organize and conduct emergency ethics review training.
+
+Article 36	The S&T ethics (review) committee shall implement graded management (分级管理) according to the urgency of S&T activities, and may establish a fast track for S&T ethics reviews in order to conduct emergency reviews in a timely manner. Emergency reviews shall generally be completed within 72 hours. For S&T activities to which expert reconsideration is applicable, the time for the expert reconsideration shall be included in the time for emergency review.
+
+Article 37	Emergency reviews shall have participation by members from the relevant professional fields. Where there are no members from the relevant professional fields, expert consultants from the relevant fields shall be invited to attend in order to provide consultation and opinions.
+
+Article 38	The S&T ethics (review) committee shall strengthen the follow-up review and process supervision of emergency S&T activity reviews, and provide scientific and technical personnel guidance and advice on S&T ethics in a timely manner.
+
+Article 39	No work unit or individual may use an emergency as an excuse to avoid an S&T ethics review or to lower S&T ethics review standards.
+
+Chapter 4	Supervision and Management
+
+Article 40	MOST shall be responsible for the overall guidance of S&T ethics oversight work. On important matters concerning the oversight of S&T ethics reviews, MOST should listen to the professional and academic advice and opinions of the National Science and Technology Ethics Commission. Local and relevant main industrial oversight departments shall be responsible for the supervision and management of S&T ethics reviews in their respective localities and systems in accordance with their respective duties and affiliations. They shall establish a mechanism for expert reconsideration of S&T activities included in checklist-style management, and strengthen the coordination, guidance, and supervision of emergency ethics reviews for major sudden public security incidents in their respective localities and systems.
+
+Article 41	Institutes of higher education, scientific research institutions, medical and health institutions, enterprises, etc., shall fulfill the primary responsibility they bear for the management of S&T ethics, improve the S&T ethics regulation mechanisms and the ethics review quality control, supervision, and evaluation mechanisms of their work units, regularly conduct S&T ethics education and training for their work staff, and strengthen the dynamic tracking and risk prevention and control of S&T activities included in checklist-style management.
+
+The State shall promote the establishment of an S&T ethics (review) committee certification mechanism, and relevant work units are encouraged to carry out S&T ethics review certification.
+
+Article 42	MOST is responsible for constructing a national S&T ethics management information registration platform to provide appropriate support for local and relevant main industrial oversight departments in strengthening the supervision of S&T ethics.
+
+Article 43	Within 30 days of the establishment of an S&T ethics (review) committee by a work unit, the work unit shall register it through the national S&T ethics management information registration platform. The registration content shall include the S&T ethics (review) committee’s composition, charter, and work system, and shall be updated in a timely manner when relevant content changes.
+
+Article 44	Within 30 days of a work unit obtaining approval for an ethics review of an S&T activity included in checklist-style management, the work unit shall register it through the national S&T ethics management information registration platform. The registration content shall include the implementation plan for the S&T activity, the status of ethics review and expert reconsideration, etc., and shall be updated in a timely manner when relevant content changes.
+
+Article 45	Before March 31 of each year, the work unit shall submit to the national S&T ethics management information registration platform a report on the S&T ethics (review) committee’s work in the preceding year, and a report on the implementation status of S&T activities included in checklist-style management.
+
+Article 46	Regarding conduct in S&T activities that violates S&T ethical norms or requirements, any work unit or individual shall be entitled to report complaints, in accordance with law, to the work units undertaking the S&T activities or to the local or relevant main industrial oversight department.
+
+Article 47	Where a work unit undertaking S&T activities, or its scientific and technical personnel, violates the provisions of these Measures, and any of the following circumstances exists, the agency with jurisdiction shall impose penalties or take other handling measures in accordance with laws, administrative regulations, and relevant provisions; where property loss or other damage has been caused, civil liability shall be borne according to law; and where a crime has been committed, criminal liability shall be pursued according to law.
+
+(1) Obtaining S&T ethics review approval through fraud or forgery, or falsifying or tampering with documents related to S&T ethics review;
+
+(2) Carrying out an S&T activity included in checklist-style management without having passed the S&T ethics review and expert reconsideration as required by regulations;
+
+(3) Conducting an S&T activity without obtaining S&T ethics review and approval as required;
+
+(4) Conducting an S&T activity beyond the scope approved by the S&T ethics review;
+
+(5) Interfering with or obstructing S&T ethics review work;
+
+(6) Other actions that violate the provisions of these Measures.
+
+Article 48	Where the S&T ethics (review) committee or a member thereof violates the provisions of these Measures and any of the following circumstances exist, the agency with jurisdiction shall impose penalties or take other measures in accordance with laws, administrative regulations, and relevant provisions; where property loss or other damage has been caused, civil liability shall be borne according to law; and where a crime has been committed, criminal liability shall be pursued according to law.
+
+(1) Falsification of materials to aid the work units undertaking S&T activities in obtaining S&T ethics review and approval;
+
+(2) Engagement in favoritism or irregularities for personal gain, abuse of power, or neglect of duty;
+
+(3) Other violations of the provisions of these Measures.
+
+Article 49	Institutes of higher education, scientific research institutions, medical and health institutions, enterprises, etc., are the entities with primary responsibility for the internal investigation and handling of S&T ethics violations. They shall promptly and proactively investigate S&T ethics violations and pursue liability according to law.
+
+Where a work unit or the persons responsible for it are suspected of an S&T ethics violation, the investigation and punishment shall be done by the main oversight department at the next higher level, and where there is no main oversight department at the next higher level, the provincial-level S&T administrative department for the work unit’s location shall be responsible for organizing the investigation and punishment.
+
+Article 50	Local and relevant main industrial oversight departments shall, in accordance with their respective duties and affiliations, strengthen guidance and supervision of the investigation and handling of S&T ethics violations in their respective localities and systems, and organize and conduct the investigation and handling of major S&T ethics cases.
+
+Article 51	Where an S&T ethics violation involves an S&T project established with government funding, the project management department (work unit) shall organize the investigation and punishment in accordance with relevant provisions on project management. A work unit undertaking (participating in) a project shall, at the request of the project management department (work unit), actively carry out and cooperate with the investigation, and punish the person(s) responsible for the violation in accordance with their duties and powers.
+
+Chapter 5	Supplementary Provisions
+
+Article 52	As used in these Measures, an “S&T ethical risk” refers to a risk identified from an ethical perspective in scientific research, technology development, and other S&T activities. “Minimal risks” refers to routine risks encountered in daily life or risks equivalent to those of a health check-up.
+
+As used in these Measures, the terms “at least” and “no fewer than” are inclusive of the number itself. Where provisions in these Measures involve a time period and working days are not indicated, it refers to natural days.
+
+As used in these Measures, the term “local” refers to the provincial-level administrative department responsible for the review and management of S&T ethics in the relevant field as determined by the local people’s government at the provincial level, and the term “relevant main industrial oversight department” refers to the State Council ministry in charge of the relevant industry.
+
+Article 53	Local and relevant main industrial oversight departments may formulate and amend rules and norms in their respective localities and systems, such as measures and detailed rules for the review of S&T ethics, in accordance with the provisions of these Measures and taking into account their actual circumstances. S&T community organizations may formulate specific norms and guidelines for S&T ethics reviews in their fields.
+
+Article 54	Where relevant main industrial oversight departments have special provisions for the establishment of S&T ethics (review) committees or S&T ethics reviews in their fields, and those provisions conform to the spirit of these Measures, those provisions shall prevail.
+
+For matters not stipulated by these Measures, implementation shall be in accordance with other existing relevant provisions.
+
+Article 55	MOST shall be responsible for the interpretation of these Measures.
+
+Article 56	These Measures shall be implemented from December 1, 2023.
+
+
+Appendix
+
+List of S&T activities for which ethics review reconsideration must be conducted
+
+Research on the synthesis of new species that have a significant impact on human life and health, value concepts, the ecological environment, etc.
+
+Research on the introduction of human stem cells into animal embryos or fetuses and further development into individuals in animal wombs.
+
+Basic research on altering the nuclear genetic material or the laws of genetics of human germ cells, fertilized eggs, or pre-implantation embryonic cells.
+
+Clinical studies on invasive brain-computer interfaces for the treatment of neurological and mental illnesses.
+
+Research and development of human-computer fusion systems that have a strong impact on human subjective behavior, psychological or emotional states, or health.
+
+Research and development of algorithmic models, applications, and systems that have the ability to mobilize public opinion or channel social awareness.
+
+Research and development of automated decision-making systems with a high degree of autonomy, for scenarios involving safety or personal health risks.
+
+This list will be dynamically adjusted based on work requirements.
+

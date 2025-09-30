@@ -1,0 +1,172 @@
+ S. 2483
+
+
+To amend the Public Health Service Act to provide additional transparency and consumer protections relating to medical debt collection practices.
+
+
+IN THE SENATE OF THE UNITED STATES
+July 25, 2023
+Mr. Murphy (for himself and Mr. Braun) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions
+
+
+A BILL
+To amend the Public Health Service Act to provide additional transparency and consumer protections relating to medical debt collection practices.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Strengthening Consumer Protections and Medical Debt Transparency Act”.
+
+ SEC. 2. MEDICAL DEBT COLLECTIONS.
+
+
+(a) In General.—Part C of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–91 et seq.) is amended by adding at the end the following:
+
+
+“SEC. 2796. MEDICAL DEBT COLLECTIONS.
+
+
+“(a) Definitions.—
+
+
+“(1) IN GENERAL.—In this section:
+
+
+“(A) DATABASE.—The term ‘database’ means the medical debt collection database established under subsection (e).
+
+
+“(B) DEBT COLLECTOR.—The term ‘debt collector’ has the meaning as defined under the Fair Debt Collection Practices Act.
+
+
+“(C) EXTRAORDINARY COLLECTION ACTION.—The term ‘extraordinary collection action’ is as defined for purposes of section 501(r) of the Internal Revenue Code of 1986 (as in effect on the date of enactment of this section).
+
+
+“(D) HEALTH CARE ENTITY.—The term ‘health care entity’ means an entity defined pursuant to paragraph (2).
+
+
+“(E) MEDICAL DEBT.—The term ‘medical debt’ means debt arising from a patient's receipt of medical services, products, or devices.
+
+
+“(2) HEALTH CARE ENTITY.—For purposes of this section, the Secretary shall develop a definition of the term ‘health care entity’ that shall include—
+
+
+“(A) nonprofit, for-profit, critical access, and cancer hospitals, including hospital-owned facilities;
+
+
+“(B) independently licensed outpatient, ambulatory, behavioral, optical, radiology, laboratory, dental, emergency departments, and urgent care centers;
+
+
+“(C) physician group practices, with an exemption for small practices, as determined by the Secretary;
+
+
+“(D) physician staffing firms or physician services companies;
+
+
+“(E) nursing home, skilled nursing and long-term care facilities;
+
+
+“(F) any health care agent of an entity described in this paragraph; and
+
+
+“(G) other entities as specified by the Secretary.
+
+ “(b) Requirements And Prohibitions.—
+
+
+“(1) DEBT COLLECTION.—A health care entity, or its debt collector, shall not commence, or shall halt, an extraordinary collection action with respect to a patient if the entity or its designee is notified by any party that a health insurance appeal is pending.
+
+
+“(2) DETERMINATION OF ELIGIBILITY FOR ASSISTANCE.—A health care entity, or its debt collector, shall not commence any extraordinary collection actions with respect to a patient until the entity determines whether the patient qualifies for assistance, either through enrollment in a Federal or State program or through the entity’s charity care or financial assistance policy, with respect to such debt. The entity shall refer such patient to any such assistance where available.
+
+
+“(3) PROHIBITION ON EXTRAORDINARY COLLECTION.—With respect to medical debt collection relating to a patient, a health care entity, or its debt collector, shall not take any extraordinary collection actions (including an action described in sections 1.501(r)–6(a)(2) of title 26, Code of Federal Regulations (as in effect on the date of enactment of this section)) until the expiration of the 180-day period beginning on the date on which the initial bill is sent to the patient, or a later date if applicable.
+
+
+“(4) PROVIDING INFORMATION TO PATIENTS.—A health care entity or its debt collector shall provide a patient with—
+
+
+“(A) an easy-to-understand itemized statement of the medical debt owed by the patient to the health care entity prior to such entity, or the debt collector acting on behalf of the entity, commencing collection activities relating to such debt;
+
+
+“(B) a copy of the detailed receipts of any payments made to the entity or its debt collector by the patient relating to the medical debt involved within 30 days of such payments; and
+
+
+“(C) information about the availability of language-assistance services for individuals with limited English proficiency (LEP).
+
+
+“(5) LIMITATION ON RECOVERY BY NONPROFIT ENTITIES.—A health care entity that is a nonprofit entity, or its debt collector, shall not collect amounts for the medical debt of a patient who is not enrolled in health insurance coverage, that are in excess of the amount generally billed, as described in sections 1.501(r)–1(b)(1) and 1.501(r)–5(b) of title 26, Code of Federal Regulations.
+
+
+“(6) REQUIREMENT OF HEALTH CARE ENTITY OR ITS DEBT COLLECTOR.—Prior to commencing any debt collection activity with respect to a medical debt, the health care entity or its debt collector shall make all reasonable efforts to confirm the identity of the debtor.
+
+ “(c) Penalties.—Except as provided in this section, a health care entity, or its debt collector, that fails to comply with any provision of this section with respect to a patient shall be liable to such patient for damages in an amount equal to the sum of—
+
+
+“(1) any actual damages sustained by such patient as a result of such failure to comply;
+
+
+“(2) in the case of an action commenced—
+
+
+“(A) by an individual, any additional damages as the court may permit, but not to exceed $1,000 for each failure to comply; or
+
+
+“(B) by a class of patients—
+
+
+“(i) such amount for each named plaintiff as could be recovered under paragraph (1) and subparagraph (A); and
+
+
+“(ii) such amount as the court may allow for all other class members, without regard to a minimum individual recovery, not to exceed the lesser of $2,000,000 or 1 percent of the annual net income of the covered provider; and
+
+
+“(3) in the case of any successful action under this section, the costs of the action, together with a reasonable attorney’s fee as determined appropriate by the court.
+
+ “(d) Establishment Of Database.—
+
+
+“(1) IN GENERAL.—The Secretary shall establish and regularly update a medical debt collection public database.
+
+
+“(2) REQUIRED INFORMATION.—Not later than 12 months after the date of enactment of this section, and annually thereafter, a health care entity shall submit to the database a debt collection report that shall include—
+
+
+“(A) the name and contact information of any debt collector owned, utilized, or retained by the entity or to which the entity assigned or sold medical debt during the year;
+
+
+“(B) a description, or link to such description, of the processes and policies of the entity for assigning a medical debt to the debt collector and for compensating such collector for services provided to the entity;
+
+
+“(C) the type and number of extraordinary collection practices the entity, or debt collector reported by the entity pursuant to subparagraph (A), undertakes or seeks to undertake, such as wage garnishment, bank account attachments, liens, arrest warrants, reporting to a consumer reporting agency, and lawsuits;
+
+
+“(D) the breakdown, by race and ethnicity, gender, and ZIP Code of residence, of medical debt collection accounts referred to a debt collector;
+
+
+“(E) the breakdown, by race or ethnicity, gender, and ZIP Code of residence, against whom the health entity, or a debt collector used by the health entity, filed an action to collect a debt owed on a medical bill;
+
+
+“(F) the breakdown, by race or ethnicity, gender, and ZIP Code of residence, of medical debt collection accounts the health entity has and has not reported or classified as bad debt;
+
+
+“(G) the total dollar amount of the cost of charges for health care services provided to patients but not collected by the health entity for patients covered by insurance, including the out-of-pocket costs for patients covered by insurance, and patients without insurance;
+
+
+“(H) the recovery rate on medical debt collection cases assigned to the debt collector, as defined by the Secretary;
+
+
+“(I) the number of bills paid using a credit card; and
+
+
+“(J) any other information determined appropriate by the Secretary.
+
+
+“(3) AVAILABILITY OF INFORMATION.—The information contained in the database shall be available on a public, searchable internet website regularly updated by the Secretary. The Secretary shall annually publish a public list on HHS.gov of any health care entity that fails to submit such required information.
+
+
+“(4) CFPB REPORT.—Not later than 12 months after the expiration of two annual reporting periods under paragraph (2), the Director of the Consumer Financial Protection Bureau shall submit to Congress a report containing an analysis of the reports submitted under that paragraph and an explanation of whether the findings based on the database under this subsection are a useful tool for the agency’s Supervision of Nondepository Covered Persons, including the Risk-Based Supervision Program (under section 1024 of Public Law 111–203). Such report shall include recommendations to improve the disclosures by health care entities for the purposes of supervising the medical debt industry, including for predictive analytics, machine learning, or other analysis techniques used in its Risk-Based Supervision Program.”.
+
+ (b) CFPB Report.—Not later than 12 months after the date of enactment of this Act, and every 2 years thereafter, the Consumer Financial Protection Bureau shall publicly report on medical debt collections, incorporating data from the medical debt collection public database established pursuant to section 2795(a) of the Public Health Service Act, anonymized data from the three largest credit bureaus, the Consumer Financial Protection Bureau database of consumer complaints, information from the Consumer Financial Protection Bureau's Supervision of Nondepository Covered Persons program including the Risk-Based Supervision Program, and relevant complaints and information from other sources as available.

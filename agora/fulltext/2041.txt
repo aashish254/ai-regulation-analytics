@@ -1,0 +1,67 @@
+SECTION 1. Section 11547.6.1 is added to the Government Code, to read:
+
+11547.6.1. (a) There is hereby established within the Government Operations Agency a consortium that shall develop, pursuant to this section, a framework for the creation of a public cloud computing cluster to be known as “CalCompute.”
+(b) The consortium shall develop a framework for the creation of CalCompute that advances the development and deployment of artificial intelligence that is safe, ethical, equitable, and sustainable by doing, at a minimum, both of the following:
+(1) Fostering research and innovation that benefits the public.
+(2) Enabling equitable innovation by expanding access to computational resources.
+(c) The consortium shall make reasonable efforts to ensure that CalCompute is established within the University of California to the extent possible.
+(d) CalCompute shall include, but not be limited to, all of the following:
+(1) A fully owned and hosted cloud platform.
+(2) Necessary human expertise to operate and maintain the platform.
+(3) Necessary human expertise to support, train, and facilitate the use of CalCompute.
+(e) The consortium shall operate in accordance with all relevant labor and workforce laws and standards.
+(f) (1) On or before January 1, 2027, the Government Operations Agency shall submit, pursuant to Section 9795, a report from the consortium to the Legislature with the framework developed pursuant to subdivision (b) for the creation and operation of CalCompute.
+(2) The report required by this subdivision shall include all of the following elements:
+(A) A landscape analysis of California’s current public, private, and nonprofit cloud computing platform infrastructure.
+(B) An analysis of the cost to the state to build and maintain CalCompute and recommendations for potential funding sources.
+(C) Recommendations for the governance structure and ongoing operation of CalCompute.
+(D) Recommendations for the parameters for use of CalCompute, including, but not limited to, a process for determining which users and projects will be supported by CalCompute.
+(E) An analysis of the state’s technology workforce and recommendations for equitable pathways to strengthen the workforce, including the role of CalCompute.
+(F) A detailed description of any proposed partnerships, contracts, or licensing agreements with nongovernmental entities, including, but not limited to, technology-based companies, that demonstrates compliance with the requirements of subdivisions (c) and (d).
+(G) Recommendations regarding how the creation and ongoing management of CalCompute can prioritize the use of the current public sector workforce.
+(g) (1) The consortium shall, consistent with state constitutional law, consist of 14 members selected from among all of the following:
+(A) Representatives of the University of California and other public and private academic research institutions and national laboratories.
+(B) Representatives of impacted workforce labor organizations.
+(C) Representatives of stakeholder groups with relevant expertise and experience, including, but not limited to, ethicists, consumer rights advocates, and other public interest advocates.
+(D) Experts in technology and artificial intelligence to provide technical assistance.
+(E) Personnel from other relevant departments and agencies, as necessary.
+(2) Eight members of the consortium shall be selected by the Secretary of Government Operations, and the President pro Tempore of the Senate and the Speaker of the Assembly shall each select three members.
+(h) If CalCompute is established within the University of California, the University of California may receive private donations for the purposes of implementing CalCompute.
+(i) This section shall become operative only upon an appropriation in a budget act, or other measure, for the purposes of this section.
+SEC. 2. Chapter 5.1 (commencing with Section 1107) is added to Part 3 of Division 2 of the Labor Code, to read:
+
+CHAPTER  5.1. Whistleblower Protections: Critical Risks in AI Foundation Models
+1107. For purposes of this chapter:
+(a) “Artificial intelligence model” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+(b) “Critical risk” means a foreseeable and material risk that a developer’s development, storage, or deployment of a foundation model will result in the death of, or serious injury to, more than 100 people or more than one billion dollars ($1,000,000,000) in damage to rights in money or property, through any of the following:
+(1) The creation and release of a chemical, biological, radiological, or nuclear weapon.
+(2) A cyberattack.
+(3) A foundation model engaging in conduct, with limited human intervention, that would, if committed by a human, constitute a violation of the Penal Code that requires intent, recklessness, or gross negligence or the solicitation or aiding and abetting of that violation.
+(4) A foundation model evading the control of its developer or user.
+(c) “Developer” means a person that has trained at least one foundation model with a quantity of computational power that costs at least one hundred million dollars ($100,000,000) when measured using prevailing market prices of cloud compute.
+(d) “Employee” means a person who performs services for wages or a salary under a contract of employment, express or implied, for an employer, including both of the following:
+(1) (A) Contractors or subcontractors and unpaid advisors involved with assessing, managing, or addressing the risk of critical harm from covered models and covered model derivatives.
+(B) As used in this paragraph, “contractor or subcontractor” means a firm, corporation, partnership, or association and its responsible managing officer, as well as any supervisors, managers, and officers found by the Labor Commissioner to be personally and substantially responsible for the willful violation of this chapter.
+(2) Corporate officers.
+(e) “Foundation model” means an artificial intelligence model that is all of the following:
+(1) Trained on broad data.
+(2) Uses self-supervision in the training process.
+(3) Applicable across a wide range of contexts.
+1107.1. (a) A developer shall not make, adopt, or enforce a rule, regulation, or policy that prevents an employee from disclosing, or retaliates against an employee for disclosing, information to the Attorney General, federal authorities, or another employee who has authority to investigate, discover, or correct the reported issue, if the employee has reasonable cause to believe that the information discloses either of the following:
+(1) The developer’s activities pose a critical risk.
+(2) The developer has made false or misleading statements about its management of critical risk.
+(b) An employee may use the hotline described in Section 1102.7 to make reports described in subdivision (a).
+(c) A developer shall provide a clear notice to all employees of their rights and responsibilities under this section, including by doing either of the following:
+(1) At all times posting and displaying within any workplace maintained by the developer a notice to all employees of their rights under this section, ensuring that any new employee receives equivalent notice, and ensuring that any employee who works remotely periodically receives an equivalent notice.
+(2) At least once each year, providing written notice to each employee of the employee’s rights under this section and ensuring that the notice is received and acknowledged by all of those employees.
+(d) (1) A developer shall provide a reasonable internal process through which an employee may anonymously disclose information to the developer if the employee believes in good faith that the information indicates that the developer’s activities present a critical risk, including a monthly update to the person who made the disclosure regarding the status of the developer’s investigation of the disclosure and the actions taken by the developer in response to the disclosure.
+(2) (A) Except as provided in subparagraph (B), the disclosures and responses of the process required by this subdivision shall be shared with officers and directors of the developer at least once each quarter.
+(B) If an employee has alleged wrongdoing by an officer or director of the developer in a disclosure or response, subparagraph (A) shall not apply with respect to that officer or director.
+(e) The court is authorized to award reasonable attorney’s fees to a plaintiff who brings a successful action for a violation of this section.
+(f) In a civil action brought pursuant to this section, once it has been demonstrated by a preponderance of the evidence that an activity proscribed by this section was a contributing factor in the alleged prohibited action against the employee, the developer shall have the burden of proof to demonstrate by clear and convincing evidence that the alleged action would have occurred for legitimate, independent reasons even if the employee had not engaged in activities protected by this section.
+(g) (1) In a civil action or administrative proceeding brought pursuant to this section, an employee may petition the superior court in any county wherein the violation in question is alleged to have occurred, or wherein the person resides or transacts business, for appropriate temporary or preliminary injunctive relief.
+(2) Upon the filing of the petition for injunctive relief, the petitioner shall cause notice thereof to be served upon the person, and thereupon the court shall have jurisdiction to grant temporary injunctive relief as the court deems just and proper.
+(3) In addition to any harm resulting directly from a violation of this section, the court shall consider the chilling effect on other employees asserting their rights under this section in determining whether temporary injunctive relief is just and proper.
+(4) Appropriate injunctive relief shall be issued on a showing that reasonable cause exists to believe a violation has occurred.
+(5) An order authorizing temporary injunctive relief shall remain in effect until an administrative or judicial determination or citation has been issued, or until the completion of a review pursuant to subdivision (b) of Section 98.74, whichever is longer, or at a certain time set by the court. Thereafter, a preliminary or permanent injunction may be issued if it is shown to be just and proper. Any temporary injunctive relief shall not prohibit a developer from disciplining or terminating an employee for conduct that is unrelated to the claim of the retaliation.
+(h) Notwithstanding Section 916 of the Code of Civil Procedure, injunctive relief granted pursuant to this section shall not be stayed pending appeal.

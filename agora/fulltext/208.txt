@@ -1,0 +1,28 @@
+The people of the State of California do enact as follows:
+
+SECTION 1. Section 11546.45.5 is added to the Government Code, to read:
+
+11546.45.5. (a) For purposes of this section:
+(1) “Automated decision system” means a computational process derived from machine learning, statistical modeling, data analytics, or artificial intelligence that issues simplified output, including a score, classification, or recommendation, that is used to assist or replace human discretionary decisionmaking and materially impacts natural persons. “Automated decision system” does not include a spam email filter, firewall, antivirus software, identity and access management tools, calculator, database, dataset, or other compilation of data.
+(2) “Board” means any administrative or regulatory board, commission, committee, council, association, or authority consisting of more than one person whose members are appointed by the Governor, the Legislature, or both.
+(3) “Department” means the Department of Technology.
+(4) “High-risk automated decision system” means an automated decision system that is used to assist or replace human discretionary decisions that have a legal or similarly significant effect, including decisions that materially impact access to, or approval for, housing or accommodations, education, employment, credit, health care, and criminal justice.
+(5) (A) “State agency” means any of the following:
+(i) Any state office, department, division, or bureau.
+(ii) The California State University.
+(iii) The Board of Parole Hearings.
+(iv) Any board or other professional licensing and regulatory body under the administration or oversight of the Department of Consumer Affairs.
+(B) “State agency” does not include the University of California, the Legislature, the judicial branch, or any board, except as provided in subparagraph (A).(b) On or before September 1, 2024, the Department of Technology shall conduct, in coordination with other interagency bodies as it deems appropriate, a comprehensive inventory of all high-risk automated decision systems that have been proposed for use, development, or procurement by, or are being used, developed, or procured by, any state agency.(c) The comprehensive inventory described by subdivision (b) shall include a description of all of the following:
+(1) (A) Any decision the automated decision system can make or support and the intended benefits of that use.
+(B) The alternatives to any use described in subparagraph (A).
+(2) The results of any research assessing the efficacy and relative benefits of the uses and alternatives of the automated decision system described by paragraph (1).
+(3) The categories of data and personal information the automated decision system uses to make its decisions.
+(4) (A) The measures in place, if any, to mitigate the risks, including cybersecurity risk and the risk of inaccurate, unfairly discriminatory, or biased decisions, of the automated decision system.
+(B) Measures described by this paragraph may include, but are not limited to, any of the following:
+(i) Performance metrics to gauge the accuracy of the system.
+(ii) Cybersecurity controls.
+(iii) Privacy controls.
+(iv) Risk assessments or audits for potential risks.
+(v) Measures or processes in place to contest an automated decision.(d) (1) On or before January 1, 2025, and annually thereafter, the department shall submit a report of the comprehensive inventory described in subdivision (b) to the Assembly Committee on Privacy and Consumer Protection and the Senate Committee on Governmental Organization.
+(2) The requirement for submitting a report imposed under paragraph (1) is inoperative on January 1, 2029, pursuant to Section 10231.5.
+(3) A report to be submitted pursuant to paragraph (1) shall be submitted in compliance with Section 9795.

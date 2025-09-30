@@ -1,0 +1,31 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “AI Innovation and Development for Efficiency Act of 2024” or the “AIDE Act of 2024”.
+SEC. 2. NATIONAL SCIENCE FOUNDATION SUPPORT OF RESEARCH ON IMPACTS OF ARTIFICIAL INTELLIGENCE ON EFFICIENT TECHNOLOGIES.
+(a) Definitions.—In this section:
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” means a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations or decisions influencing real or virtual environments. Artificial intelligence systems use machine and human-based inputs to—
+(A) perceive real and virtual environments;
+(B) abstract such perceptions into models through analysis in an automated manner; and
+(C) use model inference to formulate options for information or action.
+(2) DIRECTOR.—The term “Director” means the Director of the National Science Foundation.
+(3) EFFICIENT TECHNOLOGY.—The term “efficient technology” means a technology that critically considers minimizing emissions, securing clean air and water, building climate and community resiliency, promoting healthy food, and other sustainability pillars.
+(4) EPSCOR INSTITUTION.—The term “EPSCoR institution” means an institution of higher education, nonprofit organization, or other institution located in a jurisdiction eligible to participate in the Established Program to Stimulate Competitive Research under section 113 of the National Science Foundation Authorization Act of 1988 (42 U.S.C. 1862g).(b) Support Of Research.—
+(1) IN GENERAL.—The Director, in consultation with the heads of other relevant Federal agencies, shall support merit-reviewed and competitively awarded research on the development or expansion of artificial intelligence-enabled efficient technologies. Such research projects may include—
+(A) development of artificial intelligence-enabled efficient technologies, including in the areas of—
+(i) smart grids;
+(ii) mobility or transportation;
+(iii) agriculture;
+(iv) waste reduction;
+(v) emissions reduction; and
+(vi) resource conservation;
+(B) assessments of the feasibility of safe and reliable adoption of artificial intelligence-enabled efficient technologies into critical infrastructure; and
+(C) research on the effectiveness of expanding public understanding, development, or adoption of artificial intelligence-enabled efficient technologies.
+(2) CONSIDERATION FOR CERTAIN FOCUS.—In carrying out the program described in paragraph (1), the Director shall give particular consideration to projects that include efficient technology that focuses on—
+(A) building new smart technologies to support critical infrastructure efficiency;
+(B) minimizing pollution and greenhouse gas emissions from critical infrastructure sectors; and
+(C) upgrading existing constructions and infrastructure to be more efficient.
+(3) IMPACT ASSESSMENTS.—Each research project supported by the Director under paragraph (1) shall include an impact assessment conducted by the researcher that evaluates the energy consumption of the artificial intelligence-enabled efficient technology.
+(4) CONSIDERATION.—In supporting research under this subsection, the Director shall give special consideration to research conducted at EPSCoR institutions.(c) Reports.—
+(1) FINDINGS AND RECOMMENDATIONS.—Not later than 18 months after the date of enactment of this Act, the Director shall report to the Committee on Commerce, Science, and Transportation of the Senate, the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the House of Representatives—
+(A) the Director’s findings with respect to the feasibility for research opportunities, including with relevant Federal agencies and private sector critical infrastructure providers, to improve the development and integration of artificial intelligence-enabled efficient technologies; and
+(B) any recommendations of the Director that could facilitate and improve communication and coordination among the National Science Foundation, relevant Federal agencies, and the private sector to effectively develop and implement artificial intelligence-enabled efficient technologies.
+(2) RESULTS OF RESEARCH.—Not later than 4 years after the date of enactment of this Act, the Director shall report to the Committee on Commerce, Science, and Transportation of the Senate, the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the House of Representatives on the results of the research supported under this section.

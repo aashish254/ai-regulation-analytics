@@ -1,0 +1,45 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Preventing the Algorithmic Facilitation of Rental Housing Cartels Act of 2024”.
+SEC. 2. DEFINITIONS.
+In this Act:
+(1) CHAIR.—The term “Chair” means the Chair of the Commission.
+(2) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+(3) CONSCIOUSLY PARALLEL PRICING COORDINATION.—The term “consciously parallel pricing coordination” means a tacit agreement between 2 or more rental property owners to raise, lower, change, maintain, or manipulate pricing for the purchase or sale of reasonably interchangeable products or services.
+(4) COORDINATING FUNCTION.—The term “coordinating function” means—
+(A) collecting historical or contemporaneous prices, supply levels, or lease or rental contract termination and renewal dates of residential dwelling units from 2 or more rental property owners;
+(B) analyzing or processing of the information described in subparagraph (A) using a system, software, or process that uses computation, including by using that information to train an algorithm; and
+(C) recommending rental prices, lease renewal terms, or ideal occupancy levels to a rental property owner.
+(5) COORDINATOR.—The term “coordinator” means any person that operates a software or data analytics service that performs a coordinating function for any rental property owner, including a rental property owner performing a coordinating function for their own benefit.
+(6) PERSON.—The term “person” has the meaning given the term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12).
+(7) PRE-DISPUTE ARBITRATION AGREEMENT.—The term “pre-dispute arbitration agreement” means an agreement between 2 or more parties to arbitrate a dispute between the parties that is made before any dispute has arisen.
+(8) PRE-DISPUTE JOINT ACTION WAIVER.—The term “pre-dispute joint action waiver” means an agreement between 2 or more parties, which may be part of a pre-dispute arbitration agreement, that—
+(A) would prohibit or waive the right of a party to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum relating to a dispute between parties; and
+(B) is made before any dispute has arisen.
+(9) RESIDENTIAL DWELLING UNIT.—The term “residential dwelling unit”—
+(A) means any house, apartment, accessory unit, or other unit intended to be used as a primary residence; and
+(B) does not include inpatient medical care, licensed long-term care, and detention or correctional facilities.
+(10) RENTAL PROPERTY OWNER.—The term “rental property owner” means any individual, corporation, partnership, association, joint-stock companies, trusts, or unincorporated organizations that owns real property and leases or rents such property or any portion thereof in the form of 4 or more residential dwelling units.
+(11) STATE.—The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.SEC. 3. UNLAWFUL CONDUCT.
+(a) In General.—
+(1) CONTRACT OR CONSPIRACY IN RESTRAINT OF TRADE.—It is unlawful for a rental property owner, in or affecting commerce, or any agent or subcontractor thereof, to subscribe to, contract with, or otherwise exchange anything of value in return for the services of a coordinator, and such action shall be deemed to be a per se violation of the Sherman Act (15 U.S.C. 1 et seq.).
+(2) FACILITATION.—It is unlawful for a coordinator, in or affecting commerce, to facilitate an agreement among rental property owners to not compete with respect to residential dwelling units, including by performing a coordinating function.
+(3) ANTI-COMPETITIVE MERGER.—It is unlawful for any coordinator, in or affecting commerce, to acquire, directly or indirectly, the whole or any part of the stock or other share capital of another coordinator if the acquisition would create an appreciable risk of materially lessening competition in violation of section 7 of the Clayton Act (15 U.S.C. 18), or tend to create a monopoly or monopsony, and any such acquisition shall be deemed a violation of such section.SEC. 4. ENFORCEMENT.
+(a) Enforcement.—
+(1) IN GENERAL.—
+(A) FEDERAL TRADE COMMISSION.—The Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
+(B) ATTORNEY GENERAL.—The Attorney General shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers and duties as though all applicable terms of the Sherman Act (15 U.S.C. 1 et seq.), Clayton Act (15 U.S.C. 12 et seq.), and Antitrust Civil Process Act (15 U.S.C. 1311 et seq.) were incorporated into and made a part of this Act.
+(C) STATE ATTORNEYS GENERAL.—Any attorney general of a State shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers and duties as though all applicable terms of the Sherman Act (15 U.S.C. 1 et seq.) and the Clayton Act (15 U.S.C. 12 et seq.) were incorporated into and made a part of this Act.
+(2) UNFAIR METHODS OF COMPETITION.—A violation of this Act shall also constitute an unfair method of competition under section 5 of the Federal Trade Commission Act (15 U.S.C. 45).
+(3) INDEPENDENT LITIGATION AUTHORITY.—If the Commission has reason to believe that a person violated this Act, the Commission may commence a civil action, in its own name by any of its attorneys designated by it for such purpose, to recover a civil penalty and seek other appropriate relief in any district court of the United States.
+(4) STANDARDS OF PLEADING.—In a civil action under this subsection, a complaint—
+(A) plausibly pleads a violation of section 1 or 3(a) of the Sherman Act (15 U.S.C. 1, 3(a)) if the complaint contains factual allegations, including allegations of consciously parallel pricing coordination, demonstrating that the existence of a contract, combination in the form of trust or otherwise, or conspiracy in restraint of trade or commerce is among the realm of plausible possibilities; and
+(B) need not allege facts tending to exclude the possibility of independent action.
+(b) Civil Actions By Injured Persons.—
+(1) CIVIL ACTION AUTHORIZED.—Any person who is aggrieved by a violation of this Act may bring a civil action in an appropriate district court of the United States, without respect to the amount in controversy, to recover an amount described in paragraph (2).
+(2) AWARD AMOUNT.—
+(A) IN GENERAL.—The court shall award to the plaintiff threefold the damages sustained by the plaintiff and the reasonable cost of litigation, including a reasonable attorney fee.
+(B) INTEREST ON DAMAGES.—Pursuant to a motion by the plaintiff promptly made, the court may award simple interest on actual damages sustained by the plaintiff for the period beginning on the date of service of the pleading of the plaintiff setting forth a claim under this Act and ending on the date of judgment, or for any shorter period therein.
+(3) INVALIDITY OF PRE-DISPUTE ARBITRATION AGREEMENTS AND PRE-DISPUTE JOINT ACTION WAIVERS.—At the election of the plaintiff in an action authorized under paragraph (1), a pre-dispute arbitration agreement or pre-dispute joint action waiver relating to a violation of this Act shall be invalid or unenforceable.SEC. 5. RELATIONSHIP TO STATE AND LOCAL LAWS.
+Nothing in this Act may be construed to preempt any State, Tribal, city, or local law, regulation, or ordinance that explicitly supplements this Act.
+SEC. 6. SEVERABILITY.
+If any provision of this Act, or the application of such a provision to any person or circumstance, is held to be unconstitutional, the remaining provisions of this Act, and the application of such provisions to any person or circumstance shall not be affected thereby.

@@ -1,0 +1,202 @@
+S. 2034
+
+
+To require the Secretary of Defense to develop procurement policy and guidance to mitigate consulting company conflict of interests related to national security and foreign policy.
+
+
+IN THE SENATE OF THE UNITED STATES
+June 15, 2023
+Ms. Ernst (for herself, Mr. Kelly, and Ms. Hassan) introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs
+
+
+A BILL
+To require the Secretary of Defense to develop procurement policy and guidance to mitigate consulting company conflict of interests related to national security and foreign policy.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Combating Obstructive National Security Underreporting of Legitimate Threats Act of 2023” or the “CONSULT Act of 2023”.SEC. 2. ORGANIZATIONAL CONFLICT OF INTERESTS RELATING TO NATIONAL SECURITY AND FOREIGN POLICY.
+
+
+(a) Findings.—Congress makes the following findings:
+
+
+(1) The reliance by the Department of Defense on consultants for mission support services can create potential organizational conflicts of interest related to national security matters due to competing interests as a result of business relationships with foreign adversarial nations and entities.
+
+
+(2) It is imperative for consultants providing mission support services to the Department of Defense related to national security matters and foreign policy interests to not be providing mission support services to foreign adversaries regarding efforts counter to the national security and foreign policy interests of the United States.
+
+
+(3) Protecting against organizational conflicts of interest related to foreign adversarial nations and entities providing Federal mission support services is essential to the national security and foreign policy interests of the United States.(b) Prohibition Related To Certain Contracts Or Grants.—
+
+
+(1) IN GENERAL.—The Secretary may not after the date of the enactment of this Act enter into, renew, or extend a contract with, or award a grant to, a covered consultancy.
+
+
+(2) DISCLOSURE.—Any individual or entity that submits an offer or bid for a contract to provide consulting services to the Department of Defense shall disclose in such offer or bid any information relevant to the individual or entity with respect to the prohibition under paragraph (1), including—
+
+
+(A) whether the individual or entity has entered into a contract with, or received grants or other financial awards from, a covered entity in the five years prior to submitting the offer or bid; and
+
+
+(B) at the time the contract to provide consulting services to the Department will be entered into, whether—
+
+
+(i) any contract entered into by the individual or entity with a covered entity will still be in effect; and
+
+
+(ii) the individual or entity will be receiving funds from, or have any unobligated or unexpended funds received under, any grant or other financial award from a covered entity.
+
+
+(3) PENALTIES.—
+
+
+(A) IN GENERAL.—If the Secretary determines that a contractor of the Department failed to make the disclosure required by paragraph (2), the Secretary shall—
+
+
+(i) terminate the applicable contract for cause; and
+
+
+(ii) initiate a suspension and debarment proceeding with respect to the contractor.
+
+
+(B) MAXIMUM LENGTH OF DEBARMENT.—The maximum length of a debarment of a contractor under this paragraph shall be a period of 5 years.(c) Certification.—
+
+
+(1) IN GENERAL.—After a determination by the Secretary that a company is a covered consultancy, such company may submit to the Secretary a written and signed certification that—
+
+
+(A) the consultancy no longer is—
+
+
+(i) performing under a contract with a covered entity;
+
+
+(ii) carrying out activities under a grant received from a covered entity; or
+
+
+(iii) receiving funds, or have any unobligated or unexpended funds received, from a covered entity; and
+
+
+(B) will not receive or pursue a contract with a covered entity or a grant or other financial award from a covered entity—
+
+
+(i) during the term of a contract with the Department of Defense; or
+
+
+(ii) while receiving funds from the Department of Defense, or obligating or expending any such funds.
+
+
+(2) STATUS CHANGE.—Upon the approval by the Secretary of a certification submitted under paragraph (1), a company is deemed to not be a covered consultancy until the expiration of the certification under paragraph (3).
+
+
+(3) EXPIRATION.—A certification submitted by a company under paragraph (1) shall expire on the earlier of the date on which the company, after submitting such certification enters into, extends, renews, or performs under a contract with a covered entity for consulting services.(d) Guidance.—The Secretary shall issue procurement policies for the Department of Defense as follows:
+
+
+(1) Policies to implement the prohibition under subsection (b)(1).
+
+
+(2) Best practices to avoid becoming covered consultancies under this section and for covered consultancies to end their status as such.
+
+
+(3) A policy articulating the exact provisions and terms relating to the requirements of paragraphs (2) and (3) of subsection (b) to be included in solicitations, contracts, and grants of the Department.
+
+
+(e) Revision Of Department Of Defense Acquisition Regulation.—Not later than one year after the date of the enactment of this Act, the Secretary shall revise the Defense Federal Acquisition Regulation Supplement to implement this section.(f) Definitions.—In this section:
+
+
+(1) CONSULTING SERVICES.—The term “consulting services” has the meaning given the term “advisory and assistance services” in section 2.101 of the Federal Acquisition Regulation, except that—
+
+
+(A) the term does not include the services described in paragraph (3) of such section; and
+
+
+(B) each instance of the term “Federal” is replaced with “client”.
+
+
+(2) COVERED CONSULTANCY.—The term “covered consultancy” means a company that, itself or any subsidiary or affiliate thereof, in immediately preceding one year period entered into, extended, renewed, or performed under a contract with a covered entity for consulting services.
+
+
+(3) COVERED ENTITY.—The term “covered entity” means any of the following:
+
+
+(A) The Government of the People’s Republic of China.
+
+
+(B) The Chinese Communist Party.
+
+
+(C) The People’s Liberation Army, the Ministry of State Security, or other security service or intelligence agency of the People’s Republic of China.
+
+
+(D) Any entity on the Non-SDN Chinese Military-Industrial Complex Companies List (NS–CMIC–List) maintained by the Office of Foreign Assets Control of the Department of the Treasury under Executive Order 14032 (86 Fed. Reg. 30145; relating to addressing the threat from securities investments that finance certain companies of the People’s Republic of China), or any successor order.
+
+
+(E) Any Chinese military company identified by the Secretary of Defense pursuant to section 1237(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 50 U.S.C. 1701 note).
+
+
+(F) Any Chinese State-owned entity or other entity under the ownership, or control, directly or indirectly, of the Government of the People’s Republic of China or the Chinese Communist Party that is engaged in one or more national security industries.
+
+
+(G) The Government of the Russian Federation, any Russian State-owned entity, or any entity sanctioned by the Secretary of the Treasury under Executive Order 13662 titled “Blocking Property of Additional Persons Contributing to the Situation in Ukraine”(79 Fed. Reg. 16169).
+
+
+(H) The government or any State-owned entity of any country if the Secretary of State determines that such government has repeatedly provided support for acts of international terrorism pursuant to—
+
+
+(i) section 1754(c)(1)(A) of the Export Control Reform Act of 2018 (50 U.S.C. 4318(c)(1)(A));
+
+
+(ii) section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+
+
+(iii) section 40 of the Arms Export Control Act (22 U.S.C. 2780); or
+
+
+(iv) any other provision of law.
+
+
+(I) Any entity included on any of the following lists maintained by the Department of Commerce:
+
+
+(i) The Entity List set forth in Supplement No. 4 to part 744 of the Export Administration Regulations.
+
+
+(ii) The Denied Persons List as described in section 764.3(a)(2) of the Export Administration Regulations.
+
+
+(iii) The Unverified List set forth in Supplement No. 6 to part 744 of the Export Administration Regulations.
+
+
+(J) The Military End User List set forth in Supplement No. 7 to part 744 of the Export Administration Regulations.
+
+
+(4) EXPORT ADMINISTRATION REGULATIONS.—The term “Export Administration Regulations” means the regulations set forth in subchapter C of chapter VII of title 15, Code of Federal Regulations.
+
+
+(5) NATIONAL SECURITY INDUSTRY.—The term “national security industry” means—
+
+
+(A) a military-related industry;
+
+
+(B) semiconductor production;
+
+
+(C) researching or commercializing quantum computing;
+
+
+(D) producing products or services that use artificial intelligence;
+
+
+(E) the biotechnology industry;
+
+
+(F) the cybersecurity industry; or
+
+
+(G) the mining, processing, or refining of critical minerals (as such term is defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a))) for use by a covered entity.
+
+
+(6) SECRETARY.—The term “Secretary” means the Secretary of Defense.

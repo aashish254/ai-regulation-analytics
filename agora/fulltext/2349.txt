@@ -1,0 +1,163 @@
+A BILL
+To amend the Internal Revenue Code of 1986 to establish a credit for investments in innovative agricultural technology.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Supporting Innovation in Agriculture Act of 2025”.
+
+
+SEC. 2. Credit for investment in innovative agricultural technology.
+
+
+(a) In general.—Subpart E of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 48E the following new section:
+
+
+“SEC. 48F. Innovative agricultural technology investment credit.
+“(a) In general.—For purposes of section 46, the innovative agricultural technology investment credit for any taxable year is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any innovative agricultural technology project.
+
+
+“(b) Qualified investment.—
+
+
+“(1) IN GENERAL.—For purposes of subsection (a), the qualified investment with respect to any innovative agricultural technology project for any taxable year is the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of an innovative agricultural technology project.
+
+
+“(2) QUALIFIED PROPERTY.—For purposes of this section, the term ‘qualified property’ means property—
+“(A) which is—
+“(i) tangible personal property, whether or not affixed to real property (including equipment, systems and their components, materials, machinery, accessories, and structural components), which is used as an integral part of an innovative agricultural technology project, or
+“(ii) software, a computer system, or similar technology,
+“(B) with respect to which depreciation (or amortization in lieu of depreciation) is allowable, and
+“(C) (i) the construction, reconstruction, or erection of which is completed by the taxpayer, or
+“(ii) which is acquired by the taxpayer if the original use of such property commences with the taxpayer.
+
+
+“(3) INNOVATIVE AGRICULTURAL TECHNOLOGY PROJECT.—The term ‘innovative agricultural technology project’ means an agricultural technology or system—
+“(A) which is placed in service before December 31, 2035, and
+
+
+“(B) for which the primary purpose is to produce, store, process, and package specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004) using—
+“(i) precision agriculture, or
+“(ii) controlled environment agriculture.
+
+
+“(c) Special rules.—
+
+
+“(1) CERTAIN PROCESS EXPENDITURE RULES MADE APPLICABLE.—Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
+
+
+“(2) DENIAL OF DOUBLE BENEFIT UNDER GRANT PROGRAMS.—Rules similar to the rules of section 48(d) shall apply for purposes of this section with respect to—
+
+
+“(A) any renewable energy system, energy efficiency improvement, or equipment or system purchased, made, or installed using a grant provided under section 9007(c) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8107(c)), or
+
+
+“(B) any physical improvement to land made using a payment provided under the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.).
+
+
+“(d) Definitions.—In this section—
+
+
+“(1) CONTROLLED ENVIRONMENT AGRICULTURE.—The term ‘controlled environment agriculture’ means a closed, indoor agricultural production system using controlled environment agriculture technology in which the environment and inputs can be controlled throughout the lifecycle of a crop.
+
+
+“(2) CONTROLLED ENVIRONMENT AGRICULTURE TECHNOLOGY.—The term ‘controlled environment agriculture technology’ means any technology (including equipment, systems and their components, materials, and accessories that are necessary for the deployment of such technology) that is required to create, support, and maintain the necessary growing environment for plants and directly contributes to the efficient production, harvesting, processing, or packaging of agricultural products and goods, including—
+“(A) heating, cooling, thermal screening, humidification, dehumidification, and air circulation systems,
+“(B) horticultural lighting systems and glazing materials,
+“(C) irrigation and water treatment and filtration systems,
+“(D) nutrient delivery and management,
+“(E) sensors and vision systems for gathering data within a commercial controlled environment agricultural facility,
+“(F) software, including data management software, advanced analytics, machine learning systems and artificial intelligence systems, designed as part of or sold in connection with controlled environment agriculture technology,
+“(G) robotics, conveyance, and automation systems, including automated storage and retrieval equipment,
+“(H) automatic harvesting, seeding, transplanting, and sanitation systems, and
+“(I) any other technology, as determined by the Secretary, that contributes to the efficient production, harvesting, processing, or packaging of agricultural products and goods in commercial controlled environment agricultural facilities.
+
+
+“(3) PRECISION AGRICULTURE.—The term ‘precision agriculture’ means the use of on-farm precision agriculture technology in—
+“(A) managing, tracking, or reducing crop production inputs, including seed, land, fertilizer, chemicals, water, and time,
+“(B) optimizing weed, pest, and disease identification,
+“(C) managing and tracking crop harvest and on-farm storage at a heightened level of spatial and temporal granularity to improve efficiencies, reduce waste, and maintain environmental quality, and
+“(D) improving on-farm water conservation and irrigation efficiency.
+
+
+“(4) PRECISION AGRICULTURE TECHNOLOGY.—The term ‘precision agriculture technology’ means any technology (including equipment that is necessary for the deployment of such technology) that directly contributes to a reduction in, or improved efficiency of, inputs used in specialty crop production, harvesting, and on-farm storage including—
+“(A) Global Positioning System-based or geospatial mapping,
+“(B) satellite or aerial imagery,
+“(C) yield monitors,
+“(D) soil mapping,
+“(E) non-chemical weed and pest control technologies, including autonomous laser weeders,
+“(F) vision systems, remote sensors, and temperature and soil moisture monitors,
+“(G) internet of things and telematics technologies,
+“(H) software, including data management, advanced analytics, machine learning, and artificial intelligence systems, designed as part of or sold in connection with other precision agriculture technology,
+“(I) network connectivity products and solutions,
+“(J) Global Positioning System guidance or auto-steer systems,
+“(K) variable rate technology for applying inputs, such as section control,
+“(L) robotics,
+“(M) uncrewed aircraft systems and uncrewed ground vehicles, and
+“(N) any other technology, as determined by the Secretary, that leads to a reduction in, or improves efficiency of, inputs used in crop production and harvesting, which may include seed, fertilizer, chemicals, water, and time.”.
+
+
+(b) Elective payment of credit.—Section 6417 of such Code is amended—
+
+
+(1) in subsection (b), by adding at the end the following:
+
+
+“(13) The innovative agricultural technology investment credit under section 48F.”, and
+
+
+(2) in subsection (d)(1)—
+
+
+(A) in subparagraph (E), by striking “(C), or (D)” each place such term appears and inserting “(C), (D), or (E)”,
+
+
+(B) by redesignating subparagraph (E) (as amended by clause (i)) as subparagraph (F), and
+
+
+(C) by inserting after subparagraph (D) the following:
+
+
+“(E) ELECTION WITH RESPECT TO INNOVATIVE AGRICULTURAL TECHNOLOGY INVESTMENT CREDIT.—If a taxpayer other than an entity described in subparagraph (A) makes an election under this subparagraph with respect to any taxable year in which such taxpayer has, after December 31, 2023, placed in service qualified property which is part of an innovative agricultural technology project (as defined in section 48F(b)), such taxpayer shall be treated as an applicable entity for purposes of this section for such taxable year, but only with respect to the credit described in subsection (b)(13).”.
+
+
+(c) Transferability.—Section 6418(f)(1)(A) of such Code is amended by adding at the end the following new clause:
+
+
+“(xii) The innovative agricultural technology investment credit determined under section 48F.”.
+
+
+(d) Conforming amendments.—
+
+
+(1) Section 46 of such Code is amended—
+(A) in paragraph (6), by striking “and” at the end,
+(B) in paragraph (7), by striking the period at the end and inserting “, and”, and
+(C) by adding at the end the following new paragraph:
+
+
+“(8) the innovative agricultural technology investment credit.”.
+
+
+(2) Section 49(a)(1)(C) of such Code is amended—
+(A) in clause (vii), by striking “and” at the end,
+(B) in clause (viii), by striking the period at the end and inserting “, and”, and
+(C) by adding at the end the following new clause:
+
+
+“(ix) the basis of any qualified property which is part of an innovative agricultural technology project under section 48F.”.
+
+
+(3) Section 50(a)(2)(E) of such Code is amended by striking “or 48E(e)” and inserting “48E(e), or 48F(c)(1)”.
+
+
+(4) The table of sections for subpart E of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 48E the following new item:
+
+
+“Sec. 48F. Innovative agricultural technology investment credit.”.
+(e) Effective date.—The amendments made by this section shall apply to property the construction of which began after January 1, 2025.

@@ -1,0 +1,19 @@
+SEC. 909. DIGITAL TALENT RECRUITING OFFICER.
+
+(a) Digital Talent Recruiting for the Department of Defense.--
+	(1) In general.--Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall designate a chief digital recruiting officer within the office of the Under Secretary of Defense for Personnel and Readiness to carry out the responsibilities set forth in paragraph (2).
+	(2) Responsibilities.--The chief digital recruiting officer shall be responsible for--
+		(A) identifying Department of Defense needs for, and skills gaps in, specific types of civilian digital talent;
+		(B) recruiting individuals with the skills that meet the needs and skills gaps identified under subparagraph (A), in partnership with the military departments and other organizations and elements of the Department;
+		(C) ensuring Federal scholarship for service programs are incorporated into civilian recruiting strategies;
+		(D) when appropriate and within authority granted under other Federal law, offering recruitment and referral bonuses; and
+		(E) partnering with human resource teams in the military departments and other organizations and elements of the Department to help train all Department of Defense human resources staff on the available hiring flexibilities to accelerate the hiring of individuals with the skills that fill the needs and skills gaps identified under subparagraph (A).	(3) Resources.--The Secretary of Defense shall ensure that the chief digital recruiting officer is provided with personnel and resources sufficient to carry out the duties set forth in paragraph (2).
+	(4) Role of chief human capital officer.--
+		(A) In general.--The chief digital recruiting officer shall report directly to the Chief Human Capital Officer of the Department of Defense.
+		(B) Incorporation.--The Chief Human Capital Officer shall ensure that the chief digital recruiting officer is incorporated into the agency human capital operating plan and recruitment strategy. In carrying out this paragraph, the Chief Human Capital Officer shall ensure that the chief digital recruiting officer's responsibilities are deconflicted with any other recruitment initiatives and programs.
+(b) Digital Talent Defined.--For the purposes of this section, the term ``digital talent'' includes positions and capabilities in, or related to, software development, engineering, and product management; data science; artificial intelligence; distributed ledger technologies; autonomy; data management; product and user experience design; and cybersecurity.
+(c) Annual Briefing Requirement.--Not later than one year after the date of the enactment of this Act, and on an annual basis thereafter, the chief digital recruiting officer shall provide to the congressional defense committees a briefing on--
+	(1) the efforts of the Department of Defense to recruit digital talent to positions in the Department; and
+	(2) a summary of any accomplishments and challenges with respect to such recruiting.
+
+(d) Sunset.--The requirements under subsection (a) shall expire on September 30, 2025.

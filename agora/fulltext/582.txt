@@ -1,0 +1,331 @@
+H. R. 3490
+
+
+To amend the Federal Water Pollution Control Act and the Safe Drinking Water Act to authorize grants for smart water infrastructure technology, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+May 18, 2023
+
+
+Mr. Gallego (for himself and Mr. Duarte) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To amend the Federal Water Pollution Control Act and the Safe Drinking Water Act to authorize grants for smart water infrastructure technology, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+
+(a) Short Title.—This Act may be cited as the “Water Infrastructure Modernization Act of 2023”.
+
+
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Purposes.
+
+
+TITLE I—WASTEWATER INFRASTRUCTURE
+
+
+Sec. 101. Smart wastewater infrastructure technology for treatment works.
+
+
+TITLE II—DRINKING WATER INFRASTRUCTURE
+
+
+Sec. 201. Smart water infrastructure technology for drinking water.SEC. 2. PURPOSES.
+
+
+The purposes of this Act are—
+
+
+(1) to upgrade and modernize the drinking water, wastewater, and stormwater systems of the United States;
+
+
+(2) to support the modernization of the publicly owned treatment works of the United States to maintain reliable and affordable water quality infrastructure that addresses demand impacts, including resiliency, to improve public health and natural resources;
+
+
+(3) to support the modernization of the drinking water infrastructure and management systems of the United States to maintain reliable, resilient, and affordable drinking water infrastructure and ensure the protection of public health; and
+
+
+(4) to encourage the use of water-efficient technologies to address drought and prepare for the growing strain that population growth and climate change will have on over-allocated water supplies.TITLE I—WASTEWATER INFRASTRUCTURE
+
+
+SEC. 101. SMART WASTEWATER INFRASTRUCTURE TECHNOLOGY FOR TREATMENT WORKS.
+
+
+Title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.) is amended by adding at the end the following:
+
+
+“SEC. 228. SMART WASTEWATER INFRASTRUCTURE TECHNOLOGY.
+
+
+“(a) Grants.—Subject to the availability of appropriations, the Administrator shall make direct grants to owners and operators of publicly owned treatment works for planning, design, construction, implementation, training, and operations relating to—
+
+
+“(1) intelligent wastewater treatment and collection systems and stormwater management operations, including technologies that rely on—
+
+
+“(A) the use of real-time monitoring, management, analytics, and data collection tools, embedded intelligence, and predictive maintenance capabilities that improve the energy efficiency, cost efficiency, reliability, and resiliency of wastewater treatment systems;
+
+
+“(B) real-time remote sensors that provide continuous monitoring of water quality in stormwater and wastewater treatment and collection systems to support the optimization of those stormwater and wastewater treatment and collection systems; and
+
+
+“(C) the use of artificial intelligence and other intelligent optimization tools that—
+
+
+“(i) reduce operational costs, including operational costs relating to energy consumption and chemical treatment; and
+
+
+“(ii) improve decisionmaking;
+
+
+“(2) innovative and alternative combined sewer and stormwater control projects, including groundwater banking, that rely on real-time data acquisition to support predictive aquifer recharge through water reuse and stormwater management capabilities; and
+
+
+“(3) advanced digital design and construction management tools relating to stormwater and wastewater treatment and collection systems, including advanced digital models.“(b) Program Implementation.—
+
+
+“(1) SELECTION.—
+
+
+“(A) APPLICATION.—The owner or operator of a publicly owned treatment works seeking a grant under subsection (a) shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+
+
+“(B) GUIDANCE.—Not later than 30 days after the date of enactment of this section, the Administrator shall issue guidance to owners and operators of publicly owned treatment works on how to submit an application under subparagraph (A).
+
+
+“(C) SELECTION.—Not later than 30 days after the date on which the owner or operator of a publicly owned treatment works seeking a grant under subsection (a) submits an application under subparagraph (A), the Administrator shall determine whether to approve or deny the application.
+
+
+“(D) DEFICIENT APPLICATIONS.—If the Administrator determines that an application submitted under subparagraph (A) is deficient, the Administrator shall—
+
+
+“(i) advise the applicant of the deficiency; and
+
+
+“(ii) provide an opportunity for the applicant to resubmit the application.
+
+
+“(2) DISBURSEMENT.—If the Administrator approves an application under paragraph (1)(C), the Administrator shall disburse grant funds not later than 60 days after the date of the determination.“(c) Cost-Share.—
+
+
+“(1) IN GENERAL.—Except as provided in paragraph (2), the non-Federal share of an activity carried out using a grant under subsection (a) shall be 25 percent.
+
+
+“(2) WAIVER.—The Administrator may waive the cost-share requirement under paragraph (1) if the Administrator determines that the cost-share requirement would be financially unreasonable due to the inability of a community being served by the publicly owned treatment works for which the grant is sought to comply with the cost-share requirement.
+
+
+“(d) Compliance With Buy America.—Section 608 shall apply to grant funds under this section.
+
+
+“(e) Report To Congress.—
+
+
+“(1) IN GENERAL.—Not later than 180 days after the date of enactment of this section, and not less frequently than annually thereafter, the Administrator shall submit to Congress a report that—
+
+
+“(A) describes—
+
+
+“(i) the projects awarded grants under subsection (a); and
+
+
+“(ii) the improvements in the resiliency of publicly owned treatment works that resulted from the grants awarded under subsection (a); and
+
+
+“(B) includes any recommendations of the Administrator to improve the ability of grants under subsection (a) to achieve the purposes described in section 2 of the Water Infrastructure Modernization Act of 2023.
+
+
+“(2) INITIAL REPORT.—The initial report required under paragraph (1) shall include a description of the implementation of this section, including a description of—
+
+
+“(A) the projects approved for a grant under subsection (a);
+
+
+“(B) the projects denied a grant under subsection (a); and
+
+
+“(C) for the projects described in subparagraph (B), a description of the reasons for which each project was denied a grant.
+
+
+“(f) Authorization Of Appropriations.—
+
+
+“(1) IN GENERAL.—There is authorized to be appropriated to carry out this section $25,000,000 for the period of fiscal years 2024 through 2028, to remain available until expended.
+
+
+“(2) SET-ASIDES.—
+
+
+“(A) RURAL COMMUNITIES.—Of the amounts made available under paragraph (1), the Administrator shall use not more than 25 percent to make grants to owners and operators of publicly owned treatment works that serve communities with a population of not more than 10,000 individuals.
+
+
+“(B) TRIBAL COMMUNITIES.—Of the amounts made available under subparagraph (A), the Administrator shall use not less than 10 percent to make grants to owners and operators of publicly owned treatment works that serve Indian Tribes.”.TITLE II—DRINKING WATER INFRASTRUCTURE
+
+
+SEC. 201. SMART WATER INFRASTRUCTURE TECHNOLOGY FOR DRINKING WATER.
+Section 1452 of the Safe Drinking Water Act (42 U.S.C. 300j–12) is amended—
+
+
+(1) in subsection (m)(1), by striking “subsections (a)(2)(G) and (t)” and inserting “subsections (a)(2)(G), (t), and (u)”; and
+
+
+(2) by adding at the end the following:
+
+
+“(u) Smart Water Infrastructure Technology.—
+
+
+“(1) GRANTS.—Subject to the availability of appropriations, the Administrator shall make direct grants to the owners or operators of community water systems for purposes of planning, design, construction, implementation, training, and operations relating to—
+
+
+“(A) smart water network technologies that—
+
+
+“(i) can identify or reduce water losses in a nondestructive or nondisruptive manner, including through analytical software, flow and pressure monitoring, or acoustic data collection; and
+
+
+“(ii) provide—
+
+
+“(I) predictive and diagnostic information for informed decisionmaking;
+
+
+“(II) comprehensive data on pipeline integrity that document the presence of leaks or gas pockets; and
+
+
+“(III) information on the extent of such leaks or gas pockets, with an emphasis on detecting weakness of, vulnerability of, or damage to pipe barrels, pipe joints, or other pipe features;
+
+
+“(B) real-time remote sensing technologies, including the use of advanced data management and analytics, that detect and alert operators to water quality events, leakages, and pipeline bursts on a real-time basis, including persistent sensor networks capable of measuring—
+
+
+“(i) acoustic signals;
+
+
+“(ii) pressure transient;
+
+
+“(iii) water quality; or
+
+
+“(iv) water flow;
+
+
+“(C) real-time decision support technologies that integrate sources of data about water treatment systems and distribution networks to deliver common operations information relying on data analytics that can improve operational decisionmaking, including nonrevenue water loss, energy optimization, cost efficiency, asset maintenance management, and water quality improvement;
+
+
+“(D) advanced metering infrastructure, including meter data analytics and ratepayer technology—
+
+
+“(i) to improve end user conservation; and
+
+
+“(ii) in support of disadvantaged communities;
+
+
+“(E) resilient water supply projects that may provide real-time monitoring of weather patterns and impacts on water supply and flood protection reservoirs and dams that enhance operations, including—
+
+
+“(i) improved water supply reliability and management;
+
+
+“(ii) protection of natural resources, including fisheries; and
+
+
+“(iii) temperature control;
+
+
+“(F) innovative and alternative water supply projects, including groundwater banking, that rely on real-time data acquisition to support predictive aquifer recharge through water reuse and stormwater management capabilities;
+
+
+“(G) artificial intelligence and other intelligent optimization tools that—
+
+
+“(i) reduce operational costs, including operational costs relating to energy consumption and chemical treatment; and
+
+
+“(ii) improve decisionmaking; and
+
+
+“(H) advanced digital design and construction management tools relating to water treatment systems and distribution networks, including the development of advanced digital models.“(2) PROGRAM IMPLEMENTATION.—
+
+
+“(A) SELECTION.—
+
+
+“(i) APPLICATION.—The owner or operator of a community water system seeking a grant under paragraph (1) shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+
+
+“(ii) GUIDANCE.—Not later than 30 days after the date of enactment of this subsection, the Administrator shall issue guidance to owners and operators of community water systems on how to submit an application under clause (i).
+
+
+“(iii) SELECTION.—Not later than 30 days after the date on which the owner or operator of a community water system seeking a grant under paragraph (1) submits an application under clause (i), the Administrator shall determine whether to approve or deny the application.
+
+
+“(iv) DEFICIENT APPLICATIONS.—If the Administrator determines that an application submitted under clause (i) is deficient, the Administrator shall—
+
+
+“(I) advise the applicant of the deficiency; and
+
+
+“(II) provide an opportunity for the applicant to resubmit the application.
+
+
+“(B) DISBURSEMENT.—If the Administrator approves an application under subparagraph (A)(iii), the Administrator shall disburse grant funds not later than 60 days after the date of the determination.“(3) COST-SHARE.—
+
+
+“(A) IN GENERAL.—Except as provided in subparagraph (B), the non-Federal share of an activity carried out using a grant under paragraph (1) shall be 25 percent.
+
+
+“(B) EXCEPTION.—The Administrator may waive the cost-share requirement under subparagraph (A) if the grant recipient is or serves a disadvantaged community (as defined in subsection (d)(3)).
+
+
+“(4) COMPLIANCE WITH BUY AMERICA.—Subsection (a)(4) shall apply to grant funds under this subsection, without regard to the fiscal year limitation in subparagraph (A) of that subsection.
+
+
+“(5) REPORT TO CONGRESS.—
+
+
+“(A) IN GENERAL.—Not later than 180 days after the date of enactment of this subsection, and not less frequently than annually thereafter, the Administrator shall submit to Congress a report that—
+
+
+“(i) describes the projects awarded grants under paragraph (1) during the applicable reporting period; and
+
+
+“(ii) includes any recommendations of the Administrator to improve the ability of grants under paragraph (1) to achieve the purposes described in section 2 of the Water Infrastructure Modernization Act of 2023.
+
+
+“(B) INITIAL REPORT.—The initial report required under subparagraph (A) shall include a description of the implementation of this subsection, including a description of—
+
+
+“(i) the projects approved for a grant under paragraph (1);
+
+
+“(ii) the projects denied a grant under paragraph (1); and
+
+
+“(iii) for the projects described in clause (ii), a description of the reasons for which each project was denied a grant.
+
+
+“(6) AUTHORIZATION OF APPROPRIATIONS.—
+
+
+“(A) IN GENERAL.—There is authorized to be appropriated to carry out this subsection $25,000,000 for the period of fiscal years 2024 through 2028, to remain available until expended.
+
+
+“(B) SET-ASIDES.—
+
+
+“(i) RURAL COMMUNITIES.—Of the amounts made available under subparagraph (A), the Administrator shall use not more than 25 percent to make grants to owners and operators of community water systems that serve a population of not more than 10,000 individuals.
+
+
+“(ii) TRIBAL COMMUNITIES.—Of the amounts made available under subparagraph (A), the Administrator shall use not less than 10 percent to make grants to owners and operators of community water systems that serve Indian Tribes.”.

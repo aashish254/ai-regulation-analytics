@@ -1,0 +1,11 @@
+
+[removed all parts of the report except the conclusion, which contained actionable recommendations]
+
+The Copyright Office agrees with the numerous commenters that have asserted an
+urgent need for new protection at the federal level. The widespread availability of generative AI tools that make it easy to create digital replicas of individuals’ images and voices has highlighted gaps in existing laws and raised concerns about the harms that can be inflicted by unauthorized uses.
+
+We recommend that Congress establish a federal right that protects all individuals
+during their lifetimes from the knowing distribution of unauthorized digital replicas. The right should be licensable, subject to guardrails, but not assignable, with effective remedies including monetary damages and injunctive relief. Traditional rules of secondary liability should apply, but with an appropriately conditioned safe harbor for OSPs. The law should contain explicit First Amendment accommodations. Finally, in recognition of well-developed state rights of publicity, we recommend against full preemption of state laws.
+
+The Office remains available as a resource to Congress, the courts, and the executive
+branch in considering the recommendations in this Report and future developments.

@@ -1,0 +1,733 @@
+ H. R. 5090
+
+
+To support research, development, demonstration, and other activities to develop innovative vehicle technologies, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+July 28, 2023
+
+
+Ms. Stevens (for herself and Mrs. Dingell) introduced the following bill; which was referred to the Committee on Science, Space, and Technology
+
+
+A BILL
+To support research, development, demonstration, and other activities to develop innovative vehicle technologies, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Shifting Forward Vehicle Technologies Research and Development Act”.
+
+
+SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) ALTERNATIVE FUEL.—The term “alternative fuel” means a fuel that results in a significant reduction in lifecycle greenhouse gas (GHG) and criteria air pollutant emissions compared to conventional fuel options.
+
+
+(2) EXTREME FAST CHARGING.—The term “extreme fast charging” means recharging up to 80 percent of battery capacity in approximately 10 minutes or less.
+
+
+(3) SUSTAINABLE MATERIALS.—The term “sustainable materials” means materials used throughout the consumer and industrial economy that can be produced in required volumes without depleting nonrenewable resources and without disrupting the established steady-state equilibrium of the environment and key natural resource systems.
+
+
+(4) DEPARTMENT.—The term “Department” means the Department of Energy.
+
+
+(5) SECRETARY.—The term “Secretary” means the Secretary of Energy.
+
+ SEC. 3. REPORTING ON THE DEVELOPMENT OF CERTAIN TECHNOLOGIES.
+
+
+Not later than two years after the date of the enactment of this Act and every two years thereafter through 2028, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing—
+
+
+(1) the activities undertaken pursuant to this Act, including—
+
+
+(A) the status of public-private partnerships;
+
+
+(B) progress of the programs under sections 4, 6, 8, and 12 in meeting goals and timelines; and
+
+
+(C) a strategic plan for funding of activities across agencies; and
+
+
+(2) the technologies and knowledge developed and demonstrated as a result of such activities, with a particular emphasis on whether such technologies were successfully adopted for commercial applications, and if so, whether products relying on such technologies are manufactured in the United States.
+
+ SEC. 4. ADVANCED VEHICLE RESEARCH AND DEVELOPMENT PROGRAM.
+
+
+(a) In General.—The Secretary, in consultation with the heads of relevant Federal agencies, shall conduct a research, development, and demonstration program of advanced vehicle technologies on more efficient, sustainable, and domestically available materials and manufacturing processes with the potential to—
+
+
+(1) substantially reduce or eliminate greenhouse gas emissions from the manufacture and use of passenger and commercial vehicles; and
+
+
+(2) reduce the cost of vehicle manufacturing and ownership.
+
+
+(b) Program Components.—In carrying out the program under subsection (a), the Secretary shall coordinate with the activities authorized under section 137 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17014; relating to research and development into integrating electric vehicles onto the electric grid) and subsection (q) of section 641 of the United States Energy Storage Competitiveness Act of 2007 (42 U.S.C. 17231; enacted as subtitle D of title VI of the Energy Independence and Security Act of 2007; relating to the establishment of a critical material recycling and reuse research, development, and demonstration program), and with the heads of relevant Federal agencies to determine a comprehensive set of technical milestones for such activities and focus on research and development challenges across the vehicle supply chain including, to the maximum extent practicable, activities in the areas of—
+
+
+(1) electrification of vehicle systems, including compact and efficient electric drivetrain systems;
+
+
+(2) power electronics, electric machines, and electric machine drive systems, which may include—
+
+
+(A) electronic motors, including advanced inverters and motors that can be used for passenger vehicles and commercial vehicles;
+
+
+(B) magnetic materials, including permanent magnets with reduced or no critical materials;
+
+
+(C) improving partial load efficiency;
+
+
+(D) design of power electronics and electric motor technologies that enable efficient recycling of critical materials; and
+
+
+(E) assessing potential impacts of various vehicle systems on electric propulsion performance, including potential impacts from AM/FM radio frequencies;
+
+
+(3) vehicle batteries and relevant systems, which may include—
+
+
+(A) advanced batteries systems, ultracapacitors, and other competitive energy storage devices;
+
+
+(B) common interconnection protocols, specifications, and architecture for both transportation and stationary battery applications;
+
+
+(C) energy density and capacity, recharging robustness, extreme fast charging and wireless charging capabilities, and efficiencies to lower cost;
+
+
+(D) lifetime improvement and reduction of potential lifecycle impacts from advanced batteries;
+
+
+(E) improving efficient use and reuse, substitution, and recycling of critical materials in vehicles, including rare earth elements and precious metals, at risk of supply disruption;
+
+
+(F) advanced battery protection systems for safe handling of high voltage power and thermal management;
+
+
+(G) technologies enabling flexible manufacturing facilities that can accommodate different vehicle battery chemistries and configurations; and
+
+
+(H) improving the efficiency and safety of the manufacturing of advanced batteries;
+
+
+(4) vehicle components and systems, including manufacturing technologies and processes, which may include—
+
+
+(A) reducing or repurposing waste streams, reducing emissions, and energy intensity of vehicle, engine, and advanced battery manufacturing processes; and
+
+
+(B) increasing the production rate and decreasing the cost of advanced battery and hydrogen fuel cell manufacturing, including purpose-built hydrogen fuel cell vehicles, hydrogen fueling infrastructure, and components;
+
+
+(5) hybrid and alternative fuel vehicles and fuel pathways, which may include—
+
+
+(A) vehicle fuel cells and relevant systems, including power electronics systems to regulate fuel cell voltages;
+
+
+(B) synthetic fuels from recycled carbon dioxide and net-zero carbon liquid fuels; and
+
+
+(C) advanced biofuel technologies;
+
+
+(6) lubricants and accessory power loads for hybrid and electric vehicles aftertreatment technologies;
+
+
+(7) vehicle weight reduction, which may include the development of—
+
+
+(A) more sustainable and cost-effective lightweight materials; and
+
+
+(B) higher efficiency manufacturing processes, such as additive manufacturing, to produce sustainable lightweight materials and fabricate, assemble, and use dissimilar materials, including—
+
+
+(i) lightweight systems which combine several existing vehicle components; and
+
+
+(ii) voluntary, consensus-based standards for strategic lightweight materials;
+
+
+(8) improved vehicle recycling methods to increase the recycled material content of feedstocks used in raw material manufacturing;
+
+
+(9) vehicle propulsion systems, which may include—
+
+
+(A) engine and component durability;
+
+
+(B) engine down speeding;
+
+
+(C) advanced internal combustion engines;
+
+
+(D) transmission gear and engine operation matching; and
+
+
+(E) advanced transmission technologies;
+
+
+(10) applying advanced computing resources to large, voluntarily provided industry datasets from providers and cities to support the development of predictive engineering, modeling, and simulation of components, vehicle, and transportation systems;
+
+
+(11) leveraging the use of machine learning toward manufacturing and additive manufacturing optimization, which may include—
+
+
+(A) assessing the efficiency and safety of manufacturing processes;
+
+
+(12) advanced computing systems, including energy efficient systems, technology, and networking for vehicular on-board, off-board, and edge computing applications;
+
+
+(13) assessing automation in both vehicle and infrastructure systems;
+
+
+(14) infrastructure, which may include—
+
+
+(A) refueling and charging infrastructure for alternative fueled and electric drive or plug-in electric hybrid vehicles, with consideration for the unique challenges facing urban and rural areas;
+
+
+(B) extreme fast charging, including through wired and wireless charging systems;
+
+
+(C) integration, bidirectional capability, and operational optimization of vehicle electrification for light, medium, and heavy duty with the charging infrastructure and the electric grid; and
+
+
+(D) sensing, communications, and actuation technologies for vehicle, electric grid, and infrastructure, which may include—
+
+
+(i) communication, onboard sensing, and connectivity among vehicles, infrastructure, pedestrians, and the electrical grid;
+
+
+(ii) assessing the use of autonomous vehicles or connectivity to improve roadway throughput; and
+
+
+(iii) research autonomous refueling and charging technologies and infrastructure;
+
+
+(15) retrofitting advanced vehicle technologies to existing vehicles;
+
+
+(16) informing and educating the public on the energy benefits of automation and connected vehicle technologies, connected infrastructure assets, and mobility applied sensors to build trust and acceptance;
+
+
+(17) reusing valuable components and materials, such as permanent magnets and other electric drive components for advanced vehicles; and
+
+
+(18) transportation system analysis to further understand the energy implications and opportunities of advanced mobility solutions, communication, and connectivity among vehicles, infrastructure, pedestrians, and the electrical grid.
+
+
+(c) Nonroad Transportation Environmental And Technical Assistance Research.—
+
+
+(1) IN GENERAL.—The Secretary, in carrying out the program established under subsection (a), and in consultation with the heads of relevant Federal agencies, shall support research, development, and demonstration activities to address and reduce nonroad sector emissions from transportation fuels used in aviation, rail, and maritime technologies and other relevant technologies. Such activities may be carried out primarily by an Energy Innovation Hub established under section 206 of the Department of Energy Research Coordination Act (42 U.S.C. 18632).
+
+
+(2) PURPOSE.—The purpose of the research, development, and demonstration activities under paragraph (1) shall be to—
+
+
+(A) identify, study, evaluate, test, and demonstrate emerging transformational nonroad vehicle energy technologies and practices to improve environmental performance to meet Federal and international standards and guidelines, including reducing greenhouse gas emissions, water emissions, or other particulate or toxic emissions;
+
+
+(B) advance research, development, and demonstration activities to—
+
+
+(i) overcome barriers in transformational nonroad vehicle energy technologies, including alternative fuels such as hydrogen, components, and other energy technologies to improve total machine or system efficiency for nonroad mobile equipment; and
+
+
+(ii) increase the fuel economy and use of alternative fuels and alternative energy;
+
+
+(C) support opportunities to transfer relevant research findings and technologies between the nonroad and on-highway equipment and vehicle sectors; and
+
+
+(D) test relevant precommercial technologies.
+
+
+(3) COORDINATION.—The Secretary may coordinate the research, development, and demonstration activities under paragraph (1) with activities—
+
+
+(A) that are associated with the development or approval of validation and testing regimes; and
+
+
+(B) related to certification or validation of emerging energy technologies or practices that demonstrate significant environmental or other benefits to domestic non-road transportation industries.
+
+
+(4) ASSISTANCE.—The Secretary may enter into cooperative agreements, contracts, or other agreements with academic, public, private, and nongovernmental entities and facilities to carry out the activities under paragraph (1).
+
+
+(5) TRANSFORMATIONAL NONROAD VEHICLE TECHNOLOGY DEFINED.—In this section, the term “transformational nonroad vehicle technology” means an innovative technology that—
+
+
+(A) enables advanced nonroad transportation, nonroad transportation components, and related energy technologies that have the potential to produce significantly lower emissions and greater energy savings than current commercial technologies;
+
+
+(B) enables improved or expanded supply and production of domestic emission reducing fuels and components; or
+
+
+(C) ensures the long term, secure, and sustainable supply of critical materials.
+
+
+(d) Standard Of Review.—The Secretary shall periodically review activities carried out under this section to determine the achievement of technical milestones as determined by the Secretary.
+
+
+(e) Technology Testing And Metrics.—In carrying out the program under subsection (a), the Secretary, in coordination with the National Institute of Standards and Technology, shall—
+
+
+(1) develop voluntary, consensus-based standard testing procedures, methodologies, and best practices for evaluating the performance of advanced vehicle technologies, including heavy vehicle technologies under a range of representative duty cycles and operating conditions, including for electrified and hydrogen fuel cell systems; and
+
+
+(2) evaluate advanced vehicle performance, including heavy vehicle and nonroad vehicle performance using work performance-based metrics.
+
+ SEC. 5. ADVANCED ON-ROAD VEHICLE SECURITY PROGRAM.
+
+
+(a) In General.—The Secretary, in coordination with the program under section 4, the program authorized under section 137 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17014), and the heads of relevant Federal agencies, shall establish a research and development program focused on the cybersecurity and physical security of interconnections between vehicles, vehicle energy storage systems, charging equipment, buildings, and the electric grid for plug-in electric vehicles, connected vehicles, autonomous, and other relevant vehicles, including the security impacts, efficiency, and safety of plug-in electric vehicles using alternating current charging, high-power direct current fast charging, and extreme fast charging.
+
+
+(b) Assessment.—The Secretary shall develop a 5- to 10-year impact assessment of emergent cybersecurity threats and vulnerabilities to the United States on-road transportation system and connected infrastructure by identifying—
+
+
+(1) areas of research with respect to which Federal cross-agency research coordination and cooperation may help address such threats and vulnerabilities; and
+
+
+(2) current research and challenges associated with cyber-physical protection and resiliency of electric and connected and automated vehicle technologies.
+
+ SEC. 6. VEHICLE ENERGY STORAGE SYSTEM SAFETY PROGRAM.
+
+
+(a) In General.—In coordination with the program under section 4, the Secretary shall support a program of research, development, and demonstration of vehicle energy storage safety and reliability.
+
+
+(b) Activities.—In carrying out this section, the Secretary shall support activities to—
+
+
+(1) examine the mechanisms that lead to vehicle energy storage system safety and reliability incidents;
+
+
+(2) develop new materials to improve overall vehicle energy storage system safety and abuse tolerance;
+
+
+(3) perform abuse testing;
+
+
+(4) advance and perform testing techniques;
+
+
+(5) demonstrate detailed failure analyses;
+
+
+(6) mitigate vehicle energy storage cell and system failures, including hydrogen fuel storage tanks; and
+
+
+(7) develop crush-induced battery safety protocols and technical standards to improve robustness.
+
+ SEC. 7. ADVANCED VEHICLE TECHNOLOGIES ADVISORY COMMITTEE.
+
+
+(a) In General.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish the Advanced Vehicle Technologies Advisory Committee (in this section referred to as the “advisory committee”) to advise the Secretary on vehicle technology and mobility system research advancements. The advisory committee shall be composed of not fewer than 15 members, including representatives of research and academic institutions, environmental organizations, industry, and nongovernmental entities, including relevant labor organizations and associations representing automobile manufacturers, who are qualified to provide advice on the research, development, and demonstration activities under this Act (in this section referred to as the “DOE Vehicle Program”).
+
+
+(b) Assessment.—The advisory committee shall assess—
+
+
+(1) the current state of United States competitiveness in advancing vehicle technologies and mobility systems, including—
+
+
+(A) the scope and scale of United States investments in sustainable and advanced transportation research, development, and demonstration; and
+
+
+(B) the scope and scale of research, development, and demonstration activities to lower vehicle and fuel lifecycle greenhouse gas emissions;
+
+
+(2) progress made in implementing the DOE Vehicle Program, including progress toward meeting the technical milestones as determined by the Secretary pursuant to section 4;
+
+
+(3) the balance of research and development activities and funding across the DOE Vehicle Program;
+
+
+(4) the management, coordination, implementation, and activities of the DOE Vehicle Program;
+
+
+(5) whether environmental, safety, security, and other appropriate issues are adequately addressed by the DOE Vehicle Program; and
+
+
+(6) other relevant topics as determined by the Secretary.
+
+
+(c) Reports.—Not later than two years after the date of the enactment of this Act and not less frequently than once every three years thereafter, the advisory committee shall submit to the Secretary, the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on—
+
+
+(1) the findings of the advisory committee’s assessments under subsection (b); and
+
+
+(2) the advisory committee’s recommendations for ways to improve or revise the DOE Vehicle Program.
+
+
+(d) Application Of Federal Advisory Committee Act.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee.
+
+ SEC. 8. MEDIUM- AND HEAVY-DUTY COMMERCIAL AND TRANSIT VEHICLES PROGRAM.
+
+
+(a) In General.—The Secretary, in coordination with relevant research and development programs carried out by other relevant Federal agencies and appropriate industry stakeholders, including relevant labor organizations, shall carry out a program of research, development, and demonstration activities on advanced energy technologies for medium- to heavy-duty commercial, vocational, recreational, and transit vehicles, including, to the maximum extent practicable, activities in the areas of—
+
+
+(1) vehicle engines, which may include—
+
+
+(A) engine efficiency, emission controls, and combustion research;
+
+
+(B) energy and space-efficient emissions control systems;
+
+
+(C) engine idle and parasitic energy loss reduction;
+
+
+(D) advanced internal combustion engines; and
+
+
+(E) engine down speeding;
+
+
+(2) electric drive trains, including—
+
+
+(A) durable highly efficient power electronics and electric machinery research;
+
+
+(B) partial load efficiency improvements;
+
+
+(C) control and coordination research for electric drive systems using multiple electric motors;
+
+
+(D) regenerative braking to recoup braking energy; and
+
+
+(E) high fidelity modeling to accelerate design and adoption of electrified commercial vehicles;
+
+
+(3) friction and wear reduction;
+
+
+(4) improved aerodynamics and tire rolling resistance;
+
+
+(5) advanced lightweighting materials and vehicle designs;
+
+
+(6) synthetic fuels from recycled CO2 and other net-zero carbon liquid fuels;
+
+
+(7) vehicle batteries, including—
+
+
+(A) complete vehicle and battery pack modeling, simulation, and testing; and
+
+
+(B) thermal management of battery systems;
+
+
+(8) mild hybrid, heavy hybrid, plug-in hybrid, and electric platforms, and energy storage technologies, including—
+
+
+(A) identifying and developing solutions for technical barriers to advance batteries;
+
+
+(B) electric drive systems; and
+
+
+(C) charging and refueling systems for medium-duty goods and heavy-duty freight delivery vehicles;
+
+
+(9) vehicle components, including—
+
+
+(A) transmission and drivetrain optimization, including compact and efficient electric drivetrain systems;
+
+
+(B) waste heat recovery and conversion;
+
+
+(C) electrification of steering systems, braking systems, and accessory loads;
+
+
+(D) onboard sensing, computing, and communications technologies; and
+
+
+(E) advanced battery protection systems for safe handling of high voltage power;
+
+
+(10) relevant infrastructure, including bidirectional capability, beyond megawatt charging, and increasing load capacity per vehicle;
+
+
+(11) recharging infrastructure and compressed natural gas infrastructure;
+
+
+(12) hydrogen vehicle technologies, including—
+
+
+(A) fuel cells;
+
+
+(B) hydrogen fueling infrastructure;
+
+
+(C) the development of medium and heavy-duty refueling equipment design and concepts;
+
+
+(D) synthetic fuels;
+
+
+(E) onboard technologies for compressed and other advanced hydrogen storage systems; and
+
+
+(F) advanced cooling technologies for fuel cell thermal management;
+
+
+(13) retrofitting advanced energy technologies onto existing truck and bus fleets;
+
+
+(14) assessment of automated and connected vehicle technologies;
+
+
+(15) energy use strategies, including charging patterns that minimize impacts on the distribution grid and optimize the use of clean, low-cost generation resources; and
+
+
+(16) integration of advanced systems onto a single truck and trailer platform or bus.
+
+
+(b) Medium- And Heavy-Duty Systems Research, Development, And Demonstration.—
+
+
+(1) IN GENERAL.—The Secretary shall award financial assistance for the research, development, and demonstration of the integration of multiple advanced energy technologies and advanced operational efficiency for medium- and heavy-duty platforms and trailers, including the integration of technologies specified in subsection (a).
+
+
+(2) APPLICANT.—Applicants applying for assistance under paragraph (1) may be comprised of truck and trailer manufacturers, engine and component manufacturers, hydrogen fuel cell and component manufacturers, public and private fleet owners and customers, university researchers, and other applicants determined by the Secretary.
+
+ SEC. 9. TECHNICAL ASSISTANCE TO STATE, LOCAL, AND TRIBAL GOVERNMENTS.
+
+
+(a) In General.—In carrying out this Act, the Secretary may provide technical assistance to State, local, and Tribal governments or to a public-private partnership described in subsection (b) to assist with the commercial application of alternative fuels and alternative fuels vehicle technologies and infrastructure.
+
+
+(b) Public-Private Partnership Described.—A public-private partnership described in this subsection is a public-private partnership comprised of State, local, or Tribal governments and nongovernmental entities, including industry partners.
+
+
+(c) Assistance.—Technical assistance under this section may include—
+
+
+(1) coordination in the selection, location, and timing of alternative fuel recharging and refueling equipment and distribution infrastructure, including the identification of transportation corridors and specific alternative fuels that may be made available;
+
+
+(2) development of communication and other relevant protocols that integrate vehicle refueling and recharging into electric, hydrogen, biofuels, or other alternative fuel distribution systems;
+
+
+(3) development of procedures for the installation of alternative fuel distribution and recharging and refueling equipment;
+
+
+(4) education and outreach for the commercial application of alternative fuels; and
+
+
+(5) analysis of nontechnical barriers to integration of alternative fuel vehicles into electric and natural gas utility distribution systems.
+
+
+(d) Authorization Of Appropriations.—There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2024 through 2028.
+
+ SEC. 10. GRADUATE AUTOMOTIVE TECHNOLOGY EDUCATION CENTERS OF RESEARCH EXCELLENCE (GATE).
+
+
+(a) In General.—The Secretary shall award grants to establish up to seven Graduate Automotive Technology Education Centers of Research Excellence (referred to in this section as “Centers”) at an institution of higher education or a consortium thereof, to provide future generations of engineers and scientists with knowledge and skills in advanced automotive energy technologies.
+
+
+(b) Purpose.—Each Center shall—
+
+
+(1) promote the development of skilled engineering professionals who will overcome technical barriers and help commercialize the next generation of advanced automotive energy technologies;
+
+
+(2) support graduate research and establish or expand course study and laboratory work; and
+
+
+(3) test energy technologies that represent the scale of technology development beyond laboratory testing, but not yet advanced to testing under operational conditions at commercial scale.
+
+
+(c) Considerations.—In awarding grants for the operation of the Centers under this section, the Secretary shall ensure that—
+
+
+(1) the portfolio of Centers includes a diverse representation of geographical regions and resources;
+
+
+(2) each new Center demonstrates unique research capabilities, unique regional benefits, or new energy technology development opportunities; and
+
+
+(3) applicants are institutions of higher education with established expertise in engineering and design for advanced automotive energy technologies or are involved in partnerships with such institutions.
+
+
+(d) Requirement.—In carrying out subsection (c), the Secretary shall ensure that grants for the operation of the Centers under this section are awarded to two or more entities that represent a Historically Black College or University, minority-serving institution, or Tribal College or University as the primary awardees or as members of a consortium.
+
+
+(e) Schedule.—Each grant to operate a Center under this section shall be awarded for a term of not more than five years, subject to the availability of appropriations. The Secretary may renew such five-year terms only once without competition limits, subject to a merit review process.
+
+
+(f) Limitation.—Funds provided through a grant under this section may not be used for the construction of a physical building or facility to hold a Center unless the Secretary determines that such construction is necessary for reasons of safety or the use of relevant equipment.
+
+
+(g) Technical Assistance.—The Director may provide technical assistance to institutions of higher education receiving a grant under this section or entities seeking such a grant.
+
+
+(h) Authorization Of Appropriations.—There are authorized to be appropriated to carry out this section $8,300,000 for each of fiscal years 2024 through 2028.
+
+ SEC. 11. REQUEST FOR INFORMATION TO ASSESS RESEARCH GAPS IN ALTERNATIVE FUEL DELIVERY, DISTRIBUTION, AND TRANSMISSION.
+
+
+(a) In General.—Not later than one year after the date of the enactment of this section, the Secretary shall publish a request for information that shall be used by the Secretary to evaluate research, development, and demonstration activities to assess alternative fuel transmission and delivery technical barriers. The request shall identify research barriers associated to existing electric transmission and distribution systems to the distribution of alternative fuels and the deployment of alternative fuel recharging and refueling capability, at economically competitive costs of alternative fuel for consumers, including research to address—
+
+
+(1) electric grid load management and applications that will allow bidirectional batteries in plug-in electric drive vehicles to be used for grid storage, ancillary services provision, and backup power;
+
+
+(2) integration of plug-in bidirectional electric drive vehicles with smart grid technology, including necessary equipment, and information technology systems;
+
+
+(3) technical and economic barriers to delivery technologies for hydrogen and biofuels sufficient to support widespread consumer use; and
+
+
+(4) any other technical barriers to installing sufficient and regionally appropriate alternative fuel recharging and refueling infrastructure, including sufficiency and efficient use of zero-emissions generation and transmission capabilities.
+
+
+(b) Consultation.—The Secretary shall carry out this section in coordination with relevant industry, State, local, and Tribal governments, and academic stockholders.
+
+
+(c) Report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report summarizing the findings under subsection (a).
+
+ SEC. 12. ENERGY EFFICIENT MOBILITY SYSTEMS PROGRAM.
+
+
+(a) In General.—The Secretary, in consultation with the heads of relevant Federal agencies, shall support a program of research, development, and demonstration of advanced energy efficient mobility solutions that will address the potential energy impacts of advanced vehicle technologies throughout the transportation sector. Such program shall include the development of tools, techniques, processes, and capabilities to understand and identify essential components to improve the energy productivity of integrated mobility systems.
+
+
+(b) Activities.—In carrying out this section, the Secretary shall support activities to—
+
+
+(1) improve the energy and mobility impacts of emerging and potentially disruptive technologies and services;
+
+
+(2) assess automated vehicle computing loads and capabilities;
+
+
+(3) improve onboard sensing and external connectivity, including Vehicle-to-Vehicle, Vehicle-to-Infrastructure, and Vehicle-to-Everything;
+
+
+(4) maximize vehicle energy efficiency for connected vehicles under real-world driving conditions;
+
+
+(5) assess methods to use autonomous vehicles or connectivity to improve roadway throughput;
+
+
+(6) research advance autonomous refueling and charging technologies and infrastructure;
+
+
+(7) apply machine learning with high performance computing resources to large industry datasets from providers and cities to develop predictive capabilities for the transportation system;
+
+
+(8) optimize systems for mobility, grid and buildings to support vehicle electrification and vehicle automation from light duty to heavy duty with grid stability, demand response, and reliability; and
+
+
+(9) carry out other innovative energy focused research and development areas as determined by the Secretary.
+
+ SEC. 13. COORDINATION.
+
+
+(a) In General.—In carrying out the activities under this Act, the Secretary shall, to the maximum extent practicable, coordinate research, development, and demonstration activities among—
+
+
+(1) relevant programs of the Department, including programs carried out by—
+
+
+(A) the Office of Energy Efficiency and Renewable Energy;
+
+
+(B) the Office of Science;
+
+
+(C) the Office of Electricity;
+
+
+(D) the Office of Fossil Energy;
+
+
+(E) the Office of Cybersecurity, Energy Security, and Emergency Response;
+
+
+(F) the Advanced Research Projects Agency—Energy;
+
+
+(G) the Office of Clean Energy Demonstrations; and
+
+
+(H) other offices as determined by the Secretary; and
+
+
+(2) relevant technology research and development programs of other Federal agencies, including—
+
+
+(A) the Department of Transportation;
+
+
+(B) the National Institute of Standards & Technology;
+
+
+(C) the National Science Foundation;
+
+
+(D) the Department of Defense; and
+
+
+(E) other Federal agencies as determined by the Secretary.
+
+
+(b) Intergovernmental Coordination.—In carrying out this Act, the Secretary shall seek opportunities to leverage resources and support initiatives of Federal, State, and local governments in developing advanced vehicle technologies, manufacturing, and infrastructure.
+
+ SEC. 14. AUTHORIZATION OF APPROPRIATIONS.
+
+
+There are authorized to be appropriated to the Secretary for research, development, and demonstration of alternative fuels, vehicle propulsion systems, vehicle components, and other related technologies in the United States, including activities authorized under this Act—
+
+
+(1) for fiscal year 2024, $530,000,000;
+
+
+(2) for fiscal year 2025, $556,500,000;
+
+
+(3) for fiscal year 2026, $584,325,000;
+
+
+(4) for fiscal year 2027, $613,541,250; and
+
+
+(5) for fiscal year 2028, $644,218,312.

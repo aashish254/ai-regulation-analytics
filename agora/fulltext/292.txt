@@ -1,0 +1,62 @@
+Date Published: 04/17/2023 02:00 PM
+
+Amended  IN  Senate  April 17, 2023
+Amended  IN  Senate  March 22, 2023
+
+CALIFORNIA LEGISLATURE— 2023–2024 REGULAR SESSION
+
+Senate Bill No. 398
+
+Introduced by Senator Wahab
+(Coauthor: Senator Limón)
+
+February 09, 2023
+
+An act to add and repeal Chapter 4 (commencing with Section 15210) of Part 6 of Division 3 of Title 2 Section 11546.8 of the Government Code, relating to technology.
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+SB 398, as amended, Wahab. Department of Justice: Technology: advanced technology: research.
+Existing law establishes the state Department of Justice under the direction and control of the Attorney General, and among other things, requires the department to control and eradicate organized crime within the state.
+Existing law establishes the Department of Technology, within the Government Operations Agency, under the supervision of the Director of Technology. Existing law requires the director to, among other things, provide technology direction to agency and department chief information officers to ensure the integration of statewide technology initiatives, compliance with information technology policies and standards, and the promotion of the alignment and effective management of information technology services. Under existing law, the department is responsible for the approval and oversight of information technology projects. Existing law requires the department to submit various reports to the Legislature, including an annual information technology strategic plan that guides the acquisition, management, and use of information technology by state agencies.
+This bill, the Government Services Advanced Technology Act, Artificial Intelligence for California Research Act, would require the Department of Justice, Technology, upon appropriation by the Legislature, to develop and implement a comprehensive research plan to study the feasibility of using advanced technology to improve state and local government services. The bill would require the research plan to include, among other things, an analysis of the potential benefits and risks of using artificial intelligence technology to assist disaster victims in finding and applying for disaster relief funds and to assist individuals in determining their eligibility for various public benefits programs. in government services, as specified. The bill would require the department, on or before January 1, 2026, to provide a report to the Legislature on the findings of its research.
+Digest Key
+Vote: MAJORITY   Appropriation: NO   Fiscal Committee: YES   Local Program: NO  
+The people of the State of California do enact as follows:
+
+SECTION 1. Section 11546.8 is added to the Government Code, to read:
+11546.8. (a) This section shall be known, and may be cited, as the Artificial Intelligence for California Research Act.
+(b) The purpose of this section is to dedicate funds to research the feasibility and risks of using advanced technology, such as artificial intelligence dialogue systems, to improve government services.
+(c) Upon appropriation by the Legislature, the Department of Technology shall develop and implement a comprehensive research plan to study the feasibility of using advanced technology to improve government services.
+(d) The research plan shall include, but is not limited to, all of the following:
+(1) An analysis of the potential benefits and risks, including the impacts on equity, efficiency, accuracy, and cost effectiveness, of using artificial intelligence technology in different government services, including the use of artificial intelligence for each of the following:
+(A) Virtual assistants powered by an artificial intelligence language system for unemployment and disability insurance to assist claimants in navigating the unemployment or disability insurance application process, answering questions, and providing real-time status updates.
+(B) A rental assistance chatbot to assist renters in finding affordable housing options, assist with the application process for rental assistance programs, and provide real-time updates on their application status.
+(C) Assisting disaster victims in finding and applying for disaster relief funds and assisting with navigating the application process.
+(D) Assisting individuals in making public records requests, providing information on the required documents and processes, and providing real-time updates on the status of their requests.
+(E) Assisting individuals in determining their eligibility for various public benefits programs, such as food stamps, energy assistance, and childcare assistance.
+(2) A review of best practices and case studies from other government entities using similar advanced technology and an assessment of their successes and failures.
+(3) A thorough cost-benefit analysis of implementing advanced technology in government services, including the costs of implementation, maintenance, and training, and the potential benefits and savings to government operations and the public.
+(4) Recommendations for effectively integrating advanced technology into government services, including guidelines for implementation, risk management, and ongoing monitoring and evaluation.
+(5) An analysis of any risks to individual privacy and recommendations for mitigating privacy issues in implementation.
+(e) On or before January 1, 2026, the Department of Technology shall provide a report to the Legislature, in accordance with Section 9795, on the findings of its research conducted pursuant to this section.
+(f) For the purposes of this section, “government services” means public benefits provided by the state or a local government.
+(g) This section shall remain in effect only until January 1, 2026, and as of that date is repealed.SECTION 1.Chapter 4 (commencing with Section 15210) is added to Part 6 of Division 3 of Title 2 of the Government Code, to read:
+4.Government Services Advanced Technology Act
+15210.(a)This act shall be known, and may be cited, as the Government Services Advanced Technology Act.
+(b)The purpose of this act is to dedicate funds to research the feasibility and risks of using advanced technology, such as artificial intelligence dialogue systems, to improve government services.
+15211.For the purposes of this chapter, “government services” means public benefits provided by the state or a local government.
+15212.(a)Upon appropriation by the Legislature, the Department of Justice shall develop and implement a comprehensive research plan to study the feasibility of using advanced technology to improve government services.
+(b)The research plan shall include, but is not limited to, all of the following:
+(1)An analysis of the potential benefits and risks, including the impact on the equity, efficiency, accuracy, and cost-effectiveness, of using artificial intelligence technology in different government services, including the use of artificial intelligence for each of the following:
+(A)Virtual assistants powered by an artificial intelligence language system for unemployment and disability insurance to assist claimants in navigating the unemployment or disability insurance application process, answering questions, and providing real-time status updates.
+(B)A rental assistance chatbot to assist renters in finding affordable housing options, assist with the application process for rental assistance programs, and provide real-time updates on their application status.
+(C)Assisting disaster victims in finding and applying for disaster relief funds and assisting with navigating the application process.
+(D)Assisting individuals in making public records requests, providing information on the required documents and process, and providing real-time updates on the status of their request.
+(E)Assisting individuals in determining their eligibility for various public benefits programs, such as food stamps, energy assistance, and child care assistance.
+(2)A review of best practices and case studies from other government entities using similar advanced technology and an assessment of their successes and failures.
+(3)A thorough cost-benefit analysis of implementing advanced technology in government services, including the costs of implementation, maintenance, and training, and the potential benefits and savings to government operations and the public.
+(4)Recommendations for effectively integrating advanced technology into government services, including guidelines for implementation, risk management, and ongoing monitoring and evaluation.
+(5)An analysis of any risks to individual privacy and recommendations for mitigating privacy issues in implementation.
+15213.On or before January 1, 2026, the Department of Justice shall provide a report to the Legislature, in accordance with Section 9795, on the findings of its research conducted pursuant to this chapter.
+15214.This chapter shall remain in effect only until January 1, 2026, and as of that date is repealed.

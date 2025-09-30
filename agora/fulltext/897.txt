@@ -1,0 +1,39 @@
+ H. R. 7603
+
+
+To direct the Secretary of Defense to ensure that the audit of the financial statements of the Department of Defense for fiscal year 2024 is conducted using technology that uses artificial intelligence, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+March 8, 2024
+Mr. Schweikert introduced the following bill; which was referred to the Committee on Armed Services, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To direct the Secretary of Defense to ensure that the audit of the financial statements of the Department of Defense for fiscal year 2024 is conducted using technology that uses artificial intelligence, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. USE OF TECHNOLOGY USING ARTIFICIAL INTELLIGENCE TO FACILITATE AUDIT OF THE FINANCIAL STATEMENTS OF THE DEPARTMENT OF DEFENSE FOR FISCAL YEAR 2024.
+
+
+(a) Development Of AI Technology For Audits.—The Under Secretary of Defense (Comptroller) and the Inspector General of the Department of Defense shall jointly develop technology that uses artificial intelligence for the purpose of facilitating audits of the financial statements of the Department.
+
+ (b) Use Of Technology.—The Secretary of Defense shall ensure that—
+
+
+(1) the audit of the financial statements of the Department of Defense for fiscal year 2024, as required under section 240a of title 10, United States Code, is performed using the technology developed under subsection (a); and
+
+
+(2) the technology developed under subsection (a) is used to accelerate the retirement of older financial management systems used by the Department without compromising essential controls or generally accepted Government auditing standards.
+
+ (c) Treatment Of Surplus Funds.—Any amounts identified in such audit as being surplus to the needs of the Department of Defense by reason of future valuation and accounting errors shall be rescinded and deposited in the General Fund of the Treasury to be used for deficit reduction.
+
+ (d) Briefing.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on—
+
+
+(1) the progress of the audit of the financial statements of the Department of Defense for fiscal year 2024; and
+
+
+(2) the technology developed pursuant to subsection (a).

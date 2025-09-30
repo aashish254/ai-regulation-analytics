@@ -1,0 +1,49 @@
+ 2023 -- S0146
+
+
+STATE OF RHODE ISLAND
+
+
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2023
+
+
+AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT -- VIDEO LOTTERY GAMES, TABLE GAMES AND SPORTS WAGERING -- THE RHODE ISLAND CONSUMER PROTECTION GAMING ACT
+
+
+Introduced By: Senators DiPalma, Felag, Gu, Acosta, Zurier, and Valverde
+Date Introduced: February 01, 2023
+Referred To: Senate Special Legislation and Veterans Affairs
+
+ It is enacted by the General Assembly as follows:
+
+
+SECTION 1. Chapter 42-61.2 of the General Laws entitled "Video Lottery Games, Table Games and Sports Wagering" is hereby amended by adding thereto the following section:
+42-61.2-17. Prohibition on use of certain technology with video-lottery terminals and sports betting applications.
+
+ (a) As used in this section, the following words shall have the following meanings unless the context clearly requires otherwise:
+(1) "Algorithm" means a specific procedure, set of rules, or order of operations designed to solve a problem or make a calculation, classification, or recommendation.
+(2) "Artificial intelligence" means computerized methods and tools, including, but not limited to, machine learning and natural language processing, that act in a way that resembles human cognitive abilities when it comes to solving problems or performing certain tasks.
+(3) "Automated decision system" means any computer program, method, statistical model, or process that aims to aid or replace human decision-making using algorithms or artificial intelligence. These systems can include analyzing complex datasets about human populations and government services or other activities to generate scores, predictions, classifications, or recommendations used by agencies to make decisions that impact human welfare.
+(4) "Biometric recognition" means the automated recognition and identification of an individual based on the individual's biological and behavioral traits. Examples of ways to implement biometric recognition include, but are not limited to, fingerprint mapping, facial recognition, iris scans, and software to recognize and identify a person based on the person's palm print, retina, hand geometry, voice, signature, and gait.
+(5) "Gaming consumer" means a person engaged in playing a state-sanctioned game of chance or state gaming operation pursuant to this chapter, including, but not limited to, video lottery games, table games and sports wagering.
+
+ (b) Prohibition in use of facial recognition technology or biometric recognition program: No video-lottery terminal installed and operated at the facilities of pari-mutuel licensees in the state or online betting applications shall use facial recognition technology or biometric recognition programs.
+
+ (c) Specific limitations: The following use of automated decision systems and algorithmic operations that may affect gaming outcomes are prohibited:
+(1) The use of algorithmic programs that use a gaming consumer's previous betting history to modify prospective programs in order to reinforce and increase the amount waged based on the experience of a specific gaming consumer; and
+(2) The use of artificial intelligence or an automated decision system to condition a gaming consumer or attempt to promote increased play through the use of intermittent reinforcement based upon modern cognitive-behavioral algorithms and data collected from previous gaming engagement by a gaming consumer.
+
+ (d) The provisions contained in this section shall also apply to all sports betting applications, including the use of computerized technology in a device separate from but connected to or otherwise controlling a video-lottery terminal, and to vendors of gambling products licensed by the State of Rhode Island.
+(e) Standardized rewards programs shall be excluded from the provisions of this section.
+
+ SECTION 2. This act shall take effect upon passage.
+
+
+EXPLANATION BY THE LEGISLATIVE COUNCIL OF AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT -- VIDEO LOTTERY GAMES, TABLE GAMES AND SPORTS WAGERING -- THE RHODE ISLAND CONSUMER PROTECTION GAMING ACT
+
+
+This act would prohibit the use of facial recognition technology and biometric recognition technology in video-lottery terminals at pari-mutuel licensees in the state or in online betting applications. This act would also prohibit the use of certain other technologies in state gaming operations. The prohibition would not apply to standardized rewards programs.
+
+
+This act would take effect upon passage.

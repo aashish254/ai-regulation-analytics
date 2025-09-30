@@ -1,0 +1,80 @@
+H. R. 7120
+
+
+To direct the Federal Trade Commission to revise the Telemarketing Sales Rule to require disclosures for telemarketing using artificial intelligence and to provide for enhanced penalties for violations involving artificial intelligence voice or text message impersonation, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+January 29, 2024
+
+
+Ms. Schakowsky introduced the following bill; which was referred to the Committee on Energy and Commerce
+
+
+A BILL
+To direct the Federal Trade Commission to revise the Telemarketing Sales Rule to require disclosures for telemarketing using artificial intelligence and to provide for enhanced penalties for violations involving artificial intelligence voice or text message impersonation, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Restrictions on Utilizing Realistic Electronic Artificial Language Act” or the “R U REAL Act”.
+
+
+SEC. 2. DISCLOSURE REQUIRED FOR TELEMARKETING USING AI.
+
+
+(a) In General.—Not later than 180 days after the date of the enactment of this Act, the Federal Trade Commission shall revise the Telemarketing Sales Rule (part 310 of title 16, Code of Federal Regulations) so as to add a requirement that, if a person makes a call or sends a text message with respect to telemarketing and uses artificial intelligence in such call or text message to emulate a human being, such person shall disclose at the beginning of such call or text message the fact that artificial intelligence is being used.
+
+
+(b) Definitions.—In this section, the terms “telemarketing” and “text message” have the meanings given such terms in section 7 of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6106), as amended by this Act.SEC. 3. ENHANCED PENALTIES FOR VIOLATIONS OF TELEMARKETING RULES INVOLVING AI VOICE OR TEXT MESSAGE IMPERSONATION.
+
+
+(a) In General.—Section 6 of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6105) is amended by adding at the end the following:
+
+
+“(e) Enhanced Penalties For Violations Involving AI Voice Or Text Message Impersonation.—
+
+
+“(1) PENALTIES UNDER FEDERAL TRADE COMMISSION ACT.—Notwithstanding subsection (b), in the case of a violation described in paragraph (2), the maximum amount of the civil penalty that may be imposed for such violation under subsection (l) or (m) (as the case may be) of section 5 of the Federal Trade Commission Act (15 U.S.C. 45) shall be twice the maximum amount that may be imposed for such violation under such subsection without regard to this subsection.
+
+
+“(2) VIOLATIONS DESCRIBED.—The violations described in this paragraph are the following:
+
+
+“(A) A violation of a rule prescribed by the Commission under section 3 with respect to which the party making the call or sending the text message uses artificial intelligence to impersonate an individual or entity with the intent to defraud, cause harm, or wrongfully obtain anything of value.
+
+
+“(B) A violation of a cease-and-desist order issued by the Commission under section 5(b) of the Federal Trade Commission Act (15 U.S.C. 45(b)) with respect to a violation described in subparagraph (A).”.
+
+
+(b) Applicability.—The amendment made by subsection (a) shall apply with respect to violations occurring after the date of the enactment of this Act.SEC. 4. DEFINITIONS.
+
+
+Section 7 of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6106) is amended—
+
+
+(1) in paragraph (4), by inserting “or text message” after “telephone call”; and
+
+
+(2) by adding at the end the following new paragraph:
+
+
+“(5) TEXT MESSAGE.—
+
+
+“(A) IN GENERAL.—The term ‘text message’ means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number, N11 service code, short code telephone number, or email address, or that is transmitted through application-to-person messaging, and includes—
+
+
+“(i) a short message service (commonly referred to as ‘SMS’) message;
+
+
+“(ii) a multimedia message service (commonly referred to as ‘MMS’) message; and
+
+
+“(iii) a rich communication service (commonly referred to as ‘RCS’) message.
+
+
+“(B) LIMITATION.—The term ‘text message’ does not include a real-time, two-way voice or video communication.”.

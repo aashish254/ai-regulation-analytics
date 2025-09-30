@@ -1,0 +1,647 @@
+ H. R. 3136
+
+
+To require notification and review of United States investment in foreign countries that may threaten the national security of the United States, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+May 9, 2023
+
+
+Ms. DeLauro (for herself, Mr. Pascrell, and Mr. Fitzpatrick) introduced the following bill; which was referred to the Committee on Ways and Means
+
+
+A BILL
+To require notification and review of United States investment in foreign countries that may threaten the national security of the United States, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “National Critical Capabilities Defense Act of 2023”.
+
+
+SEC. 2. PROTECTION OF NATIONAL CRITICAL CAPABILITIES.
+
+
+The Trade Act of 1974 (19 U.S.C. 2101 et seq.) is amended by adding at the end the following:
+
+
+“TITLE X—PROTECTION OF NATIONAL CRITICAL CAPABILITIES
+
+ “SEC. 1001. DEFINITIONS.
+
+
+“In this title:
+
+
+“(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘appropriate congressional committees’ means—
+
+
+“(A) the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate; and
+
+
+“(B) the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives.
+
+
+“(2) COUNTRY OF CONCERN.—The term ‘country of concern’ means, subject to such regulations as may be prescribed in accordance with section 1008, any country the government of which is engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or the security and safety of United States persons, such as the People’s Republic of China, the Russian Federation, Iran, North Korea, Cuba, and the regime of Nicolàs Maduro in Venezuela.
+
+
+“(3) COVERED ACTIVITY.—
+
+
+“(A) IN GENERAL.—Subject to such regulations as may be prescribed in accordance with section 1008, and except as provided in subparagraph (B), the term ‘covered activity’ means any activity engaged in by a United States person in a national critical capabilities sector that involves—
+
+
+“(i) an acquisition of an equity interest or contingent equity interest, or monetary capital contribution, in a covered foreign entity, directly or indirectly, by contractual commitment or otherwise, with the goal of generating income or gain;
+
+
+“(ii) an arrangement for an interest in the short- or long-term debt obligations of a covered foreign entity that includes government rights that are characteristic of an equity investment, management, or other important rights;
+
+
+“(iii) the establishment of a wholly owned subsidiary in a country of concern, such as a greenfield investment, for the purpose of production, design, testing, manufacturing, fabrication, development, or research related to one or more national critical capabilities sectors;
+
+
+“(iv) the establishment of a joint venture in a country of concern or with a covered foreign entity for the purpose of production, design, testing, manufacturing, fabrication, development, or research involving one or more national critical capabilities sectors, or other contractual or other commitments involving a covered foreign entity to jointly research and develop new innovation, including through the transfer of capital or intellectual property or other business proprietary information;
+
+
+“(v) the acquisition by a United States person with a covered foreign entity of—
+
+
+“(I) operational cooperation, such as through supply or support arrangements;
+
+
+“(II) the right to board representation (as an observer, even if limited, or as a member) or an executive role (as may be defined through regulation) in a covered foreign entity;
+
+
+“(III) the ability to direct or influence such operational decisions as may be defined through such regulations;
+
+
+“(IV) formal governance representation in any operating affiliate, like a portfolio company, of a covered foreign entity; or
+
+
+“(V) a new relationship to share or provide business services, such as but not limited to financial services, marketing services, maintenance, or assembly functions, related to a national critical capabilities sector;
+
+
+“(vi) any activity by a recipient or beneficiary of financial assistance, including grants, tax incentives, or other types of funding, with respect to a covered foreign entity or a country of concern;
+
+
+“(vii) any activity with respect to a covered foreign entity or a country of concern by an entity that benefits from annual procurement of more than an amount to be determined in regulations prescribed in accordance with section 1008 in goods or services by a United States national security agency; or
+
+
+“(viii) except as provided in subparagraph (B), any other transaction involving a country of concern or with a covered foreign entity defined in regulations prescribed in accordance with section 1008.
+
+
+“(B) EXCEPTIONS.—The term ‘covered activity’ does not include—
+
+
+“(i) any transaction the value of which the Committee determines is de minimis;
+
+
+“(ii) any category of transactions that the Committee determines is in the national interest of the United States, as may be defined in regulations prescribed in accordance with section 1008; or
+
+
+“(iii) any ordinary business transaction as may be defined in such regulations.
+
+
+“(4) COVERED FOREIGN ENTITY.—
+
+
+“(A) IN GENERAL.—Subject to regulations prescribed in accordance with section 1008, and except as provided in subparagraph (B), the term ‘covered foreign entity’ means—
+
+
+“(i) any entity that is incorporated in, has a principal place of business in, or is organized under the laws of a country of concern;
+
+
+“(ii) any entity the equity securities of which are primarily traded on one or more exchanges in a country of concern;
+
+
+“(iii) any entity in which any covered foreign entity holds, individually or in the aggregate, directly or indirectly, an ownership interest of greater than 50 percent; or
+
+
+“(iv) any other entity that is not a United States person and that meets such criteria as may be specified by the Committee in such regulations.
+
+
+“(B) EXCEPTION.—The term ‘covered foreign entity’ does not include any entity described in subparagraph (A) that can demonstrate that a majority of the equity interest in the entity is ultimately owned by—
+
+
+“(i) nationals of the United States; or
+
+
+“(ii) nationals of such countries (other than countries of concern) as are identified for purposes of this subparagraph pursuant to regulations prescribed in accordance with section 1008.
+
+
+“(5) NATIONAL CRITICAL CAPABILITIES SECTOR.—Subject to regulations prescribed in accordance with section 1008, the term ‘national critical capabilities sector’ includes sectors within the following areas, as specified in such regulations:
+
+
+“(A) Semiconductor manufacturing and advanced packaging.
+
+
+“(B) Large-capacity batteries.
+
+
+“(C) Critical minerals and materials.
+
+
+“(D) Artificial intelligence.
+
+
+“(E) Quantum information science and technology.
+
+
+“(F) Active pharmaceutical ingredients.
+
+
+“(G) Automobile manufacturing.
+
+
+“(H) Any other sector as may be—
+
+
+“(i) determined by the President to be a national critical capabilities sector based on the significance of the sector to the national security of the United States; and
+
+
+“(ii) included in such definition by the President through such regulations.
+
+
+“(6) PARTY.—The term ‘party’, with respect to an activity, has the meaning given that term in regulations prescribed in accordance with section 1008.
+
+
+“(7) UNITED STATES.—The term ‘United States’ means the several States, the District of Columbia, and any territory or possession of the United States.
+
+
+“(8) UNITED STATES PERSON.—The term ‘United States person’ means—
+
+
+“(A) an individual who is a citizen or national of the United States or an alien lawfully admitted for permanent residence in the United States; and
+
+
+“(B) any corporation, partnership, or other entity organized under the laws of the United States or the laws of any jurisdiction within the United States.
+
+ “SEC. 1002. ADMINISTRATION OF UNITED STATES INVESTMENT NOTIFICATION, REVIEW, AND PROHIBITION AUTHORITY.
+
+
+“(a) Establishment Of Committee On National Critical Capabilities.—
+
+
+“(1) IN GENERAL.—The President shall establish an interagency committee to administer this title, to be known as the ‘Committee on National Critical Capabilities’ (in this title referred to as the ‘Committee’).
+
+
+“(2) DELEGATION.—The President may delegate the requirement under paragraph (1), and all or any portion of the authorities and functions under this title, to the head of an Executive department (as defined in section 101 of title 5, United States Code).
+
+
+“(b) Membership.—The following agencies shall be represented on the Committee:
+
+
+“(1) The Office of the United States Trade Representative.
+
+
+“(2) The Department of Commerce.
+
+
+“(3) The Department of State.
+
+
+“(4) The Department of the Treasury.
+
+
+“(5) The Department of Homeland Security.
+
+
+“(6) The Department of Defense.
+
+
+“(7) The Office of Science and Technology Policy.
+
+
+“(8) The Department of Justice.
+
+
+“(9) The Department of Energy.
+
+
+“(10) The Department of Health and Human Services.
+
+
+“(11) The Department of Agriculture.
+
+
+“(12) The Department of Labor.
+
+
+“(13) The Office of the Director of National Intelligence.
+
+
+“(14) Any other Federal agency the President determines appropriate, generally, or on a case-by-case basis.
+
+
+“(c) Designation As Voting Members.—The heads of the agencies specified in subsection (b) shall be voting members of the Committee.
+
+
+“(d) Chairperson.—The head of the Executive department to which the President delegates authority under subsection (a) shall serve as the chairperson of the Committee.
+
+
+“(e) Consultations.—In carrying out the duties of the chairperson of the Committee, the chairperson shall consult with the United States Trade Representative, the Secretary of Defense, the Secretary of Commerce, the Secretary of State, and the Secretary of the Treasury.
+
+ “SEC. 1003. MANDATORY NOTIFICATION OF COVERED ACTIVITIES; REVIEW AND ACTIONS TO MITIGATE RISK.
+
+
+“(a) Mandatory Notification.—
+
+
+“(1) IN GENERAL.—Subject to regulations prescribed in accordance with section 1008, beginning on the date that is 90 days after such regulations take effect, a United States person that plans to engage in a covered activity shall submit to the Committee a complete written notification of the activity not later than 90 days before the anticipated initiation date of the activity.
+
+
+“(2) CIRCULATION OF NOTIFICATION.—
+
+
+“(A) IN GENERAL.—The Committee shall, upon receipt of a notification under paragraph (1), promptly inspect the notification for completeness, and, if complete, immediately circulate the notification to each agency specified in section 1002(b).
+
+
+“(B) INCOMPLETE NOTIFICATIONS.—If a notification submitted under paragraph (1) is incomplete, the Committee shall , unilaterally or at request of any member of the Committee, promptly inform the United States person that submits the notification that the notification is not complete and provide an explanation of relevant material respects in which the notification is not complete.
+
+
+“(C) REFERRAL TO ATTORNEY GENERAL.—If the Committee has reason to believe that a covered activity that is the subject of a notification submitted under paragraph (1) may be prohibited under this title or regulations prescribed in accordance with section 1008, the President may refer the notification to the Attorney General for such action as the Attorney General may determine to be proper.
+
+ “(b) Review.—
+
+
+“(1) IN GENERAL.—Subject to regulations prescribed in accordance with section 1008, the Committee may, beginning on the date that is 180 days after the date on which such regulations take effect, review a covered activity that is the subject of a notification under subsection (a) to determine if the activity poses a risk to the national security of the United States, including by considering factors specified in section 1004.
+
+
+“(2) NOTICE OF REVIEW.—Not later than 45 days after receipt of a complete notification under subsection (a), the Committee shall notify the United States person that submitted the notification of the decision of the Committee with respect to whether to initiate a review under paragraph (1) of the covered activity that is the subject of the notification.
+
+
+“(3) INITIATION OF UNILATERAL REVIEW.—The Committee may initiate a unilateral review under paragraph (1) of a covered activity for which notification is not submitted under subsection (a).
+
+ “(c) Mitigation.—
+
+
+“(1) IN GENERAL.—If the Committee has reason to believe that a covered activity that is the subject of a notification under subsection (a) or with respect to which the Committee initiates a unilateral review under subsection (b)(3) poses a risk to the national security of the United States, the Committee may negotiate, enter into or impose, and enforce any agreement or condition with any party to the covered activity in order to mitigate any risk to the national security of the United States that arises as a result of the covered activity.
+
+
+“(2) ABANDONMENT OF ACTIVITIES.—If a party to a covered activity has voluntarily chosen to abandon the activity, the Committee may negotiate, enter into or impose, and enforce any agreement or condition with any party to the covered activity for purposes of effectuating such abandonment and mitigating any risk to the national security of the United States that arises as a result of the covered activity.
+
+
+“(3) AGREEMENTS AND CONDITIONS RELATING TO COMPLETED ACTIVITIES.—While the Committee is conducting a review of a covered activity under subsection (b), the Committee may negotiate, enter into or impose, and enforce any agreement or condition with any party to the covered activity in order to mitigate any interim risk to the national security of the United States that may arise as a result of the covered activity until such time that the Committee has completed action with respect to the covered activity under this title.
+
+
+“(4) TREATMENT OF OUTDATED AGREEMENTS OR CONDITIONS.—The Committee shall periodically review the appropriateness of an agreement or condition imposed under paragraph (1), (2), or (3) in mitigating the risk identified under subsection (b)(1) and terminate, phase out, or otherwise amend the agreement or condition if a risk no longer requires mitigation through the agreement or condition.
+
+
+“(5) JURISDICTION.—The provisions of section 706(b) shall apply to any mitigation agreement entered into or condition imposed under paragraph (1), (2), or (3).
+
+ “(d) Unilateral Action By The Committee To Mitigate Risk Posed By A Covered Activity.—
+
+
+“(1) IN GENERAL.—Subject to paragraphs (2) and (4), the Committee may take such action for such time as the Committee considers appropriate to address any risk to the national security of the United States posed by a covered activity that is the subject of a notification under subsection (a) or with respect to which the Committee initiates a unilateral review under subsection (b)(3), including—
+
+
+“(A) approving the covered activity subject to a mitigation agreement entered into or conditions imposed under subsection (c); or
+
+
+“(B) if the Committee attempts to mitigate the risk under subsection (c) and determines that mitigation is inadequate to protect the national security of the United States, prohibiting the covered activity.
+
+
+“(2) SEEKING ALTERNATIVE ENFORCEMENT.—The Committee shall consider other existing measures to address any risk described in paragraph (1) before taking any action under this subsection with respect to the covered activity.
+
+
+“(3) ANNOUNCEMENT BY COMMITTEE.—Not later than 90 days after the date on which the Committee initiates a review under subsection (b), the Committee shall announce the decision of the Committee with respect to whether the Committee plans to take action pursuant to paragraph (1).
+
+
+“(4) FINDINGS BY COMMITTEE.—The Committee may exercise the authority under paragraph (1) with respect to a covered activity only if the Committee finds that—
+
+
+“(A) there is credible evidence that leads the Committee to believe that the covered activity poses a risk to the national security of the United States; and
+
+
+“(B) provisions of law (other than this subsection and the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)) do not, in the judgment of the Committee provide adequate and appropriate authority for the Committee to protect the national security with respect to the covered activity.
+
+
+“(5) FACTORS TO BE CONSIDERED.—For purposes of determining whether to take action under paragraph (1), the Committee shall consider, among other factors, each of the factors described in section 1004, as appropriate.
+
+
+“(6) PUBLIC DISCLOSURE.—The Committee shall publish in the Federal Register a notice of each exercise of the authority under paragraph (1).
+
+ “(e) Authority To Prohibit And Regulate Covered Activities.—
+
+
+“(1) AUTHORITY.—
+
+
+“(A) IN GENERAL.—Subject to regulations prescribed in accordance with section 1008, and except as provided by paragraph (2), the Committee may, on or after the date of the enactment of this title, prohibit or regulate any covered activity or category of covered activities by any person, or with respect to any property, subject to the jurisdiction of the United States.
+
+
+“(B) CRITERIA.—In exercising the authority under subparagraph (A) with respect to a covered activity or category of covered activities, the President may use—
+
+
+“(i) criteria based on—
+
+
+“(I) the nature of the covered activity or category of covered activities;
+
+
+“(II) the nature of the covered foreign entity involved in the covered activity or category of covered activities, including the country of concern associated with the covered foreign entity; or
+
+
+“(III) the nature of the national critical capabilities sector involved in the covered activity or category of covered activities; or
+
+
+“(ii) such other criteria as the Committee determines may result in a covered activity or category of covered activities posing a risk to the national security of the United States.
+
+
+“(2) EXCEPTIONS.—The Committee, pursuant to regulations prescribed in accordance with section 1008—
+
+
+“(A) may not prohibit under paragraph (1) a covered activity or category of covered activities for the conduct of the official business of the Federal Government, the United Nations, or international financial institutions or multilateral development banks (including their specialized agencies, programs, funds, and related organizations), or by employees, grantees, or contractors thereof; and
+
+
+“(B) may authorize orders, directives, or licenses to permit a covered activity otherwise prohibited under paragraph (1), as the Committee determines appropriate.
+
+ “(f) Confidentiality Of Information.—
+
+
+“(1) IN GENERAL.—Except as provided in paragraph (2), any information or documentary material and any information or materials derived from such information or documentary materials filed with the Committee pursuant to this section shall be exempt from disclosure under section 552 of title 5, United States Code, and no such information or documentary material may be made public.
+
+
+“(2) EXCEPTIONS.—The exemption from disclosure provided by paragraph (1) shall not prevent the disclosure of the following:
+
+
+“(A) Information relevant to any administrative or judicial action or proceeding.
+
+
+“(B) Information to Congress or any duly authorized committee or subcommittee of Congress.
+
+
+“(C) Information important to the national security analysis or actions of the President to any domestic governmental entity, or to any foreign governmental entity of an ally or partner of the United States, under the exclusive direction and authorization of the President, only to the extent necessary for national security purposes, and subject to appropriate confidentiality and classification requirements.
+
+
+“(D) Information that the parties have consented to be disclosed to third parties.
+
+ “(g) Recordkeeping.—In taking action under this section with respect to a covered activity, the Committee may require any person—
+
+
+“(1) to keep a full record of, and to furnish under oath, in the form of reports or otherwise, complete information relative to the covered activity before, during, or after the completion of the covered activity, or as may be otherwise necessary to enforce the provisions of this title; and
+
+
+“(2) to produce any books of account, records, contracts, letters, memoranda, or other papers relative to the covered activity in the custody or control of the person.
+
+ “SEC. 1004. FACTORS TO BE CONSIDERED.
+
+
+“The Committee, in reviewing and making a determination with respect to a covered activity under section 1003, shall consider any factors relating to the national security of the United States that the Committee considers relevant, which may include—
+
+
+“(1) the economic, intelligence, military, health, or agricultural interests of the United States;
+
+
+“(2) the history of distortive or predatory trade-related practices in each country in which a covered activity occurs;
+
+
+“(3) control and beneficial ownership (as determined in accordance with section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4819 note)) of each covered foreign entity that is a party to the covered activity;
+
+
+“(4) the impact on the domestic industry and resulting resiliency, including the domestic human capital and supply chains, taking into consideration any pattern of foreign investment in the domestic industry;
+
+
+“(5) whether the covered activity could, directly or indirectly, support, enhance, or enable the capabilities of a country of concern or a covered foreign entity; and
+
+
+“(6) any additional national security factors identified in regulations prescribed in accordance with section 1008.
+
+ “SEC. 1005. SUPPLY CHAIN SENSITIVITIES.
+
+
+“The Committee shall determine the sensitivities and risks for sourcing of goods, materials, and technologies needed for national critical capabilities sectors in the United States, in accordance with the following:
+
+
+“(1) The sourcing of least concern shall be for goods, materials, and technologies sourced, and supply chains housed, in whole within countries that are allies of the United States.
+
+
+“(2) The sourcing of greater concern shall be for goods, materials, and technologies sourced, and supply chains housed in part within countries of concern or from a covered foreign entity but for which substitute production is available from elsewhere at required scale to meet the needs of the United States, including in terms of surge capacity.
+
+
+“(3) The sourcing of greatest concern shall be for goods, materials, and technologies sourced, and supply chains housed, wholly or in part, in countries of concern or from a covered foreign entity and for which substitute production is unavailable elsewhere at required scale.
+
+ “SEC. 1006. REPORTING REQUIREMENTS.
+
+
+“(a) In General.—Not later than 360 days after the date on which the regulations prescribed under section 1008 take effect, and not less frequently than every 90 days thereafter, the Committee shall submit to the appropriate congressional committees a report—
+
+
+“(1) on the determination under section 1005 with respect to sensitivities and risks for sourcing of goods, materials, and technologies described in that section;
+
+
+“(2) providing, for the year preceding submission of the report—
+
+
+“(A) a summary of the notifications received under subsection (a) of section 1003 and reviews conducted pursuant to such notifications;
+
+
+“(B) a summary of reviews initiated under paragraph (1) or (3) of subsection (b) of that section;
+
+
+“(C) a description of reviews during which the Committee determined no action was required; and
+
+
+“(D) a summary of—
+
+
+“(i) mitigation agreements entered into and conditions imposed under subsection (c) of that section; and
+
+
+“(ii) other existing, relevant mitigation measures that could be used to mitigate the risk; and
+
+
+“(3) assessing the overall impact of such reviews on national critical capabilities sectors, which may include recommendations on—
+
+
+“(A) expansion of Federal programs to support or protect the production or supply of national critical capabilities sectors in the United States, including the potential of existing legal authorities to address any related national security concerns;
+
+
+“(B) investments to enhance national critical capabilities sectors and reduce dependency on countries of concern; and
+
+
+“(C) the continuation, expansion, or modification of the Committee.
+
+
+“(b) Report On Sectors.—Not less frequently than annually, the Committee shall submit to the appropriate congressional committees a report describing—
+
+
+“(1) the sectors determined by the President to be national critical capabilities sectors under section 1001(5)(H); and
+
+
+“(2) the reasons why each such sector was determined to be a national critical capabilities sector.
+
+
+“(c) Form Of Report.—Each report required by this section shall be submitted in unclassified form, but may include a classified annex.
+
+ “SEC. 1007. PENALTIES AND ENFORCEMENT.
+
+
+“(a) Penalties.—
+
+
+“(1) UNLAWFUL ACTS.—Subject to regulations prescribed in accordance with section 1008, it shall be unlawful—
+
+
+“(A) to engage in a covered activity prohibited under this title or pursuant to such regulations;
+
+
+“(B) to fail to submit a notification under subsection (a) of section 1003 with respect to a covered activity or to submit other information as required by the Committee;
+
+
+“(C) to make a material misstatement or to omit a material fact in any information submitted to the Committee under this title;
+
+
+“(D) to breach or violate a mitigation agreement entered into or condition imposed under subsection (c) of that section; or
+
+
+“(E) to engage in any activity that evades or avoids, has the purpose of evading or avoiding, causes a violation of, or attempts to violate a prohibition under this title or pursuant to such regulations.
+
+
+“(2) CIVIL PENALTIES.—A civil penalty may be imposed on any person who commits an unlawful act described in paragraph (1) in an amount not to exceed the greater of—
+
+
+“(A) $250,000; or
+
+
+“(B) an amount that is twice the amount of the covered activity that is the basis of the violation with respect to which the penalty is imposed.
+
+
+“(b) Enforcement.—The President may direct the Attorney General to seek appropriate relief, including divestment relief, in the district courts of the United States, in order to implement and enforce this title.
+
+ “SEC. 1008. REQUIREMENT FOR REGULATIONS.
+
+
+“(a) In General.—Not later than 360 days after the date of the enactment of this title, the Committee shall finalize regulations to carry out this title.
+
+
+“(b) Elements.—Regulations prescribed to carry out this title shall include specific examples of the types of—
+
+
+“(1) activities that will be considered to be covered activities; and
+
+
+“(2) the specific sectors and subsectors that may be considered to be national critical capabilities sectors, at the discretion of the Committee.
+
+
+“(c) Requirements For Certain Regulations.—
+
+
+“(1) IN GENERAL.—The Committee shall prescribe regulations further defining the terms used in this title, including ‘covered activity’, ‘covered foreign entity’, and ‘party’, in accordance with subchapter II of chapter 5 and chapter 7 of title 5, United States Code (commonly known as the ‘Administrative Procedure Act’).
+
+
+“(2) MODIFICATIONS TO COUNTRIES OF CONCERN.—The Committee shall prescribe regulations with respect to modifying the definition of the term ‘country of concern’. Such regulations shall establish a process for removing from the definition of that term a country that no longer meets the criteria under section 1001(2).
+
+
+“(d) Public Participation In Rulemaking.—The provisions of section 709 shall apply to any regulations issued under this title.
+
+ “SEC. 1009. JUDICIAL REVIEW.
+
+
+“(a) In General.—Except as provided in this section, and notwithstanding any other provision of law, an action taken under this title, or any action taken by an Executive department (as defined in section 101 of title 5, United States Code) to implement such an action, shall not be subject to administrative review or judicial review, including bid protests before the Government Accountability Office or in any Federal court.
+
+
+“(b) Civil Actions.—A civil action challenging an action or finding under this title may be brought only in the United States Court of Appeals for the District of Columbia Circuit. Not later than 60 days after a party is notified of an action by the Committee under this title, the party may file a petition for judicial review in the United States Court of Appeals for the District of Columbia claiming that the action is unlawful.
+
+
+“(c) Standard Of Review.—The court shall hold an action unlawful in response to a petition that the court finds to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+
+
+“(d) Exclusive Jurisdiction And Remedy.—The United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction over claims arising under this title against the United States, any United States department or agency, or any component or official of any such department or agency, subject to review by the Supreme Court of the United States under section 1254 of title 28, United States Code. A determination by the court under this section shall be the exclusive judicial remedy for any claim described in this section against the United States, any United States department or agency, or any component or official of any such department or agency.
+
+
+“(e) Administrative Record And Procedures.—
+
+
+“(1) IN GENERAL.—The procedures described in this subsection shall apply to the review of a petition under this section.
+
+
+“(2) ADMINISTRATIVE RECORD.—
+
+
+“(A) FILING OF RECORD.—The United States shall file with the court an administrative record, which shall consist of the information that the Committee relied upon in taking an action under this title.
+
+
+“(B) UNCLASSIFIED, NONPRIVILEGED INFORMATION.—All unclassified information contained in the administrative record that is not otherwise privileged or subject to statutory protections shall be provided to the petitioner with appropriate protections for any privileged or confidential trade secrets and commercial or financial information.
+
+
+“(C) IN CAMERA AND EX PARTE.—The following information may be included in the administrative record and shall be submitted only to the court ex parte and in camera:
+
+
+“(i) Classified information.
+
+
+“(ii) Sensitive security information, as defined by section 1520.5 of title 49, Code of Federal Regulations (or any successor regulation).
+
+
+“(iii) Privileged law enforcement information.
+
+
+“(iv) Information obtained or derived from any activity authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), except that, with respect to such information, subsections (c), (e), (f), (g), and (h) of section 106 (50 U.S.C. 1806), subsections (d), (f), (g), (h), and (i) of section 305 (50 U.S.C. 1825), subsections (c), (e), (f), (g), and (h) of section 405 (50 U.S.C. 1845), and section 706 (50 U.S.C. 1881e) of that Act shall not apply.
+
+
+“(v) Information subject to privilege or protections under any other provision of law.
+
+
+“(D) UNDER SEAL.—Any information that is part of the administrative record filed ex parte and in camera under subparagraph (C), or cited by the court in any decision, shall be treated by the court consistent with the provisions of this paragraph and shall remain under seal and preserved in the records of the court to be made available consistent with those provisions in the event of further proceedings. In no event shall such information be released to the petitioner or as part of the public record.
+
+
+“(f) Return.—After the expiration of the time to seek further review, or the conclusion of further proceedings, the court shall return the administrative record, including any and all copies, to the United States.
+
+
+“(g) Rule Of Construction.—Nothing in this section shall be construed as limiting, superseding, or preventing the invocation of, any privileges or defenses that are otherwise available at law or in equity to protect against the disclosure of information.
+
+
+“(h) Definitions.—In this subsection, the term ‘classified information’—
+
+
+“(1) has the meaning given that term in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.); and
+
+
+“(2) includes—
+
+
+“(A) any information or material that has been determined by the United States Government pursuant to an Executive order, statute, or regulation to require protection against unauthorized disclosure for reasons of national security; and
+
+
+“(B) any Restricted Data, as defined in section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014).
+
+ “SEC. 1010. MULTILATERAL ENGAGEMENT AND COORDINATION.
+
+
+“(a) In General.—The President, in coordination with the United States Trade Representative, the Secretary of Commerce, the Secretary of State, and the Secretary of the Treasury, shall—
+
+
+“(1) in coordination and consultation with relevant Federal agencies, conduct bilateral and multilateral engagement with the governments of countries that are allies and partners of the United States to secure coordination of protocols and procedures with respect to covered activities with countries of concern and covered foreign entities; and
+
+
+“(2) upon adoption of protocols and procedures described in paragraph (1), work with those governments to establish mechanisms for sharing information, including trends, with respect to such activities.
+
+
+“(b) Strategy For Development Of Outbound Review Mechanisms.—The Committee, in consultation with the Attorney General, shall—
+
+
+“(1) develop a strategy to work with countries that are allies and partners of the United States to develop mechanisms comparable to this title for the review of covered activities; and
+
+
+“(2) provide technical assistance to those countries with respect to the development of those mechanisms.
+
+ “SEC. 1011. AUTHORIZATION OF APPROPRIATIONS.
+
+
+“(a) In General.—There are authorized to be appropriated such sums as may be necessary to carry out this title, including to provide outreach to industry and persons affected by this title.
+
+
+“(b) Hiring Authority.—The head of any agency specified in section 1002(b) may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, candidates directly to positions in the competitive service (as defined in section 2102 of that title) in that agency. The primary responsibility of individuals in positions authorized under the preceding sentence shall be to administer this title.
+
+
+“SEC. 1012. RULE OF CONSTRUCTION WITH RESPECT TO FREE AND FAIR COMMERCE.
+
+
+“Nothing in this title may be construed to restrain or deter foreign investment in the United States, United States investment abroad, or trade in goods or services, if such investment and trade do not pose a risk to the national security of the United States.”.

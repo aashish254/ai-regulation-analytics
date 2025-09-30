@@ -1,0 +1,99 @@
+SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+GOVERNMENT" is hereby amended by adding thereto the following chapter:
+CHAPTER 
+COMMISSION TO MONITOR THE USE OF ARTIFICIAL INTELLIGENCE IN STATE
+GOVERNMENT42-165-1. Definitions.
+As used in this chapter, the following words shall have the following meanings unless the
+context clearly requires otherwise:
+(1) "Algorithm" means a specific procedure, set of rules, or order of operations designed
+to solve a problem or make a calculation, classification, or recommendation.
+(2) "Artificial intelligence" means computerized methods and tools, including, but not
+limited to, machine learning and natural language processing, that act in a way that resembles
+human cognitive abilities when it comes to solving problems or performing certain tasks.
+(3) "Automated decision system" means any computer program, method, statistical model,
+or process that aims to aid or replace human decision-making using algorithms or artificial
+intelligence. These systems can include analyzing complex datasets about human populations and
+government services or other activities to generate scores, predictions, classifications, or
+recommendations used by agencies to make decisions that impact human welfare.
+(4) "Office," "Rhode Island," or "state" means any agency, constitutional office,
+department, board, commission, bureau, division or authority of the State of Rhode Island, or of
+any political subdivision thereof, or of any authority established by the general assembly to serve
+a public purpose.
+(5) "Source code" means the structure of a computer program that can be read and
+understood by people.
+(6) "Training data" means the data used to inform the development of an automated
+decision system and the decisions or recommendations it generates.42-165-2. Commission established.
+(a) There is hereby established within the department of administration a permanent
+commission to monitor the use of artificial intelligence in state government, for the purpose of
+continuously studying, monitoring, and making recommendations relative to the use by the state of
+automated decision systems that may affect human welfare, including, but not limited to, the legal
+rights and privileges of individuals.(b) In carrying out its work, the commission shall examine the following on an ongoing
+basis:
+(1) A complete and specific survey of all uses of automated decision systems by the State
+of Rhode Island and the purposes for which such systems are used;
+(2) The principles, policies, and guidelines adopted by specific Rhode Island offices to
+inform the procurement, evaluation, and use of automated decision systems, the procedures by
+which such principles, policies, and guidelines are adopted, and any gaps in such principles,
+policies, and guidelines;
+(3) The training specific Rhode Island offices provide to individuals using automated
+decision systems, the procedures for enforcing the principles, policies, and guidelines regarding
+their use, and any gaps in training or enforcement;
+(4) The manner by which Rhode Island offices validate and test the automated decision
+systems they use, and the manner by which they evaluate those systems on an ongoing basis,
+specifying the training data, input data, systems analysis, studies, vendor or community
+engagement, third parties, or other methods used in such validation, testing, and evaluation;(5) Matters related to the transparency, explicability, auditability, and accountability of
+automated decision systems, including information about their structure; the processes guiding their
+procurement, implementation and review; whether they can be audited externally and
+independently; and the people who operate such systems and the training they receive;
+(6) The manner and extent to which Rhode Island offices make the automated decision
+systems they use available to external review, and any existing policies, laws, procedures, or
+guidelines that may limit external access to data or technical information that is necessary for audits,
+evaluation, or validation of such systems;
+(7) The due process rights of individuals directly affected by automated decision systems,
+and the public disclosure and transparency procedures necessary to ensure such individuals are
+aware of the use of the systems and understand their related due process rights;
+(8) Uses of automated decision systems that directly or indirectly result in disparate
+outcomes for individuals or communities based on age, race, creed, color, religion, national origin,
+gender, disability, sexual orientation, marital status, veteran status, receipt of public assistance,
+economic status, location of residence, or citizenship status;(9) Technical, legal, or policy controls to improve the just and equitable use of automated
+decision systems and mitigate any disparate impacts deriving from their use, including best
+practices and policies developed through research and academia or in other states and jurisdictions;
+(10) Matters related to data sources, data sharing agreements, data security provisions,
+compliance with data protection laws and regulations, and all other issues related to how data is
+protected, used, and shared by agencies using automated decision systems;
+(11) Matters related to automated decision systems and intellectual property, such as the
+existence of non-disclosure agreements, trade secrets claims, and other proprietary interests, and
+the impacts of intellectual property considerations on transparency, explicability, auditability,
+accountability, and due process; and
+(12) Any other opportunities and risks associated with the use of automated decision
+systems by Rhode Island offices.42-165-3. Composition.
+(a) The commission shall consist of the secretary of commerce, or designee; the director of
+the department of administration, or designee, who shall be the chairperson of the commission; the
+director of the department of business regulation, or designee; the chief justice of the state supreme
+court or designee; the attorney general or designee; the director of the department of children,
+youth, and families, or designee; the secretary of the executive office of health and human services,
+or designee; the Rhode Island public defender, or designee; the president of the Rhode Island Bar
+Association or designee; four (4) representatives from academic institutions in the state who shall
+be experts in:
+(1) Artificial intelligence and machine learning;
+(2) Data science and information policy;
+(3) Social implications of artificial intelligence and technology; or
+(4) Technology and the law, to be appointed by the governor, after consulting with the
+commissioner of post-secondary education; the commissioner of elementary and secondary
+education, or designee; and one representative to be appointed by the board of education;(b) Members of the commission shall be appointed within forty-five (45) days of the
+effective date of this chapter. The commission shall meet at the call of the chair based on the
+commission's workload but not fewer than six (6) times per calendar year. Members who are
+secretaries, directors, elected officials, commissioners, and members of the judiciary, as well as the
+president of the Rhode Island Bar Association and the public defender, shall serve for so long as
+they hold their position. All other members shall be appointed for a term of three (3) years, which
+appointments may be renewed.42-165-4. Annual report.
+The commission shall submit an annual report by December 31 of each year to the governor
+and to the clerks of the house of representatives and the senate. The report will be a public record
+and it shall include, but not be limited to, a description of the commission's activities and any
+community engagement undertaken by the commission, the commission's findings, and any
+recommendations for regulatory or legislative action, including recommendations about areas
+where Rhode Island offices ought to use and not to use automated decision systems, with a timeline
+for implementation, cost estimates and finance mechanisms. The report shall also detail the extent
+of algorithmic decision-making used by the State of Rhode Island and the progress made toward
+implementing any previous recommendations issued by the commission.
+SECTION 2. This act shall take effect upon passage.

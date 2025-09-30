@@ -1,0 +1,35 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Artificial Intelligence Allied Collaboration for Crucial Operations, Research, and Development Act of 2024” or the “AI ACCORD Act of 2024”.
+SEC. 2. JOINT PARTNER-SHARING NETWORK CAPABILITIES FOR MIDDLE EAST DEFENSE INTEGRATION.
+(a) Strategy.—
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a strategy to improve cooperation between the Department of Defense and allies and partners of the United States located in the Middle East so as to improve use of partner-sharing network capabilities to facilitate joint defense efforts among the United States and such allies and partners to protect the people, infrastructure, and territory of the United States and such allies and partners from state and non-state actors determined by the Secretary to undermine the national security interests of the United States.
+(2) CONTENTS.—The strategy submitted pursuant to paragraph (1) shall include the following:
+(A) A summary of ongoing efforts by United States Central Command (CENTCOM), or in which United States Central Command is participating, to implement a joint partner-sharing network capability integrated with the assets of allies and partners of the United States who are located in the Middle East.
+(B) A summary of challenges to further facilitate the implementation of a joint partner-sharing network capability integrated with the assets of Middle Eastern allies and partners, including actions or decisions that need to be taken by other organizations.
+(C) A recommendation of actions that can be taken to address the challenges summarized pursuant to subparagraph (B).
+(D) An assessment of how the implementation of a joint partner-sharing network capability that would be available to integrate with allies and partners of the United States in the Middle East that—
+(i) could demonstrate new tools, techniques, or methodologies for data-driven decision making;
+(ii) accelerate sharing of relevant data, data visualization, and data analysis implemented through cryptographic data access controls and enforcing existing data sharing restrictions across multiple security levels; and
+(iii) leverage current activities in multi-cloud computing environments to reduce the reliance on solely hardware-based networking solutions.
+(E) A recommendation of actions that can be taken to implement a joint partner-sharing network capability integrated with allies and partners of the United States in the Middle East, including identification of policy, resource, workforce, or other shortfalls.
+(F) Such other matters as the Secretary considers relevant.
+(3) METRICS.—The Secretary shall identify metrics to assess progress in the implementation of the strategy required by paragraph (1).
+(4) FORM.—The strategy required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+(5) PROTECTION OF SENSITIVE INFORMATION.—No activity may be carried out under this section without an approved program protection plan and overarching classification guide to enforce technology and information protection protocols that protect sensitive information and the national security interests of the United States.(b) Establishment Of A Combatant Command Warfighter Forum For Artificial Intelligence.—
+(1) POLICIES AND PROCEDURES REQUIRED.—Not later than 180 days after the date of the enactment of this Act, the Chief Data and Artificial Intelligence Officer of the Department of Defense (CDAO) shall issue policies and procedures to establish a forum for warfighters in the combatant commands on artificial intelligence to help promote coordination and interchange on issues relating to artificial intelligence tools, methodologies, training, exercises, and operational research within and among the combatant commands.
+(2) PURPOSES FOR CONSIDERATION.—In developing the policies and procedures required by paragraph (1) for establishing the forum described in such paragraph, the Chief shall consider the following as primary purposes of the forum:
+(A) Identification of use cases for the near-term application of artificial intelligence tools, including commercially available artificial intelligence tools, data, methodologies, or techniques.
+(B) Categorization of risk for the use cases identified pursuant to subparagraph (A), and consideration of risk-management process or other procedural guidelines for enforcing current policy.
+(C) Identification and prioritization of current artificial intelligence tools or emerging technologies applicable to the use-cases identified pursuant to subparagraph (A) that also meet policy guidelines and standards set by the Department.
+(D) Identification of shortfalls in training or billets for artificial intelligence-related expertise or personnel within the combatant commands.
+(E) Coordination on training and experimentation venues, including with regional partners and allies.
+(F) Identification of opportunities for enhanced cooperation with regional partners and allies.
+(G) Identification of opportunities for the combatant commands, working with other elements of the Department of Defense, such as the Defense Innovation Unit, to better procure commercial artificial intelligence capabilities, including from partner and allied industrial bases.
+(3) REPORT.— (A) Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the progress made in establishing the forum described in paragraph (1).
+(B) The report submitted pursuant to subparagraph (A) shall include the following:
+(i) A summary of the policies and procedures issued pursuant to paragraph (1).
+(ii) A list of all meetings of the forum described in paragraph (1) that have occurred since the date of the enactment of this Act.
+(iii) An itinerary of the meetings listed pursuant to clause (ii).
+(iv) A summary of the efforts of the forum described in paragraph (1) to fulfill each of the purposes considered under paragraph (2).
+(v) Recommendations, based on findings of the forum described in paragraph (1), for legislative action to accelerate the adoption by the combatant commands of artificial intelligence capabilities.
+(c) Definition Of Congressional Defense Committees.—In this section, the term “congressional defense committees” has the meaning given such term in section 101(a) of title 10, United States Code.

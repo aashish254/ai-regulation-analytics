@@ -1,0 +1,178 @@
+ TITLE VI—DEPARTMENT OF ENERGY ACTIVITIES
+
+
+SEC. 601. DEPARTMENT OF ENERGY RESEARCH PROGRAM.
+
+
+(a) In General.—The Secretary of Energy shall carry out a cross-cutting research, development, and demonstration program to advance unmanned aircraft system technologies, capabilities, and workforce needs and to improve the reliability of unmanned aircraft systems implementation methods relevant to the mission of the Department of Energy. In carrying out such program, the Secretary shall coordinate across all relevant offices and activities at the Department, including the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office of Nuclear Energy, the Office of Fossil Energy, the Office of Electricity, the Office of Cybersecurity, Energy Security, and Emergency Response, the Advanced Research Projects Agency–Energy, the Office of Environmental Management, the Office of Environment, Health, Safety and Security, the National Nuclear Security Administration, the Artificial Intelligence Technology Office, the UAS Research and Engineering Center, and any other relevant office or activity as determined appropriate by the Secretary.
+
+ (b) Program Components.—In carrying out the program under subsection (a), the Secretary of Energy shall—
+
+
+(1) formulate goals for unmanned aircraft systems research activities to be supported by the Department of Energy, including in the research areas under subsection (c);
+
+
+(2) leverage the collective body of knowledge from existing unmanned aircraft systems research and development activities, including the work underway by the Unmanned Aircraft Systems Research and Engineering Center;
+
+
+(3) provide research experiences and training for undergraduate and graduate students in unmanned aircraft systems research and development, including in the fields of—
+
+
+(A) artificial intelligence and machine learning;
+
+
+(B) applied mathematics and algorithm development;
+
+
+(C) advanced imaging, sensing, and detection technologies;
+
+
+(D) materials science and engineering; and
+
+
+(E) advanced energy technologies and propulsion approaches;
+
+
+(4) establish a robust data management strategy that—
+
+
+(A) ensures digital access and machine-readability;
+
+
+(B) promotes findability, interoperability, analysis- and decision-readiness and reusability; and
+
+
+(C) ensures applicable scientific data are managed for wide use by the Federal Government, State, local, and Tribal governments, academia, and the public; and
+
+
+(5) support one or more Institutes as described in section 201(a) for the purpose of advancing the fields of unmanned aircraft systems and the mission of the Department.
+
+ (c) Research Areas.—In carrying out the program under subsection (a), the Secretary of Energy shall award financial assistance to eligible entities to carry out research, development, and demonstration projects over a range of subject areas including—
+
+
+(1) fundamental science and technology areas, which may include—
+
+
+(A) advanced sensor technologies and processes, including—
+
+
+(i) optical capabilities, including Light Detection and Ranging, hyperspectral, thermographic, and visible imaging capabilities;
+
+
+(ii) nonoptical electromagnetic capabilities, including radar and radiofrequency capabilities;
+
+
+(iii) acoustic capabilities, including ultrasonic capabilities; and
+
+
+(iv) radiation detection, gravimetric, hyperspectral or other measurement modalities;
+
+
+(B) advanced technologies and methods for remote handling, precision positioning, and navigation control;
+
+
+(C) advanced technologies for secure autonomous operation, including edge computing and artificial intelligence;
+
+
+(D) power electronics and wireless charging systems;
+
+
+(E) novel materials, including lightweight and radiation-resistant materials;
+
+
+(F) scalability of unmanned aircraft systems for increased payload capacity;
+
+
+(G) technologies and processes to improve secure interoperability practices, including with existing satellites, constellation networks, and surface-based facilities;
+
+
+(H) strategies and technologies for integrated cybersecurity considerations;
+
+
+(I) strategies and technologies for improved endurance, including lightweight long duration fuels, batteries, and fuel cells;
+
+
+(J) open architectures and advanced algorithms to enable multi-sensor fusion and tracking of unmanned aircraft systems; and
+
+
+(K) swarm and cooperative drone data collection and operation, and integration of drone control systems with dynamic sampling and real-time digital twin simulations; and
+
+
+(2) approaches for leveraging unmanned aircraft systems for diverse applications, which may include—
+
+
+(A) advanced assessment, characterization, mapping, and recovery of energy resources, such as geothermal energy, biofuels, and critical minerals resources;
+
+
+(B) field testing and monitoring of energy systems, such as onshore and offshore wind energy, fossil energy, solar energy, marine energy, nuclear energy, and hydropower systems;
+
+
+(C) damage assessment of the electric grid and energy infrastructure following physical events such as wildland fires, including prescribed burns containment and emissions measurements, potential health and safety effects from contaminant releases and dispersals, and real-time analysis of impacted assets;
+
+
+(D) leak detection of greenhouse gases related to energy production, including methane leak detection;
+
+
+(E) agriculture and aquaculture applications;
+
+
+(F) integrated data collection to inform and enhance Department of Energy modeling capabilities, including the development of climate and earth systems models;
+
+
+(G) assistance in environmental management and cleanup activities;
+
+
+(H) assistance in Department infrastructure management at National Laboratories and other relevant Department sites;
+
+
+(I) intrusion detection and facility monitoring for physical security applications; and
+
+
+(J) asset extraction of building envelope features and characteristics for rapid energy modeling purposes.
+
+ (d) Technology Transfer.—In carrying out the program under subsection (a), and in coordination with the Office of Technology Transitions, the Secretary of Energy shall support technology transfer of unmanned aircraft systems research by partnering with industry.
+
+
+(e) Facility Use.—In carrying out the program under subsection (a), the Secretary of Energy shall make available high-performance computing infrastructure and other relevant research facilities and test beds at the National Laboratories.
+
+
+(f) Interagency Coordination And Nonduplication.—In carrying out the program under subsection (a), the Secretary of Energy shall coordinate with the heads of other Federal departments and agencies to avoid duplication of research and other activities and to ensure that the activities carried out under such program are complementary to those currently being undertaken by such other departments and agencies.
+
+
+(g) Authorization Of Appropriations.—There are authorized to be appropriated to the Department of Energy to carry out this section—
+
+
+(1) $50,000,000 for fiscal year 2024;
+
+
+(2) $52,500,000 for fiscal year 2025;
+
+
+(3) $55,125,000 for fiscal year 2026;
+
+
+(4) $57,881,775 for fiscal year 2027; and
+
+
+(5) $60,775,863 for fiscal year 2028.
+
+
+(h) Eligible Entities Defined.—In this title, the term “eligible entity” means—
+
+
+(1) an institution of higher education;
+
+
+(2) a National Laboratory;
+
+
+(3) a State, local, territorial, or Tribal government research agency;
+
+
+(4) a nonprofit research organization;
+
+
+(5) a private sector entity; or
+
+
+(6) a consortium of two or more entities described in any of paragraphs (1) through (5).

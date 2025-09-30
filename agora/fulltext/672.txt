@@ -1,0 +1,76 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Advanced Aviation Integration Act”.SEC. 2. ADVANCED AVIATION LEADERSHIP.
+(a) Establishment.—Not later than 90 days after the date of enactment of this Act, the Secretary shall designate the Deputy Administrator of the Federal Aviation Administration as the executive responsible for leadership, coordination, and integration of advanced aviation in the national airspace system.(b) Responsibilities.—The responsibilities of the Deputy Administrator (including any designee of the Deputy Administrator) shall include the following:
+(1) Coordinate across relevant offices of the Administration to facilitate the necessary planning for policy, rulemaking, and approval processes on matters relating to the safe operation and integration of advanced aviation systems in the national airspace system.
+(2) Coordinate across relevant offices of the Administration on the development, assessment, and refinement of advanced aviation systems concepts to ensure feasibility and viability within the national airspace system, including coordination of research and conducting studies and demonstrations to prove concepts.
+(3) Coordinate workforce planning across relevant offices of the Administration to—
+(A) hire and recruit personnel to—
+(i) research, develop, test, and evaluate advanced aviation systems; and
+(ii) process hiring applications related to advanced aviation systems in a timely manner; and
+(B) develop and submit a biannual report to the Secretary and the Administrator, including—
+(i) core workforce requirements related to the research, development, testing, and evaluation of advanced aviation systems by the Administration;
+(ii) core workforce requirements related to the safety, certification, and operational approval of advanced aviation systems by the Administration; and
+(iii) recommendations on staffing and budgetary resources needed to address areas of concern.
+(4) Coordinate across relevant offices of the Administration to facilitate the United States leadership and participation in activities relating to the international standardization of airworthiness and the operational and environmental effects of advanced aviation systems.
+(5) Advise the Administrator during internal and interagency coordination on advanced aviation systems and other matters.
+(6) Advise the Chief Operating Officer of the Administration on the development of enterprise architecture.
+(7) Validate supporting system requirements proposed by the Chief Operating Officer.
+(8) Participate in aviation rulemaking committees related to advanced aviation systems.
+(9) Serve as the new Designated Federal Official for the Advanced Aviation Advisory Committee and consult with and assign tasks to the Advanced Aviation Advisory Committee.
+(10) Use the Administration's clearinghouse website for publicly available data (commonly referred to as “Data.FAA.gov”) to ensure the establishment and implementation of a secure, single-sign on for all FAA-related services (including pending certifications, applications, IACRA, CAPS, DroneZone, MedXpress, CARES, and any other service deemed appropriate by the Administration) with multifactor authentication-protected online capability that allows stakeholders with a new or pending certification or approval application to review the status of such application, receive notice of deadlines and major certification milestones, identify the Administration office that is reviewing such application, and submit inquiries or requests for guidance pursuant to subsection (c).
+(11) Work with relevant offices of the Administration to develop and implement pilot programs in partnership with advanced aviation stakeholders to provide data to support rulemaking and approval processes.
+(12) Serve as a representative of the Administration during interagency coordination of policies related to advanced aviation systems.
+(13) Provide an opportunity for stakeholders to submit requests or inquiries related to advanced aviation systems to the Office of Advanced Aviation.
+(14) Promote the safe and responsible integration of advanced aviation systems into the national airspace system.(c) Request For Guidance On Operational Approval Applications.—Any person who submits an operational approval application may include a request for the Assistant Administrator for Advanced Aviation to provide guidance on the processing and coordination required for such request.SEC. 3. OFFICE OF ADVANCED INTEGRATION.
+(a) Establishment.—The Deputy Administrator shall redesignate the National Airspace System Engineering and Integration Office as the Office of Advanced Integration within the Office of Advanced Aviation.
+(b) Designation.—Not later than 1 year after the date of enactment of this Act, the Deputy Administrator, in consultation with the Administrator and Secretary, shall appoint a Director of Advanced Integration to head the Office of Advanced Integration.
+(c) Responsibilities.—The Deputy Administrator shall delegate to the Director of Advanced Integration the responsibilities described in paragraphs (1) through (4) of section 2(b).(d) Collaboration.—The Director of Advanced Integration shall collaborate with the following:
+(1) The Vice President of Air Traffic Services of the Administration and the Vice President of Mission Support Services of the Administration to carry out the responsibilities described in section 2(b)(2).
+(2) The Executive Director of Aircraft Certification Service of the Administration, the Executive Director of Flight Standards Services of the Administration, and the Executive Director of the Office of Rulemaking of the Administration to carry out the responsibilities described in paragraphs (1) and (3) of section 2(b).
+(3) The Director of the William J. Hughes Technical Center of the Administration to carry out the responsibilities described in section 2(b)(3).
+(4) The Assistant Administrator for Finance and Management of the Administration and the Assistant Administrator for Human Resource Management of the Administration to carry out the responsibilities described in section 2(b)(4).SEC. 4. ADVANCED AVIATION COORDINATION UNIT.
+
+(a) Establishment.—The Secretary shall establish a coordination unit within the Administration to carry out the responsibilities described in subsection (d), to be known as the Advanced Aviation Coordination Unit.
+(b) Membership.—The Advanced Aviation Coordination Unit shall consist of the head of each relevant office of the Administration, or an employee representing such office, including—
+(1) the Office of Advanced Integration established under section 3;
+(2) the Office of Aviation Safety, including the UAS Integration Office, the Aircraft Certification Service, the Flight Standards Service, and the Office of Rulemaking;
+(3) the Air Traffic Organization, including the Program Management Organization, the Technical Operations Services, the Office of Mission Support Services, and the office headed by the Chief Operating Officer;
+(4) the Office of Security and Hazardous Materials Safety;
+(5) the Office of Airports;
+(6) the Office of the Chief Counsel;
+(7) the Office of Policy, International Affairs, and Environment; and
+(8) any other office determined appropriate by the Deputy Administrator.
+(c) Chair.—
+(1) IN GENERAL.—The Director of Advanced Integration shall serve as the Chair of the Advanced Aviation Coordination Unit, at the discretion of the Deputy Administrator.
+(2) AUTHORITY.—The Chair may—
+(A) schedule meetings of the members of the Advanced Aviation Coordination Unit;
+(B) identify items for the members of the Advanced Aviation Coordination Unit to act on in fulfillment of the responsibilities described in subsection (d); and
+(C) establish working groups in addition to the working groups established pursuant to subsection (e).
+(d) Responsibilities.—The members of the Advanced Aviation Coordination Unit shall collaborate to—
+(1) promote the safe and responsible integration of advanced aviation systems into the national airspace system;
+(2) improve processes related to such integration;
+(3) improve processes related to the certification of advanced aviation systems;
+(4) develop clear and consistent standards related to advanced aviation systems;
+(5) ensure that determinations of the Administration related to advanced aviation systems are made in a timely manner; and
+(6) identify innovative aviation technologies that may be integrated into the national airspace system.(e) Working Groups.—
+(1) ESTABLISHMENT.—The Chair of the Advanced Aviation Coordination Unit shall establish within the Advanced Aviation Coordination Unit a working group on each of the following topics:
+(A) Unmanned aircraft system integration.
+(B) Advanced air mobility integration.
+(C) Safety technology integration.
+(2) PERSONNEL.—The Chair shall consult with the members of the Advanced Coordination Unit on the assignment of Administration personnel to staff the working groups established under paragraph (1).
+(3) PROJECTS.—The Chair shall, in consultation with the Administrator and members of the Advanced Aviation Coordination Unit, assign projects to the working groups established under paragraph (1) and oversee the execution of such projects.(f) Consultation.—The Deputy Administrator shall consult with the Administrator and members of the Advanced Aviation Coordination Unit to ensure that existing projects of the Administration are incorporated into the Advanced Aviation Coordination Unit in a minimally disruptive manner.(g) Interagency Coordination.—The Secretary may facilitate coordination between interagency partners and the members of the Advanced Aviation Coordination Unit to fulfill the responsibilities described in subsection (d).SEC. 5. DEFINITIONS.
+In this Act:
+(1) ADMINISTRATOR.—The term “Administrator” means the Administrator of the Federal Aviation Administration.
+(2) ADMINISTRATION.—The term “Administration” means the Federal Aviation Administration.(3) ADVANCED AVIATION SYSTEM.—The term “advanced aviation system” means—
+(A) an unmanned aircraft system;
+(B) a powered lift aircraft;
+(C) a technology related to—
+(i) advanced air mobility;
+(ii) the ability of an aircraft to detect surroundings and avoid impacts;
+(iii) autonomous functioning of aircraft;
+(iv) supersonic aircraft capabilities;
+(v) electric or hydrogen based aircraft propulsion; or
+(vi) evolving aerospace operations including new aircraft, airport, weather, or info-centric and digital systems; or
+(D) any other aviation-related technology that the Deputy Administrator determines qualifies as an advanced aviation system that could feasibly be integrated into the national airspace system.
+(4) OPERATIONAL APPROVAL APPLICATION.—The term “operational approval application” means an application for the operation of an advanced aviation system in the national airspace system submitted pursuant to section 44701 or 44807 of title 49, United States Code, or any other provision of law related to such operation.
+(5) SECRETARY.—The term “Secretary” means the Secretary of Transportation.

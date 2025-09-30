@@ -1,0 +1,332 @@
+BEST PRACTICE AI RECOMMENDATIONS
+FOR THE CITY OF LOS ANGELES
+
+For several years, the Information Technology Agency (ITA) has been monitoring
+trends and tools in artificial intelligence and other emerging technologies. In
+preparation of this report, the ITA also solicited best practice research from
+industry subject matter experts, Gartner Inc., a major Big 4 technology
+consulting company with a specialized AI practice, professors at the University
+of Southern California (USC) Viterbi School of Engineering, technology vendors,
+and various periodicals. While artificial intelligence is a rapidly changing field,
+the following is a summary of key recommendations for the City of Los Angeles
+based on best practices in artificial intelligence as understood in the industry
+today:
+Recommendation #1 - L.A. City AI Tools Should Tailor to Two Distinct User
+Segments
+Not everyone uses AI tools in the same way. At the City of Los Angeles, there
+are two distinct groups of users that we should consider and train to:
+1. City Employees & Managers (AI Users) - These are the City employees
+who will use AI tools that are made available to them. These tools will
+most be used in Google Workspace, Salesforce, ServiceNow, or other
+existing software (i.e. AI Embedded Software). In addition, a much smaller
+set of City employees will use custom-developed AI tools for a specific
+purpose (e.g. call center software, fraud detection, environmental
+monitoring, etc). Training in basic AI usage (e.g. prompts, logic, etc) will
+improve their digital skills in these tools.
+2. IT Professionals (AI Developers) - These are the technical staff who
+develop or configure the AI tools for City departments (i.e. configuring AI
+embedded productivity software or maintaining custom AI solutions).
+While smaller in number than the other segment, this group requires
+technical training, an understanding of trends in the AI marketplace to
+assist in tool selection, and the ability to explain the behavior of the tool
+for transparency. This segment should utilize industry certifications,
+specialized training, and bi-monthly IT Policy Committee
+training/discussions.
+Recommendation #2 - Non-Technical Department Leadership Teams
+Should Set Goals & Objectives Before Deploying AI Tools
+Technology can deliver real value. However, for technology to deliver value,
+there must be clear department goals and objectives for those technologies
+before technology investments are to be made. Without clear department goals
+and objectives and engaged department non-technical staff, the technology will
+easily miss the mark, result in wasted investment, and not generate the value for
+the City department. Before undertaking AI projects, City departments must
+start with clear mission-driven goals and objectives that can direct the
+technology decisions made with these emerging technologies.
+Recommendation #3 - AI Tools Should Be Piloted and Understood Before
+Mass Usage
+A proof of concept (PoC) is essential with emerging technologies. The PoC helps
+organizations determine the strengths of the technology, the weaknesses, the
+unseen costs, the maintenance requirements, refinements required before mass
+usage, and potential unintended consequences. A PoC is much like trying on
+clothing in a dressing room before you purchase the items. This is especially
+important for artificial intelligence, which can be seen as a “black box” by many
+City employees who lack familiarity with it. While a PoC reduces time to market,
+it is also the best way to minimize a waste of funding or human resources.
+Recommendation #4 - City Departments Must Prepare for Most AI Tools To
+Be Accessed Through Existing Software Platforms (i.e. Embedded AI
+Tools)
+Based on best practice research, the high initial cost of AI projects, and
+developments in the tech industry, most AI tools will fall into 3 categories:
+1. Embedded AI Tools in Other Software - The majority of AI tool usage will
+likely be embedded into existing City of Los Angeles software solutions
+(e.g. Google Workspace, ServiceNow, Salesforce, etc). AI becomes an
+enhanced service within this software enabling the user to perform greater
+tasks and processes using the AI tools (e.g. Google Duet used to create a
+custom image for a Google Slides presentation based on previous
+presentations in the user’s Google Drive). This is also driven by the high
+entry cost of AI projects and the need for dedicated, high quality data
+(which existing software companies are best prepared to provide). In other
+words, most City of Los Angeles users will be introduced to AI tools within
+the context of software they are already using today.
+2. Artificial Intelligence-as-a-Service (AIaaS) Cloud Services - The second
+category of AI tools is the custom-development of artificial intelligence
+functions using cloud-based artificial intelligence (AI) services (e.g.
+Amazon Web Services, Google, Microsoft Azure). Commonly known as
+“artificial intelligence as a service” (AIaaS), these are AI components that
+can be subscribed to by IT developers. These tools require a significant
+level of technical expertise, but are substantially easier to setup and
+purchase compared to the Vendor-Built Custom AI Solutions (the third
+category).
+3. Vendor-Built Custom AI Solutions - The most sophisticated (and
+expensive) AI solution is the Vendor-Built Custom AI Solution that is
+contracted through a vendor and built by their professional services staff.
+These tools would be used for a specific, niche department use case (e.g.
+traffic management, fraud detection, etc). The vendor would contract with
+the City department and perform a full cycle AI solution deployment
+(develop requirements, gather datasets, train models, deploy tools,
+monitor/refine, etc). While these will likely be the least common category
+and the most expensive, these can be the most impactful tools for our
+operations and L.A.’s urban challenges.
+Recommendation #5 - AI Tools Should Be Dynamic & Adapt to Changes in
+Department Data or Requirements
+The best technology projects start with a clear set of department goals and
+objectives, then a rapid/agile deployment of a “minimum viable product”
+technology, and the iterative enhancement of the technology based on real
+experience and feedback. AI tools should be dynamic and adaptive to improve
+their accuracy and capability. In addition, AI as a Service projects and
+Vendor-Build Custom AI Solutions often require a variety of AI techniques that
+are better suited for the specific use case. At times, informed experimentation is
+necessary to yield the necessary results.
+Recommendation #6 - Organizations Should Stay Current on AI Tools &
+Frameworks
+AI is a rapidly evolving field and suite of tools/techniques. To maximize our
+effectiveness, the City of Los Angeles should evolve with the industry. This
+requires an understanding of the technology, best practices from other
+governments/private sector, and upcoming product roadmaps, especially
+among IT Developers who are responsible for the implementation or
+configuration of these tools.
+Recommendation #7 - AI Tools Require Training for Both Users &
+Developers
+Technology is only as good as the humans that use it. AI tools require
+intermediate knowledge to use them and substantial technical expertise to
+configure them. The following areas of training are recommended for City
+Employees and IT Developers:
+1. Suggested AI Training for City Employees
+a. AI Prompts & Queries
+b. Popular AI Use Cases
+c. AI Privacy & Security Considerations
+2. Suggested AI Training for IT Developers
+a. Prompt Engineering
+b. Advanced AI Use Cases
+c. AI Privacy & Security for Developers (e.g. Prompt Injections)
+d. Low-Code Machine Learning
+e. Building Language Models
+f. AI Certifications
+i. Amazon Web Services
+ii. Google
+iii. Microsoft
+Recommendation #8 - AI Tools Must Be Cyber Secure
+AI tools require significant cyber security and data privacy considerations.
+Hastily implemented AI tools will be vulnerable to cyber attacks and data
+breaches. In addition, proprietary data can be published into public AI tools
+causing challenges for data privacy and security. Cybersecurity requirements
+must be incorporated early into any AI tool and cybersecurity assessments must
+be performed before deployment to prevent data security issues.
+Recommendation #9 - AI is a Long Term Investment & Requires Patience
+Artificial Intelligence is not a “silver bullet”. It is a new technology that affords
+tremendous capabilities for organizations willing to apply the effort, investment,
+and discipline necessary to harness the emerging technology. This is not an
+issue of technical acumen, but a broad-based effort that requires department
+management, functional subject matter experts, technical professionals, and
+vendors to work together towards a common goal using these new
+technologies. This requires long-term investment, foundational improvements to
+department data gathering, the training of AI models, department process
+improvements, and AI tool refinement over an extended timeframe. This is the
+experience of successful private sector organizations and governments.
+Recommendation #10 - Custom AI Tools Require High Quality Data & Data
+Cleanup
+Artificial Intelligence is not a “cheat” technology that solves all of an
+organization's process and data issues. In fact, sophisticated AI tools require
+high quality data and data preparation to make them work. AI models are only as
+good as the data they are trained on. City of Los Angeles departments must
+take great preparatory efforts to gather clean, relevant, and accurate data for the
+use of AI.
+Recommendation #11 - City of Los Angeles Data is Owned by the City &
+Not to be Given Away to Vendors
+Data from City of Los Angeles systems is owned by the City department that
+primarily uses the system or makes decisions on how the system works (i.e.
+system business owner). AI tools operate on large amounts of data and vendors
+will seek the use of City data to implement these tools. It is imperative that City
+departments who are considering the use of AI tools clearly understand what
+data will be used, how the data will be used, where it will be stored, how it will
+be transmitted to the storage location, ensure data privacy controls are in place
+where applicable (per City of Los Angeles Information Security Policy), and
+maintain contractual ownership of that data. Contracts with vendors that utilize
+City data should be reviewed by City Attorney representatives to ensure proper
+contractual data ownership and controls. If not, vendors may misuse City
+department data for their own benefit, place sensitive City data in insecure
+locations, or violate the City’s data privacy guidelines.
+Recommendation #12 - AI Tools Should Be Ethical, Transparent &
+Human-Centered
+City of Los Angeles technology must be used for the benefit of people that use it
+or benefit from it. This is even more important with the implementation of
+emerging technologies, such as AI, which are often viewed as “magical black
+boxes” that generate good and bad results. All City of Los Angeles AI tools must
+be understood, examined for unfair biases, transparent to their users, and
+developed for the betterment of LA City employees, residents, businesses, or
+visitors. This requires more than just an innovation lens, but a digital ethics lens
+to ensure these advanced tools provide benefit (not harm) to our employees or
+diverse communities.
+
+ARTIFICIAL INTELLIGENCE ROADMAP
+FOR THE CITY OF LOS ANGELES
+
+“AI is a tool. The choice about how it gets deployed is ours.”
+-Oren Etzioni, Professor & 1st Harvard Comp Sci Major
+
+To accomplish the City of Los Angeles objectives for artificial intelligence and
+incorporate the best practice AI recommendations found above, the following
+“roadmap” of next steps has been developed for the City of Los Angeles to be
+completed by the Information Technology Agency and our partner City
+departments. With additional investment and resources, this approach can
+expand and grow based on the needs of City of Los Angeles departments and
+our elected offices:
+1. Provide AI Training to Employees (the “how of AI”) | May - August 2024
+a. City Employee & Manager AI Literacy Training
+i. Introduction to Artificial Intelligence Webinar (All Employees)
+ii. Artificial Intelligence Privacy & Security (All Employees)
+iii. Introduction to Google Gemini Chatbot GenAI (All Employees)
+iv. Google Gemini Enterprise for Workspace Training (all employees with
+Google licenses for 3 months - paid licenses required after)
+v. Adobe Firefly Generative AI Training (L.A. City Designers & Content
+Creators)
+vi. Preventing AI Financial Fraud Training (LA City Accounting & Finance
+Professionals)
+b. IT Developer Training
+i. Google Gemini for Developers (Pilot Group - Licenses Required)
+ii. GitHub CoPilot for Developers (Pilot Group - Licenses Required)
+iii. Artificial Intelligence Certifications (Optional)
+1. Google Machine Learning Engineer
+2. Google Generative AI Learning Path
+3. AWS Certified Machine Learning
+4. Microsoft Azure AI Fundamentals
+2. Deliver AI Tools to City Workforce (the “what of AI”) | May-Dec’ 2024
+a. Deliver Embedded AI Tools to City Employees
+i. Google Gemini Enterprise for Workspace (26,500+users; 3 months) -
+May ‘24
+1. Google Gemini Enterprise (formerly known as Google Duet) is
+Google’s AI-powered assistant to help users write, organize,
+visualize, improve meetings, build workflows, etc.
+2. All LA City employees with Google licenses across City
+departments and elected offices will be provided training and the
+ability to use Gemini Enterprise for Google Workspace for three
+months free of charge (requires paid license beyond pilot
+timeframe)
+ii. Google Gemini Chatbot Generative AI for Employees - August ‘24
+1. Google Gemini Chatbot Generative AI (formerly known as
+Google Bard) is comparable to ChatGPT and creates text,
+graphics, and video content
+2. Google Gemini is included at no cost with the City’s Google
+Workspace license and is equivalent to the paid premium
+ChatGPT 4
+3. All 26,500+ City employees with a Google license will be
+provided training and access to use this Generative AI tool
+iii. Adobe Firefly Generative AI for L.A. City Content Creators
+1. Adobe Firefly is a sophisticated AI development tool to ideate,
+create, and communicate for City of Los Angeles content
+creators (e.g. Graphic Designers, Web Developers, etc)
+2. Adobe Firefly will be trained to and turned on for all Adobe
+Creative Cloud licenses, focusing on Graphic Designers, Website
+Developers, and Public Information Officers
+b. Pilot Additional-Cost AI Tools for IT Developers
+i. Microsoft GitHub CoPilot for Developers (30 users)
+1. Solicit 30 volunteers across City departments to learn and use
+GitHub CoPilot for software development, focusing on
+Programmer/Analysts and Systems Programmers
+c. Examine More Complex AI Tools (AIaaS & Vendor-Built Custom Tools)
+i. Establish plans for the research and development of high-value AI
+projects, including:
+1. MyLA311 mobile application AI tool
+a. Implement Amazon Web Services (AWS) Vision
+AI tool into the MyLA311 mobile app, allowing
+residents to take a photo of an urban issue and
+let the app auto-populate the category, location,
+description, etc
+b. Will initially focus on Top 5 most popular
+MyLA311 service requests (Illegal Dumping,
+Graffiti, Bulky Item Pickup, etc)
+c. This functionality will be researched and
+incorporated into MyLA 311 Modernization
+project that will start this year
+2. 3-1-1 Call Center AI Virtual Agent
+a. Implement Amazon Web Services (AWS) Connect
+Virtual Agent tool to assist 3-1-1 Call Center
+Operators with simple service requests and
+reduce call wait times during peak times
+b. This functionality will researched and
+incorporated into 3-1-1 Call Center
+Modernization project that will start this year
+ii. Survey City Department leadership teams to identify AI use cases in
+their department
+iii. Survey City department IT managers and facilitate vendor
+demonstrations of complex AI tools through citywide I.T. Policy
+Committee, such as AI customer service agents, data analysis &
+performance management tools, smart city tools, business process
+automation, environmental sustainability, etc.
+iv. Utilize the existing ITA Data Analytics & Artificial Intelligence bench
+contracts for departments seeking to initiate complex artificial
+intelligence projects using artificial intelligence as-a-service Cloud
+tools and custom-built vendor solutions
+3. Build Additional AI Safeguards at the City of L.A. | March - August 2024
+a. Publish Citywide Digital Code of Ethics (Emerging Technology Guidelines)
+i. Develop and publish a citywide Digital Code of Ethics that articulates
+City of Los Angeles’ ethical standards and principles in the use of
+technology and data for our residents, providing guidance to all City
+departments
+ii. Include core values (Human-Centric, Equitable, Transparent, Secure,
+and Sustainable) and digital standards applicable to all LA City
+departments
+iii. Detail guidelines in the use of emerging technologies, across 10
+emerging technology areas:
+1. Artificial Intelligence & Machine Learning,
+2. Blockchain,
+3. Data Analytics,
+4. Digital Assistants,
+5. Drones,
+6. Facial Recognition,
+7. Healthcare Data,
+8. Internet of Things,
+9. Social Media,
+10. Virtual/Augmented Reality
+b. Incorporate AI into City’s Existing Acceptable Use Policy (AI Usage)
+i. Every employee reviews and signs the City of Los Angeles
+Acceptable Use Policy
+ii. Artificial intelligence instructions will be added to the existing
+Technology Usage Policy to ensure employee awareness and
+compliance
+c. Develop & Publish an AI Playbook for IT Developers
+i. Develop an AI Playbook for IT Developers across the City of Los
+Angeles, including:
+1. Definitions of Artificial Intelligence
+2. AI Technologies and Models
+3. AI Frameworks
+4. AI Benefits
+5. AI Potential Issues
+6. AI Use Cases
+7. AI Implementation Roadmap
+8. Existing AI Contracts & Resources
+
+d. Incorporate AI into Information Security Policy (AI Data Privacy)
+i. Every City department reviews and adheres to the City of Los
+Angeles Information Security Policy, including data handling and
+privacy instructions
+ii. Artificial intelligence instructions will be added to the existing
+Information Security Policy for department awareness and
+compliance
+
+Artificial intelligence offers tremendous opportunities and issues for the City of
+Los Angeles. Through the effective and responsible use of artificial intelligence,
+City of Los Angeles departments can deliver greater services and benefits to the
+residents, businesses, and visitors of Los Angeles. The research,
+recommendations, and roadmap found in this report is a responsible and
+promising start to the journey of using artificial intelligence.

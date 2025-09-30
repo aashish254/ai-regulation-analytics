@@ -1,0 +1,191 @@
+ S. 2677
+
+
+To improve certain programs of the Small Business Administration to better assist small business customers in accessing broadband technology, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+July 27, 2023
+
+
+Mrs. Shaheen (for herself, Mr. Kennedy, Mr. Markey, Mr. Risch, and Ms. Hirono) introduced the following bill; which was read twice and referred to the Committee on Small Business and Entrepreneurship
+
+
+A BILL
+To improve certain programs of the Small Business Administration to better assist small business customers in accessing broadband technology, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Small Business Broadband and Emerging Information Technology Enhancement Act of 2023”.
+
+ SEC. 2. BROADBAND AND EMERGING INFORMATION TECHNOLOGY COORDINATOR.
+
+
+The Small Business Act (15 U.S.C. 631 et seq.) is amended—
+
+
+(1) by redesignating section 49 (15 U.S.C. 631 note) as section 50; and
+
+
+(2) by inserting after section 48 (15 U.S.C. 657u) the following:
+
+
+“SEC. 49. BROADBAND AND EMERGING INFORMATION TECHNOLOGY.
+
+
+“(a) Definitions.—In this section—
+
+
+“(1) the term ‘Associate Administrator’ means the Associate Administrator for the Office of Investment and Innovation;
+
+
+“(2) the term ‘broadband’ means—
+
+
+“(A) high-speed wired broadband internet; and
+
+
+“(B) high-speed wireless internet;
+
+
+“(3) the term ‘broadband and emerging information technology coordinator’ means the employee designated to carry out the broadband and emerging information technology coordination responsibilities of the Administration under subsection (b)(1); and
+
+
+“(4) the term ‘emerging information technology’ includes—
+
+
+“(A) data science technologies such as artificial intelligence and machine learning;
+
+
+“(B) Internet of Things;
+
+
+“(C) distributed ledger technologies such as blockchain;
+
+
+“(D) cloud computing and software as a system technologies;
+
+
+“(E) computer numerical control technologies such as 3D printing; and
+
+
+“(F) robotics and automation.
+
+ “(b) Assignment Of Coordinator.—
+
+
+“(1) ASSIGNMENT OF COORDINATOR.—The Associate Administrator shall designate a senior employee of the Office of Investment and Innovation to serve as the broadband and emerging information technology coordinator, who—
+
+
+“(A) shall report to the Associate Administrator;
+
+
+“(B) shall work in coordination with—
+
+
+“(i) the chief information officer, the chief technology officer, and the head of the Office of Technology of the Administration; and
+
+
+“(ii) any other Associate Administrator of the Administration determined appropriate by the Associate Administrator;
+
+
+“(C) has experience developing and implementing telecommunications policy in the private sector or government; and
+
+
+“(D) has demonstrated significant experience in the area of broadband or emerging information technology.
+
+
+“(2) RESPONSIBILITIES OF COORDINATOR.—The broadband and emerging information technology coordinator shall—
+
+
+“(A) coordinate programs of the Administration that assist small business concerns in adopting, making innovations in, and using broadband and other emerging information technologies;
+
+
+“(B) serve as the primary liaison of the Administration to other Federal agencies involved in broadband and emerging information technology policy, including the Department of Commerce, the Department of Agriculture, the Department of the Treasury, and the Federal Communications Commission;
+
+
+“(C) identify best practices relating to broadband and emerging information technology that may benefit small business concerns; and
+
+
+“(D) identify and catalog tools and training available through the resource partners of the Administration that assist small business concerns in adopting, making innovations in, and using broadband and emerging information technologies.
+
+
+“(3) TRAVEL.—Not more than 20 percent of the hours of service by the broadband and emerging information technology coordinator during any fiscal year shall consist of travel outside the United States to perform official duties.
+
+ “(c) Broadband And Emerging Information Technology Training.—The broadband and emerging information technology coordinator shall provide to employees of the Administration training that—
+
+
+“(1) familiarizes employees of the Administration with broadband and other emerging information technologies;
+
+
+“(2) includes—
+
+
+“(A) instruction on counseling small business concerns regarding adopting, making innovations in, and using broadband and other emerging information technologies; and
+
+
+“(B) information on programs of the Federal Government that provide assistance to small business concerns relating to broadband and emerging information technologies; and
+
+
+“(3) to maximum extent practicable, uses the tools and training cataloged and identified under subsection (b)(2)(D).
+
+ “(d) Reports.—
+
+
+“(1) BIENNIAL REPORT ON ACTIVITIES.—Not later than 2 years after the date on which the Associate Administrator makes the first designation of an employee under subsection (b), and every 2 years thereafter, the broadband and emerging information technology coordinator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the programs and activities of the Administration relating to broadband and other emerging information technologies.
+
+
+“(2) IMPACT OF BROADBAND AVAILABILITY, SPEED, AND PRICE AND EMERGING INFORMATION TECHNOLOGY DEPLOYMENT ON SMALL BUSINESSES.—
+
+
+“(A) IN GENERAL.—Subject to appropriations, the Chief Counsel for Advocacy shall conduct a study evaluating the impact of—
+
+
+“(i) broadband availability, speed, and price on small business concerns; and
+
+
+“(ii) emerging information technology deployment on small business concerns.
+
+
+“(B) REPORT.—Not later than 3 years after the date of enactment of the Small Business Broadband and Emerging Information Technology Enhancement Act of 2023, the Chief Counsel for Advocacy shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Energy and Commerce and the Committee on Small Business of the House of Representatives a report on the results of the study under subparagraph (A), including—
+
+
+“(i) a survey of broadband speeds available to small business concerns;
+
+
+“(ii) a survey of the cost of broadband speeds available to small business concerns;
+
+
+“(iii) a survey of the type of broadband technology used by small business concerns;
+
+
+“(iv) a survey of the types of emerging information technologies used by small business concerns; and
+
+
+“(v) any policy recommendations that may improve the access of small business concerns to broadband services or emerging information technologies.”.
+
+ SEC. 3. ENTREPRENEURIAL DEVELOPMENT.
+
+
+Section 21(c)(3)(B) of the Small Business Act (15 U.S.C. 648(c)(3)(B)) is amended—
+
+
+(1) in the matter preceding clause (i), by inserting “accessing broadband and other emerging information technology,” after “technology transfer,”;
+
+
+(2) in clause (ii), by striking “and” at the end;
+
+
+(3) in clause (iii), by adding “and” at the end; and
+
+
+(4) by adding at the end the following:
+
+
+“(iv) increasing the competitiveness and productivity of small business concerns by assisting entrepreneurs in accessing broadband and other emerging information technology;”.

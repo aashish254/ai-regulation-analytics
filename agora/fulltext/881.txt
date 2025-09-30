@@ -1,0 +1,46 @@
+SECTION 1. SHORT TITLES.
+This Act may be cited as the “Contraband Awareness Technology Catches Harmful Fentanyl Act” or the “CATCH Fentanyl Act”.SEC. 2. DEFINITIONS.
+In this Act:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+(B) the Committee on Homeland Security of the House of Representatives.
+(2) ARTIFICIAL INTELLIGENCE; AI.—The terms “artificial intelligence” and “AI” have the meaning given the term “artificial intelligence” in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4061 note).
+(3) CBP INNOVATION TEAM.—The term “CBP Innovation Team” means the U.S. Customs and Border Protection Innovation Team within the Office of the Commissioner.
+(4) NONINTRUSIVE INSPECTION TECHNOLOGY; NII TECHNOLOGY.—The terms “nonintrusive inspection technology” and “NII technology” means technical equipment and machines, such as X-ray or gamma-ray imaging equipment, that allow cargo inspections without the need to open the means of transport and unload the cargo.
+(5) PILOT PROJECTS.—The term “pilot projects” means the projects required under section 3(a) for testing and assessing the use of technologies to improve the inspection process at land ports of entry.SEC. 3. PILOT PROJECTS ALLOWING ADDITIONAL TECHNOLOGY PROVIDERS TO PARTICIPATE IN INSPECTING CARS, TRUCKS, AND CARGO CONTAINERS AT CERTAIN PORTS OF ENTRY.
+(a) Establishment.—
+(1) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security, acting through CBP Innovation Team, and in coordination with the Office of Field Operations, shall begin the implementation of pilot projects for testing and assessing the use of technologies or technology enhancements to improve the process for inspecting, including by increasing efficiencies of such inspections, any conveyance or mode of transportation at land ports of entry along the borders of the United States. The technologies or technology enhancements tested and assessed under the pilot projects shall be for the purpose of assisting U.S. Customs and Border Protection personnel to detect contraband, illegal drugs, illegal weapons, and threats on inbound and outbound traffic, in conjunction with the use of imaging equipment, radiation portal monitors, and chemical detectors.(2) REQUIREMENTS.—
+(A) IN GENERAL.—In implementing the pilot projects at ports of entry, the CBP Innovation Team shall test and collect data regarding not fewer than 5 types of nonintrusive inspection technology enhancements that can be deployed at land ports of entry. The CBP Innovation Team shall test technology enhancements from not fewer than 1 of the following categories:
+(i) Artificial intelligence.
+(ii) Machine learning.
+(iii) High-performance computing.
+(iv) Quantum information sciences, including quantum sensing.
+(v) Other emerging technology.(B) IDENTIFICATION OF EFFECTIVE ENHANCEMENTS.—The pilot projects shall identify the most effective types of technology enhancements to improve the capabilities of nonintrusive inspection systems and other inspection systems used at land ports of entry based on—
+(i) the technology enhancement's ability to assist U.S. Customs and Border Protection accurately detect contraband, illegal drugs, illegal weapons, or threats in inbound and outbound traffic;
+(ii) the technology enhancement's ability to increase efficiencies of inspections to assist U.S. Customs and Border Protection address long wait times;
+(iii) the technology enhancement's ability to improve capabilities of aging detection equipment and infrastructure at land ports of entry;
+(iv) the technology enhancement’s safety relative to As Low As Reasonably Achievable (ALARA) standard practices;
+(v) the expected cost of implementing the new technology;
+(vi) the ability to integrate the new technology into the existing workflow and infrastructure;
+(vii) the technology enhancement’s ability to incorporate automatic threat recognition technology using standard formats and open architecture;
+(viii) the mobility of technology enhancements; and
+(ix) other performance measures identified by the CBP Innovation Team.(C) PRIVATE SECTOR INVOLVEMENT.—The CBP Innovation Team may solicit input from representatives of the private sector regarding commercially viable technologies.
+(3) NONINTRUSIVE INSPECTION SYSTEMS PROGRAM.—The CBP Innovation Team shall work with existing nonintrusive inspection systems programs within U.S. Customs and Border Protection when planning and developing the pilot projects required under paragraph (1).(b) Termination.—The pilot projects shall terminate on the date that is 5 years after the date of the enactment of this Act.(c) Reports Required.—Not later than 3 years after the date of the enactment of this Act, and 180 days after the termination of the pilot projects pursuant to subsection (b), the Secretary of Homeland Security shall submit a report to the appropriate congressional committees that contains—
+(1) an analysis of the effectiveness of technology enhancements tested based on the requirements described in subsection (a)(2);
+(2) any recommendations from the testing and analysis concerning the ability to utilize such technologies at all land ports of entry;
+(3) a plan to utilize new technologies that meet the performance goals of the pilot projects across all U.S. Customs and Border Protection land ports of entry at the border, including total costs and a breakdown of the costs of such plan, including any infrastructure improvements that may be required to accommodate recommended technology enhancements; and
+(4) the analysis described in subsection (d).(d) Areas Of Analysis.—The report required under subsection (c) shall include an analysis containing—
+(1) quantitative measurements of performance based on the requirements described in subsection (a)(2) of each technology tested compared with the status quo to reveal a broad picture of the performance of technologies and technology enhancements, such as—
+(A) the probability of detection, false alarm rate, and throughput; and
+(B) an analysis determining whether such observed performance represents a significant increase, decrease, or no change compared with current systems;
+(2) an assessment of the relative merits of each such technology;
+(3) any descriptive trends and patterns observed; and
+(4) performance measures for—
+(A) the technology enhancement's ability to assist with the detection of contraband on inbound and outbound traffic through automated (primary) inspection by measuring and reporting the probability of detection and false alarm rate for each NII system under operational conditions;
+(B) the throughput of cargo through each NII system with a technology enhancement, including a breakdown of the time needed for U.S. Customs and Border Protection—
+(i) to complete the image review process and clear low-risk shipments; and
+(ii) to complete additional inspections of high-risk items;
+(C) changes in U.S. Customs and Border Protection officer time commitments and personnel needs to sustain high volume NII scanning operations when technology enhancements are utilized; and
+(D) operational costs, including—
+(i) estimated implementation costs for each NII system with technology enhancements; and
+(ii) estimated cost savings due to improved efficiency due to technology enhancements, if applicable.

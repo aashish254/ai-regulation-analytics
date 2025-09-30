@@ -1,0 +1,43 @@
+Consensus Statement on Red Lines in Artificial Intelligence
+
+Unsafe development, deployment, or use of AI systems may pose catastrophic or even existential risks to humanity within our lifetimes. These risks from misuse and loss of control could increase greatly as digital intelligence approaches or even surpasses human intelligence.
+
+In the depths of the Cold War, international scientific and governmental coordination helped avert thermonuclear catastrophe. Humanity again needs to coordinate to avert a catastrophe that could arise from unprecedented technology. In this consensus statement, we propose red lines in AI development as an international coordination mechanism, including the following non-exhaustive list. At future International Dialogues we will build on this list in response to this rapidly developing technology.
+
+Autonomous Replication or Improvement
+No AI system should be able to copy or improve itself without explicit human approval and assistance. This includes both exact copies of itself as well as creating new AI systems of similar or greater abilities.
+
+Power Seeking
+No AI system should take actions to unduly increase its power and influence.
+
+Assisting Weapon Development
+No AI systems should substantially increase the ability of actors to design weapons of mass destruction, or violate the biological or chemical weapons convention.
+
+Cyberattacks
+No AI system should be able to autonomously execute cyberattacks resulting in serious financial losses or equivalent harm.
+
+Deception
+No AI system should be able to consistently cause its designers or regulators to misunderstand its likelihood or capability to cross any of the preceding red lines.
+ 
+Roadmap to Red Line Enforcement
+
+Ensuring these red lines are not crossed is possible, but will require a concerted effort to develop both improved governance regimes and technical safety methods.
+
+Governance
+Comprehensive governance regimes are needed to ensure red lines are not breached by developed or deployed systems. We should immediately implement domestic registration for AI models and training runs above certain compute or capability thresholds. Registrations should ensure governments have visibility into the most advanced AI in their borders and levers to stem distribution and operation of dangerous models.
+
+Domestic regulators ought to adopt globally aligned requirements to prevent crossing these red lines. Access to global markets should be conditioned on domestic regulations meeting these global standards as determined by an international audit, effectively preventing development and deployment of systems that breach red lines.
+
+We should take measures to prevent the proliferation of the most dangerous technologies while ensuring broad access to the benefits of AI technologies. To achieve this we should establish multilateral institutions and agreements to govern AGI development safely and inclusively with enforcement mechanisms to ensure red lines are not crossed and benefits are shared broadly.
+
+Measurement and Evaluation
+We should develop comprehensive methods and techniques to operationalize these red lines prior to there being a meaningful risk of them being crossed. To ensure red line testing regimes keep pace with rapid AI development, we should invest in red teaming and automating model evaluation with appropriate human oversight.
+
+The onus should be on developers to convincingly demonstrate that red lines will not be crossed such as through rigorous empirical evaluations, quantitative guarantees or mathematical proofs.
+
+Technical Collaboration
+The international scientific community must work together to address the technological and social challenges posed by advanced AI systems. We encourage building a stronger global technical network to accelerate AI safety R&D and collaborations through visiting researcher programs and organizing in-depth AI safety conferences and workshops. Additional funding will be required to support the growth of this field: we call for AI developers and government funders to invest at least one third of their AI R&D budget in safety.
+ 
+Conclusion
+
+Decisive action is required to avoid catastrophic global outcomes from AI. The combination of concerted technical research efforts with a prudent international governance regime could mitigate most of the risks from AI, enabling the many potential benefits. International scientific and government collaboration on safety must continue and grow.

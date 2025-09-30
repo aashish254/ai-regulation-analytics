@@ -1,0 +1,25 @@
+ SEC. 14. AUTOMATION AND ARTIFICIAL INTELLIGENCE.
+
+
+(a) Definition.—In this section, the term “information system” has the meaning given the term in section 3502 of title 44, United States Code.
+
+
+ (b) Use Of Artificial Intelligence.—
+
+
+(1) IN GENERAL.—As appropriate, the Director shall issue guidance on the use of artificial intelligence by agencies to improve the cybersecurity of information systems.
+
+
+(2) CONSIDERATIONS.—The Director and head of each agency shall consider the use and capabilities of artificial intelligence systems wherever automation is used in furtherance of the cybersecurity of information systems.
+
+
+(3) REPORT.—Not later than 1 year after the date of enactment of this Act, and annually thereafter until the date that is 5 years after the date of enactment of this Act, the Director shall submit to the appropriate congressional committees a report on the use of artificial intelligence to further the cybersecurity of information systems.
+
+
+ (c) Comptroller General Reports.—
+
+
+(1) IN GENERAL.—Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the risks to the privacy of individuals and the cybersecurity of information systems associated with the use by Federal agencies of artificial intelligence systems or capabilities.
+
+
+(2) STUDY.—Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall perform a study, and submit to the Committees on Homeland Security and Governmental Affairs and Commerce, Science, and Transportation of the Senate and the Committees on Oversight and Accountability, Homeland Security, and Science, Space, and Technology of the House of Representatives a report, on the use of automation, including artificial intelligence, and machine-readable data across the Federal Government for cybersecurity purposes, including the automated updating of cybersecurity tools, sensors, or processes employed by agencies under paragraphs (1), (5)(C), and (8)(B) of section 3554(b) of title 44, United States Code, as amended by this Act.

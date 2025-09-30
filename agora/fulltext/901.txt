@@ -1,0 +1,30 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Protect Victims of Digital Exploitation and Manipulation Act of 2024”.SEC. 2. DIGITAL FORGERIES OF INTIMATE VISUAL DEPICTIONS.
+(a) In General.—Chapter 88 of title 18, United States Code, is amended by adding at the end the following:
+“§ 1802. Prohibition of production or distribution of digital forgeries of intimate visual depictions of identifiable individuals“(a) Offense.—Except as provided in subsection (b), whoever knowingly or recklessly produces or distributes, or causes to be produced or distributed, in or affecting interstate or foreign commerce or using any means, channel, facility, or instrumentality of interstate or foreign commerce, a digital forgery of an identifiable individual, without the consent of the identifiable individual shall be fined under this title, imprisoned not more than 5 years, or both.“(b) Exceptions.—
+“(1) IN GENERAL.—This section shall not apply with respect to a distribution made in good faith—
+“(A) to a law enforcement officer or agency;
+“(B) as part of a legal proceeding;
+“(C) as part of medical education, diagnosis, or treatment; or
+“(D) in the reporting or investigation of—
+“(i) unlawful content; or
+“(ii) unsolicited or unwelcome conduct.
+“(2) SERVICE PROVIDERS.—This section shall not apply to any provider of a communications service with regard to content provided by another information content provider unless the provider of the communications service knowingly or recklessly distributes content in violation of this section.“(c) Definitions.—In this section:
+“(1) CONSENT.—The term ‘consent’ means an affirmative, conscious, competent, and voluntary authorization made by the individual free from force, fraud, misrepresentation, or coercion, whether or not the individual is a public figure.
+“(2) DIGITAL FORGERY.—The term ‘digital forgery’ means any intimate visual depiction of an individual created through the use of software, machine learning, artificial intelligence, or any other computer-generated means, including by adapting, modifying, manipulating, or altering an authentic visual depiction, to appear to a reasonable person to be an authentic visual depiction of the individual.
+“(3) IDENTIFIABLE INDIVIDUAL.—The term ‘identifiable individual’ means an individual whose body appears in whole or in part in an intimate visual depiction and who is identifiable by virtue of the person’s face, likeness, or other distinguishing characteristic, such as a unique birthmark or other recognizable feature, or from information displayed in connection with the visual depiction.
+“(4) INTIMATE VISUAL DEPICTION.—The term ‘intimate visual depiction’ means a visual depiction, as that term is defined in section 2256(5) of title 18, that depicts—
+“(A) the uncovered genitals, pubic area, anus, or female nipple of an identifiable individual;
+“(B) the display or transfer of bodily sexual fluids—
+“(i) on to any part of the body of an identifiable individual; or
+“(ii) from the body of an identifiable individual; or
+“(C) an identifiable individual engaging in sexually explicit conduct.
+“(5) SEXUALLY EXPLICIT CONDUCT.—The term ‘sexually explicit conduct’ has the meaning given the term in subparagraph (A) of section 2256(2) of title 18.
+“(6) COMMUNICATIONS SERVICE.—The term ‘communications service’ means—
+“(A) a service provided by a person that is a common carrier, as that term is defined in section 3 of the Communications Act of 1934 (47 U.S.C. 153), insofar as the person is acting as a common carrier;
+“(B) an electronic communication service, as that term is defined in section 2510;
+“(C) an information service, as that term is defined in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and
+“(D) an interactive computer service, as that term is defined in section 230(f) of the Communications Act of 1934 (47 U.S.C. 230(f)).
+“(7) INFORMATION CONTENT PROVIDER.—The term ‘information content provider’ has the meaning given such term in section 230(f) of the Communications Act of 1934 (47 U.S.C. 230(f)).“(d) Extraterritoriality.—There is extraterritorial Federal jurisdiction over an offense under this section if the alleged offender or the identifiable individual is a national of the United States (as defined in section 1101(a)(22) of title 8).”.(b) Clerical Amendment.—The table of sections for chapter 88 of title 18, United States Code, is amended by adding at the end the following:
+“1802. Prohibition of production or distribution of digital forgeries of intimate visual depictions of identifiable individuals.”.SEC. 3. SEVERABILITY.
+The provisions of this Act shall be severable. If any provision of this Act, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of the Act not so adjudicated.

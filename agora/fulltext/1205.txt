@@ -1,0 +1,242 @@
+A BILL
+To amend section 3520A of title 44, United States Code, to extend the Chief Data Officer Council's sunset and add new authorities for improving Federal agency data governance, including to enable reliable and secure adoption of emerging technologies and artificial intelligence, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Modernizing Data Practices to Improve Government Act”.
+
+SEC. 2. Amendments.
+
+
+(a) In general.—Section 3520A of title 44, United States Code, is amended—
+
+
+(1) by striking subsections (d) and (e);
+
+
+(2) by redesignating subsections (a) through (c) as subsections (b) through (d), respectively;
+
+
+(3) by inserting before subsection (b), as so redesignated, the following:
+
+
+“(a) Definitions.—In this section:
+
+
+“(1) ARTIFICIAL INTELLIGENCE.—The term ‘artificial intelligence’—
+
+
+“(A) has the meaning given that term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401); and
+
+
+“(B) includes the artificial systems and techniques described in paragraphs (1) through (5) of section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4061 note prec.).
+
+
+“(2) DATA GOVERNANCE.—The term ‘data governance’—
+
+
+“(A) means the approach of an agency to managing data during the lifecycle of the data, from acquisition, to use, to disposal; and
+
+
+“(B) includes—
+
+
+“(i) all actions an agency must take and the technology and processes an agency must use to ensure data is secure, private, accurate, available, and usable; and
+
+
+“(ii) authorities, roles, responsibilities, organizational structures, policies, procedures, standards, and resources for the definition, stewardship, production, security provenance, and use of data.
+
+
+“(3) USE CASE.—The term ‘use case’ means a description of the ways and circumstances in which a technology is deployed to perform a specific function.”;
+
+(4) in subsection (c), as so redesignated—
+
+
+(A) by redesignating paragraph (5) as paragraph (6);
+
+
+(B) in paragraph (4), by striking the “and” at the end; and
+
+
+(C) by inserting after paragraph (4) the following:
+
+
+“(5) identify opportunities and procedures to improve data governance to—
+
+
+“(A) ensure the data of agencies are transparent, accessible, and of sufficient quality for the intended use of the data; and
+
+
+“(B) support agency heads and their efforts to reliably and securely leverage emerging technologies and artificial intelligence, to ensure mission outcomes and improve operational efficiency across agencies; and”;
+
+(5) in subsection (d)(3), as so redesignated—
+
+
+(A) by striking “The Administrator” and inserting the following:
+
+
+“(A) ADMINISTRATOR OF THE OFFICE OF ELECTRONIC GOVERNMENT.—The Administrator”; and
+
+
+(B) by inserting after subparagraph (A), as so designated, the following:
+
+
+“(B) APPOINTED MEMBERS.—The Director shall appoint a representative from among Chief Artificial Intelligence Officers to serve on the Council.”; and
+
+(6) by adding at the end the following:
+
+
+“(e) Data governance reports.—The Council shall submit to the Director, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Accountability of the House of Representatives—
+
+
+“(1) a biennial report on the work of the Council, including any updates to the recommendations provided in the report required under paragraph (2) of this subsection;
+
+
+“(2) not later than 1 year after the date of enactment of this subsection, a report with recommendations and best practices for agencies on developing datasets, data governance policies, and infrastructure to enable adoption and use of emerging technologies and artificial intelligence, including for use in training, testing, and operation of artificial intelligence within agencies that includes—
+
+
+“(A) an assessment of key data governance and sharing challenges preventing adoption of emerging technologies and artificial intelligence across agencies;
+
+
+“(B) an assessment of ways to strengthen and clarify roles and responsibilities related to data governance between senior agency leaders, including the Chief Information Officer, the Chief Information Security Officer, the Chief Financial Officer, the Chief Privacy Officer, the Chief Artificial Intelligence Officer, and the Chief Acquisition Officer;
+
+
+“(C) recommendations for data governance best practices, including—
+
+
+“(i) best practices to ensure data used for testing, training, and operation of artificial intelligence is reliable, relevant to the task, representative of the impacted individuals of the artificial intelligence system, transparent, high quality, and protects the privacy and personally identifiable information of individuals; and
+
+
+“(ii) defining key data standards, including data quality;
+
+
+“(D) a prioritization of agency artificial intelligence use cases that address a critical need across the Federal Government, for which new or shared datasets are needed to support adoption;
+
+
+“(E) identification of existing data available to 1 or more agencies that would benefit other such agencies if the data were shared or made available;
+
+
+“(F) recommendations for ways to address increases in risks, including through training of relevant agency employees, associated with—
+
+
+“(i) the potential for misuse of, mismanagement of, and unauthorized access to data and personally identifiable information of individuals when an agency leverages data for use in artificial intelligence, including identification of software or hardware solutions, technical processes, techniques, or other technological means of mitigating privacy risks arising from data processing; or
+
+
+“(ii) increasing access to the data of the agency for the purposes of supporting a cross-Government mission;
+
+
+“(G) recommendations for data ownership and retention policies and procedures, including policies and procedures to ensure that agency contracts to procure artificial intelligence include any necessary clauses to ensure that the Federal Government—
+
+
+“(i) retains sufficient rights to data, and any modifications to that data;
+
+
+“(ii) avoids vendor lock-in and retains the ability to facilitate or conduct the continued design, development, testing, and operation of artificial intelligence by the Federal Government; and
+
+
+“(iii) can conduct pre-procurement reviews of artificial intelligence to assess potential error issues;
+
+
+“(H) criteria agencies should consider when using data to train artificial intelligence used by agencies, including recommendations for—
+
+
+“(i) ways to increase transparency of training data for the public and for agency employees using the relevant artificial intelligence system software;
+
+
+“(ii) processes and procedures to analyze and test training data for potential risks;
+
+
+“(iii) criteria for determining how to preserve the interests of the Federal Government; and
+
+
+“(iv) performance evaluation metrics to ensure that an artificial intelligence system performs as intended;
+
+
+“(I) recommendations for ways to expand public access to Federal data assets in a machine-readable format while also taking into account security considerations, including the risk that, while information in an individual data asset may not pose a security risk in isolation, such information could pose a security risk when combined with other data assets;
+
+
+“(J) recommendations for defining, generating, using, and ensuring the privacy and security of synthetic data in the Federal Government, including—
+
+
+“(i) a formalized definition of synthetic data generation for government use, including specifying definitions for data which is fully or partially synthetic;
+
+
+“(ii) guidance for agencies on best practices around synthetic data generation and use, including tools or techniques agencies should take to—
+
+
+“(I) mitigate privacy and security risks;
+
+
+“(II) ensure agencies practice appropriate processes to ensure the accuracy and quality of synthetic data and the appropriateness for the intended use of the synthetic data by the agency;
+
+
+“(III) adopt the appropriate techniques to validate synthetic data, including data profiling, data consistency, data integrity, and data documentation; and
+
+
+“(IV) communicate opportunities, risks, and limitations of synthetic data internally to agencies and externally to the public;
+
+
+“(iii) opportunities across the Federal Government and within specific agencies for embracing or avoiding the use of synthetic data; and
+
+
+“(iv) opportunities for the Federal Government to partner with public and private sector entities in the development and sharing of data, including synthetic data, to help in the adoption of emerging technologies and artificial intelligence; and
+
+
+“(K) for subparagraphs (A) through (J), an indication of how agencies can incorporate the respective recommendations and best practices into existing agency processes and statutory requirements.
+
+“(f) Data governance guidance.—The Director, upon receipt of a report required under subsection (e), may issue guidance to agencies with respect to the implementation of the recommendations of the report.
+
+
+“(g) Data management report.—Not later than 270 days after the date of enactment of this subsection, the Director, in consultation with the Council, shall submit to Congress an annual report with recommendations to clarify and enhance the roles of the Chief Data Officers across the Federal Government relating to data governance for artificial intelligence, including—
+
+
+“(1) an inventory of all Chief Data Officers of agencies, including, with respect to each agency—
+
+
+“(A) any additional roles or titles the Chief Data Officer holds at the agency;
+
+
+“(B) the organizational structure of the agency, including any official to whom the Chief Data Officer reports to within the agency; and
+
+
+“(C) the respective roles, responsibilities, and statutory authorities relating to data and artificial intelligence of the Chief Data Officer at the agency;
+
+
+“(2) an identification of skills and resources needed by Chief Data Officers and their staffs to support artificial intelligence system adoption at agencies; and
+
+
+“(3) recommendations for suggested collaboration opportunities between the Council and other interagency councils to improve data governance best practices across government, including—
+
+
+“(A) the Chief Financial Officers Council;
+
+
+“(B) the Chief Human Capital Officers Council;
+
+
+“(C) the Chief Acquisition Officers Council;
+
+
+“(D) the Federal Privacy Council;
+
+
+“(E) the Chief Information Officers Council; and
+
+
+“(F) other key groups of the Federal Government.
+
+“(h) Evaluation.—Not later than 2 years after the date of enactment of this subsection, and not less frequently than once every 2 years thereafter, the Comptroller General shall submit to Congress a report on—
+
+
+“(1) whether the duties of the Council improved the use of evidence and program evaluation in the Federal Government; and
+
+
+“(2) any barriers or challenges preventing the Council from accomplishing the objectives under this section or the amendments made by the Modernizing Data Practices to Improve Government Act.”.
+
+
+(b) Sunset.—Beginning on the date that is 7 years after the date of enactment of this Act, the amendments made by this Act shall have no force or effect.

@@ -1,0 +1,134 @@
+SEC. 9. Rulemaking authority.
+
+(a) Additional reporting requirements.—
+
+(1) IN GENERAL.—In consultation with the NSF, the Commission may, in accordance with section 553 of title 5, United States Code, and subject to subsection (g), issue regulations that require platforms to make available to qualified researchers data, metrics, or other information that the Commission determines will facilitate independent research in the public interest into activity on platforms.
+
+(2) FACTORS.—In exercising its authority under this subsection, the Commission shall consider the extent to which disclosures under this subsection may facilitate collaboration amongst qualified researchers and alleviate burdens on platforms and qualified researchers as compared to qualified research projects conducted pursuant to section 3.
+
+(3) FORM AND FREQUENCY; RETENTION OF INFORMATION.—The Commission shall specify in the regulations the required form and frequency of reporting or disclosures, as well as how long data, metrics, or other information should be retained and made available. It may require the information be provided in a form that is accessible for analysis by qualified researchers, such as through an application programming interface.
+
+(4) CONSULTATION.—The Commission shall further consult with the National Institutes of Health and other relevant government agencies, as appropriate, in exercising its authority under this subsection.
+
+(5) APPLICABILITY OF PRIOR SECTIONS.—For data made available to qualified researchers under this section, the Commission shall establish privacy and cybersecurity safeguards applicable to platforms and qualified researchers in the manner described in section 3 for data made available under that section. The obligations and immunities for platforms and qualified researchers described in sections 4 and 5 shall apply to data disclosed to qualified researchers under this section, and the provisions of section 7 may be invoked to enforce this section.
+(b) Transparency of certain content and user accounts.—
+
+(1) IN GENERAL.—Not later than 1 year after the date of enactment of this Act, the Commission shall, in accordance with section 553 of title 5, United States Code, and subject to subsection (g), issue regulations to require platforms to make available to the public on an ongoing basis, in a specific section of their online interface, through a searchable and reliable tool that allows multicriteria queries and through application programming interfaces, a repository containing information regarding reasonably public content on the platform that—
+
+(A) has been highly disseminated; or
+
+(B) was originated or spread by major public accounts.
+
+(2) DISCLOSURE OF PUBLIC CONTENT SAMPLINGS.—The regulations issued under paragraph (1) shall further require platforms to disclose on an ongoing basis statistically representative samplings of reasonably public content, including, at a minimum, a sampling that is weighted by the number of impressions the content receives.
+
+(3) REQUIRED INFORMATION.—The information required to be disclosed about content described in paragraphs (1) and (2) shall include, as appropriate—
+
+(A) the user-generated content itself, including any text, images, videos, links, and keywords;
+
+(B) platform-generated content displayed in connection with the user-generated content, including any dates, labels, disclaimers, or metrics;
+
+(C) metrics about the extent of dissemination of or engagement with the content, including the number of impressions, reach, and engagements;
+
+(D) information about the extent to which the content was recommended, amplified, or restricted by platform algorithms or policies;
+
+(E) reasonably public information about the user accounts responsible for the content; and
+
+(F) public uniform resource locators that uniquely link to the content and identify related materials such as the parent content, replying content, and cross-posted content.
+(4) HIGHLY DISSEMINATED CONTENT.—As part of the regulations issued under paragraph (1), the Commission shall define “highly disseminated” according to metrics that the Commission deems appropriate (which may include engagement, views, reach, impressions, or other metrics), provided that a piece of content must have been viewed by at least 10,000 unique users to qualify.
+
+(5) MAJOR PUBLIC ACCOUNTS.—As part of the regulations issued under paragraph (1), the Commission shall define “major public accounts” as it deems appropriate, provided that, at a minimum, “major public accounts” are restricted to reasonably public accounts whose content is followed by at least 25,000 users or otherwise regularly reaches at least 25,000 users per month.
+
+(6) TREATMENT OF CONTENT THAT HAS BEEN REMOVED.—The regulations described in paragraph (1) shall provide guidance regarding disclosure of content that is removed by the user or platform subsequent to its dissemination.
+
+(7) FREQUENCY.—To the extent practicable, the Commission shall require this information to be updated so as to provide a real-time understanding of the content described in paragraphs (1) and (2).
+(c) Transparency of advertising.—
+
+(1) IN GENERAL.—Not later than 1 year after the date of enactment of this Act, the Commission shall, in accordance with section 553 of title 5, United States Code, and subject to subsection (g), issue regulations to require platforms to disclose on an ongoing basis information regarding advertising on the platform. These regulations shall require platforms to compile and disclose publicly in a specific section of their online interface, through a searchable and reliable tool that allows multicriteria queries and through application programming interfaces, a repository containing the information referred to in paragraph (2), for the entire period during which they present an advertisement and until one year after the advertisement was presented for the last time on their online interfaces. Platforms shall ensure that the repository does not contain any personal information of the recipients of the service to whom the advertisement was or could have been presented.
+
+(2) INFORMATION REQUIRED.—The information required to be included in the repository required under paragraph (1) shall include at least all of the following information:
+
+(A) The content of the advertisement, including the name of the product, service or brand and the subject matter of the advertisement.
+
+(B) The natural or legal person on whose behalf the advertisement is presented.
+
+(C) The natural or legal person who paid for the advertisement, if that person is different from the person referred to in subparagraph (B).
+
+(D) The period during which the advertisement was presented.
+
+(E) Whether the advertisement was intended to be presented specifically to one or more particular groups of recipients of the service and if so, the main parameters used for that purpose including where applicable the main parameters used to exclude one or more of such particular groups.
+
+(F) The total number of recipients of the service reached and, where applicable, aggregate numbers broken down by group or groups of recipients that the advertisement specifically targeted.
+
+(G) Information about the extent to which the advertisement was recommended, amplified, or restricted by platform algorithms or policies.
+
+(3) TREATMENT OF REMOVED ADS.—The regulations described in paragraph (1) shall provide guidance regarding disclosure of ads that are removed by the user or platform subsequent to its dissemination.
+
+(4) FREQUENCY.—To the extent practicable, the Commission shall require this information to be updated so as to provide a real-time understanding of the content described in paragraph (2).
+(d) Transparency of algorithms and company metrics and data.—
+
+(1) IN GENERAL.—Not later than 1 year after enactment of this Act, the Commission shall, in accordance with section 553 of title 5, United States Code, and subject to subsection (g), issue regulations to require platforms to report publicly on their use of recommender or ranking algorithms and metrics.
+
+(2) REQUIRED INFORMATION.—The reporting required under paragraph (1) shall be at least semiannual and include, as appropriate—
+
+(A) a description of all consumer-facing product features that made use of recommender or ranking algorithms during the reporting period;
+
+(B) a summary of signals used as inputs to the described recommender or ranking algorithms, including an explanation of which rely on user data, an explanation of the types of user data relied upon, and ranked based on the significance of their impact on the algorithms’ outputs;
+
+(C) a summary of the processes or predictions used by the platform to assess the signals incorporated into the recommender or ranking algorithm and to score or rank content (such as predictions of future user engagement), ranked based on the significance of their impact on the algorithms’ outputs;
+
+(D) a summary of the optimization objectives of the described recommender or ranking algorithms;
+
+(E) a summary of metrics calculated by the platform to assess product changes or new features, or as a basis to assess performance or calculate employee or executive compensation, with an assessment of their relative importance in company decision making;
+
+(F) significant changes during the reporting period from the last report; and
+
+(G) other information about the recommender or ranking algorithms that the Commission deems appropriate.
+
+(3) IMPLEMENTATION.—In implementing this section, the Commission shall ensure that the reporting is useful and actionable while ensuring that platforms are not required to disclose trade secrets.
+(e) Transparency of content moderation and violating content.—
+
+(1) IN GENERAL.—Not later than 1 year after the date of enactment of this Act, the Commission shall, in accordance with section 553 of title 5, United States Code, and subject to subsection (g), issue regulations to require platforms to issue a public report on an ongoing basis information regarding content moderation and content violating platform policies.
+
+(2) REQUIRED INFORMATION.—The information required to be disclosed under paragraph (1) shall include, as appropriate—
+
+(A) statistics regarding the amount of content that the platform determined violated its policies, broken down by—
+
+(i) the violated policy;
+
+(ii) the action taken in response to the violation;
+
+(iii) the methods the platform used to identify the violating content (such as artificial intelligence, user report, human moderator review, or other means);
+
+(iv) the extent to which the content was recommended, amplified, or restricted by platform algorithms or policies; and
+(v) geographic and demographic factors as the Commission deems appropriate;
+
+(B) statistics regarding the number of times violating content was viewed by users and the number of users who viewed it;
+
+(C) estimates by the platform about the prevalence of violating content (including as measured by the number of impressions of violating content), broken down by—
+
+(i) the violated policy;
+
+(ii) geographic and demographic factors; and
+
+(iii) other factors the Commission deems appropriate; and
+
+(D) the number of orders received from governmental authorities, categorized by the type of violating content concerned, and the average time needed for taking the action specified in those orders.
+
+(f) Data dictionaries.—Not later than 1 year after the date of enactment of this Act, the Commission shall, in consultation with the NSF and in accordance with section 553 of title 5, United States Code, and subject to subsection (g), issue regulations to require platforms to disclose, and update periodically, data dictionaries to inform and facilitate researcher data access requests. Such data dictionaries shall include descriptions of significant datasets in the platform’s possession relating to content on, or users of, the platform, enforcement of content policy, or advertising, as necessary or appropriate to inform and facilitate researcher data access requests.
+(g) Privacy, confidentiality, and platform integrity.—The Commission shall ensure that any reporting or disclosures required pursuant to this section do not infringe upon reasonable expectations of personal privacy of users of platforms or of other persons, or require dissemination of trade secrets. If necessary, the Commission may require withholding of information otherwise required to be disclosed to meet this requirement. The Commission shall further consider the effect of disclosures on risks to platform integrity or the susceptibility of the platform to manipulation or inauthentic behavior, and may limit or reduce the information required to be disclosed if necessary to address a substantial such risk.
+
+(h) Variation.—In implementing this section, the Commission may vary the requirements it imposes on platforms based on the size of the platform and scope of its services.
+(i) Definitions.—In this section:
+
+(1) ENGAGEMENT.—The term “engagement” means, with respect to content on a platform, the number of times a user interacts with the content, whether through comments, indications of approval or disapproval (such as likes or dislikes), reshares, or any other form of active interaction.
+
+(2) IMPRESSION.—The term “impression” means, with respect to content on a platform, the display or delivery of the content to a user, regardless of whether the user engages with the content.
+
+(3) PREVALENCE OF VIOLATING CONTENT.—The term “prevalence of violating content” means a platform’s estimate of the number of impressions of content that violates its moderation policies among its users, regardless of whether the platform ever identifies that particular content as violating.
+
+(4) REACH.—The term “reach” means, with respect to content on a platform, the number of users to whom the content is displayed or delivered during a particular period, regardless of how many times it is delivered to them.
+(5) REAL-TIME UNDERSTANDING.—The term “real-time understanding” means an understanding of content on a platform that is up-to-date within less than 24 hours.
+
+(6) REASONABLY PUBLIC.—The term “reasonably public” means information that the author made available in a manner and under such circumstances such that the author does not retain a reasonable expectation of privacy in the information. The fact that a user may need to register or create an account with a platform to view information does not preclude it form being deemed reasonably public.
+
+(7) RECOMMENDER OR RANKING ALGORITHM.—The term “recommender or ranking algorithm” means a fully or partially automated system used by a platform to suggest in its online interface specific information to recipients of the service offered by the platform, or to prioritize that information, including as a result of a search initiated by the recipient of the service or otherwise determining the relative order or prominence of information displayed. This includes any computational process, including one derived from machine learning or other artificial intelligence techniques, that processes personal information or other data for the purpose of determining the order or manner that a set of information is provided, recommended to, or withheld from a user of a platform, including the provision of commercial content, the display of social media posts, recommendations of user or group accounts to follow or associate with, or any other method of content selection, amplification, or restriction.

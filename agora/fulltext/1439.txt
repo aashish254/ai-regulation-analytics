@@ -1,0 +1,79 @@
+AN ACT 
+Relating to artificial intelligence; and declaring an emergency. 
+
+
+Be It Enacted by the People of the State of Oregon: 
+
+
+SECTION 1. (1) The Task Force on Artificial Intelligence is established. 
+
+
+(2) The task force consists of 14 members appointed as follows: 
+(a) The President of the Senate shall appoint one member from among members of the Senate. 
+(b) The Speaker of the House of Representatives shall appoint one member from among members of the House of Representatives. 
+(c) The President of the Senate and the Speaker of the House of Representatives shall jointly appoint: 
+(A) Three members who represent business leagues, including trade or professional associations. 
+(B) Two members who represent public universities listed in ORS 352.002. 
+(C) One member who represents local governments. 
+(D) One member who represents consumer advocacy groups. 
+(E) One member who has expertise in ethics and technology. 
+(F) One member who is from the Legislative Fiscal Office. 
+(d) The Chief Justice of the Supreme Court shall appoint one member who is from the Judicial Department. 
+(e) One member shall be the Attorney General or a designee of the Attorney General. 
+(f) One member shall be the State Chief Information Officer or a designee of the State Chief Information Officer. 
+
+
+(3) The two members appointed from the Legislative Assembly may not be from the same political party. 
+
+
+(4) All voting members of the task force must have expertise in two or more of the following areas: 
+(a) Computer science. 
+(b) Artificial intelligence. 
+(c) Technology industries. 
+(d) Workforce development. 
+(e) Data privacy.
+
+
+(5) The task force shall examine and identify terms and definitions related to artificial intelligence that are used in technology-related fields and may be used for legislation. The task force shall begin its work by examining the terms and definitions used by the United States government and relevant federal agencies. The terms and definitions identified by the task force for use in legislation must align as closely as possible with terms and definitions used in federal rules. 
+
+
+(6) The task force shall seek input from a broad range of stakeholders, including stakeholders from institutions of higher education, consumer advocacy groups and small, medium and large businesses affected by artificial intelligence policies. 
+
+
+(7) A majority of the voting members of the task force constitutes a quorum for the transaction of business. 
+
+
+(8) Official action by the task force requires the approval of a majority of the voting members of the task force. 
+
+
+(9) The task force shall elect one of its members to serve as chairperson. 
+
+
+(10) If there is a vacancy for any cause, the appointing authority shall make an appointment to become immediately effective. 
+
+
+(11) The task force shall meet at times and places specified by the call of the chairperson or of a majority of the voting members of the task force. 
+
+
+(12) The task force may adopt rules necessary for the operation of the task force. 
+
+
+(13) The task force shall submit a report in the manner provided by ORS 192.245, and shall include recommendations for terms and definitions that may be used for state legislation, to an interim committee of the Legislative Assembly related to information management and technology no later than December 1, 2024. 
+
+
+(14) The Legislative Policy and Research Director shall provide staff support to the task force. 
+
+
+(15) The member who is from the Legislative Fiscal Office is a nonvoting member of the task force and may act in an advisory capacity only. 
+
+
+(16) Members of the task force who are not members of the Legislative Assembly are not entitled to compensation or reimbursement for expenses and serve as volunteers on the task force. 
+
+
+(17) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of the duties of the task force and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the members of the task force consider necessary to perform their duties. 
+
+
+SECTION 2. Section 1 of this 2024 Act is repealed on January 1, 2025. 
+
+
+SECTION 3. This 2024 Act being necessary for the immediate preservation of the public peace, health and safety, an emergency is declared to exist, and this 2024 Act takes effect on its passage.

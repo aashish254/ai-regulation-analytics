@@ -1,0 +1,92 @@
+ 88R14274 EAS-F
+ 
+By: Jetton        
+H.B. No. 4695
+ 
+A BILL TO BE ENTITLED
+         
+AN ACT relating to the provision of artificial intelligence mental health services.
+
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ SECTION 1.  Subtitle E, Title 7, Health and Safety Code, is amended by adding Chapter 616 to read as follows:
+ 
+CHAPTER 616.  PROVISION OF ARTIFICIAL INTELLIGENCE MENTAL HEALTH SERVICES
+
+
+Sec. 616.001.  DEFINITIONS. In this chapter:
+(1)  "Artificial intelligence mental health services" means the use of artificial intelligence technology to provide counseling, therapy, or other mental health services.
+(2)  "Artificial intelligence technology" means computer software that is designed to simulate human intelligence through machine learning and perform tasks that would normally require human involvement. 
+(3)  "Licensed mental health professional" means an individual licensed by this state to provide counseling, therapy, or other mental health services, including: 
+(A)  a physician licensed under Subtitle B, Title 3, Occupations Code, who    
+specializes in psychiatry; 
+(B)  a psychologist licensed under Chapter 501, Occupations Code; 
+(C)  a marriage and family therapist licensed under Chapter 502, Occupations
+Code;
+(D)  a licensed professional counselor licensed under Chapter 503, Occupations Code; and
+(E)  a social worker licensed under Chapter 505, Occupations Code.
+
+ Sec. 616.002.  REQUIREMENTS FOR ARTIFICIAL INTELLIGENCE MENTAL HEALTH SERVICES. 
+
+
+(a)  A person may not provide artificial intelligence mental health services to another person in this state unless:
+(1)  the artificial intelligence technology application through which the services are provided is an application approved by the commission under Section 616.003; and 
+(2)  the person providing the services is a licensed mental health professional or a person that makes a licensed mental health professional available at all times to each person who receives services through the artificial intelligence technology.
+
+
+(b)  The licensed mental health professional described by Subsection (a) must: 
+(1)  be available to review the progress of a person receiving the services;
+(2)  be available to communicate directly with a person receiving the services if needed; and
+(3)  intervene in the provision of artificial intelligence mental health services if the person
+receiving services is:
+(A)  threatening harm to self or others; or
+(B)  reporting abuse or neglect of a child.
+
+
+(c)  A person who offers artificial intelligence mental health services shall:
+(1)  clearly advise all persons who may use the services that the services would be provided through artificial intelligence technology; and
+(2)  obtain a person's informed consent before the person receives artificial intelligence mental health services.
+
+ Sec. 616.003.  TESTING AND APPROVAL REQUIRED. 
+
+
+(a) Notwithstanding Section 616.002, a licensed mental health professional may provide artificial intelligence mental health services only to a person who has agreed to receive the services for purposes of testing an artificial intelligence technology as indicated by the person's signing a specialized informed consent document that demonstrates that the person understands the nature of the testing and agrees to: 
+(1)  receive artificial intelligence mental health services that are in active development and have not been demonstrated to be both competent and safe; and 
+(2)  release the artificial intelligence mental health services provider from all liability associated with the artificial intelligence mental health services provided during testing.
+
+
+(b)  An artificial intelligence technology application may not be considered to have completed its testing until the results of testing demonstrate that the application shows competency and safety in the application's provision of artificial intelligence mental health services.
+
+
+(c)  Following a request for approval of an artificial intelligence technology application to provide mental health services, the commission shall evaluate the results of the application's testing and issue an order approving or disapproving of the application's use in providing artificial intelligence mental health services in this state.
+
+
+(d)  The commission shall make publicly available on its Internet website the results of each artificial intelligence technology application's testing that has been submitted to the commission with a request for approval.
+
+ Sec. 616.004.  ETHICS AND STANDARDS FOR ARTIFICIAL INTELLIGENCE MENTAL HEALTH SERVICES. 
+
+
+(a)  The provision of artificial intelligence mental health services must be guided by the ethical principles and standards that apply to a licensed mental health professional in this state in providing the services without the use of an artificial intelligence technology.
+
+
+(b)  A person who provides artificial intelligence mental health services may not discriminate against an individual on the basis of race, ethnicity, gender, sexual orientation, or any other characteristic.
+
+ Sec. 616.005.  STATE REGULATORY AUTHORITY; DISCIPLINARY ACTION.  
+
+
+(a)  The appropriate state regulatory authority for the provision of counseling, therapy, or other mental health services must recognize as authorized by this state the artificial intelligence mental health services that are provided through an artificial intelligence technology that has been approved under this chapter.
+
+
+(b)  A person providing artificial intelligence mental health services must comply with the standards regarding professional ethics to which a licensed mental health professional providing the service would be held for providing the service without the use of an artificial intelligence technology.
+
+
+(c)  A person who provides artificial intelligence mental health services and who violates a provision of a professional licensing statute that would be applicable to a licensed mental health professional providing the service is subject to disciplinary action as provided by that licensing statute regardless of whether the person is licensed under that statute.
+
+ Sec. 616.006.  REPORTING. A person who provides artificial intelligence mental health services shall maintain records of the person's provision of the services in the same manner required by the professional licensing statute that would be applicable to a licensed mental health professional providing the service.
+
+
+Sec. 616.007.  RULES. The executive commissioner shall adopt rules necessary to implement this chapter.
+
+
+SECTION 2.  This Act takes effect September 1, 2023.

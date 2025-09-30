@@ -1,0 +1,25 @@
+ (f) National Harmful Algal Bloom And Hypoxia Observing Network.—
+
+
+(1) IN GENERAL.—The Harmful Algal Blooms and Hypoxia Research and Control Act of 1998 is amended by amending section 606 (33 U.S.C. 4005) to read as follows:
+
+
+“SEC. 606. NATIONAL HARMFUL ALGAL BLOOM OBSERVING NETWORK.
+
+
+ “(a) In General.—The Under Secretary, acting through the National Centers for Coastal Ocean Science (NCCOS) and the Integrated Ocean Observing System (IOOS) of the National Oceanic and Atmospheric Administration, shall establish a national network of harmful algal bloom observing systems for the monitoring, detection, and forecasting of harmful algal blooms by leveraging the capacity of IOOS regional associations, including through the incorporation of emerging technologies and new data integration methods, such as artificial intelligence.
+
+
+ “(b) Coordination.—In carrying out subsection (a), the IOOS Program Office shall—
+
+
+“(1) coordinate with NCCOS regarding observations, data integration, and information dissemination; and
+
+
+“(2) establish a Harmful Algal Bloom Data Assembly Center to integrate, disseminate, and provide a central architecture to support ecological forecasting.”.
+
+
+ (2) CLERICAL AMENDMENT.—The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by amending the item relating to section 606 to read as follows:
+
+
+“Sec. 606. National harmful algal bloom observing network.”.

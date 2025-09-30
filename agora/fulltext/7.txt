@@ -1,0 +1,31 @@
+SEC. 1554. ROADMAP AND IMPLEMENTATION PLAN FOR CYBER ADOPTION OF ARTIFICIAL INTELLIGENCE.
+
+(a) Roadmap and Implementation Plan Required.--Not later than 270 days after the date of the enactment of this Act, the Commander of the United States Cyber Command and the Chief Information Officer of the Department of Defense, in coordination with the Chief Digital and Artificial Intelligence Officer of the Department, the Director of the Defense Advanced Research Projects Agency, the Director of the National Security Agency, and the Under Secretary of Defense for Research and Engineering, shall jointly develop a five-year roadmap and implementation plan for rapidly adopting and acquiring artificial intelligence systems,applications, and supporting data and data management processes for the Cyberspace Operations Forces of the Department of Defense.
+(b) Elements.--The roadmap and implementation plan required by subsection (a) shall include the following:
+	(1) Identification and prioritization of artificial intelligence systems, applications, data identification, and processing to cyber missions within the Department, and ameliorating threats to, and from, artificial intelligence systems, including--
+		(A) advancing the cybersecurity of Department systems with artificial intelligence;
+		(B) uses of artificial intelligence for cyber effects operations;
+		(C) assessing and mitigating vulnerabilities of artificial intelligence systems supporting cybersecurity and cyber operations to attacks; and
+		(D) defending against adversary artificial intelligence-based cyber attacks.
+	(2) A plan to develop, acquire, adopt, and sustain the artificial intelligence systems, applications, data, and processing identified in paragraph (1).
+	(3) Roles and responsibilities for the following for adopting and acquiring artificial intelligence systems, applications, and data to cyber missions within the Department:
+		(A) The Commander of the United States Cyber Command.
+		(B) The Commander of Joint-Force Headquarters Department of Defense Information Networks.
+		(C) The Chief Information Officer of the Department.
+		(D) The Chief Digital and Artificial Intelligence Officer of the Department.
+		(E) The Under Secretary of Defense for Research and Engineering.
+		(F) The Secretaries of the military departments.
+		(G) The Director of the National Security Agency.
+	(4) Identification of currently deployed, adopted, and acquired artificial intelligence systems, applications, ongoing prototypes, and data.
+	(5) Identification of current capability and skill gaps that must be addressed prior to the development and adoption of artificial intelligence applications identified in paragraph (1).
+	(6) Identification of opportunities to solicit operator utility feedback through inclusion into research and development processes and wargaming or experimentation events by developing a roadmap for such processes and events, as well as a formalized process for capturing and tracking lessons learned from such events to inform the development community.
+	(7) Identification of long-term technology gaps for fulfilling the Department's cyber warfighter mission to be addressed by research relating to artificial intelligence by the science and technology enterprise within the Department.
+	(8) Definition of a maturity model describing desired cyber capabilities, agnostic of the enabling technology solutions, including phases in the maturity model or identified milestones and clearly identified areas for collaboration with relevant commercial off the shelf and government off the shelf developers to address requirements supporting capability gaps.
+	(9) Assessment, in partnership with the Director of the Defense Intelligence Agency, of the threat posed by adversaries' use of artificial intelligence to the cyberspace operations and the security of the networks and artificial intelligence systems of the Department in the next five years, including a net technical assessment of United States and adversary activities to apply artificial intelligence to cyberspace operations, and actions planned to address that threat.
+	(10) A detailed schedule with target milestones, investments, and required expenditures.
+	(11) Interim and final metrics of adoption of artificial intelligence for each activity identified in the roadmap.
+	(12) Identification of such additional funding, authorities, and policies as the Commander and the Chief Information Officer jointly determine may be required.
+	(13) Such other topics as the Commander and the Chief Information Officer jointly consider appropriate.
+
+(c) Synchronization.--The Commander and the Chief Information Officer shall ensure that the roadmap and implementation plan under subsection (a) are synchronized and coordinated to be consistent with section 1509.
+(d) Briefing.--Not later than 30 days after the date on which the Commander and the Chief Information Officer complete development of the roadmap and implementation plan under subsection (a), the Commander and the Chief Information Officer shall provide to the congressional defense committees a classified briefing on the roadmap and implementation plan.

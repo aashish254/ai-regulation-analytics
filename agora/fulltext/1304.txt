@@ -1,0 +1,32 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Small Business Artificial Intelligence Training Act of 2024”.
+SEC. 2. ARTIFICIAL INTELLIGENCE TRAINING RESOURCES FOR SMALL BUSINESS CONCERNS.
+(a) Definitions.—In this section:
+(1) APPROPRIATE COMMITTEES OF CONGRESS.—The term “appropriate committees of Congress” means—
+(A) the Committee on Commerce, Science, and Transportation and the Committee on Small Business and Entrepreneurship of the Senate; and
+(B) the Committee on Science, Space, and Technology and the Committee on Small Business of the House of Representatives.
+(2) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given such term in section 5002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9401).
+(3) CENTER.—The term “Center” has the meaning given such term in section 25(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(a)).
+(4) DIRECTOR.—The term “Director” means the Director of the National Institute of Standards and Technology.
+(5) HOLLINGS MANUFACTURING EXTENSION PARTNERSHIP.—The term “Hollings Manufacturing Extension Partnership” has the meaning given such term in section 25(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(a)).
+(6) INDIAN TRIBE.—The term “Indian Tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+(7) KEY EMERGING TECHNOLOGIES.—The term “key emerging technologies” means the technologies included in the initial list of key technology focus areas set forth by section 10387(c) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19107(c)), photonics, and electronics.
+(8) RURAL COMMUNITY.—The term “rural community” means a community that is located in areas that are not classified as urban by the Bureau of the Census.
+(9) SECRETARY.—The term “Secretary” means the Secretary of Commerce.
+(10) SMALL BUSINESS CONCERN.—The term “small business concern” has the meaning given such term in section 3(a) of the Small Business Act (15 U.S.C. 632(a)).(b) Development Of Training Resources Required.—
+(1) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall, acting through the Director, the Hollings Manufacturing Extension Partnership, and the Centers and in consultation and coordination with the Administrator of the Small Business Administration, the Secretary of Agriculture, and such persons in the private sector as the Secretary of Commerce considers appropriate, develop training resources for small business concerns, including small business concerns located in rural, Tribal, or underserved communities or involved in advanced manufacturing, relating to the adoption and use of artificial intelligence and such other key emerging technologies, such as quantum-hybrid computing, as the Secretary considers appropriate.
+(2) CONTENTS.—The training resources developed under paragraph (1) shall include prompt engineering and the use of artificial intelligence or emerging technologies, such as quantum hybrid tools, relating to access to credit and capital, financial management and accounting, business planning and operations, cybersecurity, marketing, supply chain management, government contracting, and exporting.
+(c) Review And Update Of Training Resources.—Not later than 18 months after the date of the enactment of this Act, and not less frequently than once each year thereafter, the Secretary shall, in consultation with the Administrator of the Small Business Administration—
+(1) review the training resources developed pursuant to subsection (b); and
+(2) update such resources as the Secretary considers appropriate.
+(d) Distribution And Use Of Training Resources.—The Secretary shall coordinate with the Administrator of the Small Business Administration on the distribution and use of the training resources that are developed pursuant to subsection (b) through the resource partners of the Small Business Administration, including small business development centers, women business centers, SCORE, veteran business opportunity centers, and the Apex Accelerator.
+(e) Grants Program.—The Secretary may, in coordination with the Administrator of the Small Business Administration, carry out a program on the award of grants to persons providing training relating to artificial intelligence to small business concerns using the training resources developed under subsection (b).(f) Reports To Congress.—
+(1) INITIAL REPORT.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report on the development, distribution, and use of the training resources developed pursuant to subsection (b).
+(2) ANNUAL REPORTS.—
+(A) REPORTS REQUIRED.—Not later than 2 years after the date of the enactment of this Act, and not less frequently than once each year thereafter, the Secretary shall, in consultation with the Administrator of the Small Business Administration, submit to appropriate committees of Congress an annual report on the development, distribution, and use of training resources developed pursuant to subsection (b).
+(B) CONTENTS.—Each report submitted to subparagraph (A) shall include, for the period of covered by the report, the following:
+(i) A list of the training resources developed pursuant to subsection (b).
+(ii) A description of the measurable outcomes of the distribution of such training resources, including the following:
+(I) The number and type of small business concerns using such training resources.
+(II) The effect of such use on the revenues, sales, and workforces of the small business concerns.
+(g) Sunset.—The authorities and requirements under this section shall terminate on the date that is 3 years after the date of the enactment of this Act.

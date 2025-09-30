@@ -1,0 +1,189 @@
+A BILL
+To amend the Public Health Service Act to ensure that nonanimal methods are prioritized, where applicable and feasible, in proposals for all research to be conducted or supported by the National Institutes of Health, to provide for the establishment of the National Center for Alternatives to Animals in Research and Testing, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Humane and Existing Alternatives in Research and Testing Sciences Act of 2025” or the “HEARTS Act of 2025”.
+
+
+SEC. 2. Findings.
+
+
+Congress finds the following:
+
+
+(1) The National Institutes of Health (NIH) has supported life-saving research that has greatly improved the health and well-being not only of Americans but also of people around the world.
+
+
+(2) Much of this research has relied on animals. It is estimated that between 17,000,000 and 100,000,000 animals are used annually in the United States in research, education, and testing. However, the precise number of animals used in research in the United States is unknown. Such imprecise numbers make it impossible to effectively track and reduce the numbers of animals used.
+
+
+(3) According to the NIH, “approximately 30 percent of promising medications have failed in human clinical trials because they are found to be toxic despite promising pre-clinical studies in animal models. About 60 percent of candidate drugs fail due to lack of efficacy.”. These statistics indicate that new, human-focused biology is needed.
+
+
+(4) The laboratory use of animals has also long been a matter of public concern because, among other things, there is very little publicly available data provided by the NIH about the number and species of animals used in research.
+
+
+(5) Effective alternatives to animals are becoming available, and their number is growing. Cutting-edge technologies have forged new frontiers in toxicology, biology, and medicine that have produced human-relevant models, including organoid cell cultures, multiphysiological systems, genomics, induced pluripotent adult stem cells, 3D modeling with human cells, molecular imaging, computer models, in silico trials, digital imaging, artificial intelligence, and other innovative methods, all of which have launched a technological revolution in biomedical research.
+
+
+(6) The Animal Welfare Act (Public Law 89–544) requires researchers to consider alternatives to animal use for painful procedures and stresses that researchers should not unnecessarily duplicate previous experiments. However, oversight is lacking, and these provisions are not implemented the way that Congress intended. As a result, researchers are not capitalizing on nonanimal models that might more effectively recapitulate human biology.
+
+
+(7) A system of active incentives is needed to encourage researchers to develop and utilize humane, cost-effective, and scientifically suitable nonanimal methods based on human biology.
+
+
+(8) Further, under the National Institutes of Health Revitalization Act of 1993 (Public Law 103–43), the NIH is supposed to outline a plan for reducing the use of animals in research. Section 404C(a)(1) of the Public Health Service Act (42 U.S.C. 283e(a)(1)), as added by section 205 of the National Institutes of Health Revitalization Act of 1993, calls for the NIH to “conduct or support research into… methods of biomedical research and experimentation that do not require the use of animals [and] methods of such research and experimentation that reduce the number of animals used in such research”.
+
+
+(9) A dedicated center that provides resources, funding, and training to encourage researchers to utilize humane, cost-effective, and scientifically suitable nonanimal methods based on human biology will result in more progress toward understanding human diseases and their treatments and cures. It will complete the vision that Congress set out in the National Institutes of Health Revitalization Act of 1993 (Public Law 103–43), which has been thwarted because of lack of oversight.
+
+
+SEC. 3. Animals in research.
+
+
+Section 495 of the Public Health Service Act (42 U.S.C. 289d) is amended—
+
+
+(1) in subsection (a)—
+
+
+(A) in paragraph (2)—
+(i) in the matter preceding subparagraph (A), by striking “paragraph” and inserting “subparagraph”; and
+(ii) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the margins of such clauses (as so redesignated) two ems to the right;
+
+
+(B) by redesignating paragraphs (1), (2) (as so amended), and (3) as subparagraphs (A), (B), and (C), respectively, and moving the margins of such subparagraphs (as so redesignated) two ems to the right;
+
+
+(C) in the matter preceding subparagraph (A) (as so redesignated), by striking “establish guidelines for the following:” and inserting the following: “, with respect to all research conducted or supported by the National Institutes of Health, do the following:
+“(1) Establish and maintain animal care guidelines for the following:”; and
+
+
+(D) by adding at the end the following:
+“(2) Establish a system of meaningful incentives to encourage the use of existing humane and scientifically satisfactory nonanimal methods in research proposals.
+“(3) Ensure that, before any research involving the use of animals is approved or performed, all scientifically satisfactory nonanimal methods for obtaining the results sought have been fully evaluated.
+
+
+“(4) Ensure that—
+
+
+“(A) research proposals are reviewed by at least one person who has expertise in nonanimal research methods; and
+
+
+“(B) reviewers of the research proposals have access to a reference librarian with expertise in evaluating the adequacy of the searches for nonanimal methods described in the research proposals.
+
+
+“(5) Establish and maintain research proposal guidelines for conducting thorough searches for nonanimal alternatives to the use of animals for biomedical and behavioral research.”;
+
+
+(2) in subsection (b)(1), by striking “subsection (a)(3)” and inserting “subsection (a)(1)(C)”; and
+
+
+(3) in subsection (c)(1)—
+(A) in subparagraph (A)—
+(i) by striking “paragraphs (1) and (2) of”; and
+(ii) by striking “and” at the end; and
+(B) by adding at the end the following:
+
+
+“(C) a statement of assurance that a scientifically satisfactory nonanimal method of obtaining the result sought is not available; and”.
+
+
+SEC. 4. National Center for Alternatives to Animals in Research and Testing.
+
+
+(a) Addition to list of institutes and centers.—Section 401(b) of the Public Health Service Act (42 U.S.C. 281(b)) is amended—
+
+
+(1) by redesignating paragraph (25) as paragraph (26); and
+
+
+(2) by inserting after paragraph (24) the following new paragraph:
+
+
+“(25) The National Center for Alternatives to Animals in Research and Testing.”.
+
+
+(b) Conforming change to number of institutes and centers.—Section 401(d)(1) of the Public Health Service Act (42 U.S.C. 281(d)(1)) is amended by striking “27” and inserting “28”.
+
+
+(c) Establishment; duties.—Part E of title IV of the Public Health Service Act (42 U.S.C. 287 et seq.) is amended by inserting after subpart 5 of such part E (42 U.S.C. 287c–21) the following new subpart:
+
+
+
+
+“Subpart 6—National Center for Alternatives to Animals in Research and Testing
+“SEC. 485E. Establishment; duties.
+
+
+“(a) Establishment.—Not later than one year after the date of enactment of the Humane and Existing Alternatives in Research and Testing Sciences Act of 2025, the Secretary shall establish a National Center for Alternatives to Animals in Research and Testing (in this subpart referred to as the ‘National Center’) within the National Institutes of Health. The Center shall be headed by a director, who shall be appointed by the Secretary.
+
+
+“(b) Purpose.—The general purpose of the National Center shall be—
+
+
+“(1) developing, promoting, and funding alternatives to animal research and testing; and
+
+
+“(2) developing a plan for reducing the number of animals used in federally funded research and testing.
+
+
+“(c) Duties.—The Director of the National Center shall—
+
+
+“(1) provide assistance (including funding) to federally funded researchers to incentivize the development and qualification of nonanimal methods, such as advanced cell cultures or technology such as 3D organoids, microphysiological systems, induced pluripotent adult stem cell models, in silico modeling, advanced imaging systems, artificial intelligence, and other innovative methods;
+
+
+“(2) train and inform scientists about the methods developed pursuant to paragraph (1);
+
+
+“(3) establish collaborations among research institutions so that scientists who lack resources (such as bioengineering and advanced bio-imaging equipment) can develop and use methods developed pursuant to paragraph (1); and
+
+
+“(4) collect information regarding the numbers of animals used in federally funded research and testing, and make such information available to the public in a timely manner.”.
+
+
+SEC. 5. Reporting by federally funded research entities on numbers of animals used in research and testing.
+
+
+(a) In general.—Each covered reporting entity shall do the following:
+
+
+(1) Not later than 2 years after the date of enactment of this Act, report to the National Center for Alternatives to Animals in Research and Testing and make publicly available—
+(A) the number of animals used by the covered reporting entity in federally funded research and testing at facilities of the covered reporting entity, disaggregated by species; and
+(B) the total number of such animals that were bred or acquired by the covered reporting entity for research or testing purposes, disaggregated by species.
+
+
+(2) Every 2 years thereafter—
+(A) update the latest report of the covered reporting entity under this section and make publicly available such updated report to measure the progress of the covered reporting entity in reducing the number of animals used in federally funded research and testing; and
+(B) develop and submit to the National Center for Alternatives to Animals in Research and Testing and make publicly available a plan for reducing the numbers described in subparagraphs (A) and (B) of paragraph (1).
+
+
+(b) Standardized process.—The Director of the National Center for Alternatives to Animals in Research and Testing shall establish a standardized process for submitting and updating reports and plans under subsection (a), including for making such reports and plans publicly available.
+
+
+(c) Definition.—In this section:
+
+
+(1) ANIMAL.—The term “animal” means any live, nonhuman vertebrate animal or cephalopod used or intended for use in research, research training, experimentation, or biological testing, or for related purposes.
+
+
+(2) COVERED REPORTING ENTITY.—The term “covered reporting entity” means—
+
+
+(A) any entity that—
+
+
+(i) receives Federal funds for research or testing; and
+
+
+(ii) uses animals in research and testing; and
+
+
+(B) any Federal department or agency that uses animals in research or testing.

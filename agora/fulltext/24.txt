@@ -1,0 +1,19 @@
+SEC. 1751. GUIDANCE AND DIRECTION ON USE OF DIRECT HIRING PROCESSES FOR ARTIFICIAL INTELLIGENCE PROFESSIONALS AND OTHER DATA SCIENCE AND SOFTWARE DEVELOPMENT PERSONNEL.
+ 
+(a) GUIDANCE REQUIRED.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall review applicable Department of Defense guidance and where beneficial issue new guidance to the secretaries of the military departments and the heads of the defense components on improved use of the direct hiring processes for artificial intelligence professionals and other data science and software development personnel. 
+
+(b) OBJECTIVE.—The objective of the guidance issued under subsection (a) shall be to ensure that organizational leaders assume greater responsibility for the results of civilian hiring of artificial intelligence professionals and other data science and software development personnel. 
+(c) CONTENTS OF GUIDANCE.—At a minimum, the guidance required by subsection (a) shall— 
+(1) instruct human resources professionals and hiring authorities to utilize available direct hiring authorities (including excepted service authorities) for the hiring of artificial intelligence professionals and other data science and software development personnel, to the maximum extent practicable; 
+(2) instruct hiring authorities, when using direct hiring authorities, to prioritize utilization of panels of subject matter experts over human resources professionals to assess applicant qualifications and determine which applicants are best qualified for a position; 
+(3) authorize and encourage the use of ePortfolio reviews to provide insight into the previous work of applicants as a tangible demonstration of capabilities and contribute to the assessment of applicant qualifications by subject matter experts; and 
+(4) encourage the use of referral bonuses for recruitment and hiring of highly qualified artificial intelligence professionals and other data science and software development personnel in accordance with volume 451 of Department of Defense Instruction 1400.25. 
+(d) REPORT.— 
+(1) IN GENERAL.—Not later than one year after the date on which the guidance is issued under subsection (a), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the guidance issued pursuant to subsection (a). 
+(2) CONTENTS.—At a minimum, the report submitted under paragraph (1) shall address the following: 
+(A) The objectives of the guidance and the manner in which the guidance seeks to achieve those objectives. 
+(B) The effect of the guidance on the hiring process for artificial intelligence professionals and other data science and software development personnel, including the effect on— 
+(i) hiring time; 
+(ii) the use of direct hiring authority; 
+(iii) the use of subject matter experts; and 
+(iv) the quality of new hires, as assessed by hiring managers and organizational leaders.

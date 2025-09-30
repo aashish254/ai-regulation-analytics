@@ -1,0 +1,113 @@
+A BILL
+To amend the Workforce Innovation and Opportunity Act to establish a grant program for a workforce data quality initiative, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Workforce Data Enhancement Act”.
+
+
+SEC. 2. Amendments to the Workforce Innovation and Opportunity Act.
+
+
+(a) In general.—Section 169 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3224) is amended by adding at the end the following:
+
+
+“(d) Workforce data quality initiative.—
+
+
+“(1) GRANT PROGRAM.—The Secretary shall use not more than 10 percent of the total amount made available pursuant to section 132(a)(2)(A) for any program year, and may use amounts otherwise made available for purposes of carrying out this section, to competitively award grants to eligible entities to design, develop, implement, improve, or align a statewide longitudinal data system for the purposes of integrating data from education and workforce development systems, labor market outcomes, and other data sources toward strengthening program quality, building State capacity to produce evidence for decision making, meeting performance reporting requirements, promoting individual privacy and data security, improving transparency, moving toward improved workforce data standardization, and improving worker and employer capacity to identify and address skill needs.
+
+
+“(2) ELIGIBLE ENTITY.—In this subsection, the term ‘eligible entity’ means a State agency or consortium of State agencies, including a multistate data collaborative, that is or includes the State agency responsible for—
+“(A) State employer wage records used by the State’s unemployment insurance programs in labor market information reporting and analysis and for fulfilling the reporting requirements of this Act;
+“(B) the production of labor market information; and
+“(C) the direct administration of a core program.
+
+
+“(3) APPLICATION.—To be eligible to receive a grant under this subsection, an eligible entity shall submit an application to the Secretary at such time and in such manner as the Secretary may require, which shall include—
+“(A) a description of the proposed activities that will be conducted by the eligible entity, including a description of the need for such activities and a detailed budget for such activities;
+“(B) a description of the expected outcomes and outputs that will result from the proposed activities and the proposed uses of such outputs;
+“(C) a description of how the proposed activities will—
+“(i) support the reporting of performance data, including employment and earnings outcomes, for the performance accountability requirements under section 116, including outcomes for eligible training providers;
+“(ii) improve workforce data standardization;
+“(iii) leverage public-private partnerships to achieve intended goals of the activities; and
+“(iv) improve the collection, accuracy, timeliness, and usability of real-time, economy-wide data on new and emerging skills and in-demand occupational roles;
+“(D) a description of the methods and procedures the eligible entity will use to promote individual privacy and data security in the collection, storage, and use of all data involved in the systems and resources supported through the grant, in accordance with Federal and State privacy laws; and
+“(E) a plan for how the eligible entity will continue the activities or sustain the use of the outputs created with the grant funds after the grant period ends.
+
+
+“(4) PRIORITY.—In awarding grants under this subsection, the Secretary shall give priority to—
+
+
+“(A) any eligible entity that is a consortium comprised of State agencies from multiple States (including at least one State agency that has not previously received a grant from the Secretary for the purposes of this subsection and demonstrates a substantial need to improve its data infrastructure) and has the capacity to make significant contributions toward building interoperable, cross-State data infrastructure and leveraging public-private partnerships to provide participating States the ability to better understand—
+“(i) earnings and employment outcomes of individuals who work out-of-State; and
+“(ii) cross-State earnings and employment trends, including new and emerging skills and in-demand occupational roles; and
+
+
+“(B) any eligible entity that will use grant funds to—
+“(i) expand the adoption and use of linked, open, and interoperable data on skills and credentials, including through the development of a credential registry or other tools and services designed to help learners and workers make informed decisions;
+“(ii) enhance collaboration and partnerships with private sector workforce and labor market data entities and the end-users of workforce and labor market data, including individuals, employers, economic development agencies, and workforce development providers;
+“(iii) improve real-time workforce data collection and reporting toward equipping employers, workers, and training providers with accurate information to better predict workforce demands, including related to the expanding role of emerging technology (including artificial intelligence and machine learning) in the workplace;
+“(iv) leverage the use of non-Federal contributions to improve workforce data infrastructure, including staff capacity building; or
+“(v) expand existing statewide longitudinal data systems, including such systems receiving assistance under section 208 of the Educational Technical Assistance Act of 2002 (20 U.S.C. 9607).
+
+
+“(5) USE OF FUNDS.—In addition to the activities described in clauses (i) through (v) of paragraph (4)(B), an eligible entity awarded a grant under this subsection may use funds to carry out any of the following:
+
+
+“(A) Supporting data linkages, including on skills and emerging skills and in-demand occupational roles, for data from education and workforce development systems, labor market outcomes, and other data sources, which may include integrating such data with statewide longitudinal data systems.
+
+
+“(B) Accelerating the replication and adoption of data standards, systems, projects, products, or practices already in use in a State to other States.
+
+
+“(C) Research and labor market data improvement activities to improve the timeliness, relevance, and accessibility of such data, which may include—
+“(i) pilot projects that are developed locally but designed to scale to other regions or States; or
+“(ii) end-user tools, which may facilitate career exploration or related data insights.
+
+
+“(D) Establishing, enhancing, or connecting to a system of interoperable learning and employment records that provides individuals who choose to participate in such system ownership of a verified and secure record of the credentials earned and skills gained by such individuals and the ability to share such record with employers and education providers.
+
+
+“(E) Defining policies, guidelines, standards, or protocols, as appropriate for data collection, storage, data sharing, use, data destruction, and disclosure avoidance to secure any personally identifiable information, in accordance with Federal and State privacy laws.
+
+
+“(F) Increasing local board access to and integration with the State’s statewide longitudinal data system in a secure manner.
+
+
+“(G) Establishing or participating in a data exchange for collecting and using standards-based jobs, skills, and employment data including, at a minimum, job titles or occupation codes.
+
+
+“(H) Improving State and local staff capacity to understand, use, and analyze data to improve decision making, improve participant outcomes, and improve the ability of workers to adapt to changes in the workplace, including regarding emerging technologies (including artificial intelligence and machine learning tools).
+
+
+“(6) ADMINISTRATION.—
+
+
+“(A) DURATION.—A grant awarded under this subsection may be for a period of not more than 3 years.
+
+
+“(B) SUPPLEMENT, NOT SUPPLANT.—Funds made available under this subsection shall be used to supplement, and not supplant, other Federal, State, or local funds used for development of State data systems.
+
+
+“(C) REPORT.—Each eligible entity that receives a grant under this subsection shall submit a report to the Secretary not later than 180 days after the conclusion of the grant period on the activities supported through the grant and any improvements in the use of workforce and labor market information that have resulted from such activities.
+
+
+“(7) STATEWIDE LONGITUDINAL DATA SYSTEMS.—In this subsection, the term ‘statewide longitudinal data systems’ has the same meaning as such term used in section 153(a)(5) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9543(a)(5)).”.
+
+
+(b) Source of funding.—Section 132(a)(2)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3172(a)(2)(A)) is amended—
+
+
+(1) by striking “under sections” and inserting “under section”;
+
+
+(2) by striking “169(c) (relating to dislocated worker projects)” and inserting “subsections (c) (relating to dislocated worker projects) and (d) (relating to a workforce data quality initiative) of section 169”; and
+
+
+(3) by striking “and 170” and inserting “and section 170”.

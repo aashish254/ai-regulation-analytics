@@ -1,0 +1,865 @@
+Artificial Intelligence Law of the People’s Republic of China 
+(Draft for Suggestions from Scholars)
+
+---
+
+Chapter 1	General Provisions
+
+---
+
+Article 1	Legislative Intent
+
+This Law is enacted in accordance with the Constitution in order to promote technological innovation in artificial intelligence (AI), facilitate the healthy development of the AI industry, regulate AI product and service development, provision, and use activities, as well as their supervision and management, safeguard national security and the public interest, and protect the legitimate rights and interests of individuals and organizations.
+
+---
+
+Article 2	Scope of Application
+
+This Law applies to AI development, provision, and use activities within the People’s Republic of China (PRC), and to the supervision and management thereof.
+
+This Law applies to those AI development, provision, and use activities outside the PRC that may affect the national security or public interests of, or the legitimate rights and interests of individuals or organizations in, the PRC.
+
+---
+
+Article 3 	Principle of Scientific and Technological Ethics
+
+The development of AI shall (应当) adhere to a people-centered (以人为本) approach, respect personal freedom and dignity, promote the well-being of the people, and provide assurance for the public interest, so as to guide and regulate the healthy and orderly development of the AI industry. AI developers, providers, and users shall prevent and control the possible ethical risks of AI in accordance with law.
+
+---
+
+Article 4	Principle of Innovative Development
+
+The State implements inclusive and prudential supervision, encourages and supports the innovation-based development of the AI industry, and assures the safety and security of AI.
+
+---
+
+Article 5	Principle of Fairness and Impartiality
+
+AI developers, providers, and users shall adhere to the principle of fairness and impartiality and protect the legitimate rights and interests of individuals and organizations, and shall not practice unreasonable differential treatment.
+
+---
+
+Article 6	Principle of Transparency and Explainability
+
+AI developers, providers, and users shall adhere to the principle of transparency and explainability, and shall, in accordance with law, provide and explain the basic information, purpose and intent, and main operating mechanisms of AI products and services in an appropriate manner.
+
+---
+
+Article 7	Principle of Safety and Accountability
+
+AI developers, providers, and users shall, in accordance with law, adopt the necessary technical means and management measures to ensure the safety and reliability of AI products and services.
+
+AI developers, providers, and users shall, in accordance with law, bear the corresponding legal liabilities for development, provisioning, and use activities.
+
+---
+
+Article 8	Principle of Proper Use
+
+AI developers, providers, and users shall comply with laws and regulations, respect social morality and ethics, comply with business ethics and professional ethics, be honest and trustworthy, fulfill their obligation to protect AI safety and security, and shoulder their responsibility to society, and shall not jeopardize national security or the public interest, or harm the legitimate rights and interests of individuals and organizations.
+
+AI developers are encouraged to embed usage restrictions in product designs to prevent users from utilizing AI to engage in illegal activities.
+
+---
+
+Article 9	Principle of Human Intervention
+
+AI developers and providers shall assess and explain the safety risks of AI products and services, and set up human supervision and audit mechanisms in accordance with law.
+
+---
+
+Article 10	Development of Infrastructure
+
+The State strengthens the construction of AI infrastructure, rationally guides the allocation and supply of national computing power (“compute”) resources, and promotes the interconnection and interoperability of diversified compute.
+
+The State supports the construction of open public data platforms required for the development of the AI industry, and encourages all regions and departments to actively explore making public data available for use.
+
+---
+
+Article 11	Protection of Intellectual Property Rights
+
+The State protects intellectual property rights (IPR) in the field of AI in accordance with law, explores innovative mechanisms for the conversion of scientific research achievements into practical applications, and improves interactive support mechanisms for technological innovation, IPR protection, and standardization in the field of AI.
+
+---
+
+Article 12	Green Development
+
+The State encourages and supports the adoption of environmentally friendly and energy-saving technologies for AI development, provision, and use activities, and actively promotes energy-saving and innovative applications of AI technologies.
+
+When people’s governments at all levels construct digital infrastructure related to AI compute resources, they shall strictly follow the principle of green development, rationally coordinate and allocate compute resources in accordance with national development plans, and protect the ecological environment.
+
+---
+
+Article 13	Diversified Co-Governance
+
+The State establishes and improves the AI governance system featuring leadership by the government, coordination with society, and participation by the public, and builds a diversified co-governance (共治) pattern of AI governance.
+
+---
+
+Chapter II	Development and Promotion
+
+---
+
+Article 14	Artificial Intelligence Development Planning
+
+The State formulates AI development plans, supports the high-quality development of AI theory, technology, and applications, and promotes the deep integration and application of AI in economic and social fields.
+
+People’s governments at or above the provincial level shall incorporate the development of AI into the national economic and social development plans at their level, and formulate AI development plans in accordance with requirements.
+
+People’s governments at all levels, in accordance with AI industrial development plans, shall establish industrial policies that conform to international trade norms, assure the legitimate rights and interests of market players, and create a market environment of fair competition.
+
+---
+
+Article 15	Construction of Compute Infrastructure
+
+The State strengthens the construction of compute infrastructure, optimizes the layout of compute infrastructure construction centered around the development of the AI industry and the needs of social and economic development, strengthens production chain coordination and linkage, supports the participation of market players, promotes the green and low-carbon development of compute infrastructure, and pushes forward construction of the compute standards system.
+
+Secure and trustworthy basic software and hardware shall be adopted for the construction of compute infrastructure, so as to assure supply chain security. Entities that operate the compute infrastructure shall enhance their compute infrastructure security assurance ability and emergency response ability, and carry out regular inspections and checks.
+
+---
+
+Article 16	Utilization of Compute Resources
+
+The State establishes mechanisms for allocating compute infrastructure resources, uniformly plans the construction of compute network nodes, strengthens the scientific layout of general purpose computing, intelligent computing, supercomputing, and other diversified compute resources, and actively guides and promotes compute interconnection and interoperability.
+
+The State promotes the diversification of the compute structure, guides various industries in rationally allocating compute resources, promotes the collaborative sharing and integrated utilization of compute resources, explores the market-oriented trading of compute resources, improves the system of compute resource allocation, and enhances the effectiveness of compute infrastructure use.
+
+The State promotes the construction and utilization of public compute resource platforms, provides public compute power support for the development of AI technologies and industries, and assures that small- and medium-sized enterprises have access to inclusive public compute.
+
+In the event that significant risks arise in the operation of the compute infrastructure or the operating entity loses the ability to operate, the main oversight department (主管部门) for AI of a people’s government at or above the provincial level shall have the right to designate another operating entity to act as trustee or carry out a takeover, so as to assure the stable operation of the compute infrastructure.
+
+---
+
+Article 17	Algorithmic Model Innovation
+
+The State strengthens the innovation of algorithmic models and promotes their application, extension, and circulation in accordance with law. The main oversight departments for AI directs industry organizations to formulate a catalog of recommended AI algorithmic models and a set of cooperation guidelines for improving the benefit-sharing mechanisms in the circulation of algorithmic models.
+
+The State supports relevant entities in carrying out foundation model innovation and developing a basic theoretical system for general purpose artificial intelligence (AGI).
+
+---
+
+Article 18	Key Technology Innovation
+
+The State promotes the carrying out of key technology innovation and development by relevant entities, improves independent innovation (自主创新) ability in key areas, adheres to independent controllability (自主可控), safety, and efficiency, and promotes the high-quality development of the AI industry. For key technology innovation research carried out with government fiscal funding (财政资金), the State shall, in accordance with law, provide support in terms of funding and experimental means.
+
+---
+
+Article 19	Open Source Ecosystem Construction
+
+The State promotes construction of the open source ecosystem, supports relevant entities in building or operating open source platforms, open source communities, and open source projects, encourages enterprises to make software source code, hardware designs, and application services publicly available, and fosters an open source innovation ecosystem of sharing and collaboration.
+
+The State establishes an open source governance system, encourages the regulation of open source product licensing, intellectual property protection, and responsibility allocation mechanisms through agreements, and promotes the construction of industry norms for the open source ecosystem.
+
+---
+
+Article 20	Supply of Data Factors of Production (数据要素)
+
+The State encourages and supports relevant entities in building high-quality datasets and databases in the field of AI, and in enhancing their ability to supply high-quality data; and it encourages relevant entities in carrying out collaborative development of big data and AI technologies, and in developing professional tools and a set of data labeling standards. Relevant entities shall reasonably distribute data revenue in accordance with law.
+
+The main oversight departments for AI establish a mechanism for coordinating data resources for the AI industry, and, in accordance with law, promote the circulation and sharing of data factors of production, so as to encourage the development of the AI industry.
+
+---
+
+Article 21	Utilization of Public Data
+
+The State encourages the establishment of AI data resource sharing mechanisms and promotes making public data openly available and shareable. People’s governments at all levels actively explore the development of public data standards systems, public data sharing catalogs, and sharing rules in the field of AI applications, and promote the interconnection and orderly publicization of public data in a graded and categorized (分级分类) manner.
+
+People’s governments at the provincial level and above shall, in accordance with law, strengthen the publicization and sharing of public data, build public data pools for AI, expand the scope of public data supply for AI, and assure the fair use of openly available data by small and medium-sized enterprises, individual developers, and others.
+
+Relevant personnel and organizations will be encouraged to rely on open public data platforms to develop and provide AI products and services, and innovative applications of public data in AI scenarios will be promoted.
+
+---
+
+Article 22	Information Network Construction
+
+The State strengthens the construction of information networks, supports the participation of market entities, raises the level of network infrastructure construction, strengthens the construction of critical information infrastructure, builds a ubiquitous and efficient intelligent network infrastructure system, and maintains cybersecurity in accordance with law.
+
+---
+
+Article 23	Protection of IPR
+
+The State establishes and improves rules protecting the IPR of training data, algorithms, and AI-generated content.
+
+Software products, invention patents, utility model patents, trade secrets, integrated circuit layout designs, and other types of IPR formed in the development and application of AI are protected in accordance with law. IPR formed by using AI to engage in creation, invention, industrial design, and other intellectual labor are protected in accordance with law.
+
+---
+
+Article 24	Reasonable Use of Data
+
+When an AI developer uses the copyrighted data of others for model training, if the use is different from the original purpose or function of the data and does not affect the normal use of the data or unreasonably harm the legitimate rights and interests of the data’s owner, such use is a reasonable use of data.
+
+For data use behaviors that meet the above reasonable use circumstances, the AI developer may forgo payment of remuneration to the data’s owner without the data owner’s permission, but the data source shall be marked in a conspicuous manner.
+
+---
+
+Article 25	Security Technology and Services
+
+The State supports relevant entities in developing and applying cybersecurity, data security, and algorithmic security technologies, thereby accelerating security technology innovation, and supports relevant professional organizations (专业机构) in providing services in accordance with law.
+
+---
+
+Article 26	Insurance Incentives
+
+The State encourages and supports AI developers and providers in taking out suitable insurance products on AI products and services, including but not limited to cybersecurity insurance and third-party liability insurance. The State encourages insurance companies to explore and develop insurance products suitable for AI products and services.
+
+---
+
+Article 27	Industry-Academia-Research Institute (产学研) Integration
+
+The State supports the development of AI enterprises, strengthens enterprise-led industry-academia-research institute deep integration, and reinforces the mainstay status of enterprises in AI science and technology (S&T) innovation.
+
+People’s governments at all levels shall formulate measures to support relevant entities in constructing AI research institutions, AI standards organizations, and industry organizations, and support AI scientific research, technological innovation, and development activities.
+
+---
+
+Article 28	Cultivation of Industrial Scenarios
+
+The State establishes an open system for AI application scenarios, regularly solicits and releases application scenario requirements and demonstration solutions, and promotes the demonstration and application of AI in such fields as government services, healthcare, scientific research, finance, and autonomous driving.
+
+People’s governments at all levels shall abide by market principles, persist in being application-oriented, formulate measures to accelerate the commercialization and application of key AI technologies, and create internationally competitive AI industry clusters and bastions of innovation.
+
+---
+
+Article 29	Policy Support
+
+The State provides special funding support for basic and applied basic research on AI; it supports the incubation of AI S&T innovation enterprises and their achievements, and gives tax credits in accordance with legal provisions to enterprises that operate key projects.
+
+Government procurement shall give priority to procuring safe and reliable AI products and services.
+
+---
+
+Article 30	Talent Cultivation
+
+The State promotes the construction of AI-related academic disciplines, encourages educational and scientific research institutions and enterprises to carry out AI-related education and training, and adopts a variety of ways to develop AI professionals and to promote the exchange of AI talents.
+
+The State explores the establishment of mechanisms adapted to the needs of AI development, including talent evaluation mechanisms, project management innovation mechanisms, and incentive mechanisms for the conversion of S&T achievements into practical applications; and S&T personnel engaged in AI research shall be given incentives and subsidies in accordance with the State’s regulations.
+
+---
+
+Article 31	Digital Literacy
+
+The State implements national digital literacy and skills enhancement actions to enhance citizens’ digital access to production, use, evaluation, interaction, sharing, innovation, safety and security assurance, ethics and morality, and other competencies and abilities.
+
+People’s governments at all levels shall organize and carry out propaganda and education on AI popular science and related laws and regulations, and guide and supervise the relevant units in doing a good job of propaganda and education on AI science popularization and related laws and regulations.
+
+---
+
+Chapter III	Protection of Users’ Rights and Interests
+
+---
+
+Article 32	Equal Rights
+
+AI developers and providers shall take reasonable measures to assure the equality of users, ensure the universality and fairness of products and services, and avoid prejudice and discrimination based on gender, faith, region, age, ethnicity (民族), and economic capacity.
+
+---
+
+Article 33	Right to Know
+
+In the course of providing products and services, AI providers shall provide assurance for users’ right to know (知情权) and provide the following information in an appropriate manner:
+
+(i) The name, contact information, and way of obtaining relevant information for the provider of AI products and services;
+
+(ii) The functions, purposes and intent, and main operating mechanisms of the AI products and services;
+
+(iii) The functional limitations, potential risks, and possible impact on the rights and interests of users of the AI products and services;
+
+(iv) The licensing or public filing information of AI products and services;
+
+(v) The rights and remedial channels enjoyed by users; and
+
+(vi) Other information as prescribed by laws and administrative regulations.
+
+AI developers shall cooperate with AI providers in fulfilling the above obligations.
+
+---
+
+Article 34	Protection of Privacy and Personal Information
+
+AI developers and providers shall protect the privacy and personal information-related rights and interests of individuals in accordance with law, and promptly accept and handle requests from individuals for lookup, copying, correction, supplementation, and deletion of their personal information in accordance with law.
+
+Without an individual’s consent, or unless it is to comply with laws in other circumstances, AI developers and providers shall not use AI to analyze or evaluate an individual’s behavioral habits, interests, or information about his or her economic, health, or credit status.
+
+AI developers and providers shall clearly inform users in advance if their products and services have safety or security risks where their right to privacy or personal information-related rights and interests may be violated.
+
+AI developers and providers shall not collect non-essential personal information, shall not unlawfully retain input information and usage records that can identify users, and shall not unlawfully provide users’ input information and usage records to others.
+
+---
+
+Article 35	Right to Explanation and Refusal of AI-Based Decisions
+
+AI providers shall assure the right of users to withdraw from or refuse the use of AI, except where it is part of the basic functions of products and services.
+
+Individuals and organizations whose legitimate rights and interests may be significantly affected by AI products and services shall have the right to request the AI provider give explanations, the right to reject decisions made solely through AI products and services, and the right to request the AI provider redo the decisions with the participation of human beings.
+
+---
+
+Article 36	IPR of AI-Generated Content
+
+When content generated using AI meets the conditions of the Copyright Law for the acknowledgment of a work or the conditions of the Patent Law for the acknowledgment of an invention or creation, then based on the extent of the user’s contribution to the final presentation of the content, it can be protected by the Copyright Law as a work, or application for patent protection can be made for it, in accordance with law, provided that the entity obtaining the copyright or applying for a patent must be a natural person, or a legal person or other legal entity.
+
+If the content generated using AI is treated as a work, or an application for patent protection is made for it, the user shall take the initiative to disclose whether the relevant content is mainly generated by AI.
+
+The AI provider and the user shall reach an agreement on the ownership of content generated using AI, and if there is no agreement or the agreement is unclear, the relevant rights shall be enjoyed by the user.
+
+---
+
+Article 37	Rights and Interests of Workers
+
+Employers shall not misuse AI to infringe upon the legitimate rights and interests of workers.
+
+Employers shall clearly inform workers of the scope of use, basic functions, and legal basis of AI when concluding labor contracts, and shall not make decisions such as punishing and dismissing workers based solely on AI; they shall not use AI to illegally extend working hours or infringe upon the rights of workers to take breaks and vacations; and they shall not use AI to carry out internal management activities that infringe upon privacy rights and personal information-related rights and interests.
+
+---
+
+Article 38	Rights and Interests of Digitally Disadvantaged Groups
+
+AI developers and providers shall give full consideration to the differentiated needs of minors, the elderly, women, people with disabilities, and other people with weaker digital access capabilities and digital application skills, and provide them with sustained, stable, inclusive, and publicly available AI products and services.
+
+AI developers and providers shall enhance the detection, identification, and handling functions of AI in the prevention of cybercrime and other problems, and facilitate the safe use of AI products and services by the elderly.
+
+AI developers and providers shall set up specialized functions for the protection of minors and guide minors in the correct use of AI products and services, and shall not provide minors with inappropriate demonstrations, inducement of addiction, and other content and functions that adversely affect the physical and mental health of minors.
+
+---
+
+Article 39	Right to Obtain Help and Training
+
+AI developers and providers shall provide appropriate means of human-computer interaction to facilitate use by users. Providers of AI products and services that involve the significant legitimate rights and interests of individuals shall provide assistance and skills training to individuals and organizations.
+
+---
+
+Article 40	Right to Complain and Sue
+
+AI providers shall set up a convenient and fast mechanism for accepting and processing applications from individuals and organizations exercising their rights. Where an individual’s or organization’s request to exercise their rights is rejected, the reasons shall be given within a reasonable period of time.
+
+Where an AI provider rejects a request of an individual or organization to exercise their rights or fails to process it in a timely manner, the individual or organization may file a lawsuit with a people’s court in accordance with law.
+
+---
+
+Chapter IV	Obligations and Norms of Developers and Providers
+
+Section I	General Provisions
+
+---
+
+Article 41	Security Obligations
+
+AI developers and providers shall take organizational and technical measures to ensure that the development and provision of AI products and services are conducted in accordance with the provisions of this Law and relevant laws and administrative regulations, so as to prevent the occurrence of AI security incidents.
+
+AI developers and providers shall conduct regular inspection and monitoring of vulnerabilities and security risks of open-source frameworks, basic software and hardware, and deployment environments, and monitor possible attacks in real time: AI developers and providers shall save log information of AI development and provisioning activities in accordance with laws, administrative regulations, and relevant national regulations.
+
+The countermeasures for AI security risks shall be appropriate to the magnitude of the risks, the probability of occurrence, the level of technological development, and the cost of implementation.
+
+---
+
+Article 42	Safety Risk Assessment
+
+AI developers and providers shall carry out a safety risk assessment before providing products and services, and record the handling circumstances. The AI safety risk assessment shall include the following:
+
+(i) Whether there is potential bias or discrimination;
+
+(ii) The impact on the public interest, the rights and interests of individuals, and safety risks;
+
+(iii) Whether scientific and technological ethics review is conducted in accordance with law; and
+
+(iv) Whether the protection measures are legal, effective, and appropriate to the level of risk.
+
+In the event of significant changes to AI products and services, the AI safety risk assessment shall be re-conducted.
+
+AI developers and providers may conduct AI safety risk assessments on their own or by commissioning third-party organizations. The AI safety risk assessment report and records of the handling circumstances shall be retained for at least three years.
+
+---
+
+Article 43	Reporting of Major Safety and Security Incidents
+
+AI developers and providers shall immediately take measures for handling AI safety and security incidents; in the event of a major AI safety or security incident, it shall be reported promptly to the main oversight department for AI in accordance with regulations.
+
+The administrative methods for reporting major AI safety and security incidents shall be formulated by the main oversight departments for AI under the State Council.
+
+---
+
+Article 44	Maintaining the Safety of Insurance Policyholders
+
+After taking out insurance, AI developers and providers shall maintain the safety of insurance policyholders in accordance with law. The insurer may, in accordance with the contractual agreement, inspect the safety status of the insurance policyholder, and make timely written recommendations to the AI developer or provider to enhance the safety or security of AI products and services, improve business compliance, and eliminate potential technical safety and security hazards.
+
+If an AI developer or provider fails to fulfill its responsibility to maintain the safety of insurance policyholders, the insurer shall have the right to request an increase in the insurance premium or terminate the contract.
+
+The insurer may, with the consent of the insured, take safety and security precautions in order to maintain the safety of insurance policyholders.
+
+---
+
+Article 45	Data Quality
+
+AI developers shall take effective measures to improve the quality of training data and enhance the veracity, accuracy, objectivity, and diversity of data sets; and shall take necessary measures if information prohibited by laws and administrative regulations is found to exist in the training data.
+
+---
+
+Article 46	Compliance Guidelines
+
+AI providers shall ensure that the products and services they provide comply with the provisions of this Law and relevant laws and administrative regulations, and that the functions of the products and services are safe, transparent, stable, and sustainable.
+
+AI providers shall clarify the applicable audiences, occasions, and uses of their products and services in an appropriate manner, and guide users to understand and use AI products and services in a safe, scientific, and rational manner; if they discover that users are using the AI services to engage in unlawful activities, they shall take timely measures for handling it such as warning, restricting functions, and suspending or terminating the provisioning of the products and services to users, they shall save the relevant records, and they shall report out to the main oversight department for AI.
+
+---
+
+Article 47	Content Safety and Security
+
+Where providers of AI services provide network information services, they shall fulfill network information safety and security obligations in accordance with law.
+
+Providers of AI services shall take measures to prevent the generation of false and harmful information and other content prohibited by laws and regulations, and where the provider discovers illegal content, it shall promptly take measures for handling it such as stopping generation and transmission, eliminating it, and reporting it to the main oversight department for AI.
+
+---
+
+Article 48	Identifier Obligations
+
+AI providers shall add invisible identifiers (隐式标识) in reasonable locations and areas of the content of products and services, and establish an information traceability mechanism for invisible identifiers to ensure the readability and security of invisible identifiers.
+
+Where AI products and services may lead to confusion or misidentification by the public, the provider shall take technical measures to add, in reasonable locations and areas of the content of the products and services, visible identifiers (显式标识) that do not affect use by users, and use explicit means to prompt the public with the necessary information about the AI products and services.
+
+No organization or individual shall use technical means to delete, tamper with, or conceal the identifiers added to AI products and services in accordance with law.
+
+---
+
+Article 49	Access Requirements
+
+Where laws and administrative regulations stipulate that the development and provision of AI products and services shall be licensed, the developers and providers shall obtain licenses in accordance with law.
+
+Foreign investment (外商投资) in AI products and services shall also comply with the provisions of laws and administrative regulations relating to foreign investment.
+
+Section II	Obligations for Critical AI
+
+---
+
+Article 50	Scope of Critical AI
+
+Critical AI includes the following types:
+
+(i) AI applied to critical information infrastructure;
+
+(ii) AI that has a significant impact on personal rights and interests such as the life, freedom, and dignity of individuals;
+
+(iii) Foundation models that have reached a certain level in aspects such as compute, parameters, or scale of use; and
+
+(iv) Other cases as prescribed by laws and administrative regulations.
+
+---
+
+Article 51	Security Protection Measures for Critical AI
+
+Developers and providers of critical AI shall establish security protection measures, and synchronize planning, construction, and use with critical AI.
+
+Developers, providers, and users of critical AI shall give priority to the procurement of secure and trustworthy physical equipment and information services.
+
+Developers of critical AI conducting data labeling activities shall formulate data labeling rules that comply with laws and regulations and the requirements of the main oversight departments for AI, establish a data labeling audit mechanism, and improve the fairness, accuracy, and veracity of labeling.
+
+---
+
+Article 52	Organizational Structure for Critical AI
+
+Developers and providers of critical AI shall set up a specialized security management institution responsible for the security management of critical AI.
+
+Developers and providers of critical AI shall designate a person with responsibility for (负责人) AI protection, who shall be responsible for the supervision and management of AI development and provisioning activities as well as the protection measures taken. The contact information of the person with responsibility for AI protection shall be made public, and the name and contact information of the person with responsibility for AI protection shall be reported to the main oversight department for AI.
+
+---
+
+Article 53	Registration of Critical AI
+
+Providers of critical AI shall, within 7 working days from the date of receiving a notice of determination [that they are indeed providers of critical AI], register through the national AI supervision platform and perform the filing procedures. The department in charge of AI shall, within 30 working days, conduct the record-keeping or request additional materials.
+
+Other AI products and services that, by laws and regulations, require registration shall be registered in accordance with the procedures prescribed by laws and regulations.
+
+---
+
+Article 54	Security Risk Assessment of Critical AI
+
+Developers and providers of critical AI shall, on their own or by commissioning a third-party organization, conduct at least one AI security risk assessment of critical AI each year, promptly rectify any security problems found, and report out to the main oversight department for AI.
+
+---
+
+Article 55	Disclosure of Security Risks of Critical AI
+
+Developers and providers of critical AI shall establish an AI security risk disclosure mechanism, and strengthen the monitoring of security risks in all aspects of AI; when they find that a security risk exists, they shall promptly fulfill their notification obligations in accordance with law and disclose the security risks to users.
+
+Developers and providers of critical AI shall provide appropriate means of human-computer interaction to facilitate users’ carrying out of effective manual supervision during the use of products and services.
+
+---
+
+Article 56	Security Emergency Response for Critical AI
+
+Developers and providers of critical AI shall establish a security emergency response plan, and in the event of an AI security incident, immediately activate the security emergency response plan, summarize the risk information, take appropriate remedial measures, and promptly report out to the main oversight department for AI.
+
+Developers and providers of critical AI may take emergency measures that interrupt operation when necessary; operation shall be resumed promptly after the security risks are removed.
+
+---
+
+Article 57	Obligation to Report Changes in Critical AI Entities
+
+When critical AI developers and providers undergo a merger, division, dissolution, etc., they shall promptly report it to the main oversight department for AI, and handle the critical AI in accordance with the requirements of the main oversight department for AI.
+
+---
+
+Chapter V	Supervision and Management
+
+---
+
+Article 58	Overall Coordination Mechanism
+
+The State establishes an AI overall planning and coordination mechanism to comprehensively guide, coordinate, and provide overall planning of the State’s AI development and management work.
+
+The AI overall planning and coordinating mechanism coordinates with the main oversight departments for AI in advancing the following work in accordance with law:
+
+(i) Researching the formulation of, and guiding the implementation of, national AI strategies and plans;
+
+(ii) Establishing and implementing mechanisms for the supervision and management of AI risks;
+
+(iii) Formulating specific rules and standards for ethics reviews of AI S&T, data labeling, critical AI security, grading and categorization, and license registration;
+
+(iv) Promoting the construction of a society-oriented (社会化) service system for AI evaluation, and supporting relevant institutions in carrying out AI education and training and other related work; and
+
+(v) Other duties as prescribed by laws and administrative regulations.
+
+---
+
+Article 59	Main Oversight Departments
+
+The relevant departments of the State Council, in accordance with the provisions of this Law and relevant laws and administrative regulations, are responsible for the supervision and management of AI within their respective areas of responsibility. For the relevant departments of local people’s governments at or above the county level, AI supervision and management duties shall be determined in accordance with relevant national regulations.
+
+The departments specified in the preceding two paragraphs are collectively referred to as the main oversight departments for AI.
+
+---
+
+Article 60	Regulatory Duties
+
+The main oversight departments for AI in the relevant industries or fields perform the following AI regulatory duties:
+
+(i) Formulating norms and implementation rules for the supervision and management of AI in their own industries and fields;
+
+(ii) Carrying out AI compliance propaganda and education, and guiding and supervising AI developers, providers, and users in fulfilling their obligations in accordance with law;
+
+(iii) Organizing risk assessments of AI products and services;
+
+(iv) Investigating and handling illegal AI development, provision, and use activities;
+
+(v) Accepting and handling complaints and reports related to AI products and services; and
+
+(vi) Other duties as prescribed by laws and administrative regulations.
+
+---
+
+Article 61	Grading and Categorization
+
+The State establishes a system for the grading and categorization of AI according to the degree of importance of AI in economic and social development, as well as the degree of harm that may be caused to national security, the public interest, or the legitimate rights and interests of individuals and organizations, carries out supervision and management in a graded and categorized manner, and implements special regulation of critical AI in accordance with law.
+
+The main oversight departments for AI establish a grading and categorization assessment mechanism, formulate AI grading and categorization standards and adjust them dynamically according to factors such as technological development, industries and fields, and application scenarios, and update the AI grading and categorization guidelines in a timely manner.
+
+---
+
+Article 62	Special Supervision and Administration of Critical AI
+
+The State formulates a regulatory system for critical AI, implements special supervision and management of critical AI development, provision, and use activities, and carries out the following work:
+
+(i) Organizing the identification of critical AI and announcing the results of identification in a timely manner;
+
+(ii) Formulating and issuing a product catalog for the procurement of critical AI;
+
+(iii) Conducting regular assessments of critical AI products and services in accordance with relevant national standards, or commissioning third-party organizations to conduct safety and security certification;
+
+(iv) Conducting random inspections and testing of the safety and security risks of critical AI products and services, proposing improvement measures, and commissioning third-party organizations to conduct audits when necessary; and
+
+(v) Regularly organizing security emergency drills for providers of critical AI products and services to improve the level of response to AI security incidents and the ability to collaborate.
+
+---
+
+Article 63	Risk Monitoring and Emergency Response Mechanisms
+
+The main oversight departments for AI formulate a system of AI security monitoring and warning and information notification, strengthen the collection, analysis, and notification of AI security information, and announce AI security monitoring and warning information in accordance with regulations.
+
+The main oversight departments for AI establish a sound mechanism for AI emergency response, formulate an emergency response plan, and organize regular drills. The AI security incident emergency response plan shall undertake AI security incident grading in accordance with factors such as the degree of harm and scope of impact, and stipulate the corresponding emergency handling measures.
+
+---
+
+Article 64	Assessment and Evaluation
+
+The State promotes the development of the AI safety and security assessment and evaluation, certification, and other service industries, supports relevant professional organizations in carrying out service activities in accordance with law, and promotes mutual recognition of the results of AI safety and security assessments. The State coordinates the establishment of an AI assessment and evaluation platform, establishes a unified, authoritative, and dynamically updated AI assessment framework, assessment dataset, and assessment standards, and opens up the technical interface of the platform for enterprise assessment.
+
+---
+
+Article 65	Supervision, Inspection, and Cooperation
+
+In performing its AI supervision and management duties, a main oversight department for AI may take the following measures in accordance with law:
+
+(i) Questioning the parties concerned and investigating circumstances relating to AI development, provision, and use activities;
+
+(ii) Inspecting and copying the contracts, records, account books, and other relevant information related to AI development, provision, and use activities;
+
+(iii) Conducting on-site inspections and investigations of AI development, provision, and use activities suspected of violating the law; and
+
+(iv) Reporting to the main person with responsibility in the department, in writing, when there is evidence that equipment or items have been used for illegal AI development, provision, or use activities. Upon approval, it may seize or impound such equipment or items in accordance with law.
+
+When main oversight departments for AI perform their duties in accordance with law, the parties concerned shall give them assistance and cooperation, and shall not refuse or obstruct them.
+
+Main oversight departments for AI and their personnel must strictly keep confidential the personal information and trade secrets they gain knowledge of in the course of performing their duties, and shall not divulge, sell, or illegally provide the same to others.
+
+---
+
+Article 66	Pilot Supervision and Management
+
+The State establishes an AI supervision and management pilot mechanism, and improves the starting conditions, scope and duration, and operating rules of the supervision and management pilot.
+
+For AI developers and providers entering the supervision and management pilot, the main oversight departments for AI shall, in accordance with law, provide corresponding facilitation, incentives, or liability relief with respect to entry conditions, risk assessment, auditing, and legal liabilities.
+
+---
+
+Article 67	Diversified Coordination
+
+The State encourages the establishment of AI industry organizations, strengthens industry self-regulation, formulates industry norms and guidelines, issues industry best practices and compliance guidelines, and provides enterprises guidance on compliance and the protection of users’ rights and interests.
+
+Main oversight departments for AI, industry organizations, enterprises, educational and scientific research institutions, and relevant professional institutions shall collaborate in the assessment, prevention, and handling of AI security risks, and main oversight departments for AI, relevant industry associations, enterprises, and scientific research institutions are encouraged to develop and share AI security technologies and security information, so as to build an AI technology governance ecosystem.
+
+---
+
+Article 68	Expert Committee
+
+The main oversight departments for AI organize and establish an expert committee on AI consisting of experts in technology, law, ethics, social [science], and medicine, and other experts, to provide consultation, assessment, validation, and other professional support for AI safety and security work.
+
+---
+
+Chapter VI	Special Application Scenarios
+
+---
+
+Article 69	Use of AI by State Organs
+
+Where state organs use AI to implement administrative actions, they shall abide by the principles of legality, reasonable justification, and proportionality, and AI-based decisions can only be used as a reference for administrative actions.
+
+---
+
+Article 70	Judicial AI
+
+Judicial AI development, provision, and use activities shall adhere to the principles of security and legality, fairness and impartiality, assistance in trials (辅助审判), transparency and credibility, and public order and moral decency (公序良俗).
+
+Where AI is used to assist judicial work, AI-based decisions may only be used as a reference for judicial work; users shall have the right to withdraw from interaction with AI products and services at any time.
+
+---
+
+Article 71	News AI
+
+Where AI is used to provide internet news and information services, the user of the AI shall formulate a special system for reviewing and approving the release of news and information, ensure the veracity and accuracy of the news and information, and increase the use of visible identifiers for AI-generated content.
+
+---
+
+Article 72	Medical AI
+
+Those who use AI to engage in medical services shall have the appropriate licenses and qualifications prescribed by law, and AI decision-making may only be used as a reference for medical activities.
+
+---
+
+Article 73	Social Bots
+
+AI providers providing social media robot (“social bot”) services shall reasonably control the quantity and quality of network information published by social bots, and review and handle the information content generated by social bots.
+
+Users shall not use social bots to manipulate and guide public opinion on the quality of goods, business reputation, or other evaluation content that concerns the legitimate rights and interests of consumers; and where users abuse social bots, AI providers shall take measures such as permission restriction, account blocking, information blocking, etc.
+
+---
+
+Article 74	Biometric Recognition
+
+The use of AI to process biometric information shall have a specific purpose and sufficient necessity, and strict protection measures shall be adopted. Where there exist other non-biometric technical solutions that can achieve the same purpose or meet the same business requirements, preference shall be given to non-biometric technical solutions.
+
+If the biometric information generated by AI is used maliciously or has the possibility of identifying a specific natural person, upon the request of the rights holder, the AI provider shall take necessary measures such as blocking, breaking links, and information deletion.
+
+---
+
+Article 75	Autonomous Driving
+
+Appropriate licenses and accesses shall be obtained for the road testing, demonstration, market launching, and transport operation of autonomous vehicles.
+
+Developers and providers of autonomous vehicles shall ensure the safety of the vehicles and shall not engage in unreasonable differential treatment of other traffic participants when the vehicles are in danger.
+
+Users of autonomous vehicles shall master and regulate the use of autonomous driving functions in accordance with road traffic regulations and the requirements of the vehicle’s instruction manual.
+
+---
+
+Article 76	Social Credit
+
+The use of AI for social credit scoring and rating shall be aimed at improving credit quality and efficiency and strengthening the level of risk management, and shall not infringe upon the right to equal access to the provision of public services or other legitimate rights and interests of individuals.
+
+---
+
+Article 77	Special Requirements for AGI
+
+Developers of AGI shall ensure safety and trustworthiness through value alignment and other technical means, conduct regular safety assessments based on risks and system capabilities, enhance the transparency and explainability of AGI, and report the results of safety assessments to the main oversight department for AI.
+
+---
+
+Chapter VII	International Cooperation
+
+---
+
+Article 78	International Governance
+
+The PRC adheres to a vision of global security that is shared, comprehensive, cooperative, and sustainable, adheres to the principle of giving equal weight to development and security, strengthens international exchanges and cooperation related to AI governance, participates in the formulation of international rules and standards related to AI, promotes the formation of AI governance frameworks and standards and norms with broad consensus, guards against AI safety and security risks, and pushes for the construction of an open, fair, and effective global AI governance mechanism.
+
+The PRC fulfills its responsibility as a permanent member of the United Nations Security Council and actively participates in global AI governance.
+
+---
+
+Article 79	Countermeasures
+
+If any country or region adopts discriminatory prohibitions, restrictions, or similar measures against China’s citizens or organizations with respect to the development, provision, or use of AI, the PRC shall have the right to take corresponding countermeasures.
+
+---
+
+Article 80	International Assistance
+
+The PRC carries out foreign assistance through economic, technological, material, talent, management, and other means to bridge the intelligence divide (智能鸿沟) and governance capacity gaps among developing countries, and promotes international cooperation for development.
+
+---
+
+Article 81	Combating Crime
+
+The PRC carries out international cooperation with other countries or regions and international organizations in the fields of law enforcement and justice in accordance with treaties and agreements it has concluded or acceded to, or in accordance with the principle of equality and mutual benefit.
+
+The State deepens and expands the working mechanisms for foreign law enforcement cooperation, improves the institutional mechanisms for judicial assistance, promotes international cooperation in the fields of law enforcement and justice, and prevents and combats the illegal use of AI technology by terrorist and extremist forces and transnational organized crime groups.
+
+---
+
+Chapter VIII	Legal Liability
+
+---
+
+Article 82	General Provisions on Administrative Penalties
+
+Any [entity] that engages in AI development, provision, or use activities in violation of the provisions of this Law will be ordered to make rectification and will be given a warning by a main oversight department for AI, and the illegal income shall be confiscated; if it refuses to make rectification, it shall be fined not more than 1 million [Chinese] yuan [Renminbi (RMB)]; and the main overseer who is directly responsible (直接负责的主管人员) and other directly responsible personnel shall be fined not less than RMB 10,000 and not more than RMB 100,000.
+
+Where there is a violation as stipulated in the preceding paragraph, and the circumstances are serious, a main oversight department for AI at or above the provincial level shall order it to make corrections, confiscate the illegal income, and impose a fine of not more than RMB 50 million or five percent of the turnover of the previous year, and it may order the suspension of the relevant line of business or cessation of operations and rectification, and notify the relevant main oversight department to revoke the relevant business permits or revoke the business license; it shall fine the main overseer who is directly responsible and other directly responsible personnel not less than RMB 100,000 and not more than RMB 1 million, and may decide to prohibit them from serving as directors, supervisors, senior management personnel, and persons with responsibility for AI safety and security in relevant enterprises within a certain period of time.
+
+---
+
+Article 83	Factors to be Considered in Administrative Penalties
+
+In making decisions on administrative penalties, main oversight departments for AI shall comprehensively consider the following factors:
+
+(i) The nature, severity, and duration of the offense and its consequences;
+
+(ii) The size, annual turnover, and market share of the offending entity;
+
+(iii) The circumstances under which the entity directly or indirectly profited from the violation;
+
+(iv) The measures taken to mitigate or deal with the violation;
+
+(v) Cooperation with investigations by main oversight departments for AI; and
+
+(vi) Prior compliance with the provisions of this Law.
+
+---
+
+Article 84	Liability of State Organs
+
+A State organ carrying out AI development, provision, or use activities shall comply with the provisions of this Law; where it violates the provisions of this Law, it shall be ordered by its superior organ or a main oversight department for AI to make corrections; the main overseer who is directly responsible and other directly responsible personnel shall be given administrative sanctions in accordance with law, and where personnel of a State organ neglect their duties, abuse their power, or engage in fraud for personal gain, which does not yet constitute a crime, they shall be given administrative sanctions in accordance with law.
+
+---
+
+Article 85	Principles for Attribution of Liability to Providers
+
+Where AI products and services cause damages to others and the provider has failed to fulfill its obligations under this Law, the provider shall bear tort liability (侵权责任).
+
+Where critical AI products and services cause damages to others and the provider cannot prove that it is not at fault, the provider shall bear tort liability. Where the law prescribes compensation limits, compensation shall be in accordance with its provisions, except where the developer or provider of the critical AI showed intent or gross negligence.
+
+---
+
+Article 86	Principles for Attribution of Liability to Users
+
+If the use of AI products and services causes damages to others and the user is at fault, the user shall bear tort liability; if the developer or provider of the AI has failed to fulfill its obligations under this Law, it shall bear the corresponding tort liability. Where [other] laws dictate otherwise, liability shall be attributed in accordance with their provisions.
+
+---
+
+Article 87	Safe Harbor (避风港) Rules for Service Providers
+
+Where a user utilizes an AI service to commit a tortious act, the rights holder has the right to notify the provider of the AI service to take necessary measures such as blocking prompts, closing or revoking the infringing account, etc. The notification shall include prima facie evidence of what constitutes infringement and the rights holder’s true identity information.
+
+The provider of AI services, after receiving the notification, shall promptly forward said notification to the relevant users and alert them of the infringement risk; if it fails to take the necessary measures in a timely manner, it shall bear joint and several liability with the user for the expanded portion of the damages.
+
+Where a provider of AI services knows or should know that a user has utilized the AI service it provides to infringe upon the civil rights and interests of other people and fails to take the necessary measures, it shall bear joint and several liability with the user.
+
+---
+
+Article 88	Coordination with Product Liability
+
+Where a defect in an AI product causes damages to another person, the injured person may request compensation from the producer and seller; AI providers and users, after assuming tort liability in accordance with law, shall have the right to recover compensation from the producer and seller.
+
+Where the AI provider or user simultaneously constitutes the producer and seller, the victim may choose to apply the provisions of this Law or the relevant legal provisions on product liability.
+
+---
+
+Article 89	Punitive Damages
+
+Where a tortfeasor knows that there are significant safety or security risks in an AI product or service and does not take the necessary measures, and the circumstances are serious, the injured person shall have the right to request that the tortfeasor bear liability for the corresponding punitive damages.
+
+---
+
+Article 90	Legal Liability for Foundation Models
+
+Where the use of a foundation model to engage in AI development, provision, or use activities violates the provisions of this Law and relevant laws and administrative regulations, and infringes on the legitimate rights and interests of the State, society, or other people, the developer, provider or user of the AI derived from the use of the foundation model shall bear legal liability. If the provider of the foundation model knows or should know that the developer, provider, or user of the derived AI engages in illegal activities using its foundation model, and fails to take the necessary measures, causing damages to others, it shall bear joint and several liability with the developer, provider, or user of the AI. However, this does not apply in cases where the foundation model is an open-source model.
+
+The developer of the foundation model shall sign an agreement or a standard contract with the developer, provider, or user of the derived AI specifying the scope of authorization, usage restrictions, risk handling, and legal liability.
+
+---
+
+Article 91	Insurance Liability
+
+Where AI products and services cause damages to others, and the AI provider or user has insured the products and services, the injured persons shall have the right to require the insurer to make compensation, and where there is a shortfall or no insurance, the tortfeasor shall make compensation.
+
+---
+
+Article 92	Public Interest Litigation
+
+Where AI provisioning activities are engaged in, in violation of the provisions of this Law, infringing the rights and interests of numerous individuals, the people’s procuratorates, legally established consumer organizations, and other organizations as determined by the main oversight departments for AI may file lawsuits with a people’s court in accordance with law.
+
+---
+
+Article 93	Compliance Exemption
+
+Where AI developers, providers, or users establish an AI risk compliance system and effectively implement it, and at the same time take the initiative to cooperate with investigations, make corrections, and accept penalties, then the administrative penalties of the work unit (单位), the main overseer who is directly responsible, and other directly responsible personnel may be reduced or exempted.
+
+Where AI developers and providers establish AI risk compliance systems and implement them effectively, and at the same time take the initiative to admit guilt and accept penalties, then the criminal penalties of the work unit, the directly responsible officer in charge, and other directly responsible personnel may be reduced or exempted.
+
+---
+
+Chapter IX	Supplementary Provisions
+
+---
+
+Article 94	Definitions
+
+Meanings of the following terms in this Law:
+
+(i) “Artificial intelligence” (AI) means technology that utilizes computers to simulate human intelligent behavior for use in prediction, recommendation, decision-making, or content generation, etc., for specialized or general purposes;
+
+(ii) “AI developers” means individuals and organizations engaged in the development of AI products and services;
+
+(iii) “AI providers” means individuals and organizations that provide AI products and services;
+
+(iv) “AI users” means individuals and organizations that use AI products and services;
+
+(v) “General purpose artificial intelligence” (“general AI”) means AI with broad cognitive capabilities that can be applied in multiple fields.
+
+---
+
+Article 95	Exclusion Provisions
+
+This Law shall not apply to the following circumstances:
+
+(i) The use of AI by a natural person for personal or family affairs;
+
+(ii) AI scientific research activities; and
+
+(iii) Free and open-source AI.
+
+Activities for the military development and utilization of AI shall be separately regulated by the Central Military Commission.
+
+---
+
+Article 96	Date of Enforcement
+
+This Law shall come into force on ___ (date).
+

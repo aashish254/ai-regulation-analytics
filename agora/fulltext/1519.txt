@@ -1,0 +1,88 @@
+AN ACT TO CREATE A NEW SECTION IN TITLE 97, CHAPTER 13, MISSISSIPPI CODE OF 1972, TO CREATE CRIMINAL PENALTIES FOR THE WRONGFUL DISSEMINATION OF DIGITIZATIONS; AND FOR RELATED PURPOSES.
+
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MISSISSIPPI:
+
+
+SECTION 1.  (1)  For the purposes of this section:
+(a)  "Candidate" means an individual who seeks a nomination or election to a federal, statewide, state district, legislative, judicial, county, county district or municipal office.
+
+
+(b)  "Digitization" means to alter an image or audio in a realistic manner utilizing an image or audio of a person, other than the person depicted, computer-generated images or audio, commonly called deepfakes.  "Digitization" also includes the creation of an image or audio through the use of software, machine learning artificial intelligence or any other computer-generated or technological means.  This includes any digital representation of speech or conduct that:
+(i)  A reasonable person would believe depicts the speech and/or conduct of an individual who did not engage in the speech and/or conduct as presented; and
+(ii)  The production of which was substantially dependent on technical means, rather than the ability of another individual to physically or verbally impersonate an individual.
+
+
+(c)  "Depicted individual" means an individual in a digitization who appears to be engaging in speech and/or conduct.
+
+
+(d)  "Disseminates" means transmitting a digitization to another person through social media, electronic mail, electronic messaging, video-sharing services or any other physical or electronic method.
+
+
+(2)  A person who disseminates a digitization or enters into a contract or other agreement to disseminate a digitization is guilty of a crime and may be sentenced as provided in subsection (3) of this section, if the person knows or has actual knowledge that the item being disseminated is a digitization and the dissemination:
+
+
+(a)  Takes place within ninety (90) days of an election;
+
+
+(b)  Is disseminated without the consent of the depicted individual; and
+
+
+(c)  Is disseminated with the intent to injure the candidate, influence the results of an election or deter any person from voting.
+
+
+(3)  A person convicted under this section may be sentenced as follows:
+
+
+(a)  If the person commits the violation with the intent to incite or cause violence, cause bodily harm or to deter any person from voting, or has been previously convicted under this section within the last five (5) years, he or she may be sentenced to imprisonment for not more than five (5) years or to a payment of a fine not more than Ten Thousand Dollars ($10,000.00), or both; or
+
+
+(b)  In other cases, to imprisonment for not more than one (1) year or to a payment of a fine not more than Five Thousand Dollars ($5,000.00), or both.
+
+
+(4)  A cause of action for injunctive relief may be maintained against any person who is reasonably believed to be about to violate or who is in the process of violating this section.  A cause of action may be brought by:
+
+
+(a)  The Attorney General;
+
+
+(b)  A district attorney if the depicted individual is a resident within their district, or if the impact of the digitization could or has impacted their district;
+
+
+(c)  The depicted individual;
+
+
+(d)  A candidate for nomination or election to a public office who is injured or likely to be injured by the dissemination of the digitization; or
+
+
+(e)  A political party whose nominee is on the ballot, and would be injured or is likely to be injured by the dissemination of the digitization.
+
+
+As part of the injunctive relief, the court may order that any disseminated digitization be removed from any social media, electronic mail, electronic messaging, video-sharing services, or any other physical or electronic method the digitization was disseminated through.
+
+
+(5)  Clear and prominent language displayed throughout the digitization that informs the viewer that the depicted individual did not engage in the depicted speech and/or conduct shall be a defense to prosecution.
+
+
+(6)  This section does not apply to:
+
+
+(a)  A provider of an interactive computer service, as defined in 47 USC Section 230(f), or an information service or communications service, as defined in 47 USC Section 153.
+
+
+(b)  A radio or television broadcasting station, including a cable or satellite television operator, programmer or producer that broadcasts any digitization prohibited by subsection (2) of this section as part of a bona fide newscast, news interview, news documentary, or on-the-spot coverage or a bona fide news event.
+
+
+(c)  A radio or television broadcasting station, including a cable or satellite television operator, programmer, producer, or internet website or online platform when the station or online platform is paid to broadcast any digitization prohibited by this section.
+
+
+(d)  An internet website or service provider, or a regularly published newspaper, magazine, or other periodical of general circulation, including an internet or electronic publication, that routinely carries news and commentary of general interest and that publishes any digitization prohibited by subsection (2) of this section, if the publication clearly states that the election communication, including materially deceptive media, does not accurately represent a ballot issue or candidate.
+
+
+(e)  Content that constitutes satire or parody.
+
+
+(f)  A person who disseminates or receives a digitization to determine if it is a digitization for the purpose of detecting, preventing, responding to, or protecting against security incidents, identify theft, fraud, harassment, malicious or deceptive activities or any illegal activity, preserve the integrity or security of systems or investigate, report, or prosecute those reasonable for any such action.
+
+
+SECTION 2.  This act shall take effect and be in force from and after July 1, 2024.

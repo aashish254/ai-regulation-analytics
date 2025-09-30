@@ -1,0 +1,63 @@
+ GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2023
+
+
+SENATE BILL DRS35175-LR-26
+Short Title: Study Automation and the Workforce
+Sponsors: Senators Salvador, Lowe, and Murdock (Primary Sponsors)
+
+
+A BILL TO BE ENTITLED
+AN ACT TO ESTABLISH THE STUDY COMMITTEE ON AUTOMATION AND THE WORKFORCE.
+
+
+The General Assembly of North Carolina enacts:
+
+ SECTION 1. The General Assembly finds that:
+(1) Automation during the twentieth century resulted in new job opportunities for some, but it also rendered other jobs obsolete, affecting many low-income workers.
+(2) Continued automation into the twenty-first century has resulted in the further diminishment of employment opportunities for some workers, especially workers who lack computer skills or are disadvantaged by social inequities or the digital divide.
+(3) A comprehensive review of the current and future effects of automation on the State's workforce will provide government officials, and education and business leaders, with the information and insight necessary to guide the State toward mitigating negative effects of automation on workers. This is especially true in the case of low-income and minority workers.
+
+ SECTION 2. (a) Committee Established. – There is established the Study Committee on Automation and the Workforce (Committee). The Committee shall include 11 voting members, as follows:
+(1) Two persons representing labor organizations or nonprofit organizations engaged in workforce development efforts in this State, appointed by the Governor.
+(2) Two persons representing employers or trade organizations focused on the automated workplace, appointed by the Governor.
+(3) Two persons who are members of the Senate at the time of appointment, at least one of whom represents the minority party, appointed by the President Pro Tempore of the Senate.
+(4) Two persons who are members of the House of Representatives at the time of appointment, at least one of whom represents the minority party, appointed by the Speaker of the House of Representatives.
+(5) Three persons elected to membership by the members of the Committee designated in subdivisions (1) through (4) of this subsection.
+
+ SECTION 2.(b) Nonvoting Members. – The following individuals or the individual's designee shall serve as a nonvoting ex officio member of the Committee:
+(1) The Commissioner of Agriculture
+(2) The Commissioner of Labor.
+(3) The Superintendent of Public Instruction.
+(4) The Secretary of Commerce.
+(5) The State Chief Information Officer.
+(6) The President of the North Carolina Community College System.
+(7) The President of The University of North Carolina.
+
+ SECTION 2.(c) Duties. – The Committee shall serve as a study and advisory committee on the effects of automation on the State's workforce, with a special emphasis on low-income and minority workers. The Committee shall review all of the following issues:
+(1) The current and potential future impact of the following automation technologies on the State's low-income workforce:
+a. Artificial intelligence.
+b. Industrial robotics.
+c. Technologies that help customers serve themselves without the assistance of a human worker.
+d. Word processing software, spreadsheet software, and other software or cloud computing services that reduce or eliminate the need for a human worker.
+(2) How factors such as educational attainment, educational deficits, social inequities, or any other relevant factors affect the displacement of low-income workers by automation.
+(3) The education, training, and retraining requirements, and other skills development, that will be necessary to help low-income workers adapt to automation through the early, middle, and later years of employment to avoid or defer job displacement.
+(4) How State government can, in conjunction with the State's employers, work together to create and maintain employment opportunities given the current and potential future effects of automation on the State's workforce. The Committee may review any other pertinent matter relevant to the effects of automation on the State's workforce.
+
+ SECTION 2.(d) Terms. – Except for the persons elected by the Committee, all appointing authorities shall make appointments to the Committee by October 1, 2023, and the terms of all members shall commence on October 1, 2023. The election of members shall be conducted during the initial organizational meeting of the Committee, with the terms of the elected members deemed to begin on October 1, 2023.
+
+ SECTION 2.(e) Organization/Administration. – The President Pro Tempore of the Senate and the Speaker of the House of Representatives shall each designate a cochair from among the voting members of the Committee. The cochair appointed by the President Pro Tempore of the Senate shall preside over the Committee during the odd-numbered year, and the cochair appointed by the Speaker of the House of Representatives shall preside in the even-numbered year. A cochair may preside at any time during the absence of the presiding cochair or upon the presiding cochair's designation. The Committee shall meet upon the call of its cochairs.
+
+
+All voting members shall be appointed for a term of two years. Voting members may be reappointed to successive terms. A vacancy on the Committee shall be filled by the original appointing authority using the criteria for the prior appointment. Any appointment to fill a vacancy on the Committee created by the resignation, dismissal, death, disability, or disqualification of a member shall be for the balance of the unexpired term. The Governor may remove any member of the Committee for misfeasance, malfeasance, or nonfeasance, pursuant to the provisions of G.S. 143B-13.
+
+
+Members of the Committee shall receive per diem and necessary travel and subsistence expenses in accordance with G.S. 120-3.1, 138-5, and 138-6, as applicable. The Committee may meet in the Legislative Building or the Legislative Office Building. A majority of the voting members shall constitute a quorum.
+
+
+The Legislative Services Officer shall assign professional and clerical staff and provide other necessary resources to assist the Committee in its work.
+
+ SECTION 2.(f) Reporting. – The Committee shall submit its initial written report to the Governor and to the Joint Legislative Commission on Governmental Operations prior to the convening of the 2025 General Assembly, and thereafter it shall report biennially. The report shall contain a detailed summary of conclusions and recommendations for each issue reviewed under this act. Any advice recommending a change to a policy, rule, or law shall be accompanied by a specific policy or legislative proposal and the estimated cost of implementing the change.
+
+
+SECTION 3. Effective Date. – This act is effective when it becomes law.

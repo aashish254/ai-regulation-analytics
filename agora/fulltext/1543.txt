@@ -1,0 +1,134 @@
+The people of the State of California do enact as follows:
+
+
+SECTION 1. The Legislature finds and declares all of the following:
+(a) The sexual abuse of children is a most serious crime and an act repugnant to the moral instincts of decent people. Therefore, the prevention of sexual exploitation and abuse of children constitutes a government objective of paramount importance. California has a compelling interest in protecting the physical and psychological well-being of children and in eliminating the market for images of child sexual exploitation.
+(b) Child sexual assault material (CSAM) is a visual depiction of the sexual abuse and exploitation of children. Its creation, distribution, and possession perpetuates the sexual exploitation of children and places children in danger of exploitation. Research has shown a correlation between the consumption of CSAM and an increased risk of individuals engaging in hands-on sexual offenses against minors. This is similar to research on the impact of legal pornography, which has concluded that pornography may increase sexually aggressive thoughts and behaviors.
+(c) The possession of CSAM normalizes and validates the sexual exploitation of children and contributes to new victimization. Some offenders use CSAM to groom children into believing that sex with adults is appropriate. Moreover, for some higher risk offenders, viewing CSAM leads to escalating behavior, including physical sexual assault of children. Moreover, exchange of CSAM over internet communities allows offenders to promote CSAM and validate the sexual abuse of children.
+(d) The harms identified above exist regardless of how CSAM is produced, and it is imperative that we protect our children from that harm regardless of how the images are produced.
+(e) Artificial intelligence (AI) technology is advancing to the point where it can create images that may be indistinguishable from traditional photographs, and this advanced technology is now being used to create CSAM. Internet websites available to the public offer services that will create artificial CSAM, whether with or without an existing image of a real child.
+(f) The creation of CSAM using AI is inherently harmful to children because the machine-learning models utilized by AI have been trained on datasets containing thousands of depictions of known CSAM victims, revictimizing these real children by using their likeness to generate AI CSAM images into perpetuity.
+(g) The threat posed by AI-generated CSAM is real now and is emerging quickly as a serious impediment to protecting our children.
+(h) CSAM that incorporates, in any manner, an image of a real child is not protected by the First Amendment. The First Amendment does not protect obscenity, even if that obscenity was created entirely by AI.
+(i) Federal law already prohibits obscene visual representations of the sexual abuse of children, even if it is created without using a real child.
+(j) As technology evolves, so must our laws. California’s law regulating CSAM must be updated to also prohibit artificially created images that depict the sexual assault and exploitation of children and that are obscene.
+(k) Amendments can be made to California’s existing CSAM prohibitions so that California can also prohibit obscene visual representations of the sexual abuse of children and distribution of sexually explicit images of persons who are, or who appear to be, children.
+
+
+SEC. 2. Section 311 of the Penal Code is amended to read:
+
+
+311. As used in this chapter, the following definitions apply:
+(a) “Obscene matter” means matter, taken as a whole, that to the average person, applying contemporary statewide standards, appeals to the prurient interest, that, taken as a whole, depicts or describes sexual conduct in a patently offensive way, and that, taken as a whole, lacks serious literary, artistic, political, or scientific value.
+(1) If it appears from the nature of the matter or the circumstances of its dissemination, distribution, or exhibition that it is designed for clearly defined deviant sexual groups, the appeal of the matter shall be judged with reference to its intended recipient group.
+(2) In prosecutions under this chapter, if the circumstances of production, presentation, sale, dissemination, distribution, or publicity indicate that matter is being commercially exploited by the defendant for the sake of its prurient appeal, this evidence is probative with respect to the nature of the matter and may justify the conclusion that the matter lacks serious literary, artistic, political, or scientific value.
+(3) In determining whether the matter taken as a whole lacks serious literary, artistic, political, or scientific value in description or representation of those matters, the fact that the defendant knew that the matter depicts persons under 16 years of age engaged in sexual conduct, as defined in subdivision (c) of Section 311.4, is a factor that may be considered in making that determination.
+
+
+(b) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+
+
+(c) “Matter” means any book, magazine, newspaper, or other printed or written material, or any picture, drawing, photograph, motion picture, or other pictorial representation, or any statue or other figure, or any recording, transcription, or mechanical, chemical, or electrical reproduction, or any other article, equipment, machine, or material. “Matter” also means live or recorded telephone messages if transmitted, disseminated, or distributed as part of a commercial transaction.
+
+
+(d) “Person” means any individual, partnership, firm, association, corporation, limited liability company, or other legal entity.
+
+
+(e) “Distribute” means transfer possession of, whether with or without consideration.
+
+
+(f) “Knowingly” means being aware of the character of the matter or live conduct.
+
+
+(g) “Exhibit” means show.
+
+
+(h) “Obscene live conduct” means any physical human body activity, whether performed or engaged in alone or with other persons, including, but not limited to, singing, speaking, dancing, acting, simulating, or pantomiming, taken as a whole, that to the average person, applying contemporary statewide standards, appeals to the prurient interest and is conduct that, taken as a whole, depicts or describes sexual conduct in a patently offensive way and that, taken as a whole, lacks serious literary, artistic, political, or scientific value.
+(1) If it appears from the nature of the conduct or the circumstances of its production, presentation, or exhibition that it is designed for clearly defined deviant sexual groups, the appeal of the conduct shall be judged with reference to its intended recipient group.
+(2) In prosecutions under this chapter, if circumstances of production, presentation, advertising, or exhibition indicate that live conduct is being commercially exploited by the defendant for the sake of its prurient appeal, that evidence is probative with respect to the nature of the conduct and may justify the conclusion that the conduct lacks serious literary, artistic, political, or scientific value.
+(3) In determining whether the live conduct taken as a whole lacks serious literary, artistic, political, or scientific value in description or representation of those matters, the fact that the defendant knew that the live conduct depicts persons under 16 years of age engaged in sexual conduct, as defined in subdivision (c) of Section 311.4, is a factor that may be considered in making that determination.
+
+
+(i) The Legislature expresses its approval of the holding of People v. Cantrell, 7 Cal. App. 4th 523, that, for the purposes of this chapter, matter that “depicts a person under 18 years of age personally engaging in or personally simulating sexual conduct” is limited to visual works that depict that conduct.
+
+
+SEC. 3. Section 311.2 of the Penal Code is amended to read:
+311.2. (a) Every person who knowingly sends or causes to be sent, or brings or causes to be brought, into this state for sale or distribution, or in this state possesses, prepares, publishes, produces, or prints, with intent to distribute or to exhibit to others, or who offers to distribute, distributes, or exhibits to others, any obscene matter is for a first offense, guilty of a misdemeanor. If the person has previously been convicted of any violation of this section, the court may, in addition to the punishment authorized in Section 311.9, impose a fine not exceeding fifty thousand dollars ($50,000).
+
+
+(b) Every person who knowingly sends or causes to be sent, or brings or causes to be brought, into this state for sale or distribution, or in this state possesses, prepares, publishes, produces, develops, duplicates, or prints any representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner, any film, filmstrip, or any digitally altered or artificial-intelligence-generated matter, with intent to distribute or to exhibit to, or to exchange with, others for commercial consideration, or who offers to distribute, distributes, or exhibits to, or exchanges with, others for commercial consideration, any obscene matter, knowing that the matter depicts a person under 18 years of age personally engaging in or personally simulating sexual conduct, as defined in Section 311.4, or that it contains a digitally altered or artificial-intelligence-generated depiction what appears to be a person under 18 years of age engaging in such conduct, is guilty of a felony and shall be punished by imprisonment in the state prison for two, three, or six years, or by a fine not exceeding one hundred thousand dollars ($100,000), in the absence of a finding that the defendant would be incapable of paying that fine, or by both that fine and imprisonment.
+
+
+(c) (1) Every person who knowingly sends or causes to be sent, or brings or causes to be brought, into this state for sale or distribution, or in this state possesses, prepares, publishes, produces, develops, duplicates, or prints any representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner, any film, filmstrip, or any digitally altered or artificial-intelligence-generated matter, with intent to distribute or exhibit to, or to exchange with, a person 18 years of age or older, or who offers to distribute, distributes, or exhibits to, or exchanges with, a person 18 years of age or older any matter, knowing that the matter depicts a person under 18 years of age personally engaging in or personally simulating sexual conduct, as defined in Section 311.4, or any obscene matter that contains a digitally altered or artificial-intelligence-generated depiction of what appears to be a person under 18 years of age engaging in such conduct, shall be punished by imprisonment in the county jail for up to one year, or by a fine not exceeding two thousand dollars ($2,000), or by both that fine and imprisonment, or by imprisonment in the state prison. If a person has been previously convicted of a violation of this subdivision, they are guilty of a felony.
+(2) It is not necessary to prove commercial consideration in order to establish a violation of this subdivision.
+(3) It is not necessary to prove that matter that depicts a real person under 18 years of age is obscene or lacks serious literary, artistic, political, or scientific value in order to establish a violation of this subdivision.
+
+
+(d) (1) Every person who knowingly sends or causes to be sent, or brings or causes to be brought, into this state for sale or distribution, or in this state possesses, prepares, publishes, produces, develops, duplicates, or prints any representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner any film, filmstrip, or any digitally altered or artificial-intelligence-generated matter, with intent to distribute or exhibit to, or to exchange with, a person under 18 years of age, or who offers to distribute, distributes, or exhibits to, or exchanges with, a person under 18 years of age any matter, knowing that the matter depicts a person under 18 years of age personally engaging in or personally simulating sexual conduct, as defined in Section 311.4, or any obscene matter that contains a digitally altered or artificial-intelligence-generated depiction of what appears to be a person under 18 years of age engaging in such conduct, is guilty of a felony.
+(2) It is not necessary to prove commercial consideration in order to establish a violation of this subdivision.
+(3) It is not necessary to prove that matter that depicts a real person under 18 years of age is obscene or lacks serious literary, artistic, political, or scientific value in order to establish a violation of this subdivision.
+
+
+(e) Subdivisions (a) to (d), inclusive, do not apply to the activities of law enforcement and prosecuting agencies in the investigation and prosecution of criminal offenses, to legitimate medical, scientific, or educational activities, or to lawful conduct between spouses.
+
+
+(f) This section does not apply to matter that depicts a legally emancipated child under 18 years of age or to lawful conduct between spouses when one or both are under 18 years of age.
+
+
+(g) It does not constitute a violation of this section for a telephone corporation, as defined by Section 234 of the Public Utilities Code, to carry or transmit messages described in this chapter or to perform related activities in providing telephone services.
+
+
+SEC. 4. Section 311.11 of the Penal Code is amended to read:
+
+
+311.11. (a) (1) Every person who knowingly possesses or controls any matter, representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner, any film, filmstrip, or any digitally altered or artificial-intelligence-generated matter, the production of which involves the use of a person under 18 years of age, knowing that the matter depicts a person under 18 years of age personally engaging in or simulating sexual conduct, as defined in subdivision (d) of Section 311.4, is guilty of a felony and shall be punished by imprisonment in the state prison, or a county jail for up to one year, or by a fine not exceeding two thousand five hundred dollars ($2,500), or by both the fine and imprisonment.
+(2) Every person who knowingly possesses or controls any matter, representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner, any film, filmstrip, or any digitally altered or artificial-intelligence-generated matter, knowing that the matter is obscene and depicts what appears to be a person under 18 years of age, or contains digitally altered or artificial-intelligence-generated data depicting what appears to be a person under 18 years of age, engaging in or simulating sexual conduct, as defined in subdivision (d) of Section 311.4, is guilty of a felony and shall be punished by imprisonment in the state prison, or imprisonment in a county jail for up to one year, or by a fine not exceeding two thousand five hundred dollars ($2,500), or by both that fine and imprisonment.
+
+
+(b) Every person who commits a violation of subdivision (a), and who has been previously convicted of a violation of this section, an offense requiring registration under the Sex Offender Registration Act, or an attempt to commit any of the above-mentioned offenses, is guilty of a felony and shall be punished by imprisonment in the state prison for two, four, or six years.
+
+
+(c) Each person who commits a violation of subdivision (a) shall be punished by imprisonment in the state prison for 16 months, or two or five years, or shall be punished by imprisonment in a county jail for up to one year, or by a fine not exceeding two thousand five hundred dollars ($2,500), or by both the fine and imprisonment, if one of the following factors exists:
+(1) The matter contains more than 600 images that violate subdivision (a), and the matter contains 10 or more images involving a prepubescent minor or a minor who has not attained 12 years of age.
+(2) The matter portrays sexual sadism or sexual masochism involving a person under 18 years of age. For purposes of this section, “sexual sadism” means the intentional infliction of pain for purposes of sexual gratification or stimulation. For purposes of this section, “sexual masochism” means intentionally experiencing pain for purposes of sexual gratification or stimulation.
+
+
+(d) It is not necessary to prove that the matter is obscene in order to establish a violation of paragraph (1) of subdivision (a).
+(1) Paragraph (1) of subdivision (a) does not apply to drawings, figurines, or statues.
+(2) This section does not apply to any film rated by the Motion Picture Association of America, nor does it apply to live or recorded telephone messages when transmitted, disseminated, or distributed as part of a commercial transaction.
+
+
+(e) For purposes of determining the number of images under paragraph (1) of subdivision (c), the following shall apply:
+(1) Each photograph, picture, computer or computer-generated image, or any similar visual depiction shall be considered to be one image.
+(2) Each video, video-clip, movie, or similar visual depiction shall be considered to have 50 images.
+
+
+SEC. 5. Section 311.12 of the Penal Code is amended to read:
+
+
+311.12. (a) (1) Every person who is convicted of a violation of Section 311.1, 311.2, 311.3, 311.10, or 311.11 in which the violation is committed on, or via, a government-owned computer or via a government-owned computer network, shall, in addition to any imprisonment or fine imposed for the commission of the underlying offense, be punished by a fine not exceeding two thousand dollars ($2,000), unless the court determines that the defendant does not have the ability to pay.
+(2) Every person who is convicted of a violation of Section 311.1, 311.2, 311.3, 311.10, or 311.11 in which the production, transportation, or distribution of which involves the use, possession, or control of government-owned property shall, in addition to any imprisonment or fine imposed for the commission of the underlying offense, be punished by a fine not exceeding two thousand dollars ($2,000), unless the court determines that the defendant does not have the ability to pay.
+
+
+(b) The fines in subdivision (a) shall not be subject to the provisions of Sections 70372, 76000, 76000.5, and 76104.6 of the Government Code, or Sections 1464 and 1465.7 of this code.
+
+
+(c) Revenue from any fines collected pursuant to this section shall be deposited into a county fund established for that purpose and allocated as follows, and a county may transfer all or part of any of those allocations to another county for the allocated use:
+(1) One-third for sexual assault investigator training.
+(2) One-third for public agencies and nonprofit corporations that provide shelter, counseling, or other direct services for victims of human trafficking.
+(3) One-third for multidisciplinary teams.
+
+
+(d) As used in this section:
+(1) “Computer” includes any computer hardware, computer software, computer floppy disk, data storage medium, or CD-ROM.
+(2) “Government-owned” includes property and networks owned or operated by state government, city government, city and county government, county government, a public library, or a public college or university.
+(3) “Multidisciplinary teams” means a child-focused, facility-based program in which representatives from many disciplines, including law enforcement, child protection, prosecution, medical and mental health, and victim and child advocacy work together to conduct interviews and make team decisions about the investigation, treatment, management, and prosecution of child abuse cases, including child sexual abuse cases. It is the intent of the Legislature that this multidisciplinary team approach will protect victims of child abuse from multiple interviews, result in a more complete understanding of case issues, and provide the most effective child- and family-focused system response possible.
+
+
+(e) This section shall not be construed to require any government or government entity to retain data in violation of any provision of state or federal law.
+
+
+SEC. 6. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+
+
+SEC. 7. This act shall become operative only if Senate Bill 1381 of the 2023–24 Regular Session is enacted and takes effect on or before January 1, 2025.

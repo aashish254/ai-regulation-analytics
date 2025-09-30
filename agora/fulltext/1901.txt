@@ -1,0 +1,91 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Leadership in Critical and Emerging Technologies Act” or the “Leadership in CET Act”.
+
+SEC. 2. Pilot program for expediting examination of certain critical and emerging technology patent applications.
+
+(a) Definitions.—In this section:
+
+(1) COVERED APPLICATION.—The term “covered application” means an application for patent with respect to an eligible critical or emerging technology.
+
+(2) DIRECTOR.—The term “Director” means the Under Secretary of Commerce for Intellectual Property and Director of the Office.
+
+(3) ELIGIBLE CRITICAL OR EMERGING TECHNOLOGY.—The term “eligible critical or emerging technology” means—
+
+(A) artificial intelligence, as defined in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401);
+
+(B) microelectronics, as defined in section 10731(a) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19331(a)); or
+
+(C) quantum information science, as defined in section 2 of the National Quantum Initiative Act (15 U.S.C. 8801).
+
+(4) EXPEDITE.—The term “expedite” means, with respect to a covered application, to advance that covered application out of turn through the use of a petition to make special.
+
+(5) OFFICE.—The term “Office” means the United States Patent and Trademark Office.
+
+(6) PILOT PROGRAM.—The term “pilot program” means the pilot program established under subsection (b).
+
+(b) Establishment.—Not later than 1 year after the date of enactment of this Act, the Director shall establish a pilot program to expedite the examination, under section 131 of title 35, United States Code, of covered applications.
+
+(c) Purpose.—The purpose of the pilot program shall be to encourage innovation by, and the leadership of, the United States with respect to critical or emerging technologies by ensuring that covered applications receive prompt consideration.
+
+(d) Implementation.—In carrying out the pilot program, the Director—
+
+(1) shall establish the process by which covered applications are expedited;
+
+(2) may waive—
+
+(A) the petition fee described in section 1.102(d) of title 37, Code of Federal Regulations, or any successor regulation; or
+
+(B) any other requirement of the Office relating to the accelerated examination program or the prioritized examination program; and
+
+(3) may establish reasonable limitations on the number of covered applications that an applicant may submit for expedited examination under the pilot program.
+
+(e) Qualifying applications.—To best achieve the purpose of the pilot program, the Director shall ensure that a covered application satisfies the following requirements to qualify for the pilot program:
+
+(1) The applicant submitting the covered application is—
+
+(A) an entity that is incorporated in the United States; or
+
+(B) an inventor who resides in the United States.
+
+(2) The covered application is a noncontinuing, original, and nonprovisional patent application.
+
+(f) Termination.—
+
+(1) IN GENERAL.—The pilot program shall terminate on the earlier of the following:
+
+(A) The date that is 5 years after the date on which the Director first issues a patent for an invention claimed in a covered application that is expedited under the pilot program.
+
+(B) The date on which the Director has accepted 10,000 covered applications for participation in the pilot program, without regard to whether those covered applications have been expedited under the pilot program.
+
+(2) RENEWAL.—If the pilot program terminates under paragraph (1)(B), the Director may renew the pilot program for the shorter of the following:
+
+(A) An additional 5-year period.
+
+(B) An additional period—
+
+(i) beginning on the date on which the pilot program terminates under paragraph (1)(B); and
+
+(ii) ending on the date on which the Director has accepted an additional 10,000 covered applications for participation in the pilot program, without regard to whether those covered applications have been expedited under the pilot program.
+
+(3) NOTICE OF RENEWAL.—The Director shall notify Congress of the intent of the Director to renew the pilot program under paragraph (2) not later than the date that is the earlier of the following:
+
+(A) The date that is 60 days before the date described in paragraph (1)(A).
+
+(B) The date that is 30 days after the date on which the Director has accepted 8,000 covered applications for participation in the pilot program, without regard to whether those covered applications have been expedited under the pilot program.
+
+(g) Public availability of information.—The Director shall make publicly available in an easily accessible location on the website of the Office information about the pilot program, including—
+
+(1) the number of covered applications received by the Director for participation in the pilot program;
+
+(2) the number of covered applications described in paragraph (1) that the Director has accepted for participation in the pilot program; and
+
+(3) the number of patents that have been issued for inventions claimed in covered applications expedited under the pilot program.
+
+(h) Report to Congress.—
+
+(1) IN GENERAL.—Not later than 180 days after the date on which the pilot program terminates (including any renewal of the pilot program under subsection (f)(2)), the Director shall submit to Congress a report that assesses the impact and effectiveness of the pilot program based on all available data.
+
+(2) APPLICABILITY.—The collection of any data for the purposes of carrying out paragraph (1) shall be exempt from subchapter I of chapter 35 of title 44, United States Code (commonly referred to as the “Paperwork Reduction Act”).

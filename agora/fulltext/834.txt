@@ -1,0 +1,5 @@
+SEC. 13. EQUIPMENT INSPECTIONS.
+Not later than 12 months after the date of enactment of this Act, the Secretary of Transportation shall issue such regulations as are necessary to—
+(1) prohibit any train from being moved out of a switchyard before all required brake inspections of locomotives and rail cars have been completed;
+(2) allow only the Qualified Mechanical Inspector assigned to inspect a locomotive or rail car to sign off on the Form FRA F6180–49A (commonly known as the “blue card”) for locomotive inspections or the satisfactory Class I brake inspection or end of train device form relating to such locomotive or rail car related to rail car inspections; and
+(3) ensure that any inspection conducted under part 215 of title 49, Code of Federal Regulations, utilizing inspection technologies, including artificial intelligence or camera-based systems, require verification or validation by a Qualified Mechanical Inspector.

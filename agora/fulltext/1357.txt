@@ -1,0 +1,4 @@
+SEC. 5. GUIDANCE ON MEDICARE PAYMENT FOR CERTAIN ITEMS INVOLVING ARTIFICIAL INTELLIGENCE.
+Not later than January 1, 2026, the Secretary of Health and Human Services shall use existing communications mechanisms to issue guidance on requirements for payment under part B of title XVIII of the Social Security Act (42 U.S.C. 1395j et seq.) for remote monitoring devices, such as continuous glucose monitors, that—
+(1) use an artificial intelligence component (such as a continuous adjustment component); and
+(2) transmit information to a health care provider for purposes of management and treatment of an individual.

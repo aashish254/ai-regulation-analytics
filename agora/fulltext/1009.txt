@@ -1,0 +1,53 @@
+TITLE II—FILTER BUBBLE TRANSPARENCYSEC. 201. DEFINITIONS.
+In this title:
+(1) ALGORITHMIC RANKING SYSTEM.—The term “algorithmic ranking system” means a computational process, including one derived from algorithmic decision-making, machine learning, statistical analysis, or other data processing or artificial intelligence techniques, used to determine the selection, order, relative prioritization, or relative prominence of content from a set of information that is provided to a user on an online platform, including the ranking of search results, the provision of content recommendations, the display of social media posts, or any other method of automated content selection.
+(2) APPROXIMATE GEOLOCATION INFORMATION.—The term “approximate geolocation information” means information that identifies the location of an individual, but with a precision of less than 5 miles.
+(3) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+(4) CONNECTED DEVICE.—The term “connected device” means an electronic device that—
+(A) is capable of connecting to the internet, either directly or indirectly through a network, to communicate information at the direction of an individual;
+(B) has computer processing capabilities for collecting, sending, receiving, or analyzing data; and
+(C) is primarily designed for or marketed to consumers.
+(5) INPUT-TRANSPARENT ALGORITHM.—
+(A) IN GENERAL.—The term “input-transparent algorithm” means an algorithmic ranking system that does not use the user-specific data of a user to determine the selection, order, relative prioritization, or relative prominence of information that is furnished to such user on an online platform, unless the user-specific data is expressly provided to the platform by the user for such purpose.
+(B) DATA EXPRESSLY PROVIDED TO THE PLATFORM.—For purposes of subparagraph (A), user-specific data that is provided by a user for the express purpose of determining the selection, order, relative prioritization, or relative prominence of information that is furnished to such user on an online platform—
+(i) shall include user-supplied search terms, filters, speech patterns (if provided for the purpose of enabling the platform to accept spoken input or selecting the language in which the user interacts with the platform), saved preferences, the resumption of a previous search, and the current precise geolocation information that is supplied by the user;
+(ii) shall include the user’s current approximate geolocation information;
+(iii) shall include data submitted to the platform by the user that expresses the user’s desire to receive particular information, such as the social media profiles the user follows, the video channels the user subscribes to, or other content or sources of content on the platform the user has selected;
+(iv) shall not include the history of the user’s connected device, including the user’s history of web searches and browsing, previous geographical locations, physical activity, device interaction, and financial transactions; and
+(v) shall not include inferences about the user or the user’s connected device, without regard to whether such inferences are based on data described in clause (i) or (iii).
+(6) ONLINE PLATFORM.—
+(A) IN GENERAL.—The term “online platform” means any public-facing website, online service, online application, or mobile application that predominantly provides a community forum for user-generated content.
+(B) INCLUSIONS.—Such term includes sharing videos, images, games, audio files, or other content, including a social media service, social network, or virtual reality environment.
+(C) EXCLUSIONS.—Such term does not include chats, comments, or other interactive functionalities of the community forum that is incidental to the predominant purpose of the website, online service, online application, or mobile application.
+(7) OPAQUE ALGORITHM.—
+(A) IN GENERAL.—The term “opaque algorithm” means an algorithmic ranking system that determines the selection, order, relative prioritization, or relative prominence of information that is furnished to such user on an online platform based, in whole or part, on user-specific data that was not expressly provided by the user to the platform for such purpose.
+(B) EXCEPTION FOR AGE-APPROPRIATE CONTENT FILTERS.—Such term shall not include an algorithmic ranking system used by an online platform if—
+(i) the only user-specific data (including inferences about the user) that the system uses is information relating to the age of the user; and
+(ii) such information is only used to restrict a user’s access to content on the basis that the individual is not old enough to access such content.
+(8) PRECISE GEOLOCATION INFORMATION.—The term “precise geolocation information” means geolocation information that identifies an individual’s location to within a range of 5 miles or less.
+(9) USER-SPECIFIC DATA.—The term “user-specific data” means information relating to an individual or a specific connected device that would not necessarily be true of every individual or device.SEC. 202. REQUIREMENT TO ALLOW USERS TO SEE UNMANIPULATED CONTENT ON INTERNET PLATFORMS.
+(a) In General.—Beginning on the date that is 1 year after the date of enactment of this Act, it shall be unlawful for any person to operate an online platform that uses an opaque algorithm unless the person complies with the requirements of subsection (b).
+(b) Opaque Algorithm Requirements.—
+(1) IN GENERAL.—The requirements of this subsection with respect to a person that operates an online platform that uses an opaque algorithm are the following:
+(A) The person provides notice to users of the platform—
+(i) that the platform uses an opaque algorithm that uses user-specific data to select the content the user sees. Such notice shall be presented in a clear and conspicuous manner on the platform whenever the user interacts with an opaque algorithm for the first time, and may be a one-time notice that can be dismissed by the user; and
+(ii) in the terms and conditions of the online platform, in a clear, accessible, and easily comprehensible manner that is to be updated whenever the online platform makes a material change to—
+(I) the most salient features, inputs, and parameters used by the algorithm;
+(II) how any user-specific data used by the algorithm is collected or inferred about a user of the platform, and the categories of such data;
+(III) any options that the online platform makes available for a user of the platform to opt out or exercise options under subparagraph (B), modify the profile of the user or to influence the features, inputs, or parameters used by the algorithm; and
+(IV) any quantities, such as time spent using a product or specific measures of engagement or social interaction, that the algorithm is designed to optimize, as well as a general description of the relative importance of each quantity for such ranking.
+(B) The online platform enables users to easily switch between the opaque algorithm and an input-transparent algorithm in their use of the platform.
+(2) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to require an online platform to disclose any information, including data or algorithms—
+(A) relating to a trade secret or other protected intellectual property;
+(B) that is confidential business information; or
+(C) that is privileged.
+(3) PROHIBITION ON DIFFERENTIAL PRICING.—An online platform shall not deny, charge different prices or rates for, or condition the provision of a service or product to a user based on the user’s election to use an input-transparent algorithm in their use of the platform, as provided under paragraph (1)(B).
+(c) Enforcement By Federal Trade Commission.—
+(1) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.—A violation of this section by an operator of an online platform shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+(2) POWERS OF COMMISSION.—
+(A) IN GENERAL.—The Federal Trade Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this section.
+(B) PRIVILEGES AND IMMUNITIES.—Except as provided in subparagraph (C), any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+(C) AUTHORITY PRESERVED.—Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.
+(d) Rule Of Construction To Preserve Personalized Blocks.—Nothing in this section shall be construed to limit or prohibit an online platform’s ability to, at the direction of an individual user or group of users, restrict another user from searching for, finding, accessing, or interacting with such user’s or group’s account, content, data, or online community.
+SEC. 203. SEVERABILITY.
+If any provision of this title, or an amendment made by this title, is determined to be unenforceable or invalid, the remaining provisions of this title and the amendments made by this title shall not be affected.

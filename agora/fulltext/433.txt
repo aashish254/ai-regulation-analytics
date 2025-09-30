@@ -1,0 +1,31 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Preventing Deep Fake Scams Act”.SEC. 2. FINDINGS.
+The Congress finds the following:
+(1) Artificial intelligence is being used in new and innovative ways by the financial services sector.
+(2) Artificial intelligence may provide benefits to banks, credit unions, and banking consumers.
+(3) Artificial intelligence poses unique threats to the safety and security of customer accounts.
+(4) Voice banking is offered by many banks for security and convenience reasons.
+(5) The popularity of social media has made video and audio of potential targets easier to obtain for bad actors. These materials can be exploited to replicate the voices and appearances of other people in pursuit of data theft, identity theft, or fraud.
+(6) Bad actors could utilize “deep fakes”, including voice and audio manipulation, to compromise and access a consumer’s financial accounts.SEC. 3. TASK FORCE ON ARTIFICIAL INTELLIGENCE IN THE FINANCIAL SERVICES SECTOR.
+(a) Establishment.—There is established a Task Force on Artificial Intelligence in the Financial Services Sector (in this section referred to as the “Task Force”).(b) Membership.—The Task Force shall consist of the following:
+(1) The Secretary of the Treasury, or a designee, who shall serve as Chair of the Task Force.
+(2) The Comptroller of the Currency, or a designee.
+(3) The Chairman of the Board of Governors of the Federal Reserve System, or a designee.
+(4) The Chairperson of the Federal Deposit Insurance Corporation, or a designee.
+(5) The Director of the Bureau of Consumer Financial Protection, or a designee.
+(6) The Chairman of the National Credit Union Administration, or a designee.
+(7) The Director of the Financial Crimes Enforcement Network, or a designee.(c) Report.—
+(1) IN GENERAL.—Not later than the end of the 1-year period beginning on the date of enactment of this Act, the Task Force shall issue a report to Congress containing the contents described in paragraph (3).
+(2) CONSULTATION.—
+(A) REQUEST FOR INFORMATION.—Not later than 90 days after the date of enactment of this Act, the Task Force shall solicit public feedback on the report required under paragraph (1).
+(B) INDUSTRY AND EXPERT STAKEHOLDERS.—In developing the report required under paragraph (1), the Task Force shall seek out and consult with industry and expert stakeholders, including—
+(i) depository institutions of varying asset sizes;
+(ii) credit unions of varying asset sizes;
+(iii) third-party vendors who use artificial intelligence when providing services to depository institutions and credit unions; and
+(iv) artificial intelligence experts.(3) CONTENTS.—The contents of the report are the following:
+(A) A description of how banks and credit unions proactively protect themselves and consumers from fraud utilizing artificial intelligence.
+(B) A list of standard definitions for the different manners in which artificial intelligence is used, including terms like “generative AI”, “machine learning”, “natural language processing”, “algorithmic AI”, and “deep fakes”.
+(C) A description of potential risks that could result from the use of artificial intelligence by bad actors to steal consumers’ data, steal consumers’ identities, and commit fraud.
+(D) A list of best practices for financial institutions to protect their customers from attempts to steal consumer data, steal consumers’ identities, or commit fraud.
+(E) Legislative and regulatory recommendations for the regulation of artificial intelligence and to protect consumers from data theft, identity theft, and fraud.
+(d) Termination.—The Task Force shall terminate 90 days after the final report is issued pursuant to subsection (c).

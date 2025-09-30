@@ -1,0 +1,7 @@
+SEC. 235. Competitive demonstration of automated target recognition algorithms.
+
+(a) Venue, process, and scenarios.--Not later than June 1, 2025, the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in coordination with appropriate counterparts in the military departments, shall develop a venue and processes, including a specified set of baseline scenarios, for comparative testing of automated target recognition algorithms to evaluate mission efficacy.
+
+(b) Demonstration.--Not later than September 1, 2025, the Secretary of Defense shall use the venue developed under subsection (a) to test the mission capability of at least two relevant programs included in the Replicator initiative.
+
+(c) Briefing.--Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the activities carried out under this section.

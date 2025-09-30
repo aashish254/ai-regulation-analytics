@@ -1,0 +1,20 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Examining Educational Redlining in Lending Act”.SEC. 2. ASSESSMENT OF CERTAIN EDUCATIONAL DATA.
+(a) Assessment.—Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Bureau of Consumer Financial Protection (referred to in this section as the “Bureau”) shall, in coordination with relevant executive agencies and national civil rights stakeholders, assess—
+(1) the use of certain educational data by covered persons in determining the creditworthiness of an applicant;
+(2) the use of an underwriting process that involves gathering data points and creating applicant profiles, including automated or algorithmic processes, and the risks of such use, by covered persons to determine the creditworthiness of an applicant; and
+(3) what policies and guidelines are in place to ensure decisions do not result in a disparate impact on a protected class.(b) Report To Congress.—Not later than 60 days after the completion of each assessment required under subsection (a) and annually thereafter, the Bureau shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate the findings of such assessment and any recommendations based on such findings.(c) Publication.—Not later than 30 days after the completion of the assessment required under subsection (a), the Bureau shall make available on a publicly accessible website—
+(1) the findings of the assessment under subsection (a);
+(2) a list of all covered persons that use certain educational data; and
+(3) a list of all covered persons that use an underwriting process that involves gathering data points and creating applicant profiles, including automated or algorithmic processes, to determine the creditworthiness of an applicant.(d) Definitions.—In this section:
+(1) APPLICANT’S BACKGROUND.—The term “applicant’s background” includes data related to or derived from the following:
+(A) Attendance at an academic institution.
+(B) Academic majors pursued at an academic institution.
+(C) Grades or test scores from or used for admission into an academic institution.
+(D) Educational attainment.
+(2) CERTAIN EDUCATIONAL DATA.—The term “certain educational data” means data, including non-individualized data, that indicates or is created, derived, or inferred from an applicant’s background including whether an applicant has attended any of the following:
+(A) An eligible institution.
+(B) A junior or community college.
+(3) COVERED PERSON.—The term “covered person” has the meaning given such term in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481).
+(4) ELIGIBLE INSTITUTION.—The term “eligible institution” has the meaning given that term in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
+(5) JUNIOR OR COMMUNITY COLLEGE.—The term “junior or community college” has the meaning given that term in section 312(f) of the Higher Education Act of 1965 (20 U.S.C. 1058(f)).

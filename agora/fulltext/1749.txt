@@ -1,0 +1,13 @@
+SEC. 1031. Requirements for the unmanned maritime autonomy architecture.
+
+Not later than 180 days after the date of the enactment of this Act, the Secretary of the Navy shall--
+
+(1) provide a forum and resources to facilitate industry participation in the creation and management of a vendor-agnostic and platform-agnostic modular open systems architecture and associated standards for maritime unmanned systems;
+
+(2) adopt or join a governance model for the standards described in paragraph (1) that includes Government and industry participation;
+
+(3) implement a frequent or continuous process for incorporating industry feedback into the standards described in paragraph (1) and conforming those standards with leading industry practices;
+
+(4) for each relevant Navy program or contract, tailor the standards described in paragraph (1) to the minimum standards necessary to enable desired operational capabilities for the program or contract; and
+
+(5) label and distribute the standards described in paragraph (1) as open, publicly releasable information, to the greatest extent possible.

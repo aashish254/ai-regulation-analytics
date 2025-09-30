@@ -1,0 +1,21 @@
+SEC. 11226. ARTIFICIAL INTELLIGENCE STRATEGY.
+
+(a) Coordination of Data and Artificial Intelligence Activities Relating to Identifying, Demonstrating, and Where Appropriate Transitioning to Operational Use.--
+	(1) In general.--The Commandant shall coordinate data and artificial intelligence activities relating to identifying, demonstrating and where appropriate transitioning to operational use of artificial intelligence technologies when such technologies enhance mission capability or performance.
+	(2) Emphasis.--The set of activities established under paragraph (1) shall--
+		(A) apply data analytics, artificial intelligence, and machine-learning solutions to operational and mission-support problems; and
+		(B) coordinate activities involving artificial intelligence and artificial intelligence-enabled capabilities within the Coast Guard.
+(b) Designated Official.--
+	(1) In general.--Not later than 1 year after the date of enactment of this Act, the Commandant shall designate a senior official of the Coast Guard (referred to in this section as the ``designated official'') with the principal responsibility for the coordination of data and artificial intelligence activities relating to identifying, demonstrating, and, where appropriate, transitioning to operational use artificial intelligence and machine learning for the Coast Guard.
+	(2) Governance and oversight of artificial intelligence and machine learning policy.--The designated official shall regularly convene appropriate officials of the Coast Guard--
+		(A) to integrate the functional activities of the Coast Guard with respect to data, artificial intelligence, and machine learning;
+		(B) to ensure that there are efficient and effective data, artificial intelligence, and machine-learning capabilities throughout the Coast Guard, where appropriate; and
+		(C) to develop and continuously improve research, innovation, policy, joint processes, and procedures to facilitate the coordination of data and artificial intelligence activities relating to identification, demonstration, and, where appropriate, transition into operational use artificial intelligence and machine learning throughout the Coast Guard.
+(c) Strategic Plan.--
+	(1) In general.--The designated official shall develop a strategic plan to coordinate activities relating to identifying, demonstrating, and transitioning artificial intelligence technologies into operational use where appropriate.
+	(2) Elements.--The plan required by paragraph (1) shall include the following:
+		(A) A strategic roadmap for the coordination of data and artificial intelligence activities for the identification, demonstration, and transition to operational use, where appropriate, artificial intelligence technologies and key enabling capabilities.
+		(B) The continuous identification, evaluation, and adaptation of relevant artificial intelligence capabilitiesadopted by the Coast Guard and developed and adopted by other organizations for military missions and business operations.
+		(C) Consideration of the identification, adoption, and procurement of artificial intelligence technologies for use in operational and mission support activities.
+	(3) Submission to commandant.--Not later than 2 years after the date of enactment of this Act, the designated official shall submit to the Commandant the plan developed under paragraph (1).
+	(4) Submission to congress.--Not later than 2 years after the date of enactment of this Act, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives the plan developed under paragraph (1).

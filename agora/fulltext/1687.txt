@@ -1,0 +1,89 @@
+A BILL
+To provide personnel of the Department of Defense with increased access to training and education in artificial intelligence and machine learning, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Next Generation Military Education Act”.
+
+
+SEC. 2. Modification to artificial intelligence education strategy.
+
+
+Section 256 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1290) is amended by adding at the end the following new subsection:
+
+
+“(d) Artificial intelligence and machine learning education platforms.—
+
+
+“(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this subsection, the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall—
+“(A) develop a set of distance education courses on—
+“(i) the foundational concepts of artificial intelligence and machine learning; and
+“(ii) the responsible and ethical use of artificial intelligence and machine learning applications; and
+“(B) make such courses available to members of the Armed Forces.
+
+
+“(2) ELEMENTS.—The courses developed under paragraph (1) shall address—
+“(A) basic artificial intelligence literacy to enable members of the Armed Forces to make informed decisions about the use of artificial intelligence products and services, including—
+“(i) a basic understanding of the strengths and limitations of artificial intelligence products and services;
+“(ii) a basic understanding of the categories of artificial intelligence technologies (including classification, prediction, product recommendation, autonomous decision making, voice dictation and machine translation, and the generation of content such as text, image, video, and speech) and the manner in which such categories relate to different capabilities, benefits, and risks;
+“(iii) an awareness of best practices for the protection of personal data and personal identifying information based upon privacy and classification requirements;
+“(iv) an awareness of ethical considerations in the use of artificial intelligence products and services;
+“(v) the ability to identify common indicators of artificial intelligence-generated content; and
+“(vi) an awareness of common attempts to employ artificial intelligence-generated content to deceive or defraud consumers; and
+“(B) any other artificial intelligence literacy skill the Chief Digital and Artificial Intelligence Officer and the Under Secretary of Defense for Personnel and Readiness consider appropriate.
+
+
+“(3) MILITARY DEPARTMENT PARTICIPATION.—Not later than 180 days after the date of the enactment of this subsection, each Secretary of a military department shall—
+“(A) ensure that members of the Armed Forces under the jurisdiction of such Secretary have the ability to access the distance education courses made available under paragraph (1);
+“(B) notify members of the availability of such courses and provide a description of the course content; and
+“(C) provide members with instructions for accessing such courses.
+
+
+“(4) REPORT.—Not later than 270 days after the date of the enactment of this subsection, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the activities required under this section.
+
+
+“(5) DEFINITIONS.—In this subsection:
+
+
+“(A) The term ‘artificial intelligence’ has the meaning given that term in section 5002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 15 U.S.C. 9401).
+
+
+“(B) The term ‘artificial intelligence literacy’ means the ability to make informed use of products and services that employ artificial intelligence.”.
+
+
+SEC. 3. Expansion of participation in the Digital On-Demand Program.
+
+
+(a) In general.—The Secretary of Defense shall take such steps as may be necessary—
+
+
+(1) to expand participation in the Digital On-Demand Program to—
+(A) all organizations and elements of the Department of Defense; and
+(B) all members of the Armed Forces and civilian employees of the Department; and
+(2) to actively promote the Program throughout the Department.
+
+
+(b) Report.—Not later than 180 days after the date of the enactment of this Act, and on an annual basis thereafter through 2029, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the progress of the Secretary in expanding and promoting the Digital On-Demand Program as described in subsection (a).
+
+
+SEC. 4. Incorporation of artificial intelligence matters into annual cybersecurity training.
+
+
+In conjunction with the activities required under sections 2 and 3, the Secretary of Defense shall ensure that information on the risks and threats of artificial intelligence is incorporated into the annual cybersecurity training courses required to be completed by members of the Armed Forces and civilian employees of the Department of Defense.
+
+
+SEC. 5. Definitions.
+
+
+In this Act:
+
+
+(1) The term “artificial intelligence” has the meaning given that term in section 5002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 15 U.S.C. 9401).
+
+
+(2) The term “Digital On-Demand Program” means the program overseen by the Chief Digital and Artificial Intelligence Officer of the Department of Defense pursuant to which educational resources on artificial intelligence, emerging technologies, data literacy, and related topics are made available to personnel of the Department of Defense through a digital platform on an on-demand basis.

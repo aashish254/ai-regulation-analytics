@@ -1,0 +1,93 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Emerging Innovative Border Technologies Act”.
+
+SEC. 2. Innovative and emerging border technology plan.
+
+(a) In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection (CBP) and the Under Secretary for Science and Technology of the Department of Homeland Security, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a plan to identify, integrate, and deploy new, innovative, disruptive, or other emerging or advanced technologies that may incorporate artificial intelligence, machine-learning, automation, fiber-optic sensing technology, nanotechnology, optical and cognitive radar, modeling and simulation technology, hyperspectral and LIDAR sensors, imaging, identification, and categorization systems, or other emerging or advanced technologies, to enhance, or address capability gaps in, border security operations.
+
+(b) Contents.—The plan required under subsection (a) shall include the following:
+
+(1) Information regarding how CBP utilizes CBP Innovation Team authority under subsection (c) and other mechanisms to carry out the purposes specified in subsection (a).
+
+(2) An assessment of the contributions directly attributable to such utilization.
+
+(3) Information regarding the composition of each CBP Innovation Team, and how each such Team coordinates and integrates efforts with the CBP acquisition program office and other partners within CBP and the Department of Homeland Security.
+
+(4) Identification of technologies used by other Federal departments or agencies not in use by CBP that could assist in enhancing, or addressing capability gaps in, border security operations.
+
+(5) An analysis of authorities available to CBP to procure technologies referred to subsection (a), and an assessment as to whether additional or alternative authorities are needed to carry out the purposes specified in such subsection.
+
+(6) An explanation of how CBP plans to scale existing programs related to emerging or advanced technologies into programs of record.
+
+(7) A description of each planned security-related technology program, including objectives, goals, and timelines for each such program.
+
+(8) An assessment of the privacy and security impact on border communities of security-related technology.
+
+(9) An assessment of CBP legacy border technology programs that could be phased out and replaced by technologies referred to in subsection (a), and cost estimates relating to such phase out and replacement.
+
+(10) Information relating to how CBP is coordinating with the Department of Homeland Security’s Science and Technology Directorate to carry out the following:
+
+(A) Research and develop new, innovative, disruptive, or other emerging or advanced technologies to carry out the purposes specified in subsection (a).
+
+(B) Identify security-related technologies that are in development or deployed by the private and public sectors that may satisfy the mission needs of CBP, with or without adaptation.
+
+(C) Incentivize the private sector to develop technologies that may help CBP meet mission needs to enhance, or address capability gaps in, border security operations.
+
+(D) Identify and assess ways to increase opportunities for communication and collaboration with the private sector, small and disadvantaged businesses, intra-governmental entities, university centers of excellence, and Federal laboratories to leverage emerging technology and research within the public and private sectors.
+
+(11) Information on metrics and key performance parameters for evaluating the effectiveness of efforts to identify, integrate, and deploy new, innovative, disruptive, or other emerging or advanced technologies to carry out the purposes specified in subsection (a).
+
+(12) An identification of recent technological advancements in the following:
+
+(A) Manned aircraft sensor, communication, and common operating picture technology.
+
+(B) Unmanned aerial systems and related technology, including counter-unmanned aerial system technology.
+
+(C) Surveillance technology, including the following:
+
+(i) Mobile surveillance vehicles.
+
+(ii) Associated electronics, including cameras, sensor technology, and radar.
+
+(iii) Tower-based surveillance technology.
+
+(iv) Advanced unattended surveillance sensors.
+
+(v) Deployable, lighter-than-air, ground surveillance equipment.
+
+(D) Nonintrusive inspection technology, including non-X-ray devices utilizing muon tomography and other advanced detection technology.
+
+(E) Tunnel detection technology.
+
+(F) Communications equipment, including the following:
+
+(i) Radios.
+
+(ii) Long-term evolution broadband.
+
+(iii) Miniature satellites.
+
+(13) Any other information the Secretary determines relevant.
+
+(c) CBP Innovation Team authority.—
+
+(1) IN GENERAL.—The Commissioner of CBP is authorized to maintain one or more CBP Innovation Teams to research and adapt commercial technologies that are new, innovative, disruptive, or otherwise emerging or advanced that may be used by CBP to enhance, or address capability gaps in, border security operations and urgent mission needs, and assess potential outcomes, including any negative consequences, of the introduction of emerging or advanced technologies with respect to which documented capability gaps in border security operations are yet to be determined.
+
+(2) OPERATING PROCEDURES, PLANNING, STRATEGIC GOALS.—The Commissioner of CBP shall require each team maintained pursuant to paragraph (1) to establish the following:
+
+(A) Operating procedures that include specificity regarding roles and responsibilities within each such team and with respect to Department of Homeland Security and non-Federal partners, and protocols for entering into agreements to rapidly transition such technologies to existing or new programs of record to carry out the purposes specified in subsection (a).
+
+(B) Planning and strategic goals for each such team that includes projected costs, time frames, metrics, and key performance parameters relating to the achievement of identified strategic goals, including a metric to measure the rate at which technologies described in subsection (a) are transitioned to existing or new programs of record in accordance with subparagraph (A).
+
+(3) REPORTING.—Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Commissioner of CBP shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information relating to the activities of CBP Innovation Teams, including information regarding the following:
+
+(A) Copies of operating procedures and protocols under paragraph (2)(A) and planning and strategic goals required under paragraph (2)(B).
+
+(B) Descriptions of the technologies piloted by each such team over the immediately preceding fiscal year, including information regarding which such technologies are determined successful and an identification of documented capability gaps that are addressed.
+
+(C) Information on the status of efforts to rapidly transition technologies determined successful to existing or new programs of record.
+
+Passed the House of Representatives March 10, 2025.

@@ -1,0 +1,38 @@
+Framework to Mitigate AI-Enabled Extreme Risks 
+ 
+The following proposal establishes a framework for federal oversight of frontier model hardware, development, and deployment to mitigate AI-enabled extreme risks, including biological, chemical, cyber, and nuclear threats.  
+ 
+Frontier Models: 
+Frontier models – those covered under this framework – would be only the most advanced AI models developed in the future – those that are both: (1) trained on an enormous amount of computing power – greater than 10^26 operations, and that (2) are either broadly-capable, general purpose, and able to complete a variety of downstream tasks, or are intended to be used for bioengineering, chemical engineering, cybersecurity, or nuclear development. The 10^26 operations compute threshold is the standard identified by Executive Order 14110, and it represents a metric which would be reevaluated on a regular basis to ensure it remains appropriate as technological advancements occur. 
+ 
+Oversight of Frontier Models: 
+ 
+I.	Hardware  
+Training a frontier model would require tremendous computing resources. Entities that sell or rent the use of a large amount of computing hardware, potentially set at the level specified by E.O. 14110, for AI development would report large acquisitions or usage of such computing resources to the oversight entity and exercise due diligence to ensure that customers are known and vetted, particularly with respect to foreign persons. 
+ 
+II.	Development of Frontier Models  
+Developers would notify the oversight entity when developing a frontier model and prior to initiating training runs. Developers would be required to incorporate safeguards against the four extreme risks identified above, and adhere to cybersecurity standards to ensure models are not leaked prematurely or stolen.  
+ 
+Frontier model developers could be required to report to the oversight entity on steps taken to mitigate the four identified risks and implement cybersecurity standards.  
+ 
+III.	Deployment of Frontier Models 
+Frontier model developers would undergo evaluation and obtain a license from the oversight entity prior to release. This evaluation would only consider whether the frontier model has incorporated sufficient safeguards against the four identified risks.  
+ 
+A tiered licensing structure would be utilized to determine how widely the frontier model could be shared. For instance, frontier models with low risk could be licensed for open-source deployment, whereas models with higher risks could be licensed for deployment with vetted customers or limited public use.  
+ 
+Oversight Entity: 
+ 
+Congress could give these oversight authorities to a new interagency coordinating body, a preexisting federal agency, or a new agency. Four potential options for this oversight entity are: 
+ 
+A.	Interagency Coordinating Body. A new, interagency body could be created to facilitate cross-agency regulatory oversight. This body could be modeled on the Committee on Foreign Investment in the United States (CFIUS). It would be organized in a way to leverage domain-specific subject matter expertise while ensuring coordination and communication among key federal stakeholders.  
+ 
+B.	Department of Commerce. Commerce could leverage the National Institute for Standards and Technology (NIST) and the Bureau of Industry and Security to carry out these responsibilities.  
+ 
+C.	Department of Energy (DoE). DoE has expertise in high-performance computing and oversees the U.S. National Laboratories. Additionally, DoE has deep experience in handling restricted data, classified information, and national security issues. 
+ 
+D.	New Agency. Since frontier models pose novel risks that do not fit neatly within existing agency jurisdictions, Congress could task a new agency with these responsibilities. 
+ 
+Regardless of where these authorities reside, the oversight entity should be comprised of: (1) subject matter experts, who could be detailed from relevant federal entities that have experience handling issues such as biosecurity, chemical security, cybersecurity, and nuclear security, and (2) skilled AI scientists and engineers.  
+ 
+The oversight entity would also be tasked to study and report to Congress on unforeseen challenges and new risks to ensure that this framework remains appropriate as technology advances.  
+ 

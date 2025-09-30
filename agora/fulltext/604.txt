@@ -1,0 +1,315 @@
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.—This Act may be cited as the “Protecting the Information of our Vulnerable Adolescents, Children, and Youth Act” or the “Kids PRIVACY Act”.
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Requirements for processing of covered information of children or teenagers.
+Sec. 4. Repeal of safe harbors provision.
+Sec. 5. Administration and applicability of Act.
+Sec. 6. Review.
+Sec. 7. Private right of action.
+Sec. 8. Relationship to other law.
+Sec. 9. Additional conforming amendment.
+Sec. 10. Youth Privacy and Marketing Division.
+Sec. 11. Commission defined.
+Sec. 12. Effective date.SEC. 2. DEFINITIONS.
+Section 1302 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6501) is amended—
+(1) by striking paragraphs (5) and (10);
+(2) by redesignating paragraphs (2), (3), (4), (6), (7), (8), and (9) as paragraphs (3), (5), (6), (7), (8), (9), and (10), respectively;
+(3) by inserting after paragraph (1) the following:
+“(2) TEENAGER.—The term ‘teenager’ means an individual over the age of 12 and under the age of 18.”;
+(4) by striking paragraph (3) (as so redesignated) and inserting the following:
+“(3) COVERED ENTITY.—The term ‘covered entity’ means—
+“(A) any person over which the Commission has authority under section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 45(a)(2));
+“(B) any organization not organized to carry on business for its own profit or that of its members; and
+“(C) any common carrier subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and all Acts amendatory thereof and supplementary thereto.
+“(4) OPERATOR.—The term ‘operator’ means, with respect to a digital service, the covered entity that operates such service, to the extent the covered entity is engaged in operating such service or in processing covered information obtained in connection with such service.”;
+(5) by amending paragraph (6) (as so redesignated) to read as follows:
+“(6) DISCLOSE.—The term ‘disclose’ means, with respect to covered information, to intentionally or unintentionally release, transfer, sell, disseminate, share, publish, lease, license, make available, allow access to, fail to restrict access to, or otherwise communicate such information.”;
+(6) by amending paragraph (9) (as so redesignated) to read as follows:
+“(9) COVERED INFORMATION.—The term ‘covered information’—
+“(A) means any information that is linked or reasonably linkable to a specific teenager or child or to a specific consumer device used mainly by a teenager or child;
+“(B) may include—
+“(i) a name, alias, home or other physical address, online identifier, Internet Protocol address, email address, account name, Social Security number, physical characteristics or description, telephone number, State identification card number, driver’s license number, passport number, or other similar identifier;
+“(ii) actual or perceived race, religion, sex, sexual orientation, sexual behavior, familial status, gender identity, disability, age, political affiliation, or national origin;
+“(iii) commercial information, including records relating to personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories, interests, or tendencies;
+“(iv) biometric information;
+“(v) device identifiers, online identifiers, persistent identifiers, or digital fingerprinting information;
+“(vi) internet or other electronic network activity information, including browsing history, search history, and information regarding a teenager’s or child’s interaction with an internet website, application, or advertisement;
+“(vii) geolocation information;
+“(viii) audio, electronic, visual, thermal, olfactory, or similar information;
+“(ix) education information;
+“(x) health information;
+“(xi) facial recognition information;
+“(xii) contents of, attachments to, and parties to information, including with respect to electronic mail, text messages, picture messages, voicemails, audio conversations, and video conversations;
+“(xiii) financial information, including bank account numbers, credit card numbers, debit card numbers, or insurance policy numbers; and
+“(xiv) inferences drawn from any of the information described in this paragraph to create a profile about a teenager or child reflecting the teenager’s or child’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes; and
+“(C) does not include—
+“(i) information that is processed solely for the purpose of employment of a teenager; or
+“(ii) de-identified information.”;
+(7) by amending paragraph (10) (as so redesignated) to read as follows:
+“(10) VERIFIABLE CONSENT.—The term ‘verifiable consent’ means express, affirmative consent freely given by a teenager, or by the parent of a child, to the processing of covered information of that teenager or child, respectively—
+“(A) that is specific, informed, and unambiguous, taking into account the age and the developmental and cognitive needs and capabilities of teenagers or parents of children, as applicable;
+“(B) that is given separately for each unrelated processing activity;
+“(C) where the teenager or parent of a child, as applicable, has not received any financial or other incentive in exchange for such consent;
+“(D) that is given before any processing occurs, at a time and in a context in which the teenager or parent of a child, as applicable, would reasonably expect to make choices concerning such processing;
+“(E) that is not obtained through the use of a design, modification, or manipulation of a user interface with the purpose or substantial effect of obscuring, subverting, or impairing user autonomy, decision making, or choice; and
+“(F) that, in the case of consent to the processing of covered information of a child, is obtained in a manner that is reasonably calculated to ensure that the individual giving consent is the parent of the child.”; and
+(8) by adding at the end the following:
+“(13) PROCESS.—The term ‘process’ means to perform any operation or set of operations on covered information, whether or not by automated means, including collecting, creating, acquiring, disclosing, sharing, classifying, sorting, recording, deriving, inferring, obtaining, assembling, organizing, structuring, storing, retaining, adapting or altering, using, or retrieving covered information.
+“(14) DE-IDENTIFIED INFORMATION; RE-IDENTIFY.—
+“(A) DE-IDENTIFIED INFORMATION.—The term ‘de-identified information’ means information that cannot reasonably be used to infer information about, or otherwise be linked to, a specific teenager or child or specific consumer device of a teenager or child, if the covered entity that possesses the information—
+“(i) takes reasonable measures to ensure that the information cannot be associated with a teenager or child;
+“(ii) publicly commits to maintain and use the information in de-identified form and not to attempt to re-identify the information, except for the purpose of testing the sufficiency of the de-identification measures; and
+“(iii) contractually obligates any entity to which the covered entity discloses the information to comply with clauses (i) and (ii).
+“(B) RE-IDENTIFY.—The term ‘re-identify’ means to link information that has been de-identified to a specific teenager or child or specific consumer device of a teenager or child.
+“(15) STATE.—The term ‘State’ means each of the several States, the District of Columbia, each territory of the United States, and each federally recognized Indian Tribe.
+“(16) SERVICE PROVIDER.—The term ‘service provider’ means a covered entity that—
+“(A) processes covered information at the direction of, and for the sole benefit of, another covered entity; and
+“(B) is contractually or legally prohibited from processing such covered information for any other purpose.
+“(17) DIGITAL SERVICE.—The term ‘digital service’ means a website, online service, online application, mobile application, or any other service that processes covered information digitally.
+“(18) CHILDREN’S SERVICE.—The term ‘children’s service’ means—
+“(A) a digital service or portion thereof that is directed to children; or
+“(B) any other digital service or portion thereof, if the operator of the service decides to treat all users of the service or portion, as the case may be, as children.
+“(19) PRIVACY RISK.—The term ‘privacy risk’ means potential adverse consequences to an individual, group of individuals, or society arising from the processing of covered information, including—
+“(A) physical harm;
+“(B) psychological or emotional harm;
+“(C) negative or harmful outcomes or decisions with respect to an individual’s eligibility for rights, benefits, or opportunities;
+“(D) reputational and dignity harm;
+“(E) financial harm, including price discrimination;
+“(F) inconvenience or expenditure of time;
+“(G) disruption and intrusion from unwanted communications or contacts;
+“(H) other effects that limit an individual’s choices, influence an individual’s responses, or predetermine results or outcomes for that individual; and
+“(I) other demonstrable adverse consequences that affect an individual’s private life, including private family matters, actions, and communications within an individual’s home or similar physical, online, or digital location.“(20) PRIVACY AND SECURITY IMPACT ASSESSMENT AND MITIGATION (PSIAM).—
+“(A) IN GENERAL.—The terms ‘privacy and security impact assessment and mitigation’ and ‘PSIAM’ mean, with respect to a digital service, an assessment and mitigation by the operator of the service of risks to the children and teenagers who access the service that arise from the processing of covered information, taking into account privacy risks, security risks, the rights and best interests of children and teenagers, differing ages, capacities, and developmental needs of children and teenagers, and any significant internal or external emerging risks, and ensuring that the PSIAM builds in risk mitigation and compliance with the other requirements of this title.“(B) REQUIREMENTS.—In conducting a PSIAM with respect to a digital service, the operator of the service shall do the following:
+“(i) Embed the PSIAM into the design process of the service and complete the PSIAM before the launch of the service and on an ongoing basis, and before making significant changes to the processing of covered information.
+“(ii) Publicly disclose the nature, scope, context, and purposes of the processing of covered information.
+“(iii) Depending on the size of the service and level of risks identified—
+“(I) seek and document the views of children, teenagers, and parents (or their representatives), as well as experts in children’s and teenagers’ developmental needs; and
+“(II) take such views into account in the design of the service.
+“(iv) Publicly disclose an explanation of why the operator’s processing of covered information is necessary and proportionate vis a vis the risks for the service, and how the operator complies with the requirements of this title.
+“(v) Assess any processing of covered information that is not in the best interests of children or teenagers or that can be detrimental to their well-being and safety, whether physical, emotional, developmental, or material.
+“(vi) Identify, assess, and mitigate high-risk processing of covered information.
+“(vii) Identify measures taken to mitigate the risks identified under clause (vi) and comply with the other requirements of this title.
+“(viii) Provide for regular internal reporting on the effectiveness of controls and residual risks of the operator.“(C) AUDITABLE BY COMMISSION.—The Commission may audit a PSIAM conducted by an operator as the Commission considers necessary.
+“(21) DIRECTED TO CHILDREN.—
+“(A) IN GENERAL.—The term ‘directed to children’ means, with respect to a digital service, that the digital service is targeted to children, as demonstrated by—
+“(i) the subject matter of the digital service;
+“(ii) the visual content of the digital service;
+“(iii) the use of animated characters or child-oriented activities for children, and related incentives, on the digital service;
+“(iv) the music or other audio content on the digital service;
+“(v) the age of models on the digital service;
+“(vi) the presence on the digital service of—
+“(I) child celebrities; or
+“(II) celebrities who appeal to children;
+“(vii) the language used on the digital service;
+“(viii) advertising content or promotional materials used on, or used to advertise or promote, the digital service;
+“(ix) reliable empirical evidence relating to—
+“(I) the composition of the audience of the digital service, including—
+“(aa) data the operator of the digital service may directly or indirectly collect, use, profile, buy, sell, classify, or analyze (via algorithms or other forms of data analytics, including look-alike modeling) about a user or groups of users to estimate, identify, or classify the age or age range (or a proxy thereof) of such user or groups of users;
+“(bb) advertising information or results, such as data, reporting, or information from the internal communications of the operator of the digital service, including documentation about its advertising practices, such as an advertisement insertion order, or other promotional material to marketers, that indicates that covered information is being collected from children that are using the digital service;
+“(cc) data or reporting from the general or trade press of the digital service indicating that children are using the digital service;
+“(dd) complaints from parents or other third parties about child users using the digital service, whether through the complaint mechanism of the digital service, by email, or by other means; and
+“(ee) data or reporting from a privacy and security impact assessment and mitigation, compliance program, or other compliance, risk management, or internal process that documents privacy risks and controls related to children’s privacy, including the existence of data analytics controlled by the operator of the digital service, including those of service providers, and content analytics capabilities and functions or outputs; and
+“(II) the intended audience of the digital service, including data the operator of the digital service directly or indirectly collects, uses, profiles, buys, sells, classifies, or analyzes (via algorithms or other forms of data analytics, including look-alike modeling) about the nature of the content of the digital service that estimates, identifies, or classifies the content as child-directed or similarly estimates, identifies, or classifies the intended or likely audience for the content;
+“(x) representations to third parties relating to the composition of the audience or the intended audience of the digital service;
+“(xi) actual knowledge that the digital service is processing the covered information of children; or
+“(xii) any other evidence or circumstances the Commission determines appropriate.
+“(B) COVERED INFORMATION FROM OTHER SERVICES.—A digital service shall be deemed to be directed to children if the operator of the digital service has actual or constructive knowledge that the digital service collects covered information from users of any other digital service that is directed to children under the criteria described in subparagraph (A).
+“(C) SIGNALS FROM THIRD PARTIES.—A digital service shall be deemed directed to children if the digital service receives a signal, such as a flag or other formal industry standard or convention, from another digital service on which the digital service receiving the signal is embedded, indicating that the digital service sending the signal is intended for children or likely to appeal to children.
+“(D) LIMITATION.—A digital service that does not target children as its primary audience shall not be deemed directed to children if the digital service—
+“(i) does not collect covered information from any visitor prior to collecting age information; and
+“(ii) prevents the collection, use, or disclosure of covered information from visitors who identify themselves as under age 13 without first complying with the notice and parental consent provisions of this title and the regulations promulgated under this title.
+“(E) FURTHER LIMITATION.—A digital service shall not be deemed directed to children solely because the digital service refers or links to another digital service that is directed to children by using information location tools, including a directory, index, reference, pointer, or hypertext link.
+“(F) DETERMINATION REGARDING A PORTION OF A DIGITAL SERVICE.—For purposes of determining whether a portion of a digital service is directed to children, any reference in this paragraph to a digital service shall be considered to refer to such portion.“(22) LIKELY TO BE ACCESSED BY CHILDREN OR TEENAGERS.—The term ‘likely to be accessed by children or teenagers’ means, with respect to a digital service, that the possibility of more than a de minimis number of children or teenagers accessing the digital service is more probable than not. In determining whether a digital service is likely to be accessed by children or teenagers, the operator of the service shall consider whether the service has particular appeal to children or teenagers and whether effective measures are in place that prevent children or teenagers from gaining access to the service.
+“(23) AGE ASSURANCE.—The term ‘age assurance’ means a verifiable process to estimate or determine the age of a user of a digital service with a given and documented degree of certainty.”.SEC. 3. REQUIREMENTS FOR PROCESSING OF COVERED INFORMATION OF CHILDREN OR TEENAGERS.
+(a) In General.—Section 1303 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6502) is amended to read as follows:
+“SEC. 1303. REQUIREMENTS FOR PROCESSING OF COVERED INFORMATION OF CHILDREN OR TEENAGERS.
+“(a) Requirements For Children’s Services.—
+“(1) DATA MINIMIZATION.—An operator of a children’s service shall process covered information under the principle of data minimization, requiring the operator to process only the minimum amount necessary for each purpose for which the covered information is processed.“(2) TRANSPARENCY.—An operator of a children’s service shall develop and make publicly available, at all times and in a machine-readable format, a privacy policy, in a manner that is clear, easily understood, and written in plain and concise language, that includes, with respect to operating the children’s service—
+“(A) the categories of covered information that the operator processes about teenagers and children;
+“(B) how and under what circumstances covered information is collected directly from a teenager or child;
+“(C) the categories and the sources of any covered information processed by the operator that is not collected directly from a teenager or child;
+“(D) a description of the purposes for which the operator processes covered information, including—
+“(i) a description of whether and how the operator customizes products or services for teenagers or children, or adjusts the prices of products or services for teenagers or children, based in any part on processing of covered information;
+“(ii) a description of whether and how the operator, or the operator’s affiliates or service providers, de-identify information, including the methods used to de-identify such information; and
+“(iii) a description of whether and how the operator, or the operator’s affiliates or service providers, generate or use any consumer score to make decisions concerning a teenager or child, and the source or sources of any such consumer score;
+“(E) a description of how long and the circumstances under which the operator retains covered information;
+“(F) a description of all of the purposes for which the operator discloses covered information to service providers and, on a biennial basis, the categories of service providers;
+“(G) a description of whether and for what purposes the operator discloses covered information to third parties, and the categories of covered information disclosed;
+“(H) a description of the categories of third parties to which covered information described in subparagraph (G) is disclosed, by category or categories of covered information for each category of third party to which the covered information is disclosed;
+“(I) whether the operator discloses covered information to third parties that sell or plan to sell such covered information;
+“(J) whether the operator collects covered information about teenagers or children over time and across different digital services if a teenager or child uses the operator’s digital service;
+“(K) how a teenager or a parent of a child can exercise their rights to access, correct, and delete such teenager’s or child’s covered information as set forth in paragraph (6);
+“(L) a listing of all possible consents that may be obtained by the operator for the processing of covered information, how a teenager or the parent of a child can grant, withhold, withdraw, or modify any such consent, and the consequences of withholding, withdrawing, or modifying any such consent;
+“(M) the effective date of the privacy policy; and
+“(N) how the operator will communicate material changes to the privacy policy to the teenager or the parent of a child.“(3) CONSENT REQUIRED.—
+“(A) IN GENERAL.—An operator of a children’s service shall—
+“(i) provide clear and concise notice to a teenager or the parent of a child of the items of covered information about such teenager or child, respectively, that are processed by such operator and how such operator processes such covered information;
+“(ii) obtain verifiable consent for such processing; and
+“(iii) if such operator determines, including through actual or constructive knowledge, that such operator has not obtained verifiable consent for any specific processing of covered information about a teenager or child, not later than 48 hours after such determination—
+“(I) obtain verifiable consent; or
+“(II) delete all covered information about such teenager or child.“(B) WHEN CONSENT NOT REQUIRED.—Verifiable consent under this paragraph is not required in the case of—
+“(i) online contact information collected from a teenager or child that—
+“(I) is used only to respond directly on a one-time basis to a specific request from the teenager or child;
+“(II) is not used to re-contact the teenager or child; and
+“(III) is not retained by the operator after responding as described in subclause (I);
+“(ii) a request for the name or online contact information of a teenager or the parent of a child that is used for the sole purpose of obtaining verifiable consent or providing notice under subparagraph (A)(i), where such information is not retained by the operator if verifiable consent is not obtained within 48 hours; or
+“(iii) the processing of covered information that is necessary—
+“(I) to respond to judicial process; or
+“(II) to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety.“(C) WITHDRAWAL OF CONSENT.—
+“(i) MECHANISM FOR WITHDRAWAL.—An operator of a children’s service shall provide a teenager or the parent of a child, as applicable—
+“(I) a mechanism to withdraw consent to the processing of covered information at any time in a manner that is as easy as the mechanism to give consent; and
+“(II) clear and conspicuous notice of the mechanism required by subclause (I).
+“(ii) EFFECT OF WITHDRAWAL ON PRIOR PROCESSING.—Withdrawal of consent to the processing of covered information shall not be construed to affect the lawfulness of any processing of covered information based on verifiable consent that was in effect before such withdrawal.“(D) PROHIBITION ON LIMITING OR DISCONTINUING SERVICE.—An operator of a children’s service may not refuse to provide a service, or discontinue a service provided, to a teenager or child, if the teenager or parent of the child, as applicable, refuses to consent, or withdraws consent, to the processing of any covered information not technically required for the operator to provide such service.“(4) RETENTION OF DATA.—
+“(A) RETENTION LIMITATIONS.—Subject to the exceptions provided in subparagraph (B), an operator of a children’s service may not keep, retain, or otherwise store covered information for longer than is reasonably necessary for the purposes for which the covered information is processed.
+“(B) EXCEPTIONS.—Further retention of covered information does not violate subparagraph (A) if the processing of the covered information is necessary and done solely for the purposes of—
+“(i) compliance with—
+“(I) requirements to document compliance under this title; or
+“(II) other laws, regulations, or legal obligations;
+“(ii) preventing risks to the health or safety of a child or teenager or groups of children or teenagers; or
+“(iii) repairing errors that impair the existing (as of the time when the repairs are made) functionality of the children’s service.“(5) LIMITATION ON DISCLOSING COVERED INFORMATION TO THIRD PARTIES.—
+“(A) DISCLOSURES.—Subject to the exceptions provided in subparagraph (C), an operator of a children’s service may not disclose covered information to a third party unless the operator has a written agreement with such third party that—
+“(i) specifies all of the purposes for which the third party may process the covered information for which the operator has verifiable consent;
+“(ii) prohibits the third party from processing covered information for any purpose other than the purposes specified under clause (i); and
+“(iii) requires the third party to provide at least the same level of privacy and security protections as the operator.“(B) RESPONSIBILITIES OF OPERATORS REGARDING THIRD PARTIES.—An operator of a children’s service—
+“(i) shall perform reasonable due diligence in selecting any third party with which to enter into an agreement described in subparagraph (A) and shall exercise reasonable oversight over all such third parties to assure compliance with the requirements of this title and the regulations promulgated under this title; and
+“(ii) if the operator has actual or constructive knowledge that a third party has violated an agreement described in subparagraph (A), shall—
+“(I) to the extent practicable, promptly take steps to ensure compliance with such agreement; and
+“(II) promptly report to the Commission that such a violation occurred.“(C) EXCEPTIONS.—An operator of a children’s service may disclose covered information to a third party other than under an agreement described in subparagraph (A) if such disclosure is necessary and done solely for the purposes of—
+“(i) compliance with—
+“(I) requirements to document compliance under this title; or
+“(II) other laws, regulations, or legal obligations;
+“(ii) preventing risks to the health or safety of a child or teenager or groups of children or teenagers; or
+“(iii) repairing errors that impair the existing (as of the time when the repairs are made) functionality of the children’s service.“(6) RIGHT TO ACCESS, CORRECT, AND DELETE COVERED INFORMATION.—
+“(A) ACCESS.—An operator of a children’s service, subject to the exceptions in subparagraph (D), shall, upon request of a teenager or the parent of a child and after proper identification of such teenager or parent, promptly provide to such teenager or parent, as applicable—
+“(i) access to all covered information processed by the operator pertaining to such teenager or child, including a description of—
+“(I) each type of covered information processed by the operator pertaining to the teenager or child, as applicable;
+“(II) each purpose for which the operator processes each category of covered information pertaining to the teenager or child, as applicable;
+“(III) the names of each third party to which the operator disclosed the covered information;
+“(IV) each source other than the teenager or child, as applicable, from which the operator obtained covered information pertaining to that teenager or child, as applicable;
+“(V) how long the covered information will be retained or stored by the operator and, if not known, the criteria the operator uses to determine how long the covered information will be retained or stored by the operator; and
+“(VI) with respect to any consumer score of the teenager or child, as applicable, processed by the operator—
+“(aa) how such score is used by the operator to make decisions with respect to that teenager or child, as applicable; and
+“(bb) the source that created the score if not created by the operator; and
+“(ii) a simple and reasonable mechanism by which a teenager or parent of a child may request access to the information described under clause (i), as applicable.“(B) DELETION.—An operator of a children’s service, subject to the exceptions in subparagraph (D), shall—
+“(i) establish a simple, publicly and easily accessible, and reasonable mechanism by which a teenager or parent of a child with respect to whom the operator processes covered information may request the operator to delete any such covered information (or any component thereof), including publicly available covered information submitted to the service by the child or teenager; and
+“(ii) delete such covered information not later than 45 days after receiving such request.“(C) CORRECTION.—An operator of a children’s service, subject to the exceptions in subparagraph (D), shall—
+“(i) provide each teenager or parent of a child with respect to whom the operator processes covered information, as applicable, a simple, publicly and easily accessible, and reasonable mechanism by which that teenager or parent may submit a request to the operator—
+“(I) to dispute the accuracy or completeness of that covered information, or part or component thereof; and
+“(II) to request that such covered information, or part or component thereof, be corrected for accuracy or completeness; and
+“(ii) not later than 45 days after receiving a request under clause (i)—
+“(I) determine whether the covered information disputed or requested to be corrected is inaccurate or incomplete; and
+“(II) correct the accuracy or completeness of any covered information determined by the operator to be inaccurate or incomplete.“(D) EXCEPTIONS.—An operator of a children’s service may deny a request made under subparagraph (A), (B), or (C) if—
+“(i) the operator is unable to verify the identity of the teenager or parent of a child making the request after making a reasonable effort to verify the identity of such teenager or parent;
+“(ii) with respect to the request made, the operator determines that—
+“(I) the operator is limited from fulfilling the request by law, legally recognized privilege, or other legal obligation; or
+“(II) fulfilling the request would create a legitimate risk to the privacy, security, or safety of someone other than the teenager or child, as applicable;
+“(iii) with respect to a request to delete covered information made under subparagraph (B) or a request to correct covered information made under subparagraph (C), the operator determines that the retention of the covered information is necessary to—
+“(I) complete the transaction with the teenager or child, as applicable, for which the covered information was collected;
+“(II) provide a product or service affirmatively requested by the teenager or parent of a child, as applicable;
+“(III) perform a contract with the teenager or a parent of a child, as applicable, including a contract for billing, financial reporting, or accounting;
+“(IV) keep a record of the covered information for law enforcement purposes; or
+“(V) repair errors that impair the existing (as of the time when the repairs are made) functionality of the children’s service; or
+“(iv) the covered information is used in public or peer-reviewed scientific, medical, or statistical research in the public interest that adheres to commonly accepted ethical standards or laws, with informed consent consistent with section 50.20 of title 21, Code of Federal Regulations, if the research is already in progress at the time when the request to access, delete, or correct is made under subparagraph (A), (B), or (C).“(E) PROHIBITION ON LIMITING OR DISCONTINUING SERVICE.—An operator of a children’s service may not refuse to provide a service, or discontinue a service provided, to a teenager or child on the basis of the exercise by the teenager or the parent of the child, as applicable, of any of the rights set forth in this paragraph.“(7) ADDITIONAL PROHIBITED PRACTICES WITH RESPECT TO TEENAGERS AND CHILDREN.—
+“(A) IN GENERAL.—An operator of a children’s service may not—
+“(i) process any covered information in a manner that is inconsistent with what a reasonable teenager or parent of a child would expect in the context of a particular transaction or the teenager’s or parent’s relationship with such operator, or seek to obtain verifiable consent for such processing;
+“(ii) process any covered information in a manner that is harmful or has been shown to be detrimental to the well-being of children or teenagers;
+“(iii) process covered information for the purpose of providing for targeted personalized advertising or engage in other marketing to a specific child or teenager or group of children or teenagers based on—
+“(I) using the covered information, online behavior, or group identifiers of such child or teenager or of the children or teenagers in such group; or
+“(II) using the covered information or online behavior of children or teenagers who share characteristics with such child or teenager or with the children or teenagers in such group, including income level or protected characteristics or proxies thereof;
+“(iv) condition the participation of a child or teenager in a game, sweepstakes, or other contest on consenting to the processing of more covered information than is necessary for such child or teenager to participate;
+“(v) engage in cross-device tracking of a child or teenager unless the child or teenager is logged in to a specific service, for the sole purpose of facilitating the primary purpose of the service or a specific feature thereof;
+“(vi) engage in algorithmic processes that harmfully discriminate on the basis of race, age, gender, ability, or other protected characteristics;
+“(vii) disclose biometric information, except to a service provider of the operator;
+“(viii) disclose geolocation information, except to a service provider of the operator; or
+“(ix) collect geolocation information by default or without disclosing clearly when geolocation tracking is in effect.“(B) EXCEPTIONS.—Nothing in subparagraph (A) shall prohibit an operator from processing covered information if the processing of the covered information is necessary and done solely for the purposes of—
+“(i) compliance with—
+“(I) requirements to document compliance under this title; or
+“(II) other laws, regulations, or legal obligations;
+“(ii) preventing risks to the health or safety of a child or teenager or groups of children or teenagers; or
+“(iii) repairing errors that impair the existing (as of the time when the repairs are made) functionality of the children’s service.“(8) SECURITY REQUIREMENTS.—
+“(A) IN GENERAL.—An operator of a children’s service shall establish, implement, and maintain reasonable security policies, practices, and procedures for the protection of covered information, taking into consideration—
+“(i) the size, nature, scope, and complexity of the activities engaged in by such operator;
+“(ii) the sensitivity of any covered information at issue; and
+“(iii) the cost of implementing such policies, practices, and procedures.“(B) SPECIFIC REQUIREMENTS.—The policies, practices, and procedures established by an operator under subparagraph (A) shall include the following:
+“(i) A written security policy with respect to the processing of such covered information.
+“(ii) The identification of an officer or other individual as the point of contact with responsibility for the management of information security.
+“(iii) A process for identifying and assessing any reasonably foreseeable vulnerabilities in the system or systems maintained by such operator that contain such covered information, including regular monitoring for a breach of security of such system or systems.
+“(iv) A process for taking preventive and corrective action to mitigate against any vulnerabilities identified in the process required by clause (iii), which may include—
+“(I) implementing any changes to the security practices, architecture, installation, or implementation of network or operating software; and
+“(II) regular testing or otherwise monitoring the effectiveness of the safeguards.
+“(v) A process for determining if the covered information is no longer needed and deleting such covered information by shredding, permanently erasing, or otherwise modifying the covered information to make such covered information permanently unreadable or indecipherable.
+“(vi) A process for overseeing persons (other than users of the children’s service) who have access to covered information, including through internet-connected devices, by—
+“(I) taking reasonable steps to select and retain persons that are capable of maintaining appropriate safeguards for the covered information or internet-connected devices at issue; and
+“(II) requiring all such persons to implement and maintain such safeguards.
+“(vii) A process for employee training and supervision for implementation of the policies, practices, and procedures required by this subsection.
+“(viii) A written plan or protocol for internal and public response in the event of a breach of security.“(C) PERIODIC ASSESSMENT AND CONSUMER PRIVACY AND DATA SECURITY MODERNIZATION.—An operator of a children’s service shall, not less frequently than every 12 months, monitor, evaluate, and adjust, as appropriate, the policies, practices, and procedures of such operator in light of any relevant changes in—
+“(i) technology;
+“(ii) internal or external threats and vulnerabilities to covered information; and
+“(iii) the changing business arrangements of the operator.“(D) SUBMISSION OF POLICIES TO THE FTC.—An operator of a children’s service shall submit the policies, practices, and procedures established by the operator under subparagraph (A) to the Commission in conjunction with a notification of a breach of security required by any Federal or State statute or regulation or upon request of the Commission.“(b) Rulemaking Regarding Requirements For Digital Services Likely To Be Accessed By Children Or Teenagers.—
+“(1) IN GENERAL.—The Commission shall promulgate regulations under section 553 of title 5, United States Code, that contain requirements for operators of digital services that are not children’s services but are likely to be accessed by children or teenagers, which shall be based on the requirements of subsection (a) but modified as the Commission considers appropriate given a risk-based approach to determine age and to determine and mitigate privacy risks and security risks to the child or teenager, and given differing developmental needs and cognitive capacities of children or teenagers. The Commission may include in such regulations different requirements for operators of different types of such services.
+“(2) BEST INTERESTS OF CHILD OR TEENAGER.—The regulations promulgated under paragraph (1) shall require an operator to make the best interests of children and teenagers a primary design consideration when designing its service, including by conducting a privacy and security impact assessment and mitigation for the service.“(3) RISK-BASED APPROACH TO DETERMINING AGE OF USER.—
+“(A) IN GENERAL.—The regulations promulgated under paragraph (1) shall require a risk-based approach to determining the age of a specific user of a digital service under which higher privacy risks and security risks from the processing of covered information require a higher certainty of age assurance.
+“(B) AGE ASSURANCE.—The regulations promulgated under paragraph (1) shall require an operator to conduct an age assurance to determine the age of each specific user.
+“(C) APPROVAL OF AGE ASSURANCE MECHANISMS.—The Commission shall establish in the regulations promulgated under paragraph (1) a process under which an operator may obtain the approval of the Commission of particular mechanisms of age assurance as meeting the age assurance requirements of such regulations for particular levels of privacy risks.
+“(D) DATA MINIMIZATION.—The regulations required by paragraph (1) shall provide that any data collected for age assurance shall be the minimal amount necessary and destroyed immediately or as determined by the Commission, but consistent with standards that still allow for auditing and compliance.“(c) Prohibition On Certain Advertising Or Marketing For Digital Services Likely To Be Accessed By Children Or Teenagers.—An operator of a digital service that is likely to be accessed by children or teenagers may not process covered information for the purpose of providing for targeted personalized advertising or engage in other marketing to a specific child or teenager or group of children or teenagers based on—
+“(1) using the covered information, online behavior, or group identifiers of such child or teenager or of the children or teenagers in such group; or
+“(2) using the covered information or online behavior of children or teenagers who share characteristics with such child or teenager or with the children or teenagers in such group, including income level or protected characteristics or proxies thereof.“(d) Implementing Regulations.—
+“(1) IN GENERAL.—Not later than 1 year after the date of the enactment of the Protecting the Information of our Vulnerable Adolescents, Children, and Youth Act, the Commission shall promulgate, under section 553 of title 5, United States Code, such regulations as may be necessary to carry out this section, including the regulations required by subsection (b).
+“(2) REVIEW AND REVISION.—Not later than 10 years after the date on which the Commission promulgates the regulations required by paragraph (1), the Commission shall review such regulations and, if the Commission considers revisions to such regulations appropriate, promulgate such revisions under section 553 of title 5, United States Code.“(e) Enforcement.—Subject to section 1306, a violation of this section or a regulation promulgated under this section shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).”.(b) Conforming Amendments.—Section 1305 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6504) is amended—
+(1) in subsection (a)(1)—
+(A) by striking “any regulation of the Commission prescribed under section 1303(b)” and inserting “section 1303 or a regulation promulgated under such section”; and
+(B) in subparagraph (B), by striking “the regulation” and inserting “such section or such regulation”; and
+(2) in subsection (d)—
+(A) by striking “any regulation prescribed under section 1303” and inserting “section 1303 or a regulation promulgated under such section”; and
+(B) by striking “that regulation” and inserting “such section or such regulation”.SEC. 4. REPEAL OF SAFE HARBORS PROVISION.
+(a) In General.—Section 1304 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6503) is repealed.
+(b) Conforming Amendment.—Section 1305(b) of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6504(b)) is amended by striking paragraph (3).SEC. 5. ADMINISTRATION AND APPLICABILITY OF ACT.
+(a) Enforcement By Federal Trade Commission.—Section 1306(d) of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6505(d)) is amended to read as follows:“(d) Actions By The Commission.—
+“(1) IN GENERAL.—Except as provided in paragraphs (2) and (3), the Commission shall prevent any person from violating section 1303 or a regulation promulgated under such section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this title, and any person who violates such section or such regulation shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this title.
+“(2) INCREASED CIVIL PENALTY AMOUNT.—In the case of a civil penalty under subsection (l) or (m) of section 5 of the Federal Trade Commission Act (15 U.S.C. 45) relating to acts or practices in violation of section 1303 or a regulation promulgated under such section, the maximum dollar amount per violation shall be $63,795.
+“(3) NONPROFIT ORGANIZATIONS AND COMMON CARRIERS.—Notwithstanding section 4, 5(a)(2), or 6 of the Federal Trade Commission Act (15 U.S.C. 44; 45(a)(2); 46) or any other jurisdictional limitation of the Commission, the Commission shall also enforce section 1303 or a regulation promulgated under such section in the same manner as otherwise provided in this title with respect to—
+“(A) any organization not organized to carry on business for its own profit or that of its members; and
+“(B) any common carrier subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and all Acts amendatory thereof and supplementary thereto.”.(b) Enforcement By Certain Other Agencies.—Section 1306 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6505) is amended—
+(1) in subsection (b)—
+(A) in paragraph (1), by striking “, in the case of” and all that follows and inserting the following: “by the appropriate Federal banking agency, with respect to any insured depository institution (as those terms are defined in section 3 of that Act (12 U.S.C. 1813));”;
+(B) in paragraph (6), by striking “Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association” and inserting “Farm Credit Bank, Agricultural Credit Bank (to the extent exercising the authorities of a Farm Credit Bank), Federal Land Credit Association, or agricultural credit association”; and
+(C) by striking paragraph (2) and redesignating paragraphs (3) through (6) as paragraphs (2) through (5), respectively; and
+(2) in subsection (c), by striking “subsection (a)” each place it appears and inserting “subsection (b)”.SEC. 6. REVIEW.
+Section 1307 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6506) is amended—
+(1) in the matter preceding paragraph (1), by striking “the regulations initially issued under section 1303” and inserting “the regulations required by subsection (d)(1) of section 1303, as amended by the Protecting the Information of our Vulnerable Adolescents, Children, and Youth Act”; and
+(2) by amending paragraph (1) to read as follows:
+“(1) review the implementation of this title, including the effect of the implementation of this title on practices relating to the processing of covered information about teenagers or children and teenager’s and children’s ability to obtain access to information of their choice online; and”.SEC. 7. PRIVATE RIGHT OF ACTION.
+The Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) is amended—
+(1) by redesignating sections 1307 and 1308 as sections 1308 and 1309, respectively; and
+(2) by inserting after section 1306 the following:
+“SEC. 1307. PRIVATE RIGHT OF ACTION.
+
+“(a) Right Of Action.—Any parent of a teenager or parent of a child alleging a violation of section 1303 or a regulation promulgated under such section with respect to the covered information of such teenager or child may bring a civil action in any court of competent jurisdiction.
+“(b) Injury In Fact.—A violation of section 1303 or a regulation promulgated under such section with respect to the covered information of a teenager or child constitutes an injury in fact to that teenager or child.“(c) Relief.—In a civil action brought under subsection (a) in which the plaintiff prevails, the court may award—
+“(1) injunctive relief;
+“(2) actual damages;
+“(3) punitive damages;
+“(4) reasonable attorney’s fees and costs; and
+“(5) any other relief that the court determines appropriate.“(d) Pre-Dispute Arbitration Agreements.—
+“(1) IN GENERAL.—No pre-dispute arbitration agreement or pre-dispute joint-action waiver shall be valid or enforceable with respect to any claim arising under section 1303 or a regulation promulgated under such section.
+“(2) DETERMINATION.—A determination as to whether and how this title or a regulation promulgated under this title applies to an arbitration agreement shall be determined under Federal law by the court, rather than the arbitrator, irrespective of whether the party opposing arbitration challenges such agreement specifically or in conjunction with any other term of the contract containing such agreement.
+“(3) DEFINITIONS.—As used in this subsection—
+“(A) the term ‘pre-dispute arbitration agreement’ means any agreement to arbitrate a dispute that has not arisen at the time of the making of the agreement; and
+“(B) the term ‘pre-dispute joint-action waiver’ means an agreement, whether or not part of a pre-dispute arbitration agreement, that would prohibit, or waive the right of, one of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.“(e) Non-Waiveability.—The rights and remedies provided under this title may not be waived or limited by contract or otherwise.”.SEC. 8. RELATIONSHIP TO OTHER LAW.
+Section 1306 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6505) is further amended by adding at the end the following:
+“(f) Relationship To Other Law.—
+“(1) OTHER FEDERAL PRIVACY OR SECURITY PROVISIONS.—Nothing in this title or a regulation promulgated under this title may be construed to modify, limit, or supersede the operation of any privacy or security provision in any other Federal statute or regulation.
+“(2) STATE LAW.—Nothing in this title or a regulation promulgated under this title may be construed to preempt, displace, or supplant any State common law or statute, except to the extent that any such common law or statute specifically and directly conflicts with the provisions of this title or a regulation promulgated under this title, and then only to the extent of the specific and direct conflict. Any such common law or statute is not in specific and direct conflict if it affords a greater level of protection to a child or teenager than the provisions of this title or a regulation promulgated under this title.
+“(3) SECTION 230 OF THE COMMUNICATIONS ACT OF 1934.—Nothing in section 230 of the Communications Act of 1934 (47 U.S.C. 230) may be construed to impair or limit the provisions of this title or a regulation promulgated under this title.”.SEC. 9. ADDITIONAL CONFORMING AMENDMENT.
+The heading of title XIII of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681–728) is amended by inserting “AND TEENAGER’S” after “CHILDREN’S”.SEC. 10. YOUTH PRIVACY AND MARKETING DIVISION.
+(a) Establishment.—There is established within the Commission a division to be known as the Youth Privacy and Marketing Division.
+(b) Director.—The Youth Privacy and Marketing Division shall be headed by a Director, who shall be appointed by the Chairman of the Commission.(c) Duties.—The Youth Privacy and Marketing Division shall be responsible for assisting the Commission in addressing, as it relates to this Act and the amendments made by this Act—
+(1) the privacy of children and teenagers; and
+(2) marketing directed at children and teenagers.(d) Staff.—The Youth Privacy and Marketing Division shall be comprised of adequate staff to carry out the duties under subsection (c), including individuals who are experts in data protection, digital advertising, data analytics, and youth development.(e) Reports.—Not later than 1 year after the date of the enactment of this Act, and every 2 years thereafter, the Director of the Youth Privacy and Marketing Division shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes—
+(1) a description of the work of the Youth Privacy and Marketing Division on emerging concerns relating to youth privacy and marketing practices; and
+(2) an assessment of how effectively the Commission has, during the period for which the report is submitted, addressed youth privacy and marketing practices.
+(f) Definitions.—In this section, the terms “child” and “teenager” have the meanings given such terms in section 1302 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6501), as amended by this Act.SEC. 11. COMMISSION DEFINED.
+In this Act, the term “Commission” means the Federal Trade Commission.SEC. 12. EFFECTIVE DATE.
+The amendments made by this Act, except for subsection (d)(1) of section 1303 of the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. 6502), shall take effect on the date that is 1 year after the date on which the Commission promulgates the regulations required by such subsection (d)(1).

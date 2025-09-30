@@ -1,0 +1,37 @@
+SECTION 4.  (1)  The State Department of Education is authorized and directed to implement K-12 computer science curriculum based on the 2018 Mississippi College and Career-Readiness Standards for computer science, which includes instruction in, but not limited to:
+
+          (a)  Computational thinking;
+
+          (b)  Problem solving;
+
+          (c)  Programming;
+
+          (d)  Cyber security;
+
+          (e)  Data science;
+
+          (f)  Robotics;
+
+          (g)  Artificial intelligence and machine learning; and
+
+          (h)  Other computer science and cyber-related content.
+
+     (2)  The State Department of Education shall work with the Center for Cyber Education at Mississippi State University to identify and develop K-12 computer science curriculum and delivery options.
+
+     (3)  Beginning in the 2022-2023 school year:
+
+          (a)  Each local school district shall provide that all middle schools in its school system offer instruction in foundations of computer science;
+
+          (b)  Each local school district shall provide that fifty percent (50%) of elementary schools in its school system offer a minimum of one (1) hour of instruction in computer science each week;
+
+          (c)  Each charter school that serves middle or high school students shall offer a course in computer science; and
+
+          (d)  Each charter school that serves elementary school students shall offer instruction in computer science.
+
+     (4)  Beginning in the 2023-2024 school year:
+
+          (a)  Each local school district shall provide that at least fifty percent (50%) of the high schools in its school system offer a course in computer science;
+
+          (b)  Each local school district shall provide that all elementary schools in its school system offer a minimum of one (1) hour of instruction in exploratory computer science each week.
+
+     (5)  Beginning in the 2024-2025 school year, each local school district shall provide that all schools in its school system offer instruction in computer science.

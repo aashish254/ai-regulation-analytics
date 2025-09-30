@@ -1,0 +1,58 @@
+SEC. 4. APPROACH TO ENVIRONMENTAL REVIEW.
+(a) In General.—Section 2403 of the Energy Policy Act of 1992 (16 U.S.C. 797d) is amended—
+(1) in the section heading, by striking “THIRD PARTY CONTRACTING BY FERC” and inserting “APPROACH TO ENVIRONMENTAL REVIEW”;
+(2) in subsection (a)—
+(A) in the subsection heading, by striking “Environmental Impact Statements” and inserting “Third-Party Contracting By The Federal Energy Regulatory Commission”; and
+(B) in the first sentence, by striking “Where the Federal” and inserting the following:
+“(1) ENVIRONMENTAL IMPACT STATEMENTS.—If the Federal”;
+(3) in subsection (c), by striking “This section” and inserting “This subsection”;
+(4) by redesignating subsections (b) and (c) as paragraphs (2) and (3), respectively, and indenting appropriately; and
+(5) by adding at the end the following:“(b) Cooperation With Other Agencies.—
+“(1) IN GENERAL.—The Federal Energy Regulatory Commission shall request that any Federal, State, or local agency or Indian Tribe with a responsibility under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or comparable State or Tribal law requirements with respect to the licensing of a project cooperate in the preparation of the environmental assessment or environmental impact statement that will be a record basis for the decisions of the applicable agency or Indian Tribe with respect to the applicable application.
+“(2) EFFECT.—Cooperation under paragraph (1) shall not impair the right of a cooperating agency or Indian Tribe to participate as a party in a proceeding, subject to appropriate protections against ex parte communications.“(c) Environmental Effects.—
+“(1) DEFINITIONS.—In this subsection:
+“(A) NONRECURRING PAST EFFECT.—The term ‘nonrecurring past effect’, with respect to a project, means an environmental effect that—
+“(i) may have been caused by—
+“(I) the original construction or development of the project; or
+“(II) prior operations of the project; but
+“(ii) has no ongoing effect on environmental resources.
+“(B) ONGOING EFFECT.—The term ‘ongoing effect’, with respect to a project, means a material environmental effect that would not occur or that would be different, but for the continued existence, operation, or maintenance of the project.
+“(C) PROJECT.—The term ‘project’ has the meaning given the term in section 3 of the Federal Power Act (16 U.S.C. 796).
+“(D) PROJECT EFFECTS.—The term ‘project effects’ means the ongoing effects and reasonably foreseeable effects of a project.
+“(E) REASONABLY FORESEEABLE EFFECT.—The term ‘reasonably foreseeable effect’, with respect to a project, means a material future environmental effect that—
+“(i) (I) in the case of new construction, would not occur or would be different, but for the construction, existence, operation, or maintenance of the project; or
+“(II) in the case of no new construction, would not occur or would be different, but for the existence, operation, or maintenance of the project; and
+“(ii) the Federal Energy Regulatory Commission, another agency, or an Indian Tribe determines, based on substantial evidence—
+“(I) is not speculative or improbable; and
+“(II) is supported by monitoring, modeling, or other scientific analysis that is generally accepted in the scientific community.
+“(2) REQUIRED CONSIDERATIONS.—In carrying out any authorities and responsibilities under part I of the Federal Power Act (16 U.S.C. 792 et seq.) with respect to resources affected by the project, the Federal Energy Regulatory Commission, other agencies, and Indian Tribes—
+“(A) shall consider ongoing and reasonably foreseeable effects of any existing dam and other appurtenant project works included as part of an application under part I of the Federal Power Act (16 U.S.C. 792 et seq.);
+“(B) shall not consider nonrecurring past effects of the dam and other appurtenant works of the project;
+“(C) (i) shall consider whether the project has an adverse effect on any fish species; and
+“(ii) if a determination is made in the affirmative under clause (i), shall consider passage and nonpassage strategies for reasonably mitigating the adverse effect, as appropriate, based on—
+“(I) the extent and quality of habitat upstream and downstream of the project, including the feasibility of creating new habitat or improving existing habitat through habitat improvement projects;
+“(II) off-site mitigation as provided in section 39 of the Federal Power Act;
+“(III) risks to the health of the fish and the river system associated with both passage and nonpassage strategies;
+“(IV) costs of construction, operation, and maintenance associated with both passage and nonpassage strategies; and
+“(V) such other biological, operational, and economic factors determined to be relevant by the Federal Energy Regulatory Commission, other agencies, and Indian Tribes;
+“(D) shall evaluate reasonably foreseeable project effects on hydrologic patterns, other aspects of environmental quality and developmental uses during the term of the license, based on fieldwork investigations, literature reviews, resource monitoring, technical models, or other appropriate methodologies, consistent with generally accepted scientific practices;
+“(E) shall—
+“(i) for purposes of deploying a model under this subsection, encourage the preferential use of open-sourced technical models, subject to the limitation that nothing in this clause prohibits the use of a proprietary model or proprietary data; and
+“(ii) for purposes of using or otherwise relying on a model or data under this subsection—
+“(I) ensure the validity of the model or data through validation analysis entered into the record; and
+“(II) provide for the model, including data and other modeling inputs and outputs, to be reasonably available for evaluation, operation, reporting, and review by licensing participants, subject to appropriate protections relating to—
+“(aa) duplication or public disclosure of intellectual property associated with the model, such as software code or algorithms; and
+“(bb) the public disclosure of proprietary or other data that would reveal trade secrets, other information that is competitively sensitive, or critical electric infrastructure information (as defined in section 215A(a) of the Federal Power Act (16 U.S.C. 824o–1(a)));
+“(F) shall consider reasonably foreseeable effects of hydrologic alterations over the license term in the region in which the project is located, including any change in project effects due to the hydrologic alterations and the potential of the project to contribute to the protection and enhancement of the beneficial public uses identified in paragraph (5) of section 4(e) and section 10(a)(1) of the Federal Power Act (16 U.S.C. 797(e), 803(a)(1));
+“(G) shall ensure that any Federal requirements applicable in the project area under any applicable Federal treaty with an Indian Tribe, as determined by a court of competent jurisdiction, are met;
+“(H) shall consider innovative solutions and emerging technologies as a means of meeting responsibilities and authorities under part I of the Federal Power Act (16 U.S.C. 792 et seq.) in a cost-effective manner; and
+“(I) shall consider, based on an analysis prepared by the Federal Energy Regulatory Commission, impacts of the determination or decision of the Federal Energy Regulatory Commission, other agency, or Indian Tribe, as applicable, on—
+“(i) grid reliability;
+“(ii) any increase in the price of energy, power, and essential grid services to consumers of power; and
+“(iii) the ability to integrate intermittent generation resources.
+“(3) TECHNICAL CONFERENCES.—Not later than 180 days after the date of enactment of the Community and Hydropwer Improvement Act and periodically thereafter, as determined to be appropriate by the Federal Energy Regulatory Commission, the Federal Energy Regulatory Commission, in consultation with the Secretary, shall convene a technical conference to consider new technologies and methodologies that may be available and generally accepted in the scientific community or by agencies that manage water resources for power production, water supply, or flood control in the applicable region to quantify the considerations required under paragraph (2)(F) within an acceptable calculated range in licensing proceedings under part I of the Federal Power Act (16 U.S.C. 792 et seq.).“(d) Citations To Record.—In carrying out authorities and responsibilities under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and sections 4(e), 10, 18, 33, and 37 of the Federal Power Act (16 U.S.C. 797(e), 803, 811, 823d), the Federal Energy Regulatory Commission and other agencies and Indian Tribes shall—
+“(1) cite to the specific parts of documents and other evidence that are the basis for the findings on issues of material fact for which the record contains inconsistent or conflicting information; and
+“(2) state the basis for relying on the cited evidence for the purpose of making the findings on issues of material fact.”.
+(b) Clerical Amendment.—The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2781) is amended by striking the item relating to section 2403 and inserting the following:
+
+“Sec. 2403. Approach to environmental review.”.

@@ -1,0 +1,120 @@
+SEC. 510. Management of artificial intelligence security risks.
+(a) Definitions.—In this section:
+
+(1) ARTIFICIAL INTELLIGENCE SAFETY INCIDENT.—The term “artificial intelligence safety incident” means an event that increases the risk that operation of an artificial intelligence system will—
+
+(A) result in physical or psychological harm; or
+
+(B) lead to a state in which human life, health, property, or the environment is endangered.
+
+(2) ARTIFICIAL INTELLIGENCE SECURITY INCIDENT.—The term “artificial intelligence security incident” means an event that increases—
+
+(A) the risk that operation of an artificial intelligence system occurs in a way that enables the extraction of information about the behavior or characteristics of an artificial intelligence system by a third party; or
+
+(B) the ability of a third party to manipulate an artificial intelligence system to subvert the confidentiality, integrity, or availability of an artificial intelligence system or adjacent system.
+
+(3) ARTIFICIAL INTELLIGENCE SECURITY VULNERABILITY.—The term “artificial intelligence security vulnerability” means a weakness in an artificial intelligence system that could be exploited by a third party to, without authorization, subvert the confidentiality, integrity, or availability of an artificial intelligence system, including through techniques such as—
+
+(A) data poisoning;
+
+(B) evasion attacks;
+
+(C) privacy-based attacks; and
+
+(D) abuse attacks.
+
+(4) COUNTER-ARTIFICIAL INTELLIGENCE.—The term “counter-artificial intelligence” means techniques or procedures to extract information about the behavior or characteristics of an artificial intelligence system, or to learn how to manipulate an artificial intelligence system, so as to subvert the confidentiality, integrity, or availability of an artificial intelligence system or adjacent system.
+
+(b) Voluntary tracking and processing of security and safety incidents and risks associated with artificial intelligence.—
+
+(1) PROCESSES AND PROCEDURES FOR VULNERABILITY MANAGEMENT.—Not later than 180 days after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall—
+
+(A) initiate a process to update processes and procedures associated with the National Vulnerability Database of the Institute to ensure that the database and associated vulnerability management processes incorporate artificial intelligence security vulnerabilities to the greatest extent practicable; and
+
+(B) identify any characteristics of artificial intelligence security vulnerabilities that make utilization of the National Vulnerability Database inappropriate for their management and develop processes and procedures for vulnerability management of those vulnerabilities.
+
+(2) VOLUNTARY TRACKING OF ARTIFICIAL INTELLIGENCE SECURITY AND ARTIFICIAL INTELLIGENCE SAFETY INCIDENTS.—
+
+(A) VOLUNTARY DATABASE REQUIRED.—Not later than 1 year after the date of the enactment of this Act, the Director of the Institute, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall—
+
+(i) develop and establish a comprehensive database to publicly track artificial intelligence security and artificial intelligence safety incidents through voluntary input; and
+
+(ii) in establishing the database under clause (i)—
+
+(I) establish mechanisms by which private sector entities, public sector organizations, civil society groups, and academic researchers may voluntarily share information with the Institute on confirmed or suspected artificial intelligence security or artificial intelligence safety incidents, in a manner that preserves the confidentiality of any affected party;
+
+(II) leverage, to the greatest extent possible, standardized disclosure and incident description formats;
+
+(III) develop processes to associate reports pertaining to the same incident with a single incident identifier;
+
+(IV) establish classification, information retrieval, and reporting mechanisms that sufficiently differentiate between artificial intelligence security incidents and artificial intelligence safety incidents; and
+
+(V) create appropriate taxonomies to classify incidents based on relevant characteristics, impact, or other relevant criteria.
+
+(B) IDENTIFICATION AND TREATMENT OF MATERIAL ARTIFICIAL INTELLIGENCE SECURITY OR ARTIFICIAL INTELLIGENCE SAFETY RISKS.—
+
+(i) IN GENERAL.—Upon receipt of relevant information on an artificial intelligence security or artificial intelligence safety incident, the Director of the Institute shall determine whether the described incident presents a material artificial intelligence security or artificial intelligence safety risk sufficient for inclusion in the database developed and established under subparagraph (A).
+
+(ii) PRIORITIES.—In evaluating a reported incident pursuant to subparagraph (A), the Director shall prioritize inclusion in the database cases in which a described incident—
+
+(I) describes an artificial intelligence system used in critical infrastructure or safety-critical systems;
+
+(II) would result in a high-severity or catastrophic impact to the people or economy of the United States; or
+
+(III) includes an artificial intelligence system widely used in commercial or public sector contexts.
+
+(C) REPORTS AND ANONYMITY.—The Director shall populate the database developed and established under subparagraph (A) with incidents based on public reports and information shared using the mechanism established pursuant to clause (ii)(I) of such subparagraph, ensuring that any incident description sufficiently anonymizes those affected, unless those who are affected have consented to their names being included in the database.
+
+(c) Updating processes and procedures relating to Common Vulnerabilities and Exposures Program and evaluation of consensus standards relating to artificial intelligence security vulnerability reporting.—
+
+(1) DEFINITIONS.—In this subsection:
+
+(A) COMMON VULNERABILITIES AND EXPOSURES PROGRAM.—The term “Common Vulnerabilities and Exposures Program” means the reference guide and classification system for publicly known information security vulnerabilities sponsored by the Cybersecurity and Infrastructure Security Agency.
+
+(B) DIRECTOR.—The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency.
+
+(C) RELEVANT CONGRESSIONAL COMMITTEES.—The term “relevant congressional committees” means—
+
+(i) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+(ii) the Committee on Commerce, Science, and Transportation of the Senate;
+
+(iii) the Select Committee on Intelligence of the Senate;
+
+(iv) the Committee on the Judiciary of the Senate;
+
+(v) the Committee on Oversight and Accountability of the House of Representatives;
+
+(vi) the Committee on Energy and Commerce of the House of Representatives;
+
+(vii) the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+(viii) the Committee on the Judiciary of the House of Representatives.
+
+(2) IN GENERAL.—Not later than 180 days after the date of enactment of this Act, the Director shall—
+
+(A) initiate a process to update processes and procedures associated with the Common Vulnerabilities and Exposures Program to ensure that the program and associated processes identify and enumerate artificial intelligence security vulnerabilities to the greatest extent practicable; and
+
+(B) identify any characteristic of artificial intelligence security vulnerabilities that makes utilization of the Common Vulnerabilities and Exposures Program inappropriate for their management and develop processes and procedures for vulnerability identification and enumeration of those artificial intelligence security vulnerabilities.
+
+(3) EVALUATION OF CONSENSUS STANDARDS.—
+
+(A) IN GENERAL.—Not later than 30 days after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall initiate a multi-stakeholder process to evaluate whether existing voluntary consensus standards for vulnerability reporting effectively accommodate artificial intelligence security vulnerabilities.
+
+(B) REPORT.—
+
+(i) SUBMISSION.—Not later than 180 days after the date on which the evaluation under subparagraph (A) is carried out, the Director shall submit a report to the relevant congressional committees on the sufficiency of existing vulnerability reporting processes and standards to accommodate artificial intelligence security vulnerabilities.
+
+(ii) POST-REPORT ACTION.—If the Director concludes in the report submitted under clause (i) that existing processes do not sufficiently accommodate reporting of artificial intelligence security vulnerabilities, the Director shall initiate a process, in consultation with the Director of the National Institute of Standards and Technology and the Director of the Office of Management and Budget, to update relevant vulnerability reporting processes, including the Department of Homeland Security Binding Operational Directive 20–01, or any subsequent directive.
+
+(4) BEST PRACTICES.—Not later than 90 days after the date of enactment of this Act, the Director shall, in collaboration with the Director of the National Security Agency and the Director of the National Institute of Standards and Technology and leveraging efforts of the Information Communications Technology Supply Chain Risk Management Task Force to the greatest extent practicable, convene a multi-stakeholder process to encourage the development and adoption of best practices relating to addressing supply chain risks associated with training and maintaining artificial intelligence models, which shall ensure consideration of supply chain risks associated with—
+
+(A) data collection, cleaning, and labeling, particularly the supply chain risks of reliance on remote workforce and foreign labor for such tasks;
+
+(B) inadequate documentation of training data and test data storage, as well as limited provenance of training data;
+
+(C) human feedback systems used to refine artificial intelligence systems, particularly the supply chain risks of reliance on remote workforce and foreign labor for such tasks;
+
+(D) the use of large-scale, open-source datasets, particularly the supply chain risks to repositories that host such datasets for use by public and private sector developers in the United States; and
+
+(E) the use of proprietary datasets containing sensitive or personally identifiable information.

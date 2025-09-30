@@ -1,0 +1,9 @@
+SEC. 401. DATA MODERNIZATION.
+(a) In General.—Not later than 180 days after the date of the enactment of this section, the Secretary, acting through the Assistant Administrator for Fisheries, shall provide to Congress a national strategic plan for fisheries data, including a description of—
+(1) activities for the goals and objectives of the plan;
+(2) a schedule for implementation;
+(3) an estimated budget;
+(4) a plan for stakeholder engagement for development of user-centric systems, processes, and policies; and
+(5) how the initiative will align with other National Oceanic and Atmospheric Administration data management efforts to provide for efficiency and interoperability, including the Data Strategy, Cloud Strategy, and Artificial Intelligence Strategy of the National Oceanic and Atmospheric Administration.
+(b) Information From Experts.—In carrying out this section, the Secretary shall solicit information, as needed, from data management and technology experts inside and outside the government.
+(c) Report.—The Secretary shall annually report to Congress regarding progress in carrying out this section.

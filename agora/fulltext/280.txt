@@ -1,0 +1,101 @@
+SECTION 1. Chapter 25 (commencing with Section 22756) is added to Division 8 of the Business and Professions Code, to read:
+
+CHAPTER  25. Automated Decision Tools
+1. As used in this chapter:
+(a) “Algorithmic discrimination” means the condition in which an automated decision tool contributes to unjustified differential treatment or impacts disfavoring people based on their actual or perceived race, color, ethnicity, sex, religion, age, national origin, limited English proficiency, disability, veteran status, genetic information, reproductive health, or any other classification protected by state law.
+(b) “Artificial intelligence” means a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing a real or virtual environment.
+(c) “Automated decision tool” means a system or service that uses artificial intelligence and has been specifically developed and marketed to, or specifically modified to, make, or be a controlling factor in making, consequential decisions.
+(d) “Consequential decision” means a decision or judgment that has a legal, material, or similarly significant effect on an individual’s life relating to the impact of, access to, or the cost, terms, or availability of, any of the following:
+(1) Employment, workers management, or self-employment, including, but not limited to, all of the following:
+(A) Pay or promotion.
+(B) Hiring or termination.
+(C) Automated task allocation.
+(2) Education and vocational training, including, but not limited to, all of the following:
+(A) Assessment, including, but not limited to, detecting student cheating or plagiarism.
+(B) Accreditation.
+(C) Certification.
+(D) Admissions.
+(E) Financial aid or scholarships.
+(3) Housing or lodging, including rental or short-term housing or lodging.
+(4) Essential utilities, including electricity, heat, water, internet or telecommunications access, or transportation.
+(5) Family planning, including adoption services or reproductive services, as well as assessments related to child protective services.
+(6) Health care or health insurance, including mental health care, dental, or vision.
+(7) Financial services, including a financial service provided by a mortgage company, mortgage broker, or creditor.
+(8) The criminal justice system, including, but not limited to, all of the following:
+(A) Risk assessments for pretrial hearings.
+(B) Sentencing.
+(C) Parole.
+(9) Legal services, including private arbitration or mediation.
+(10) Voting.
+(11) Access to benefits or services or assignment of penalties.
+(e) “Deployer” means a person, partnership, state or local government agency, or corporation that uses an automated decision tool to make a consequential decision.
+(f) “Developer” means a person, partnership, state or local government agency, or corporation that designs, codes, or produces an automated decision tool, or substantially modifies an artificial intelligence system or service for the intended purpose of making, or being a controlling factor in making, consequential decisions, whether for its own use or for use by a third party.
+(g) “Impact assessment” means a documented risk-based evaluation of an automated decision tool that meets the criteria of Section 22756.1.
+(h) “Sex” includes pregnancy, childbirth, and related conditions, gender identity, intersex status, and sexual orientation.
+(i) “Significant update” means a new version, new release, or other update to an automated decision tool that includes changes to its use case, key functionality, or expected outcomes.22756.1. (a) On or before January 1, 2025, and annually thereafter, a deployer of an automated decision tool shall perform an impact assessment for any automated decision tool the deployer uses that includes all of the following:
+(1) A statement of the purpose of the automated decision tool and its intended benefits, uses, and deployment contexts.
+(2) A description of the automated decision tool’s outputs and how they are used to make, or be a controlling factor in making, a consequential decision.
+(3) A summary of the type of data collected from natural persons and processed by the automated decision tool when it is used to make, or be a controlling factor in making, a consequential decision.
+(4) A statement of the extent to which the deployer’s use of the automated decision tool is consistent with or varies from the statement required of the developer by Section 22756.3.
+(5) An analysis of potential adverse impacts on the basis of sex, race, color, ethnicity, religion, age, national origin, limited English proficiency, disability, veteran status, or genetic information from the deployer’s use of the automated decision tool.
+(6) A description of the safeguards implemented, or that will be implemented, by the deployer to address any reasonably foreseeable risks of algorithmic discrimination arising from the use of the automated decision tool known to the deployer at the time of the impact assessment.
+(7) A description of how the automated decision tool will be used by a natural person, or monitored when it is used, to make, or be a controlling factor in making, a consequential decision.
+(8) A description of how the automated decision tool has been or will be evaluated for validity or relevance.
+(b) On or before January 1, 2025, and annually thereafter, a developer of an automated decision tool shall complete and document an assessment of any automated decision tool that it designs, codes, or produces that includes all of the following:
+(1) A statement of the purpose of the automated decision tool and its intended benefits, uses, and deployment contexts.
+(2) A description of the automated decision tool’s outputs and how they are used to make, or be a controlling factor in making, a consequential decision.
+(3) A summary of the type of data collected from natural persons and processed by the automated decision tool when it is used to make, or be a controlling factor in making, a consequential decision.
+(4) An analysis of a potential adverse impact on the basis of sex, race, color, ethnicity, religion, age, national origin, limited English proficiency, disability, veteran status, or genetic information from the deployer’s use of the automated decision tool.
+(5) A description of the measures taken by the developer to mitigate the risk known to the developer of algorithmic discrimination arising from the use of the automated decision tool.
+(6) A description of how the automated decision tool can be used by a natural person, or monitored when it is used, to make, or be a controlling factor in making, a consequential decision.
+(c) A deployer or developer shall, in addition to the impact assessment required by subdivisions (a) and (b), perform, as soon as feasible, an impact assessment with respect to any significant update.
+(d) This section does not apply to a deployer with fewer than 25 employees unless, as of the end of the prior calendar year, the deployer deployed an automated decision tool that impacted more than 999 people per year.22756.2. (a) (1) A deployer shall, at or before the time an automated decision tool is used to make a consequential decision, notify any natural person that is the subject of the consequential decision that an automated decision tool is being used to make, or be a controlling factor in making, the consequential decision.
+(2) A deployer shall provide to a natural person notified pursuant to this subdivision all of the following:
+(A) A statement of the purpose of the automated decision tool.
+(B) Contact information for the deployer.
+(C) A plain language description of the automated decision tool that includes a description of any human components and how any automated component is used to inform a consequential decision.
+(b) (1) If a consequential decision is made solely based on the output of an automated decision tool, a deployer shall, if technically feasible, accommodate a natural person’s request to not be subject to the automated decision tool and to be subject to an alternative selection process or accommodation.
+(2) After a request pursuant to paragraph (1), a deployer may reasonably request, collect, and process information from a natural person for the purposes of identifying the person and the associated consequential decision. If the person does not provide that information, the deployer shall not be obligated to provide an alternative selection process or accommodation.22756.3. (a) A developer shall provide a deployer with a statement regarding the intended uses of the automated decision tool and documentation regarding all of the following:
+(1) The known limitations of the automated decision tool, including any reasonably foreseeable risks of algorithmic discrimination arising from its intended use.
+(2) A description of the type of data used to program or train the automated decision tool.
+(3) A description of how the automated decision tool was evaluated for validity and explainability before sale or licensing.
+(b) This section does not require the disclosure of trade secrets, as defined in Section 3426.1 of the Civil Code.22756.4. (a) (1) A deployer or developer shall establish, document, implement, and maintain a governance program that contains reasonable administrative and technical safeguards to map, measure, manage, and govern the reasonably foreseeable risks of algorithmic discrimination associated with the use or intended use of an automated decision tool.
+(2) The safeguards required by this subdivision shall be appropriate to all of the following:
+(A) The use or intended use of the automated decision tool.
+(B) The deployer’s or developer’s role as a deployer or developer.
+(C) The size, complexity, and resources of the deployer or developer.
+(D) The nature, context, and scope of the activities of the deployer or developer in connection with the automated decision tool.
+(E) The technical feasibility and cost of available tools, assessments, and other means used by a deployer or developer to map, measure, manage, and govern the risks associated with an automated decision tool.
+(b) The governance program required by this section shall be designed to do all of the following:
+(1) (A) Designate at least one employee to be responsible for overseeing and maintaining the governance program and compliance with this chapter.
+(B) (i) An employee designated pursuant to this paragraph shall have the authority to assert to the employee’s employer a good faith belief that the design, production, or use of an automated decision tool fails to comply with the requirements of this chapter.
+(ii) An employer of an employee designated pursuant to this paragraph shall conduct a prompt and complete assessment of any compliance issue raised by that employee.
+(2) Identify and implement safeguards to address reasonably foreseeable risks of algorithmic discrimination resulting from the use or intended use of an automated decision tool.
+(3) If established by a deployer, provide for the performance of impact assessments as required by Section 22756.1.
+(4) If established by a developer, provide for compliance with Sections 22756.2 and 22756.3.
+(5) Conduct an annual and comprehensive review of policies, practices, and procedures to ensure compliance with this chapter.
+(6) Maintain for two years after completion the results of an impact assessment.
+(7) Evaluate and make reasonable adjustments to administrative and technical safeguards in light of material changes in technology, the risks associated with the automated decision tool, the state of technical standards, and changes in business arrangements or operations of the deployer or developer.
+(c) This section does not apply to a deployer with fewer than 25 employees unless, as of the end of the prior calendar year, the deployer deployed an automated decision tool that impacted more than 999 people per year.22756.5. A deployer or developer shall make publicly available, in a readily accessible manner, a clear policy that provides a summary of both of the following:
+(a) The types of automated decision tools currently in use or made available to others by the deployer or developer.
+(b) How the deployer or developer manages the reasonably foreseeable risks of algorithmic discrimination that may arise from the use of the automated decision tools it currently uses or makes available to others.22756.6. (a) A deployer shall not use an automated decision tool that results in algorithmic discrimination.
+(b) (1) On and after January 1, 2026, a person may bring a civil action against a deployer for violation of this section.
+(2) In an action brought pursuant to paragraph (1), the plaintiff shall have the burden of proof to demonstrate that the deployer’s use of the automated decision tool resulted in algorithmic discrimination that caused actual harm to the person bringing the civil action.
+(c) In addition to any other remedy at law, a deployer that violates this section shall be liable to a prevailing plaintiff for any of the following:
+(1) Compensatory damages.
+(2) Declaratory relief.
+(3) Reasonable attorney’s fees and costs.22756.7. (a) Within 60 days of completing an impact assessment required by this chapter, a deployer or a developer shall provide the impact assessment to the Civil Rights Department.
+(b) (1) A deployer or developer who violates this section shall be liable for an administrative fine of not more than ten thousand dollars ($10,000) per violation in an administrative enforcement action brought by the Civil Rights Department.
+(2) Each day on which an automated decision tool is used for which an impact assessment has not been submitted pursuant to this section shall give rise to a distinct violation of this section.
+(c) The Civil Rights Department may share impact assessments with other state entities as appropriate.22756.8. (a) (1) Any of the following public attorneys may bring a civil action against a deployer or developer for a violation of this chapter:
+(A) The Attorney General in the name of the people of the State of California.
+(B) A district attorney, county counsel, or city attorney for the jurisdiction in which the violation occurred.
+(C) A city prosecutor in any city having a full-time city prosecutor, with the consent of the district attorney.
+(2) A court may award in an action brought pursuant to this subdivision all of the following:
+(A) Injunctive relief.
+(B) Declaratory relief.
+(C) Reasonable attorney’s fees and litigation costs.
+(b) (1) A public attorney, before commencing an action pursuant to this section for injunctive relief, shall provide 45 days’ written notice to a deployer or developer of the alleged violations of this chapter.
+(2) (A) The developer or deployer may cure, within 45 days of receiving the written notice described in paragraph (1), the noticed violation and provide the person who gave the notice an express written statement, made under penalty of perjury, that the violation has been cured and that no further violations shall occur.
+(B) If the developer or deployer cures the noticed violation and provides the express written statement pursuant to subparagraph (A), a claim for injunctive relief shall not be maintained for the noticed violation.SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution for certain costs that may be incurred by a local agency or school district because, in that regard, this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+However, if the Commission on State Mandates determines that this act contains other costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.

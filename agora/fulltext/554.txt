@@ -1,0 +1,191 @@
+ S. 2691
+
+
+To require disclosures for AI-generated content, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+July 27, 2023
+
+
+Mr. Schatz (for himself and Mr. Kennedy) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To require disclosures for AI-generated content, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “AI Labeling Act of 2023”.
+
+
+ SEC. 2. DISCLOSURES FOR AI-GENERATED CONTENT.
+
+
+(a) Consumer Disclosures.—
+
+
+(1) IMAGE, VIDEO, AUDIO, OR MULTIMEDIA AI-GENERATED CONTENT.—
+
+
+(A) IN GENERAL.—Each generative artificial intelligence system that, using any means or facility of interstate or foreign commerce, produces image, video, audio, or multimedia AI-generated content shall include on such AI-generated content a clear and conspicuous disclosure that meets the requirements of subparagraph (B).
+
+
+(B) DISCLOSURE REQUIREMENTS.—A disclosure required under subparagraph (A) shall meet each of the following criteria:
+
+
+(i) The disclosure shall include a clear and conspicuous notice, as appropriate for the medium of the content, that identifies the content as AI-generated content.
+
+
+(ii) The output's metadata information shall include an identification of the content as being AI-generated content, the identity of the tool used to create the content, and the date and time the content was created.
+
+
+(iii) The disclosure shall, to the extent technically feasible, be permanent or unable to be easily removed by subsequent users.
+
+
+(2) TEXT AI-GENERATED CONTENT.—Each artificial intelligence system that, using any means or facility of interstate or foreign commerce, produces text AI-generated content (including through an artificial intelligence chatbot) shall include a clear and conspicuous disclosure that identifies the content as AI-generated content and that is, to the extent technically feasible, permanent or unable to be easily removed by subsequent users.
+
+
+(3) OTHER OBLIGATIONS.—
+
+
+(A) DEVELOPERS OF GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEMS.—Any entity that develops a generative artificial intelligence system shall implement reasonable procedures to prevent downstream use of such system without the disclosures required under this section, including by—
+
+
+(i) requiring by contract that end users and third-party licensees of the system refrain from removing any required disclosure;
+
+
+(ii) requiring certification that end users and third-party licensees will not remove any such disclosure; and
+
+
+(iii) terminating access to the system when the entity has reason to believe that an end user or third-party licensee has removed the required disclosure.
+
+
+(B) THIRD-PARTY LICENSEES.—Any third-party licensee of a generative artificial intelligence system shall implement reasonable procedures to prevent downstream use of such system without the disclosures required under this section, including by—
+
+
+(i) requiring by contract that users of the system refrain from removing any required disclosure;
+
+
+(ii) requiring certification that end users will not remove any such disclosure; and
+
+
+(iii) terminating access to the system when the third-party licensee has reason to believe that an end user has removed the required disclosure.
+
+
+(4) ENFORCEMENT BY THE COMMISSION.—
+
+
+(A) UNFAIR OR DECEPTIVE ACTS OR PRACTICE.—A violation of this subsection shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+
+(B) POWERS OF THE COMMISSION.—
+
+
+(i) IN GENERAL.—The Commission shall enforce this subsection in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this subsection.
+
+
+(ii) PRIVILEGES AND IMMUNITIES.—Any person who violates this subsection or a regulation promulgated thereunder shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+
+
+(iii) AUTHORITY PRESERVED.—Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.
+
+
+ (b) AI-Generated Content Consumer Transparency Working Group.—
+
+
+(1) ESTABLISHMENT.—Not later than 90 days after the date of enactment of this section, the Director of the National Institute of Standards and Technology (in this section referred to as the “Director”), in coordination with the heads of other relevant Federal agencies, shall form a working group to assist platforms in identifying AI-generated content.
+
+
+(2) MEMBERSHIP.—The working group shall include members from the following:
+
+
+(A) Relevant Federal agencies.
+
+
+(B) Developers of generative artificial intelligence systems.
+
+
+(C) Private sector groups engaged in developing content detection standards.
+
+
+(D) Social media platforms.
+
+
+(E) Academic and other relevant entities.
+
+
+(F) Any other entity determined appropriate by the Director.
+
+
+(3) DUTIES.—Not later than 1 year after the date on which the Director establishes the working group under paragraph (1), the working group shall publish a framework that includes—
+
+
+(A) technical standards for AI-generated content detection technology to assist platforms in identifying image, video, audio, and multimedia AI-generated content;
+
+
+(B) guidelines and best practices for platforms to implement such technical standards; and
+
+
+(C) recommendations for detection practices for non-audiovisual AI-generated content, including text.
+
+
+(4) REPORT TO CONGRESS.—Not later than 1 year after the date on which the Director establishes the working group under paragraph (1), the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the framework published under paragraph (3), together with recommendations for legislative or administrative action determined appropriate by the Director.
+
+
+(5) EXEMPTION FROM APPLICATION OF FACA.—Chapter 10 of title 5, United States Code, shall not apply to the working group.
+
+
+ (c) Definitions.—In this section:
+
+
+(1) AI-GENERATED CONTENT.—The term “AI-generated content” means image, video, audio, multimedia, or text content that is substantially created or modified by a generative artificial intelligence system such that the use of the system materially alters the meaning or significance that a reasonable person would take away from the content.
+
+
+(2) ARTIFICIAL INTELLIGENCE CHATBOT.—The term “artificial intelligence chatbot” means generative artificial intelligence system with which users can interact by or through an interface that approximates or simulates conversation.
+
+
+(3) CLEAR AND CONSPICUOUS.—The term “clear and conspicuous”, with respect to a disclosure, means that the disclosure meets the following criteria:
+
+
+(A) For any content that is solely visual or solely audible, the disclosure shall be made through the same means through which the content is presented.
+
+
+(B) For any content that is both visual and audible, the disclosure shall be visual and audible.
+
+
+(C) A visual disclosure, by its size, contrast, location, the length of time it appears, and other characteristics, shall stand out from any accompanying text or other visual elements so that the disclosure is easily noticed, read, and understood.
+
+
+(D) An audible disclosure shall be delivered in a volume, speed, and cadence sufficient for a reasonable person to easily hear and understand the disclosure.
+
+
+(E) The disclosure shall not be avoidable.
+
+
+(F) The disclosure shall use diction and syntax understandable to a reasonable person.
+
+
+(G) The disclosure shall not be contradicted or mitigated by, or inconsistent with, anything else in the communication.
+
+
+(H) Any other criteria determined appropriate by the Commission.
+
+
+(4) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+
+
+(5) GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM.—The term “generative artificial intelligence system” means any system that uses artificial intelligence (as defined in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019) to generate or substantially modify image, video, audio, multimedia, or text content.
+
+
+(6) METADATA.—The term “metadata” has the meaning given such term in section 3502 of title 44, United States Code.
+
+
+(7) PLATFORM.—The term “platform” has the meaning given the term “interactive computer service” in section 230(f) of the Communications Act of 1934 (47 U.S.C. 230(f)).

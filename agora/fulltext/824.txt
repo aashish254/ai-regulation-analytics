@@ -1,0 +1,19 @@
+ SEC. 206. STUDY ON WILDFIRE DETECTION EQUIPMENT AND INTEGRATION OF ARTIFICIAL INTELLIGENCE TECHNOLOGIES.
+
+
+(a) In General.—The Secretaries shall conduct a study on—
+
+
+(1) the effectiveness and limitations on the deployment and application of each wildfire detection equipment technology with respect to detection, confirmation, geolocation, predictability of wildfire spread, suppression resource management, post-fire forensics, and surface rehabilitation;
+
+
+(2) how each technology described in paragraph (1), with proper and timely deployment and use, can provide for the most effective and efficient means of dealing with the threat and the reality of wildland fires;
+
+
+(3) the integration of artificial intelligence with real-time imagery and weather data provided by wildfire detection equipment technology; and
+
+
+(4) how the integration of artificial intelligence described in paragraph (3) can enhance the value of each wildfire detection equipment technology, individually and collectively.
+
+
+ (b) Submission And Public Availability.—Not later than 2 years after the date of enactment of this Act, the Secretaries shall submit to the congressional committees and make publicly available the results of the study conducted under subsection (a).

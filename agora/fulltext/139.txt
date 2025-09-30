@@ -1,0 +1,148 @@
+Subtitle C—Artificial Intelligence and Emerging Technology 
+
+SEC. 231. MODIFICATION OF BIANNUAL REPORT ON THE JOINT ARTIFICIAL INTELLIGENCE CENTER. 
+
+Section 260(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1293) is amended by adding at the end the following new paragraphs:
+‘‘(11) The results of an assessment, conducted biannually, on the efforts of the Center and the Department of Defense to develop or contribute to the development of standards for artificial intelligence, including—
+‘‘(A) a description of such efforts;
+‘‘(B) an evaluation of the need to incorporate standards for artificial intelligence into the strategies and doctrine of the Department and a description of any efforts undertaken to further the development and adoption of such standards;
+‘‘(C) an explanation of any collaboration on artificial intelligence standards development with— 
+‘‘(i) other organizations and elements of the Department of Defense (including the Defense Agencies and the military departments); 
+‘‘(ii) agencies of the Federal Government;
+‘‘(iii) the intelligence community;
+‘‘(iv) representatives of the defense industrial base and other sectors of private industry; and 
+‘‘(v) any other agencies, entities, organizations, or persons the Secretary considers appropriate; and 
+‘‘(D) an explanation of any participation by the Center and the Department of Defense in international or other multi-stakeholder standard-setting bodies. ‘‘(12) For each member of the Armed Forces who concluded a formal assignment supporting the Center in the period of six months preceding the date of the report, a position description of the billet that the member transitioned into, as provided to the Center by the Armed Force of the member within 30 days of reassignment. 
+‘‘(13) An annual update, developed in consultation with the Armed Forces, on the status of active duty members of the Armed Forces assigned to the Center. This update shall include the following: 
+‘‘(A) An assessment of the effectiveness of such assignments in strengthening the ties between the Center and the Armed Forces for the purposes of—
+‘‘(i) identifying tactical and operational use cases for artificial intelligence;
+‘‘(ii) improving data collection relating to artificial intelligence; and
+‘‘(iii) establishing effective lines of communication between the Center and the Armed Forces to identify and address concerns from the Armed Forces relating to the widespread adoption and dissemination of artificial intelligence.
+‘‘(B) A description of any efforts undertaken to create opportunities for additional nontraditional broadening assignments at the Center for members of the Armed Forces on active duty. 
+‘‘(C) An analysis of the career trajectories of active duty members of the Armed Forces assigned to the Center, including any potential negative effects of such assignment on the career trajectories of such members.’’. 
+SEC. 232. MODIFICATION OF JOINT ARTIFICIAL INTELLIGENCE RESEARCH, DEVELOPMENT, AND TRANSITION ACTIVITIES. 
+
+Section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2358 note) is amended—
+
+(1) in subsection (a)— 
+(A) in paragraph (1), by inserting ‘‘acquire,’’ before ‘‘develop’’; and 
+(B) by amending paragraph (2) to read as follows:
+‘‘(2) EMPHASIS.—The set of activities established under paragraph (1) shall include— 
+‘‘(A) acquisition and development of mature artificial intelligence technologies in support of defense missions; 
+‘‘(B) applying artificial intelligence and machine learning solutions to operational problems by directly delivering artificial intelligence capabilities to the Armed Forces and other organizations and elements of the Department of Defense; 
+‘‘(C) accelerating the development, testing, and fielding of new artificial intelligence and artificial intelligence-enabling capabilities; and 
+‘‘(D) coordinating and deconflicting activities involving artificial intelligence and artificial intelligence-enabled capabilities within the Department.’’; 
+(2) by striking subsection (e); 
+(3) by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; 
+(4) by inserting after subsection (b) the following new subsection:
+‘‘(c) ORGANIZATION AND ROLES.— 
+‘‘(1) ASSIGNMENT OF ROLES AND RESPONSIBILITIES.— 
+‘‘(A) IN GENERAL.—In addition to designating an official under subsection (b), the Secretary of Defense shall assign to appropriate officials within the Department of Defense roles and responsibilities relating to the research, development, prototyping, testing, procurement of, requirements for, and operational use of artificial intelligence technologies. 
+‘‘(B) APPROPRIATE OFFICIALS.—The officials assigned roles and responsibilities under subparagraph (A) shall include— 
+‘‘(i) the Under Secretary of Defense for Research and Engineering;
+‘‘(ii) the Under Secretary of Defense for Acquisition and Sustainment;
+‘‘(iii) the Director of the Joint Artificial Intelligence Center; ‘‘(iv) one or more officials in each military department;
+‘‘(v) officials of appropriate Defense Agencies; and 
+‘‘(vi) such other officials as the Secretary of Defense determines appropriate. 
+‘‘(2) ROLE OF DIRECTOR OF THE JOINT ARTIFICIAL INTELLIGENCE CENTER.— 
+‘‘(A) DIRECT REPORT TO DEPUTY SECRETARY OF DEFENSE.—During the covered period, the Director of the Joint Artificial Intelligence Center shall report directly to the Deputy Secretary of Defense without intervening authority. 
+‘‘(B) CONTINUATION.—The Director of the Joint Artificial Intelligence Center shall continue to report to the Deputy Secretary of Defense as described in subparagraph 
+(A) after the expiration of the covered period if, not later than 30 days before such period expires, the Deputy Sec.retary— 
+‘‘(i) determines that the Director should continue to report to Deputy Secretary without intervening authority; and 
+‘‘(ii) transmits notice of such determination to the congressional defense committees.  
+‘‘(C) COVERED PERIOD DEFINED.—In this paragraph, the term ‘covered period’ means the period of two years beginning on the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021.’’; 
+(5) in subsection (d), as so redesignated— 
+(A) in paragraph (1), in the matter preceding subparagraph (A), by inserting ‘‘acquire,’’ before ‘‘develop’’; 
+(B) in the heading of paragraph (2), by striking ‘‘DEVELOPMENT’’ and inserting ‘‘ACQUISITION, DEVELOP.MENT’’; and 
+(C) in paragraph (2)— 
+(i) in the matter preceding subparagraph (A), by striking ‘‘To the degree practicable, the designated offi.cial’’ and inserting ‘‘The official designated under subsection (b)’’; 
+(ii) in subparagraph (A), by striking ‘‘development’’ and inserting ‘‘acquisition’’; 
+(iii) by redesignating subparagraphs (H) and (I) as subparagraphs (J) and (K), respectively; and 
+(iv) by inserting after subparagraph (G), the following new subparagraphs: ‘‘(H) develop standard data formats for the Department 
+that— ‘‘(i) aid in defining the relative maturity of datasets; and 
+‘‘(ii) inform best practices for cost and schedule computation, data collection strategies aligned to mission outcomes, and dataset maintenance practices; ‘‘(I) establish data and model usage agreements and 
+collaborative partnership agreements for artificial intelligence product development with each organization and element of the Department, including each of the Armed Forces;’’; 
+(6) in subsection (e), as so redesignated— 
+(A) by striking ‘‘The Secretary shall’’ and inserting ‘‘Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, the Secretary of Defense shall issue regulations to’’; 
+(B) by striking ‘‘the coordination described in subsection (b) and the duties set forth in subsection (c)’’ and inserting ‘‘the duties set forth in subsection (d)’’; and 
+(C) by adding at the end the following new sentence: ‘‘At a minimum, such access shall ensure that the Director of the Joint Artificial Intelligence Center has the ability to discover, access, share, and appropriately reuse data and models of the Armed Forces and other organizations and elements of the Department of Defense, build and maintain artificial intelligence capabilities for the Department, and execute the duties assigned to the Director by the Secretary.’’; and 
+
+(7) by adding at the end the following new subsection: 
+‘‘(h) JOINT ARTIFICIAL INTELLIGENCE CENTER DEFINED.—In this section, term ‘Joint Artificial Intelligence Center’ means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to the memorandum of the Secretary of Defense dated June 27, 2018, and titled ‘Establishment of the Joint Artificial Intelligence Center’, or any successor to such Center.’’. 
+SEC. 233. BOARD OF ADVISORS FOR THE JOINT ARTIFICIAL INTELLIGENCE CENTER. 
+
+(a) ESTABLISHMENT.—The Secretary of Defense shall establish a board of advisors for the Joint Artificial Intelligence Center. 
+
+(b) DUTIES.—The duties of the board of advisors shall include the following: 
+(1) Provide independent strategic advice and technical expertise to the Secretary and the Director on matters relating to the development and use of artificial intelligence by the Department of Defense. 
+(2) Evaluate and advise the Secretary and the Director on ethical matters relating to the development and use of artificial intelligence by the Department. 
+(3) Conduct long-term and long-range studies on matters relating to artificial intelligence, as required. 
+(4) Evaluate and provide recommendations to the Secretary and the Director regarding the Department’s development of a robust workforce proficient in artificial intelligence. 
+(5) Assist the Secretary and the Director in developing strategic level guidance on artificial intelligence-related hardware procurement, supply-chain matters, and other technical matters relating to artificial intelligence. 
+(c) MEMBERSHIP.—The board of advisors shall be composed of appropriate experts from academic or private sector organizations outside the Department of Defense, who shall be appointed by the Secretary. 
+
+(d) CHAIRPERSON.—The chairperson of the board of advisors shall be selected by the Secretary. 
+
+(e) MEETINGS.—The board of advisors shall meet not less than once each fiscal quarter and may meet at other times at the call of the chairperson or a majority of its members. 
+
+(f) REPORTS.—Not later than September 30 of each year through September 30, 2024, the board of advisors shall submit to the congressional defense committees a report that summarizes the activities of the board over the preceding year. 
+
+(g) DEFINITIONS.—In this section: 
+(1) The term ‘‘artificial intelligence’’ has the meaning given that term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2358 note). 
+(2) The term ‘‘Director’’ means the Director of the Joint Artificial Intelligence Center. 
+(3) The term ‘‘Joint Artificial Intelligence Center’’ means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to the memorandum of the Secretary of Defense dated June 27, 2018, and titled ‘‘Establish.ment of the Joint Artificial Intelligence Center’’, or any successor to such Center.
+(4) The term ‘‘Secretary’’ means the Secretary of Defense. 
+SEC. 234. APPLICATION OF ARTIFICIAL INTELLIGENCE TO THE DEFENSE REFORM PILLAR OF THE NATIONAL DEFENSE STRATEGY. 
+
+(a) IDENTIFICATION OF USE CASES.—The Secretary of Defense, acting through such officers and employees of the Department of 
+Defense as the Secretary considers appropriate, including the chief data officers and chief management officers of the military departments, shall identify a set of no fewer than five use cases of the application of existing artificial intelligence enabled systems to support improved management of enterprise acquisition, personnel, audit, or financial management functions, or other appropriate management functions, that are consistent with reform efforts that support the National Defense Strategy. 
+(b) PROTOTYPING ACTIVITIES ALIGNED TO USE CASES.—The Secretary, acting through the Under Secretary of Defense for Research and Engineering and in coordination with the Director of the Joint Artificial Intelligence Center and such other officers and employees as the Secretary considers appropriate, shall pilot technology development and prototyping activities that leverage commercially available technologies and systems to demonstrate new artificial intelligence enabled capabilities to support the use cases identified under subsection (a). 
+
+(c) BRIEFING.—Not later than October 1, 2021, the Secretary shall provide to the congressional defense committees a briefing summarizing the activities carried out under this section. 
+SEC. 235. ACQUISITION OF ETHICALLY AND RESPONSIBLY DEVELOPED ARTIFICIAL INTELLIGENCE TECHNOLOGY. 
+
+(a) ASSESSMENT REQUIRED.— 
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, shall conduct an assessment to determine— 
+(A) whether the Department of Defense has the ability, requisite resourcing, and sufficient expertise to ensure that any artificial intelligence technology acquired by the Department is ethically and responsibly developed; and 
+(B) how the Department can most effectively implement ethical artificial intelligence standards in acquisition processes and supply chains. 
+(2) ELEMENTS.—The assessment conducted under paragraph (1) shall address the following: 
+(A) Whether there are personnel occupying relevant roles within the Department of Defense who have sufficient expertise, across multiple disciplines (including ethical, legal, and technical expertise)— 
+(i) to advise on the acquisition of artificial intelligence technology; and 
+(ii) to ensure the acquisition of ethically and responsibly developed artificial intelligence technology. 
+(B) The feasibility and advisability of retaining outside experts as consultants to assist the Department in strengthening capacity and filling any gaps in expertise identified under subparagraph (A). 
+(C) The extent to which existing acquisition processes encourage or require consultation with relevant experts across multiple disciplines within the Department to ensure that artificial intelligence technology acquired by the Department is ethically and responsibly developed. 
+(D) Quantitative and qualitative standards for assessing the extent to which experts across multiple disciplines are engaged in the acquisition of artificial intelligence technology by the department. 
+(b) BRIEFING REQUIRED.— 
+(1) IN GENERAL.—Not later than 30 days after the date on which the Secretary of Defense completes the assessment under subsection (a), the Secretary shall provide to the congressional defense committees a briefing on the results of the assessment. 
+(2) ELEMENTS.—The briefing under paragraph (1) shall include, based on the results of the assessment— 
+(A) an explanation of whether the Department of Defense has personnel, in the proper roles and with sufficient expertise across multiple disciplines, to ensure the acquisition of ethically and responsibly developed artificial intelligence technology; 
+(B) an explanation of whether the Department has adequate procedures to encourage or require the consultation of such experts as part of the acquisition process for artificial intelligence technology; 
+(C) an explanation of any procedures the Department has in place to ensure that activities involving artificial intelligence are consistent with the Department’s ethical artificial intelligence standards; and 
+(D) with respect to any deficiencies identified under subparagraph (A), (B), or (C), a description of any measures that have been taken, and any additional resources that may be needed, to mitigate such deficiencies. 
+SEC. 236. STEERING COMMITTEE ON EMERGING TECHNOLOGY. 
+
+(a) ESTABLISHMENT.—The Secretary of Defense may establish a steering committee on emerging technology and national security threats (referred to in this section as the ‘‘Steering Committee’’). 
+
+(b) MEMBERSHIP.—The Steering Committee shall be composed of the following: 
+(1) The Deputy Secretary of Defense. 
+(2) The Vice Chairman of the Joint Chiefs of Staff. 
+(3) The Under Secretary of Defense for Intelligence and Security. 
+(4) The Under Secretary of Defense for Research and Engineering. 
+(5) The Under Secretary of Defense for Personnel and Readiness. 
+(6) The Under Secretary of Defense for Acquisition and Sustainment. 
+(7) The Chief Information Officer. 
+(8) Such other officials of the Department of Defense as the Secretary of Defense determines appropriate. 
+(c) RESPONSIBILITIES.—The Steering Committee shall be responsible for— 
+(1) developing a strategy for the organizational change, concept and capability development, and technology investments in emerging technologies that are needed to maintain the technological superiority of the United States military as outlined in the National Defense Strategy; 
+(2) providing assessments of emerging threats and identifying investments and advances in emerging technology areas undertaken by adversaries of the United States; 
+(3) making recommendations to the Secretary of Defense on— 
+(A) the implementation of the strategy developed under paragraph (1); 
+(B) steps that may be taken to address the threats identified under paragraph (2); 
+(C) any changes to a program of record that may be required to achieve the strategy under paragraph (1); 
+(D) any changes to the Defense Planning Guidance required by section 113(g)(2)(A) of title 10, United States Code, that may be required to achieve the strategy under paragraph (1); and 
+(E) whether sufficient resources are available for the research activities, workforce, and infrastructure of the Department of Defense to support the development of capabilities to defeat emerging threats to the United States; and 
+(4) carrying out such other activities as are assigned to the Steering Committee by the Secretary of Defense. 
+
+(d) EMERGING TECHNOLOGY DEFINED.—In this section, the term ‘‘emerging technology’’ means technology determined to be in an emerging phase of development by the Secretary, including quantum information science and technology, data analytics, artificial intelligence, autonomous technology, advanced materials, software, high performance computing, robotics, directed energy, hypersonics, biotechnology, medical technologies, and such other technology as may be identified by the Secretary. 
+
+(e) SUNSET.—This section shall terminate on October 1, 2024. 

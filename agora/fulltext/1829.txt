@@ -1,0 +1,110 @@
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority of the same, as follows:
+ 
+
+SECTION 1. Chapter 93M of the General Laws is hereby established as follows:
+
+CHAPTER 93M: Artificial Intelligence Accountability and Consumer Protection
+
+Section 1. Definitions
+
+For the purposes of this Chapter:
+
+(1) Algorithmic Discrimination: Differential treatment or impact resulting from an artificial intelligence system that disadvantages individuals or groups based on actual or perceived age, race, ethnicity, gender, disability, national origin, religion, genetic information, reproductive health, veteran status, or any protected classification under Massachusetts or federal law.
+
+(2) Artificial Intelligence System: Any machine-based system that processes inputs to generate outputs, including content, decisions, predictions, or recommendations, that influence physical or virtual environments.
+
+(3) High-Risk Artificial Intelligence System: AI systems that materially influence consequential decisions, including but not limited to:
+
+(a) Education opportunities;
+
+(b) Employment decisions;
+
+(c) Financial or lending services;
+
+(d) Housing access;
+
+(e) Healthcare services;
+
+(f) Insurance decisions;
+
+(g) Legal or government services.
+
+(4) Consequential Decision: A decision with significant legal, financial, or personal implications for a consumer, such as denying housing, employment, or healthcare. For clarity, material influence refers to decisions where AI systems determine or heavily weigh inputs that directly affect such outcomes.
+
+(5) Developer: An entity or individual developing, modifying, or making AI systems available in Massachusetts.
+
+(6) Deployer: An entity using AI systems to make decisions impacting consumers in Massachusetts.
+
+(7) Consumer: A resident of the Commonwealth of Massachusetts.
+
+Section 2. Developer Responsibilities
+
+(a) Duty of Care: Developers must use reasonable care to identify, mitigate, and disclose risks of algorithmic discrimination.
+
+(b) Documentation Requirements: Developers must provide deployers with: (1) A summary of intended and foreseeable uses of the AI system; (2) Known limitations and risks, including algorithmic discrimination; (3) Information on the datasets used for training, including measures taken to mitigate biases.
+
+(c) Disclosure of Risks: Developers must notify the Attorney General and deployers of any known or foreseeable risks of discrimination within 90 days of discovery.
+
+(d) Public Statement: Developers must publish a plain-language summary on their website, detailing: (1) Types of AI systems they develop; (2) Measures to mitigate algorithmic discrimination; (3) Contact information for inquiries.
+
+Section 3. Deployer Responsibilities
+
+(a) Risk Management Policy: Deployers of high-risk AI systems must implement and maintain a risk management program that:
+
+(1) Identifies and mitigates known or foreseeable risks of algorithmic discrimination; (2) Aligns with industry standards, such as the National Institute of Standards and Technology (NIST) AI Risk Management Framework.
+
+(b) Impact Assessments:
+
+(1) Deployers must complete an annual impact assessment for each high-risk AI system, including: (i) The purpose and intended use of the system; (ii) Data categories used and outputs generated; (iii) Potential risks of discrimination and mitigation measures.
+
+(2) Impact assessments must be updated after any substantial modification to the system. State-provided templates for these assessments will be made available to reduce compliance burdens.
+
+(c) Consumer Protections: Deployers must:
+
+(1) Notify consumers when an AI system materially influences a consequential decision; (2) Provide consumers with: (i) The purpose of the system; (ii) An explanation of how the system influenced the decision; (iii) A process to appeal or correct adverse decisions.
+
+(d) Transparency: Deployers must publicly disclose the types of high-risk AI systems in use and their risk mitigation strategies.
+
+SECTION 4. Corporate Disclosure Requirements
+
+(a) Disclosure of AI Use: Any corporation operating in Massachusetts that uses artificial intelligence systems or related tools to target specific consumer groups or influence behavior must disclose:
+
+(1) Purpose of AI Use: The methods, purposes, and contexts in which AI systems are used to identify or target specific classes of individuals; (2) Behavioral Influence: The specific ways in which AI tools are designed to influence consumer behavior; (3) Third-Party Partnerships: Details of any third-party entities involved in the design, deployment, or operation of AI systems used for targeting or behavioral influence. Proprietary information will be safeguarded and exempt from public disclosure under state confidentiality laws.
+
+(b) Public Disclosure Requirements: Corporations must make these disclosures: (1) Publicly available on their website in a manner that is easily accessible and comprehensible; (2) Included in terms and conditions provided to consumers prior to significant interaction with an AI system.
+
+(c) Consumer Notification: Consumers must be notified when: (1) They are being targeted or influenced by AI systems in a way that materially impacts their decisions; (2) Algorithms are used to determine pricing, eligibility, or access to services.
+
+SECTION 5. Exemptions
+
+The following entities and circumstances are exempt from certain provisions of this Chapter:
+
+(1) Small Businesses: Businesses with fewer than 50 employees that do not use proprietary data to train AI systems.
+
+(2) Low-Risk Systems: AI systems performing procedural tasks (e.g., spell-checkers, calculators) or those not influencing consequential decisions.
+
+(3) Federal Compliance: Entities subject to equivalent or stricter federal AI regulations, such as those governed by the Federal Trade Commission or Department of Health and Human Services.
+
+SECTION 6. Enforcement
+
+(a) Attorney General Authority: The Attorney General has exclusive authority to enforce this Chapter. Violations are deemed unfair or deceptive trade practices under Chapter 93A.
+
+(b) Affirmative Defense: A developer or deployer may defend against enforcement if:
+
+(1) They identify and remedy violations through testing, internal review, or consumer feedback; (2) They demonstrate compliance with recognized AI risk management standards.
+
+(c) No Private Right of Action: This Chapter does not create a private right of action for consumers.
+
+SECTION 7. Rulemaking Authority
+
+The Attorney General may issue rules to: (1) Define documentation and impact assessment requirements (2) Set standards for risk management programs and consumer notifications; (3) Designate recognized AI risk management frameworks.
+
+SECTION 8. Public Education Campaign
+
+The Attorney General, in collaboration with relevant state agencies, shall establish a public education campaign to inform residents of their rights under this Chapter and to increase awareness of the role of AI in decision-making processes.
+
+SECTION 9. Sections 1, 4, 5, and 8 shall take effect 180 days after passage of this Act.
+
+SECTION 10. Sections 2, 3, 6, and 7 shall take effect 1 year after passage of this Act.
+
+SECTION 11. The Amendment to Chapter 93A shall take effect 180 days after passage of this Act.

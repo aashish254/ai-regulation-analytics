@@ -1,0 +1,43 @@
+A BILL
+To amend title 18, United States Code, to prohibit child pornography produced using artificial intelligence.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Protecting Our Children in an AI World Act of 2025”.
+
+
+SEC. 2. Child pornography produced using artificial intelligence.
+
+
+(a) Elimination of affirmative defense.—Section 2252A(c) of title 18, United States Code, is amended—
+
+
+(1) in subsection (c)—
+(A) paragraph (1), by striking “; or” at the end; and
+(B) by striking paragraph (2); and
+
+
+(2) in the matter following subsection (c), by striking “No affirmative defense under subsection (c)(2) shall be available in any prosecution that involves child pornography as described in section 2256(8)(C).”.
+
+
+(b) Definition of sexually explicit conduct.—Section 2256(2)(B) of title 18, United States Code, is amended—
+
+
+(1) in clause (ii)(III), by striking “or” at the end;
+
+
+(2) in clause (iii), by adding “or” at the end; and
+
+
+(3) by adding at the end the following:
+
+
+“(iv) actual or simulated obscene exhibition of the clothed or unclothed genitals, pubic area, buttocks, or female nipple;”.
+
+
+(c) Severability.—If any provision of this Act, or any amendment made by this Act, or the application of such provision to any person, entity, government, or circumstance, is held to be unconstitutional, the remainder of this Act, or any amendment made thereby, or the application of such provision to all other persons, entities, governments, or circumstances, shall not be affected thereby.

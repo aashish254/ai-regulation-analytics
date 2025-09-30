@@ -1,0 +1,535 @@
+H. R. 7116
+
+
+To strengthen certain provisions relating to restrictions on robocalls and telemarketing, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+January 29, 2024
+
+
+Mr. Pallone (for himself, Ms. Matsui, Ms. Schakowsky, Mr. Sorensen, and Mr. Soto) introduced the following bill; which was referred to the Committee on Energy and Commerce
+
+
+A BILL
+To strengthen certain provisions relating to restrictions on robocalls and telemarketing, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+
+(a) Short Title.—This Act may be cited as the “Do Not Disturb Act”.
+
+
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title; table of contents.
+
+
+TITLE I—FEDERAL COMMUNICATIONS COMMISSION
+
+
+Sec. 101. Robocall restrictions.
+Sec. 102. Text message authentication and trace back study.
+Sec. 103. Annual robocall report.
+Sec. 104. Disclosure required for robocalls using AI.
+Sec. 105. Enhanced penalties for violations involving AI voice or text message impersonation.
+Sec. 106. Certain requirements for VoIP service providers.
+Sec. 107. Tracking of top 100 illegal robocall campaigns.
+Sec. 108. Offering of robocall-blocking service at no charge to customer.
+Sec. 109. Telephone solicitation.
+Sec. 110. Commission defined.
+
+
+TITLE II—FEDERAL TRADE COMMISSION
+
+
+Sec. 201. Addition of text message to the definition of telemarketing.
+Sec. 202. Adoption of regulations on inbound telephone calls and expanded calling time restrictions.
+Sec. 203. Disclosure required for telemarketing using AI.
+Sec. 204. Enhanced penalties for violations of telemarketing rules involving AI voice or text message impersonation.
+Sec. 205. Commission defined.
+
+
+TITLE I—FEDERAL COMMUNICATIONS COMMISSIONSEC. 101. ROBOCALL RESTRICTIONS.
+
+
+(a) Definitions.—Section 227(a) of the Communications Act of 1934 (47 U.S.C. 227(a)) is amended—
+
+
+(1) by striking paragraph (1);
+
+
+(2) by redesignating paragraph (2) as paragraph (1);
+
+
+(3) by inserting before paragraph (3) the following:
+
+
+“(2) ROBOCALL.—
+
+
+“(A) IN GENERAL.—The term ‘robocall’ means a call made or text message sent—
+
+
+“(i) using equipment, whether hardware, software, or a combination thereof and including an automatic telephone dialing system, that makes a call or sends a text message to—
+
+
+“(I) stored telephone numbers; or
+
+
+“(II) telephone numbers produced using a random or sequential number generator; or
+
+
+“(ii) using an artificial or prerecorded voice or an artificially generated message.
+
+
+“(B) LIMITATION.—For purposes of subparagraph (A)(i), the term ‘robocall’ does not include a call made or text message sent using equipment that requires substantial human intervention to make or send the call or text message.”;
+
+
+(4) by redesignating paragraph (5) as paragraph (7); and
+
+
+(5) by inserting after paragraph (4) the following:
+
+
+“(5) TEXT MESSAGE.—
+
+
+“(A) IN GENERAL.—The term ‘text message’ means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number, N11 service code, short code telephone number, or email address, or that is transmitted through application-to-person messaging, and includes—
+
+
+“(i) a short message service (commonly referred to as ‘SMS’) message;
+
+
+“(ii) a multimedia message service (commonly referred to as ‘MMS’) message; and
+
+
+“(iii) a rich communication service (commonly referred to as ‘RCS’) message.
+
+
+“(B) LIMITATION.—The term ‘text message’ does not include a real-time, two-way voice or video communication.
+
+
+“(6) TEXT MESSAGING SERVICE.—The term ‘text messaging service’ means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.”.
+
+
+(b) Restrictions On Use Of Robocalls.—Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)) is amended—
+
+
+(1) in the subsection heading, by striking “Automated Telephone Equipment” and inserting “Robocalls”;
+
+
+(2) in paragraph (1)—
+
+
+(A) in subparagraph (A)—
+
+
+(i) in the matter preceding clause (i)—
+
+
+(I) by striking “any call” and inserting “a robocall”;
+
+
+(II) by striking “a call” and inserting “a robocall”; and
+
+
+(III) by striking “using any automatic telephone dialing system or an artificial or prerecorded voice”; and
+
+
+(ii) in clause (iii), by striking “call” each place it appears and inserting “robocall”;
+
+
+(B) in subparagraph (B)—
+
+
+(i) by striking “any telephone call” and inserting “a robocall”;
+
+
+(ii) by striking “using an artificial or prerecorded voice to deliver a message”; and
+
+
+(iii) by striking “the call” and inserting “the robocall”; and
+
+
+(C) in subparagraph (D), by striking “use an automatic telephone dialing system” and inserting “make robocalls”; and
+
+
+(3) in paragraph (2)—
+
+
+(A) in subparagraph (A), by striking “calls made using an artificial or prerecorded voice” and inserting “robocalls”;
+
+
+(B) in subparagraph (B), by striking “calls” each place it appears and inserting “robocalls”;
+
+
+(C) in subparagraph (C), by striking “calls” and inserting “robocalls”;
+
+
+(D) in subparagraph (H), by striking “calls” and inserting “robocalls”; and
+
+
+(E) in subparagraph (I)—
+
+
+(i) by striking “calls” each place it appears and inserting “robocalls”; and
+
+
+(ii) by striking “be called” and inserting “receive such robocalls”.
+
+
+(c) Technical And Procedural Standards.—Section 227(d) of the Communications Act of 1934 (47 U.S.C. 227(d)) is amended—
+
+
+(1) in paragraph (1)(A)—
+
+
+(A) by striking “any telephone call using any automatic telephone dialing system” and inserting “a robocall”; and
+
+
+(B) by striking “or automatic telephone dialing system” and inserting “or robocall system”; and
+
+
+(2) in paragraph (3)—
+
+
+(A) in the paragraph heading, by striking “ARTIFICIAL OR PRERECORDED VOICE” and inserting “ROBOCALL”;
+
+
+(B) in the matter preceding subparagraph (A), by striking “any artificial or prerecorded voice message via telephone” and inserting “robocalls”;
+
+
+(C) in subparagraph (A)—
+
+
+(i) by striking “artificial or prerecorded telephone messages” and inserting “robocalls using an artificial or prerecorded voice or an artificially generated message”; and
+
+
+(ii) by striking “the call” and inserting “the robocall”; and
+
+
+(D) in subparagraph (B), by striking “to make or receive other calls”.
+
+
+(d) Prohibition On Provision Of Misleading Or Inaccurate Caller Identification Information.—Section 227(e)(8) of the Communications Act of 1934 (47 U.S.C. 227(e)(8)) is amended—
+
+
+(1) by striking subparagraphs (C) and (D); and
+
+
+(2) by redesignating subparagraph (E) as subparagraph (C).
+
+
+(e) Effect On State Law.—Section 227(f)(1) of the Communications Act of 1934 (47 U.S.C. 227(f)(1)) is amended—
+
+
+(1) in subparagraph (B)—
+
+
+(A) by striking “automatic telephone dialing systems” and inserting “robocalls”; and
+
+
+(B) by adding “or” at the end;
+
+
+(2) by striking subparagraph (C); and
+
+
+(3) by redesignating subparagraph (D) as subparagraph (C).
+
+
+(f) Annual Report To Congress On Robocalls And Transmission Of Misleading Or Inaccurate Caller Identification Information.—Section 227(h)(2) of the Communications Act of 1934 (47 U.S.C. 227(h)(2)) is amended—
+
+
+(1) in subparagraph (A)—
+
+
+(A) in clause (i), by striking “that a consumer received a call in violation” and inserting “a violation”;
+
+
+(B) in clause (ii), by striking “that a consumer received a call in violation” and inserting “a violation”; and
+
+
+(C) in clause (iii), by striking “that a consumer received a call in connection with which misleading or inaccurate caller identification information was transmitted in violation” and inserting “a violation”;
+
+
+(2) in subparagraph (F), by striking “calls made in violation” and inserting “violations”; and
+
+
+(3) in subparagraph (G)—
+
+
+(A) by striking “short-duration calls” and inserting “short-duration calls or high-volume, unlawful text messages”; and
+
+
+(B) by striking “calls made in violation” each place it appears and inserting “violations”.
+
+
+(g) Information Sharing.—Section 227(i) of the Communications Act of 1934 (47 U.S.C. 227(i)) is amended—
+
+
+(1) by striking paragraph (2);
+
+
+(2) by striking “Sharing” and all that follows through “Not later than” and inserting “Sharing.—Not later than”; and
+
+
+(3) by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively (and conforming the margins accordingly).
+
+
+(h) Robocall Blocking Service.—Section 227(j) of the Communications Act of 1934 (47 U.S.C. 227(j)) is amended—
+
+
+(1) by striking paragraph (2);
+
+
+(2) by striking “Service” and all that follows through “Not later than” and inserting “Service.—Not later than”;
+
+
+(3) by redesignating subparagraphs (A), (B), and (C) as paragraphs (1), (2), and (3), respectively (and conforming the margins accordingly); and
+
+
+(4) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively (and conforming the margins accordingly).
+
+
+(i) Regulations.—Not later than 270 days after the date of the enactment of this Act, the Commission shall promulgate regulations to implement this section, including the amendments made by this section.SEC. 102. TEXT MESSAGE AUTHENTICATION AND TRACE BACK STUDY.
+
+
+(a) Study.—The Commission shall conduct a study to determine the feasibility of—
+
+
+(1) creating an authentication framework with respect to text messages; and
+
+
+(2) requiring responses, from enforcement authorities, with respect to requests to trace back the origin of text messages.
+
+
+(b) Consultation.—In conducting the study under subsection (a), the Commission shall consult with relevant stakeholders, including representatives of private industry, public interest organizations, and academia.
+
+
+(c) Report.—Not later than 18 months after the date of the enactment of this Act, the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the findings of the study conducted under subsection (a).
+
+
+(d) Text Message Defined.—In this section, the term “text message” has the meaning given that term in section 227(a) of the Communications Act of 1934 (47 U.S.C. 227(a)), as amended by this Act.SEC. 103. ANNUAL ROBOCALL REPORT.
+
+
+(a) Notice By The Commission Seeking Registrations.—Section 13(d)(2) of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act is amended—
+
+
+(1) in the paragraph heading, by striking “ANNUAL NOTICE” and inserting “NOTICE”; and
+
+
+(2) by striking “annually” and inserting “every 3 years”.
+
+
+(b) Suspected Unlawful Robocall.—Section 13(f)(3) of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act is amended by inserting “(not including a text message)” after “means a call”.SEC. 104. DISCLOSURE REQUIRED FOR ROBOCALLS USING AI.
+
+
+Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by adding at the end the following:
+
+
+“(k) Disclosure Required For Robocalls Using AI.—If a person making a robocall uses artificial intelligence to emulate a human being, such person shall disclose at the beginning of the call or text message the fact that artificial intelligence is being used.”.SEC. 105. ENHANCED PENALTIES FOR VIOLATIONS INVOLVING AI VOICE OR TEXT MESSAGE IMPERSONATION.
+
+
+(a) In General.—Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+
+
+
+
+“(l) Enhanced Penalties For Violations Involving AI Voice Or Text Message Impersonation.—In the case of a violation of this section with respect to which the party making the call or sending the text message uses artificial intelligence to impersonate an individual or entity with the intent to defraud, cause harm, or wrongfully obtain anything of value—
+
+
+“(1) the maximum amount of the forfeiture penalty that may be imposed under subsection (b)(4) or (e)(5)(A) of this section or subsection (b) of section 503 (as the case may be) shall be twice the maximum amount that may be imposed for such violation under such subsection without regard to this subsection; and
+
+
+“(2) the maximum amount of the criminal fine that may be imposed under subsection (e)(5)(B) of this section or section 501 (as the case may be) shall be twice the maximum amount that may be imposed for such violation under such subsection or section without regard to this subsection.”.
+
+
+(b) Applicability.—The amendment made by subsection (a) shall apply with respect to violations occurring after the date of the enactment of this Act.SEC. 106. CERTAIN REQUIREMENTS FOR VOIP SERVICE PROVIDERS.
+
+
+Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+
+
+“(m) Certain Requirements For VoIP Service Providers.—
+
+
+“(1) REGULATIONS.—Not later than 1 year after the date of the enactment of this subsection, the Commission shall promulgate regulations that do the following:
+
+
+“(A) Require a provider of covered VoIP service to do the following:
+
+
+“(i) Verify the identity of each customer of the provider.
+
+
+“(ii) Proactively and continuously monitor and analyze traffic on the service of the provider to determine whether any customer of the provider has engaged or is engaging in a pattern or practice of making robocalls using the service of the provider.
+
+
+“(iii) If the provider ascertains, through the monitoring and analysis required under clause (ii) or other means, that a customer of the provider has engaged or is engaging in a pattern or practice of making robocalls using the service of the provider, conduct an investigation to determine expeditiously whether there is substantial evidence that the customer has committed or is committing any violation of this section, or any other applicable law or regulation, with respect to such robocalls.
+
+
+“(iv) If the provider determines in an investigation conducted under clause (iii) that there is substantial evidence that the customer has committed or is committing any violation described in such clause, not later than 10 days after making the determination—
+
+
+“(I) take affirmative, effective measures to mitigate the origination or transmission of such robocalls; and
+
+
+“(II) submit to the Robocall Mitigation Database of the Commission a public report containing such evidence and describing such investigation and measures.
+
+
+“(B) Provide that the directors and officers (or any other individuals holding similar positions) and covered owners of a provider of covered VoIP service are jointly and severally liable with the provider for any failure to comply with—
+
+
+“(i) the regulations promulgated under this subsection; or
+
+
+“(ii) if the provider or any such director, officer, other individual, or covered owner knew or should have known that the service of the provider was being used to facilitate robocalls in violation of any other regulation promulgated by the Commission or law enforced by the Commission, such regulation or law.
+
+
+“(C) Establish a process by which, if a provider of covered VoIP service receives notice of suspected illegal traffic under the rules of the Commission and fails to sufficiently respond to the notice and mitigate the suspected illegal traffic, the provider can be temporarily suspended from the Robocall Mitigation Database of the Commission and have the traffic of the provider blocked by downstream voice service providers and intermediate providers, pending a final determination by the Commission of whether to remove the provider of covered VoIP service from the Robocall Mitigation Database.
+
+
+“(2) DEFINITIONS.—In this subsection:
+
+
+“(A) COVERED OWNER.—The term ‘covered owner’ means, with respect to a provider of covered VoIP service, any individual or entity that owns an equity interest (or the equivalent thereof) in the provider of 50 percent or greater.
+
+
+“(B) COVERED VOIP SERVICE.—The term ‘covered VoIP service’ means any of the following:
+
+
+“(i) An interconnected VoIP service.
+
+
+“(ii) A non-interconnected VoIP service.”.SEC. 107. TRACKING OF TOP 100 ILLEGAL ROBOCALL CAMPAIGNS.
+(a) Framework And Tracking System.— Not later than 1 year after the date of the enactment of this Act, the Commission shall develop a framework and tracking system to monitor the top 100 robocall campaigns that primarily involve robocalls that are illegal or suspected to be illegal.
+
+
+(b) Monthly Report.—Not later than 1 month after developing the framework and tracking system required by subsection (a), and monthly thereafter, the Commission shall make available to the public on the website of the Commission a report, with respect to the preceding 1-month period, on the campaigns described in such subsection.
+
+
+(c) Robocall Defined.—In this section, the term “robocall” has the meaning given such term in section 227(a) of the Communications Act of 1934 (47 U.S.C. 227(a)), as amended by this Act.SEC. 108. OFFERING OF ROBOCALL-BLOCKING SERVICE AT NO CHARGE TO CUSTOMER.
+
+
+Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+
+
+“(n) Offering Of Robocall-Blocking Service At No Charge To Customer.—
+
+
+“(1) REGULATIONS.—Not later than 180 days after the date of the enactment of this subsection, the Commission shall promulgate regulations that require a provider of voice service to offer a robocall-blocking service to each customer of the provider, at no additional charge to the customer.
+
+
+“(2) DEFINITIONS.—In this subsection:
+
+
+“(A) ROBOCALL-BLOCKING SERVICE.—The term ‘robocall-blocking service’ means a service that gives a customer of a provider of voice service the ability to block robocalls that are highly likely to be illegal.
+
+
+“(B) VOICE SERVICE.—The term ‘voice service’ has the meaning given such term in section 4(a) of the Pallone-Thune TRACED Act (47 U.S.C. 227b(a)).”.SEC. 109. TELEPHONE SOLICITATION.
+
+
+Section 227(a) of the Communications Act of 1934 (47 U.S.C. 227(a)), as amended by the preceding provisions of this Act, is further amended by striking paragraph (4) and inserting the following:
+
+
+“(4) TELEPHONE SOLICITATION.—
+
+
+“(A) IN GENERAL.—The term ‘telephone solicitation’ means the initiation of a telephone call or text message, transmitted to a person, for the purpose of—
+
+
+“(i) deception, fraud, or wrongfully obtaining anything of value; or
+
+
+“(ii) encouraging the purchase, sale, or rental of, or investment in, property, goods, or services, including referral or hiring services.
+
+
+“(B) LIMITATION.—With respect to subparagraph (A)(ii), the term ‘telephone solicitation’ does not include a call or message—
+
+
+“(i) to any person with that person’s prior express invitation or permission;
+
+
+“(ii) to any person with whom the caller has an established business relationship; or
+
+
+“(iii) by a tax exempt nonprofit organization.”.
+
+
+SEC. 110. COMMISSION DEFINED.
+
+
+In this title, the term “Commission” means the Federal Communications Commission.TITLE II—FEDERAL TRADE COMMISSION
+
+
+SEC. 201. ADDITION OF TEXT MESSAGE TO THE DEFINITION OF TELEMARKETING.
+Section 7 of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6106) is amended—
+
+
+(1) in paragraph (4), by inserting “or text message” after “telephone call”; and
+
+
+(2) by adding at the end the following new paragraph:
+
+
+“(5) TEXT MESSAGE.—
+
+
+“(A) IN GENERAL.—The term ‘text message’ means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number, N11 service code, short code telephone number, or email address, or that is transmitted through application-to-person messaging, and includes—
+
+
+“(i) a short message service (commonly referred to as ‘SMS’) message;
+
+
+“(ii) a multimedia message service (commonly referred to as ‘MMS’) message; and
+
+
+“(iii) a rich communication service (commonly referred to as ‘RCS’) message.
+
+
+“(B) LIMITATION.—The term ‘text message’ does not include a real-time, two-way voice or video communication.”.SEC. 202. ADOPTION OF REGULATIONS ON INBOUND TELEPHONE CALLS AND EXPANDED CALLING TIME RESTRICTIONS.
+
+
+(a) Inbound Telephone Calls.—Not later than 1 year after the date of the enactment of this Act, the Commission shall revise the Telemarketing Sales Rule (part 310 of title 16, Code of Federal Regulations), to prohibit deceptive or other abusive telemarketing acts or practices relating to inbound telephone calls, subject to the exemption relating to catalogs (as provided for in the Telemarketing Sales Rule as of the date of the enactment of this Act).
+
+
+(b) Calling Time Restrictions.—Not later than 1 year after the date of the enactment of this Act, the Commission shall revise the Telemarketing Sales Rule (part 310 of title 16, Code of Federal Regulations), to expand the calling time restrictions contained in the Telemarketing Sales Rule such that it shall be an abusive telemarketing act or practice and a violation of the Telemarketing Sales Rule for a telemarketer to engage in outbound telephone calls to a person’s residence at any time other than between 9:00 a.m. and 5:00 p.m. local time at the called person’s location.SEC. 203. DISCLOSURE REQUIRED FOR TELEMARKETING USING AI.
+
+
+(a) In General.—Not later than 180 days after the date of the enactment of this Act, the Commission shall revise the Telemarketing Sales Rule (part 310 of title 16, Code of Federal Regulations) so as to add a requirement that, if a person makes a call or sends a text message with respect to telemarketing and uses artificial intelligence in such call or text message to emulate a human being, such person shall disclose at the beginning of such call or text message the fact that artificial intelligence is being used.
+
+
+(b) Definitions.—In this section, the terms “telemarketing” and “text message” have the meanings given such terms in section 7 of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6106), as amended by this Act.SEC. 204. ENHANCED PENALTIES FOR VIOLATIONS OF TELEMARKETING RULES INVOLVING AI VOICE OR TEXT MESSAGE IMPERSONATION.
+
+
+(a) In General.—Section 6 of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6105) is amended by adding at the end the following:
+
+
+“(e) Enhanced Penalties For Violations Involving AI Voice Or Text Message Impersonation.—
+
+
+“(1) PENALTIES UNDER FEDERAL TRADE COMMISSION ACT.—Notwithstanding subsection (b), in the case of a violation described in paragraph (2), the maximum amount of the civil penalty that may be imposed for such violation under subsection (l) or (m) (as the case may be) of section 5 of the Federal Trade Commission Act (15 U.S.C. 45) shall be twice the maximum amount that may be imposed for such violation under such subsection without regard to this subsection.
+
+
+“(2) VIOLATIONS DESCRIBED.—The violations described in this paragraph are the following:
+
+
+“(A) A violation of a rule prescribed by the Commission under section 3 with respect to which the party making the call or sending the text message uses artificial intelligence to impersonate an individual or entity with the intent to defraud, cause harm, or wrongfully obtain anything of value.
+
+
+“(B) A violation of a cease-and-desist order issued by the Commission under section 5(b) of the Federal Trade Commission Act (15 U.S.C. 45(b)) with respect to a violation described in subparagraph (A).”.
+
+
+(b) Applicability.—The amendment made by subsection (a) shall apply with respect to violations occurring after the date of the enactment of this Act.
+
+
+SEC. 205. COMMISSION DEFINED.
+
+
+In this title, the term “Commission” means the Federal Trade Commission.

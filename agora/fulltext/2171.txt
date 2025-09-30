@@ -1,0 +1,22 @@
+WHEREAS, Rhode Island and the United States are entering an era of unprecedented change that could impact tens of millions of people. As artificial intelligence technologies continue to advance, our financial, medical, legal, and personal security are potentially impacted; and
+
+
+WHEREAS, Artificial Intelligence (AI) is defined as computerized methods and tools, including, but not limited to, machine learning and natural language processing, that act in a way that resembles human cognitive abilities when it comes to solving problems or performing certain tasks; and
+
+
+WHEREAS, An automated decision system is a computer program, method, statistical model or process that aims to aid or replace human decision-making using algorithms or artificial intelligence. These systems can include analyzing complex datasets about human populations and government services or other activities to generate scores, predictions, classifications, or recommendations used by agencies to make decisions that impact human welfare; and
+
+
+WHEREAS, Monitoring systemic changes, as well as the procedures for enforcing the principles, policies, financing, and guidelines regarding their use, and any gaps in training, regulation, and enforcement of security protocols is essential; now, therefore be it
+
+
+RESOLVED, That this House of Representatives of the State of Rhode Island hereby requests the Department of Administration and the RI Division of Information Technology report the extent of algorithmic decision-making used by the State of Rhode Island and the progress made toward implementing any recommendations previously issued; how automated decision systems are validated, tested, and evaluated including for the effects of racial, gender, and other biases that are unknown to be perpetuated by AI Technology; and all matters related to data sources, data sharing agreements, and data security provisions; and be it further
+
+
+RESOLVED, That this House requests the Department of Administration and the RI Division of Information Technology to provide recommendations for regulatory or legislative action, including recommendations about areas where Rhode Island offices ought to use or not use automated decision systems, the state’s compliance with data protection laws and regulations, and timelines used for implementation, cost estimates, and mechanisms for implementing artificial intelligence technologies; and be it further
+
+
+RESOLVED, That this House hereby requests that the Department of Administration and the RI Division of Information Technology provide the House of Representatives and the Chair of the House Committee on Innovation, Internet and Technology with the above referenced information on or before September 29, 2023; and be it further
+
+
+RESOLVED, That the Secretary of State be and hereby is authorized and directed to transmit duly certified copies of this resolution to Brian M. Daniels, Interim Director, RI Department of Administration, Brian Tardiff, the State Chief Digital Officer (CDO) and Chief Information Officer (CIO) for the RI Division of Information Technology.

@@ -1,0 +1,110 @@
+SEC. 11401. GRANTS FOR CHARGING AND FUELING INFRASTRUCTURE.
+
+(a) Purpose.--The purpose of this section is to establish a grant program to strategically deploy publicly accessible electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, and natural gas fueling infrastructure along designated alternative fuel corridors or in certain other locations that will be accessible to all drivers of electric vehicles, hydrogen vehicles, propane vehicles, and natural gas vehicles.
+
+(b) Grant Program.--Section 151 of title 23, United States Code, is amended--
+	(1) in subsection (a)--
+		(A) by striking Not later than 1 year after the date of enactment of the FAST Act, the Secretary shall'' and inserting The Secretary shall periodically''; and
+		(B) by striking to improve the mobility'' and inserting to support changes in the transportation sector that help achieve a reduction in greenhouse gas emissions and improve the mobility'';
+	(2) in subsection (b)(2), by inserting previously designated by the Federal Highway Administration or'' before designated by'';
+	(3) by striking subsection (d) and inserting the following:
+
+``(d) Redesignation.--
+``(1) Initial redesignation.--Not later than 180 days after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall update and redesignate the corridors under subsection (a).
+``(2) Subsequent redesignation.--The Secretary shall establish a recurring process to regularly update and redesignate the corridors under subsection (a).'';
+	(4) in subsection (e)--
+		(A) in paragraph (1), by striking ``and'' at the end;
+		(B) in paragraph (2)--
+			(i) by striking establishes an aspirational goal of achieving'' and inserting describes efforts, including through funds awarded through the grant program under subsection (f), that will aid efforts to achieve''; and
+			(ii) by striking by the end of fiscal year 2020.'' and inserting ; and''; and
+		(C) by adding at the end the following:
+``(3) summarizes best practices and provides guidance, developed through consultation with the Secretary of Energy, for project development of electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure and natural gas fueling infrastructure at the State, Tribal, and local level to allow for the predictable deployment of that infrastructure.''; and
+	(5) by adding at the end the following:
+``(f) Grant Program.--
+`(1) Definition of private entity.--In this subsection, the term private entity' means a corporation, partnership, company, or nonprofit organization.
+``(2) Establishment.--Not later than 1 year after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall establish a grant program to award grants to eligible entities to carry out the activities described in paragraph (6).
+``(3) Eligible entities.--An entity eligible to receive a grant under this subsection is--
+``(A) a State or political subdivision of a State;
+``(B) a metropolitan planning organization;
+``(C) a unit of local government;
+``(D) a special purpose district or public authority with a transportation function, including a port authority;
+``(E) an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304));
+``(F) a territory of the United States;
+(G) an authority, agency, or instrumentality of, or an entity owned by, 1 or more entities described in subparagraphs (A) through (F); or(H) a group of entities described in subparagraphs (A) through (G).``(4) Applications.--To be eligible to receive a grant under this subsection, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall require, including--
+``(A) a description of how the eligible entity has considered--
+``(i) public accessibility of charging or fueling infrastructure proposed to be funded with a grant under this subsection, including--
+``(I) charging or fueling connector types and publicly available information on real-time availability; and
+``(II) payment methods to ensure secure, convenient, fair, and equal access;
+``(ii) collaborative engagement with stakeholders (including automobile manufacturers, utilities, infrastructure providers, technology providers, electric charging, hydrogen, propane, and natural gas fuel providers, metropolitan planning organizations, States, Indian tribes, and units of local governments, fleet owners, fleet managers, fuel station owners and operators, labor organizations, infrastructure construction and component parts suppliers, and multi-State and regional entities)--
+``(I) to foster enhanced, coordinated, public-private or private investment in electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure;
+``(II) to expand deployment of electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure;
+``(III) to protect personal privacy and ensure cybersecurity; and
+``(IV) to ensure that a properly trained workforce is available to construct and install electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure;
+``(iii) the location of the station or fueling site, such as consideration of--
+``(I) the availability of onsite amenities for vehicle operators, such as restrooms or food facilities;
+``(II) access in compliance with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.);
+``(III) height and fueling capacity requirements for facilities that charge or refuel large vehicles, such as semi-
+trailer trucks; and
+``(IV) appropriate distribution to avoid redundancy and fill charging or fueling gaps;
+``(iv) infrastructure installation that can be responsive to technology advancements, such as accommodating autonomous vehicles, vehicle-to-grid technology, and future charging methods; and
+``(v) the long-term operation and maintenance of the electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure, to avoid stranded assets and protect the investment of public funds in that infrastructure; and
+``(B) an assessment of the estimated emissions that will be reduced through the use of electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure, which shall be conducted using the Alternative Fuel Life-Cycle Environmental and Economic Transportation (AFLEET) tool developed by Argonne National Laboratory (or a successor tool).``(5) Considerations.--In selecting eligible entities to receive a grant under this subsection, the Secretary shall--
+``(A) consider the extent to which the application of the eligible entity would--
+``(i) improve alternative fueling corridor networks by--
+(I) converting corridor-pending corridors to corridor-ready corridors; or(II) in the case of corridor-ready corridors, providing redundancy--
+(aa) to meet excess demand for charging or fueling infrastructure; or(bb) to reduce congestion at existing charging or fueling infrastructure in high-traffic locations;
+``(ii) meet current or anticipated market demands for charging or fueling infrastructure;
+``(iii) enable or accelerate the construction of charging or fueling infrastructure that would be unlikely to be completed without Federal assistance;
+``(iv) support a long-term competitive market for electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure that does not significantly impair existing electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure providers;
+``(v) provide access to electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure in areas with a current or forecasted need; and``(vi) deploy electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure for medium- and heavy-duty vehicles (including along the National Highway Freight Network established under section 167(c)) and in proximity to intermodal transfer stations;
+``(B) ensure, to the maximum extent practicable, geographic diversity among grant recipients to ensure that electric vehicle charging infrastructure, hydrogen fueling
+infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure is available throughout the United States;
+``(C) consider whether the private entity that the eligible entity contracts with under paragraph (6)--
+``(i) submits to the Secretary the most recent year of audited financial statements; and
+``(ii) has experience in installing and operating electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure; and
+``(D) consider whether, to the maximum extent practicable, the eligible entity and the private entity that the eligible entity contracts with under paragraph (6) enter into an agreement--
+``(i) to operate and maintain publicly available electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas infrastructure; and
+``(ii) that provides a remedy and an opportunity to cure if the requirements described in clause (i) are not met.``(6) Use of funds.--
+``(A) In general.--An eligible entity receiving a grant under this subsection shall only use the funds in accordance with this paragraph to contract with a private entity for acquisition and installation of publicly accessible electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure that is directly related to the charging or fueling of a vehicle.
+``(B) Location of infrastructure.--Any publicly accessible electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure acquired and installed with a grant under this subsection shall be located along an alternative fuel corridor designated under this section, on the condition that any affected Indian tribes are consulted before the designation.``(C) Operating assistance.--
+``(i) In general.--
+Subject to clauses (ii) and (iii), an eligible entity that receives a grant under this subsection may use a portion of the funds to provide to a private entity operating assistance for the first 5 years of operations after the installation of publicly available electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure while the facility transitions to independent system operations.
+``(ii) Inclusions.--Operating assistance under this subparagraph shall be limited to costs allocable to operating and maintaining the electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure and service.
+``(iii) Limitation.--Operating assistance under this subparagraph may not exceed the amount of a contract under subparagraph (A) to acquire and install publicly accessible electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure.
+``(D) Traffic control devices.--
+``(i) In general.--Subject to this paragraph, an eligible entity that receives a grant under this subsection may use a portion of the funds to acquire and install traffic control devices located in the right-of-way to provide directional information to publicly accessible electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure acquired, installed, or operated with the grant.
+``(ii) Applicability.--Clause (i) shall apply only to an eligible entity that--
+``(I) receives a grant under this subsection; and
+``(II) is using that grant for the acquisition and installation of publicly accessible electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure.
+``(iii) Limitation on amount.--The amount of funds used to acquire and install traffic control devices under clause (i) may not exceed the amount of a contract under subparagraph (A) to acquire and install publicly accessible charging or fueling infrastructure.
+``(iv) No new authority created.--Nothing in this subparagraph authorizes an eligible entity that receives a grant under this subsection to acquire and install traffic control devices if the entity is not otherwise authorized to do so.``(E) Revenue.--
+``(i) In general.--An eligible entity receiving a grant under this subsection and a private entity referred to in subparagraph (A) may enter into a cost-sharing agreement under which the private entity submits to the eligible entity a portion of the revenue from the electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure.
+``(ii) Uses of revenue.--An eligible entity that receives revenue from a cost-sharing agreement under clause (i) may only use that revenue for a project that is eligible under this title.
+``(7) Certain fuels.--The use of grants for propane fueling infrastructure under this subsection shall be limited to infrastructure for medium- and heavy-duty vehicles.``(8) Community grants.--
+``(A) In general.--Notwithstanding paragraphs (4), (5), and (6), the Secretary shall reserve 50 percent of the amounts made available each fiscal year to carry out this section to provide grants to eligible entities in accordance with this paragraph.
+``(B) Applications.--To be eligible to receive a grant under this paragraph, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+``(C) Eligible entities.--An entity eligible to receive a grant under this paragraph is--
+(i) an entity described in paragraph (3); and(ii) a State or local authority with ownership of publicly accessible transportation facilities.
+``(D) Eligible projects.--The Secretary may provide a grant under this paragraph for a project that is expected to reduce greenhouse gas emissions and to expand or fill gaps in access to publicly accessible electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure, including--
+``(i) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, preliminary engineering and design work, and other preconstruction activities; and
+``(ii) the acquisition and installation of electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure that is directly related to the charging or fueling of a vehicle, including any related construction or reconstruction and the acquisition of real property directly related to the project, such as locations described in subparagraph (E), to expand access to electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure.
+``(E) Project locations.--A project receiving a grant under this paragraph may be located on any public road or in other publicly accessible locations, such as parking facilities at public buildings, public schools, and public parks, or in publicly accessible parking facilities owned or managed by a private entity.
+``(F) Priority.--In providing grants under this paragraph, the Secretary shall give priority to projects that expand access to electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure within--
+``(i) rural areas;
+(ii) low- and moderate-income neighborhoods; and(iii) communities with a low ratio of private parking spaces to households or a high ratio of multiunit dwellings to single family homes, as determined by the Secretary.``(G) Additional considerations.--In providing grants under this paragraph, the Secretary shall consider the extent to which the project--
+``(i) contributes to geographic diversity among eligible entities, including achieving a balance between urban and rural communities; and
+``(ii) meets current or anticipated market demands for charging or fueling infrastructure, including faster
+charging speeds with high-powered capabilities necessary to minimize the time to charge or refuel current and anticipated vehicles.
+``(H) Partnering with private entities.--An eligible entity that receives a grant under this paragraph may use the grant funds to contract with a private entity for the acquisition, construction, installation, maintenance, or operation of electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, or natural gas fueling infrastructure that is directly related to the charging or fueling of a vehicle.
+``(I) Maximum grant amount.--The amount of a grant under this paragraph shall not be more than $15,000,000.
+``(J) Technical assistance.--Of the amounts reserved under subparagraph (A), the Secretary may use not more than 1 percent to provide technical assistance to eligible entities.
+``(K) Additional activities.--The recipient of a grant under this paragraph may use not more than 5 percent of the grant funds on educational and community engagement activities to develop and implement education programs through partnerships with schools, community organizations, and vehicle dealerships to support the use of zero-emission vehicles and associated infrastructure.``(9) Requirements.--
+``(A) Project treatment.--Notwithstanding any other provision of law, any project funded by a grant under this subsection shall be treated as a project on a Federal-aid highway under this chapter.
+``(B) Signs.--Any traffic control device or on-
+premises sign acquired, installed, or operated with a grant under this subsection shall comply with--
+``(i) the Manual on Uniform Traffic Control Devices, if located in the right-of-way; and
+``(ii) other provisions of Federal, State, and local law, as applicable.
+``(10) Federal share.--
+``(A) In general.--The Federal share of the cost of a project carried out with a grant under this subsection shall not exceed 80 percent of the total project cost.
+``(B) Responsibility of private entity.--As a condition of contracting with an eligible entity under paragraph (6) or (8), a private entity shall agree to pay the share of the cost of a project carried out with a grant under this subsection that is not paid by the Federal Government under subparagraph (A).
+``(11) Report.--Not later than 3 years after the date of enactment of this subsection, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report on the progress and implementation of this subsection.''.

@@ -1,0 +1,77 @@
+A BILL
+To create an administrative subpoena process to assist copyright owners in determining which of their copyrighted works have been used in the training of artificial intelligence models.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Transparency and Responsibility for Artificial Intelligence Networks Act” or the “TRAIN Act”.
+
+
+SEC. 2. Subpoena for copies or records relating to artificial intelligence models.
+
+
+(a) In general.—Chapter 5 of title 17, United States Code, is amended by adding at the end the following:
+
+
+“§ 514. Subpoena for copies or records relating to artificial intelligence models
+
+
+“(a) Definitions.—In this section:
+
+
+“(1) ARTIFICIAL INTELLIGENCE.—The term ‘artificial intelligence’ has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+
+
+“(2) ARTIFICIAL INTELLIGENCE MODEL.—The term ‘artificial intelligence model’ means a component of an information system that implements artificial intelligence technology and uses computational, statistical, or machine-learning techniques to produce outputs from a given set of inputs.
+
+
+“(3) GENERATIVE ARTIFICIAL INTELLIGENCE MODEL.—The term ‘generative artificial intelligence model’ means an artificial intelligence model that emulates the structure and characteristics of input data in order to generate derived synthetic content, which may include images, videos, audio, text, and other digital content.
+
+
+“(4) MODEL DEVELOPER OR DEPLOYER.—The term ‘model developer or deployer’ means a person that develops or deploys a generative artificial intelligence model.
+
+
+“(b) Request.—The legal or beneficial owner of an exclusive right under a copyright, or a person authorized to act on the owner's behalf, may request the clerk of any United States district court to issue a subpoena to a model developer or deployer for disclosure of copies of, or records sufficient to identify with certainty, the copyrighted works, or any portion thereof, likely owned or controlled by the legal or beneficial owner that were used by the model developer or deployer to train the generative artificial intelligence model, if the legal or beneficial owner or authorized person has a subjective good faith belief that the model developer or deployer used some or all of 1 or more such copyrighted works to train the generative artificial intelligence model.
+
+
+“(c) Contents of request.—A request under subsection (b) may be made by filing with the clerk—
+
+
+“(1) a proposed subpoena; and
+
+
+“(2) a sworn declaration to the effect that—
+
+
+“(A) the legal or beneficial owner or authorized person has a subjective good faith belief that the model developer or deployer used some or all of 1 or more of the copyrighted works owned or controlled by the legal or beneficial owner to train the generative artificial intelligence model;
+
+
+“(B) the purpose for which the subpoena is sought is to obtain copies of the training material, or records sufficient to identify with certainty the training material, used to train the generative artificial intelligence model in order to determine whether the model developer or deployer has used copyrighted works owned or controlled by the legal or beneficial owner in connection with the generative artificial intelligence model; and
+
+
+“(C) the copies or records will only be used for the purpose of protecting the rights of the legal or beneficial owner.
+
+
+“(d) Contents of subpoena.—A subpoena issued pursuant to a request under subsection (b) shall authorize and order the model developer or deployer receiving the subpoena to expeditiously disclose to the legal or beneficial owner or authorized person all records described in that subsection.
+
+
+“(e) Basis for granting subpoena.—If a proposed subpoena described in subsection (c)(1) is in proper form, and the accompanying declaration described in subsection (c)(2) is properly executed, the clerk shall expeditiously issue and sign the proposed subpoena and return it to the requester for delivery to the model developer or deployer.
+
+
+“(f) Actions of model developer or deployer receiving subpoena.—Upon receipt of a subpoena issued under subsection (e), a model developer or deployer shall expeditiously disclose to the legal or beneficial owner or authorized person the copies or records requested by the subpoena.
+
+
+“(g) Rules applicable to subpoena.—Unless otherwise provided by this section or by applicable rules of the court, the procedure for issuance and delivery of a subpoena issued under subsection (e), and the remedies for noncompliance with the subpoena, shall be governed to the greatest extent practicable by the provisions of the Federal Rules of Civil Procedure governing the issuance, service, and enforcement of a subpoena duces tecum.
+
+
+“(h) Rebuttable presumption.—If a model developer or deployer fails to comply with a subpoena issued under subsection (e), that failure shall provide a rebuttable presumption that the model developer or deployer made copies of the copyrighted work.
+
+
+“(i) Effective date.—This section shall take effect on the date of enactment of this section.”.
+
+
+(b) Technical and conforming amendment.—The table of sections for chapter 5 of title 17, United States Code, is amended by adding at the end the following:

@@ -1,0 +1,86 @@
+Common Intelligence Community Interim Guidance
+
+
+Regarding the Acquisition and Use of Foundation AI Models
+
+
+The Intelligence Community (IC) is authorized to collect, retain, and disseminate U.S. person information for approved purposes in accordance with Executive Order (E.O.) 12333 and Attorney General-approved Guidelines (AG Guidelines) promulgated thereunder. The principles and protections provided through E.O. 12333 and the AG Guidelines are core to ensuring that the IC can acquire, analyze, and produce intelligence while simultaneously protecting individual rights and interests, including the freedoms, civil liberties, and privacy rights guaranteed by law. With respect to commercially available information and artificial intelligence (AI), these principles and protections are supplemented by, among other things, The Principles of Artificial Intelligence Ethics for the Intelligence Community, the Intelligence Community Policy Framework for Commercially Available Information (CAI Framework), and the Framework to Advance AI Governance and Risk Management in National Security (AI Framework).
+
+
+As recognized in E.O. 14110 and the forthcoming National Security Memorandum (NSM) on AI, foundation models (FMs), especially frontier models such as large language models (LLMs), can play an important role in protecting national security. IC elements may therefore seek to use such technologies responsibly in furtherance of their authorized missions, consistent with applicable law and guidance. Yet FMs, especially frontier models, involve technologies that differ substantially from those considered when E.O. 12333 and the extant AG Guidelines were developed. Moreover, many commercially developed, publicly available FMs are trained on large amounts of commercially available and other information, including U.S. person information, and can be modified or augmented by information collected by the IC that also includes U.S. person information.
+
+
+Given the essential role played by the AG Guidelines in ensuring that the IC can engage in lawful intelligence activities while appropriately protecting individual rights and interests of U.S. persons, it is important to provide supplemental guidance regarding FMs and how the AG Guidelines relate to the other policies identified above.
+
+
+Accordingly, interagency lawyers, in coordination with their policy counterparts, are providing this Interim Guidance on the application of AG Guidelines and policies on the IC's acquisition and use of FMs, focused on three aspects: (1) model acquisition; (2) model modification and augmentation; and (3) model prompts and outputs. This guidance will be reviewed by interagency lawyers every six months following the issuance of the AI NSM. Interagency lawyers will, as part of their regular review, consider whether adequate measures are being taken to address consequences for U.S. persons' privacy and civil liberties.
+
+
+Model Acquisition: A FM is “acquired" if the model is hosted or accessed in a manner different from what is available to the general public for the model. For example, an FM is “ acquired” if it is hosted on U.S. Government or private third-party infrastructure, or by securing model access via website or Application Programming Interface (API) on terms different from the terms applicable to the general public.
+
+
+For legal and compliance purposes, including application of an IC element's AG Guidelines, acquiring a model does not, by itself, generally constitute "collection" of the training data, including information concerning U.S. persons that was used to train the model. Whether the acquisition of a specific FM constitutes the "collection" of any training data will depend on the specific facts and circumstances of the FM, and in particular whether the acquiring IC element has the capability to access the training data (either directly or by reverse engineering the model and/or de-anonymizing the data) in its original form as well as the authorization and intent to do so.
+
+
+Consistent with Pillar II of the AI Framework, IC elements should carefully review the facts surrounding the model's acquisition before acquiring a FM, including the purpose for acquiring the model, the model's intended uses and function, the IC element's use case for the model, and, to the extent reasonable and practicable, the data upon which the model was trained.
+
+
+IC elements should not acquire FMs unless the acquisition and use are lawful and consistent with the AI Framework and the value of using the model outweighs any risks associated with the model's acquisition and use that cannot be mitigated.
+
+
+Model Modification and Augmentation: IC elements may modify or augment an acquired FM. There are multiple methods for modifying or augmenting a pre-trained model: for example, an IC element might fine-tune the FM by further training it on data collected by IC elements, thereby altering its model weights, or the IC element might augment the FM, such as by connecting it to additional data, resources, and tools, thereby expanding its potential utility without altering the model weights.
+
+
+If these activities involve use of covered information collected by the IC element, the IC element must comply with its AG Guidelines, including where applicable the relevant rules on the use, querying, retention, and dissemination of the covered information, in addition to the AI Framework. Such activities may also implicate other legal or policy restrictions on the use, handling, dissemination, or retention of intelligence information, such as those applicable under the Foreign Intelligence Surveillance Act (FISA), the Privacy Act of 1974, or the CAI Framework. Accordingly, IC elements intending to modify or augment a FM should take all necessary steps ahead of any modification or augmentation to ensure that those actions comply with these requirements, including, as appropriate, seeking guidance from the relevant General Counsel's office, Chief AI Officer, and senior privacy and civil liberties officials. Covered information cannot be used to modify or augment a FM absent an authorized purpose and a determination that the use complies with the IC element's AG Guidelines and applicable policies and procedures. IC elements should not modify or augment a FM using FISA-obtained or FISA derived information without coordination with the Department ofJustice and Office of the Director of National Intelligence.
+
+
+Model Prompts and Outputs: All prompts of a FM and retention of outputs, regardless of whether that model has been acquired by an IC element or instead is accessed through a publicly available interface, must be for an authorized purpose (and not a prohibited use) and must be consistent with the AI Framework, the AG Guidelines, and applicable policies and procedures.
+
+
+A prompt that returns information reasonably understood to be information that an IC element does not currently hold as collected or acquired information should presumptively be considered “collection” for purposes of the AG Guidelines if the returned information is copied, saved, supplemented, or used . A prompt that returns information reasonably understood solely to be information an IC element already has collected will not be considered “ collection" for purposes of the AG Guidelines absent some articulable, case-specific reason to consider it thus.
+
+
+Any covered information considered collected should be treated as subject to the IC element's AG Guidelines and other applicable policies, including for the collection of or access to, and use, dissemination and retention of, U.S. person information, as well as the CAI Framework as applicable.
+
+
+Query rules contained in AG guidelines may also apply to prompts if such rules apply to data used to train or modify a FM. For example, if an IC element were to modify a model by fine-tuning it on data collected pursuant to E.O.12333, the applicable querying rules under E.O. 12333 would apply.
+
+
+Moreover, IC elements should ensure guidance is provided such that any covered information that is retrieved from a FM and retained or disseminated, even if not "collected" anew, remains subject to any applicable AG Guidelines or other legal requirements regarding its retention and dissemination.
+
+
+For oversight purposes, IC elements, in consultation with their respective general counsel's offices, should explore mechanisms to mark or otherwise identify any U.S. person information, known and lawfully retained by the agency, returned from a prompt of a FM, and any products containing that information, with sufficient specificity that the information is traceable to the model and activity used to generate the information.
+
+
+If not already required by their AG Guidelines or other policies and procedures, IC elements should also consider what documentation, if any, is appropriate for prompts of a FM that are designed to return U.S. person information. 
+
+
+General Requirements and Definitions:
+This Interim Guidance is supplemental to and does not supersede any applicable law, including E.O. 12333 and the AG Guidelines.
+
+
+Foundation models refer to AI systems that are trained on broad data and can be applied across a wide-range of use cases.
+
+
+Large language models are a kind of foundation model that can achieve general-purpose language generation and other natural language processing tasks.
+
+
+Frontier models refer to any general-purpose AI system near the cutting-edge of performance, as measured by widely accepted publicly available benchmarks, or similar assessments of reasoning, science, and overall capabilities. Certain foundation models may qualify as frontier AI models.
+
+
+Model weights refer to numerical parameters that collectively determine how prompts are processed and converted into outputs within an AI model.
+
+
+Covered information refers to the category of data to which an individual agency's specific AG guidelines apply, including U.S. person information.
+
+
+Modification refers to the process whereby an IC element alters the model weights of a FM by, for example, further training it on data collected by IC elements.
+
+
+Augmentation refers to the process whereby an IC element expands the utility of a FM without altering its model weights by, for example, connecting it to additional data,  resources, and tools.
+
+
+IC elements, through their respective general counsels, should consult with the Assistant Attorney General for National Security and the General Counsel of the Office of the Director of National Intelligence regarding significant interpretations or applications of their AG Guidelines to the acquisition or use of FMs. An IC element that is part of an executive department or agency (e.g., Defense Intelligence Components that are part of the Department of Defense) should ensure that any coordination with the Department ofJustice and the Office of the Director ofNational Intelligence occurs in a manner that is consistent with the coordination requirements of that element's respective department or agency.
+
+
+This Interim Guidance does not address or authorize any IC element to provide access to, or permit shared use of, any FM with another IC element or a non-IC entity where the FM has been trained, modified, fine-tuned, or augmented with information collected by an IC element. Any proposal to do so will require separate consideration under applicable policy and legal requirements, including applicable AG Guidelines.

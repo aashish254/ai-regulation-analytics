@@ -1,0 +1,236 @@
+ORIGINATING AGENCY: Office of the Mayor
+By virtue of the authority vested in me as Mayor of the District of Columbia by sections 422(4)
+and (11) of the District of Columbia Home Rule Act of 1973, 87 Stat. 790, Pub. L No. 93-198,
+D.C. Official Code§§ 1-204.22(4) and (11), it is hereby ORDERED that:
+
+
+I. PURPOSES AND BACKGROUND
+This Order:
+A. Articulates six overarching Artificial Intelligence (AI) Values which District
+government agencies must consider before deploying an AI tool;
+B. Establishes an AI Advisory Group on AI Values Alignment to conduct regular
+community and stakeholder engagement concerning these AI Values;
+C. Identifies a series of AI strategic benchmarks, in the form of internal governance
+standards and strategic plans, to be created within prescribed deadlines; and
+D. Establishes an AI Taskforce to examine the District's current internal AI
+governance posture and to support agency leadership in meeting the prescribed AI
+Strategic Benchmarks, and to provide the Mayor with advice and recommendations
+to further the goals of responsible and effective use of AI tools by District
+government agencies.
+
+
+II. DEFINITIONS
+When used in this Order, the following terms shall have the meanings ascribed:
+A. "AI" refers to the broad class of technologies developed or marketed to be capable
+of performing tasks otherwise requiring an intelligent human agent. Relevant tasks
+include, without limitation, natural language processing including text and speech
+generation, image analysis and generation, and a wide variety of probabilistically
+determined classifications, predictions, scorings, and assessments.
+B. "AI tool" refers to any enterprise product or service a major component of which
+relies upon AI to function at all. AI tool does not refer to products or services which
+make only ancillary use of AI, or which are designed to make use of AI to
+accommodate a person with a disability.
+C. "Deploy" refers to the act of operating an AI tool outside of a test environment, and
+includes both agency-external use and agency-internal use. In addition, test
+environment use constitutes deployment if any enterprise data classified higher than
+Level 0, will, by virtue of such test use, be viewable by any person outside the
+District government.
+
+
+III. DISTRICT GOVERNMENT AI VALUES
+Each agency planning to deploy an AI tool shall first verify whether such deployment is in
+alignment with the following AI Values, assess impacts to these AI Values, consider what
+controls might be used to mitigate negative impacts, and document its review:
+A. Clear Benefit to Residents
+No AI tool shall be deployed unless the deploying agency has verified that the
+deployment will benefit District residents. An agency deploying an AI tool shall
+articulate its purpose in deploying the tool, who will benefit from the planned
+deployment, and what alternative means of achieving the purpose and the benefit
+were considered.
+B. Safety and Equity
+No Al tool shall be deployed unless the deploying agency has carefully considered
+how deployment will impact safety and equity in the District, and weighed such
+impacts against the impacts of alternative courses of action, including maintenance
+of the status quo.
+C. Accountability
+No AI tool shall be deployed unless the deploying agency has articulated how
+deployment will maintain meaningful accountability for government action. An
+agency deploying an AI tool shall explain what steps it has taken to preserve human
+accountability for every action or determination flowing from the AI tool.
+
+
+D. Transparency
+No AI tool shall be deployed unless the deploying agency has articulated how the
+deployment will be conducted transparently. An agency deploying an AI tool shall
+explain when and how it will disclose when persons are directly interacting with an
+AI tool, like an AI-powered chat bot, and not a human.
+E. Sustainability
+No AI tool shall be deployed unless the deploying agency has considered the
+deployment's sustainability. An agency deploying an AI tool shall explain what
+steps it has taken to assess the environmental impact of both use and development
+of the relevant AI tool, and the impact deployment will have upon employee
+displacement and job quality of District employees.
+F. Privacy and Cybersecurity
+No AI tool shall be deployed unless the deploying agency has carefully considered
+the deployment's impact upon privacy and cybersecurity. An agency deploying an
+AI tool shall explain how it plans to ensure the deployment does not violate privacy
+rights or undermine the privacy of residents, employees, and visitors.
+
+
+IV. ADVISORY GROUP ON AI VALVES ALIGNMENT
+A. There is hereby established in the Executive Branch of the Government of the
+District of Columbia the Advisory Group on Artificial Intelligence Values
+Alignment ("Advisory Group").
+B. The purpose of the Advisory Group is to engage with internal and external
+stakeholders on the proper intersection of the District's AI Values and emerging
+and future AI technologies to ensure all stakeholder perspectives are heard, and to
+advise the Mayor on the refinement and alignment of the District government's AI
+Values on an ongoing basis.
+C. The Advisory Group shall:
+1. Hold public listening sessions to solicit public input on the appropriate
+government use of AI tools.
+2. Upon request of the Mayor, review a specific AI tool, deployment, or
+general AI technology and advise the Mayor on how the tool, deployment,
+or technology might best be brought into alignment with the District's AI
+Values.
+3. Undertake such other functions as may be requested by the Mayor.
+D. The Advisory Group shall comprise the following members, all of whom shall be
+appointed by, and serve at the pleasure of, the Mayor:
+1. The following public members, who shall not be employees of the District
+government:
+a. One public member to serve as the Community Co-Chair of the Advisory Group;
+b. Additional public members whose expertise shall include: racial
+equity; disability rights; labor relations; criminal justice; education;
+healthcare; privacy; cybersecurity; and transparency/open
+government.
+2. The following government members:
+a. The City Administrator or their designee, who shall serve as the
+Government Co-Chair of the Advisory Group;
+b. The Director of the Office of Racial Equity or their designee;
+c. The Director of the Office of Disability Rights or their designee;
+d. The Director of the Mayor's Office on African-American Affairs or
+their designee;
+e. The Director of the Office of Labor Relations and Collective
+Bargaining or their designee;
+f. The Executive Director of the Criminal Justice Coordinating
+Council or their designee;
+g. The Director of the Homeland Security and Emergency
+Management Agency or their designee;
+h. The Chancellor of District of Columbia Public Schools or their
+designee;
+1. The State Superintendent of Education or their designee;
+J. The Director of the Department of Health or their designee;
+k. The Chief Technology Officer or their designee;
+1. The Chief Information Security Officer or their designee;
+m. The Director of the Mayor's Office of Legal Counsel or their
+designee;
+n. The Director of the Office of Open Government or their designee;
+o. The Director of the Department of Employment Services or their
+designee;
+p. The Director of the Department of Human Resources or their
+designee; and
+q. The Chief Procurement Officer of the Office of Contracting and
+Procurement or their designee.
+E. Public members of the Advisory Group shall serve at the pleasure of the Mayor
+from the date of their appointment until December 31, 2026, unless earlier removed
+by the Mayor. The Mayor shall appoint members to fill vacancies for the remainder
+of the unexpired term. Government members shall serve at the pleasure of the
+Mayor.
+F. The Advisory Group shall establish its own internal committees, bylaws, and rules
+of procedure, subject to approval by the Mayor.
+G. The Advisory Group shall meet at the joint call of the co-chairs, and at the call of
+the City Administrator. The Advisory Group shall hold at least two public listening
+sessions in Fiscal Year 2024, and at least one public listening session each fiscal
+year thereafter.
+H. The Office of the City Administrator, and such District government agencies as
+may be designated by the City Administrator, shall provide administrative support
+to the Advisory Group.
+I. The members of the Advisory Group shall serve without compensation, except that
+a member of the Advisory Group or a committee may be reimbursed for expenses
+incurred in the authorized execution of their official duties if the City Administrator
+or their designee approves the reimbursement.
+J. The Advisory Group shall sunset on December 31, 2026.
+
+
+V. AI STRATEGIC BENCHMARKS
+The following District agencies shall work with the AI Taskforce to create the following
+governance standards and strategic plans by the following deadlines:
+A. By May 8, 2024, the Office of the Chief Technology Officer shall submit to the
+Office of the City Administrator for review and approval standard privacy review
+processes governing: the approval of deployments of AI tools which will make use
+of enterprise data classified higher than Level O; and the regular review of the
+District government's Enterprise Data Inventory in light of privacy risks arising
+from emerging or future AI functionalities.
+B. By May 8, 2024, the Office of the Chief Technology Officer shall submit to the
+Office of the City Administrator for review and approval standard cybersecurity
+review processes governing: the approval of deployments of AI tools which interact
+with the District government's information technology environment, including
+deployments that precede the effective date of this Order; and the regular review
+and assessment of emerging, AI-powered cybersecurity threats.
+C. By August 8, 2024, the Department of Human Resources and the Department of
+Employment Services shall submit to the Office of the City Administrator for
+review and approval an integrated recruitment and workforce development plan.
+The plan shall identify existing recruitment and workforce development resources
+relevant to the emerging AI job sector and shall articulate strategies for growing the
+AI-ready workforce in the District of Columbia and recruiting AI talent into the
+District government workforce.
+D. By August 8, 2024, the Department of Human Resources and the Office of the
+Chief Technology Officer, in consultation with the Office of Labor Relations and
+Collective Bargaining, shall submit to the Office of the City Administrator for
+review and approval a body of comprehensive training materials on the proper use
+of AI tools by District government personnel.
+E. By September 6, 2024, the Office of Contracting and Procurement shall submit to
+the Office of the City Administrator for review and approval a mandatory AI
+procurement handbook. This AI procurement handbook shall provide guidance to
+agencies in the basic capabilities of broad categories of AI tools, structuring and
+scoping AI tool procurements, and effectively monitoring performance of procured
+AI tools.
+F. Before October 1, 2024, a first cohort of agencies selected by the City
+Administrator, before October 1, 2025, a second cohort of agencies selected by the
+City Administrator, and before October 1, 2026, the final cohort of agencies
+selected by the City Administrator, shall submit to the Office of the City
+Administrator for review and approval their agency-specific AI strategic plans.
+These agency- specific AI strategic plans shall identify: aspects of the agency's
+mission where currently available AI tools may improve agency performance, areas
+where the incorporation of AI tools may present new risks, safeguards the agency
+will utilize to mitigate risks presented by the deployment of AI tools, and the
+agency's AI tool deployment stakeholder engagement plan.
+
+
+VI. Al TASKFORCE
+A. There is hereby established in the Executive Branch of the Government of the
+District of Columbia the Artificial Intelligence Taskforce ("AI Taskforce").
+B. The purpose of the AI Taskforce is to provide deep AI strategy and governance
+expertise and support to the Mayor and agency leadership, and to coordinate agency
+efforts to meet the AI Strategic Benchmarks established by section V. of this Order.
+C. The AI Taskforce shall:
+1. Upon request of the Mayor or her designee, review and provide technical
+advice on any specific AI tool, deployment, or general AI technology;
+2. Provide regular reports to the City Administrator concernmg agency
+progress in meeting the AI Strategic Benchmarks;
+3. Furnish AI expertise and guidance as necessary to ensure agencies meet the
+AI Strategic Benchmarks;
+4. Develop a form whereby agencies can record their assessment of each AI
+tool deployment's alignment with the District's AI Values;
+5. Undertake such other functions as may be requested by the Mayor.
+D. The AI Taskforce shall comprise five members, all of whom shall be District
+government employees,one each with expertise in: AI and technology law; AI and
+technology enablement; AI and data science; AI and software development; and
+AI and cybersecurity.
+E. One member of the AI Taskforce shall be designated by the Mayor as Taskforce
+Lead.
+F. Members of the AI Taskforce shall be appointed by the Mayor and shall serve at
+the pleasure of the Mayor from the date of their appointment until December 31,
+2026, unless earlier removed by the Mayor.
+G. The AI Taskforce shall be composed of District government full-time employees,
+serving the District government within the ordinary course of their employment.
+The AI Taskforce is not a public body, and does not conduct meetings, as such
+terms are defined by the District of Columbia Open Meetings Act, effective March
+31, 2011 (D.C. Law 18-350; D.C. Official Code§§ 2-571 et seq. (2016 Repl.)).
+H. The Office of the Chief Technology Officer shall provide administrative support to
+the AI Taskforce.
+I. The members of the AI Taskforce shall serve without compensation.
+J. The AI Taskforce shall sunset on December 31, 2026.
+
+
+VII. EFFECTIVE DATE: This Order shall become effective immediately.

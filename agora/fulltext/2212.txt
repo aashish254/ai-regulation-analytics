@@ -1,0 +1,61 @@
+Whereas, “Deepfake” and “cheapfake” media are artificially produced content which manipulate public understandings of evidence and truth; and
+
+
+Whereas, Deepfakes are defined as video recordings, motion picture films, sound recordings, electronic images, photographs, or technological representations of speech or conduct that appear to authentically depict the speech or conduct of a person who did not engage in those behaviors, which were substantially dependent upon technical means; and
+
+
+Whereas, Cheapfakes are any software-generated audiovisual alteration; and
+
+
+Whereas, These audiovisual manipulations have become easier to produce, with open-source animation technology allowing even inexperienced creators to forge media; and
+
+
+Whereas, Generative artificial-intelligence platforms may anticipate and prevent the creation of harmful content; and
+
+
+Whereas, With the proliferation of social media and other digital communication platforms, deepfakes and cheapfakes can earn wide viewership and exert a powerful influence over public opinion; and
+
+
+Whereas, Social media and other content sharing forums may take steps to remove this harmful media; and
+
+
+Whereas, Deepfake and cheapfake content has been used for libel, misrepresentation, blackmail, hacking, and intimidation; and
+
+
+Whereas, Online disinformation and political interference campaigns may be magnified or accelerated through the use of artificial intelligence technology; and
+
+
+Whereas, Generative artificial intelligence and content sharing platforms also offer immense promise if used responsibly, with possibilities for learning, technological advancements, and social engagement; and
+
+
+Whereas, Responsible use of artificial intelligence systems requires continued monitoring of potential harms; and
+
+
+Whereas, The federal government and twelve other states have drafted accountability and transparency standards and in some circumstances have arranged such voluntary commitments for secure artificial intelligence use; now, therefore,
+
+
+Be It Resolved by the General Assembly of the State of New Jersey:
+
+
+ 
+
+
+     1.  This House urges platforms which are used to generate and disseminate deepfake and cheapfake media to voluntarily commit to prevent and remove harmful content.
+
+
+     2.  Copies of this resolution as filed with the Secretary of State shall be transmitted by the Clerk of the General Assembly to the Chief Executive Officers of leading AI and content sharing companies in the State.
+
+
+STATEMENT
+
+
+     This resolution urges generative artificial intelligence platforms to make voluntary commitments to remove harmful content from their websites. “Deepfake” and “cheapfake” media involve artificially produced content which often manipulate public understandings of evidence and truth. This resolution defines deceptive audio or visual media as “any video recording, motion picture film, sound recording, electronic image, photograph, or any technological representation of speech or conduct substantially derivative thereof that appears to authentically depict any speech or conduct of a person who did not in fact engage in the speech or conduct and the production of which was substantially dependent upon technical means, rather than the ability of another person to physically or verbally impersonate the person.” Cheapfakes are any software-generated audiovisual alteration. Examples of such content include face-swapping imagery, voice synthesis, and altered videos. These audiovisual manipulations have become easier to produce, with open-source animation technology allowing even inexperienced creators to forge media. With available software, authors may create convincingly realistic depictions of individuals saying or doing things they never actually did. Generative artificial-intelligence platforms may anticipate and prevent the creation of harmful content. The proliferation of social media and other digital communication platforms increase viewership of tailored deepfakes and cheapfakes, furthering the spread defamatory information. Social media and other content sharing forums may take steps to remove harmful media. Deepfakes and cheapfakes have led to impersonation, fraud, blackmail, harassment, and political misinformation. Such depictions of individuals in compromising or harmful situations can lead to significant reputational damage.
+
+
+     Artificial intelligence and its products also offer immense promise if used responsibly. Audiovisually altered media may advance frontiers of learning, technology, and social engagement. Responsible commercialization of artificial intelligence systems requires security testing, threat protection, and monitoring of potential harms.
+
+
+     Reports catalogue the impact of high-fidelity synthetic media on public information and understanding. Policymakers recommend collecting a library of deepfake imagery to train detection models, building tracking systems, and utilizing content provenance for AI- and human-generated content. Deliberate oversight would increase the credibility and opportunity of artificial intelligence generation.
+
+
+     The federal government and twelve other states have drafted accountability and transparency standards for artificial intelligence companies and in some circumstances have arranged such voluntary commitments for secure artificial intelligence use. In following suit with these national legal trends, New Jersey could establish itself as a pioneer of responsible media technology.

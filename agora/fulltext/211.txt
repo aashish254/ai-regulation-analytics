@@ -1,0 +1,11 @@
+SEC. 247. REPORTS AND BRIEFINGS ON RECOMMENDATIONS OF THE NATIONAL SECURITY COMMISSION ON ARTIFICIAL INTELLIGENCE REGARDING THE DEPARTMENT OF DEFENSE.
+
+(a) Reports Required.--On an annual basis during the two-year period beginning on the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the recommendations made by the National Security Commission on Artificial Intelligence with respect to the Department of Defense. Each such report shall include--
+	(1) for each such recommendation, a determination of whether the Secretary of Defense intends to implement the recommendation;
+	(2) in the case of a recommendation the Secretary intends to implement, the intended timeline for implementation, a description of any additional resources or authorities required for such implementation, and the plan for such implementation;
+	(3) in the case of a recommendation the Secretary determines is not advisable or feasible, the analysis and justification of the Secretary in making that determination; and
+	(4) in the case of a recommendation the Secretary determines the Department is already implementing through a separate line of effort, the analysis and justification of the Secretary in making that determination.
+(b) Briefings Required.--Not less frequently than once each year during the two-year period beginning on the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees a briefing on--
+	(1) the progress of the Secretary in analyzing and implementing the recommendations made by the National Security Commission on Artificial Intelligence with respect to the Department of Defense;
+	(2) any programs, projects, or other activities of the Department that are being carried out to advance the recommendations of the Commission; and
+	(3) the amount of funding provided for such programs, projects, and activities.

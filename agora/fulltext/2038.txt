@@ -1,0 +1,67 @@
+Law Proposal on Artificial Intelligence
+
+Purpose and Scope
+
+ARTICLE 1 – The purpose of this Law is to ensure the safe, ethical, and fair use of artificial intelligence technologies, to assure that personal data protection and privacy rights are not violated, and to establish a regulatory framework for the development and use of artificial intelligence systems.
+
+This Law applies to providers, deployers, users, importers, and distributors of artificial intelligence systems, as well as to persons affected by such systems.
+
+Definitions
+
+ARTICLE 2 – For the purposes of this Law;
+
+Artificial Intelligence: Refers to computer-based systems capable of performing human-like cognitive functions, and have capabilities such as learning, reasoning, problem-solving, sensing, and understanding language.
+
+Provider: Refers to natural or legal persons who develop, produce, and market artificial intelligence systems.
+
+Deployer/User: Refers to natural or legal persons who distribute artificial intelligence systems for commercial purposes or use them within their own operations.
+
+Importer: Refers to natural or legal persons who import artificial intelligence systems from abroad.
+
+Distributor: Refers to natural or legal persons who market and sell artificial intelligence systems.
+
+Artificial Intelligence Operators: Refers to all providers, deployers, users, importers, and distributors.
+
+Fundamental Principles
+
+ARTICLE 3 – The following fundamental principles shall be adhered to in the development, usage and deployment of artificial intelligence systems:
+
+Safety: It shall be ensured that artificial intelligence systems operate safely and do not cause harm to users.
+
+Transparency: Clear and understandable information about how artificial intelligence systems function shall be provided.
+
+Fairness: It shall be ensured that artificial intelligence systems deliver fair outcomes and do not cause discrimination.
+
+Accountability: Those responsible for the outcomes of using artificial intelligence systems shall be identified and held accountable.
+
+Privacy: Necessary measures to protect personal data and ensure privacy in artificial intelligence systems shall be implemented.
+
+Risk Management and Assessment
+
+ARTICLE 4 – Risk assessments shall be conducted during the development and use of artificial intelligence systems, and special measures shall be adopted for systems that pose high risks.
+
+High-risk artificial intelligence systems shall be registered with the relevant supervisory authorities and subjected to a conformity assessment.
+
+Compliance and Supervision
+
+ARTICLE 5 – Artificial intelligence operators are obligated to comply with the provisions of this Law and related regulations.
+
+Supervisory authorities possess the necessary powers to monitor the compliance of artificial intelligence systems with this Law and to detect violations.
+
+Violations and Sanctions
+
+ARTICLE 6 – The following sanctions shall be applicable to artificial intelligence operators who act contrary to the provisions of this Law:
+
+A fine of up to 35 million Turkish Liras1 or up to 7% of annual turnover for prohibited artificial intelligence applications.
+
+A fine of up to 15 million Turkish Liras2 or up to 3% of annual turnover for breaches of obligations.
+
+A fine of up to 7.5 million Turkish Liras3 or up to 1.5% of annual turnover for providing false information.
+
+Enforcement
+
+ARTICLE 7 – This Law shall enter into force on the date of its publication.
+
+Execution
+
+ARTICLE 8 – The provisions of this Law shall be executed by the President.

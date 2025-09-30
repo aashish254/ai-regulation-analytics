@@ -1,0 +1,89 @@
+H. R. 7123
+
+
+To amend the Communications Act of 1934 to require disclosures with respect to robocalls using artificial intelligence and to provide for enhanced penalties for certain violations involving artificial intelligence voice or text message impersonation, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+January 29, 2024
+
+
+Mr. Sorensen (for himself and Mr. Ciscomani) introduced the following bill; which was referred to the Committee on Energy and Commerce
+
+
+A BILL
+To amend the Communications Act of 1934 to require disclosures with respect to robocalls using artificial intelligence and to provide for enhanced penalties for certain violations involving artificial intelligence voice or text message impersonation, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Quashing Unwanted and Interruptive Electronic Telecommunications Act” or the “QUIET Act”.SEC. 2. DISCLOSURE REQUIRED FOR ROBOCALLS USING AI.
+
+
+Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by adding at the end the following:
+
+
+“(k) Disclosure Required For Robocalls Using AI.—
+
+
+“(1) IN GENERAL.—If a person making a robocall uses artificial intelligence to emulate a human being, such person shall disclose at the beginning of the call or text message the fact that artificial intelligence is being used.
+
+
+“(2) DEFINITIONS.—In this subsection:
+
+
+“(A) ROBOCALL.—
+
+
+“(i) IN GENERAL.—The term ‘robocall’ means a call made or text message sent—
+
+
+“(I) using equipment, whether hardware, software, or a combination thereof and including an automatic telephone dialing system, that makes a call or sends a text message to—
+
+
+“(aa) stored telephone numbers; or
+
+
+“(bb) telephone numbers produced using a random or sequential number generator; or
+
+
+“(II) using an artificial or prerecorded voice or an artificially generated message.
+
+
+“(ii) LIMITATION.—For purposes of clause (i)(I), the term ‘robocall’ does not include a call made or text message sent using equipment that requires substantial human intervention to make or send the call or text message.
+
+
+“(B) TEXT MESSAGE.—
+
+
+“(i) IN GENERAL.—The term ‘text message’ means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number, N11 service code, short code telephone number, or email address, or that is transmitted through application-to-person messaging, and includes—
+
+
+“(I) a short message service (commonly referred to as ‘SMS’) message;
+
+
+“(II) a multimedia message service (commonly referred to as ‘MMS’) message; and
+
+
+“(III) a rich communication service (commonly referred to as ‘RCS’) message.
+
+
+“(ii) LIMITATION.—The term ‘text message’ does not include a real-time, two-way voice or video communication.”.SEC. 3. ENHANCED PENALTIES FOR VIOLATIONS INVOLVING AI VOICE OR TEXT MESSAGE IMPERSONATION.
+
+
+(a) In General.—Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+
+
+“(l) Enhanced Penalties For Violations Involving AI Voice Or Text Message Impersonation.—In the case of a violation of this section with respect to which the party making the call or sending the text message uses artificial intelligence to impersonate an individual or entity with the intent to defraud, cause harm, or wrongfully obtain anything of value—
+
+
+“(1) the maximum amount of the forfeiture penalty that may be imposed under subsection (b)(4) or (e)(5)(A) of this section or subsection (b) of section 503 (as the case may be) shall be twice the maximum amount that may be imposed for such violation under such subsection without regard to this subsection; and
+
+
+“(2) the maximum amount of the criminal fine that may be imposed under subsection (e)(5)(B) of this section or section 501 (as the case may be) shall be twice the maximum amount that may be imposed for such violation under such subsection or section without regard to this subsection.”.
+
+
+(b) Applicability.—The amendment made by subsection (a) shall apply with respect to violations occurring after the date of the enactment of this Act.

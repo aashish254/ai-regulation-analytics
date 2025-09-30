@@ -1,0 +1,31 @@
+SECTION 148. (a) As used in this section, the following words shall, unless the context
+clearly requires otherwise, have the following meanings:
+“Microstamp”, a microscopic array of characters identifying the make, model, or serial
+number of a firearm, etched or otherwise imprinted in 2 or more places on the interior surface or the internal working parts of the firearm, that are transferred by imprinting on each cartridge case when the firearm is fired.
+“Personalized firearm”, a firearm manufactured with incorporated design technology or
+converted with such technology so that it: (i) allows the firearm to be fired only by an authorized user; or (ii) prevents any of the safety characteristics of the firearm from being readily deactivated.
+(b) There is hereby established, pursuant to section 2A of chapter 4 of the General Laws,
+a special legislative commission to study and investigate emerging firearm technology.
+(c) The special legislative commission shall consist of 13 members: the chairs of the joint
+committee on the judiciary or their designees, who shall serve as co-chairs; the secretary of
+public safety and security or a designee; the colonel of the state police or a designee; 2 members
+appointed by the speaker of the house of representatives; 2 members appointed by the president
+of the senate; 1 member appointed by the minority leader of the house of representatives; 1
+member appointed by the minority leader of the senate; 1 member appointed by the governor,
+who shall be an expert in emerging firearm technologies; the attorney general or a designee and 1
+member appointed by the National Shooting Sports Foundation, Inc.
+(d) The special legislative commission shall investigate and study the status, feasibility,
+and utility of emerging firearm technologies, including, but not limited to, personalized firearm
+technology and microstamp technology. The study shall include: (i) a review of existing and
+developing personalized firearm and microstamp technologies and any legal or constitutional
+issues relating to such technologies; (ii) an investigation of the accuracy, effectiveness and utility
+of personalized firearm and microstamp technologies; (iii) an evaluation of the commercial
+availability of personalized firearm and microstamp technologies, both in the production of new
+firearms and modification of existing firearms; (iv) an evaluation of the feasibility and utility of a
+personalized firearm technology tax incentive program; (v) an evaluation of the risks associated
+with the use of a digital firearm manufacturing code for machine learning and artificial
+intelligence; and (vi) an investigation of the cost and impacts associated with requiring the use of
+personalized firearm or microstamp technologies in the commonwealth.
+(e) The special legislative commission shall submit a report of its study and
+recommendations, together with any legislative recommendations, to the clerks of the house of
+representatives and the senate no later than March 1, 2025

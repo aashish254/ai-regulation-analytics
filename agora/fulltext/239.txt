@@ -1,0 +1,28 @@
+SEC. 11225. ESTABLISHMENT OF UNMANNED SYSTEM PROGRAM AND AUTONOMOUS CONTROL AND COMPUTER VISION TECHNOLOGY PROJECT.
+
+(a) In General.--Section 319 of title 14, United States Code, is amended to read as follows:
+``Sec. 319. Unmanned system program and autonomous control and computer vision technology project
+``(a) Unmanned System Program.--Not later than 2 years after the date of enactment of this section, the Secretary shall establish, under the control of the Commandant, an unmanned system program for the use by the Coast Guard of land-based, cutter-based, and aircraft-based unmanned systems for the purpose of increasing effectiveness and efficiency of mission execution.
+
+``(b) Autonomous Control and Computer Vision Technology Project.--
+``(1) In general.--The Commandant shall conduct a project to retrofit 2 or more existing Coast Guard small boats deployed at operational units with--
+``(A) commercially available autonomous control and computer vision technology; and
+``(B) such sensors and methods of communication as are necessary to control, and technology to assist in conducting, search and rescue, surveillance, and interdiction missions.
+``(2) Data collection.--As part of the project required under paragraph (1), the Commandant shall collect and evaluate field-collected operational data from the retrofit described in such paragraph to inform future requirements.
+``(3) Briefing.--Not later than 180 days after the date on which the project required under paragraph (1) is completed, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the project that includes an evaluation of the data collected from the project.
+
+`(c) Unmanned System Defined.--In this section, the term unmanned system' means--
+``(1) an unmanned aircraft system (as such term is defined in section 44801 of title 49);
+``(2) an unmanned marine surface system; and
+``(3) an unmanned marine subsurface system.''.
+
+(b) Clerical Amendment.--The analysis for chapter 3 of title 14, United States Code, is amended by striking the item relating to section 319 and inserting the following:
+
+``319. Unmanned system program and autonomous control and computer vision technology project.''.
+(c) Submission to Congress.--Not later than 180 days after the date of enactment of this Act, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a detailed description of the strategy of the Coast Guard to implement unmanned systems across mission areas, including--
+	(1) the steps taken to implement actions recommended in the consensus study report of the National Academies of Sciences, Engineering, and Medicine titled ``Leveraging Unmanned Systems for Coast Guard Missions: A Strategic Imperative'', published on November 12, 2020;
+	(2) the strategic goals and acquisition strategies for proposed uses and procurements of unmanned systems;
+	(3) a strategy to sustain competition and innovation for procurement of unmanned systems and services for the Coast Guard, including defining opportunities for new and existing technologies; and
+	(4) an estimate of the timeline, costs, staff resources, technology, or other resources necessary to accomplish the strategy.
+
+(d) Cost Assessment.--Not later than 1 year after the date of the enactment of this Act, the Commandant shall provide to Congress an estimate of the costs associated with implementing the amendments made by this section.

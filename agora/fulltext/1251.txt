@@ -1,0 +1,91 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Consumer Literacy and Empowerment to Advance Responsible Navigation of Artificial Intelligence Act” or the “Consumers LEARN AI Act”.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) Artificial intelligence is being incorporated into progressively more products and services that affect the lives of individuals across the United States every day.
+(2) Artificial intelligence technology has the potential to benefit consumers—
+(A) in terms of increased efficiency;
+(B) in areas such as automation, personalized learning, entertainment, problem solving, and more; and
+(C) with respect to future advances yet to be invented.
+(3) Consumers require new skill sets and guidance on best practices to make effective use of artificial intelligence products and services. A lack of familiarity with new technology can create barriers to its adoption and trust. An understanding of the strengths and limitations of artificial intelligence technologies can enable consumers to make informed decisions about when and where to employ artificial intelligence products and services.
+(4) Consumer education can supplement, although not replace, the responsibility of developers and deployers of artificial intelligence products and services to ensure their safety and efficacy and to provide product-specific consumer guidance about recommended uses as well as inappropriate or unsafe uses.SEC. 3. DEFINITIONS.
+In this Act:
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” means an engineered system that can, for a given set of human-defined objectives, generate output such as content, predictions, recommendations, or decisions that influence people or environments.
+(2) ARTIFICIAL INTELLIGENCE CONSUMER LITERACY.—The term “artificial intelligence consumer literacy” means an understanding of the capabilities and limitations of different kinds of artificial intelligence, and the ability to understand and use information provided about products and services that employ artificial intelligence, to support safe and responsible decisions about exposure to and the acquisition and use of such products and services.
+(3) CAMPAIGN.—The term “campaign” means the artificial intelligence literacy national public service campaign described in section 4(c)(2).
+(4) CONSUMER.—The term “consumer” means any individual, including a small business owner, within the territorial jurisdiction of the United States who is offered, purchases, transacts, or contracts for the purchase or transaction of any goods, merchandise, or services that the individual does not intend to offer for resale in the ordinary course of the individual's trade or business.
+(5) SECRETARY.—The term “Secretary” means the Secretary of Commerce.SEC. 4. ARTIFICIAL INTELLIGENCE CONSUMER LITERACY NATIONAL STRATEGY AND CAMPAIGN.
+(a) In General.—The Secretary shall develop a national strategy and public campaign materials and take such action as the Secretary deems necessary to create, improve, or augment the artificial intelligence consumer literacy programs and materials of the Federal Government, including curricula for all people of the United States.
+(b) National Strategy.—
+(1) IN GENERAL.—The Secretary shall—
+(A) not later than 6 months after the date of enactment of this Act, develop a multilingual national strategy to promote artificial intelligence consumer literacy among all consumers, informed by the report described in subsection (d)(1);
+(B) consult with Federal agencies and State, local, Tribal, and territorial governments, and private, nonprofit, and public institutions that the Secretary identifies as having relevant expertise pursuant to paragraphs (2) and (3) of subsection (e);
+(C) consult the Administrator of the Small Business Administration to develop strategy elements relevant to small business owners, and in the creation and implementation of the national strategy;
+(D) consider the specific needs of different demographics, regions, and economies that may interact with artificial intelligence products and services in different ways; and
+(E) coordinate Federal efforts to implement the national strategy and campaign.
+(2) STRATEGY.—The national strategy developed pursuant to paragraph (1) shall—
+(A) support current and future consumers of artificial intelligence services and products with the information needed to decide whether and when to employ such products and services;
+(B) develop methods to enhance the general understanding of the capabilities and limitations of artificial intelligence products and services offered to consumers;
+(C) employ a national public service campaign to develop and disseminate materials to all communities in the United States; and
+(D) consider additional strategies such as prize competitions, newsletters, and other ways to engage the public and enable messages to reach consumers in local, community-specific ways.(3) AREAS OF EMPHASIS.—The national strategy shall emphasize, among other elements, information that ensures consumers have—
+(A) a basic understanding of—
+(i) artificial intelligence and its uses in daily life;
+(ii) the capabilities and limitations of artificial intelligence consumer products and services, including what questions to ask of a provider of such products or services to gain that understanding; and
+(iii) artificial intelligence tasks (including classification, prediction, product recommendation, autonomous decision making, voice dictation and machine translation, and the generation of content such as text, image, video, or speech) and how such tasks involve different capabilities, benefits, and risks;
+(B) an awareness of—
+(i) best practices for the protection of personal data and personal identifying information;
+(ii) legal considerations in the consumer use of artificial intelligence consumer products and services; and
+(iii) common attempts to employ content that is generated or modified by artificial intelligence tools to deceive or defraud consumers; and
+(C) other artificial intelligence consumer literacy skills identified for emphasis by the Secretary.
+(4) USE CASES.—The Secretary shall, in consultation with officials the Secretary identifies as having relevant expertise pursuant to paragraphs (2) and (3) of subsection (e), create specialized use cases to address artificial intelligence consumer literacy for tasks such as those described in paragraph (3)(A)(iii) as they manifest in domains such as personal finance, healthcare recommendations, communication, creative works, and business management and operations across a range of contexts such as mobile device applications, computer software, and internet platforms.
+(5) BRIEFING TO CONGRESS.—Not later than 30 days after completing the national strategy, the Secretary shall provide a briefing to Congress on such strategy.
+(6) NATIONAL STRATEGY REVIEW.—The Secretary shall, not less than annually, review the national strategy developed under this subsection and make such changes and recommendations as the Secretary deems necessary.
+(c) Development And Dissemination Of National Public Service Campaign Materials.—
+(1) IN GENERAL.—Not later than 120 days after the national strategy described in subsection (b) is completed, the Secretary shall—
+(A) develop materials to promote artificial intelligence consumer literacy;
+(B) disseminate such materials to the general public; and
+(C) create a website where such materials will be published.
+(2) NATIONAL PUBLIC SERVICE CAMPAIGN.—
+(A) IN GENERAL.—The Secretary shall develop, in consultation with nonprofit, public, and private organizations, especially those with access to local communities and that are well qualified by virtue of their experience in the safe and responsible use of artificial intelligence, an artificial intelligence consumer literacy national public service campaign that is consistent with the national strategy described in subsection (b).
+(B) AVAILABILITY OF CAMPAIGN MATERIALS.—The Secretary—
+(i) shall—
+(I) make publicly available on the website created pursuant to paragraph (1)(C) any educational materials developed as part of the campaign;
+(II) distribute core messaging materials of the campaign to the public using multiple channels of communication, including through the use of television, radio, and internet platforms and advertisements on such platforms; and
+(III) coordinate with the Administrator of the Small Business Administration on the distribution of campaign materials relevant to small business owners through resource partners of the Small Business Administration, including small business development centers, women business centers, SCORE, veteran business opportunity centers, and Apex Accelerators; and
+(ii) may select 1 or more private or non-profit organizations that are well-qualified in the distribution of public service campaigns to aid in the dissemination of campaign materials.
+(C) PERIODIC UPDATES.—Not later than 1 year after the date the campaign is initiated, and annually thereafter, the Secretary shall update the campaign materials as needed to incorporate any significant changes due to new innovations, products, or services available to consumers or in light of new consumer harms that are identified.
+(D) PERFORMANCE MEASURES.—The Secretary shall develop measures to evaluate the effectiveness of the campaign, such as the effectiveness of the campaign at reaching consumers, consumer engagement with materials, and the level of consumer adoption of and satisfaction with artificial intelligence products and services.
+(E) EVALUATION.—Not later than 90 days after campaign materials are made available or distributed under subparagraph (B) or updated under subparagraph (C), the Secretary shall employ a private or nonprofit organization to conduct an evaluation on the effectiveness of the campaign using the performance measures developed pursuant to subparagraph (D).
+(3) MULTILINGUAL MATERIALS.—The Secretary shall ensure that the artificial intelligence consumer literacy materials and the campaign developed and disseminated under this subsection are available in English, Spanish, and other languages deemed appropriate by the Secretary.(d) Reports.—
+(1) ARTIFICIAL INTELLIGENCE CONSUMER LITERACY SURVEY REPORT.—Not later than 90 days after the date of enactment of this Act, the Government Accountability Office shall issue a report that—
+(A) summarizes all Federal programs and materials extant at the time of enactment of this Act that seek to improve artificial intelligence literacy for consumers; and
+(B) assesses the effectiveness of such programs.
+(2) STRATEGY FOR CONSUMER ARTIFICIAL INTELLIGENCE LITERACY REPORT.—Not later than 15 months after the date of enactment of this Act, and annually thereafter, the Secretary shall submit a report, titled the “Strategy for Consumer Artificial Intelligence Literacy” or “SCAIL Report”, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the progress of the Secretary in carrying out this Act. Such report shall include—
+(A) the national strategy for artificial intelligence consumer literacy developed pursuant to subsection (b);
+(B) information concerning the implementation of the duties of the Secretary described in this section, including a list of government officials and other representatives consulted pursuant to subsection (e);
+(C) an assessment of the success of the Secretary in implementing the national strategy developed pursuant to subsection (b);
+(D) an assessment of the state of artificial intelligence consumer literacy in the United States;
+(E) a brief summary of the artificial intelligence consumer literacy materials developed pursuant to subsection (c);
+(F) for years in which the campaign is active, a description on the status of the campaign and information regarding its dissemination, efficacy, and impact, including information on any evaluation of the campaign conducted pursuant to subsection (c)(2)(E);
+(G) information about the activities of the Secretary in implementing this Act planned for the next fiscal year; and
+(H) such other materials relating to the duties of the Secretary under this Act that the Secretary deems appropriate.
+(e) Consultation.—In carrying out this Act, the Secretary shall actively consult with—
+(1) government officials with relevant consumer and artificial intelligence expertise, including—
+(A) the Chair of the Consumer Product Safety Commission;
+(B) the Secretary of Education;
+(C) the Director of the National Institute of Standards and Technology;
+(D) the Director of the National Science Foundation; and
+(E) the Administrator of the Small Business Administration;
+(2) any other official the Secretary identifies as having relevant expertise, especially in the development of domain-specific artificial intelligence use cases, such as—
+(A) the Secretary of Agriculture;
+(B) the Director of the Consumer Financial Protection Bureau;
+(C) the Attorney General;
+(D) the Chair of the Federal Communications Commission;
+(E) the Chair of the Federal Trade Commission;
+(F) the Secretary of Health and Human Services; and
+(G) the Administrator of the National Highway Traffic Safety Administration; and
+(3) industry and public organizations that the Secretary identifies as having expertise, information, or knowledge relevant to artificial intelligence consumer literacy or dissemination of literacy materials to the public, including representatives from—
+(A) private, nonprofit, and public organizations; and
+(B) State, local, Tribal, and territorial governments.
+(f) Coordination Of Efforts.—The Secretary shall take such steps as are necessary to coordinate and promote artificial intelligence consumer literacy efforts at the State and local level, including promoting partnerships among Federal, State, and local governments, nonprofit organizations, and private enterprises.SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+There are authorized to be appropriated to the Secretary for fiscal years 2025 through 2034 such sums as may be necessary to carry out the activities described in this Act.

@@ -1,0 +1,48 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Federal Artificial Intelligence Risk Management Act of 2023”.SEC. 2. AGENCY USE OF ARTIFICIAL INTELLIGENCE.
+
+(a) Definitions.—In this section:
+(1) ADMINISTRATOR.—The term “Administrator” means the Administrator of Federal Procurement Policy.
+(2) AGENCY.—The term “agency” means any department, independent establishment, Government corporation, or other agency of the executive branch of the Federal Government.
+(3) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(4) DIRECTOR.—The term “Director” means the Director of the National Institute of Standards and Technology.
+(5) FRAMEWORK.—The term “framework” means document number NIST AI 100–1 of the National Institute of Standards and Technology entitled “Artificial Intelligence Risk Management Framework”, or any successor document.
+(6) PLAYBOOK.—The term “playbook” means the AI RMF Playbook developed by the National Institute of Standards and Technology.
+(7) PROFILE.—The term “profile” means an implementation of the artificial intelligence risk management functions, categories, and subcategories for a specific setting or application based on the requirements, risk tolerance, and resources of the framework user.
+(b) Requirements For Agency Use Of Artificial Intelligence.—
+(1) OMB GUIDANCE.—Not later than 180 days after the date on which the Director of the National Institute of Standards and Technology issues guidelines under paragraph (2), the Director of the Office of Management and Budget shall issue guidance requiring agencies to incorporate the framework and the guidelines into their artificial intelligence risk management efforts, consistent with such guidelines.
+(2) NIST GUIDELINES.—Not later than 1 year after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall, in consultation with the Administrator, issue guidance for agencies to incorporate the framework into the artificial intelligence risk management efforts of the agency, which shall—
+(A) provide standards, practices, and tools consistent with the framework and how they can leverage the framework to reduce risks to people and the planet for agency implementation in the development, procurement, and use of artificial intelligence;
+(B) specify appropriate cybersecurity strategies and the installation of effective cybersecurity tools to improve security of artificial intelligence systems;
+(C) provide standards—
+(i) that are consistent with the framework and Circular A–119 of the Office of Management and Budget;
+(ii) that are tailored to risks that could endanger people and the planet; and
+(iii) which a supplier of artificial intelligence for the agency must attest to meet before the head of an agency may procure artificial intelligence from that supplier;
+(D) recommend training on the framework and the guidelines for each agency responsible for procuring artificial intelligence;
+(E) set minimum requirements for developing profiles for agency use of artificial intelligence consistent with the framework; and
+(F) develop profiles for framework use for an entity that is a small business concern (as defined in section 3 of the Small Business Act (15 U.S.C. 632)).(3) ADDITIONAL REQUIREMENTS.—
+(A) DRAFT CONTRACT LANGUAGE.—The Administrator shall, in consultation with the Director, provide draft contract language for each agency to use in procurement that requires a supplier of artificial intelligence—
+(i) to adhere to certain actions that are consistent with the framework; and
+(ii) to provide appropriate access to data, models, and parameters, as defined by the Director, to enable sufficient test and evaluation, verification, and validation.
+(B) TEMPLATES.—The Director of the Office of Management and Budget shall, in consultation with the Director, provide a template for agency use on the guidance issued under paragraph (1) that includes recommended procedures for implementation.
+(4) CONFORMING REQUIREMENT.—The head of each agency shall conform any policy, principle, practice, procedure, or guideline governing the design, development, implementation, deployment, use, or evaluation of an artificial intelligence system by the agency to the framework and to the guidance issued under paragraph (1).
+(5) SUPPORTING MATERIAL.—In carrying out paragraph (4), the head of each agency may use the supporting materials of the framework, including the playbook.
+(6) STUDY.—Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study on the impact of the application of the framework on agency use of artificial intelligence.
+(7) REPORTING REQUIREMENT.—Not later than 1 year after the date of the enactment of this Act, and not less frequently than once every 3 years thereafter, the Director of the Office of Management and Budget shall submit to Congress a report on agency implementation of and conformity to the framework.
+(8) EXCEPTION FOR NATIONAL SECURITY SYSTEMS.—Nothing in this subsection shall apply to a national security system (as defined in section 3552 of title 44, United States Code).(c) Requirements For Agency Procurement Of Artificial Intelligence.—Not later than 1 year after the issuance of guidance pursuant to subsection (b)(1), the Federal Acquisition Regulatory Council shall promulgate regulations that provide for—
+(1) the requirements for the acquisition of artificial intelligence products, services, tools, and systems, to include risk-based compliance with the framework; and
+(2) solicitation provisions and contract clauses that include references to the requirements described in paragraph (1) and the framework for use in artificial intelligence acquisitions.(d) Artificial Intelligence Workforce.—
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall, in consultation with the Administrator of the General Services Administration, establish an initiative to provide to agencies expertise on artificial intelligence pursuant to requests for such expertise by the heads of such agencies.
+(2) ELEMENTS.—The initiative established pursuant to paragraph (1) shall include the following:
+(A) The recruitment and hiring of interdisciplinary experts who can assist agencies in the development, procurement, use, and assessment of artificial intelligence tools.
+(B) A process for establishing development and deployment guidelines and tools for managing artificial intelligence risks under which the initiative can assist agencies.
+(C) Consultation with existing initiatives, including United States Digital Service and the technology transformation services of the General Services Administration, to incorporate best practices for assisting agencies in the development, procurement, use, and assessment of artificial intelligence tools.(e) Testing And Evaluation Of Artificial Intelligence.—
+(1) STUDY.—Not later than 90 days after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall complete a study to review the existing and forthcoming voluntary consensus standards for the test, evaluation, verification, and validation of artificial intelligence acquisitions.
+(2) DEVELOPMENT OF VOLUNTARY CONSENSUS STANDARDS.—Not later than 90 days after the date of the completion of the study required by paragraph (1), the Director shall—
+(A) convene relevant stakeholders to develop voluntary consensus standards for the test, evaluation, verification, and validation of artificial intelligence acquisitions;
+(B) upon completion of the standards described in subparagraph (A) or within 1 year, whichever is sooner—
+(i) develop methods and principles, based on the standards described in subparagraph (A), for the conduct of test, evaluation, verification, and validation of artificial intelligence acquisitions;
+(ii) establish the resources for the conduct of test, evaluation, verification, and validation of artificial intelligence acquisitions;
+(iii) monitor and review all test, evaluation, verification, and validation of artificial intelligence acquisitions; and
+(iv) review and make recommendations to the head of each agency of risks to people and the plant on relevant artificial intelligence acquisitions; and
+(C) continuously update the methods and principles described in subparagraph (B)(i) based on evolving voluntary consensus standards.

@@ -1,0 +1,195 @@
+A BILL
+To improve the quality, appropriateness, and effectiveness of diagnosis in health care, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Improving Diagnosis in Medicine Act of 2024”.
+
+SEC. 2. Research program to improve diagnostic safety and quality.
+
+Part B of title IX of the Public Health Service Act (42 U.S.C. 299b et seq.) is amended by adding at the end the following:
+
+“SEC. 918. Research program to improve diagnostic safety and quality.
+
+“(a) In general.—The Director shall establish a comprehensive program of research and quality improvement to—
+
+“(1) assess and understand diagnostic errors, including diagnostic delays, and how to eliminate common failures in the diagnostic process that lead to significant patient harm; and
+
+“(2) identify, develop, implement, and disseminate evidence-based strategies and best practices for improving diagnostic quality, safety, and health care value.
+
+“(b) Activities.—The program established under subsection (a) shall include the following:
+
+“(1) CONTINUUM OF RESEARCH.—A portfolio of conducted and supported activities that is consistent with the research, implementation, and dissemination activities of the Center for Quality Improvement and Patient Safety, as described in section 933, including—
+
+“(A) investigator-initiated research to assess diagnostic errors and identify improved methods to prevent errors and the harm errors cause;
+
+“(B) translation and synthesis of research findings and development of tools for implementing prevention strategies into practice;
+
+“(C) implementation research to refine evidence-based tools for improving diagnostic processes and effectively integrate these solutions into practice; and
+
+“(D) dissemination to promote implementation of effective methods, strategies, and tools for wide-scale improvement, including identifying where digital- and artificial intelligence-enabled tools could be beneficial.
+
+“(2) RESEARCH CENTERS OF DIAGNOSTIC EXCELLENCE.—Consistent with section 911(b), the health care improvement research centers described in such section shall link research directly with clinical practice in geographically diverse locations throughout the United States, and may include—
+
+“(A) academic medical and institutional research centers that combine demonstrated multidisciplinary expertise in diagnostic outcomes or quality improvement research with linkages directly or through national, State or local stakeholder partner organizations to relevant sites of care; and
+
+“(B) provider-based research networks, including plan, facility, or delivery system sites of care (especially primary care), that can evaluate outcomes and evaluate and promote quality improvement approaches.
+
+“(3) FINANCIAL ASSISTANCE.—The Director may provide financial assistance to assist in meeting the costs of planning and establishing new centers, as well as operating existing and new centers, pursuant to section 902(c).
+
+“(4) STAKEHOLDER ENGAGEMENT.—The Director shall identify and enter into a supporting agreement, pursuant to a grant or contract, with a nonprofit entity that convenes a coalition of diverse health care stakeholders for the purpose of—
+
+“(A) raising attention to diagnostic safety and quality concerns;
+
+“(B) facilitating learning, adoption, and dissemination of effective quality improvement interventions; and
+
+“(C) catalyzing novel actions by individual member organizations to reduce harms from diagnostic error and improve patient outcomes.
+
+“(c) Authorization of appropriations.—
+
+“(1) IN GENERAL.—To carry out this section, there are authorized to be appropriated $30,000,000 for fiscal year 2025, $35,000,000 for fiscal year 2026, $40,000,000 for fiscal year 2027, and $45,000,000 for each of fiscal years 2028 and 2029.
+
+“(2) RESERVATION.—Of the amount appropriated under paragraph (1) for a fiscal year, $700,000 shall be allocated to carrying out the purpose described in subsection (b)(4).
+
+“(3) AVAILABILITY.—Amounts appropriated under this section shall remain available until expended.”.
+
+SEC. 3. Fellowships and training grants.
+
+(a) Ruth Kirschstein awards.—Section 487(a) of the Public Health Service Act (42 U.S.C. 288(a)) is amended by adding at the end the following:
+
+
+“(5) For purposes of the program under this subsection, biomedical and behavioral research includes diagnostic safety and quality research.”.
+
+(b) AHRQ programs.—Section 902(b)(1) of the Public Health Service Act (42 U.S.C. 299a(b)(1)) is amended—
+
+(1) by inserting “and diagnostic safety and quality” after “subsection (a)”; and
+
+(2) by striking “under section 487(d)(3)” and inserting “for purposes of carrying out section 487”.
+
+SEC. 4. Quality measure development.
+
+Section 931(c)(2) of the Public Health Service Act (42 U.S.C. 299b–31(c)(2)) is amended—
+
+(1) by redesignating subparagraphs (B) through (J) as subparagraphs (C) through (K), respectively; and
+
+(2) by inserting after subparagraph (A) the following:
+
+“(B) diagnostic safety and quality;”.
+
+SEC. 5. Standardized data for diagnosis research and improvement.
+
+Section 937(f) of the Public Health Service Act (42 U.S.C. 299b–37(f)) is amended—
+
+(1) by striking “The Secretary” and inserting the following:
+
+“(1) IN GENERAL.—The Secretary”; and
+
+(2) adding at the end the following:
+
+“(2) CONSULTATION WITH EXPERT PANEL.—In carrying out paragraph (1), the Secretary, in coordination with the Director, the Administrator of the Centers for Medicare & Medicaid Services, the National Coordinator for Health Information Technology, the Director of the National Library of Medicine, the Chief Data Officer of the Department of Health and Human Services, and the Chief Artificial Intelligence Officer of the Department of Health and Human Services, shall convene an expert panel to consider and make recommendations regarding the types, sources, and availability of data needed to accelerate diagnostic safety and quality research, training, and measure development as specified in section 918, including—
+
+“(A) demographic data;
+
+“(B) the specificity, interoperability, and socio-technical aspects of electronic vocabularies and ontologies related to presenting symptoms, chief complaints, and the status of diagnosis (such as tentative, working, or confirmed); and
+
+“(C) the development and use of symptom-based clinical registries. Such panel shall consider enhanced data capabilities that are necessary to support both research and improvement of diagnostic safety and quality.”.
+
+SEC. 6. Interagency Council on Improving Diagnosis in Health Care.
+
+(a) Establishment.—The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall establish within the Office of the Secretary an interagency council to be known as the Interagency Council on Improving Diagnosis in Health Care (referred to in this section as the “Council”).
+
+(b) Objectives.—The objectives of the Council shall be the following:
+
+(1) Enhance the quality, appropriateness, and effectiveness of diagnosis in health care through—
+
+(A) the establishment and support of a broad base of scientific research;
+
+(B) the dissemination and implementation of the results of such research; and
+
+(C) the promotion of improvements in clinical and health system practices.
+
+(2) Identify and eliminate systemic barriers to supporting research in improving diagnosis in health care.
+
+(3) Identify knowledge gaps, research and data needs, and opportunities congruent with agency missions to strengthen the clinical and translational research pipeline to improve diagnostic safety and quality, including potential collaborative research initiatives among 2 or more agencies, offices, institutes, or centers within the Department of Health and Human Services or other Federal agencies or offices.
+
+(c) Membership.—
+
+(1) CHAIRPERSON.—The Director of the Agency for Healthcare Research and Quality (or the Director’s designee) shall be the Chairperson of the Council.
+
+(2) MEMBERS.—
+
+(A) IN GENERAL.—In addition to the Chairperson, the Council shall be comprised of the following:
+
+(i) At least 1 designee from each of the following, appointed by the head of the applicable department or agency:
+
+(I) The Centers for Disease Control and Prevention.
+
+(II) The Centers for Medicare & Medicaid Services.
+
+(III) The Department of Veterans Affairs.
+
+(IV) The Congressionally Directed Medical Research Program of the Department of Defense.
+
+(V) The Office of the National Coordinator for Health Information Technology.
+
+(VI) The Office of the Chief Data Officer of the Department of Health and Human Services.
+
+(VII) The Office of the Chief Artificial Intelligence Officer of the Department of Health and Human Services.
+
+(VIII) The Center for Devices and Radiological Health of the Food and Drug Administration.
+
+(ii) Designees from the National Institutes of Health, including a least 1 designee from each of the following:
+
+(I) The National Cancer Institute.
+
+(II) The National Center for Advancing Translational Sciences.
+
+(III) The National Institute of Allergy and Infectious Diseases.
+
+(IV) The National Heart, Lung, and Blood Institute.
+
+(V) The National Institute of Neurological Disorders and Stroke.
+
+(VI) The National Library of Medicine.
+
+(VII) The National Institute on Minority Health and Health Disparities.
+
+(VIII) The National Institute of Nursing Research.
+
+(IX) The Eunice Kennedy Shriver National Institute of Child Health and Human Development.
+
+(iii) Designees from such other national research institutes and national centers as may be appropriate, as determined by the Director of the National Institutes of Health.
+
+(B) ADDITIONAL MEMBERS.—In addition to the designees under subparagraph (A), the Council may include such other designees from Federal departments or agencies as the Chairperson of the Council determines appropriate.
+
+(C) DESIGNATION.—A person appointed to the Council as a designee shall be a senior official or employee of the department or agency whose responsibilities and subject matter expertise are relevant to the Council’s objectives listed in subsection (b), as determined by the designating official.
+
+(d) Strategic plan; reports.—
+
+(1) STRATEGIC FEDERAL PLAN TO IMPROVE DIAGNOSIS IN HEALTH CARE.—Not later than 18 months after the date of enactment of this Act, the Council shall develop, submit to the Secretary and Congress, and make publicly available a strategic plan, to be known as the Strategic Federal Plan to Improve Diagnosis, that, consistent with the objectives listed in subsection (b)—
+
+(A) identifies coordinated opportunities to enhance scientific research and reduce systemic barriers in order to improve diagnosis in health care; and
+
+(B) includes legislative and administrative policy recommendations, including opportunities to remove barriers to, and enhance, inter-agency coordination in the planning, conduct, and funding of, such research.
+
+(2) REPORTS TO CONGRESS.—Not later than July 31 of every odd-numbered year beginning with the first such year after the date of submission of the first Strategic Federal Plan to Improve Diagnosis under paragraph (1), the Council shall prepare, submit to the Secretary and Congress, and make publicly available an updated Strategic Federal Plan to Improve Diagnosis that includes—
+
+(A) such updates as the Council determines to be appropriate;
+
+(B) information on the overall progress of the Federal Government in reducing barriers to research on, and supporting projects to improve, diagnosis in health care; and
+
+(C) legislative and administrative policy recommendations, including addressing any needs for greater legislative authority to meet the objectives listed in subsection (b).
+
+(e) Authorization of appropriations.—To carry out this section, there are authorized to be appropriated $1,500,000 for each of fiscal years 2025 through 2029.
+
+SEC. 7. National academies report.
+
+(a) In general.—The Director of the Agency for Healthcare Research and Quality shall seek to enter into a contract with the National Academies of Sciences, Engineering, and Medicine under which such National Academies conducts a study and issues a report on disparities in diagnostic safety and quality that—
+
+(1) identifies what is known about the burden and causes of such disparities, including racial, ethnic, socioeconomic, age, gender, geography, language proficiency, and intersectional interactions; and
+
+(2) includes recommendations on specific actions that policymakers, researchers, clinicians, and other stakeholders can take to eliminate such burdens.
+
+(b) Authorization of appropriations.—To carry out this section, there is authorized to be appropriated $1,500,000 for fiscal year 2025, to remain available until expended.

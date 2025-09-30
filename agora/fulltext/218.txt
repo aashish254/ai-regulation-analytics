@@ -1,0 +1,13 @@
+SEC. 246. REPORT ON AUTONOMY INTEGRATION IN MAJOR WEAPON SYSTEMS.
+
+(a) Report Required.--Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on activities to resource and integrate autonomy software into appropriate systems to enable the continued operational capability of such systems in GPS-denied environments by fiscal year 2025.
+
+(b) Elements.--The report required under subsection (a) shall include--
+	(1) a list of systems, to be selected by the Secretary of Defense, which can be integrated with autonomy software as described in subsection (a) by fiscal year 2025;
+	(2) timelines for integrating autonomy software into the systems as identified under paragraph (1);
+	(3) funding requirements related to the development, acquisition, and testing of autonomy software for such systems;
+	(4) plans to leverage advanced artificial intelligence technologies, as appropriate, for such systems;
+	(5) plans for ensuring the safety and security of such systems equipped with autonomy software, including plans for testing, evaluation, validation, and verification of such systems; and
+	(6) a list of Department of Defense policies in effect as of the date of the report that would need to be modified or revoked in order to implement the software integration described in subsection (a).
+
+(c) Form.--The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.

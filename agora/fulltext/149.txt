@@ -1,0 +1,23 @@
+SEC. 9004. DEPARTMENT OF HOMELAND SECURITY REPORTS ON DIGITAL CONTENT FORGERY TECHNOLOGY. 
+
+(a) REPORTS REQUIRED.—Not later than one year after the Time period. date of enactment of this Act, and annually thereafter for 5 years, Consultation. the Secretary of Homeland Security, acting through the Under Secretary for Science and Technology of the Department of Homeland Security, and with respect to paragraphs (6) and (7) of subsection (b), in consultation with the Director of National Intelligence, shall submit to Congress a report on the state of digital content forgery technology. 
+(b) CONTENTS.—Each report produced under subsection (a) shall include the following: 
+(1) An assessment of the underlying technologies used to create or propagate digital content forgeries, including the evolution of such technologies and patterns of dissemination of such technologies. 
+(2) A description of the types of digital content forgeries, including those used to commit fraud, cause harm, harass, coerce, or silence vulnerable groups or individuals, or violate civil rights recognized under Federal law. 
+(3) An assessment of how foreign governments, and the proxies and networks thereof, use, or could use, digital content forgeries to harm national security. 
+(4) An assessment of how non-governmental entities in the United States use, or could use, digital content forgeries. 
+(5) An assessment of the uses, applications, dangers, and benefits, including the impact on individuals, of deep learning or digital content forgery technologies used to generate realistic depictions of events that did not occur. 
+(6) An analysis of the methods used to determine whether content is created by digital content forgery technology, and an assessment of any effective heuristics used to make such a determination, as well as recommendations on how to identify and address suspect content and elements to provide warnings to users of such content. 
+(7) A description of the technological countermeasures that are, or could be, used to address concerns with digital content forgery technology. 
+(8) Any additional information the Secretary determines appropriate. 
+(c) CONSULTATION AND PUBLIC HEARINGS.—In producing each report required under subsection (a), the Secretary may— 
+(1) consult with any other agency of the Federal Government that the Secretary considers necessary; and 
+(2) conduct public hearings to gather, or otherwise allow interested parties an opportunity to present, information and advice relevant to the production of the report. 
+
+(d) FORM OF REPORT.—Each report required under subsection (a) shall be produced in unclassified form, but may contain a classified annex. 
+
+(e) APPLICABILITY OF OTHER LAWS.— 
+(1) FOIA.—Nothing in this section, or in a report produced under this section, may be construed to allow the disclosure of information or a record that is exempt from public disclosure under section 552 of title 5, United States Code (commonly known as the ‘‘Freedom of Information Act’’). 
+(2) PAPERWORK REDUCTION ACT.—Subchapter I of chapter 35 of title 44, United States Code (commonly known as the ‘‘Paperwork Reduction Act’’), shall not apply to this section. 
+
+(f) DIGITAL CONTENT FORGERY DEFINED.—In this section, the term ‘‘digital content forgery technology’’ means the use of emerging technologies, including artificial intelligence and machine learning techniques, to fabricate or manipulate audio, visual, or text content with the intent to mislead.

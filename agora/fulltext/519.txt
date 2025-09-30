@@ -1,0 +1,131 @@
+ H. R. 4373
+
+
+To reauthorize the National Integrated Drought Information System, maintain a National Coordinated Soil Moisture Monitoring Network, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+June 27, 2023
+
+
+Mr. Collins (for himself, Mr. Baird, and Mr. Miller of Ohio) introduced the following bill; which was referred to the Committee on Science, Space, and Technology
+
+
+A BILL
+To reauthorize the National Integrated Drought Information System, maintain a National Coordinated Soil Moisture Monitoring Network, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Weather Information for Agriculture Act.”
+
+
+SEC. 2. NATIONAL INTEGRATED DROUGHT INFORMATION SYSTEM.
+
+
+(a) In General.—Section 3 of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d) is amended—
+
+
+(1) in subsection (b)—
+
+
+(A) in paragraph (5), by striking “and” after the semicolon;
+
+
+(B) in paragraph (6), by striking the period and inserting a semicolon; and
+
+
+(C) by adding at the end the following new paragraphs:
+
+
+“(7) advance and deploy next generation technologies related to drought and related publicly available data, such as forecasting capabilities utilizing artificial intelligence, machine learning, and cloud technologies; and
+
+
+“(8) strengthen observational networks and drought indicators across a variety of spatial and temporal scales by optimizing data and resources from across the Federal Government, including investigating and addressing gaps in snowpack monitoring, in-situ soil moisture monitoring, groundwater data, and rapid intensification events.”;
+
+
+(2) in subsection (c)—
+
+
+(A) in paragraph (2), by striking “and” after the semicolon;
+
+
+(B) in paragraph (3), by striking the period and inserting “; and”; and
+
+
+(C) by adding at the end the following new paragraph:
+
+
+“(4) in partnership with the National Mesonet Program, establish memoranda of understanding to provide coordinated, high-quality, nationwide drought information for the public good.”; and
+
+
+(3) by amending subsection (f) to read as follows:
+
+
+“(f) Modeling Update.—The Under Secretary, in partnership with the Climate Prediction Center of the National Weather Service, shall undertake an effort to migrate existing products to probabilistic forecasts and incorporate new and improved dynamical and statistical forecast modeling tools.”.
+
+ (b) Authorization Of Appropriations.—
+
+
+(1) IN GENERAL.—Section 4 of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d note) is amended to read as follows:
+
+
+“(d) Authorization Of Appropriations.—From amounts made available to Operations, Research, and Facilities of the National Oceanic and Atmospheric Administration, there are authorized to be appropriated to carry out this section the following:
+
+
+“(1) $15,000,000 for fiscal year 2024.
+
+
+“(2) $15,500,000 for fiscal year 2025.
+
+
+“(3) $16,000,000 for fiscal year 2026.
+
+
+“(4) $16,500,000 for fiscal year 2027.
+
+
+“(5) $17,000,000 for fiscal year 2028.”.
+
+
+(2) EFFECTIVE DATE.—The amendment made by paragraph (1) shall take effect and apply beginning on October 1, 2023.
+
+ SEC. 3. NATIONAL COORDINATED SOIL MOISTURE MONITORING NETWORK.
+
+
+(a) In General.—The Under Secretary shall support the development, deployment, and maintenance of soil moisture monitoring networks by managing the National Coordinated Soil Moisture Monitoring Network of the National Integrated Drought Information System under section 3 of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d) (in this section referred to as the “network”).
+
+
+(b) Activities.—The Under Secretary shall ensure the network includes activities that carry out the following:
+
+
+(1) Establishing a visible, user-friendly website.
+
+
+(2) Developing a set of criteria for high-quality data sources.
+
+
+(3) Supporting research necessary to develop or improve soil moisture monitoring products at the National scale.
+
+
+(4) Increasing the number of long-term, high-quality, in situ soil moisture monitoring stations across the United States.
+
+
+(5) Sharing methodologies and validation protocols with the private sector.
+
+
+(6) Engaging with the citizen science community.
+
+
+(7) Developing, releasing, and promoting new, nationwide point-based and gridded soil moisture data products that meet the needs of diverse end-user groups.
+
+
+(c) Partnerships.—In partnership with the National Integrated Drought Information System under section 3 of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d) and the National Mesonet Program, the network may establish memoranda of understanding to acquire and provide coordinated, high-quality, nationwide soil moisture information for the public good.
+
+
+(d) Definition.—In this section, the term “Under Secretary” has the meaning given such term in section 2 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501).

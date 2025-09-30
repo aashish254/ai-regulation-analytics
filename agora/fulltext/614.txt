@@ -1,0 +1,272 @@
+ H. R. 499
+
+
+To amend the Securities Exchange Act of 1934 to require certain additional annual disclosures by public companies and exchange-traded funds investing in companies with ties to the People’s Republic of China, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+January 25, 2023
+Mr. Fallon (for himself, Mr. Ellzey, Mr. Jackson of Texas, and Mr. Amodei) introduced the following bill; which was referred to the Committee on Financial Services
+
+
+A BILL
+To amend the Securities Exchange Act of 1934 to require certain additional annual disclosures by public companies and exchange-traded funds investing in companies with ties to the People’s Republic of China, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Securing American Families and Enterprises from People’s Republic of China Investments Act” or the “SAFE from PRC Investments Act”.
+
+ SEC. 2. ADDITIONAL DISCLOSURES TO PROTECT AMERICAN INVESTORS AND BUSINESSES.
+
+
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following:
+
+
+“(s) Additional Disclosures To Protect American Investors And Businesses.—
+
+
+“(1) IN GENERAL.—Each covered issuer that is required to file an annual report under section 13(a) or 15(d) shall disclose in that report the following:
+
+
+“(A) Whether a senior official of the national- or provincial-level governments of the People’s Republic of China (‘PRC’) sits on the board of directors of the issuer or any subsidiary of the issuer.
+
+
+“(B) Whether executive-level employees, senior directors, and board members of the issuer are members of the Communist Party of China.
+
+
+“(C) Whether executive-level employees, senior directors, and board members of the issuer have immediate family members that are senior officials of the Communist Party of China or the Government of the People’s Republic of China.
+
+
+“(D) Whether the issuer has a party branch or committee as part of the issuer’s corporate structure.
+
+
+“(E) With respect to the operations of the issuer located in the PRC—
+
+
+“(i) the amount of cash held;
+
+
+“(ii) any limits imposed by the Communist Party of China or the Government of the People’s Republic of China on the ability to take such cash out of the country; and
+
+
+“(iii) disclosure of investments, assets and liabilities, technology licensed or transferred, and financing or debt obligations involving PRC operations or from a PRC entity.
+
+
+“(F) The number of times executive-level employees of the issuer interact with senior officials of the Communist Party of China and the costs of those meetings and any transfer of goods, money, or services between issuer’s employees.
+
+
+“(G) The amount the issuer has expended on operations in the People’s Republic of China, both in total and for the prior fiscal year.
+
+
+“(H) The amount the issuer has expended on operations in the United States, both in total and for the prior fiscal year.
+
+
+“(I) The amount (both in total and for the prior fiscal year) that the issuer has spent on lobbying in the United States, including—
+
+
+“(i) whether the issuer or any subsidiary of the issuer has reported any sums under the Foreign Agents Registration Act of 1938; and
+
+
+“(ii) whether the issuer or any subsidiary of the issuer has reported any sums under the Lobbying Disclosure Act of 1995.
+
+
+“(J) Whether the Public Company Accounting Oversight Board is unable to inspect or investigate a registered public accounting firm retained by the issuer to prepare an audit report on the financial statement of the issuer.
+
+
+“(K) The amount of taxes and other fees the issuer paid to the Government of the People’s Republic of China on an annual basis.
+
+
+“(L) With respect to customer data—
+
+
+“(i) who has access to such data;
+
+
+“(ii) disclosure of instances when information is requested, arrangements that may allow passive or continuous access, efforts to protect such data, instances of cyber-attack, corporate or personnel disputes that involve potential breaches, and notification of other breaches; and
+
+
+“(iii) whether such data is stored in the United States and, if not, the country or territory in which such data is stored.
+
+
+“(M) For each subsidiary of the issuer located in the PRC, the information described under subparagraphs (A) through (L) with respect to such subsidiary.
+
+
+“(N) If the issuer or any subsidiary of the issuer located in the PRC produces goods or services that are part of a military-civil fusion strategy, whether the issuer has consulted with the People’s Liberation Army or the Ministry of State Security with regard to industrial policy.
+
+ “(2) DEFINITIONS.—In this subsection:
+
+
+“(A) COMMUNIST PARTY OF CHINA.—The term ‘Communist Party of China’ means the ruling party of the People’s Republic of China, including—
+
+
+“(i) party bodies at the national and sub-national level; and
+
+
+“(ii) any agency or instrumentality of the Communist Party of China.
+
+
+“(B) COVERED ISSUER.—The term ‘covered issuer’ means an issuer—
+
+
+“(i) that is—
+
+
+“(I) headquartered in the PRC (including the Hong Kong and Macau Special Administrative Regions);
+
+
+“(II) a branch or subsidiary of an issuer headquartered in the PRC; or
+
+
+“(III) a variable interest entity or other type of firm structured through a series of contracts or overlapping personnel—
+
+
+“(aa) that are tied to core operations in the PRC; or
+
+
+“(bb) controlled and owned by an issuer headquartered in the PRC; or
+
+
+“(ii) that—
+
+
+“(I) is domiciled in a tax haven jurisdiction or self-governing territories, including the Cayman Islands, British Virgin Islands, Bermuda, the Netherlands, Switzerland, Luxembourg, Singapore, the United Arab Emirates, the Bahamas, Cyprus, or Mauritius; and
+
+
+“(II) has the majority of the issuer’s business operations taking place or the majority of the issuer’s revenue generated in mainland China.
+
+
+“(C) GOVERNMENT OF THE PEOPLE’S REPUBLIC OF CHINA.—The term ‘Government of the People’s Republic of China’ means any of the following:
+
+
+“(i) Any national or sub-national governmental unit of the People’s Republic of China.
+
+
+“(ii) Any national or sub-national legislature of the People’s Republic of China.
+
+
+“(iii) Any national or sub-national People’s Political Consultative Conference of the People’s Republic of China.
+
+
+“(iv) Any national or sub-national judicial or prosecutorial body of the People’s Republic of China.
+
+
+“(v) Any national or sub-national supervision commission of the People’s Republic of China.
+
+
+“(vi) Any agency or instrumentality of the People’s Republic of China.
+
+
+“(D) IMMEDIATE FAMILY MEMBER.—The term ‘immediate family member’ shall include a spouse, domestic partner, mother, father, aunt, uncle, sibling, or child.
+
+
+“(E) MILITARY-CIVIL FUSION STRATEGY.—The term ‘military-civil fusion strategy’ means the strategy of the Communist Party of China aiming to mobilize non-military resources and expertise for military application, including—
+
+
+“(i) the development of technology, improvements in logistics, and other uses by the People’s Liberation Army; and
+
+
+“(ii) firms which develop and acquire advanced dual-use technology for military purposes.
+
+
+“(F) PRC.—The term ‘PRC’ means the People’s Republic of China.
+
+
+“(G) SENIOR OFFICIAL.—The term ‘senior official’, when used in connection with the Government of the People’s Republic of China or the Communist Party of China, means—
+
+
+“(i) an official with the rank of a deputy at the provincial or ministerial level (shengbu ji fu zhi) or higher; or
+
+
+“(ii) a chief at the bureau level (tingju ji zheng zhi) or higher.
+
+
+“(H) VARIABLE INTEREST ENTITY.—The term ‘variable interest entity’ means an entity where an investor has a controlling interest that is not based on holding the majority of voting rights.”.
+
+ SEC. 3. DISCLOSURES BY EXCHANGE TRADED FUNDS INVESTING IN CHINESE COMPANIES.
+
+
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), as amended by section 2, is further amended by adding at the end the following:
+
+
+“(t) Disclosures By Exchange Traded Funds Investing In Chinese Companies.—
+
+
+“(1) IN GENERAL.—Each exchange traded fund required to file an annual report under section 13(a) or 15(d) shall, if the fund invested in the securities of any PRC company during the reporting period, include in such report the following, with respect to each such PRC company:
+
+
+“(A) Who owns the company, including whether the company is owned by the Government of the People’s Republic of China or a PRC state-controlled entity.
+
+
+“(B) Whether the company operates a Communist Party of China branch or committee within the company’s corporate structure.
+
+
+“(C) Whether the company has any contractual agreements with the Government of the People’s Republic of China or the Communist Party of China or any agency or instrumentality of either.
+
+
+“(D) Whether the company has participated in the PRC’s industrial policies or has military or public security contracts.
+
+
+“(E) Whether any funding, direction, or other forms of control over the company are exercised by the Government of the People’s Republic of China or the Communist Party of China.
+
+
+“(F) Whether executive-level employees and board members of the company have immediate family members who are senior officials of the Communist Party of China or the Government of the People’s Republic of China or are themselves senior officials of the Communist Party of China or the Government of the People’s Republic of China.
+
+
+“(G) Whether the company is part of (including by reason of being a branch or subsidiary) or tied to (through a series of contracts or parallel corporate incorporations) firms or individuals sanctioned, restricted, or identified as tied to the People’s Liberation Army by the United States Government, including under—
+
+
+“(i) the Military End User List maintained by the Bureau of Industry and Security of the Department of Commerce;
+
+
+“(ii) the Non-SDN Chinese Military-Industrial Complex Companies List;
+
+
+“(iii) the Unverified List maintained by the Secretary of Commerce;
+
+
+“(iv) the List maintained by the Federal Communications Commission of equipment and services covered by section 2 of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1601);
+
+
+“(v) the Uyghur Forced Labor Prevention Act Entity List maintained by the Department of Homeland Security;
+
+
+“(vi) the list of covered issuers subject to a prohibition under section 104 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7214) maintained by the Securities and Exchange Commission; and
+
+
+“(vii) the Withhold Release Orders and Findings List maintained by the Commissioner of U.S. Customs and Border Protection.
+
+
+“(H) The types of products and services offered by the company.
+
+
+“(I) Whether the company has a contract with the United States Department of Defense.
+
+
+“(J) Whether the company produces a product or service that is used in the production of aircraft, spacecraft, semiconductor chips and equipment, batteries or battery components, facial recognition technology, artificial intelligence, telecommunications technology, energy production equipment, advanced medical devices, or pharmaceuticals or any such products related to the national technology and industrial base in the United States.
+
+
+“(K) Whether the company produces goods that would violate U.S. environmental law or U.S. civil liberties law if the goods were produced or used in the United States.
+
+
+“(L) Any business activities conducted by the company—
+
+
+“(i) with a privately held firm involved in China’s industrial, technology, and military modernization efforts based in the People’s Republic of China; or
+
+
+“(ii) with a Chinese state-controlled entity.
+
+
+“(M) Whether the company has ever had an audit of the same type and quality as typically used by an issuer of publicly traded securities.
+
+ “(2) DEFINITIONS.—In this subsection:
+
+
+“(A) EXCHANGE TRADED FUND.—The term ‘exchange traded fund’ has the meaning given that term under section 270.6c–11 of title 17, Code of Federal Regulations.
+
+
+“(B) OTHER DEFINITIONS.—The terms ‘Communist Party of China’, ‘Government of the People’s Republic of China’, ‘immediate family member’, and ‘PRC’ have the meaning given those terms, respectively, under subsection (s)(2).”.

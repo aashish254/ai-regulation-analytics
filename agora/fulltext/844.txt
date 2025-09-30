@@ -1,0 +1,20 @@
+1. REQUIREMENTS FOR PRIVATE PASSENGER AUTOMOBILE INSURERS.
+(a) Use Of Certain Factors And Income Proxies Prohibited.—It shall be unlawful for a private passenger automobile insurer, or any of its affiliate insurers, to take into consideration any of the factors described in subsection (b) relating to a consumer in determining that consumer’s eligibility for automobile insurance or in calculating the rate for that consumer.(b) Factors.—The factors referred to in subsection (a) are—
+(1) gender;
+(2) level of education;
+(3) occupation;
+(4) employment status;
+(5) home ownership status;
+(6) ZIP Code or adjacent ZIP Codes;
+(7) census tract;
+(8) marital status;
+(9) credit score or credit-based insurance score;
+(10) consumer report;
+(11) previous insurer; or
+(12) prior purchase of insurance of a consumer from that automobile insurer.(c) Submissions To FTC Regarding Certain Business Practices.—Not later than 1 year after the date of the enactment of this Act, and every 2 years thereafter, each private passenger automobile insurer, and each of its affiliate insurers, shall submit to the Federal Trade Commission such information as the Commission may require to demonstrate that the marketing, underwriting, rating, claims handling, and fraud investigations of such private passenger automobile insurer or affiliate insurer (as the case may be), and any algorithm or model used by such private passenger automobile insurer or affiliate insurer (as the case may be) for such marketing, underwriting, rating, claims handling, or fraud investigations, do not disparately impact any group of customers based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression.(d) Public Availability Of Information.—All underwriting rules and rate filings for use by any private passenger automobile insurer shall be available for public inspection and may not be considered proprietary trade secret information.(e) Reasonable Procedures To Assure Compliance.—No person shall be held liable for any violation of this Act if the person shows by a preponderance of the evidence that at the time of the alleged violation the person maintained reasonable procedures to assure compliance with the provisions of this Act.(f) Rules Of Construction.—
+(1) FACTORS AND METHODS INFLUENCING PREMIUMS.—For the purposes of this Act, a violation of subsection (a) shall be considered to have occurred whenever the consideration of any of the factors described in subsection (b) prevents the consumer from obtaining insurance at the lowest rate available to the consumer from a private passenger automobile insurer or any of its affiliates. Actions considered a violation of such subsection include the usage or consideration of any such factor resulting in—
+(A) the determination of a consumer’s eligibility for automobile insurance or the calculation of the rate for that consumer;
+(B) an action which prevents a consumer from receiving certain rebates or discounts;
+(C) an action which prevents a consumer from obtaining insurance from an automobile insurer or any of its affiliate companies;
+(D) a denial, cancellation, non-renewal, or change in policy or coverage terms; or
+(E) any other impact on a consumer’s premium for insurance.(2) AUTHORITY OF FEDERAL AND STATE AGENCIES.—Nothing in this Act is intended to affect the authority of any Federal or State agency to enforce a prohibition against unfair or deceptive acts or practices, including the making of false or misleading statements in connection with a credit or insurance transaction that is not initiated by the consumer.

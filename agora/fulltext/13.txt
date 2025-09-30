@@ -1,0 +1,15 @@
+SEC. 6742. CODE-FREE ARTIFICIAL INTELLIGENCE ENABLEMENT TOOLS POLICY.
+
+(a) Draft Policy.--Not later than 1 year after the date of the enactment of this Act, the Director of National Intelligence, in consultation with the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the National Reconnaissance Office, the Director of the National Geospatial-
+Intelligence Agency, and the Director of the Defense Intelligence Agency, and any additional heads of the elements of the intelligence community that the Director of National Intelligence determines appropriate, shall draft a potential policy to promote the intelligence community-wide use of code-free artificial intelligence enablement tools.
+(b) Elements.--The draft policy under subsection (a) shall include the following:
+	(1) The objective for the use by the intelligence community of code-free artificial intelligence enablement tools.
+	(2) A detailed set of incentives for using code-free artificial intelligence enablement tools.
+	(3) A plan to ensure coordination throughout the intelligence community, including consideration of designating an
+official of each element of the intelligence community to oversee implementation of the policy and such coordination.
+(c) Submission.--Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives the following:
+	(1) The draft policy under subsection (a).
+	(2) A recommendation regarding the feasibility and advisability of implementing the draft policy, including an assessment of the costs and advantages and disadvantages of such implementation.
+	(3) An assessment of whether any element of the intelligence community already has a similar existing policy.
+	(4) A specific plan and timeline of the steps that would be necessary to implement the draft policy.
+	(5) An assessment of the personnel requirements, budget requirements, and any other resource requirements, that would be necessary to implement the draft policy in the timeline identified in paragraph (4).

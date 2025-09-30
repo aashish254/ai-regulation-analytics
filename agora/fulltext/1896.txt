@@ -1,0 +1,163 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Chinese Military and Surveillance Company Sanctions Act of 2024”.
+
+SEC. 2. Findings and sense of Congress.
+
+(a) Findings.—Congress finds the following:
+
+(1) Under Executive Order 13959 of November 17, 2020, the President found that the People’s Republic of China “increases the size of the country’s military-industrial complex by compelling civilian Chinese companies to support its military and intelligence activities. Those companies, though remaining ostensibly private and civilian, directly support the PRC’s military, intelligence, and security apparatuses and aid in their development and modernization.”. The President further determined that “the PRC exploits United States investors to finance the development and modernization of its military.”. As a result, Executive Order 13959 restricted transactions in publicly traded securities of Communist Chinese military companies listed pursuant to section 1237 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 50 U.S.C. 1701 note).
+
+(2) Although Executive Order 13959 targets transactions in some public securities, it does not fully address all public securities of concern or address financing options for Communist Chinese military companies through other forms of equity financing or debt financing, nor does it limit transactions with United States persons that may generate earnings in a manner that facilitates company growth.
+
+(3) The Office of Foreign Assets Control of the Department of the Treasury, by blocking the assets of certain entities pursuant to certain specific delegated authorities and including those entities on the list of specially designated nationals and blocked persons (commonly referred to as the “SDN list”), is able to forbid virtually any transaction between United States persons and such entities, including debt and equity financing and the exchange of goods and services. Conversely, restrictions limited to publicly traded securities are less comprehensive, and in the case of certain Chinese companies of concern, may be of limited impact if the companies do not issue such securities or the full corporate family is not adequately covered.
+
+(4) While Executive Order 13959 applies only to the purchase or sale of certain publicly traded securities by United States persons, the Office of Foreign Assets Control’s inclusion of a foreign entity on the SDN list imposes a broader sanction by blocking the property and interest in property of the entity, which may further deter third-country persons from dealing with it, amplifying the effects of United States sanctions globally.
+
+(5) The Office of Foreign Assets Control has long devoted significant resources to compiling evidence in support of its sanctions, which enhances the effectiveness of United States sanctions, encourages allies to consider comparable measures, and strengthens national security.
+
+(6) On June 3, 2021, the President issued Executive Order 14032, which amended Executive Order 13959 by exclusively delegating authority for naming Chinese military companies subject to investment restrictions to the Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, the Secretary of Defense, and expanded restrictions to entities that operate or have operated in the surveillance technology sector of the Chinese economy.
+
+(b) Sense of Congress.—It is the sense of Congress that—
+
+(1) it is in the national interest of the United States to more fully address the economic threat that the Chinese Communist Party poses to United States freedom and prosperity;
+
+(2) the United States must adopt policies that declare and defend the interests of the United States and deter the aggression of the Chinese Communist Party; and
+
+(3) the national emergency declared under Executive Order 13959 calls for the United States—
+
+(A) to more fully cut off financing avenues for Communist Chinese military and surveillance companies;
+
+(B) to prevent adaptation by a company to partial restrictions that are limited to publicly traded securities;
+
+(C) to ensure that the United States assembles an appropriate evidentiary basis to support the effectiveness of sanctions;
+
+(D) to enhance the impact of economic sanctions by deterring third-country persons from dealing with the companies; and
+
+(E) to link the imposition of sanctions to clear objectives that serve to resolve the national emergency.
+
+SEC. 3. Sanctions with respect to Communist Chinese military and surveillance companies.
+
+(a) In general.—On and after the date that is 180 days after the date of the enactment of this Act, the President shall impose the sanction described in subsection (c) with respect to any foreign person described in subsection (b).
+
+(b) Foreign person described.—A foreign person described in this subsection is any foreign person the President determines is knowingly operating in the defense sector, military-civil fusion operations sector, or surveillance technology sector of the economy of the People’s Republic of China.
+
+(c) Sanction described.—The President shall prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the foreign person described in subsection (b) has any interest.
+
+(d) Additional measure relating to facilitation of certain transactions.—The President shall prohibit or impose strict conditions on the opening or maintaining in the United States of a correspondent account or payable-through account by a foreign financial institution that the President determines has, on or after the date that is 180 days after the date of the enactment of this Act, knowingly conducted or facilitated a significant transaction or transactions on behalf of a foreign person described in subsection (b).
+
+(e) Congressional requests.—Not later than 30 days after receiving a request from the chairman or ranking member of one of the appropriate congressional committees with respect to whether a person meets the criteria for the imposition of sanctions under subsection (c) or (d), the President shall—
+
+(1) determine if the person meets such criteria; and
+
+(2) submit a report to the chairman or ranking member, as the case may be, who submitted the request with respect to that determination that includes a statement of whether or not the President imposed or intends to impose sanctions with respect to the person.
+
+(f) Determinations and reports.—
+
+(1) IN GENERAL.—Not later than one year after the date of the enactment of this Act, and annually thereafter, the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Commerce, and the Secretary of Defense, shall—
+
+(A) determine whether each foreign person on a list specified in paragraph (2), and each entity described in paragraph (3), meets the criteria for the imposition of sanctions under subsection (c) or (d); and
+
+(B) submit to the appropriate congressional committees a report explaining the results of each such determination.
+
+(2) LISTS SPECIFIED.—The lists specified in this paragraph are the following:
+
+(A) The Consolidated Screening List of the Federal Government.
+
+(B) The list of Chinese military companies operating directly or indirectly in the United States maintained by the Secretary of Defense under section 1260H(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 113 note).
+
+(C) A list maintained under clause (i), (ii), (iv), or (v) of section 2(d)(2)(B) of the Act entitled “An Act to ensure that goods made with forced labor in the Xinjiang Autonomous Region of the People’s Republic of China do not enter the United States market, and for other purposes”, approved December 23, 2021 (Public Law 117–78; 22 U.S.C. 6901 note) (commonly referred to as the “Uyghur Forced Labor Prevention Act”).
+
+(3) ENTITIES DESCRIBED.—An entity is described in this paragraph if the entity produces equipment or services on the list of communications equipment and services that pose an unacceptable risk to the national security of the United States or the security and safety of United States persons maintained by the Federal Communications Commission under section 2 of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1601).
+
+(g) Consideration of certain activities.—In making determinations with respect to the imposition of sanctions under subsection (c) or (d), the Secretary of the Treasury may, if practicable, focus particular attention on foreign persons engaged in any of the following:
+
+(1) Artificial intelligence, machine learning, autonomy, and related advances.
+
+(2) High-performance computing, semiconductors, and advanced computer hardware and software.
+
+(3) Quantum information science and technology.
+
+(4) Robotics, automation, and advanced manufacturing.
+
+(5) Advanced communications technology and immersive technology.
+
+(6) Biotechnology, medical technology, genomics, and synthetic biology.
+
+(7) Data storage, data management, and cybersecurity, including biometrics.
+
+(8) Advanced materials science, including composites and 2 dimensional materials.
+
+(9) Hypersonic flight technologies for glide or any other purposes.
+
+(10) Space-related technologies, including satellite communications.
+
+(11) Aviation and aerospace technologies.
+
+(12) Any other area on the Critical and Emerging Technologies List of the National Science and Technology Council.
+
+(h) Implementation; penalties.—
+
+(1) IMPLEMENTATION.—The President may exercise the authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to the extent necessary to carry out this section.
+
+(2) PENALTIES.—A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+(i) Waiver.—
+
+(1) IN GENERAL.—The President may, for renewable periods of not to exceed 180 days, waive the application of this section with respect to a foreign person if the President certifies to the appropriate congressional committees that such a waiver is in the national security interests of the United States.
+
+(2) BRIEFING.—Not later than 90 days after the issuance of a waiver under paragraph (1), and every 180 days thereafter while the waiver remains in effect, the President shall brief the appropriate congressional committees on the reasons for the waiver.
+
+(j) Exceptions.—
+
+(1) INTELLIGENCE AND LAW ENFORCEMENT ACTIVITIES.—Sanctions under this section shall not apply with respect to—
+
+(A) any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.); or
+
+(B) any authorized intelligence or law enforcement activities of the United States.
+
+(2) HUMANITARIAN ACTIVITIES.—The President may not impose sanctions under this section with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices or for the provision of humanitarian assistance.
+
+(k) Regulatory requirements.—
+
+(1) IN GENERAL.—The President shall, not later than 180 days after the date of the enactment of this Act, prescribe such regulations as are necessary for the implementation of this section.
+
+(2) NOTIFICATION TO CONGRESS.—Not later than 10 days before prescribing regulations under paragraph (1), the President shall notify the appropriate congressional committees regarding the proposed regulations and the provisions of this section that the regulations are implementing.
+
+(l) Sunset.—The authority to impose sanctions under this section shall terminate on the date that is 7 years after the date of the enactment of this Act.
+
+(m) Definitions.—In this section:
+
+(1) ACCOUNT; CORRESPONDENT ACCOUNT; PAYABLE-THROUGH ACCOUNT.—The terms “account”, “correspondent account”, and “payable-through account” have the meanings given those terms in section 5318A of title 31, United States Code.
+
+(2) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+
+(A) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs; and
+
+(B) the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Homeland Security of the House of Representatives.
+
+(3) EXECUTIVE ORDER 13959.—The term “Executive Order 13959” means Executive Order 13959 (50 U.S.C. 1701 note; relating to addressing the threat from securities investments that finance Communist Chinese military companies), as in effect on the date of the enactment of this Act, including as most recently amended before such date of enactment by Executive Order 14032 (86 Fed. Reg. 30145).
+
+(4) FOREIGN PERSON.—The term “foreign person” means an individual or entity that is not a United States person.
+
+(5) KNOWINGLY.—The term “knowingly” with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+(6) UNITED STATES PERSON.—The term “United States person” means—
+
+(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States;
+
+(B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
+
+(C) a person in the United States.
+
+SEC. 4. Codification of Executive Order 13959.
+
+(a) In general.—Executive Order 13959 (50 U.S.C. 1701 note; relating to addressing the threat from securities investments that finance Communist Chinese military companies), as in effect on the date of the enactment of this Act, and sanctions imposed pursuant to that Executive Order, shall remain in effect until terminated by an Act of Congress.
+
+(b) Annex.—Not less frequently than annually, the President shall—
+
+(1) update the Annex to Executive Order 13959; and
+
+(2) include, with respect to each entity included in that Annex, any subsidiary or affiliate of the entity that engages in activities relating to the reason the entity is included in the Annex

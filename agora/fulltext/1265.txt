@@ -1,0 +1,5 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Civilian Agency AI Watermark Act”.
+SEC. 2. CIVILIAN AGENCY ARTIFICIAL INTELLIGENCE WATERMARK SYSTEM.
+(a) In General.—Not later than eight months after the date of the enactment of this Act, the Secretary of Homeland Security shall seek to consult with the Director of the National Institute of Standards and Technology and the Director of the United States Patent and Trademark Office regarding development of an artificial intelligence watermark and trademark system to identify Federal agency approved artificial intelligence applications for civilian agency use.
+(b) Authorization Of Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security each fiscal year to carry out this section such sums as may be necessary.

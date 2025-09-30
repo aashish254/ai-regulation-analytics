@@ -1,0 +1,34 @@
+S. 1993
+
+
+To waive immunity under section 230 of the Communications Act of 1934 for claims and charges related to generative artificial intelligence.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+June 14, 2023Mr. Hawley (for himself and Mr. Blumenthal) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+
+
+To waive immunity under section 230 of the Communications Act of 1934 for claims and charges related to generative artificial intelligence.Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. NO SECTION 230 IMMUNITY FOR CLAIMS AND CHARGES RELATED TO GENERATIVE ARTIFICIAL INTELLIGENCE.
+
+
+Section 230 of the Communications Act of 1934 (47 U.S.C. 230) is amended—
+
+
+(1) in subsection (e), by adding at the end the following:
+
+
+“(6) NO EFFECT ON CLAIMS RELATED TO GENERATIVE ARTIFICIAL INTELLIGENCE.—Nothing in this section (other than subsection (c)(2)(A)) shall be construed to impair or limit any claim in a civil action or charge in a criminal prosecution brought under Federal or State law against the provider of an interactive computer service if the conduct underlying the claim or charge involves the use or provision of generative artificial intelligence by the interactive computer service.”; and
+
+
+(2) in subsection (f), by adding at the end the following:
+
+
+“(5) GENERATIVE ARTIFICIAL INTELLIGENCE.—The term ‘generative artificial intelligence’ means an artificial intelligence system that is capable of generating novel text, video, images, audio, and other media based on prompts or other forms of data provided by a person.”.

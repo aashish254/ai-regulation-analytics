@@ -1,0 +1,199 @@
+An Executive Order relating to transparency and accountability in the use of surveillance
+technologies used for law enforcement and public safety purposes by the City of St. Louis Metropolitan
+Police Department (“SLMPD”):
+WHEREAS, governments have a responsibility to respect and protect democratic principles,
+human rights, and fundamental freedoms; and
+WHEREAS, governments should be transparent regarding the types of surveillance technologies
+they use for law enforcement purposes and the expenditure of public funds for such technologies; and
+WHEREAS, governments should be transparent regarding the retention, destruction, and access
+to information and data collected through surveillance technologies; and
+WHEREAS, the responsible use of surveillance technologies for law enforcement purposes
+works to protect individual privacy, personal data, human rights and fundamental freedoms, and fosters
+transparency, accountability, and civic participation, while appropriately and effectively pursuing
+legitimate public safety objectives; and
+WHEREAS, when used responsibly and in a manner consistent with democratic principles,
+human rights, and fundamental freedoms, surveillance technologies can ensure the rights and liberties of
+City residents are maintained, while serving as important tools for protecting, preserving, and promoting
+public safety; and
+WHEREAS, governments should also hold any vendors of surveillance technology being used
+for law enforcement purposes accountable for protecting individual privacy, personal data, human rights,
+fundamental freedoms, and for upholding transparency and accountability; and
+WHEREAS, SLMPD has taken important steps to provide transparency into their policies
+pertaining to use of surveillance technologies, and building further upon them through executive action
+ensures they will remain the policy of the City of St. Louis long-term;
+NOW, THEREFORE I, TISHAURA O. JONES, MAYOR OF THE CITY OF ST. LOUIS,
+DO HEREBY DECLARE AND ORDER AS FOLLOWS, EFFECTIVE IMMEDIATELY:
+SECTION ONE. Definitions.
+A. For the purposes of this Executive Order, the following terms shall have the following definitions:
+a. “Artificial Intelligence,” a machine-based system that can, for a given set of
+human-defined objectives, make predictions, recommendations, or decisions influencing
+real or virtual environments, and which uses machine- and human-based inputs to:
+perceive real and virtual environments; abstract such perceptions into models through
+analysis in an automated manner; and use model inference to formulate options for
+information or action. This definition shall comply with the meaning set forth in 15
+U.S.C. 9401(3);
+b. “Acquisition” or “acquire,” to obtain, purchase, lease, subscribe to a service, rent, borrow,
+create, develop, accept grant or other public funds, in-kind or other donations, or
+otherwise use surveillance technology, with or without exchange or monies,
+consideration, or fees;
+c. “Criminal Intelligence Information,” data which has been evaluated by the St. Louis
+Metropolitan Police Department (“SLMPD”) to determine that it is relevant to the
+identification of and the criminal activity engaged in by an individual who or
+organization which is reasonably suspected of involvement in criminal activity;
+d. “Criminal Intelligence System,” the arrangements, equipment, facilities, and procedures
+used for the receipt, storage, interagency exchange or dissemination, and analysis of
+criminal intelligence information operating through support under the Omnibus Crime
+Control and Safe Streets Act of 1968, 42 U.S.C. § 3711, et seq., as amended and 28
+C.F.R. Part 23;
+e. “Surveillance Technology,” equipment, devices, software, or systems capable of, or used
+or designed for, collecting, retaining, processing, intercepting, monitoring, analyzing, or
+sharing audio, video, digital, location, thermal, biometric, behavioral, or similar
+information or communications which are specifically associated with, or capable of
+being associated with, any specific individual or group, activities, behavior, or changing
+conditions, operated by or at the direction of the SLMPD for the purpose of aiding in the
+prevention of criminal activity or the investigation of suspected criminal activity.
+i. For the purposes of this Executive Order, “Surveillance Technology” shall not
+include the following:
+1. Technology that monitors City employees related to their employment
+and their performance of official duties, whether they are on or off duty;
+2. Technology that is used for the protection of City physical and
+information technology infrastructure;
+3. Police radio and dispatch systems;
+4. Software used by the SLMPD to access information held on
+lawfully-obtained devices within the SLMPD’s custody; or
+5. Any of the following unless they have been equipped with or are
+modified to become or include, a surveillance technology, as defined
+herein:
+a. Routine office hardware, such as televisions, computers, and
+printers, that are in widespread public use;
+b. Parking ticket devices;
+c. Devices that are not capable of recording, transmission,
+retention, or remote access; or
+d. Routine recording technology used in forums in which consent
+of all parties recorded is obtained.
+SECTION TWO. Use of Surveillance Technology and Artificial Intelligence.
+A. The SLMPD shall not collect surveillance technology information for the purpose of surveilling
+political, religious or social views, or associations of any individual or any group, association,
+corporation, business, partnership, or other organization, unless criminal intelligence information
+directly relates to criminal conduct or activity and there is reasonable suspicion that the subject of
+the information is or may be involved in criminal conduct or activity, or the criminal intelligence
+information serves a legitimate public safety purpose to mitigate risks to life or bodily harm.
+B. The SLMPD’s use of any artificial intelligence for criminal intelligence information shall uphold
+the legal principles of reasonable suspicion of criminal conduct or activity and relevancy to that
+criminal conduct or activity.
+C. The SLMPD’s participation in any criminal intelligence system must adhere to 28 C.F.R. Part 23.
+D. Nothing in this Order shall be deemed to impede the performance of a police officer’s duties in
+violation of Section 84.341 of the Revised Statutes of Missouri, nor shall this Order prohibit:
+a. The collection, maintenance, use, or storage of data from the City’s fixed or mobile
+cameras installed or deployed to monitor public areas (including streets, sidewalks,
+alleys, parks, and plazas) for purposes of security, crime detection, and investigation of
+ordinance violations;
+b. The collection, maintenance, use, or storage of data obtained from privately-owned
+cameras that monitor public areas for purposes of security, crime detection, and
+investigation of ordinance violations;
+c. The collection, maintenance, use, or storage of data from cameras installed on City police
+vehicles or from body-worn cameras;
+d. The use of data lawfully obtained in the course of an investigation of a crime or
+ordinance violation; or
+e. The retention of records otherwise required by law.
+E. The SLMPD shall create and make publicly available written policies for its use of any
+surveillance technology and its use of any artificial intelligence systems. Such policies shall be in
+compliance with applicable federal and state laws and regulations. For each surveillance
+technology or artificial intelligence system, such policies shall include:
+a. A description of the technology and its capabilities;
+b. Rules, processes, or guidelines for the SLMPD’s use of such technology;
+c. Rules, processes, or guidelines relating to the retention, access, and use of data and
+information collected by such surveillance technology.
+F. The SLMPD shall ensure that criminal intelligence system information collected through
+surveillance technology is obtained and used in compliance with applicable federal or state laws
+and regulations as well as City ordinances.
+G. Nothing in this ordinance shall limit the ability of the SLMPD to access, collect, or disseminate
+criminal intelligence information gathered through surveillance technology or artificial
+intelligence technology when necessary to avoid imminent danger to life or property.
+SECTION THREE. Annual Transparency Report on Surveillance Technology Use.
+A. Annually, the Police Commissioner shall provide a report on the SLMPD’s use of surveillance
+technology to the Board of Aldermen’s Committee on Public Safety, or its successor. Such report
+shall be public and include, but not be limited to, the following information:
+a. A description of the capabilities of each type of surveillance technology in use by the
+SLMPD, including any artificial intelligence systems utilized as part of surveillance
+technology;
+b. How many units of each surveillance technology the SLMPD possesses;
+c. Metrics used to measure the impact of existing surveillance technology on crime
+reduction;
+d. The amount and type of funding expended to acquire or use surveillance technology
+during the previous fiscal year;
+e. The number of vehicles identified by SLMPD license plate reader cameras;
+f. Storage policies for surveillance data collected by the SLMPD;
+g. A list of resident complaints or comments related to the SLMPD’s use of surveillance
+technology received by the SLMPD. No personally identifying information shall be
+included as part of this list;
+h. Aldermanic requests for the use of surveillance technology by ward;
+i. As permitted by law, a list of task force memberships and/or routine partner agencies that
+may utilize surveillance technology that is not acquired by SLMPD; and
+j. General information regarding the deployment of surveillance technology.
+SECTION FOUR. Transparency in Surveillance Technology Appropriations.
+A. As part of their annual budget request, the SLMPD shall provide to the City’s Budget Division
+line-item detail regarding funding to acquire or use surveillance technology within the previous
+fiscal year.
+B. This information shall also be provided by the Police Commissioner to the Board of Aldermen
+Committee on Public Safety, or its successor, as part of the annual report as provided under
+Section Three of this Executive Order.
+SECTION FIVE. Missouri Sunshine Law Compliance.
+A. Nothing in this executive order shall be interpreted to mandate the public disclosure of
+information that is required by law to be a closed record, or the releasing of a record.
+SECTION SIX. Oversight Over Surveillance Technology and Artificial Intelligence Vendors.
+A. The SLMPD shall consult with the City’s Information Technology Services Agency when making
+any purchase of any surveillance technology or artificial intelligence technology following the
+effective date of this ordinance.
+B. Any vendor providing an artificial intelligence technology used by the SLMPD to collect and
+maintain criminal intelligence information concerning an individual or entity shall not provide
+access to, share, sell, or otherwise make available or accessible criminal intelligence information
+or data the vendor collects through such a system to or for any individuals, parties, or entities who
+are not authorized by the SLMPD to access such criminal intelligence information or data, other
+than individuals, parties, or entities involved in the prosecution of, defense against, or
+adjudication of an alleged violation of federal, state, or local laws or ordinances.
+C. In no instance shall any vendor providing surveillance technology or an artificial intelligence
+technology used by the SLMPD to collect and maintain criminal intelligence information
+concerning an individual or entity sell or otherwise provide access to, share, or otherwise make
+available or accessible the criminal intelligence information or data collected through such system
+for anything of value, unless authorized pursuant to Subsection B of this Section and a
+Memorandum of Understanding.
+D. Within six months of the effective date of this ordinance, the SLMPD shall identify for the
+Director of the Department of Public Safety any contracts which may not be compliant with
+subsections B and C of this section.
+SECTION SEVEN. Surveillance Technology and Artificial Intelligence Technology Information
+Access.
+A. In no instance shall the SLMPD provide access to, share, or otherwise make available or
+accessible the criminal intelligence information or data collected through any surveillance
+technology or artificial intelligence technology utilized by the SLMPD, to or for any individuals,
+parties, or entities who are not authorized by the SLMPD to access such criminal intelligence
+information or data, other than individuals, parties, or entities involved in the law enforcement
+investigation, legal prosecution of, legal defense against, or legal adjudication of an alleged
+violation of federal or state laws or local ordinances.
+B. The SLMPD shall create and make publicly available written policies for the need to know and
+right to know standards for use and dissemination of its criminal intelligence information to other
+law enforcement agencies. Such policies shall be in compliance with applicable federal and state
+laws and regulations.
+C. All access to criminal intelligence information and data collected or maintained by the SLMPD
+through the SLMPD’s use of surveillance technology shall be provided in compliance with
+applicable federal and state laws and regulations.
+SECTION EIGHT. Surveillance Technology Information Retention and Storage.
+A. Any criminal intelligence system utilized by the SLMPD shall comply with the provisions of
+Subsection C of Section Two of this Executive Order.
+B. Within six months of the effective date of this ordinance, the SLMPD shall identify for the
+Director of the Department of Public Safety any contracts which may not be compliant with
+Subsection A of this section.
+C. Criminal intelligence information collected by the SLMPD as a result of the use of surveillance
+technology shall be stored in a manner such that it cannot be modified, destroyed, accessed or
+purged contrary to the Missouri Police Clerks Records Retention Schedule and policy set forth by
+the Police Commissioner.
+D. The SLMPD shall create and make publicly available written policies for the storage and
+retention of criminal intelligence information collected through the SLMPD’s criminal
+intelligence systems. Such policies shall be in compliance with applicable federal and state laws
+and regulations, including but not limited to laws and regulations pertaining to the review,
+retention, and destruction of criminal intelligence information.
+E. All storage and retention of criminal intelligence information and data collected or maintained by
+the SLMPD through the SLMPD’s use of surveillance technology shall be done in compliance
+with applicable federal and state laws and regulations.
+IN WITNESS WHEREOF, I have hereunto set my hand and caused to be affixed the Seal of the
+City of St. Louis this 23rd day of February, 2024

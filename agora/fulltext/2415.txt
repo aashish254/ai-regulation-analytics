@@ -1,0 +1,126 @@
+SECTION 1. Chapter 25.1 (commencing with Section 22757.20) is added to Division 8 of the Business and Professions Code, to read:
+
+CHAPTER  25.1. Leading Ethical AI Development (LEAD) for Kids
+22757.20. This chapter shall be known as the Leading Ethical AI Development (LEAD) for Kids Act.
+22757.21. For purposes of this chapter:
+(a) “Adverse impact” means a significant negative impact to a child’s health, safety, privacy, educational opportunities or outcomes, or access to essential services or benefits.
+(b) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+(c) “Biometric information” has the meaning defined in Section 1798.140 of the Civil Code.
+(d) “Board” means the LEAD for Kids Standards Board created pursuant to this chapter.
+(e) “Child” means a natural person under 18 years of age who resides in this state.
+(f) “Companion chatbot” means a generative artificial intelligence system with a natural language interface that provides adaptive, human-like responses to user inputs and is intended to, or foreseeably will, be used to meet a user’s social needs, exhibits anthropomorphic features, and is able to sustain a relationship with the user across multiple interactions.
+(g) “Consent” means affirmative, written agreement to a specific purpose that is disclosed in clear and conspicuous terms to the parent or guardian.
+(h) “Covered product” means an artificial intelligence system that is intended to, or highly likely to, be any of the following:
+(1) Used by children.
+(2) Used to process a child’s personal information.
+(3) Applied directly to a child.
+(i) “Deployer” means a person, partnership, state or local governmental agency, corporation, or developer that uses a covered product for a commercial or public purpose.
+(j) “Developer” means a person, partnership, state or local governmental agency, corporation, or deployer that designs, codes, substantially modifies, or otherwise produces a covered product.
+(k) “Generative artificial intelligence” means artificial intelligence that can generate derived synthetic content, including text, images, video, and audio, that emulates the structure and characteristics of the artificial intelligence’s training data.
+(l) “Incident” means a discreet occurrence of an adverse impact to a child caused by a covered product.
+(m) “Personal information” has the meaning defined in Section 1798.140 of the Civil Code.
+(n) “Risk” means the composite measure of an event’s likelihood of occurring and the magnitude or degree of any adverse impact of the corresponding event.
+(o) “Risk level assessment” means a structured evaluation of a covered product’s known or reasonably foreseeable risks to children.
+(p) “Social score” means an evaluation or classification of a child or group of children based on social behavior or personal characteristics for a purpose that is likely to result in an adverse impact to the child or children and is either of the following:
+(1) Unrelated to the context in which the information relating to the social behavior or personal characteristics was gathered.
+(2) Disproportionate or unjustified relative to the social behavior.
+(q) “Substantially modify” means to create a new version, release, update, or other modification to a covered product that materially changes its uses or outputs.
+(r) “System information label” means a consumer-facing label that includes information about a covered product’s purpose, functioning, data sources, and risk level.
+(s) “Trade secrets” has the meaning defined in Section 3426.1 of the Civil Code.
+
+22757.22. (a) (1) There is hereby established the LEAD for Kids Standards Board in the Government Operations Agency. The Governor shall appoint an executive officer of the board, subject to Senate confirmation, who shall hold the office at the pleasure of the Governor. The executive officer shall be the administrative head of the board and shall exercise all duties and functions necessary to ensure that the responsibilities of the board are successfully discharged.
+(2) The board shall be composed of the following nine members:
+(A) A member of academia appointed by the Governor and subject to Senate confirmation.
+(B) An artificial intelligence developer or representative of a company that develops artificial intelligence systems appointed by the Governor and subject to Senate confirmation.
+(C) A member of civil society appointed by the Governor and subject to Senate confirmation.
+(D) An expert in technology ethics appointed by the Governor and subject to Senate confirmation.
+(E) An expert in education appointed by the Governor and subject to Senate confirmation.
+(F) A member of academia with expertise in artificial intelligence appointed by the Speaker of the Assembly.
+(G) A member of academia with expertise in social science appointed by the Speaker of the Assembly.
+(H) Two members appointed by the Senate Committee on Rules.
+(3) A member of the board shall meet all of the following criteria:
+(A) (i) A member shall be free of direct and indirect external influence and shall not seek or take instructions from another.
+(ii) A member’s employment by a company that develops artificial intelligence does not by itself constitute a violation of this subparagraph.
+(B) A member shall not take an action or engage in an occupation, whether gainful or not, that is incompatible with the member’s duties.
+(C) A member shall not, either at the time of the member’s appointment or during the member’s term, have a financial interest in an entity that is subject to regulation by the board.
+(4) A member of the board shall serve at the pleasure of the appointing authority but shall serve for no longer than eight consecutive years.
+(b) (1) The board shall ensure that regulations adopted pursuant to this chapter are consistent with widely accepted standards for governance of artificial intelligence, taking into account technological standards, technological advances, scientific literature and advances, and societal changes as they pertain to risks posed to children by covered products.
+(2) The board shall consult with individuals from the public and state agencies who possess expertise directly related to the board’s functions, including technical, ethical, regulatory, and other relevant issue areas.
+(c) On or before January 1, 2028, the board shall adopt regulations governing all of the following:
+(1) Criteria for developers to determine if an artificial intelligence system is a covered product subject to this chapter.
+(2) Criteria for determining the level of estimated risk of a covered product based on an analysis that weighs the likelihood and severity of reasonably foreseeable adverse impacts against the anticipated benefits of the covered product and denominating the risk levels pursuant to all of the following:
+(A) “Prohibited risk,” which shall be applied to a covered product for which the costs of foreseeable adverse impacts likely outweigh the benefits and includes, but is not limited to, all of the following:
+(i) A companion chatbot that can foreseeably do any of the following:
+(I) Attempt to provide mental health therapy to the child.
+(II) Cause the child to develop a harmful ongoing emotional attachment to the companion chatbot.
+(III) Manipulate the child to engage in harmful behavior.
+(ii) A covered product used to do any of the following:
+(I) Collect or process a child’s biometric information for any purpose other than confirming a child’s identity, with the consent of the child’s parent or guardian, in order to grant access to a service, unlock a device, or provide physical access to an educational institution.
+(II) Generate a social score.
+(III) (ia) Assess the emotional state of a child.
+(ib) This subclause does not apply to an assessment of the emotional state of a child in a medical setting with the consent of the child’s parent or guardian or that is needed to provide emergency care if the child’s parent or guardian is unavailable.
+(IV) Scrape an image that the developer or deployer knows, or reasonably should know, is a child’s face from the internet or from surveillance footage without the consent of the child’s parent or guardian.
+(B) “High risk,” which shall be applied to a covered product for which the benefits may outweigh the costs of foreseeable adverse impacts and includes, but is not limited to, a covered product that does any of the following:
+(i) Performs a function related to pupil assessment or discipline, including, but not limited to, a covered product that determines access or admission, assigns children to educational institutions or programs, evaluates learning outcomes of children, assesses the appropriate level of education for a child, materially influences the level of education a child will receive or be able to access, or monitors and detects prohibited behavior of students during tests.
+(ii) Target advertisements to children.
+(iii) For a specific purpose that would otherwise qualify as a prohibited risk, as set forth in regulations adopted by the board, if the use is strictly necessary to ensure a child’s mental or physical health or safety.
+(C) “Moderate risk,” which shall be applied to a covered product for which the benefits reasonably outweigh the costs of foreseeable adverse impacts.
+(D) “Low risk,” which shall be applied to a covered product for which there are few, if any, foreseeable adverse impacts.
+(3) Guidance for developers to classify covered products according to risk level, as described in paragraph (2).
+(4) Reasonable steps a developer of a prohibited risk covered product is required to take to ensure that children are not able to access the product.
+(5) Requirements for predeployment and postdeployment assessments, including, but not limited to, an assessment of the purpose for which the covered product is intended, technical capabilities, limitations and functionality, specific adverse impacts, internal governance, and the timing for the development and submission to the board of those evaluations and assessments. The board shall also provide guidance consistent with Section 22757.28 to avoid duplication of efforts with respect to any other state or federal laws that require similar documentation.
+(6) Requirements for artificial intelligence information labels to ensure that, for each covered product, the public is able to access baseline information on the covered product, including the covered product’s purpose, a description of how it works, its risk level, potential adverse impacts, and any other information necessary to assess the impact of the system on children.
+(7) Standards for audits of covered products, including the timing of audits, qualifications and training of auditors, rules governing auditor independence and oversight, and audit reports that auditors are required to provide to the board. The board shall also establish rules for the protection of trade secrets in connection with the performance of audits.
+(8) The creation of an incident reporting mechanism that enables third parties to report potential incidents of adverse impacts resulting from the use of a covered product directly to a developer or the board.
+(9) The creation of a publicly accessible registry for covered products that contains high-level summaries of audit reports, incident reports, system information labels, and any additional information specified by the board.
+(10) (A) Registration fees for developers that do not exceed the reasonable regulatory costs incident to administering this chapter.
+(B) A registration fee described by this paragraph shall be deposited into the LEAD for Kids AI Fund established pursuant to Section 22757.27.
+
+2757.23. (a) On or before July 1, 2028, a developer shall do all of the following with respect to a covered product:
+(1) Register the covered product using the registry developed by the board.
+(2) Prepare and submit to the board any risk level assessment required by regulation in order to determine the appropriate risk classification of the covered product.
+(3) Develop and implement system information label for the covered product, as required by regulation.
+(b) In addition to the duties required under subdivision (a), all of the following apply:
+(1) With respect to a covered product that poses a prohibited risk, the developer shall take reasonable steps to prevent children from accessing the product.
+(2) With respect to a high-risk covered product, the developer shall conduct predeployment and postdeployment assessments pursuant to the requirements established by the board.
+(c) With respect to incident reports, a developer shall do all of the following:
+(1) Within 30 days of learning of an incident, file a report with the board with any required information.
+(2) Within 30 days of the substantiation of the incident by the board, file a description of the incident on the developer’s internet website.
+(d) With respect to licensing the covered product to deployers, a developer shall do both of the following:
+(1) Ensure that the terms of the license require it to be used in a manner that would not elevate the covered product’s risk level to a higher level of risk.
+(2) Revoke the license if the developer knows, or should know, that the deployer is using the covered product in a manner that is inconsistent with the terms required under paragraph (1).
+(e) A developer shall not knowingly or recklessly use the personal information of a child to train a covered product unless the child, if the child is at least 13 years of age and less than 16 years of age, or the child’s parent or guardian, if the child is less than 13 years of age, has provided consent to the developer to use the child’s personal information for that specific purpose.
+(f) (1) On or after July 1, 2028, a developer shall submit a covered product it develops to an independent third party audit on a schedule determined by the board according to the risk level posed by the covered product.
+(2) A developer whose covered product is subject to an audit shall provide the auditor with all necessary documentation and information for the auditor to perform the audit.
+(3) If an auditor discovers substantial noncompliance with this chapter, the auditor shall promptly notify the board.
+
+22757.24. (a) A deployer of a prohibited risk covered product shall implement any applicable procedures adopted by the developer to prevent a child from accessing the product.
+(b) A deployer of a covered product shall publicly display developer license usage requirements. A deployer’s usage requirements shall not change the covered product’s risk level to a higher level of risk.
+(c) With respect to incident reports, a deployer shall do both of the following:
+(1) Within 30 days of learning of the incident, file a report with the board with any required information.
+(2) Within 30 days of the substantiation of the incident by the board, file a description of the incident on the deployer’s internet website.
+(d) A deployer shall not enter a data sharing agreement that allows the developer to train a covered product with the personal information of a child unless the child, if the child is at least 13 years of age and less than 16 years of age, or the child’s parent or guardian, if the child is less than 13 years of age, has provided consent to the deployer to use the child’s personal information for that specific purpose.
+
+22757.25. A developer or deployer, or any contractor or subcontractor of a developer or deployer, shall not do any of the following:
+(a) Prevent an employee from disclosing information to the Attorney General pertaining to a reasonable belief supporting the existence of a potential violation of this chapter.
+(b) Retaliate against an employee for disclosing information under subdivision (a).
+(c) Make false or materially misleading statements related to its compliance with obligations imposed under this chapter.
+
+22757.26. (a) The board may refer violations of this chapter to the Attorney General.
+(b) With respect to violations related to the risk level classification of a covered product, the board may allow the developer to take corrective action if the board determines that the circumstances indicate that the erroneous classification was neither unreasonable nor in bad faith. If the developer fails to do so within 30 days, the board may refer the matter to the Attorney General.
+(c) Upon receiving a referral from the board, the Attorney General may bring an action for all of the following:
+(1) A civil penalty of twenty-five thousand dollars ($25,000) for each violation.
+(2) Injunctive or declaratory relief.
+(3) Reasonable attorney’s fees.
+(d) A child who suffers actual harm as a result of the use of a covered product, or a parent or guardian acting on behalf of that child, may bring a civil action to recover all of the following:
+(1) Actual damages.
+(2) Punitive damages.
+(3) Reasonable attorney’s fees and costs.
+(4) Injunctive or declaratory relief.
+(5) Any other relief the court deems proper.
+22757.27. (a) There is hereby created in the State Treasury the LEAD for Kids AI Fund into which any civil penalty recovered by the Attorney General pursuant to Section 22757.26 shall be deposited.
+(b) Moneys in the fund shall be available, only upon appropriation by the Legislature, for the purpose of administering this chapter.
+
+22757.28. (a) A developer or deployer who is required to comply with another law of this state that requires risk assessment of a covered product that is equally or more stringent than this chapter need not comply with any duplicative requirements under this chapter.
+(b) Before January 1, 2028, the board shall publish a description of the laws described by subdivision (a) and provide guidance to developers and deployers regarding compliance with subdivision (a).
+(c) A developer or deployer that relies on the guidance provided under subdivision (b) is presumed to be compliant with subdivision (a).

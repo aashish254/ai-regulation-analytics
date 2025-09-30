@@ -1,0 +1,41 @@
+ SEC. 207. REPORT ON ESTABLISHMENT OF UNMANNED SYSTEMS CAPABILITIES OFFICE.
+
+
+(a) In General.—Not later than 1 year after the date of enactment of this Act, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that outlines a plan for establishing an unmanned systems capabilities office within the Coast Guard responsible for the acquisition and development of unmanned system and counter-unmanned system technologies and to expand the capabilities of the Coast Guard with respect to such technologies.
+
+ (b) Contents.—The report required under subsection (a) shall include the following:
+
+
+(1) A management strategy for the acquisition, development, and deployment of unmanned system and counter-unmanned system technologies.
+
+
+(2) A service-wide coordination strategy to synchronize and integrate efforts across the Coast Guard in order to—
+
+
+(A) support the primary duties of the Coast Guard pursuant to section 102 of title 14, United States Code; and
+
+
+(B) pursue expanded research, development, testing, and evaluation opportunities and funding to expand and accelerate identification and transition of unmanned system and counter-unmanned system technologies.
+
+
+(3) The identification of contracting and acquisition authorities needed to expedite the development and deployment of unmanned system and counter-unmanned system technologies.
+
+
+(4) A detailed list of commercially available unmanned system and counter-unmanned system technologies with capabilities determined to be useful for the Coast Guard.
+
+
+(5) A cross-agency collaboration plan to engage with the Department of Homeland Security, the Department of Defense, and other relevant agencies to identify common requirements and opportunities to partner in acquiring, contracting, and sustaining unmanned system and counter-unmanned system capabilities.
+
+
+(6) Opportunities to obtain and share unmanned system data from government and commercial sources to improve maritime domain awareness.
+
+
+(7) The development of a concept of operations for a data ecosystem that supports and integrates unmanned system and counter-unmanned system technologies with key enablers, including enterprise communications networks, data storage and management, artificial intelligence and machine learning tools, and information sharing and dissemination capabilities.
+
+ (c) Definitions.—In this section:
+
+
+(1) COUNTER-UNMANNED SYSTEM.—The term “counter-unmanned system” means a system or device capable of lawfully and safely disabling, disrupting, or seizing control of an unmanned system, including a counter-UAS system (as such term is defined in section 44801 of title 49, United States Code).
+
+
+(2) UNMANNED SYSTEM.—The term “unmanned system” means an unmanned surface, undersea, or aircraft and associated elements (including communication links and the components that control the unmanned system) that are required for the operator to operate the system safely and efficiently, including an unmanned aircraft system (as such term is defined in section 44801 of title 49, United States Code).

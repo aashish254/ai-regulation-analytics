@@ -1,0 +1,207 @@
+ S. 3849
+
+
+To promote United States leadership in technical standards by directing the National Institute of Standards and Technology and the Department of State to take certain actions to encourage and enable United States participation in developing standards and specifications for artificial intelligence and other critical and emerging technologies, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+February 29, 2024
+Mr. Warner (for himself and Mrs. Blackburn) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To promote United States leadership in technical standards by directing the National Institute of Standards and Technology and the Department of State to take certain actions to encourage and enable United States participation in developing standards and specifications for artificial intelligence and other critical and emerging technologies, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Promoting United States Leadership in Standards Act of 2024”.
+
+ SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) ARTIFICIAL INTELLIGENCE AND OTHER CRITICAL AND EMERGING TECHNOLOGIES.—The term “artificial intelligence and other critical and emerging technologies” means a subset of artificial intelligence and other critical and emerging technologies included in the list of such technologies identified and maintained by the National Science and Technology Council of the Office of Science and Technology Policy as the Director considers appropriate for purposes of this Act.
+
+
+(2) DIRECTOR.—The term “Director” means the Director of the National Institute of Standards and Technology.
+
+ SEC. 3. UNITED STATES PARTICIPATION IN ORGANIZATIONS DEVELOPING STANDARDS AND SPECIFICATIONS FOR ARTIFICIAL INTELLIGENCE AND OTHER CRITICAL AND EMERGING TECHNOLOGIES.
+
+
+(a) Briefing Required.—
+
+
+(1) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Director shall provide to Congress a briefing to assist in the evaluation and identification of opportunities for Federal Government participation in the development of technical standards for artificial intelligence and other critical and emerging technologies.
+
+
+(2) ELEMENTS.—The briefing provided pursuant to paragraph (1) shall include the following:
+
+
+(A) An overview of standards activities relating to artificial intelligence and other critical and emerging technologies and information about the following:
+
+
+(i) Key technical standards that are the subject of ongoing activity.
+
+
+(ii) Key standards bodies hosting these activities.
+
+
+(iii) Any Federal agency that is participating in these activities.
+
+
+(B) An analysis identifying where participation by United States industry and Federal agencies in standards activities in artificial intelligence and other critical and emerging technologies would be facilitated or enhanced by conducting prestandardization and standards coordination meetings with stakeholders and standards meetings hosted in the United States.
+
+
+(C) Recommendations for effectively informing United States industry and Federal agencies on ongoing standardization activities with the objective of increasing participation of such industry and agencies in such activities.
+
+
+(3) FEDERAL AGENCY NOTICE REQUIREMENT.—
+
+
+(A) IN GENERAL.—Using the mechanism established pursuant to subparagraph (B), each head of a Federal agency shall transmit to the Director notice of the participation of their respective Federal agency in a standards activity relating to artificial intelligence and other critical and emerging technologies.
+
+
+(B) MECHANISM.—The Director shall, in coordination with the Director of the Office of Management and Budget, develop a mechanism for reporting participation by Federal agencies in standards activities.
+
+
+(b) Web Portal.—
+
+
+(1) IN GENERAL.—In order to inform United States industry and Federal agencies about existing and ongoing international efforts to develop technical standards for artificial intelligence and other critical and emerging technologies and opportunities for participation in such efforts, the Director shall establish an accessible web portal to help such industry and agencies navigate and participate in such efforts.
+
+
+(2) CONTENTS.—The web portal established pursuant to paragraph (1) shall include regularly updated lists of the following:
+
+
+(A) International efforts described in paragraph (1) and information on opportunities for participation in such efforts.
+
+
+(B) Information on accessing standards, both in development and published, for artificial intelligence and other critical and emerging technologies.
+
+
+(3) ADMINISTRATION.—The Director may inter into such cooperative agreements with such nongovernmental organizations as the Director considers appropriate to establish the web portal required by paragraph (1).
+
+ SEC. 4. PILOT PROGRAM TO SUPPORT STANDARDS MEETINGS FOR ARTIFICIAL INTELLIGENCE AND OTHER CRITICAL AND EMERGING TECHNOLOGIES IN THE UNITED STATES.
+
+
+(a) Pilot Program Required.—
+
+
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, and subject to the availability of appropriated funds, the Director shall, in coordination with the heads of such other Federal agencies as the Director considers appropriate, establish a pilot program on supporting standards meetings for artificial intelligence and other critical and emerging technologies in the United States by—
+
+
+(A) conducting prestandardization and standards coordination meetings with stakeholders; and
+
+
+(B) awarding grants to eligible entities described in subsection (b) hosting meetings of organizations described in paragraph (1) of such subsection to support the hosting of such meetings in the United States.
+
+
+(2) ADMINISTRATION.—The Director may carry out the pilot program required by paragraph (1) by entering into such cooperative agreements with such nongovernmental organizations as the Director considers appropriate to establish and administer the pilot program.
+
+
+(b) Eligible Entities.—For purposes of the pilot program required by subsection (a), an eligible entity is—
+
+
+(1) an organization that is developing standards and specifications for artificial intelligence and other critical and emerging technologies for at least 1 technical standard that affects the interests of 1 or more Federal agencies; or
+
+
+(2) an entity that hosts an organization described in paragraph (1).
+
+
+(c) Grants.—
+
+
+(1) IN GENERAL.—In carrying out the pilot program required by subsection (a), the Director shall award grants to eligible entities to host meetings as described in such subsection.
+
+
+(2) USE OF FUNDS.—An eligible entity receiving a grant under this subsection to host a meeting in the United States may use the amount of the grant for such costs as the Director considers reasonable for hosting the meeting in the United States, but not more than fifty percent of anticipated cost of hosting the meeting and not more than a maximum amount that the Director shall establish for purposes of this subsection. Such costs may include the following:
+
+
+(A) Costs related to the preparation and planning of meetings described in subsection (a).
+
+
+(B) Meeting venue-related expenses.
+
+
+(C) Such other costs that may support the eligible entity in conducting a standards meeting in the United States.
+
+
+(3) CONSIDERATIONS.—In deciding whether to award a grant under this subsection to an eligible entity to host a meeting, the Director may consider the extent to which the eligible entity—
+
+
+(A) is or hosts an organization that administers technical standards activity in artificial intelligence and other critical and emerging technologies that involves United States-based participants, including participants from Federal agencies of the United States;
+
+
+(B) has a demonstrable history of participating in or hosting successful meetings; and
+
+
+(C) has a stable or growing participant base.
+
+
+(d) Guidance.—
+
+
+(1) IN GENERAL.—The Director shall develop and periodically update guidance for the pilot program carried out under this section.
+
+
+(2) ELEMENTS.—The guidance developed and updated pursuant to paragraph (1) shall cover the following:
+
+
+(A) Eligibility for grants awarded under the pilot program.
+
+
+(B) How grants are awarded under subsection (c).
+
+
+(C) The duration and amounts of grants awarded under subsection (c).
+
+
+(D) The merit review process for the pilot program.
+
+
+(E) Priority areas for technical standards activity.
+
+
+(F) Means for recipients of grants under the pilot program to report expenses relating to costs described in subsection (c)(2)(D).
+
+
+(G) Such additional matters as the Director determines appropriate for purposes of the pilot program.
+
+
+(e) Briefings For Congress.—
+
+
+(1) IN GENERAL.—During the third year of the pilot program carried out under this section and in each subsequent year of the pilot program, the Director shall provide Congress with a briefing on the pilot program.
+
+
+(2) ELEMENTS.—Each briefing provided pursuant to paragraph (1) shall include the following:
+
+
+(A) An assessment of the effectiveness of the pilot program with respect to improving the hosting of standards meetings in the United States.
+
+
+(B) Identification of the recipients of grants under the pilot program.
+
+
+(C) The geographic distribution of attendees at meetings supported with grants under the pilot program.
+
+
+(D) A summary of the expenses for which the amounts of grants awarded under the pilot program were used.
+
+
+(f) Recommendations For Permanent Implementation.—If, before the date that is 3 years after the date of the enactment of this Act, the Director determines that conducting prestandardization and standards coordination meetings with stakeholders or awarding grants as described in subsection (a) is feasible and advisable, the Director shall, not later than 3 years after the date of the enactment of this Act—
+
+
+(1) develop recommendations for such legislative or administrative action as the Director considers appropriate to establish a permanent implementation of the pilot program; and
+
+
+(2) submit to Congress the recommendations developed pursuant to paragraph (1).
+
+
+(g) Authorization Of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000 for the period of fiscal years 2024 through 2028.

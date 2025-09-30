@@ -1,0 +1,5 @@
+SEC. 1007. Use of technology using artificial intelligence to facilitate audit of the financial statements of the Department of Defense for fiscal year 2025.
+
+(a) Use of AI technology for audits.--The Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force shall encourage, to the greatest extent practicable, the use of technology that uses artificial intelligence or machine learning for the purpose of facilitating audits of the financial statements of the Department of Defense.
+
+(b) Implementation of AI technology for audits.--The Director of the Chief Digital and Artificial Intelligence Office of the Department, in coordination with the Under Secretary of Defense for Research and Engineering and the Inspector General of the Department, shall oversee the adoption of artificial intelligence and machine learning technologies in support of financial management and enterprise business operations.

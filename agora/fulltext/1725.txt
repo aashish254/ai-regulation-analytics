@@ -1,0 +1,65 @@
+13-2-12. Generative artificial intelligence -- Impact on liability for violation of consumer protection law.
+
+
+(1) As used in this section:
+(a) "Generative artificial intelligence" means an artificial system that:
+(i) is trained on data;
+(ii) interacts with a person using text, audio, or visual communication; and
+(iii) generates non-scripted outputs similar to outputs created by a human, with limited or no human oversight.
+
+
+(b) "License" means a state-granted authorization for a person to engage in a specified occupation:
+(i) based on the person meeting personal qualifications established under state law; and
+(ii) where state law requires the authorization before the person may lawfully engage in the occupation for compensation.
+
+
+(c) "Regulated occupation" means an occupation regulated by the Department of Commerce that requires a person to obtain a license or state certification to practice the occupation.
+
+
+(d) "State certification" means a state-granted authorization given to a person to use the term "state certified" as part of a designated title related to engaging in a specified occupation:
+(i) based on the person meeting personal qualifications established under state law; and
+(ii) where state law prohibits a noncertified person from using the term "state certified" as part of a designated title but does not otherwise prohibit a noncertified person from engaging in the occupation for compensation.
+
+
+(2) It is not a defense to the violation of any statute administered and enforced by the division, as described in Section 13-2-1, that generative artificial intelligence:
+(a) made the violative statement;
+(b) undertook the violative act; or
+(c) was used in furtherance of the violation.
+
+
+(3) A person who uses, prompts, or otherwise causes generative artificial intelligence to interact with a person in connection with any act administered and enforced by the division, as described in Section 13-2-1, shall clearly and conspicuously disclose to the person with whom the generative artificial intelligence interacts, if asked or prompted by the person, that the person is interacting with generative artificial intelligence and not a human.
+
+
+(4) (a) A person who provides the services of a regulated occupation shall prominently disclose when a person is interacting with a generative artificial intelligence in the provision of regulated services.
+(b) Nothing in this section permits a person to provide the services of a regulated occupation through generative artificial intelligence without meeting the requirements of the regulated occupation.
+
+
+(5) A disclosure described Subsection (4)(a) shall be provided:
+(a) verbally at the start of an oral exchange or conversation; and
+(b) through electronic messaging before a written exchange.
+
+
+(6) The division shall administer and enforce the provisions of this section in accordance with Chapter 2, Division of Consumer Protection.
+
+
+(7) In addition to the division's enforcement powers described by Chapter 2, Division of Consumer Protection:
+(a) the division director may impose an administrative fine for up to $2,500 for each violation of this section; and
+(b) the division may bring an action in court to enforce a provision of this section.
+
+
+(8) In a court action by the division to enforce a provision of this section, the court may:
+(a) declare that an act or practice violates a provision of this section;
+(b) issue an injunction for a violation of this section;
+(c) order disgorgement of any money received in violation of this section;
+(d) order payment of disgorged money to a person injured by a violation of this section;
+(e) impose a fine of up to $2,500 for each violation of this section; or
+(f) award any other relief that the court deems reasonable and necessary.
+
+(9) If a court of competent jurisdiction grants judgment or injunctive relief to the division, the court shall award the division:
+(a) reasonable attorney fees;
+(b) court costs; and
+(c) investigative fees.
+
+
+(10) (a) A person who violates an administrative or court order issued for a violation of this chapter is subject to a civil penalty of no more than $5,000 for each violation.
+(b) A civil penalty authorized under this section may be imposed in any civil action brought by the attorney general on behalf of the division.

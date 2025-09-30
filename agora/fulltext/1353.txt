@@ -1,0 +1,78 @@
+SEC. 303. Public-private wildfire technology deployment and demonstration partnership.
+(a) Definitions.—In this section:
+
+(1) COVERED AGENCY.—The term “covered agency” means—
+
+(A) each Federal land management agency (as such term is defined in the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801));
+
+(B) the National Oceanic and Atmospheric Administration;
+
+(C) the United States Fire Administration;
+
+(D) the Federal Emergency Management Agency;
+
+(E) the National Aeronautics and Space Administration;
+
+(F) the Bureau of Indian Affairs;
+
+(G) the Department of Defense;
+
+(H) a State, Tribal, county, or municipal fire department or district operating through the United States Fire Administration or pursuant to an agreement with a Federal agency; and
+
+(I) any other Federal agency involved in wildfire response.
+
+(2) COVERED ENTITY.—The term “covered entity” means—
+
+(A) a private entity;
+
+(B) a nonprofit organization; or
+
+(C) an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
+
+(b) In general.—Not later than 1 year after the date of enactment of this Act, the Secretaries, in coordination with the heads of the covered agencies, shall establish a deployment and demonstration pilot program (in this section referred to as “Pilot Program”) for new and innovative wildfire prevention, detection, communication, and mitigation technologies.
+
+(c) Functions.—In carrying out the Pilot Program, the Secretaries shall—
+
+(1) incorporate the Pilot Program into the National Wildfire Coordinating Group;
+
+(2) in consultation with the heads of covered agencies, identify and advance the demonstration and deployment of key technology priority areas with respect to wildfire prevention, detection, communication, and mitigation technologies, including—
+
+(A) hazardous fuels reduction treatments or activities;
+
+(B) dispatch communications;
+
+(C) remote sensing, detection, and tracking;
+
+(D) safety equipment;
+
+(E) common operating pictures or operational dashboards; and
+
+(F) interoperable commercial data; and
+
+(3) connect each covered entity selected to participate in the Pilot Program with the appropriate covered agency to coordinate real-time and on-the-ground testing of technology during wildland fire mitigation activities and training.
+
+(d) Applications.—To be eligible to be selected to participate in the Pilot Program, a covered entity shall submit to the Secretaries an application at such time, in such manner, and containing such information as the Secretaries may require, including a proposal to demonstrate technologies specific to the key technology priority areas identified pursuant to subsection (c)(2).
+
+(e) Prioritization of emerging technologies.—In selecting covered entities to participate in the Pilot Program, the Secretaries shall give priority to covered entities—
+
+(1) that have participated in the Fire Weather Testbed of the National Oceanic and Atmospheric Administration; or
+
+(2) developing and applying emerging technologies for wildfire mitigation, including artificial intelligence, quantum sensing, computing and quantum-hybrid applications, thermal mid-wave infrared equipped low earth orbit satellites, augmented reality, 5G private networks, and device-to-device communications supporting nomadic mesh networks and detection.
+
+(f) Outreach.—The Secretaries, in coordination with the heads of covered agencies, shall make public the key technology priority areas identified pursuant to subsection (c)(2) and invite covered entities to apply under subsection (d) to deploy and demonstrate their technologies to address such priority areas.
+
+(g) Reports and recommendations.—Not later than 1 year after the date of enactment of this Act, and annually thereafter for the duration of the Pilot Program, the Secretaries shall submit to the relevant Congressional Committees, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report that includes, with respect to the Pilot Program, the following:
+
+(1) A list of participating covered entities.
+
+(2) A brief description of the technologies deployed and demonstrated by each such covered entity.
+
+(3) An estimate of the cost of acquiring each such technology and applying the technology at scale.
+
+(4) Outreach efforts by Federal agencies to covered entities developing wildfire technologies.
+
+(5) Assessments of, and recommendations relating to, new technologies with potential adoption and application at-scale in Federal land management agencies’ wildfire prevention, detection, communication, and mitigation efforts.
+
+(6) A description of the relationship and coordination between the Pilot Program and the activities of the National Oceanic and Atmospheric Administration, including the Fire Weather Testbed.
+
+(h) Sunset.—The authority to carry out this section shall terminate on the date that is 7 years after the date of enactment of this Act.

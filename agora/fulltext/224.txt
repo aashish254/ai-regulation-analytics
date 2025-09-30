@@ -1,0 +1,19 @@
+SEC. 835. CURRICULA ON SOFTWARE ACQUISITIONS AND CYBERSECURITY SOFTWARE OR HARDWARE ACQUISITIONS FOR COVERED INDIVIDUALS.
+
+(a) Curricula.--The President of the Defense Acquisition University, shall supplement existing training curricula related to software acquisitions and cybersecurity software or hardware acquisitions and offer such curricula to covered individuals to increase digital literacy related to such acquisitions by developing the ability of such covered individuals to use technology to identify, critically evaluate, and synthesize data and information related to such acquisitions.
+(b) Elements.--Curricula developed pursuant to subsection (a) shall provide information on--
+	(1) cybersecurity, information technology systems, computer networks, cloud computing, artificial intelligence, machine learning, distributed ledger technologies, and quantum technologies;
+	(2) cybersecurity threats and capabilities;
+	(3) activities that encompass the full range of threat reduction, vulnerability reduction, deterrence, incident response, resiliency, and recovery policies and activities, including activities relating to computer network operations, information assurance, military missions, and intelligence missions to the extent such activities relate to the security and stability of cyberspace; and
+	(4) the industry best practices relating to software acquisitions and cybersecurity software or hardware acquisitions.
+
+(c) Such plan shall include a list of resources required for and costs associated with such implementation, including--
+	(1) curriculum development;
+	(2) hiring instructors to teach the curriculum;
+	(3) facilities; or(4) website development.
+(d) Implementation.--Not later than one year after the date on which the plan described in subsection (d) is submitted to the Committees on Armed Services of the Senate and House of Representatives, the President of the Defense Acquisition University shall offer the curricula developed under subsection (a) to covered individuals.
+
+(e) Report.--Not later than one year after the date on which the plan described in subsection (d) is submitted to the Committees on Armed Services of the Senate and House of Representatives, the Secretary of Defense, in consultation with the President of the Defense Acquisition University, shall submit to Congress a
+report assessing the costs and benefits of requiring all covered individuals to complete the curricula developed under subsection (a).
+
+(f) Covered Individuals Defined.--In this section, the term ``covered individuals'' means an individual serving in a position designated under section 1721(b) of title 10, United States Code, who is regularly consulted for software acquisitions or cybersecurity software or hardware acquisitions.

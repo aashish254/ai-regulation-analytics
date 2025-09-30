@@ -1,0 +1,81 @@
+An act relating to advanced technology; creating s. 282.802, F.S.; creating the Government Technology Modernization Council within the Department of Management Services for a specified purpose; providing for council membership, meetings, and duties; requiring the council to submit specified recommendations to the Legislature and specified reports to the Governor and the Legislature by specified dates; creating s. 827.072, F.S.; defining terms; prohibiting a person from knowingly possessing or controlling or intentionally viewing photographs, motion pictures, representations, images, data files, computer depictions, or other presentations which the person knows to include generated child pornography; providing criminal penalties; prohibiting a person from intentionally creating generated child pornography; providing criminal penalties; providing applicability; amending s. 92.561, F.S.; prohibiting the reproduction of generated child pornography; providing an effective date.
+
+
+Be It Enacted by the Legislature of the State of Florida:
+
+
+Section 1. Section 282.802, Florida Statutes, is created to read:
+282.802 Government Technology Modernization Council.—
+(1) The Government Technology Modernization Council, an advisory council as defined in s. 20.03(7), is created within the department. Except as otherwise provided in this section, the advisory council shall operate in a manner consistent with s. 20.052.
+
+
+(2) The purpose of the council is to study and monitor the development and deployment of new technologies and provide reports on recommendations for procurement and regulation of such systems to the Governor, the President of the Senate, and the Speaker of the House of Representatives.
+
+
+(3) The council shall be composed of the following members:
+(a) The Lieutenant Governor as chair.
+(b) The state chief information officer.
+(c) The Secretary of Commerce or his or her designee.
+(d) The Secretary of Health Care Administration or his or her designee.
+(e) The Secretary of Transportation or his or her designee.
+(f) The executive director of the Department of Law Enforcement or his or her designee.
+(g) Five representatives with senior level experience or expertise in artificial intelligence, cloud computing, identity management, data science, machine learning, government procurement, financial technology, education technology, and constitutional law, with three appointed by the Governor, one appointed by the President of the Senate, and one appointed by the Speaker of the House of Representatives.
+(h) One member of the Senate, appointed by the President of the Senate.
+(i) One member of the House of Representatives, appointed by the Speaker of the House of Representatives.
+
+
+(4) Members shall serve for terms of 4 years, except that sitting members of the Senate and the House of Representatives shall serve terms that correspond with their terms of office. For the purpose of providing staggered terms, the initial appointments of members made by the Governor shall be for terms of 2 years. A vacancy shall be filled for the remainder of the unexpired term in the same manner as the initial appointment. All members of the council are eligible for reappointment.
+
+
+(5) The Secretary of Management Services, or his or her designee, shall serve as the ex officio, nonvoting executive director of the council.
+
+
+(6) Members of the council shall serve without compensation but are entitled to receive reimbursement for per diem and travel expenses pursuant to s. 112.061.
+
+
+(7)(a) The council shall meet at least quarterly to:
+1. Recommend legislative and administrative actions that the Legislature and state agencies as defined in s. 282.318(2) may take to promote the development of data modernization in this state.
+2. Assess and provide guidance on necessary legislative reforms and the creation of a state code of ethics for artificial intelligence systems in state government.
+3. Assess the effect of automated decision systems or identity management on constitutional and other legal rights, duties, and privileges of residents of this state.
+4. Evaluate common standards for artificial intelligence safety and security measures, including the benefits of requiring disclosure of the digital provenance for all images and audio created using generative artificial intelligence as a means of revealing the origin and edit of the image or audio, as well as the best methods for such disclosure.
+5. Assess the manner in which governmental entities and the private sector are using artificial intelligence with a focus on opportunity areas for deployments in systems across this state.
+6. Determine the manner in which artificial intelligence is being exploited by bad actors, including foreign countries of concern as defined in s. 287.138(1).
+7. Evaluate the need for curriculum to prepare school-age audiences with the digital media and visual literacy skills needed to navigate the digital information landscape.
+(b) At least one quarterly meeting of the council must be a joint meeting with the Florida Cybersecurity Advisory Council.
+
+
+(8) By December 31, 2024, and each December 31 thereafter, the council shall submit to the Governor, the President of the Senate, and the Speaker of the House of Representatives any legislative recommendations considered necessary by the council to modernize government technology, including:
+(a) Recommendations for policies necessary to:
+1. Accelerate adoption of technologies that will increase productivity of state enterprise information technology systems, improve customer service levels of government, and reduce administrative or operating costs.
+2. Promote the development and deployment of artificial intelligence systems, financial technology, education technology, or other enterprise management software in this state.
+3. Protect Floridians from bad actors who use artificial intelligence.
+(b) Any other information the council considers relevant. 
+
+
+Section 2. Section 827.072, Florida Statutes, is created to read:
+827.072 Generated child pornography.—
+(1) As used in this section, the term:
+(a) “Generated child pornography” means any image that has been created, altered, adapted, or modified by electronic, mechanical, or other computer-generated means to portray a fictitious person, who a reasonable person would regard as being a real person younger than 18 years of age, engaged in sexual conduct.
+(b) “Intentionally view” has the same meaning as in s. 827.071.
+(c) “Sexual conduct” has the same meaning as in s. 827.071.
+
+
+(2)(a) It is unlawful for a person to knowingly possess or control or intentionally view a photograph, a motion picture, a representation, an image, a data file, a computer depiction, or any other presentation which, in whole or in part, he or she knows includes generated child pornography. The possession, control, or intentional viewing of each such photograph, motion picture, representation, image, data file, computer depiction, or other presentation is a separate offense. A person who violates this paragraph commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(b) A person who intentionally creates generated child pornography commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(c) Paragraph (a) does not apply to any material possessed, controlled, or intentionally viewed as part of a law enforcement investigation.
+
+
+Section 3. Section 92.561, Florida Statutes, is amended to read:
+92.561 Prohibition on reproduction of child pornography.—
+
+
+(1) In a criminal proceeding, any property or material that portrays sexual performance by a child as defined in s. 827.071, constitutes generated child pornography as defined in s. 827.072, or constitutes child pornography as defined in s. 847.001, must remain secured or locked in the care, custody, and control of a law enforcement agency, the state attorney, or the court.
+
+
+(2) Notwithstanding any law or rule of court, a court shall deny, in a criminal proceeding, any request by the defendant to copy, photograph, duplicate, or otherwise reproduce any property or material that portrays sexual performance by a child, constitutes generated child pornography, or constitutes child pornography so long as the state attorney makes the property or material reasonably available to the defendant.
+
+
+(3) For purposes of this section, property or material is deemed to be reasonably available to the defendant if the state attorney provides ample opportunity at a designated facility for the inspection, viewing, and examination of the property or material that portrays sexual performance by a child, constitutes generated child pornography, or constitutes child pornography by the defendant, his or her attorney, or any individual whom the defendant uses as an expert during the discovery process or at a court proceeding.
+
+
+Section 4. This act shall take effect July 1, 2024.

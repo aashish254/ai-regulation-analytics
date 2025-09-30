@@ -1,0 +1,375 @@
+ S. 1291
+
+
+To require that social media platforms verify the age of their users, prohibit the use of algorithmic recommendation systems on individuals under age 18, require parental or guardian consent for social media users under age 18, and prohibit users who are under age 13 from accessing social media platforms.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+April 26, 2023
+
+
+Mr. Schatz (for himself, Mr. Cotton, Mr. Murphy, and Mrs. Britt) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To require that social media platforms verify the age of their users, prohibit the use of algorithmic recommendation systems on individuals under age 18, require parental or guardian consent for social media users under age 18, and prohibit users who are under age 13 from accessing social media platforms.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Protecting Kids on Social Media Act”.
+
+
+SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) ALGORITHMIC RECOMMENDATION SYSTEM.—The term “algorithmic recommendation system” means a fully or partially automated system that suggests, promotes, or ranks information for, or presents advertising to, an individual.
+
+
+(2) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+
+
+(3) INDIVIDUAL.—The term “individual” means a social media platform user who habitually resides in the United States.
+
+
+(4) MINOR.—The term “minor” means an individual who is at least 13 years of age but under 18 years of age.
+
+
+(5) PERSONAL DATA.—The term “personal data” means information that identifies or is linked or reasonably linkable to an individual, household, or consumer device.
+
+
+(6) SOCIAL MEDIA PLATFORM.—The term “social media platform” means an online application or website that—
+
+
+(A) offers services to users in the United States;
+
+
+(B) allows users to create accounts to publish or distribute to the public or to other users text, images, videos, or other forms of media content; and
+
+
+(C) provides the functions described in paragraph (B) other than in support of—
+
+
+(i) facilitating commercial transactions;
+
+
+(ii) facilitating teleconferencing and videoconferencing features that are limited to certain participants in the teleconference or videoconference and are not posted publicly or for broad distribution to other users;
+
+
+(iii) facilitating subscription-based content or newsletters;
+
+
+(iv) facilitating crowd-sourced content for reference guides such as encyclopedias and dictionaries;
+
+
+(v) providing cloud-based electronic storage, including cloud-based storage that allows collaborative editing by invited users;
+
+
+(vi) making video games available for play by users;
+
+
+(vii) reporting or disseminating news;
+
+
+(viii) providing other kinds of information concerning businesses, products, or travel information, including user reviews or rankings of such businesses, products, or other travel information;
+
+
+(ix) providing educational information or instruction on behalf of or in support of an elementary school or secondary school, as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801);
+
+
+(x) facilitating electronic mail or direct messaging between users (except for message boards or applications where users can add themselves to messaging groups consisting of large numbers of users) consisting of text, photos, or videos that are not posted publicly and are visible only to the senders and recipients; or
+
+
+(xi) any other function that provides content to end users but does not allow the dissemination of user-generated content.
+
+ SEC. 3. REASONABLE STEPS FOR AGE VERIFICATION.
+
+
+(a) In General.—A social media platform shall take reasonable steps beyond merely requiring attestation, taking into account existing age verification technologies, to verify the age of individuals who are account holders on the platform.
+
+
+(b) Restriction On Use And Retention Of Information.—A social media platform shall not—
+
+
+(1) use any information collected as part of the platform's age verification process for any other purpose; or
+
+
+(2) retain any information collected from a user as part of the age verification process except to the extent necessary to prove that the platform has taken reasonable steps to verify the age of the user.
+
+
+(c) Rule Of Construction.—Nothing in this section shall be construed to require a social media platform to require users to provide government-issued identification for age verification.
+
+
+(d) Existing Accounts.—A social media platform shall not be required to verify the age of account holders on the platform for any account that, as of the date of enactment of this Act, has existed for 90 days or more, until 2 years after the date of enactment of this Act.
+
+
+(e) Unverified Accounts.—A social media platform shall not permit an individual to create a user account (or continue to use an existing user account after the date that is 2 years after the date of enactment of this Act) if the individual's age has not been verified.
+
+
+(f) Safe Harbor.—A social media platform that, for age verification purposes, relies in good faith on information provided by the Pilot Program described in section 7 to verify the age of a user shall be deemed to have taken reasonable steps to verify the age of that user on the platform.
+
+ SEC. 4. NO CHILDREN UNDER 13.
+
+
+A social media platform shall not permit an individual to use the platform (other than merely viewing content, as long as such viewing does not involve logging in or interacting with the content or other users) unless the individual is known or reasonably believed to be age 13 or older according to the age verification process used by the platform.
+
+ SEC. 5. PARENT OR GUARDIAN CONSENT FOR MINORS.
+
+
+(a) In General.—A social media platform shall take reasonable steps beyond merely requiring attestation, taking into account current parent or guardian relationship verification technologies and documentation, to require the affirmative consent of a parent or guardian to create an account for any individual who the social media platform knows or reasonably believes to be a minor according to the age verification process used by the platform.
+
+
+(b) Restriction On Use And Retention Of Information.—A social media platform shall not—
+
+
+(1) use any information collected as part of the parent or guardian consent process for any other purpose; or
+
+
+(2) retain any information collected as part of the parent or guardian verification process except to the extent necessary to—
+
+
+(A) provide confirmation of the affirmative consent of a parent or guardian for a minor user to create an account;
+
+
+(B) preserve the ability of the parent or guardian to revoke such consent; and
+
+
+(C) prove that the platform has taken reasonable steps to obtain the affirmative consent of a parent or guardian for a minor user to create an account.
+
+
+(c) Ability To Revoke Consent.—A social media platform shall take reasonable steps to provide a parent or guardian who has consented to their child’s social media use with the ability to revoke such consent.
+
+
+(d) Effect Of Revocation Of Consent.—A social media platform that receives a revocation of consent under subsection (c) shall suspend, delete, or otherwise disable the account of the minor user for whom consent was revoked.
+
+
+(e) Rule Of Construction.—Nothing in this section shall be construed to require a social media platform to require minor users or their parents or guardians to provide government-issued identification for relationship verification or the provision of affirmative consent to create an account.
+
+
+(f) Safe Harbor.—A social media platform that, for parent or guardian relationship verification purposes, relies in good faith on information provided by the Pilot Program described in section 7 shall be deemed to have taken reasonable steps to verify the parent or guardian relationship of the parent or guardian granting consent for a minor user to create an account under this section.
+
+ SEC. 6. PROHIBITION ON THE USE OF ALGORITHMIC RECOMMENDATION SYSTEMS ON TEENS UNDER 18.
+
+
+(a) In General.—A social media platform shall not use the personal data of an individual in an algorithmic recommendation system unless the platform knows or reasonably believes that the individual is age 18 or older according to the age verification process used by the platform.
+
+
+(b) Rule Of Construction.—The prohibition in subsection (a) shall not be construed to prevent the suggestion of information or provision of advertising to an individual based on context where the information or advertising is related to the content being viewed by the individual, as long as such information is suggested or advertising is provided solely based on context and is not targeted or recommended based on personal data of the individual.
+
+ SEC. 7. SECURE DIGITAL IDENTIFICATION CREDENTIAL PILOT PROGRAM.
+
+
+(a) In General.—Not later than 2 years after the date of enactment of this Act, the Secretary of Commerce (referred to in this section as the “Secretary”) shall establish a pilot program (referred to in this Act as the “Pilot Program”) for providing a secure digital identification credential to individuals who are citizens and lawful residents of the United States at no cost to the individual.
+
+
+(b) Pilot Program Parameters.—The Pilot Program shall do the following:
+
+
+(1) Allow individuals to verify their age, or their parent or guardian relationship with a minor user, by uploading copies of government-issued and other forms of identification (such as records issued by an educational institution), or by validating the authenticity of identity information provided by the individual using electronic records of State departments of motor vehicles, the Internal Revenue Service, the Social Security Administration, State agencies responsible for vital records, or other governmental or professional records providers that the Secretary determines are able to reliably assist in the verification of identity information.
+
+
+(2) Meet or exceed the highest cybersecurity standards expected of secure consumer products such as financial or healthcare records or that are required to obtain access to government systems.
+
+
+(3) Provide users with the ability to—
+
+
+(A) obtain a secure digital identification credential that they may use to verify their age or parent or guardian relationship with enrolled social media platforms; and
+
+
+(B) control what data they choose to allow the pilot program to share with a social media platform, without sharing copies of the underlying verification documents or any information that the user does not affirmatively agree to share with those social media platforms.
+
+
+(4) Not retain copies of underlying governmental records after verifying the information provided by the user.
+
+
+(5) Provide users with the ability to disable or delete their secure digital identification credential and any associated records kept by the Pilot Program at any time.
+
+
+(6) Keep no records of the social media platforms where users have verified their identity using a secure digital identification credential, other than aggregate data that is anonymized so that it cannot be linked to individual users.
+
+
+(c) Access.—Information regarding individual users of the Pilot Program shall be confidential, and no officer or employee of the United States, or any other person who has or had access to such information due to their involvement with the Pilot Program, shall disclose any such information to any entity, including law enforcement agencies, except—
+
+
+(1) with the consent of the user;
+
+
+(2) in connection with oversight by an Inspector General related to the proper implementation of this Act;
+
+
+(3) in connection with an investigation into a user for committing fraud against the Pilot Program; or
+
+
+(4) pursuant to a court order.
+
+
+(d) Voluntary Program.—The Pilot Program described in subsection (a) shall be voluntary, and nothing in this Act shall be construed to require any individual or social media platform to use the Pilot Program.
+
+
+(e) Social Media Platform Enrollment.—
+
+
+(1) The Secretary may establish regulations for social media platform enrollment in the Pilot Program to ensure that enrolled social media platforms employ appropriate privacy and technical protections sufficient to prevent the abuse or improper release of Pilot Program information relating to individual users.
+
+
+(2) The Secretary may revoke the enrollment of any social media platform to protect the integrity and security of the Pilot Program information.
+
+
+(f) Authority To Enter Agreements.—The Secretary shall have the authority to enter into memoranda of agreement with Federal, State, tribal, or nongovernmental entities, including entering into contracts with private identity verification technology providers, to facilitate the establishment and operation of the Pilot Program.
+
+
+(g) Design Report To Congress.—Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Commerce of the Senate, the Committee on Appropriations of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Appropriations of the House of Representatives, a report outlining the proposed design of the Pilot Program, including estimated costs and the identification of any legal or other barriers identified as impeding the creation and functioning of the Pilot Program.
+
+
+(h) Allowable Use.—The Pilot Program shall be used only to establish online age verification and parental consent for purposes of social media platform participation, and may not be used to establish eligibility for any government benefit or legal status.
+
+
+(i) Sunset.—The Pilot Program shall end on the later of—
+
+
+(1) September 30 of the eighth year that begins after the date of enactment of this Act; and
+
+
+(2) September 30 of the fifth year that begins after the date on which the Pilot Program begins providing secure digital identification credentials to individuals.
+
+
+(j) Authorization.—There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out the provisions of this section.
+
+ SEC. 8. ENFORCEMENT.
+
+
+(a) Enforcement By Commission.—
+
+
+(1) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.—A violation of this Act by a social media platform shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+
+(2) POWERS OF COMMISSION.—
+
+
+(A) IN GENERAL.—Except as provided in subparagraph (C), the Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
+
+
+(B) PRIVILEGES AND IMMUNITIES.—Except as provided in subparagraph (C), any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+
+
+(C) NONPROFIT ORGANIZATIONS AND COMMON CARRIERS.—Notwithstanding section 4 or 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 44, 45(a)(2)) or any jurisdictional limitation of the Commission, the Commission shall also enforce this Act, in the same manner provided in subparagraphs (A) and (B) of this paragraph, with respect to—
+
+
+(i) organizations not organized to carry on business for their own profit or that of their members; and
+
+
+(ii) common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.).
+
+ (b) Enforcement By States.—
+
+
+(1) AUTHORIZATION.—Subject to paragraph (3), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of a social media platform in a practice that violates this Act, the attorney general of the State may, as parens patriae, bring a civil action against the online service provider or person on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief, including civil penalties in the amount determined under paragraph (2).
+
+
+(2) CIVIL PENALTIES.—A social media platform that is found, in an action brought under paragraph (1), to have knowingly or repeatedly violated sections this Act shall, in addition to any other penalty otherwise applicable to a violation of this Act, be liable for a civil penalty equal to the amount calculated by multiplying—
+
+
+(A) the greater of—
+
+
+(i) the number of days during which the social media platform was not in compliance with that section; or
+
+
+(ii) the number of end users who were harmed as a result of the violation; by
+
+
+(B) an amount not to exceed the maximum civil penalty for which a person, partnership, or corporation may be liable under section 5(m)(1)(A) of the Federal Trade Commission Act (15 U.S.C. 45(m)(1)(A)) (including any adjustments for inflation).
+
+
+(3) RIGHTS OF FEDERAL TRADE COMMISSION.—
+
+
+(A) NOTICE TO FEDERAL TRADE COMMISSION.—
+
+
+(i) IN GENERAL.—Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating the civil action.
+
+
+(ii) CONTENTS.—The notification required under clause (i) with respect to a civil action shall include a copy of the complaint to be filed to initiate the civil action.
+
+
+(iii) EXCEPTION.—If it is not feasible for the attorney general of a State to provide the notification required under clause (i) before initiating a civil action under paragraph (1), the attorney general shall notify the Commission immediately upon instituting the civil action.
+
+
+(B) INTERVENTION BY FEDERAL TRADE COMMISSION.—The Commission may—
+
+
+(i) intervene in any civil action brought by the attorney general of a State under paragraph (1); and
+
+
+(ii) upon intervening—
+
+
+(I) be heard on all matters arising in the civil action; and
+
+
+(II) file petitions for appeal of a decision in the civil action.
+
+
+(4) INVESTIGATORY POWERS.—Nothing in this subsection may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of the State to—
+
+
+(A) conduct investigations;
+
+
+(B) administer oaths or affirmations; or
+
+
+(C) compel the attendance of witnesses or the production of documentary or other evidence.
+
+
+(5) PREEMPTIVE ACTION BY FEDERAL TRADE COMMISSION.—If the Commission institutes a civil action or an administrative action with respect to a violation of this Act, the attorney general of a State may not, during the pendency of the action, bring a civil action under paragraph (1) against any defendant named in the complaint of the Commission based on the same set of facts giving rise to the alleged violation with respect to which the Commission instituted the action.
+
+
+(6) VENUE; SERVICE OF PROCESS.—
+
+
+(A) VENUE.—Any action brought under paragraph (1) may be brought in—
+
+
+(i) the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code; or
+
+
+(ii) another court of competent jurisdiction.
+
+
+(B) SERVICE OF PROCESS.—In an action brought under paragraph (1), process may be served in any district in which the defendant—
+
+
+(i) is an inhabitant; or
+
+
+(ii) may be found.
+
+
+(7) ACTIONS BY OTHER STATE OFFICIALS.—
+
+
+(A) IN GENERAL.—In addition to civil actions brought by attorneys general under paragraph (1), any other consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
+
+
+(B) SAVINGS PROVISION.—Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
+
+
+(c) Extraterritorial Jurisdiction.—There is extraterritorial jurisdiction over any violation of this Act if such violation involves an individual in the United States or if any act in furtherance of the violation was committed in the United States.
+
+
+SEC. 9. EFFECTIVE DATE.
+
+
+This Act shall take effect 1 year after the date of enactment of this Act.

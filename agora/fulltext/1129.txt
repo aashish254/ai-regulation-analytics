@@ -1,0 +1,43 @@
+[introductory comments omitted]
+
+China is committed to building a community with a shared future for mankind in the domain of AI, advocating a people-centered approach and the principle of AI for good. China finds it important to enhance the understanding of all countries on AI ethics, and ensure that AI is safe, reliable, controllable, and capable of better empowering global sustainable development and enhancing the common well-being of all mankind. To this end, China calls on all parties to uphold the principles of extensive consultation, joint contribution and shared benefits, and advance international AI ethical governance.
+
+II. In December 2021, China released the Position Paper of the Peoples' Republic of China on Regulating Military Applications of Artificial Intelligence (AI), calling on parties to observe national or regional ethical norms for AI. In this connection, China, based on its own policies and practices and with reference to useful international experience, makes the following points in the aspects of regulation, research and development, utilization and international cooperation.
+
+(1) Regulation
+
+Governments should give priority to ethics, establish and improve rules, norms and accountability mechanisms for AI ethics, clarify responsibilities and power boundaries of AI-related entities, fully respect and protect the legitimate rights and interests of all groups, and respond to relevant ethical concerns at home and abroad in a timely manner.
+
+Governments should place emphasis on research on fundamental theoretical issues regarding AI ethics and laws, gradually put in place and improve AI ethical norms, laws, regulations, and policies, formulate guidelines on AI ethics, establish review and regulation mechanisms for ethics in science and technology, and strengthen evaluation and management capacity for AI security.
+
+Governments should bear in mind worst-case scenarios and enhance risk awareness, better identify potential ethical risks that AI technologies may entail, gradually establish an effective early warning mechanism, apply agile governance and tiered and categorized management, and continuously improve risk management, control and settlement capacity.
+
+Governments should, in light of their own stage of AI development as well as social and cultural characteristics, and in accordance with the new features of scientific and technological innovation, gradually establish AI ethical systems suited to their national conditions, and improve AI ethical governance mechanisms featuring wide participation and cooperative governance.
+
+(2) Research and Development (R&D)
+
+Governments should require R&D entities to strengthen self-discipline, voluntarily incorporate ethics into the whole process of AI R&D, avoid premature use of technologies that may cause serious consequences, and ensure that AI is always under the control of humans.
+
+Governments should require R&D entities to strive for algorithm security and controllability throughout the AI R&D process, improve transparency, explainability and reliability in the stages of algorithm design, implementation, application, etc., and gradually make AI verifiable, regulatable, traceable, predictable and trustworthy.
+
+Governments should require R&D entities to strive for better data quality during AI R&D, strictly abide by data security regulations, ethics and relevant laws and standards in the phases of data collection, storage, utilization, etc., and improve the completeness, timeliness, consistency, normalization and accuracy of data.
+
+Governments should require R&D entities to strengthen ethics review of data collection and algorithm development, fully consider diversified demands, avoid potential data and algorithms bias, and strive to achieve the universality, fairness and non-discrimination of AI systems.
+
+(3) Utilization
+
+Governments should prohibit using AI technologies and relevant applications which run counter to laws, regulations, ethics and standards, strengthen quality monitoring and evaluations on the use of AI products and services, and formulate emergency mechanisms and compensation measures.
+
+Governments should strengthen pre-use study and evaluations of AI products and services, and promote institutionalized training on AI ethics. Relevant personnel should fully understand the functions, features, limitations and potential risks and consequences of AI technologies, and acquire necessary professional expertise and skills.
+
+Governments should safeguard individual privacy and data security of Al products and services, strictly follow international or regional norms for handling of personal information, improve the mechanism for revoking personal data authorization, and oppose illegal collection and utilization of personal information.
+
+Governments should attach importance to public education on AI ethics, guarantee the public’s rights of knowledge and meaningful participation, give full play to the roles of scientific and technological communities, guide all sectors of society to comply with AI ethical rules and norms, and raise AI ethical awareness.
+
+(4) International cooperation
+
+Governments should encourage transnational, interdisciplinary, and cross-cultural exchanges and cooperation, ensure that the benefits of AI technologies are shared by all countries, promote joint participation of countries in international discussions and rules-making on major issues regarding AI ethics, and oppose the building of exclusive groups and malicious obstruction of other countries’ technological development.
+
+Governments should strengthen the regulation of AI ethics for international cooperative research activities. Relevant science and technology activities should comply with the requirements of AI ethics management in the countries where the cooperating parties are located, and pass the AI ethics review accordingly.
+
+China calls on the international community to reach international agreement on the issue of AI ethics on the basis of wide participation, and work to formulate widely accepted international AI governance framework, standards and norms while fully respecting the principles and practices of different countries’ AI governance.

@@ -1,0 +1,25 @@
+SEC. 205. Study on modernizing wildfire response technologies.
+(a) In general.—The Secretaries shall conduct a study on—
+
+
+(1) necessary improvements to radio communications systems and infrastructure during wildland fire or prescribed fire operations, including—
+(A) an assessment of the quality and reliability of existing radio infrastructure;
+(B) for any instance in which existing radio communications infrastructure has failed, an assessment of the impacts on forest management or wildfire response activities;
+(C) a comparison of existing options to improve on-the-ground communications; and
+(D) a cost analysis and estimated timeline to install the most feasible option identified under subparagraph (C);
+
+
+(2) real-time or near-real-time situational awareness tools for operational firefighters, including—
+(A) standards and requirements for such tools to ensure interoperability between Federal firefighting entities and applicable State, local, Tribal, or other partners;
+(B) any requirements for additional remote sensing and mapping capabilities to fully leverage such situational awareness tools; and
+(C) a cost comparison between commercially available systems and internally developed systems; and
+
+
+(3) wildland fire predictive modeling, including—
+(A) an analysis of the data required to reduce predictive error for existing or developing models;
+(B) an analysis of computing needs to more swiftly or accurately model wildland fire using existing or developing models;
+(C) the feasibility of using artificial intelligence for wildland fire modeling; and
+(D) existing or developing wildland fire predictive models that could assist with establishing safe conditions for igniting a prescribed fire.
+
+
+(b) Submission and public availability.—Not later than 1 year after the date of enactment of this Act, the Secretaries shall submit to the congressional committees and make publicly available the results of the study conducted under subsection (a).

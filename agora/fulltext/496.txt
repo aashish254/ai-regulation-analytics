@@ -1,0 +1,174 @@
+A BILL
+
+To address the needs of workers in industries likely to be impacted by rapidly evolving technologies.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Investing in Tomorrow's Workforce Act of 2023”.
+
+SEC. 2. Findings.
+
+Congress makes the following findings:
+
+(1) A 2019 Government Accountability Office report found that while there are many Federal employment and training programs, their total funding levels remain at nearly $20,000,000,000, or less than 0.1 percent of the gross domestic product of the United States.
+
+(2) The number of workers receiving federally supported training has declined in the past 3 decades as advances in technology have simultaneously shifted labor market demand over time.
+
+(3) Job losses from automation are more likely to impact women, people of color, and workers making less than $40,000 annually.
+
+(4) The COVID–19 pandemic accelerated trends in automation, with 43 percent of businesses in the World Economic Forum’s Future of Jobs survey indicating they plan to reduce their workforce as a result of technology integration.
+
+(5) Strong Federal investment in expanding training services for workers whose jobs may be lost due to automation could prepare the United States workforce to better adapt to changes in the labor market and enter into skilled positions in technologically oriented occupations and industries.
+
+(6) A focus on preparing the workforce of the United States for jobs that utilize advanced technologies and require digital literacy could grow wages, increase economic productivity, and boost the competitiveness of the United States.
+
+(7) Studies show that the United States would need to invest $72,000,000,000 more annually just to reach the average investment in workforce policies of other industrial countries. For training alone, the United States would need to invest nearly $8,500,000,000 just to reach the average amount invested by member countries of the Organisation on Economic Co-operation and Development.
+SEC. 3. Definitions.
+
+In this Act:
+
+(1) AUTOMATION.—The term “automation” means a device, process, or system that functions without continuous input from an operator, including—
+
+(A) advanced technologies, such as—
+
+(i) data collection, classification processing, and analytics; and
+
+(ii) 3-D printing, digital design and simulation, and digital manufacturing;
+
+(B) robotics, including collaborative robotics, and worker augmentation technology;
+
+(C) autonomous vehicle technology; or
+
+(D) autonomous machinery technology.
+
+(2) COVERED POPULATION.—The term “covered population” means a population of individuals with a barrier to employment described in subparagraphs (A) through (N) of section 3(24) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(24)).
+(3) DIGITAL LITERACY.—The term “digital literacy” has the meaning given the term in section 60301 of the Infrastructure Investment and Jobs Act (47 U.S.C. 1721).
+
+(4) DISLOCATED WORKER.—The term “dislocated worker” has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
+
+(5) ELIGIBLE PARTNERSHIP.—The term eligible partnership means an industry or sector partnership, as defined in section 3 of the Workforce Innovation and Opportunity Act, except that—
+
+(A) for purposes of applying paragraph (26)(A)(iii) of that section, the term “institution of higher education” has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001); and
+
+(B) the partnership shall include, in addition to the representatives described in clauses (i) through (iii) of section 3(26)(A) of the Workforce Innovation and Opportunity Act, representatives of—
+
+(i) a State workforce development board or a local workforce development board; and
+
+(ii) an economic development organization.
+(6) IN-DEMAND INDUSTRY SECTOR OR OCCUPATION.—The term “in-demand industry sector or occupation” has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
+
+(7) INTEGRATED EDUCATION AND TRAINING.—The term “integrated education and training” has the meaning given the term in section 203 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3272).
+
+(8) LOCAL AND STATE WORKFORCE DEVELOPMENT BOARDS.—The terms “local workforce development board” and “State workforce development board” have the meanings given the terms “local board” and “State board”, respectively, in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
+
+(9) SECRETARY.—The term “Secretary” means the Secretary of Labor.
+
+(10) TRAINING SERVICES.—The term “training services” means training services described in section 134(c)(3)(D) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(c)(3)(D)) and may include digital literacy skills.
+SEC. 4. Grants to improve training for workers impacted by automation.
+
+(a) Grants authorized.—
+
+(1) IN GENERAL.—From the amounts appropriated under subsection (g) and beginning in fiscal year 2024, the Secretary shall award grants, on a competitive basis, to eligible partnerships to support demonstration and pilot projects relating to the training needs of workers who are, or are likely to become, dislocated workers as a result of automation.
+
+(2) DURATION.—A grant awarded under this section shall be for a period not to exceed 4 years.
+
+(b) Applications.—
+
+(1) IN GENERAL.—To be eligible to receive a grant under this section, an eligible partnership shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary shall reasonably require.
+(2) CONTENTS.—Each application submitted under paragraph (1) shall include a description of the demonstration or pilot project to be completed with the grant funds, which description shall include—
+
+(A) a description of the members of the eligible partnership who will be involved in the demonstration or pilot project and the services each member will provide;
+
+(B) a description of the training services that will be available to individuals participating in the demonstration or pilot project, which may include—
+
+(i) a plan to train dislocated workers from industries likely to be impacted by automation and transition the workers into regionally in-demand industry sectors or occupations; and
+
+(ii) a plan to partner with local businesses to retrain, upskill, and re-deploy workers within an industry as an alternative to layoffs;
+
+(C) a plan to provide workers with technology-based skills training, which may include training to provide skills related to coding, systems engineering, or information technology security, in addition to other skills;
+
+(D) a description of the goals that the eligible partnership intends to achieve to upskill workers and prepare them for in-demand industry sectors or occupations; and
+
+(E) a description of how and which covered populations within the area will be supported through this grant, including a plan for stakeholder engagement.
+(c) Priorities.—In awarding grants under this section, the Secretary shall—
+
+(1) first give priority to eligible partnerships that are located in areas with a high percentage of individuals from covered populations; and
+
+(2) to the extent amounts remain available for additional grants after carrying out paragraph (1), give priority to—
+
+(A) eligible partnerships that are located in an area with a high concentration of—
+
+(i) industries with a higher likelihood of being impacted by automation; or
+
+(ii) industries included in in-demand industry sectors, as determined under subparagraphs (A)(i) and (B) of section 3(23) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(23));
+
+(B) eligible partnerships—
+
+(i) with a plan to provide incumbent worker training—
+
+(I) to assist workers in obtaining the skills necessary to retain employment or avert layoffs; or
+
+(II) that allows a worker working for an employer to acquire new skills that allow the worker to obtain a higher-skilled or higher-paid position with such employer; and
+
+(ii) that partner with local employers that intend to backfill the pre-training positions of the incumbent workers by hiring new workers to fill those positions;
+
+(C) eligible partnerships that will provide workers with a transportation stipend, paid sick leave, paid family and medical leave, access to child care services, or other employment benefits; or
+
+(D) eligible partnerships with a plan to develop a shared training curriculum that can be used across local and regional networks of employers and training providers.
+(d) Use of funds.—An eligible partnership that receives a grant under this section shall use the grant funds for 1 or more of the following:
+
+(1) Providing training services under the demonstration or pilot project, which may include training services that prepare workers for in-demand industry sectors or occupations.
+
+(2) Providing assistance for employers in developing a staff position for an individual who will be responsible for supporting training services provided under the grant.
+
+(3) Purchasing equipment or technology necessary for training services provided under paragraph (1).
+
+(4) Providing job search and other transitional assistance to workers in industries with high rates of job loss.
+
+(5) Providing a training stipend to workers for training services.
+
+(6) Providing integrated education and training.
+(e) Report.—
+
+(1) IN GENERAL.—Not later than 1 year after an eligible partnership’s completion of a demonstration or pilot project supported under this section, the eligible partnership shall prepare and submit to the Secretary a report regarding—
+
+(A) the number of workers who received training services through the demonstration or pilot project;
+
+(B) the number of such workers who successfully transitioned into a new position following completion of the training services;
+
+(C) the number of individuals who successfully transitioned into an in-demand industry sector or occupation following completion of the training services;
+
+(D) annual earnings data for individuals who have completed training services through the demonstration or pilot project;
+
+(E) the percentage of individuals described in subparagraph (D) who are in education or training activities, or in employment, during the second quarter after exit from the training services;
+
+(F) the percentage of individuals described in subparagraph (D) who are in education or training activities, or in employment, during the fourth quarter after exit from the training services; and
+
+(G) any practices used by the partnership that should be considered best practices with respect to training workers in industries that have, or are expected to have, high rates of job loss as a result of automation.
+
+(2) DISAGGREGATION.—Each eligible partnership shall provide the information required under subparagraphs (A) through (F) of paragraph (1) in the aggregate and disaggregated by type of training service and by age, gender, and race of the workers.
+(f) General requirements.—An eligible partnership that receives a grant under this section shall use the grant funds in a manner that is consistent with the labor standards and protections described in section 181 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3241) and nondiscrimination provisions described in section 188 of such Act (29 U.S.C. 3248).
+
+(g) Authorization of appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2024 through 2028.
+
+SEC. 5. Expansion of worker training services.
+
+(a) Adult and dislocated worker employment and training.—Section 134(d)(1)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(d)(1)(A)) is amended—
+
+(1) in clause (xi), by striking “and” at the end;
+
+(2) in clause (xii), by striking the period and inserting “; and”; and
+
+(3) by adding at the end the following:
+
+“(xiii) training programs for individuals who are, or are likely to become, dislocated workers as a result of automation, including activities that prepare the individuals for occupations in the technology sector.”.
+
+(b) National dislocated worker grants.—Section 170 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3225) is amended—
+
+(1) in subsection (b)(1)(A), by inserting “advances in automation technology,” before “plant closures,”; and
+
+(2) by adding at the end the following:
+
+“ Authorization of appropriations.—In addition to any funds reserved under section 132(a)(2)(A) to carry out this section, there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2024 through 2028.”.

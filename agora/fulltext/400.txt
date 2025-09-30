@@ -1,0 +1,51 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Artificial Intelligence Environmental Impacts Act of 2024”.SEC. 2. FINDINGS.
+Congress finds the following:
+(1) Multiple estimates indicate that the amount of computational power being used for artificial intelligence applications has increased rapidly over the last decade. A 2022 estimate suggested that the number of computational operations being used to create each of the largest artificial intelligence models is currently doubling every 10 months.
+(2) Accelerating use of artificial intelligence has the potential to greatly increase energy consumption due to the power utilization of computer hardware required for training and operating artificial intelligence models, despite ongoing efficiency gains in both artificial intelligence models and hardware.
+(3) Rapid growth in data center infrastructure, including cooling systems and backup power equipment, supporting artificial intelligence and other computing-intensive technologies contributes to pollution, water consumption, and land-use changes.
+(4) Resource and energy-intensive manufacturing processes are required for the hardware that runs artificial intelligence and other computing-intensive technologies, leading to significant environmental impacts.
+(5) Yearly increases in electronic waste (known as “e-waste”) pose increasing environmental and health risks, and will likely be exacerbated by outdated and discarded hardware used for artificial intelligence and other computing-intensive technologies.
+(6) Many applications of artificial intelligence can have direct and indirect positive environmental impacts. Positive environmental impacts may include optimizing systems for energy efficiency, developing renewable energy, advancing planetary systems research, enabling discovery of new materials, and automatically monitoring environmental changes. However, artificial intelligence applications may also have direct and indirect negative environmental impacts, including rebound effects, behavioral impacts, and accelerating high-pollution activities.
+(7) Estimates of the current and future environmental impacts of artificial intelligence are currently uncertain.
+(8) Negative environmental effects may have a disparate impact across different regions and communities.
+(9) Various options exist to reduce the negative environmental impacts of artificial intelligence, including using more efficient models, hardware, and data centers, using renewable energy, and examining the impacts of artificial intelligence applications.
+(10) Promoting transparency and environmental protection measures may help mitigate negative environmental impacts of the rapid growth in artificial intelligence use, while promoting artificial intelligence uses with net positive environmental impacts.SEC. 3. DEFINITIONS.
+In this Act:
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(2) ARTIFICIAL INTELLIGENCE MODEL.—The term “artificial intelligence model” means a component of an information system that implements artificial intelligence technology and uses computational, statistical, or machine-learning techniques to produce outputs from a given set of inputs.
+(3) ARTIFICIAL INTELLIGENCE SYSTEM.—The term “artificial intelligence system” means any data system, software, hardware, application, tool, or utility that operates in whole or in part using artificial intelligence.
+(4) VOLUNTARY REPORTING ENTITY.—The term “voluntary reporting entity” means any company, organization, or other entity that—
+(A) develops or operates an artificial intelligence system; and
+(B) chooses to participate in the reporting system developed under section 6.SEC. 4. STUDY ON ENVIRONMENTAL IMPACTS OF ARTIFICIAL INTELLIGENCE.
+
+(a) In General.—Not later than 2 years after the date of enactment of this Act, the Administrator of the Environmental Protection Agency, in collaboration with the Secretary of Energy, the Director of the National Institute of Standards and Technology, and the Director of the Office of Science and Technology Policy, shall carry out, and submit to Congress and make publicly available a report describing the results of, a comprehensive study on the environmental impacts of artificial intelligence.
+(b) Requirements.—The study required under subsection (a) shall include an examination of—
+(1) the energy consumption and pollution associated with the full lifecycle of artificial intelligence models, including the design, development, deployment, and use of those artificial intelligence models;
+(2) the energy consumption and pollution associated with the full lifecycle of artificial intelligence hardware, including the extraction of raw materials, manufacturing, and electronic waste associated with that hardware;
+(3) the energy and water consumption for the cooling of the data centers used in the design, development, deployment, and use of artificial intelligence models;
+(4) how choices made during the design, development, deployment, and use of artificial intelligence models, including the efficiency of the artificial intelligence models used, the location, power source, and design of data centers used, and the type of hardware used, impact the resulting environmental impacts;
+(5) potential environmental impacts that could be acute at local scales, which may include added power loads that create grid stress, water withdrawals that create water stress, or local noise impacts;
+(6) the positive environmental impacts associated with applications of artificial intelligence, which may include optimizing systems for energy efficiency, developing renewable energy, advancing planetary systems research, enabling discovery of new materials, and automatically monitoring environmental changes;
+(7) the negative environmental impacts associated with applications of artificial intelligence, which may include rebound effects, behavioral impacts, and accelerating high-pollution activities;
+(8) disparate impacts in the negative environmental impacts of artificial intelligence;
+(9) other environmental impacts, as determined by the Administrator of the Environmental Protection Agency; and
+(10) the results of the updated data center study carried out under section 453(e)(2) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17112(e)(2)).
+(c) Public Comment Required.—In conducting the study required under subsection (a), the Administrator of the Environmental Protection Agency shall solicit and consider public comments.SEC. 5. ARTIFICIAL INTELLIGENCE ENVIRONMENTAL IMPACTS CONSORTIUM.
+
+(a) In General.—The Director of the National Institute of Standards and Technology shall, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and such others as the Director considers appropriate, convene a consortium of stakeholders, including members from academia, civil society, and industry, to identify the future measurements, methodologies, standards, and other appropriate needs, in order to measure and report the full range of environmental impacts of artificial intelligence.
+(b) Location.—The Director may determine the location of the consortium within the National Institute of Standards and Technology.
+(c) Goals.—The goals of the consortium shall include the following:
+(1) Facilitating consistent, comparable reporting on the environmental impacts of the full lifecycle of artificial intelligence models, systems, and hardware.
+(2) According to technical feasibility, the development or cataloging of open source software and hardware tools and other resources designed to facilitate the measurement of environmental impacts of artificial intelligence models, systems, and hardware.
+(3) Providing recommendations on how to mitigate the negative, and promote the positive, environmental impacts of artificial intelligence.SEC. 6. REPORTING SYSTEM FOR VOLUNTARY REPORTING OF ENVIRONMENTAL IMPACTS OF ARTIFICIAL INTELLIGENCE.
+
+(a) Voluntary Reporting System.—The Director of the National Institute of Standards and Technology shall, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the consortium convened under section 5, and such others as the Director considers appropriate, develop a system for voluntary reporting by voluntary reporting entities of the full range of environmental impacts of artificial intelligence.
+(b) Guidelines.—
+(1) IN GENERAL.—The Director shall develop guidelines for voluntary reporting entities on how to participate in the voluntary reporting system developed under subsection (a). Such guidelines may include guidelines on how to calculate and report energy consumption, water consumption, pollution, and electronic-waste associated with the full lifecycle of artificial intelligence models and hardware, as well as other positive and negative impacts of artificial intelligence use, as determined by the Director.
+(2) PUBLIC COMMENTS.—Before finalizing the guidelines under paragraph (1), the Director shall solicit comments from the public on a draft version of the guidelines.
+(c) Availability.—The Director shall, to the maximum extent practicable and with consideration to privileged business information, make submissions to the voluntary reporting system under subsection (a) available on a public website.SEC. 7. REPORT TO CONGRESS.
+Not later than 4 years after the date of the enactment of this Act, the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Director of the National Institute of Standards and Technology shall jointly submit to Congress a report detailing the following:
+(1) The main findings of the consortium convened under section 5.
+(2) A description of the reporting system created under section 6.
+(3) Recommendations for legislative or administrative action to mitigate the negative and promote the positive environmental impacts of artificial intelligence.

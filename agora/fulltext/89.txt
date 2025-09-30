@@ -1,0 +1,312 @@
+SECTION 1. Short title.
+
+This Act may be cited as the “Creating Resources for Every American To Experiment with Artificial Intelligence Act of 2023” or the “CREATE AI Act of 2023”.
+
+SEC. 2. Findings.
+
+Congress finds the following:
+
+(1) Cutting-edge artificial intelligence research relies on access to computational resources and large datasets.
+
+(2) Access to the computational resources and datasets necessary for artificial intelligence research and development is often limited to very large technology companies.
+
+(3) The lack of access to computational and data resources has resulted in insufficient diversity in the artificial intelligence research and development community.
+
+(4) Engaging the full and diverse talent of the United States is critical for maintaining United States leadership in artificial intelligence and ensuring that artificial intelligence is developed in a manner that benefits all people of the United States.
+
+(5) The National Artificial Intelligence Research Resource Task Force, authorized under section 5106 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401 et seq.), recommended the establishment of a National Artificial Intelligence Research Resource in a report entitled “Strengthening and Democratizing the U.S. Artificial Intelligence Innovation Ecosystem: An Implementation Plan for a National Artificial Intelligence Research Resource”, issued on January 24, 2023.
+SEC. 3. National Artificial Intelligence Research Resource.
+
+(a) NAIRR steering subcommittee.—Section 5103 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9413) is amended—
+
+(1) by redesignating subsection (e) as subsection (f); and
+
+(2) by inserting after subsection (d) the following:
+
+“(e) NAIRR Steering Subcommittee.—
+
+“(1) DEFINITION.—In this subsection, the terms ‘NAIRR’, ‘National Artificial Intelligence Research Resource’, ‘Operating Entity’, ‘Program Management Office’, and ‘resources of the NAIRR’ have the meanings given the terms in section 5601.
+
+“(2) ESTABLISHMENT.—There is established within the Interagency Committee a Steering Subcommittee for the National Artificial Intelligence Research Resource (referred to in this section as the ‘NAIRR Steering Subcommittee’).
+
+“(3) CHAIR AND ASSISTANT CHAIRS.—The NAIRR Steering Subcommittee shall be chaired by the Director of the Office of Science and Technology Policy. The Director of the Office of Science and Technology Policy may establish assistant chairs of the NAIRR Steering Subcommittee based on members of the NAIRR Steering Subcommittee rotating into the assistant chair positions on a predetermined schedule.
+
+“(4) MEMBERSHIP.—The Director of the Office of Science and Technology Policy shall select members of the Interagency Committee to serve on the NAIRR Steering Subcommittee that the Director determines—
+
+“(A) have substantial expertise;
+
+“(B) have substantially funded or conducted artificial intelligence research and development; or
+
+“(C) have some other significant relationship with the NAIRR.
+
+“(5) CHANGES TO NAIRR STEERING SUBCOMMITTEE COMPOSITION.—Not less frequently than once a year, the Director of the Office of Science and Technology Policy shall review the composition of the NAIRR Steering Subcommittee and update such composition, which may include adding or removing members from the NAIRR Steering Subcommittee, if necessary.
+
+“(6) SUBCOMMITTEES AND WORKING GROUPS.—The NAIRR Steering Subcommittee may establish subcommittees, working groups, or other permanent or temporary bodies of certain members of the NAIRR Steering Subcommittee.
+“(7) DUTIES.—The NAIRR Steering Subcommittee shall—
+
+“(A) coordinate with the National Science Foundation and the Program Management Office to—
+
+“(i) oversee and approve the operating plan for the NAIRR;
+
+“(ii) request the budget for the NAIRR;
+
+“(iii) develop and release a request for proposals to solicit bids for the Operating Entity, including establishing the terms and conditions and functions of the Operating Entity; and
+
+“(iv) develop and release funding opportunities for resources of the NAIRR;
+
+“(B) work with the Program Management Office to establish criteria for the Operating Entity, review candidates, and select an entity to act as the Operating Entity;
+
+“(C) identify resources that could be federated, participate in resource provider selection and funding, and provide direction to the Operating Entity about resource allocation and how those resources should be made accessible via the NAIRR;
+
+“(D) define key performance indicators for the NAIRR, in conjunction with the Program Management Office and any relevant Advisory Committees established under section 5602(c);
+
+“(E) evaluate NAIRR performance against the key performance indicators defined under subparagraph (D) on a periodic basis and not less frequently than once every year;
+
+“(F) develop an annual report, transmitted to the Director of the Office of Science and Technology Policy and publicly released, on the progress of the National Artificial Intelligence Research Resource that includes—
+
+“(i) a summary of the results of the evaluation conducted under subparagraph (E); and
+
+“(ii) any recommendations for changes to the NAIRR; and
+
+“(G) oversee a periodic independent assessment of the NAIRR.
+
+“(8) PROVISION OF RESOURCES OF THE NAIRR.—Each agency comprising the NAIRR Steering Subcommittee is authorized to provide the Operating Entity with resources of the NAIRR or funding for resources of the NAIRR.”.
+(b) In general.—The National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401 et seq.) is amended by adding at the end the following:
+
+“TITLE LVI—National Artificial Intelligence Research Resource
+
+“Sec. 5601. Definitions.
+“Sec. 5602. Establishment; governance.
+“Sec. 5603. Resources of the NAIRR.
+“Sec. 5604. NAIRR processes and procedures.
+
+“SEC. 5601. Definitions.
+
+“In this title:
+
+“(1) ADVISORY COMMITTEE.—The term ‘Advisory Committee’ means any Advisory Committee established under section 5602(c).
+
+“(2) AI TESTBED.—The term ‘AI testbed’ means a testbed described in section 22A(g) of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1(g)).
+
+“(3) EXECUTIVE AGENCY.—The term ‘Executive agency’ has the meaning given such term in section 105 of title 5, United States Code.
+
+“(4) NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH RESOURCE; NAIRR.—The terms ‘National Artificial Intelligence Research Resource’ and ‘NAIRR’ have the meaning given the term ‘National Artificial Intelligence Research Resource’ in section 5106(g).
+“(5) OPERATING ENTITY.—The term ‘Operating Entity’ means the Operating Entity selected by the Program Management Office as described in section 5602(b)(3)(A).
+
+“(6) PROGRAM MANAGEMENT OFFICE.—The term ‘Program Management Office’ means the Program Management Office established under section 5602(b).
+
+“(7) RESOURCE OF THE NAIRR.—The term ‘resource of the NAIRR’ means a resource described in section 5603(b).
+
+“(8) NAIRR STEERING SUBCOMMITTEE.—The term ‘NAIRR Steering Subcommittee’ means the NAIRR Steering Subcommittee established under section 5103(e).
+
+“(9) STEM.—The term ‘STEM’ means science, technology, engineering, and mathematics, including computer science.
+“SEC. 5602. Establishment; governance.
+
+“(a) Establishment.—Not later than 1 year after the date of enactment of the Creating Resources for Every American To Experiment with Artificial Intelligence Act of 2023, the Director of the National Science Foundation, in coordination with the NAIRR Steering Subcommittee, shall establish the National Artificial Intelligence Research Resource to—
+
+“(1) spur innovation and advance the development of safe, reliable, and trustworthy artificial intelligence research and development;
+
+“(2) improve access to artificial intelligence resources for researchers and students of artificial intelligence, including groups historically underrepresented in STEM;
+
+“(3) improve capacity for artificial intelligence research in the United States; and
+
+“(4) support the testing, benchmarking, and evaluation of artificial intelligence systems developed and deployed in the United States.
+“(b) Program Management Office.—
+
+“(1) ESTABLISHMENT.—The Director of the National Science Foundation shall establish within the National Science Foundation a Program Management Office to oversee the day-to-day functions of the NAIRR and shall appoint an individual to head the Program Management Office.
+
+“(2) STAFF.—
+
+“(A) IN GENERAL.—The head of the Program Management Office may identify staff and direct all employees of the Program Management Office, in accordance with the applicable provisions of title 5, United States Code.
+
+“(B) REPRESENTATION AND REQUIREMENTS.—The staff of the Program Management Office—
+
+“(i) may include representation from other Federal agencies providing support for NAIRR resources; and
+
+“(ii) shall include not fewer than 3 full-time employees.
+“(3) DUTIES.—The duties of the Program Management Office shall include—
+
+“(A) in coordination with the NAIRR Steering Subcommittee and any relevant Advisory Committee as appropriate—
+
+“(i) developing the funding opportunity and soliciting bids for the Operating Entity, which will be responsible for operation of the National Artificial Intelligence Research Resource;
+
+“(ii) selecting, through a competitive and transparent process, a nongovernmental organization, which may be an independent legal entity or a consortium of 1 or more partners (which may include federally funded research and development centers), to be designated the Operating Entity;
+
+“(iii) overseeing compliance with the contractual obligations of the Operating Entity;
+
+“(iv) establishing evaluation criteria for the NAIRR;
+
+“(v) overseeing asset allocation and utilization;
+
+“(vi) identifying an external independent evaluation entity;
+
+“(vii) assessing the performance of the Operating Entity on not less than an annual basis and, if such performance is unsatisfactory, ending the agreement with such Operating Entity and selecting a new Operating Entity in accordance with clause (ii);
+
+“(viii) developing multi-agency funding opportunities for the selection of NAIRR resources; and
+
+“(ix) coordinating resource contributions from participating Federal agencies; and
+“(B) delegating, with appropriate oversight, operational tasks to the Operating Entity, including—
+
+“(i) coordinating the provisioning of resources of the NAIRR;
+
+“(ii) maintaining a portal and associated services for users to access resources of the NAIRR;
+
+“(iii) developing policies and procedures for the NAIRR;
+
+“(iv) hiring and managing a staff (including experts in cyber infrastructure management, data science, research design, privacy, ethics, civil rights and civil liberties, and legal and policy matters) to support the operations of the NAIRR;
+
+“(v) continually modernizing NAIRR infrastructure;
+
+“(vi) recommending key performance indicators for the NAIRR, in coordination with the NAIRR Steering Subcommittee and any relevant Advisory Committee;
+
+“(vii) publishing publicly available annual reports reviewing the performance of the NAIRR, the resources of the NAIRR, and the NAIRR governance structures;
+
+“(viii) establishing and administering training to new users on accessing a resource of the NAIRR, research design, and issues related to privacy, ethics, civil rights and civil liberties, safety, and trustworthiness of artificial intelligence systems;
+
+“(ix) facilitating connections to AI testbeds; and
+
+“(x) making resources of the NAIRR available to other Federal agencies, and to Congress, for the purpose of educating Federal Government officials and employees about artificial intelligence.
+“(c) Advisory Committees.—The head of the Program Management Office, acting through the Director of the Operating Entity, shall establish Advisory Committees to provide advice to the Operating Entity and the Program Management Office. Any such Advisory Committees shall be comprised of members from government agencies, the private sector, academia, and public interest groups. Chapter 10 of title 5, United States Code, shall not apply to any such Advisory Committee.
+“SEC. 5603. Resources of the NAIRR.
+
+“(a) In general.—The head of the Program Management Office, acting through the Director of the Operating Entity and in coordination with the NAIRR Steering Subcommittee and any relevant Advisory Committee, shall—
+
+“(1) coordinate and provision resources of the NAIRR;
+
+“(2) establish processes to manage the procurement of new resources of the NAIRR, and intake of in-kind contribution of resources of the NAIRR, from Federal agencies or other entities;
+
+“(3) establish policies on and review resources of the NAIRR for concerns related to ethics, privacy, civil rights, and civil liberties;
+
+“(4) retire resources of the NAIRR no longer available or needed; and
+
+“(5) publicly report a summary of categories of available resources of the NAIRR, categories of sources of such resources of the NAIRR, and issues related to resources of the NAIRR.
+“(b) Resources of the NAIRR.—The NAIRR shall offer resources that include, at a minimum, all of the following, subject to the availability of appropriations:
+
+“(1) A mix of computational resources, including—
+
+“(A) on-premises, cloud-based, hybrid, and emergent resources;
+
+“(B) public cloud providers providing access to popular computational and storage services for NAIRR users;
+
+“(C) an open source software environment for the NAIRR; and
+
+“(D) an application programming interface providing structured access to artificial intelligence models.
+
+“(2) Data, including by—
+
+“(A) (i) in coordination with the National Institute of Standards and Technology and consistent with the guidance of the National Science and Technology Council titled ‘Desirable Characteristics of Data Repositories for Federally Funded Data,’ dated May 2022, or any successor document, publishing interoperability standards for data repositories based on the data sharing and documentation standards and guidelines produced under section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1); and
+“(ii) selecting and developing, through a competitive bidding process, data repositories to be available to NAIRR users;
+
+“(B) establishing acceptable criteria for datasets used as resources of the NAIRR;
+
+“(C) identifying and providing access to existing curated datasets of value and interest to the NAIRR user community;
+
+“(D) establishing an artificial intelligence open data commons to facilitate community sharing and curation of data, code, and models; and
+
+“(E) coordinating with the Interagency Council on Statistical Policy to explore options to make Federal statistical data available to NAIRR users, including through the standard application process established under section 3583(a) of title 44, United States Code.
+
+“(3) Educational tools and services, including by—
+
+“(A) facilitating and curating educational and training materials;
+
+“(B) providing technical training and user support; and
+
+“(C) providing outreach and programming for groups historically underrepresented in STEM.
+
+“(4) AI testbeds, including by—
+
+“(A) in coordination with the National Institute of Standards and Technology, facilitating access to artificial intelligence testbeds through which researchers can measure, benchmark, test, or evaluate engineering or algorithmic developments; and
+
+“(B) developing a comprehensive catalog of open AI testbeds.
+“SEC. 5604. NAIRR processes and procedures.
+
+“(a) User eligibility.—
+
+“(1) ELIGIBLE USERS.—Subject to paragraph (3), the following users shall be eligible for access to the NAIRR:
+
+“(A) A researcher, educator, or student based in the United States that is affiliated with an entity described in paragraph (2).
+
+“(B) An employee of an entity described in clause (iii) or (iv) of paragraph (2)(B) with a demonstrable mission-need.
+
+“(2) ENTITIES DESCRIBED.—An entity described in this paragraph is an entity that satisfies the following:
+
+“(A) Is based in the United States.
+
+“(B) Is one of the following:
+
+“(i) An institution of higher education.
+
+“(ii) A nonprofit institution (as such term is defined in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703)).
+
+“(iii) An Executive agency.
+
+“(iv) A federally funded research and development center.
+
+“(v) A small business concern (as such term is defined in section 3 of the Small Business Act (15 U.S.C. 632), notwithstanding section 121.103 of title 13, Code of Federal Regulations) that has received funding from an Executive agency, including through the Small Business Innovation Research Program or the Small Business Technology Transfer Program (as described in section 9 of the Small Business Act (15 U.S.C. 638)).
+
+“(vi) A category of entity that the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy, after consultation with the NAIRR Steering Subcommittee and any relevant Advisory Committee, determine shall be eligible.
+
+“(vii) A consortium composed of entities described in clauses (i) through (vi).
+“(3) EXCLUDED ENTITIES.—
+
+“(A) IN GENERAL.—No individual is authorized to be an eligible user under paragraph (1) if the individual is employed by a foreign country that is listed in section 4872(d)(2) of title 10, United States Code, or is otherwise authorized by such country to act for or on its behalf.
+
+“(B) ENFORCEMENT.—The Director of the National Science Foundation shall ensure that individuals authorized as eligible users meet the requirements of subparagraph (A).
+“(b) Privacy, ethics, civil rights and civil liberties, safety, and trustworthiness.—
+
+“(1) IN GENERAL.—
+
+“(A) REQUIREMENTS.—The head of the Program Management Office, acting through the Director of the Operating Entity and in consultation with any relevant Advisory Committee, shall establish requirements, a review process for applications, and a process for auditing resources of the NAIRR and research conducted using resources of the NAIRR on matters related to privacy, ethics, civil rights and civil liberties, safety, security, and trustworthiness of artificial intelligence systems developed using resources of the NAIRR.
+
+“(B) FEDERAL STATISTICAL DATA.—Any auditing process required under subparagraph (A) for Federal statistical data included in a resource of the NAIRR shall be completed by the head of a designated statistical agency (as defined in section 3576(e) of title 44, United States Code), in coordination with the Chief Statistician of the United States, consistent with relevant law.
+
+“(2) CONSISTENCY.—The head of the Program Management Office shall ensure the requirements and processes described in paragraph (1) are consistent with the policies of the Office of Management and Budget policy and relevant policies of other Executive agencies. The head of the Program Management Office shall coordinate with the Senior Agency Official for Privacy and the General Counsel of the National Science Foundation in ensuring compliance with applicable privacy law and policy and Federal laws and regulations.
+“(3) AVAILABILITY.—The head of the Program Management Office, acting through the Director of the Operating Entity, shall—
+
+“(A) when determining access to computational resources of the NAIRR, take into consideration the extent to which the access relates to privacy, ethics, civil rights and civil liberties, safety, security, risk mitigation, and trustworthiness of artificial intelligence systems, or other topics that demonstrate that a project is in the public interest;
+
+“(B) ensure that a significant percentage of the annual allotment of computational resources of the NAIRR is provided to projects the primary focus of which is related to any of the topics described in subparagraph (A); and
+
+“(C) to the extent that demand for access to computational resources of the NAIRR exceeds availability, consider, on a priority basis, projects focusing on any of the topics described in subparagraph (A) when ranking applications for such access.
+“(c) Scientific integrity.—
+
+“(1) IN GENERAL.—The head of the Program Management Office, acting through the Director of the Operating Entity and in consultation with any relevant Advisory Committee, shall develop guidance for—
+
+“(A) addressing concerns related to matters of scientific integrity, including matters related to the effects or impacts of research and potential research enabled by the NAIRR; and
+
+“(B) mechanisms for an employee of the Operating Entity, an employee of the Program Management Office, a member of the NAIRR Steering Subcommittee or an Advisory Committee, a researcher or student affiliated with a NAIRR user described in subsection (a)(1), an employee of a provider of a resource of the NAIRR, an employee of a NAIRR funding agency, or a member of the public to report violations of the guidance developed under this paragraph, including by confidential and anonymous means.
+
+“(2) CONSISTENCY WITH GOVERNMENT POLICIES ON SCIENTIFIC INTEGRITY.—The guidance developed under paragraph (1)(A) shall be published in a publicly accessible location on the website of the NAIRR. Such policies shall, to the degree practicable, be consistent with—
+
+“(A) the Presidential memorandum entitled ‘Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking’, dated January 27, 2021, or successor document; and
+
+“(B) reports produced pursuant to such Presidential memorandum (including the reports entitled ‘Protecting the Integrity of Government Science’, dated January 2022, and ‘A Framework for Federal Scientific Integrity Policy and Practice’, dated January 2023, published by the National Science and Technology Council, or successor documents).
+“(d) System security and user access controls.—The head of the Program Management Office, acting through the Director of the Operating Entity and in consultation with the NAIRR Steering Subcommittee, the Director of the Office of Management and Budget, the Director of the National Institute of Standards and Technology, and the Director of the Cybersecurity and Infrastructure Security Agency—
+
+“(1) shall establish minimum security requirements for all persons interacting with the NAIRR, consistent with the most recent version of the Cybersecurity Framework, or successor document, maintained by the National Institute of Standards and Technology; and
+
+“(2) may establish tiers of security requirements and user access controls beyond the minimum requirements relative to security risks.
+
+“(e) Fee schedule.—The head of the Program Management Office, acting through the Director of the Operating Entity, may establish a fee schedule for access to the NAIRR. The Operating Entity may only charge fees in such fee schedule. Such fee schedule—
+
+“(1) may differ by type of eligible user and type of affiliated entity described in subsection (a);
+
+“(2) shall include a free tier of access based on appropriated funds and anticipated costs and demand;
+
+“(3) may include cost-based charges for eligible users to purchase resources of the NAIRR beyond the resources included in a free or subsidized tier; and
+
+“(4) shall ensure that the primary purpose of the NAIRR is to support research.
+
+“(f) Research security.—The head of the Program Management Office, acting through the Director of the Operating Entity and in consultation with the NAIRR Steering Subcommittee and the Director of the Office of Science and Technology Policy, shall—
+
+“(1) ensure conformance with the requirements of National Security Presidential Memorandum–33 (relating to supported research and development national policy), issued January 2021, and its implementation guidance on research security and research integrity, or any successor policy document or guidance, by establishing NAIRR operating principles that emphasize the research integrity principles of openness, reciprocity, and transparency; and
+
+“(2) designate a member of the leadership team for the Operating Entity as a research security point of contact with responsibility for overseeing conformance with the National Security Presidential Memorandum–33 and its implementation guidance, or any successor policy document or guidance.”.
+
+(c) Conforming amendments.—The table of contents in section 2(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 3388) is amended by inserting after the items relating to title LV the following:
+“TITLE LVI—NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH RESOURCE
+
+“Sec. 5601. Definitions.
+“Sec. 5602. Establishment; governance.
+“Sec. 5603. Resources of the NAIRR.
+“Sec. 5604. NAIRR processes and procedures.”.

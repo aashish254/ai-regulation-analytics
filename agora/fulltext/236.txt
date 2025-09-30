@@ -1,0 +1,51 @@
+SEC. 862. KEY ADVANCED SYSTEM DEVELOPMENT INDUSTRY DAYS.
+
+(a) In General.--Not later than March 1, 2023, and every 180 days thereafter, the each Secretary of a military department shall ensure that such military department conducts an outreach event to--
+	(1) collaborate with the private sector on present current and future opportunities with respect to key advanced system development areas;
+	(2) raise awareness within the private sector of--
+		(A) key advanced system development areas; and
+		(B) capability needs and existing and potential requirements related to the key advanced system development areas; and
+	(3) raise awareness within such military department of potential material solutions for capability needs and existing and potential requirements related to key advanced system development areas.
+(b) Responsibilities.--
+	(1) Service chiefs.--For each event a military department conducts under subsection (a), the Service Chief concerned shall, for each key advanced system development area, perform the following:
+		(A) Identify related and potentially related existing, planned, or potential military requirements, including urgent and emergent operational needs.
+		(B) Identify and describe related and potentially related needs or gaps in the capabilities of the military department to carry out the missions of the military department, including warfighting and combat support capabilities.
+		(C) Identify and describe related and potentially related exercise, demonstration, or experimentation opportunities.
+	(2) Acquisition executives.--For each event a military department conducts under subsection (a), the service acquisition executive of the military department conducting the event shall, for each key advanced system development area, perform the following:
+		(A) Identify and describe related and potentially related existing, planned, or potential acquisition plans and strategies.
+		(B) Identify and describe related and potentially related existing, planned, or potential funding opportunities, including--
+			(i) broad agency announcements;
+			(ii) requests for information;
+			(iii) funding opportunity announcements;
+			(iv) special program announcements;
+			(v) requests for proposals;
+			(vi) requests for quotes;
+			(vii) special notices;
+			(viii) transactions pursuant to sections 4004, 4021, and 4022 of title 10, United States Code;
+			(ix) unsolicited proposals; and
+			(x) other funding opportunities as determined appropriate by the service acquisition executive.
+	(3) Delegation.--Each Service Chief concerned and each service acquisition executive may delegate the authority to carry out the tasks for which such individuals are responsible under this subsection.
+	(4) Reviews and coordination.--
+		(A) Industry day reviews.--Promptly after an event conducted by a military department under subsection (a), the service acquisition executive of such military department shall--
+			(i) disseminate a written review of such event as broadly as practicable within the Department of Defense; and
+			(ii) make such review publicly available on a website of the military department.
+		(B) Consolidation.--The Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall, periodically, jointly review and consolidate the reviews required by subparagraph (A) to identify trends, eliminate redundancy, and enhance efficiency with respect to events conducted under subsection (a).
+(c) Form.--With respect to each event conducted under subsection (a), the Secretary concerned shall seek to maximize industry and government participation, while minimizing cost to the maximum extent practicable, by--
+	(1) holding the event at an unclassified security level to the extent practicable;
+	(2) making the event publicly accessible through teleconference or other virtual means; and
+	(3) making supporting materials for the event publicly available on a website.
+
+(d) Definitions.--In this section:
+	(1) Military departments; secretary concerned; service acquisition executive.--The terms military departments'', Secretary concerned'', and ``service acquisition executive'' have the meanings given such terms in section 101(a) of title 10, United States Code.
+	(2) Key advanced system development area.--The term ``key advanced system development area'' means the following:
+		(A) For the Department of the Navy--
+(i) unmanned surface vessels;
+(ii) unmanned underwater vessels;
+(iii) unmanned deployable mobile ocean systems;
+(iv) unmanned deployable fixed ocean systems; and(v) autonomous unmanned aircraft systems.
+		(B) For the Department of the Air Force, autonomous unmanned aircraft systems.
+		(C) For the Department of the Army, autonomous unmanned aircraft systems.
+	(3) Service chief.--The term ``Service Chief concerned'' means--
+		(A) the Chief of Staff of the Army, with respect to matters concerning the Department of the Army;
+		(B) the Chief of Naval Operations and the Commandant of the Marine Corps, with respect to matters concerning the Department of the Navy; and
+		(C) the Chief of Staff of the Air Force, with respect to matters concerning the Department of the Air Force.

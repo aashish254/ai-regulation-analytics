@@ -1,0 +1,154 @@
+ S. 3554
+
+
+To amend the Financial Stability Act of 2010 to provide the Financial Stability Oversight Council with duties regarding artificial intelligence in the financial sector, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+December 18, 2023
+
+
+Mr. Warner (for himself and Mr. Kennedy) introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs
+
+
+A BILL
+To amend the Financial Stability Act of 2010 to provide the Financial Stability Oversight Council with duties regarding artificial intelligence in the financial sector, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Financial Artificial Intelligence Risk Reduction Act” or the “FAIRR Act”.
+
+
+SEC. 2. DEFINITIONS.
+
+
+In this Act, the term “artificial intelligence” has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+
+ SEC. 3. SPECIAL PROVISIONS REGARDING ARTIFICIAL INTELLIGENCE IN THE FINANCIAL SECTOR.
+
+
+(a) In General.—Subtitle A of the Financial Stability Act of 2010 (12 U.S.C. 5321 et seq.) is amended by adding at the end the following:
+
+
+“SEC. 126. SPECIAL PROVISIONS REGARDING ARTIFICIAL INTELLIGENCE IN THE FINANCIAL SECTOR.
+“(a) Coordination, Report, And Recommendations.—The Council shall coordinate with member agencies with regard to potential risks to the stability of the financial system posed by artificial intelligence, including—
+
+
+“(1) direct the Office of Financial Research, as appropriate, to conduct research into the uses of artificial intelligence by financial institutions and entities providing services to or performing functions on behalf of financial institutions;
+
+
+“(2) identify threats to the stability of the financial system posed by the use of artificial intelligence tools and technologies, such as—
+
+
+“(A) the generation and use of false representations of events or the likeness, speech, or actions of persons by malign actors to manipulate financial markets, institutions, or instruments, or to cause disruption in financial markets and;
+
+
+“(B) any other acts or practices associated with the use or assistance of artificial intelligence tools or technologies that threaten the stability of the financial system;
+
+
+“(3) not later than 180 days after the date of enactment of this section, in consultation with the member agencies, financial institutions, securities market participants, and entities providing services to or performing functions on behalf of financial institutions or securities markets participants, submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that—
+
+
+“(A) identifies the threats described in paragraph (2);
+
+
+“(B) identifies specific gaps in the existing regulations, guidance, and examination standards of the member agencies that prevent effective and comprehensive responses by each of the member agencies to the threats described in paragraph (2); and
+
+
+“(C) makes specific recommendations for addressing the gaps identified in subparagraph (B), including, as appropriate, recommendations regarding implementation of the recommendations in the Cybersecurity Information Sheet published by the National Security Agency, Federal Bureau of Investigation, and Cybersecurity and Infrastructure Security Agency on September 12, 2023; and
+
+
+“(4) identify, as appropriate, opportunities for the use of artificial intelligence technologies in financial regulation and supervision, specifying that any use of artificial intelligence by the agencies in regulation and supervision should be transparent and disclosed to their regulated entities as appropriate.
+
+
+“(b) Congressional Review.—Not later than 30 days after the date on which the relevant congressional committees receive the report required under subsection (a), the committees shall review the report and submit comments and recommendations thereon.
+
+
+“(c) Implementation Of Council Recommendations.—
+
+
+“(1) IN GENERAL.—Upon review of comments and recommendations under subsection (b), the Council shall commence action under the procedures prescribed in section 120 with regard to implementation of the recommendations by each of the member agencies.
+
+
+“(d) Congressional Review Act.—The provisions of chapter 8 of title 5, United States Code, shall apply as appropriate to rules issued by the member agencies under this section.
+
+
+“(e) Scenario-Based Exercises.—The Federal and Banking Information Infrastructure Committee sponsored by the President’s Working Group on Financial Markets shall, in consultation with private-sector entities and other relevant governmental entities—
+
+
+“(1) initiate a series of scenario-based exercises to test the effectiveness of defenses against financial market disruptions associated with the use or assistance of artificial intelligence technologies; and
+
+
+“(2) make recommendations for ongoing improvements in detection, prevention, and mitigation of such disruptions.”.
+
+
+(b) Technical And Conforming Amendment.—The table of sections for the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301) is amended by inserting after the item relating to section 125 the following:
+
+
+“126. Special provisions regarding artificial intelligence in the financial sector.”.
+
+ SEC. 4. ENHANCED AUTHORITY TO OVERSEE THIRD-PARTY PROVIDERS OF ARTIFICIAL INTELLIGENCE AND OTHER SERVICES TO FINANCIAL INSTITUTIONS.
+
+
+Section 206A of the Federal Credit Union Act (12 U.S.C. 1786a) is amended—
+
+
+(1) in subsection (a)(1), by striking “that” and inserting “an”;
+
+
+(2) in subsection (c)(2), in the matter preceding subparagraph (A), by inserting “, in a manner and method prescribed by the Board,” after “Board” ; and
+
+
+(3) by striking subsection (f).
+
+ SEC. 5. REGULATION OF SERVICE PROVIDERS BY THE FEDERAL HOUSING FINANCE AGENCY.
+
+
+Subpart A of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended by adding at the end the following:
+
+
+“SEC. 1329. REGULATION AND EXAMINATION OF CERTAIN SERVICE PROVIDERS.
+
+
+“Whenever a regulated entity or the Office of Finance causes to be performed for itself, by contract or otherwise, any activity that is permissible for the regulated entity or the Office of Finance, whether on or off its premises—
+
+
+“(1) such performance shall be subject to regulation and examination by the Director to the same extent as if such activity were being performed by such entity or Office itself on its own premises; and
+
+
+“(2) the regulated entity or Office of Finance shall notify the Director of the existence of the service relationship not later than 30 days after the earlier of—
+
+
+“(A) making of such service contract; or
+
+
+“(B) the performance of the activity by the service provider.”.
+
+ SEC. 6. TREBLE PENALTIES.
+
+
+Section 21(d)(3) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(d)(3)) is amended by adding at the end the following:
+
+
+“(E) AMOUNT OF PENALTY FOR VIOLATION INVOLVING MACHINE-MANIPULATED MEDIA.—The amount of a civil penalty imposed under subparagraph (A)(i) for a violation involving the use of machine-manipulated media, as defined in section 5724 of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020 (50 U.S.C. 3024 note), shall not exceed 3 times the penalty otherwise determined under clause (i), (ii), or (iii) of subparagraph (B).”.
+
+
+SEC. 7. LIABILITY.
+
+
+The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the following:
+
+
+“SEC. 42. LIABILITY.
+
+
+“(a) Liability.—Any person who, directly or indirectly, deploys or causes to be deployed, an artificial intelligence model shall be deemed to satisfy the scienter, other state of mind, or negligence requirements of the Federal securities laws with regard to any and all acts, practices or conduct engaged in by such model, and any outcome resulting from the use of such model, and shall be liable to the same extent as if such person had committed such acts, practices or conduct directly, unless such person took reasonable steps to prevent such acts, practices, conduct and outcome, which may include but are not limited to establishing, maintaining and enforcing written policies and procedures reasonably designed to prevent violations of the Federal securities laws.
+
+
+“(b) Waivers.—Civil liability of a developer of an artificial intelligence model for design defects or breaches of implied warranties with respect to such a model out of which arise a violation of the Federal securities laws may not be waived.”.

@@ -1,0 +1,14 @@
+SEC. 40433. DIGITAL CLIMATE SOLUTIONS REPORT.
+
+(a) In General.--Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with appropriate Federal agencies and relevant stakeholders, shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that assesses using digital tools and platforms as climate solutions, including--
+	(1) artificial intelligence and machine learning;
+	(2) blockchain technologies and distributed ledgers;
+	(3) crowdsourcing platforms;
+	(4) the Internet of Things;
+	(5) distributed computing for the grid; and
+	(6) software and systems.
+
+(b) Contents.--The report required under subsection (a) shall include--
+	(1) as practicable, a full inventory and assessment of digital climate solutions;
+	(2) an analysis of how the private sector can utilize the digital tools and platforms included in the inventory under paragraph (1) to accelerate digital climate solutions; and
+	(3) a summary of opportunities to enhance the standardization of voluntary and regulatory climate disclosure protocols, including enabling the data to be disseminated through an application programming interface that is accessible to the public.

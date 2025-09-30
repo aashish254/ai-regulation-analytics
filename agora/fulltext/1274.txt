@@ -1,0 +1,192 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Department of Energy AI Act”.
+SEC. 2. FINDINGS.
+Congress finds that—
+(1) the Department has a leading role to play in making the most of the potential of artificial intelligence to advance the missions of the Department relating to national security, science, and energy (including critical materials);
+(2) the 17 National Laboratories employ over 40,000 scientists, engineers, and researchers with decades of experience developing world-leading advanced computational algorithms, computer science research, experimentation, and applications in machine learning that underlie artificial intelligence;
+(3) the NNSA manages the Stockpile Stewardship Program established under section 4201 of the Atomic Energy Defense Act (50 U.S.C. 2521), which includes the Advanced Simulation and Computing program, that provides critical classified and unclassified computing capabilities to sustain the nuclear stockpile of the United States;
+(4) for decades, the Department has led the world in the design, construction, and operation of the preeminent high-performance computing systems of the United States, which benefit the scientific and economic competitiveness of the United States across many sectors, including energy, critical materials, biotechnology, and national security;
+(5) across the network of 34 user facilities of the Department, scientists generate tremendous volumes of high-quality open data across diverse research areas, while the NNSA has always generated the foremost datasets in the world on nuclear deterrence and strategic weapons;
+(6) the unrivaled quantity and quality of open and classified scientific datasets of the Department is a unique asset to rapidly develop frontier AI models;
+(7) the Department already develops cutting-edge AI models to execute the broad mission of the Department, including AI models of the Department that are used to forecast disease transmission for COVID–19, and address critical material issues and emerging nuclear security missions;
+(8) the AI capabilities of the Department will underpin and jumpstart a dedicated, focused, and centralized AI program; and
+(9) under section 4.1(b) of Executive Order 14110 (88 Fed. Reg. 75191 (November 1, 2023)) (relating to the safe, secure, and trustworthy development and use of artificial intelligence), the Secretary is tasked to lead development in testbeds, national security protections, and assessment of artificial intelligence applications.SEC. 3. DEFINITIONS.
+In this Act:
+(1) AI; ARTIFICIAL INTELLIGENCE.—The terms “AI” and “artificial intelligence” have the meaning given the term “artificial intelligence” in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(2) ALIGNMENT.—The term “alignment” means a field of AI safety research that aims to make AI systems behave in line with human intentions.
+(3) DEPARTMENT.—The term “Department” means the Department of Energy, including the NNSA.
+(4) FOUNDATION MODEL.—The term “foundation model” means an AI model that—
+(A) is trained on broad data;
+(B) generally uses self-supervision;
+(C) contains at least tens of billions of parameters; and
+(D) is applicable across a wide range of contexts; and
+(E) exhibits, or could be easily modified to exhibit, high levels of performance at tasks that pose a serious risk to the security, national economic security, or national public health or safety of the United States.
+(5) FRONTIER AI.—
+(A) IN GENERAL.—The term “frontier AI” means the leading edge of AI research that remains unexplored and is considered to be the most challenging, including models—
+(i) that exceed the capabilities currently present in the most advanced existing models; and
+(ii) many of which perform a wide variety of tasks.
+(B) INCLUSION.—The term “frontier AI” includes AI models with more than 1,000,000,000,000 parameters.
+(6) NATIONAL LABORATORY.—The term “National Laboratory” has the meaning given the term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+(7) NNSA.—The term “NNSA” means the National Nuclear Security Administration.
+(8) SECRETARY.—The term “Secretary” means the Secretary of Energy.
+(9) TESTBED.—The term “testbed” means any platform, facility, or environment that enables the testing and evaluation of scientific theories and new technologies, including hardware, software, or field environments in which structured frameworks can be implemented to conduct tests to assess the performance, reliability, safety, and security of a wide range of items, including prototypes, systems, applications, AI models, instruments, computational tools, devices, and other technological innovations.SEC. 4. ARTIFICIAL INTELLIGENCE RESEARCH TO DEPLOYMENT.
+
+(a) Program To Develop And Deploy Frontiers In Artificial Intelligence For Science, Security, And Technology (FASST).—
+(1) ESTABLISHMENT.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a centralized AI program to carry out research on the development and deployment of advanced artificial intelligence capabilities for the missions of the Department (referred to in this subsection as the “program”), consistent with the program established under section 5501 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9461).
+(2) PROGRAM COMPONENTS.—
+(A) IN GENERAL.—The program shall advance and support diverse activities that include the following components:
+(i) Aggregation, curation, and distribution of AI training datasets.
+(ii) Development and deployment of next-generation computing platforms and infrastructure.
+(iii) Development and deployment of safe and trustworthy AI models and systems.
+(iv) Tuning and adaptation of AI models and systems for pressing scientific, energy, and national security applications.
+(B) AGGREGATION, CURATION, AND DISTRIBUTION OF AI TRAINING DATASETS.—In carrying out the component of the program described in subparagraph (A)(i), the Secretary shall develop methods, platforms, protocols, and other tools required for efficient, safe, and effective aggregation, generation, curation, and distribution of AI training datasets, including—
+(i) assembling, aggregating, and curating large-scale training data for advanced AI, including outputs from research programs of the Department and other open science data, with the goal of developing comprehensive scientific AI training databases and testing and validation data;
+(ii) developing and executing appropriate data management plan for the ethical, responsible, and secure use of classified and unclassified scientific data;
+(iii) identifying, curating, and safely distributing, as appropriate based on the application—
+(I) scientific and experimental Departmental datasets; and
+(II) sponsored research activities that are needed for the training of foundation and adapted downstream AI models; and
+(iv) partnering with stakeholders to curate critical datasets that reside outside the Department but are determined to be critical to optimizing the capabilities of open-science AI foundation models, national security AI foundation models, and other AI technologies developed under the program.
+(C) DEVELOPMENT AND DEPLOYMENT OF NEXT-GENERATION COMPUTING PLATFORMS AND INFRASTRUCTURE.—In carrying out the component of the program described in subparagraph (A)(ii), the Secretary shall—
+(i) develop early-stage AI testbeds to test and evaluate new software, hardware, algorithms, and other AI-based technologies and applications;
+(ii) develop and deploy new energy-efficient AI computing hardware and software infrastructure necessary for developing and deploying trustworthy frontier AI systems that leverage the high-performance computing capabilities of the Department and the National Laboratories;
+(iii) facilitate the development and deployment of unclassified and classified high-performance computing systems and AI platforms through Department-owned infrastructure data and computing facilities;
+(iv) procure high-performance computing and other resources necessary for developing, training, evaluating, and deploying AI foundation models and AI technologies; and
+(v) use appropriate supplier screening tools available through the Department to ensure that procurements under clause (iv) are from trusted suppliers.
+(D) DEVELOPMENT AND DEPLOYMENT OF SAFE AND TRUSTWORTHY AI MODELS AND SYSTEMS.—In carrying out the component of the program described in subparagraph (A)(iii), not later than 3 years after the date of enactment of this Act, the Secretary shall—
+(i) develop innovative concepts and applied mathematics, computer science, engineering, and other science disciplines needed for frontier AI;
+(ii) develop best-in-class AI foundation models and other AI technologies for open-science and national security applications;
+(iii) research and deploy counter-adversarial artificial intelligence solutions to predict, prevent, mitigate, and respond to threats to critical infrastructure, energy security, and nuclear nonproliferation, and biological and chemical threats;
+(iv) establish crosscutting research efforts on AI risks, reliability, safety, trustworthiness, and alignment, including the creation of unclassified and classified data platforms across the Department; and
+(v) develop capabilities needed to ensure the safe and responsible implementation of AI in the private and public sectors that—
+(I) may be readily applied across Federal agencies and private entities to ensure that open-science models are released responsibly, securely, and in the national interest; and
+(II) ensure that classified national security models are secure, responsibly managed, and safely implemented in the national interest.
+(E) TUNING AND ADAPTATION OF AI MODELS AND SYSTEMS FOR PRESSING SCIENTIFIC AND NATIONAL SECURITY APPLICATIONS.—In carrying out the component of the program described in subparagraph (A)(iv), the Secretary shall—
+(i) use AI foundation models and other AI technologies to develop a multitude of tuned and adapted downstream models to solve pressing scientific, energy, and national security challenges;
+(ii) carry out joint work, including public-private partnerships, and cooperative research projects with industry, including end user companies, hardware systems vendors, and AI software companies, to advance AI technologies relevant to the missions of the Department;
+(iii) form partnerships with other Federal agencies, institutions of higher education, and international organizations aligned with the interests of the United States to advance frontier AI systems development and deployment; and
+(iv) increase research experiences and workforce development, including training for undergraduate and graduate students in frontier AI for science, energy, and national security.
+(3) STRATEGIC PLAN.—In carrying out the program, the Secretary shall develop a strategic plan with specific short-term and long-term goals and resource needs to advance applications in AI for science, energy, and national security to support the missions of the Department, consistent with—
+(A) the 2023 National Laboratory workshop report entitled “Advanced Research Directions on AI for Science, Energy, and Security”; and
+(B) the 2024 National Laboratory workshop report entitled “AI for Energy”.
+(b) AI Research And Development Centers.—
+(1) IN GENERAL.—As part of the program established under subsection (a), the Secretary shall select, on a competitive, merit-reviewed basis, National Laboratories to establish and operate not fewer than 8 multidisciplinary AI Research and Development Centers (referred to in this subsection as “Centers”)—
+(A) to accelerate the safe and trustworthy deployment of AI for science, energy, and national security missions;
+(B) to demonstrate the use of AI in addressing key challenge problems of national interest in science, energy, and national security; and
+(C) to maintain the competitive advantage of the United States in AI.
+(2) FOCUS.—Each Center shall bring together diverse teams from National Laboratories, academia, and industry to collaboratively and concurrently deploy hardware, software, numerical methods, data, algorithms, and applications for AI and ensure that the frontier AI research of the Department is well-suited for key Department missions, including by using existing and emerging computing systems to the maximum extent practicable.
+(3) ADMINISTRATION.—
+(A) NATIONAL LABORATORY.—Each Center shall be established as part of a National Laboratory.
+(B) APPLICATION.—To be eligible for selection to establish and operate a Center under paragraph (1), a National Laboratory shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+(C) DIRECTOR.—Each Center shall be headed by a Director, who shall be the Chief Executive Officer of the Center and an employee of the National Laboratory described in subparagraph (A), and responsible for—
+(i) successful execution of the goals of the Center; and
+(ii) coordinating with other Centers.
+(D) TECHNICAL ROADMAP.—In support of the strategic plan developed under subsection (a)(3), each Center shall—
+(i) set a research and innovation goal central to advancing the science, energy, and national security mission of the Department; and
+(ii) establish a technical roadmap to meet that goal in not more than 7 years.
+(E) COORDINATION.—The Secretary shall coordinate, minimize duplication, and resolve conflicts between the Centers.
+(4) FUNDING.—Of the amounts made available under subsection (h), each Center shall receive not less than $30,000,000 per year for a duration of not less than 5 years but not more than 7 years, which yearly amount may be renewed for an additional 5-year period.
+(c) AI Risk Evaluation And Mitigation Program.—
+(1) AI RISK PROGRAM.—As part of the program established under subsection (a), and consistent with the missions of the Department, the Secretary, in consultation with the Secretary of Homeland Security, the Secretary of Defense, the Director of National Intelligence, the Director of the National Security Agency, and the Secretary of Commerce, shall carry out a comprehensive program to evaluate and mitigate safety and security risks associated with artificial intelligence systems (referred to in this subsection as the “AI risk program”).
+(2) RISK TAXONOMY.—
+(A) IN GENERAL.—Under the AI risk program, the Secretary shall develop a taxonomy of safety and security risks associated with artificial intelligence systems relevant to the missions of the Department, including, at a minimum, the risks described in subparagraph (B).
+(B) RISKS DESCRIBED.—The risks referred to in subparagraph (A) are the abilities of artificial intelligence—
+(i) to generate information at a given classification level;
+(ii) to assist in generation of nuclear weapons information;
+(iii) to assist in generation of chemical, biological, radiological, nuclear, nonproliferation, critical infrastructure, and energy security threats or hazards;
+(iv) to assist in generation of malware and other cyber and adversarial threats that pose a significant national security risk, such as threatening the stability of critical national infrastructure;
+(v) to undermine public trust in the use of artificial intelligence technologies or in national security;
+(vi) to deceive a human operator or computer system, or otherwise act in opposition to the goals of a human operator or automated systems; and
+(vii) to act autonomously with little or no human intervention in ways that conflict with human intentions.
+(d) Shared Resources For AI.—
+(1) IN GENERAL.—As part of the program established under subsection (a), the Secretary shall identify, support, and sustain shared resources and enabling tools that have the potential to accelerate the pace of scientific discovery and technological innovation with respect to the missions of the Department relating to science, energy, and national security.
+(2) CONSULTATION.—In carrying out paragraph (1), the Secretary shall consult with relevant experts in industry, academia, and the National Laboratories.
+(3) FOCUS.—Shared resources and enabling tools referred to in paragraph (1) shall include the following:
+(A) Scientific data and knowledge bases for training AI systems.
+(B) Benchmarks and competitions for evaluating advances in AI systems.
+(C) Platform technologies that lower the cost of generating training data or enable the generation of novel training data.
+(D) High-performance computing, including hybrid computing systems that integrate AI and high-performance computing.
+(E) The combination of AI and scientific automation, such as cloud labs and self-driving labs.
+(F) Tools that enable AI to solve inverse design problems.
+(G) Testbeds for accelerating progress at the intersection of AI and cyberphysical systems.
+(e) Administration.—
+(1) RESEARCH SECURITY.—The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19231 et seq.).
+(2) CYBERSECURITY.—The Secretary shall ensure the integration of robust cybersecurity measures into all AI research-to-deployment efforts authorized under this section to protect the integrity and confidentiality of collected and analyzed data.
+(3) PARTNERSHIPS WITH PRIVATE ENTITIES.—
+(A) IN GENERAL.—The Secretary shall seek to establish partnerships with private companies and nonprofit organizations in carrying out this Act, including with respect to the research, development, and deployment of each of the 4 program components described in subsection (a)(2)(A).
+(B) REQUIREMENT.—In carrying out subparagraph (A), the Secretary shall protect any information submitted to or shared by the Department consistent with applicable laws (including regulations).
+(f) STEM Education And Workforce Development.—
+(1) IN GENERAL.—Of the amounts made available under subsection (h), not less than 10 percent shall be used to foster the education and training of the next-generation AI workforce.
+(2) AI TALENT.—As part of the program established under subsection (a), the Secretary shall develop the required workforce, and hire and train not fewer than 500 new researchers to meet the rising demand for AI talent—
+(A) with a particular emphasis on expanding the number of individuals from underrepresented groups pursuing and attaining skills relevant to AI; and
+(B) including by—
+(i) providing training, grants, and research opportunities;
+(ii) carrying out public awareness campaigns about AI career paths; and
+(iii) establishing new degree and certificate programs in AI-related disciplines at universities and community colleges.
+(g) Annual Report.—The Secretary shall submit to Congress an annual report describing—
+(1) the progress, findings, and expenditures under each program established under this section; and
+(2) any legislative recommendations for promoting and improving each of those programs.
+(h) Authorization Of Appropriations.—There is authorized to be appropriated to carry out this section $2,400,000,000 each year for the 5-year period following the date of enactment of this Act.SEC. 5. FEDERAL PERMITTING.
+(a) Establishment.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a program to improve Federal permitting processes for energy-related projects, including critical materials projects, using artificial intelligence.
+(b) Program Components.—In carrying out the program established under subsection (a), the Secretary shall carry out activities, including activities that—
+(1) analyze data and provide tools from past environmental and other permitting reviews, including by—
+(A) extracting data from applications for comparison with data relied on in environmental reviews to assess the adequacy and relevance of applications;
+(B) extracting information from past site-specific analyses in the area of a current project;
+(C) summarizing key mitigation actions that have been successfully applied in past similar projects; and
+(D) using AI for deeper reviews of past determinations under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to inform more flexible and effective categorical exclusions; and
+(2) build tools to improve future reviews, including—
+(A) tools for project proponents that accelerate preparation of environmental documentation;
+(B) tools for government reviewers such as domain-specific large language models that help convert geographic information system or tabular data on resources potentially impacted into rough-draft narrative documents;
+(C) tools to be applied in nongovernmental settings, such as automatic reviews of applications to assess the completeness of information; and
+(D) a strategic plan to implement and deploy online and digital tools to improve Federal permitting activities, developed in consultation with—
+(i) the Secretary of the Interior;
+(ii) the Secretary of Agriculture, with respect to National Forest System land;
+(iii) the Executive Director of the Federal Permitting Improvement Steering Council established by section 41002(a) of the FAST Act (42 U.S.C. 4370m–1(a)); and
+(iv) the heads of any other relevant Federal department or agency, as determined appropriate by the Secretary.SEC. 6. RULEMAKING ON AI STANDARDIZATION FOR GRID INTERCONNECTION.
+Not later than 18 months after the date of enactment of this Act, the Federal Energy Regulatory Commission shall initiate a rulemaking to revise the pro forma Large Generator Interconnection Procedures promulgated pursuant to section 35.28(f) of title 18, Code of Federal Regulations (or successor regulations), to require public utility transmission providers to share and employ, as appropriate, queue management best practices with respect to the use of computing technologies, such as artificial intelligence, machine learning, or automation, in evaluating and processing interconnection requests, in order to expedite study results with respect to those requests.
+SEC. 7. ENSURING ENERGY SECURITY FOR DATACENTERS AND COMPUTING RESOURCES.
+Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to Congress a report that—
+(1) assesses—
+(A) the growth of computing data centers and advanced computing electrical power load in the United States;
+(B) potential risks of growth in computing centers or growth in the required electrical power to United States energy and national security; and
+(C) the extent to which emerging technologies, such as artificial intelligence and advanced computing, may impact hardware and software systems used at data and computing centers; and
+(2) provides recommendations for—
+(A) resources and capabilities that the Department may provide to promote access to energy resources by data centers and advanced computing;
+(B) policy changes to ensure domestic deployment of data center and advanced computing resources prevents offshoring of United States data and resources; and
+(C) improving the energy efficiency of data centers, advanced computing, and AI.SEC. 8. OFFICE OF CRITICAL AND EMERGING TECHNOLOGY.
+(a) In General.—Title II of the Department of Energy Organization Act is amended by inserting after section 215 (42 U.S.C. 7144b) the following:
+“SEC. 216. OFFICE OF CRITICAL AND EMERGING TECHNOLOGY.
+“(a) Definitions.—In this section:
+“(1) CRITICAL AND EMERGING TECHNOLOGY.—The term ‘critical and emerging technology’ means—
+“(A) advanced technology that is potentially significant to United States competitiveness, energy security, or national security, such as biotechnology, advanced computing, and advanced manufacturing;
+“(B) technology that may address the challenges described in subsection (b) of section 10387 of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19107); and
+“(C) technology described in the key technology focus areas described in subsection (c) of that section (42 U.S.C. 19107).
+“(2) DEPARTMENT CAPABILITIES.—The term ‘Department capabilities’ means—
+“(A) each of the National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801)); and
+“(B) each associated user facility of the Department.
+“(3) DIRECTOR.—The term ‘Director’ means the Director of Critical and Emerging Technology described in subsection (d).
+“(4) OFFICE.—The term ‘Office’ means the Office of Critical and Emerging Technology established by subsection (b).
+“(b) Establishment.—There shall be within the Office of the Under Secretary for Science and Innovation an Office of Critical and Emerging Technology.
+“(c) Mission.—The mission of the Office shall be—
+“(1) to work across the entire Department to assess and analyze the status of and gaps in United States competitiveness, energy security, and national security relating to critical and emerging technologies, including through the use of Department capabilities;
+“(2) to leverage Department capabilities to provide for rapid response to emerging threats and technological surprise from new emerging technologies;
+“(3) to promote greater participation of Department capabilities within national science policy and international forums; and
+“(4) to inform the direction of research and policy decisionmaking relating to potential risks of adoption and use of emerging technologies, such as inadvertent or deliberate misuses of technology.
+“(d) Director Of Critical And Emerging Technology.—The Office shall be headed by a director, to be known as the ‘Director of Critical and Emerging Technology’, who shall—
+“(1) be appointed by the Secretary; and
+“(2) be an individual who, by reason of professional background and experience, is specially qualified to advise the Secretary on matters pertaining to critical and emerging technology.
+“(e) Collaboration.—In carrying out the mission and activities of the Office, the Director shall closely collaborate with all relevant Departmental entities, including the National Nuclear Security Administration and the Office of Science, to maximize the computational capabilities of the Department and minimize redundant capabilities.
+“(f) Coordination.—In carrying out the mission and activities of the Office, the Director—
+“(1) shall coordinate with senior leadership across the Department and other stakeholders (such as institutions of higher education and private industry);
+“(2) shall ensure the coordination of the Office of Science with the other activities of the Department relating to critical and emerging technology, including the transfer of knowledge, capabilities, and relevant technologies, from basic research programs of the Department to applied research and development programs of the Department, for the purpose of enabling development of mission-relevant technologies;
+“(3) shall support joint activities among the programs of the Department;
+“(4) shall coordinate with the heads of other relevant Federal agencies operating under existing authorizations with subjects related to the mission of the Office described in subsection (c) in support of advancements in related research areas, as the Director determines to be appropriate; and
+“(5) may form partnerships to enhance the use of, and to ensure access to, user facilities by other Federal agencies.
+“(g) Planning, Assessment, And Reporting.—
+“(1) IN GENERAL.—Not later than 180 days after the date of enactment of the Department of Energy AI Act, the Secretary shall submit to Congress a critical and emerging technology action plan and assessment, which shall include—
+“(A) a review of current investments, programs, activities, and science infrastructure of the Department, including under National Laboratories, to advance critical and emerging technologies;
+“(B) a description of any shortcomings of the capabilities of the Department that may adversely impact national competitiveness relating to emerging technologies or national security; and
+“(C) a budget projection for the subsequent 5 fiscal years of planned investments of the Department in each critical and emerging technology, including research and development, infrastructure, pilots, test beds, demonstration projects, and other relevant activities.
+“(2) UPDATES.—Every 2 years after the submission of the plan and assessment under paragraph (1), the Secretary shall submit to Congress—
+“(A) an updated emerging technology action plan and assessment; and
+“(B) a report that describes the progress made toward meeting the goals set forth in the emerging technology action plan and assessment submitted previously.”.
+(b) Clerical Amendment.—The table of contents for the Department of Energy Organization Act (Public Law 95–91; 91 Stat. 565; 119 Stat. 764; 133 Stat. 2199) is amended by inserting after the item relating to section 215 the following:

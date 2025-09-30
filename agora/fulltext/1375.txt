@@ -1,0 +1,100 @@
+SEC. 402. Expanding and improving electronic technologies.
+(a) Sense of Congress.—It is the sense of Congress that—
+
+(1) the use of electronic technologies such as digital video cameras and monitors, digital recording systems, and other forms of electronic technology as a complement to, and in some cases a replacement for, observers may maintain, increase, or improve the amount and accuracy of observer and fishery dependent information collected from fisheries while reducing costs and logistical difficulties;
+
+(2) to achieve optimum yields on a continuing basis while conserving and maintaining fisheries and integrating healthy ecosystem considerations, managers require reliable, timely data across all regions and fishing sectors for conservation, management, and scientific purposes;
+
+(3) to achieve management goals, especially in the context of climate change, the National Oceanic and Atmospheric Administration should work to meet evolving management needs and, in collaboration with industry stakeholders, identify appropriate data collection technologies and strategies; and
+
+(4) the National Oceanic and Atmospheric Administration should also consider the use of innovative technology in fishery independent data collection including stock and habitat assessments and environmental conditions.
+
+(b) Regional Fishery Management Councils.—Section 303(b)(8) (16 U.S.C. 1853(b)(8)) is amended to read as follows:
+
+
+“(8) require the collection of data necessary for the conservation and management of the fishery from a vessel of the United States engaged in fishing for species that are subject to the plan through—
+
+“(A) electronic monitoring or other electronic technology; or
+
+“(B) observers carried onboard such a vessel, except that such a vessel shall not be required to carry an observer on board if the facilities of the vessel for the quartering of an observer, or for carrying out observer functions, are so inadequate or unsafe that the health or safety of the observer or the safe operation of the vessel would be jeopardized;”.
+
+(c) Information systems.—Section 402(a) (16 U.S.C. 1881a(a)) is amended—
+
+(1) in paragraph (1), by inserting “The Council shall consider the use of electronic monitoring and reporting or other electronic technology as part of an information collection program implemented under this paragraph.” after “request.”;
+
+(2) in paragraph (2), by inserting “The Secretary shall consider the use of electronic monitoring and reporting or other electronic technology as part of an information collection program implemented under this paragraph.” after “fishery.”; and
+
+(3) by adding at the end the following:
+
+
+“(3) SECRETARIAL REVIEW.—
+
+“(A) IN GENERAL.—Not less often than once every 5 years, the Secretary shall review the procedures and policies by which information is collected, managed, and used to manage fisheries and revise information collection programs and policies needed to integrate data collection and management and improve the timeliness, quality, usability, and cost-effectiveness and reduce unnecessary duplication within and across fishery management plans and regions.
+
+“(B) REPORT.—Upon the completion of each review carried out under subparagraph (A), the Secretary shall publish a report for the public describing the findings of each such review and planned revisions to information collection programs.”.
+
+(d) Assessment of electronic technologies in fisheries management.—
+
+(1) IN GENERAL.—The Comptroller General of the United States shall, in consultation with the relevant committees of Congress—
+
+(A) conduct a review of the capabilities of the National Marine Fisheries Service with respect to developing, deploying, and using electronic monitoring and data collection tools to monitor fisheries; and
+
+(B) make recommendations to improve such capabilities, taking into consideration cost, efficiency, and collaboration with private entities.
+
+(2) REPORT.—Not later than 18 months after the date of the enactment of this section, the Comptroller General shall submit to Congress a report describing the results of the review required under paragraph (1) and the recommendations made pursuant to such review.
+
+(e) Electronic technologies innovation prize.—
+
+(1) IN GENERAL.—The Administrator, in consultation with the Secretary of Defense and the heads of other relevant Federal agencies, and in conjunction with such nongovernmental partners as the Administrator determines appropriate, shall establish at least 1 electronic technologies innovation prize competition to catalyze the rapid development and deployment of electronic technology-based data collection to be used in fisheries management.
+
+(2) SUBJECT OF PRIZE.—Each prize competition established under paragraph (1) shall focus on 1 or more of the following subjects:
+
+(A) Improved fish species recognition software.
+
+(B) Confidential data management.
+
+(C) Cost-effective storage of electronic reports, imagery, location information, and other data.
+
+(D) Data analysis and visualization.
+
+(E) Artificial intelligence and machine learning applications for data collection and monitoring.
+
+(F) Battery storage and energy supply storage at sea.
+
+(G) Improved internet connectivity onshore and at sea in support of data uploads.
+
+(H) Bycatch hotspot mapping and adaptive use of protected areas.
+
+(I) Such other subjects as the Administrator determines appropriate.
+
+(f) Advisory panel for electronic technologies development and deployment.—
+
+(1) ESTABLISHMENT.—The Secretary shall establish an advisory panel (referred to in this subsection as the “Advisory Panel”) to inform the Administrator, the Assistant Administrator for Fisheries, and the Councils regarding developments in the advancement of electronic technologies that can be used in fisheries monitoring, data collection, and management.
+
+(2) APPOINTMENTS.—In appointing individuals to the Advisory Panel, the Secretary shall appoint at least 2 individuals who are electronic technology developers, operators, or providers.
+
+(3) SUMMARIES.—The Secretary shall publish, on an annual basis, summaries of Advisory Panel discussions, including a summary of best practices and technical guidance to support the Councils.
+
+(4) RECOMMENDATIONS.—Not later than 2 years after the date of the enactment of this section, the Advisory Panel shall make a recommendation to the Secretary regarding the potential value of national performance standards for electronic technologies used in fisheries data collection and management, including—
+
+(A) an assessment of how the National Marine Fisheries Service and electronic technology developers, operators, and providers could benefit from such performance standards;
+
+(B) if the Advisory Panel recommends establishing such performance standards, a recommendation for which factors should be included in such performance standards and how the Secretary should determine the appropriate standards;
+
+(C) an assessment of whether such performance standards are likely to spur increased use of electronic technologies by the Councils;
+
+(D) an assessment of how such performance standards would impact existing regional or fishery-specific technologies currently in use and recommendations regarding ensuring continued use or improvement of these technologies if such performance standards are established;
+
+(E) a list of knowledge gaps or additional questions the Secretary should consider before publishing such performance standards;
+
+(F) recommendations regarding ensuring cost-effectiveness of electronic technologies for fisheries data collection and management;
+
+(G) recommendations to address data storage problems of electronic technologies;
+
+(H) recommendations regarding ownership of data collected using electronic technology; and
+
+(I) recommendations regarding policies and procedures to develop and implement electronic technologies for fisheries data collection and management.
+
+(5) EXEMPTION FROM THE FEDERAL ADVISORY COMMITTEE ACT.—Chapter 10 of title 5, United States Code (commonly known as the “Federal Advisory Committee Act”), does not apply to the Advisory Panel.
+
+(6) RULE OF CONSTRUCTION.—Nothing in this subsection may be construed to preclude any Council from independently developing electronic technologies to be used in fisheries data collection and management.

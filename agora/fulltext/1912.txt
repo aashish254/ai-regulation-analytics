@@ -1,0 +1,101 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Enable Intelligence Community Partnerships Act of 2024”.
+
+SEC. 2. Definitions.
+
+In this Act:
+
+(1) CONGRESSIONAL INTELLIGENCE COMMITTEES.—The term “congressional intelligence committees” has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+
+(2) INTELLIGENCE COMMUNITY.—The term “intelligence community” has the meaning given such term in such section.
+
+SEC. 3. Sense of Congress encouraging intelligence community to increase private sector capital partnerships and partnership with Federal partners to secure enduring technological advantages.
+
+It is the sense of Congress that—
+
+(1) acquisition leaders in the intelligence community should further explore the strategic use of private capital partnerships to secure enduring technological advantages for the intelligence community, including through the identification, development, and transfer of promising technologies to full-scale programs capable of meeting intelligence community requirements; and
+
+(2) the intelligence community should undertake consultation with Federal partners, including the Office of Strategic Capital of the Office of the Secretary of Defense and the Office of Domestic Finance of the Department of the Treasury, on best practices and lessons learned from their experiences integrating these resources so as to accelerate attainment of national security objectives.
+
+SEC. 4. Enhancement of authority for intelligence community public-private talent exchanges.
+
+(a) Focus areas.—Subsection (a) of section 5306 of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020 (50 U.S.C. 3334) is amended—
+
+(1) by striking “Not later than” and inserting the following:
+
+
+“(1) IN GENERAL.—Not later than”; and
+
+(2) by adding at the end the following:
+
+
+“(2) FOCUS AREAS.—The Director shall ensure that the policies, processes, and procedures developed pursuant to paragraph (1) require exchanges under this section relate to intelligence or counterintelligence with a focus on rotations described in such paragraph with private-sector organizations in the following fields:
+
+“(A) Finance.
+
+“(B) Acquisition.
+
+“(C) Biotechnology.
+
+“(D) Computing.
+
+“(E) Artificial intelligence.
+
+“(F) Business process innovation and entrepreneurship.
+
+“(G) Cybersecurity.
+
+“(H) Materials and manufacturing.
+
+“(I) Any other technology or research field the Director determines relevant to meet evolving national security threats in technology sectors.”.
+
+(b) Duration of temporary details.—Subsection (e) of section 5306 of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020 (50 U.S.C. 3334) is amended—
+
+(1) in paragraph (1), by striking “3 years” and inserting “5 years”; and
+
+(2) in paragraph (2), by striking “3 years” and inserting “5 years”.
+
+(c) Treatment of private-Sector employees.—Subsection (g) of such section is amended—
+
+(1) in paragraph (5), by striking “; and” and inserting a semicolon;
+
+(2) in paragraph (6), by striking the period at the end and inserting “; and”; and
+
+(3) by adding at the end the following:
+
+
+“(7) shall not have access to any trade secrets or proprietary information which is of commercial value or competitive advantage to the private-sector organization from which such employee is detailed.”.
+
+(d) Organizational conflicts of interest.—Such section is amended—
+
+(1) by redesignating subsection (i) as subsection (j); and
+
+(2) by inserting after subsection (h) the following:
+
+
+“(i) Organizational conflicts of interest.—
+
+“(1) IN GENERAL.—A private-sector organization that temporarily details a member of its workforce to an element of the intelligence community or that accepts the temporary detail of a member of the intelligence community shall not be considered to have an organizational conflict of interest with the element of the intelligence community solely because of participation in the program established under this section.
+
+“(2) IDENTIFICATION OF CONFLICTS OF INTEREST.—If the identification of an organizational conflict of interest arises based on the particular facts surrounding an individual’s participation in the program established under this section and the nature of any contract, then the heads of intelligence community elements shall implement a system to avoid, neutralize, or mitigate any such organizational conflicts of interest.”.
+
+(e) Annual reports.—
+
+(1) DEFINITION OF APPROPRIATE COMMITTEES OF CONGRESS.—In this subsection, the term “appropriate committees of Congress” means—
+
+(A) the congressional intelligence committees;
+
+(B) the Committee on Appropriations of the Senate; and
+
+(C) the Committee on Appropriations of the House of Representatives.
+
+(2) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act and annually thereafter for 2 more years, the Director of National Intelligence shall submit to the appropriate committees of Congress an annual report on—
+
+(A) the implementation of the policies, processes, and procedures developed pursuant to subsection (a) of such section 5306 (50 U.S.C. 3334) and the administration of such section;
+
+(B) how the heads of the elements of the intelligence community are using or plan to use the authorities provided under such section; and
+
+(C) recommendations for legislative or administrative action to increase use of the authorities provided under such section.

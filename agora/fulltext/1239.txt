@@ -1,0 +1,63 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Forecasting Optimization for Robust Earth Climate Analysis and Subseasonal-to-Seasonal Tracking Act of 2024” or the “FORECASTS Tracking Act of 2024”.
+SEC. 2. IMPROVEMENTS TO WEATHER RESEARCH AND FORECASTING.
+(a) Improvements To Subseasonal-To-Seasonal Forecasting.—Section 1762 of the Food Security Act of 1985 (15 U.S.C. 8521) is amended—
+(1) by amending subsection (c) to read as follows:
+“(c) Functions.—
+“(1) IN GENERAL.—The Under Secretary and the heads of such other programs of the National Oceanic and Atmospheric Administration as the Under Secretary considers appropriate, shall—
+“(A) conduct and support fundamental research to improve understanding of the sources and limitations of season-to-season predictability for temperature, precipitation, and other Earth system variables and applications;
+“(B) collect and utilize observational data across the Earth system and other information in order to make usable, reliable, and timely foundational forecasts of subseasonal-to-seasonal temperature and precipitation;
+“(C) prioritize the advancement of multi-model ensemble forecast systems and forecast verification and evaluation capacity, including—
+“(i) the development of advanced coupled data assimilation methods using robust Earth system observational data;
+“(ii) the development of improved coupled subseasonal-to-seasonal ensemble prediction systems;
+“(iii) the improvement of exchanges and interactions between datasets across different models and Earth system observations to better understand local relationships between and drivers of ocean, land, snow, and ice observations;
+“(iv) the provision of additional resources for the research and development of multi-model ensemble forecasts for purposes of advanced forecast modeling; and
+“(v) the development of data management strategies to support operations and research activities;
+“(D) leverage existing research and models from the weather and Earth system enterprises to improve the forecasts under subparagraph (B);
+“(E) accelerate the operationalization of emerging modeling technologies developed within the research community, including pursuant to collaborations with other agencies and entities, as determined appropriate through increased funding for activities under section 102(b)(5) of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8512(b)(5)), to support and assist the cross development of fully coupled subseasonal-to- seasonal forecast systems;
+“(F) determine and provide information on how the subseasonal-to-seasonal temperature and precipitation, as forecasted under subparagraph (B) may relate to—
+“(i) the number and severity of droughts, fires, tornadoes, hurricanes, floods, heat waves, marine heat waves, coastal inundation, winter storms, high-impact weather, or other relevant natural disasters;
+“(ii) snowpack;
+“(iii) sea ice conditions; and
+“(iv) permafrost thaw and increased microbial decomposition; and
+“(G) develop an Internet clearinghouse to provide the forecasts under subparagraph (B) and the information under subparagraphs (B) and (F) on both national and regional levels.
+“(2) EARTH SYSTEM DEFINED.—In this subsection, the term ‘Earth system’ includes atmosphere, ocean, terrestrial, ice, and related processes, and data that influence or drive subseasonal-to-seasonal weather and climate.”; and
+(2) by amending subsection (j) to read as follows:
+“(j) Authorization Of Appropriations.—
+“(1) IN GENERAL.—There are authorized to be appropriated to the Under Secretary, for each of fiscal years 2025 and 2026—
+“(A) $50,300,000 to carry out this section; and
+“(B) for activities under section 102(b)(5) of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8512(b)(5)) pursuant to subsection (c)(5), such sums as may be necessary to carry out such subsection.
+“(2) USE OF FUNDS.—Amounts appropriated pursuant to an authorization under paragraph (1)(B) shall be used for the designated responsibilities of the modeling team of the National Oceanic and Atmospheric Administration within the Earth Prediction Innovation Center, including activities that fall under the following focus areas:
+“(A) High-performance computing.
+“(B) Scientific innovation.
+“(C) Management and planning.
+“(D) External engagement and community.”.
+(b) Weather And Earth System Modeling And Data Assimilation Workforce Innovation Program.—
+(1) IN GENERAL.—Title IV of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8541 et seq.) is amended by adding at the end the following:“SEC. 415. WEATHER AND EARTH SYSTEM MODELING AND DATA ASSIMILATION WORKFORCE INNOVATION PROGRAM.
+“(a) In General.—The Under Secretary shall establish a program, to be known as the ‘Weather and Earth System Modeling and Data Assimilation Workforce Innovation Program’ (in this section referred to as the ‘program’).
+“(b) Education And Recruitment.—In carrying out the program, the Under Secretary shall support the education and recruitment of personnel and establish a set of new workforce development programs to develop pathways for next-generation researchers, engineers, and practitioners who are skilled in and can operate or develop weather and Earth system technologies that exploit and advance emerging computing architectures, artificial intelligence and machine learning, and next-generation data assimilation and observing systems, including through financial assistance for scholarships, fellowships, and research at institutions of higher education in areas relevant to improvement of data assimilation systems and weather and Earth system data modeling capabilities.
+“(c) Human Capital Planning.—
+“(1) IN GENERAL.—In carrying out the program, the Under Secretary shall develop and, on an annual basis, revise a data assimilation and weather and Earth system modeling workforce human capital plan that identifies workforce needs to facilitate innovation in emerging weather technologies and data assimilation systems, including by identifying gaps in funding and expertise, hiring challenges, and policies to mitigate turnover that will help avoid mid-project staffing changes.
+“(2) SUBMISSION OF PLAN.—The Under Secretary shall submit the data assimilation and weather and Earth system modeling workforce human capital plan required under paragraph (1), and any revision to that plan, to the Secretary of Commerce and the Director of the Office of Management and Budget.
+“(3) USE OF PLANS.—
+“(A) IN GENERAL.—The Under Secretary shall use the data assimilation and weather and Earth system modeling workforce human capital plans required under paragraph (1) to carry out the education and recruitment required under subsection (b).
+“(B) PATHWAYS TO HIRING.—In carrying out the data assimilation and weather and Earth system modeling workforce human capital plan required under paragraph (1), the Under Secretary may use the pathways programs established under part 362 of title 5, Code of Federal Regulations (or a successor program), to facilitate the recruitment and hiring of personnel for data assimilation and weather and Earth system modeling activities.
+“(4) AUTHORITY TO PROVIDE FUNDS.—If the Under Secretary, in preparing the data assimilation and weather and Earth system modeling workforce human capital plan pursuant to paragraph (1), identifies workforce gaps for the data assimilation and weather and Earth system modeling processes of the National Oceanic and Atmospheric Administration, the Under Secretary may—
+“(A) use funds made available to the Administration to carry out such plan; and
+“(B) establish agreements and awards with institutions of higher education or nonprofit entities to facilitate the integration of innovative data assimilation and weather and Earth system modeling technologies and systems into the larger weather enterprise.
+“(d) Updates To Direct Hiring Authority.—The Under Secretary, acting through the Director of the Office of Human Capital Services, shall make necessary updates to the eligibility requirements for the direct hiring authority program of the National Oceanic and Atmospheric Administration to include the program, the Weather Program Office Innovation for Next Generation Scientists Dissertation Fellowship, the Consortium for Advanced Data Assimilation Research and Education, and any other fellowship or internship programs determined by the Under Secretary to be relevant to the weather enterprise.
+“(e) Report.—Not later than 2 years after the initial date on which the Under Secretary provides funds under subsection (c)(4) to an institution of higher education or a nonprofit entity, the Under Secretary shall, using information about the program collected from any such institution or entity in receipt of those funds, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the effectiveness and impact of those funds in improving the quality and preparedness of the weather and Earth system modeling and data assimilation workforce.“(f) Definitions.—In this section:
+“(1) EARTH SYSTEM.—The term ‘Earth system’ includes atmosphere, ocean, terrestrial, ice, and related processes, and data that influence or drive subseasonal-to-seasonal weather and climate.
+“(2) INSTITUTION OF HIGHER EDUCATION.—The term ‘institution of higher education’ has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+“(3) NONPROFIT ENTITY.—The term ‘nonprofit entity’ has the meaning given that term in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651).
+“(g) Authorization Of Appropriations.—There are authorized to be appropriated to carry out the program $40,000,000 for each of fiscal years 2025 through 2030.”.
+(2) CLERICAL AMENDMENT.—The table of contents in section 1(b) of the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25; 131 Stat. 91) is amended by inserting after the item relating to section 414 the following:
+“Sec. 415. Weather and Earth System Modeling and Data Assimilation Workforce Innovation Program.”.
+(c) Authorization Of Appropriations.—Section 110(a) of the Weather Research Forecasting and Innovation Act of 2017 (15 U.S.C. 8519(a)) is amended—
+(1) in paragraph (4)(C), by striking “; and” and inserting a semicolon;
+(2) in paragraph (5)(C), by striking the period at the end and inserting “; and”; and
+(3) by adding at the end the following:
+“(6) $263,032,000 for each of fiscal years 2025 and 2026, of which—
+“(A) $171,516,000 is authorized for weather laboratories and cooperative institutes;
+“(B) $51,516,000 is authorized for weather and air chemistry research programs; and
+“(C) $40,000,000 is authorized for the joint technology transfer initiative described in section 102(b)(4).”.

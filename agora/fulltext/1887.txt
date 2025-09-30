@@ -1,0 +1,379 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title; table of contents.
+(a) Short title.—This Act may be cited as the “Preserving American Dominance in Artificial Intelligence Act of 2024”.
+
+[table of contents omitted]
+
+SEC. 2. Findings; sense of Congress.
+(a) Findings.—Congress finds the following:
+
+(1) Advancements in artificial intelligence have the potential to dramatically improve and transform our way of life, but also present a broad spectrum of risks that could be harmful to the people of the United States.
+
+(2) According to the United States Government, academia, and distinguished experts, advancements in artificial intelligence have the potential to be misused by bad actors.
+
+(3) The Department of Defense, the Department of State, the intelligence community, and the National Security Commission on Artificial Intelligence, as well as senior officials at the Department of Energy, Argonne National Laboratory, the Cybersecurity and Infrastructure Security Agency, and the National Counterterrorism Center, have underscored that advanced artificial intelligence poses risks to United States national security, including through enabling the development of biological, chemical, cyber, radiological, or nuclear weapons.
+
+(4) Advanced artificial intelligence models could one day be leveraged by terrorists or adversarial nation state regimes to cause widespread harm or threaten United States national security.
+
+(5) A September 2023 hearing titled, “Advanced Technology: Examining Threats to National Security”, held by the Subcommittee on Emerging Threats and Spending Oversight of the Committee on Homeland Security and Governmental Affairs of the Senate, heard testimony that advanced artificial intelligence models could facilitate or assist in the development of extreme national security risks and that the United States Government may lack authorities to adequately respond to such risks posed by broadly capable, general purpose frontier artificial intelligence models.
+
+(b) Sense of Congress.—It is the sense of Congress that—
+
+(1) the Federal Government should address extreme risks posed by advanced artificial intelligence, yet also ensure that the domestic artificial intelligence industry is able to develop and maintain an advantage over foreign adversaries; and
+
+(2) the Federal Government should ensure that any new requirements placed on industry do not bar new entrants who will help drive innovation and discovery.
+
+
+SEC. 3. Definitions.
+In this Act:
+
+(1) ALIEN.—The term “alien” has the meaning given such term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+
+(2) COVERED DATA CENTER.—The term “covered data center” means a set of physically co-located machines having a theoretical maximum computing capacity of 100,000,000,000,000,000,000 integer or floating-point operations per second, including those connected by data center networking at a rate of over 100 gigabits per second for training covered frontier artificial intelligence models.
+
+(3) COVERED FRONTIER ARTIFICIAL INTELLIGENCE MODEL.—
+
+(A) IN GENERAL.—Except as provided in subparagraph (B), the term “covered frontier artificial intelligence model” means a type of artificial intelligence model that—
+
+(i) is trained with a total quantity of compute power greater than 100,000,000,000,000,000,000,000,000 operations;
+
+(ii) is—
+
+(I) broadly capable, general-purpose, and able to complete a variety of downstream tasks; or
+
+(II) designed to produce outputs relating to biology, chemistry, radioactive materials, nuclear development, or cyber capabilities; and
+
+(iii) is accessible to users in the United States.
+
+(B) ALTERNATE DEFINITION.—Not less frequently than every 2 years, the Secretary of Commerce shall submit to Congress recommended changes, if any, to the definition of the term “covered frontier artificial intelligence model” under subparagraph (A) that shall be based on capabilities of artificial intelligence models to pose chemical, biological, radiological, nuclear, or cyber risks as technological advancements occur.
+
+(4) COVERED FRONTIER ARTIFICIAL INTELLIGENCE MODEL DEVELOPER.—The term “covered frontier artificial intelligence model developer” means a person who develops, trains, pre-trains or fine-tunes, or creates a covered frontier artificial intelligence model, including by taking steps to initiate a training run of the covered frontier artificial intelligence model.
+
+(5) COVERED INTEGRATED CIRCUITS.—The term “covered integrated circuits” means—
+
+(A) integrated circuits classified under Export Control Classification Number 3A090 or 3A001; or
+
+(B) computers and other products classified under Export Control Classification Number 4A090 or 4A003.
+
+(6) DEPLOY.—The term “deploy” means an action taken by a covered frontier artificial intelligence model developer to release, sell, or otherwise provide access to a covered frontier artificial intelligence model outside the custody of the developer, including by releasing an open source covered frontier artificial intelligence model.
+
+(7) EXECUTIVE AGENCY.—The term “Executive agency” has the meaning given such term in section 1015 of title 5, United States Code.
+
+(8) FOREIGN PERSON.—The term “foreign person” means a person that is not a United States person.
+
+(9) INFRASTRUCTURE-AS-A-SERVICE PROVIDER.—The term “infrastructure-as-a-service provider” means a person who sells or makes otherwise available to customers infrastructure-as-a-service products or services that provide cloud-based processing, storage, networks, or other fundamental computing resources, and with which the consumer is able to deploy and run software that is not predefined, including operating systems and applications.
+
+(10) LAWFULLY ADMITTED FOR PERMANENT RESIDENCE.—The term “lawfully admitted for permanent residence” has the meaning given such term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+
+(11) OFFICE.—The term “Office” means the Artificial Intelligence Safety Review Office established pursuant to section 4(a).
+
+(12) PERSON.—The term “person” means an individual or entity.
+
+(13) UNDER SECRETARY.—The term “Under Secretary” means the Under Secretary of Commerce for Artificial Intelligence Safety appointed under section 4(d)(1).
+
+(14) UNITED STATES PERSON.—The term “United States person” means—
+
+(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States;
+
+(B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
+
+(C) a person in the United States.
+
+(15) RED-TEAMING.—The term “red-teaming” means structured adversarial testing efforts of a covered frontier artificial intelligence model to identify risks, flaws, and vulnerabilities of an artificial intelligence system, such as harmful outputs from the system, unforeseen or undesirable system behaviors, limitations, or potential risks associated with the misuse of the model, related to chemical, biological, radiological, nuclear, or cyber risks.
+
+
+SEC. 4. Establishment of Artificial Intelligence Safety Review Office.
+(a) Establishment.—
+
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Commerce shall establish an office for the purposes set forth under subsection (b).
+
+(2) DESIGNATION.—The office established pursuant to paragraph (1) shall be known as the “Artificial Intelligence Safety Review Office”.
+
+(b) Purposes.—The purposes of the Office are as follows:
+
+(1) To oversee risks posed by covered frontier artificial intelligence models relating to chemical, biological, radiological, nuclear, and cybersecurity threats.
+
+(2) To lead interagency efforts to implement the requirements of this Act.
+
+(3) To evaluate covered frontier artificial intelligence models for compliance with the requirements of this Act.
+
+(4) To study and to submit to Congress reports on unforeseen challenges and risks posed by advanced artificial intelligence.
+
+(c) Interagency coordination.—The Office shall carry out the purposes set forth in subsection (b) and functions of the Office set forth under subsection (e) in coordination with the heads of each of the following:
+
+(1) The Department of Energy.
+
+(2) The Department of Homeland Security.
+
+(3) The Department of Health and Human Services.
+
+(4) The Bureau of Industry and Security.
+
+(5) The National Institute for Standards and Technology.
+
+(6) The National Nuclear Security Administration.
+
+(7) The Cybersecurity and Infrastructure Security Agency.
+
+(8) The National Security Agency.
+
+(9) Such other Executive agencies as the President considers appropriate.
+
+(d) Organization.—
+
+(1) UNDER SECRETARY OF COMMERCE FOR ARTIFICIAL INTELLIGENCE SAFETY.—The President shall appoint, by and with the advice and consent of the Senate, an Under Secretary of Commerce for Artificial Intelligence Safety, who shall—
+
+(A) have experience and expertise in national security; and
+
+(B) oversee the Office established in this section.
+
+(2) DETAILEES.—Each head of an Executive agency set forth under subsection (c) shall detail or assign to the Office 1 or more employees of the Executive agency for a period of not less than 1 year.
+
+(3) OFFICERS AND EMPLOYEES.—
+
+(A) IN GENERAL.—Except as otherwise provided in this subsection, officers and employees of the Office shall be selected and appointed by the Under Secretary, and shall be vested with such powers and duties as the Under Secretary may determine.
+
+(B) ADMINISTRATIVELY DETERMINED EMPLOYEES.—
+
+(i) APPOINTMENT; COMPENSATION; REMOVAL.—Of the officers and employees employed by the Office under subparagraph (A), not more than 50 may be appointed, compensated, or removed without regard to title 5, United States Code.
+
+(ii) ADDITIONAL POSITIONS.—Positions authorized by clause (i) shall be in addition to those otherwise authorized by law, including positions authorized under section 5108 of title 5, United States Code.
+
+(iii) RATES OF PAY FOR OFFICERS AND EMPLOYEES.—The Under Secretary may set and adjust rates of basic pay for officers and employees appointed under clause (i) without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, respectively.
+
+(C) TECHNICAL EXPERTISE.—The Under Secretary shall ensure that the staff of the Office has technical expertise in each of the following fields:
+
+(i) Artificial intelligence.
+
+(ii) Biotechnology.
+
+(iii) Cybersecurity.
+
+(iv) Physics.
+
+(v) Such other fields as the Under Secretary determines relevant to the administration of the responsibilities of the Office.
+
+(e) Functions.—The Under Secretary shall be responsible for the functions of the Office, which are as follows:
+
+(1) To establish the reporting procedures required by section 5(a).
+
+(2) To issue guidance in accordance with section 5(b).
+
+(3) To design the evaluation required by section 5(c)(1).
+
+(4) To conduct pre-deployment reviews under section 5(d).
+
+(5) To issue regulations under section 5(f).
+
+(f) Biennial studies.—Not later than 3 years after the date of the enactment of this Act, and not less frequently than once every 2 years thereafter, the Under Secretary shall—
+
+(1) conduct a study on unforeseen challenges and new risks posed by advanced artificial intelligence; and
+
+(2) submit to Congress a report on the findings of the Under Secretary with respect to the study conducted under paragraph (1).
+
+(g) Congressional reporting.—
+
+(1) ORGANIZATION CHART AND MISSION-STATEMENT.—Not later than 180 days after the date on which the Office is established, the Under Secretary shall submit to Congress an initial organization chart and mission statement for the Office.
+
+(2) REPORT ON ACTIVITIES AND CHALLENGES.—Not later than 1 year after the date on which the Office is established, the Under Secretary shall submit to Congress a report on the activities of the Office and the challenges faced by the Office.
+
+(3) SUBMITTAL OF RUBRIC.—Not later than 1 year after the date of the enactment of this Act, the Under Secretary shall submit to Congress the standardized rubrics established under section 5(c)(1)(E).
+
+(4) ANNUAL REPORTS.—
+
+(A) IN GENERAL.—Each year, the Under Secretary shall submit an annual report to Congress on the activities of the Office.
+
+(B) ELEMENTS.—Each report submitted under subparagraph (A) shall include statistics relating to the number of reviews conducted by the Under Secretary under section 5(d), including the outcomes of such reviews, for the period covered by the report.
+
+
+SEC. 5. Oversight of covered frontier artificial intelligence models, covered integrated circuits, and infrastructure-as-a-service.
+(a) Reporting procedures.—Not later than 1 year after the date of the enactment of this Act, the Under Secretary shall, in coordination with the Under Secretary of Commerce for Industry and Security, the Director of the National Institute of Standards and Technology, the Secretary of Energy, and the heads of such other entities specified under subsection (c) as the Under Secretary considers necessary, establish the following:
+
+(1) Procedures for covered frontier artificial intelligence model developers to report on implementation of red-teaming and mitigation techniques required under section 8(c)(1)(A).
+
+(2) Procedures for covered frontier artificial intelligence model developers to report on cybersecurity standards that must be implemented, as required under section 8(c)(1)(B). Such procedures may also include ways for the Office to verify such implementation.
+
+(3) Procedures for covered frontier artificial intelligence model developers to report on the implementation of requirements under section 8.
+
+(4) Procedures for covered data centers to report facilities in accordance with section 8(a).
+
+(5) Procedures for sellers of covered integrated circuits and infrastructure-as-a-service providers to report on the implementation and adherence to standards as required by section 8(b)(2).
+
+(6) Procedures for how the Office shall ensure the protection of proprietary or sensitive information provided by persons pursuant to reporting requirements established under this Act.
+
+(b) Required standards.—
+
+(1) KNOW-YOUR-CUSTOMER STANDARDS.—
+
+(A) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Under Secretary shall issue required know-your-customer standards for sellers of covered integrated circuit and providers of infrastructure-as-a-service to implement when transacting with foreign persons.
+
+(B) ELEMENTS.—The standards issued pursuant to subparagraph (A) shall include, at a minimum, standards for the following:
+
+(i) Collecting the following information:
+
+(I) The name of the customer.
+
+(II) The Internet Protocol address, if applicable.
+
+(III) The location from where the purchased product will be used.
+
+(IV) Information on beneficial ownership.
+
+(V) Such other information as the Under Secretary and the Under Secretary of Commerce for Industry and Security considers appropriate.
+
+(ii) Privacy protections for personally identifiable information and proprietary information provided by customers.
+
+(iii) Retention of information described in clause (i).
+
+(iv) Identifying and reporting on potential customers or transactions that could pose national security risks.
+
+(2) STANDARDS FOR RED-TEAMING PRACTICES AND OTHER APPROPRIATE TECHNIQUES.—
+
+(A) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Under Secretary shall, in coordination with the Director of the National Institute of Standards and Technology, the Director of the Cybersecurity and Infrastructure Security Agency, and the Secretary of Energy, issue required standards for red-teaming practices and other appropriate techniques for covered frontier artificial intelligence model developers.
+
+(B) LIMITATION.—The red-teaming practices and other appropriate techniques required by subparagraph (A) shall only address methods to mitigate chemical, biological, radiological, nuclear, and cyber risks from covered frontier artificial intelligence models during the development and training of such models, including during data curation and processing.
+
+(c) Evaluations.—
+
+(1) DESIGN.—
+
+(A) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Under Secretary shall, in coordination with the heads of entities specified under section 4(c), design an evaluation that shall be used by a person seeking to deploy a covered frontier artificial intelligence model to evaluate the model before deployment of the model in accordance with section 8(d).
+
+(B) COMPONENTS.—In designing the evaluation under subparagraph (A), the Under Secretary shall ensure the evaluation—
+
+(i) includes a mechanism for assessing capabilities of covered frontier artificial intelligence models to produce outputs that pose chemical, biological, radiological, nuclear, and cyber risks in a manner that is increased compared to baseline risk; and
+
+(ii) can be used to assess certain features of a covered frontier artificial intelligence model, including an assessment of the types of data on which the model is trained and model weights.
+
+(C) BASELINE RISK.—For purposes of the evaluations to be designed under subparagraph (A), the Under Secretary shall establish a level of baseline risk, which shall be a measure of the ability of a person to create a chemical, biological, radiological, nuclear, or cyber threat without access to a covered frontier artificial intelligence model.
+
+(D) LIMITATIONS.—The Under Secretary may not require the use of evaluations under subparagraph (A) to test for risks other than chemical, biological, radiological, nuclear, or cyber risks.
+
+(E) STANDARDIZED RUBRICS.—The Under Secretary shall establish standardized rubrics for reviewing results of evaluations of covered frontier artificial intelligence models conducted using the evaluation designed under subparagraph (A) to assess whether the covered frontier artificial intelligence model has incorporated sufficient safeguards against producing outputs that pose chemical, biological, radiological, nuclear, and cyber risks.
+
+(2) IMPLEMENTATION.—Pursuant to regulations promulgated under subsection (f), each person seeking to deploy a covered frontier artificial intelligence model shall—
+
+(A) conduct an evaluation of the covered frontier artificial intelligence model using the evaluation designed under paragraph (1); and
+
+(B) transmit to the Under Secretary the results of the evaluation conducted under subparagraph (A).
+
+(d) Pre-Deployment review.—
+
+(1) REVIEWS.—
+
+(A) AUTHORIZED.—Pursuant to receipt of a notice under section 8(d)(2) from a person seeking to deploy a covered frontier artificial intelligence model, the Under Secretary may initiate a review of the covered frontier artificial intelligence model under this subsection.
+
+(B) REQUIRED.—Pursuant to receipt of a request submitted under subsection (e)(3) for a rereview of a covered frontier artificial intelligence model, the Under Secretary shall initiate another review of the covered frontier artificial intelligence model under this subsection.
+
+(2) REVIEW ELEMENTS.—In carrying out a review under paragraph (1) of a covered frontier artificial intelligence model for a person seeking to deploy a covered frontier artificial intelligence model, the Under Secretary shall—
+
+(A) using the standardized rubrics established under paragraph (1)(E) of subsection (c), assess the results of the evaluation conducted by the person in accordance with paragraph (2) of such subsection;
+
+(B) determine whether the person has sufficiently mitigated against producing outputs from such covered frontier artificial intelligence model that pose chemical, biological, radiological, nuclear, and cyber risks based on the assessment conducted under subparagraph (A); and
+
+(C) ensure the person is in compliance with any regulations promulgated by the Under Secretary under subsection (f) or any other requirement of this Act.
+
+(3) INTERAGENCY PROCESS.—The Under Secretary shall coordinate with the heads of the Executive agencies specified under section 4(c), as the Under Secretary determines appropriate, to complete reviews under this subsection.
+
+(4) MATERIALS.—Upon request by the Under Secretary, a person seeking to deploy a covered frontier artificial intelligence model shall provide to the Under Secretary such additional materials as the Under Secretary considers necessary to conduct a review under this subsection.
+
+(5) TIMELINE.—Any review conducted—
+
+(A) pursuant to paragraph (1)(A) shall be completed before the end of the 90-day period beginning on the date of the acceptance of written notice under section 8(d)(2) by the Under Secretary; and
+
+(B) pursuant to paragraph (1)(B) shall be completed before the end of the 90-day period beginning on the date of the receipt of the request submitted for rereview under subsection (e)(3) by the Under Secretary.
+
+(6) NOTICE OF RESULTS.—If the Under Secretary initiates a review for a person under paragraph (1), the Under Secretary shall notify the person of the results of a review on or before the date that is 5 days after the date on which all action under this subsection has been completed with respect to the review.
+
+(e) Actions by the Under Secretary.—
+
+(1) IN GENERAL.—The Under Secretary may prohibit deployment of a covered frontier artificial intelligence model if the Under Secretary—
+
+(A) determines, pursuant to a review under subsection (d), that the covered frontier artificial intelligence model poses insufficiently mitigated chemical, biological, radiological, nuclear, or cyber risks to national security; and
+
+(B) on or before the date that is 5 days after the date on which all action under subsection (d) has been completed with respect to the review, notifies the person seeking to deploy the covered frontier artificial intelligence model of the determination described in subparagraph (A) of this paragraph.
+
+(2) EXPLANATION.—For all determinations made by the Under Secretary to prohibit the deployment of a covered frontier artificial intelligence model by a person under paragraph (1), the Under Secretary shall provide to the person an explanation for such determination and such additional technical feedback as the Under Secretary considers appropriate.
+
+(3) REQUEST FOR REREVIEW.—Upon a determination by the Under Secretary to prohibit the deployment of a covered frontier artificial intelligence model by a person under paragraph (1)—
+
+(A) the person may submit to the Under Secretary a request for a rereview under subsection (d)(1) and in so doing shall submit to the Under Secretary such materials as the Under Secretary considers appropriate to obtain another review under such subsection; and
+
+(B) the Under Secretary shall give priority to rereviews under subsection (d)(1) carried out pursuant to requests submitted under subparagraph (A) of this paragraph.
+
+(4) APPEALS.—
+
+(A) PROCESS FOR APPEAL.—The Under Secretary shall establish a process under which a person who is prohibited under paragraph (1) from deploying a covered frontier artificial intelligence model may request the Secretary to review the determination.
+
+(B) REVIEW.—The Secretary shall review each determination for which a request is made under clause (i) within 90 days and confirm or change the determination as the Secretary considers appropriate.
+
+(f) Regulations.—Not later than 1 year after the date of the enactment of this Act, the Under Secretary shall issue regulations to implement this section.
+
+
+SEC. 6. Strategies, best practices, and technical assistance for covered frontier artificial intelligence model developers.
+(a) In general.—The Director of the National Institute of Standards and Technology may, acting through the Artificial Intelligence Safety Institute, make available to the Office and to covered frontier artificial intelligence model developers—
+
+(1) mitigation strategies and best practices that covered frontier artificial intelligence model developers can leverage to mitigate chemical, biological, radiological, nuclear, and cyber risks; and
+
+(2) technical assistance.
+
+(b) Report.—Not later than 1 year after the date of the enactment of this Act, the Director shall submit to Congress a report on the status of the strategies, best practices, and technical assistance made available under subsection (a).
+
+
+SEC. 7. Cybersecurity standards for covered frontier artificial intelligence model developers.
+(a) In general.—The Director of the Cybersecurity and Infrastructure Security Agency, in coordination with the Director of the National Security Agency, the Director of the National Institute for Standards and Technology, and the Under Secretary, shall develop or identify cybersecurity standards for covered frontier artificial intelligence model developers to implement in order to safeguard artificial intelligence model weights and other sensitive information.
+
+(b) Use of certain identified best practices.—In carrying out subsection (a), the Director of the Cybersecurity and Infrastructure Security Agency may leverage best practices identified in any Joint Cybersecurity Information bulletin determined relevant by the Director.
+
+
+SEC. 8. Other requirements.
+(a) Reporting requirements for covered data centers.—
+
+(1) REQUIREMENT.—Any person who owns a covered data center shall report to the Under Secretary any facilities owned by that person that are covered data centers.
+
+(2) ELEMENTS.—Reporting of a facility under paragraph (1) shall include the following:
+
+(A) The location of the facility.
+
+(B) The name of the owner of the facility.
+
+(b) Requirements for sellers of covered integrated circuits and infrastructure-as-a-Service providers.—Sellers of covered integrated circuits and infrastructure-as-a-service providers shall—
+
+(1) implement and adhere to the standards issued pursuant to section 5(b)(1); and
+
+(2) report to the Under Secretary on such implementation and adherence.
+
+(c) Requirements for covered frontier artificial intelligence model developers.—
+
+(1) IN GENERAL.—A covered frontier artificial intelligence model developer shall implement—
+
+(A) the standards issued by the Under Secretary under section 5(b)(2) to mitigate chemical, biological, radiological, nuclear, and cyber risks; and
+
+(B) cybersecurity standards developed or identified pursuant to section 7.
+
+(2) REPORTING.—A covered frontier artificial intelligence model developer shall report to the Under Secretary on the implementation of guidance and standards required under paragraph (1).
+
+(d) Requirements for persons seeking To deploy a covered frontier artificial intelligence model.—Any person seeking to deploy a covered frontier artificial intelligence model shall—
+
+(1) conduct an evaluation of the covered frontier artificial intelligence model in accordance with section 5(c)(2); and
+
+(2) provide written notification to the Under Secretary and submit the findings of the person with respect to the evaluation conducted under paragraph (1).
+
+(e) Regulations for timelines.—The Secretary may issue regulations to establish timelines for the requirements under this section.
+
+
+SEC. 9. Enforcement and penalties.
+(a) In general.—No person may deploy a covered frontier artificial intelligence model that has been prohibited from deployment by the Under Secretary under section 5(e).
+
+(b) Enforcement.—The Attorney General may seek appropriate relief in the district courts of the United States in order to enforce the requirements of this Act.
+
+(c) Criminal penalties.—Any person determined to have knowingly deployed a covered frontier artificial intelligence model in violation of subsection (a) shall be subject to imprisonment for a period of not more than 10 years.
+
+(d) Civil penalties.—The Under Secretary shall issue a fine of not more than $1,000,000 per day to a person who is subject to a provision of this Act or a regulation promulgated under this Act and who fails to comply with such provision or regulation.
+
+
+SEC. 10. Authorization of appropriations.
+There is authorized to be appropriated to the Office $50,000,000 to carry out this Act.
+

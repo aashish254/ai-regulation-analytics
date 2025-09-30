@@ -1,0 +1,8 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Preparing Election Administrators for AI Act”.SEC. 2. VOLUNTARY GUIDELINES FOR ADMINISTRATION OF ELECTIONS THAT ADDRESS THE USE AND RISKS OF ARTIFICIAL INTELLIGENCE TECHNOLOGIES.
+(a) Report And Voluntary Guidelines.—Not later than 60 days after the date of the enactment of this Act, the Election Assistance Commission shall, in consultation with the National Institute of Standards and Technology, submit to Congress, issue to State and local election offices, and make available to the public a report with voluntary guidelines for election offices that address the use and risks of artificial intelligence technologies in the administration of elections.
+(b) Contents.—The report submitted and made available pursuant to subsection (a) shall include voluntary guidelines that address—
+(1) the risks and benefits associated with using artificial intelligence technologies to conduct election administration activities;
+(2) the cybersecurity risks of artificial intelligence technologies to election administration;
+(3) how information generated and distributed by artificial intelligence technologies can affect the sharing of accurate election information and how election offices should respond; and
+(4) how information generated and distributed by artificial intelligence technologies can affect the spreading of election disinformation that undermines public trust and confidence in elections.

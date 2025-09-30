@@ -1,0 +1,118 @@
+AN ACT concerning civil law.
+ 
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+ 
+Section 5. The Civil Remedies for Nonconsensual Dissemination of Private Sexual Images Act is amended by changing Sections 5, 10, 15, and 25 as follows:
+ 
+(740 ILCS 190/5)
+Sec. 5. Definitions. As used in this Act:
+(1) "Child" means an unemancipated individual who is less than 18 years of age.
+
+
+(2) "Consent" means affirmative, conscious, and voluntary authorization by an individual with legal capacity to give authorization.
+
+
+(3) "Depicted individual" means an individual whose body is shown, in whole or in part, in a private sexual image.
+
+
+(4) "Dissemination" or "disseminate" means publication or distribution to another person with intent to disclose.
+
+
+(5) "Harm" means physical harm, economic harm, or emotional distress whether or not accompanied by physical or economic harm.
+
+
+(6) "Identifiable" means recognizable by a person other than the depicted individual:
+(A) from a private sexual image itself; or
+(B) from a private sexual image and identifying characteristic displayed in connection with the image.
+
+
+(7) "Identifying characteristic" means information that may be used to identify a depicted individual.
+
+
+(8) "Individual" means a human being.
+
+
+(9) "Parent" means an individual recognized as a parent under laws of this State.
+
+
+(10) "Private" means:
+(A) created or obtained under circumstances in which a depicted individual had a reasonable expectation of privacy; or
+(B) made accessible through theft, bribery, extortion, fraud, voyeurism, or exceeding authorized access to an account, message, file, device, resource, or property.
+
+
+(11) "Person" means an individual, business or nonprofit entity, public corporation, government or governmental subdivision, agency, or other legal entity.
+
+
+(12) "Sexual conduct" includes:
+(A) masturbation;
+(B) genital sex, anal sex, oral sex, or sexual activity; or
+(C) sexual penetration of or with an object.
+
+
+(13) "Sexual activity" means any:
+(A) knowing touching or fondling by the depicted individual or another person, either directly or throug clothing, of the sex organs, anus, or breast of the depicted individual or another person for the purpose of sexual gratification or arousal;
+(B) transfer or transmission of semen upon any part of the clothed or unclothed body of the depicted individual, for the purpose of sexual gratification or arousal of the depicted individual or another person;
+(C) act of urination within a sexual context;
+(D) bondage, fetish, sadism, or masochism;
+(E) sadomasochistic abuse in any sexual context; or
+(F) animal-related sexual activity.
+
+
+(14) "Sexual image" means a photograph, film, videotape, digital recording, or other similar medium that shows or falsely appears to show:
+(A) the fully unclothed, partially unclothed, or transparently clothed genitals, pubic area, anus, or female post-pubescent nipple, partially or fully exposed, of a depicted individual; or
+(B) a depicted individual engaging in or being subjected to sexual conduct or activity.
+(Source: P.A. 101-556, eff. 1-1-20.)
+ 
+(740 ILCS 190/10)
+Sec. 10. Civil action.
+(a) Except as otherwise provided in Section 15, if a depicted individual is identifiable to a reasonable person and suffers harm from the intentional dissemination or threatened dissemination by a person over the age of 18 of a private or intentionally digitally altered sexual image without the depicted individual's consent, the depicted individual has a cause of action against the person if the person knew or recklessly disregarded the possibility that:
+(1) the depicted individual did not consent to the dissemination;
+(2) the image was a private or intentionally digitally altered sexual image; and
+(3) the depicted individual was identifiable.
+
+
+(b) The following conduct by a depicted individual does not establish by itself that the individual consented to the nonconsensual dissemination of a private sexual image that is the subject of an action under this Act or that the individual lacked a reasonable expectation of privacy:
+(1) consent to creation of the image; or
+(2) previous consensual disclosure of the image.
+
+
+(c) In the case of digitally altered sexual images, disclosing that the images were digitally altered shall not be a defense to liability. Nothing in this Act shall be construed to impose liability on an interactive computer service, as defined in 47 U.S.C. 230(f)(2), for content provided by another person.
+(Source: P.A. 101-556, eff. 1-1-20.)
+ 
+(740 ILCS 190/15)
+Sec. 15. Exceptions to liability.
+(a) A person is not liable under this Act if the person proves that the dissemination of or a threat to disseminate a private sexual image was:
+(1) made in good faith:
+(A) by law enforcement;
+(B) in a legal proceeding; or
+(C) for medical education or treatment;
+(2) made in good faith in the reporting or investigation of:
+(A) unlawful conduct; or
+(B) unsolicited and unwelcome conduct; or
+(3) related to a matter of public concern.
+
+
+(b) Subject to subsection (c), a defendant who is a parent, legal guardian, or individual with legal custody of a child is not liable under this Act for a dissemination or threatened dissemination of an intimate private sexual image of the child.
+
+
+(c) If a defendant asserts an exception to liability under subsection (b), the exception does not apply if the plaintiff proves the disclosure was:
+(1) prohibited by a law other than this Act; or
+(2) made for the purpose of sexual arousal, sexual gratification, humiliation, degradation, or monetary or commercial gain.
+
+
+(d) The dissemination of or a threat to disseminate a private sexual image is not a matter of public concern solely because the depicted individual is a public figure or the image is accompanied by a political message.
+(Source: P.A. 101-556, eff. 1-1-20.)
+ 
+(740 ILCS 190/25)
+Sec. 25. Remedies.
+(a) In an action under this Act, a prevailing plaintiff may recover:
+(1) the greater of:
+(A) economic and noneconomic damages proximately caused by the defendant's dissemination or threatened dissemination, including damages for emotional distress whether or not accompanied by other damages; or
+(B) statutory damages, not to exceed $10,000, against each defendant found liable under this Act for all disseminations and threatened disseminations by the defendant of which the plaintiff knew or reasonably should have known when filing the action or that became known during the pendency of the action. In determining the amount of statutory damages under this subsection, consideration shall be given to the age of the parties at the time of the disseminations or threatened disseminations, the number of disseminations or threatened disseminations made by the defendant, the breadth of distribution of the image by the defendant, and other exacerbating or mitigating factors;
+(2) an amount equal to any monetary gain made by the defendant from dissemination of the private sexual image; and
+(3) punitive damages. 
+(b) In an action under this Act, the court may award a prevailing plaintiff: 
+(1) reasonable attorney's fees and costs; and
+(2) additional relief, including equitable injunctive relief such as a temporary restraining order, preliminary injunction, or permanent injunction ordering the defendant to cease the display or disclosure of the image.
+(c) This Act does not affect a right or remedy available under any other law of this State.
+(Source: P.A. 101-556, eff. 1-1-20.)

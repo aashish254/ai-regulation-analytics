@@ -1,0 +1,13 @@
+SEC. 6731. REPORT ON ESTABLISHMENT OF TECHNOLOGY ACQUISITION CADRE.
+
+(a) Report.--Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a report containing a feasibility and advisability study on establishing a cadre of personnel who are experts in emerging technologies, software development, systems integration, and acquisition, to improve the adoption of commercial solutions for emerging technologies across the intelligence community, particularly as the technologies relate to artificial intelligence.
+(b) Elements.--The study under subsection (a) shall include the following:
+	(1) An examination regarding whether a cadre of personnel described in subsection (a) would be an effective and efficient means to substantially improve and accelerate the adoption of commercial artificial intelligence and other emerging technology products and services in support of the missions of the intelligence community if the cadre has the capacity and relevant expertise to--
+		(A) accelerate the adoption of emerging technologies, including with respect to artificial intelligence;
+		(B) assist with software development and acquisition; and
+		(C) develop training requirements for acquisition professionals within the elements of the intelligence community.
+	(2) An assessment of--
+		(A) whether the establishment of the cadre would require additional statutory authorities or resources, including to recruit, hire, and retain the talent and expertise needed to establish the cadre;
+		(B) the benefits, costs, and risks associated with the establishment of a cadre;
+		(C) a recommendation on whether to establish the cadre; and
+		(D) if a recommendation to establish the cadre is made, a plan for implementation of the cadre, including the proposed size of the cadre, how the cadre would be resourced, managed, and organized, and whether the cadre should be centrally managed or reside at individual elements of the intelligence community.

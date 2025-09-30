@@ -1,0 +1,289 @@
+ S. 1356
+
+
+To establish a task force on organizational structure for artificial intelligence governance and oversight.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+April 27, 2023
+
+
+Mr. Bennet introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To establish a task force on organizational structure for artificial intelligence governance and oversight.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Assuring Safe, Secure, Ethical, and Stable Systems for AI Act” or the “ASSESS AI Act”.
+
+
+SEC. 2. TASK FORCE ON ARTIFICIAL INTELLIGENCE GOVERNANCE AND OVERSIGHT.
+
+
+(a) Establishment.—Not later than 90 days after the date of enactment of this Act, the President shall appoint a task force to assess the privacy, civil rights, and civil liberties implications of artificial intelligence (referred to in this section as the “AI Task Force”).
+
+
+(b) Membership Of AI Task Force.—
+
+
+(1) IN GENERAL.—The AI Task Force shall include—
+
+
+(A) the Director of the Office of Management and Budget or his or her designee;
+
+
+(B) the Director of the National Institute of Standards and Technology or his or her designee;
+
+
+(C) the Director of the Office of Science and Technology Policy or his or her designee;
+
+
+(D) the Assistant Director of the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation;
+
+
+(E) the Secretary of Health and Human Services or his or her designee;
+
+
+(F) the Secretary of Transportation or his or her designee;
+
+
+(G) the Secretary of Housing and Urban Development or his or her designee;
+
+
+(H) the Comptroller General of the United States or his or her designee;
+
+
+(I) the Chairman of the Federal Trade Commission or his or her designee;
+
+
+(J) the Chairperson of the Equal Employment Opportunity Commission or his or her designee;
+
+
+(K) the Chair of the Council of Inspectors General on Integrity and Efficiency or his or her designee;
+
+
+(L) the Principal Deputy Assistant Attorney General for the Civil Rights Division of the Department of Justice or his or her designee;
+
+
+(M) the chief privacy and civil liberties officers for the following agencies:
+
+
+(i) the Department of State;
+
+
+(ii) the Department of the Treasury;
+
+
+(iii) the Department of Defense;
+
+
+(iv) the Department of Justice;
+
+
+(v) the Department of Health and Human Services;
+
+
+(vi) the Department of Homeland Security;
+
+
+(vii) the Department of Commerce;
+
+
+(viii) the Department of Labor;
+
+
+(ix) the Department of Education; and
+
+
+(x) the Office of the Director of National Intelligence;
+
+
+(N) the Chair of the Privacy and Civil Liberties Oversight Board;
+
+
+(O) the Chair of the National Artificial Intelligence Advisory Committee’s Subcommittee on Artificial Intelligence and Law Enforcement;
+
+
+(P) any other governmental representative determined necessary by the President; and
+
+
+(Q) not fewer than 6, but not more than 10, representatives from civil society, including organizational leaders with expertise in technology, privacy, civil liberties, and civil rights, representatives from industry, and representatives from academia, as appointed by the President.
+
+
+(2) TASK FORCE CHAIR AND VICE CHAIR.—The President shall designate a Chair and Vice Chair of the AI Task Force from among its members.
+
+ (c) Duties.—
+
+
+(1) IN GENERAL.—The AI Task Force shall—
+
+
+(A) assess existing policy, regulatory, and legal gaps for artificial intelligence (referred to in this section as “AI”) applications and associated data, as of the date of enactment of this Act; and
+
+
+(B) make recommendations to Congress and the President for legislative and regulatory reforms to ensure that uses of artificial intelligence and associated data in Federal Government operations comport with freedom of expression, equal protection, privacy, civil liberties, civil rights, and due process.
+
+
+(2) SPECIFIC REQUIREMENTS.—The assessments and recommendations under paragraph (1) shall—
+
+
+(A) address—
+
+
+(i) the application of Federal antidiscrimination laws to Federal Government use of AI;
+
+
+(ii) the application of Federal disparate impact standards to Federal Government use of AI;
+
+
+(iii) artificial intelligence validation and auditing for Federal Government use of AI;
+
+
+(iv) artificial intelligence risk and impact assessment reporting regarding Federal Government use of AI; and
+
+
+(v) institutional changes to ensure sustained assessment and recurring guidance on privacy and civil liberties implications of artificial intelligence applications, emerging technologies, and associated data;
+
+
+(B) include recommendations regarding—
+
+
+(i) baseline standards for Federal Government use of biometric identification technologies, including facial recognition, voiceprint, gait recognition, and keyboard entry technologies;
+
+
+(ii) proposals to address any gaps in Federal law, including regulations, with respect to facial recognition technologies in order to enhance protections of privacy, civil liberties, and civil rights of individuals in the United States;
+
+
+(iii) baseline standards for the protection and integrity of data in the custody of the Federal Government; and
+
+
+(iv) best practices and contractual requirements to strengthen protections for privacy, information security, fairness, nondiscrimination, auditability, and accountability in artificial intelligence systems and technologies and associated data procured by the Federal Government; and
+
+
+(C) assess—
+
+
+(i) whether existing and proposed AI regulations are appropriately balanced against critical law enforcement and national security needs;
+
+
+(ii) ongoing efforts to regulate commercial development and fielding of artificial intelligence and associated data in light of privacy, civil liberties, and civil rights implications, and, as appropriate, consider and recommend institutional or organizational changes to facilitate applicable regulation; and
+
+
+(iii) the utility of establishing a new organization within the Federal Government to provide ongoing governance for and oversight over the fielding of artificial intelligence technologies by Federal agencies as technological capabilities evolve over time, including—
+
+
+(I) the review of Federal funds used for the procurement and development of artificial intelligence; and
+
+
+(II) the enforcement of Federal law for commercial artificial intelligence products used in government.
+
+
+(3) ORGANIZATIONAL CONSIDERATIONS.—In conducting the assessments required under this subsection, the AI Task Force shall consider—
+
+
+(A) the organizational placement, structure, composition, authorities, and resources that a new organization would require to provide ongoing guidance and baseline standards for—
+
+
+(i) the Federal Government’s development, acquisition, and fielding of artificial intelligence systems to ensure the systems comport with privacy, civil liberties, and civil rights and civil liberties law, including guardrails for their use; and
+
+
+(ii) providing transparency to oversight entities and the public regarding Federal Government use of artificial systems and the performance of those systems;
+
+
+(B) the existing interagency and intra-agency efforts to address AI oversight;
+
+
+(C) the need for and scope of national security carve-outs, and any limitations or protections that should be built into any such carve-outs; and
+
+
+(D) the research, development, and application of new technologies to mitigate privacy and civil liberties risks inherent in artificial intelligence systems.
+
+ (d) Powers Of The Task Force.—
+
+
+(1) HEARINGS.—The Task Force may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the AI Task Force considers appropriate.
+
+
+(2) POWERS OF MEMBERS AND AGENTS.—Any member of the AI Task Force may, upon authorization by the AI Task Force, take any action that the AI Task Force is authorized to take under this section.
+
+
+(3) OBTAINING OFFICIAL DATA.—Subject to applicable privacy laws and relevant regulations, the AI Task Force may secure directly from any department or agency of the United States information and data necessary to enable it to carry out this section. Upon written request of the Chair of the AI Task Force, the head or acting representative of that department or agency shall furnish the requested information to the AI Task Force not later than 30 days after receipt of the request.
+
+ (e) Operating Rules And Procedure.—
+
+
+(1) INITIAL MEETING.—The AI Task Force shall meet not later than 30 days after the date on which a majority of the members of the AI Task Force have been appointed.
+
+
+(2) VOTING.—Each member of the AI Task Force shall have 1 vote.
+
+
+(3) RECOMMENDATIONS.—The AI Task Force shall adopt recommendations only upon a majority vote.
+
+
+(4) QUORUM.—A majority of the members of the AI Task Force shall constitute a quorum, but a lesser number of members may hold meetings, gather information, and review draft reports from staff.
+
+ (f) Staff.—
+
+
+(1) PERSONNEL.—The chairperson of the AI Task Force may appoint staff to inform, support, and enable AI Task Force members in the fulfillment of their responsibilities. A staff member may not be a local, State, or Federal elected official or be affiliated with or employed by, such an elected official during the duration of the AI Task Force.
+
+
+(2) DETAILEES.—The head of any Federal department or agency may detail, on a non-reimbursable basis, any of the personnel of that department or agency to the AI Task Force to assist the AI Task Force in carrying out its purposes and functions.
+
+
+(3) SECURITY CLEARANCES FOR MEMBERS AND STAFF.—The appropriate Federal departments or agencies shall cooperate with the AI Task Force in expeditiously providing to the AI Task Force members and staff appropriate security clearances to the extent possible pursuant to existing procedures and requirements, except that no person may be provided with access to classified information under this section without the appropriate security clearances.
+
+
+(4) EXPERT CONSULTANTS.—As needed, the AI Task Force may commission intermittent research or other information from experts and provide stipends for engagement consistent with relevant statutes and regulations.
+
+ (g) Assistance From Private Sector.—
+
+
+(1) PRIVATE ENGAGEMENT.—The Chair of the AI Task Force may engage with representatives from a private sector organization for the purpose of carrying out the mission of the AI Task Force, and any such engagement shall not be subject to chapter 10 of title 5, United States Code.
+
+
+(2) TEMPORARY ASSIGNMENT OF PERSONNEL.—The Chair of the AI Task Force, with the agreement of a private sector organization, may arrange for the temporary assignment of employees of the organization to the Task Force in accordance with paragraphs (1) and (4) of subsection (f).
+
+
+(3) DURATION.—An assignment under this subsection may, at any time and for any reason, be terminated by the Chair or the private sector organization concerned and shall be for a total period of not more than 18 months.
+
+
+(h) Application Of Ethics Rules.—
+
+
+(1) IN GENERAL.—An employee of a private sector organization assigned under subsection (g)—
+
+
+(A) shall be deemed to be a special government employee for purposes of Federal law, including chapter 11 of title 18, United States Code, and chapter 135 of title 5, United States Code; and
+
+
+(B) notwithstanding section 202(a) of title 18, United States Code, may be assigned to the Task Force for a period of not longer than 18 months.
+
+
+(2) NO FINANCIAL LIABILITY.—Any agreement subject to this subsection shall require the private sector organization concerned to be responsible for all costs associated with the assignment of an employee under subsection (g).
+
+ (i) Reporting.—
+
+
+(1) INTERIM REPORT TO CONGRESS.—Not later than 1 year after the establishment of the AI Task Force, the AI Task Force shall prepare and submit an interim report to Congress and the President containing the AI Task Force's legislative and regulatory recommendations.
+
+
+(2) UPDATES.—The AI Task Force shall provide periodic updates to the President and to Congress.
+
+
+(3) FINAL REPORT.—Not later than 18 months after the establishment of the AI Task Force, the AI Task Force shall prepare and submit a final report to the President and to Congress containing its assessment on organizational considerations, to include any recommendations for organizational changes.
+
+
+(j) Other Emerging Technologies.—At any time before the submission of the final report under subsection (i)(3), the AI Task Force may recommend to Congress the creation of a similar task force focused on another emerging technology.
+
+
+(k) Sunset.—The AI Task Force shall terminate on the date that is 18 months after the establishment of the AI Task Force under subsection (a).

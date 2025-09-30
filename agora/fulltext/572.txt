@@ -1,0 +1,104 @@
+H. R. 4504
+
+
+To direct the Assistant Secretary of Commerce for Communications and Information to take certain actions to improve the management of electromagnetic spectrum, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+July 10, 2023
+
+
+Mr. Guthrie introduced the following bill; which was referred to the Committee on Energy and Commerce
+
+
+A BILL
+To direct the Assistant Secretary of Commerce for Communications and Information to take certain actions to improve the management of electromagnetic spectrum, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Novel, Advanced Spectrum and Communications Technology Networks Promotion Act”.
+
+
+SEC. 2. FINDINGS.
+
+
+Congress finds the following:
+
+
+(1) The National Telecommunications and Information Administration (NTIA) is the principal advisor to the President on all telecommunications and information issues.
+
+
+(2) The NTIA represents executive branch agencies on electromagnetic spectrum issues before the Federal Communications Commission.
+
+
+(3) Understanding radio frequency propagation characteristics is a critical component of making spectrum management and spectrum policy decisions.
+
+
+(4) The NTIA relies on expert engineering studies and analyses to make determinations about system relocations to make spectrum available, as well as to identify spectrum sharing opportunities.
+
+
+(5) Spectrum clearing, when feasible, is the priority action to make federally assigned spectrum available for commercial uses.
+
+
+(6) Spectrum sharing provides commercial access to federally assigned spectrum in circumstances in which clearing is not feasible.
+
+
+(7) The Institute for Telecommunication Sciences of the NTIA is the Federal Government’s premier expert laboratory for spectrum study activities, including spectrum interference studies, and all activities related to advancing next generation technologies.
+
+
+(8) The Institute for Telecommunication Sciences is critical for undertaking engineering studies and analyses, identifying clearing or sharing opportunities, and performing tests that inform spectrum policy decisions to maximize the efficient use of spectrum resources.SEC. 3. SPECTRUM MANAGEMENT IMPROVEMENTS.
+
+
+(a) Prototyping.—Consistent with subparagraphs (F), (L), (P), and (U) of section 103(b)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(b)(2)), the Assistant Secretary shall support the establishment, prototyping, and implementation of common models, common methodologies, and common inputs to inform electromagnetic spectrum management decisions, such as—
+
+
+(1) technologies and techniques to control radio frequency emissions and interference;
+
+
+(2) advanced antenna arrays, and artificial intelligence systems and technologies capable of operating advanced antenna arrays, including multiple-input, multiple-output antennas, beam forming and steering technology, antenna nulling technology, and conformal arrays;
+
+
+(3) network sensing and monitoring technologies;
+
+
+(4) advanced receivers that incorporate new technologies supporting new waveforms and multiple bands;
+
+
+(5) dynamic spectrum access technologies across wireless systems and frequencies, including local-to-the-radio and cognitive multidomain access;
+
+
+(6) novel spectrum access technologies;
+
+
+(7) artificial intelligence systems to enable dynamic spectrum access, Internet of Things networks, and other advanced communications technologies; and
+
+
+(8) optical and quantum communications technologies.(b) Spectrum Management And Advanced Communications Technologies.—Section 104 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 903) is amended by adding at the end the following:
+
+
+“(f) Identification And Implementation Of Spectrum Management Technologies.—The Assistant Secretary shall identify and implement technologies that promote—
+
+
+“(1) dynamic spectrum access;
+
+
+“(2) network sensing and monitoring; and
+
+
+“(3) optical and quantum communications.
+
+
+“(g) Prototyping Of Advanced Communications Technologies.—The Assistant Secretary shall—
+
+
+“(1) encourage the development of, and broad participation in, a skilled workforce to conduct prototyping of advanced communications technologies; and
+
+
+“(2) support partnerships among institutions to develop a skilled workforce to conduct prototyping of advanced communications technologies.”.
+
+
+(c) Assistant Secretary Defined.—In this section, the term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.

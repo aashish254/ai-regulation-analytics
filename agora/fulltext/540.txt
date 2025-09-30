@@ -1,0 +1,105 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Tornado Observations Research and Notification Assessment for Development of Operations Act” or the “TORNADO Act”.SEC. 2. DEFINITIONS.
+In this Act:
+(1) HAZARDOUS WEATHER AND WATER EVENTS.—The term “hazardous weather and water events” means weather and water events that have a high risk of loss of life or property, including—
+(A) severe storms, such as hurricanes and short-fused, small-scale hazardous weather or hydrologic events produced by thunderstorms, including large hail, damaging winds, tornadoes, and flash floods;
+(B) winter storms, such as freezing or frozen precipitation (including freezing rain, sleet, and snow), or combined effects of freezing or frozen precipitation and strong winds; and
+(C) other weather hazards, such as extreme heat or cold, wildfire, drought, dense fog, high winds, river flooding, and lakeshore flooding.
+(2) HISTORICALLY BLACK COLLEGE OR UNIVERSITY.—The term “historically Black college or university” has the meaning given the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+(3) INDIAN TRIBE.—The term “Indian Tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+(4) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+(5) NATIONAL LABORATORY.—The term “National Laboratory” has the meaning given the term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+(6) UNDER SECRETARY.—The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.SEC. 3. HAZARDOUS WEATHER AND WATER EVENT RISK COMMUNICATION.
+(a) In General.—The Under Secretary shall maintain and improve the system of the National Oceanic and Atmospheric Administration by which the risks of hazardous weather and water events are communicated to the general public, with the goal of informing action and encouraging response to prevent loss of life and property.
+(b) Hazard Risk Communication Improvement And Simplification.—
+(1) IN GENERAL.—The Under Secretary shall maintain a hazard risk communication office (in this subsection referred to as the “Office”), for the purposes of simplifying and improving the communication of hazardous weather and water event risks.
+(2) TERMINOLOGY.—The Office shall identify, eliminate, or modify unnecessary, redundant, or confusing terms for hazardous weather and water event communications and add new terminology, as appropriate.
+(3) COMMUNICATIONS IMPROVEMENT.—The Office shall improve the form, content, and methods of hazardous weather and water event communications to more clearly inform action and increase the likelihood that the public takes such action to prevent the loss of life or property.
+(4) EVALUATIONS.—The Office shall, in coordination with the performance branch of the National Weather Service, develop metrics for that branch to track and evaluate the degree to which hazardous weather and water event communications inform action and encourage response.
+(5) SUPPORT PLAN.—The Office shall develop a plan for the purpose of supporting the activities described in paragraph (3). The plan shall be periodically updated and informed by internal and extramural research and the results of the evaluation of hazardous weather and water event communications conducted under paragraph (4).(6) METHODS.—In carrying out this subsection, the Office shall develop and implement recommendations that—
+(A) are based on the best and most recent understanding from social, behavioral, risk, and communication science research;
+(B) are validated by social, behavioral, risk, and communication science, taking into account the importance of methods that support reproduction and replication of scientific studies, use of rigorous statistical analyses, and, as applicable, data analysis supported by artificial intelligence and machine learning technologies;
+(C) account for the needs of various demographics, vulnerable populations, and geographic regions;
+(D) account for the differences between various types of weather and water hazards;
+(E) respond to the needs of Federal, State, and local government partners and media partners; and
+(F) account for necessary changes in the infrastructure, technology, and protocols for creating and disseminating federally operated watches and warnings.(7) COORDINATION.—In implementing this Act, the Office shall coordinate with—
+(A) Federal partners, including National Laboratories, Cooperative Institutes, and regional integrated sciences and assessments programs;
+(B) State and local government partners;
+(C) Indian Tribes;
+(D) institutions of higher education; and
+(E) media partners.(8) TIMELINESS AND CONSISTENCY.—The Office shall develop best practices and guidance for ensuring timely and consistent communication across public facing platforms that disseminate hazardous weather and water event information.
+(c) Hazard Communication Research And Engagement.—
+(1) IN GENERAL.—The Under Secretary shall establish or maintain a research program—
+(A) to modernize the creation and communication of risk-based, statistically reliable, probabilistic hazard information, with the goal of informing effective actions and encouraging responses to hazardous weather and water events; and
+(B) to improve the fundamental social, behavioral, risk, and communication science regarding hazardous weather and water event communication.
+(2) COORDINATION.—In carrying out the research program required by paragraph (1), the Under Secretary shall coordinate and communicate with States, Indian Tribes, localities, and emergency managers on research priorities and results.
+(3) PILOT PROGRAM FOR TORNADO HAZARD COMMUNICATION REQUIRED.—
+(A) IN GENERAL.—To further research into hazard communication, the Under Secretary, in collaboration with one or more eligible institutions, shall establish a pilot program for tornado hazard communication to test the effectiveness of implementing the research conducted under this subsection with respect to tornadoes.
+(B) ELIGIBLE INSTITUTION DEFINED.—In this paragraph, the term “eligible institution” means any of the following:
+(i) A historically Black college or university located in an area of persistent poverty that is subjected to frequent severe weather, such as tornadoes, hurricanes, and floods.
+(ii) An institution of higher education in close proximity to a Weather Forecast Office of the National Weather Service.
+(d) Data Management.—The Under Secretary shall establish, maintain, and improve a central repository system for the National Oceanic and Atmospheric Administration for social, behavioral, risk, and economic data related to the communication of hazardous weather and water events, including data developed or received pursuant to paragraphs (3), (4), and (5) of subsection (b).
+(e) Digital Watermarking.—The Under Secretary shall develop methods to reduce the likelihood of unauthorized tampering with online hazardous weather and water event risk communication, such as developing digital watermarks.SEC. 4. WARN-ON-FORECAST STRATEGIC PLAN.
+
+(a) In General.—Not later than one year after the date of the enactment of this Act, the Under Secretary shall prepare and submit to Congress a strategic plan for developing and prioritizing the implementation of high-resolution probabilistic forecast guidance for hazardous weather and water events using a next-generation weather forecast and warning framework.
+(b) Plan Elements.—The strategic plan required by subsection (a) shall include the following:
+(1) A discussion of—
+(A) the priorities and needs of vulnerable populations and National Weather Service partners; and
+(B) high-performance computing, visualization, and dissemination needs.
+(2) A timeline and guidance for implementation of—
+(A) high-resolution numerical weather prediction models;
+(B) methods for meeting the high-performance computing, visualization, and dissemination needs discussed under paragraph (1)(B);
+(C) real-time high-resolution probabilistic forecasts;
+(D) improved observations, including through radars, satellites, and uncrewed aerial systems;
+(E) a flexible framework to communicate clear and simple hazardous weather and water event information to the public; and
+(F) social, behavioral, risk, and communication research to improve the forecaster operational environment and societal information reception and response.SEC. 5. TORNADO RATING SYSTEM.
+(a) In General.—The Under Secretary shall, in collaboration with such stakeholders as the Under Secretary considers appropriate—
+(1) evaluate the system used as of the date of the enactment of this Act to rate the severity of tornadoes; and
+(2) determine whether updates to that system are required to ensure that the ratings accurately reflect the severity of tornadoes.
+(b) Update Required.—If the Under Secretary determines under subsection (a) that updates to the tornado rating system are necessary, the Under Secretary shall update the system.SEC. 6. POST-STORM SURVEYS AND ASSESSMENTS.
+(a) In General.—The Under Secretary shall perform one or more post-storm surveys and assessments following each hazardous weather or water event determined by the Under Secretary to be of sufficient societal importance to warrant a post-event survey and assessment.
+(b) Coordination.—The Under Secretary shall coordinate with Federal, State, and local governments, Indian Tribes, private entities, and relevant institutions of higher education when conducting post-storm surveys and assessments under subsection (a) in order to optimize data collection, sharing, and integration.
+(c) Data Availability.—The Under Secretary shall make the data obtained from each post-storm survey and assessment conducted under subsection (a) available to the public as soon as practicable after conducting the survey and assessment.(d) Improvement.—The Under Secretary shall—
+(1) investigate the role of uncrewed aerial systems in data collection during post-storm surveys and assessments conducted under subsection (a);
+(2) identify gaps in and update tactics and procedures to enhance the efficiency and reliability of data obtained from post-storm surveys and assessments; and
+(3) increase the number of post-storm community impact studies, including—
+(A) surveying individual responses;
+(B) conducting review of the accuracy of prior risk evaluations;
+(C) evaluating the efficacy of prior mitigation activity; and
+(D) gathering survivability statistics.(e) Support For Employees.—The Under Secretary shall provide training, resources, and access to professional counseling to support the emotional and mental health and well-being of employees conducting post-storm surveys and assessments under subsection (a).SEC. 7. VORTEX-USA PROGRAM.
+(a) In General.—Section 103 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8513) is amended—
+(1) in the section heading, by striking “TORNADO WARNING IMPROVEMENT AND EXTENSION” and inserting “VORTEX-USA”;
+(2) in subsection (a), by striking “establish a tornado warning improvement and extension program” and inserting “maintain a program for rapidly improving tornado forecast and warnings”;
+(3) by redesignating subsections (d) and (e) as subsections (f) and (g), respectively;
+(4) by inserting after subsection (c) the following:
+“(d) Warnings.—The program required by subsection (a) shall—
+“(1) continue the research necessary to develop and deploy probabilistic weather forecast guidance technology for tornadoes; and
+“(2) incorporate, as appropriate, hazard communication research.“(e) Research.—
+“(1) IN GENERAL.—The Under Secretary shall, through the program required by subsection (a), award grants for research that focuses on improving—
+“(A) the social, behavioral, risk, communication, and economic sciences related to vulnerabilities, risk communication, and delivery of information critical for saving lives and property related to tornadoes; and
+“(B) the physical sciences, engineering, and technology related to tornado formation, the interactions of tornadoes with the built and natural environment, and the interaction of tornadoes and hurricanes.“(2) PRIORITY INSTITUTIONS.—
+“(A) IN GENERAL.—In awarding grants under paragraph (1), the Under Secretary shall prioritize awarding grants to minority-serving institutions.
+“(B) DEFINITION OF MINORITY-SERVING INSTITUTION.—In this paragraph, the term ‘minority-serving institution’ means—
+“(i) a part B institution (as defined in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061));
+“(ii) a Hispanic-serving institution (as defined in section 502(a) of that Act (20 U.S.C. 1101a(a)));
+“(iii) a Tribal College or University (as defined in section 316(b) of that Act (20 U.S.C. 1059c(b)));
+“(iv) an Alaska Native-serving institution (as defined in section 317(b) of that Act (20 U.S.C. 1059d(b)));
+“(v) a Native Hawaiian-serving institution (as defined in section 317(b) of that Act (20 U.S.C. 1059d(b)));
+“(vi) a Predominantly Black Institution (as defined in section 318(b) of that Act (20 U.S.C. 1059e(b)));
+“(vii) an Asian American and Native American Pacific Islander-serving institution (as defined in section 320(b) of that Act (20 U.S.C. 1059g(b))); or
+“(viii) a Native American-serving, nontribal institution (as defined in section 319(b) of that Act (20 U.S.C. 1059f(b))).”; and(5) by adding at the end the following:
+“(h) Authorization Of Appropriations.—There is authorized to be appropriated to the Under Secretary to carry out this section $11,000,000 for each of fiscal years 2023 through 2030, of which not less than $2,000,000 each fiscal year shall be used for grants awarded under subsection (e).”.
+(b) Clerical Amendment.—The table of contents in section 1(b) of the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25; 131 Stat. 91) is amended by striking the item relating to section 103 and inserting the following:
+“Sec. 103. VORTEX-USA program.”.SEC. 8. REPORTS.
+
+(a) Weather Research And Forecasting Innovation Act Of 2017.—
+(1) IN GENERAL.—Section 403 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8543) is amended by striking subsection (d).
+(2) TECHNICAL AMENDMENT.—Section 403(a) of such Act (15 U.S.C. 8543(a)) is amended by inserting “the” after “Director of”.
+(b) National Oceanic And Atmospheric Administration Authorization Act Of 1992.—Section 106 of the National Oceanic and Atmospheric Administration Authorization Act of 1992 (Public Law 102–567; 106 Stat. 4274) is amended by striking subsection (c) (15 U.S.C. 1537).SEC. 9. GOVERNMENT ACCOUNTABILITY OFFICE REPORT ON HAZARDOUS WEATHER AND WATER ALERT DISSEMINATION.
+(a) In General.—Not later than 540 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that examines the information technology infrastructure of the National Weather Service of the National Oceanic and Atmospheric Administration, specifically regarding the system for timely public notification of hazardous weather and water event alerts and updates.
+(b) Elements.—The report required by subsection (a) shall include the following:
+(1) An analysis of the information technology infrastructure of the National Weather Service, including software and hardware capabilities and limitations, including an examination of server and data storage methods, broadband, data management, and data sharing.
+(2) An identification of secondary and tertiary fail-safes for the timely distribution of hazardous weather and water event alerts to the public.
+(3) A determination of the extent to which public notifications are delayed and an identification of corrective measures that do not add additional notification time.
+(4) An assessment of whether collaboration with other Federal offices, States, or private entities could reduce delays in notifications to the public.
+(5) A description of actions being undertaken to better identify critical steps in the hazards notification process that may be vulnerable to disruption or failure in the event of communication, technologic, or computational failure.

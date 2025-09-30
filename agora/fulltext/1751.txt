@@ -1,0 +1,45 @@
+SEC. 237. Pilot program on use of artificial intelligence for certain workflow and operations tasks.
+
+(a) Pilot program required.--Beginning not later than 60 days after the date of the enactment of this Act, the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of using artificial intelligence-enabled software to optimize the workflow and operations for--
+
+(1) depots, shipyards, or other manufacturing facilities run by the Department of Defense; and
+
+(2) contract administration for the Department, including--
+
+(A) the adjudication and review of contracts; and
+
+(B) activities related to the Modernization and Analytics Initiative managed by the Defense Contract Management Agency.
+
+(b) Method of implementation.--The Secretary of Defense may carry out subsection (a) through--
+
+(1) the establishment of a new pilot program; or
+
+(2) the designation of an existing initiative of the Department of Defense to serve as the pilot program required under such subsection.
+
+(c) Software.--In carrying out the pilot program required by subsection (a), the Secretary shall--
+
+(1) use best in breed software platforms;
+
+(2) consider industry best practices in the selection of software programs;
+
+(3) implement the program based on human centered design practices to best identify the business needs for improvement; and
+
+(4) demonstrate connection to enterprise platforms of record with authoritative data sources.
+
+(d) Consultation.--In carrying out the activities described in subsection (a)(1) under the pilot program, the Secretary of Defense shall consult with--
+
+(1) the Under Secretary of Defense for Acquisition and Sustainment;
+
+(2) the Secretary of the Army;
+
+(3) the Secretary of the Navy; and
+
+(4) the Secretary of the Air Force.
+
+(e) Report.--Not later than one year after the date of the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the following information:
+
+(1) An evaluation of each software platform used in the pilot program.
+
+(2) An analysis of how workflows and operations were modified as part of the pilot program.
+
+(3) A quantitative assessment of the impact the software had at each of the locations in which the pilot program was carried out.

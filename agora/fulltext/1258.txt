@@ -1,0 +1,71 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Digital Social Platform Transparency Act”.
+SEC. 2. TERMS OF SERVICE REQUIREMENT.
+(a) Terms Of Service.—Not later than 180 days after the date of enactment of this Act, digital social companies shall post terms of service for each digital social platform owned or operated by the company in a manner reasonably designed to inform all users of the digital social platform of the existence and contents of the terms of service. The terms of service posted pursuant to this section shall include each of the following:
+(1) Contact information for the purpose of allowing users to ask the digital social company questions about the terms of service.
+(2) A description of the process that users must follow to flag content, groups, or other users that they believe violate the terms of service, and the digital social company’s commitments on response and resolution time.
+(3) A list of potential actions the digital social company may take against an item of content or a user, including demonetization, deprioritization, muting, or banning.
+(b) Translations.—The terms of service posted pursuant to this section shall be made available in all languages in which the digital social platform offers product features, including menus and prompts.SEC. 3. REPORTING REQUIREMENT.
+(a) Terms Of Service Report.—Not later than 360 days after the date of enactment of this Act, and on a semiannual basis thereafter, each digital social company shall electronically submit to the Attorney General a terms of service report.
+(b) Contents Of Terms Of Service Report.—The terms of service report shall include, for each digital social platform owned or operated by the company, each of the following:
+(1) The version of the terms of service of the digital social platform in effect on the date of the report.
+(2) If applicable, a complete and detailed description of any changes to the terms of service since the previous report.
+(3) A statement of whether the version of the terms of service in effect on the date of the report defines each of the following categories of content (or any substantially similar categories), and, if so, the definitions of those categories, including any subcategories:
+(A) Hate speech or racism.
+(B) Extremism or radicalization.
+(C) Disinformation or misinformation.
+(D) Harassment.
+(E) Foreign political interference.
+(4) A detailed description of content moderation practices used by the digital social company for that platform, including each of the following:
+(A) Any existing policies intended to address the categories of content described in paragraph (3).
+(B) How automated content moderation systems enforce terms of service of the digital social platform and when these systems involve human review.
+(C) How the digital social company responds to user reports of violations of the terms of service.
+(D) What standards, policies, or decision-making systems the digital social company employs when deciding to action individual pieces of content, users, or groups.
+(5) Information on content that was flagged to the digital social company as belonging to any of the categories described in paragraph (3), including each of the following:
+(A) The total number of flagged items of content.
+(B) The total number of actioned items of content.
+(C) The total number of actioned items of content that were removed, demonetized, deprioritized, muted, or banned by the digital social company, disaggregated by each type of action.
+(D) The number of times actioned items of content were viewed by users.
+(E) The number of times actioned items of content were shared, and the number of users that viewed the content before it was actioned.
+(F) The number of times users appealed digital social company actions taken on that platform.
+(G) The number of reversals of digital social company actions on appeal disaggregated by each type of action.
+(6) All information required by paragraphs (4) and (5) shall be disaggregated into the following categories:
+(A) The category of content, including any relevant categories described in paragraph (3).
+(B) The type of content, including posts, comments, messages, in-game structures or objects, or profiles of users, or groups of users.
+(C) The type of media of the content, including text, images, videos, and audio.
+(D) How the content was flagged, including flagged by company employees or contractors, flagged by artificial intelligence software, flagged by community moderators, flagged by civil society partners, and flagged by users.
+(E) How the content was actioned, including actioned by company employees or contractors, actioned by artificial intelligence software, or actioned by community moderators.
+(c) Activity Report.—A digital social company shall report—
+(1) activity within the third and fourth quarters of the preceding calendar year, to the Attorney General no later than April 1 of each year; and
+(2) activity within the first and second quarters of the current calendar year, to the Attorney General no later than October 1 of each year.
+(d) Repository.—The Attorney General shall make all terms of service reports submitted pursuant to this section available to the public in a searchable repository on its official internet website.SEC. 4. PENALTIES FOR LACK OF SUBMISSION.
+(a) Administrative Assessment.—A digital social company that violates the provisions of this Act shall be liable for an administrative assessment not to exceed $15,000 per violation per day.
+(b) Violations.—A digital social company shall be considered in violation of the provisions of this Act for each day the digital social company does any of the following:
+(1) Fails to post terms of service in accordance with section 2.
+(2) Fails to timely submit to the Attorney General a report required pursuant to section 3.
+(3) Materially omits or misrepresents required information in a report submitted pursuant to section 3.
+(c) Relief.—The Attorney General has the exclusive authority to bring an action in any court of competent jurisdiction, upon their own complaint or upon the complaint of any board, officer, person, corporation, or association, to enjoin a violation of this Act by a digital social company.
+(d) Deposits Into Fund.—
+(1) ESTABLISHMENT.—There is established in the Treasury a separate account to be known as the Digital Social Platform Terms of Service Fund (hereinafter referred to as the “Fund”).
+(2) DEPOSITS.—There shall be deposited in the Fund one-half of the administrative assessment funds collected pursuant to this section, which funds may be used to maintain the reporting website and support the enforcement of this Act.SEC. 5. DUTIES AND OBLIGATIONS; REMEDIES AND PENALTIES.
+(a) Duties And Obligations.—The duties and obligations authorized under this Act are cumulative to any other duties or obligations imposed under local, State, or Federal law and shall not be construed to relieve any party from any duties or obligations imposed under law.
+(b) Remedies And Penalties.—Remedies or penalties authorized under this Act are cumulative to any other remedies or penalties available under local law, State law, this Act or any other Federal law.SEC. 6. RULES OF CONSTRUCTION.
+(a) Limitation On Application.—This Act may not be construed to apply to an internet-based service or application for which interactions between users are limited to direct messages, commercial transactions, consumer reviews of products, sellers, services, events, or places, or any combination thereof.
+(b) End-To-End Encryption.—This Act may not be construed to require or encourage any internet-based service or application to change the effectiveness of end-to-end encryption of that service or application.SEC. 7. DEFERENCE TO AGENCY INTERPRETATIONS.
+Notwithstanding section 706 of title 5, United States Code, the Attorney General may make such interpretations and determinations as are reasonable and necessary to carry out this Act, with respect to which courts shall defer.SEC. 8. DEFINITIONS.
+In this Act:
+(1) ACTIONED.—The term “actioned” means that a digital social company, due to a suspected or confirmed violation of the terms of service, has taken some form of action, including removal, demonetization, deprioritization, muting, suspending, or banning, against a relevant user or relevant item of content.
+(2) CONTENT.—The term “content” means statements, posts, comments, messages, videos, audio, images, in-game structures or other user-created objects, or profiles of users or groups of users, or structures that are created, posted, shared, or otherwise interacted with by users on an internet-based service or application. The term “content” does not include media put on a service or application exclusively for the purpose of cloud storage, transmitting files, or file collaboration.
+(3) DIGITAL SOCIAL COMPANY.—The term “digital social company” means a person or entity that owns or operates one or more digital social platforms, including social media platforms and online games.
+(4) DIGITAL SOCIAL PLATFORM.—
+(A) IN GENERAL.—The term “digital social platform” means a public or semipublic internet-based service or application that has users in the United States and that meets the following criteria:
+(i) A substantial function of the service or application is to introduce users in order to allow users to interact socially with each other within the service or application.
+(ii) The service or application allows users to do each of the following:
+(I) Construct a public or semipublic profile for purposes of signing into and using the service or application.
+(II) Populate a list of other users with whom an individual shares a social connection within the system.
+(III) Create or post content viewable by other groups or communities of users, including on message boards, in chat rooms, or through a landing page or main feed.
+(iii) A service or application that generates more than $100,000,000 in gross revenue during the preceding calendar year.
+(B) EXCLUSION.—The term “digital social platform” does not include a service or application that provides email or direct messages, commercial transactions, consumer reviews of products, sellers, services, events, or places, or any combination thereof on the basis of that function alone.
+(5) END-TO-END ENCRYPTION.—The term “end-to-end encryption” means communications encryption in which data is encrypted when being passed through a network, but routing information remains visible.
+(6) PUBLIC OR SEMIPUBLIC INTERNET-BASED SERVICE OR APPLICATION.—The term “public or semipublic internet-based service or application” excludes a service or application used to facilitate communication within a business or enterprise among employees or affiliates of the business or enterprise, provided that access to the service or application is restricted to employees or affiliates of the business or enterprise using the service or application.
+(7) TERMS OF SERVICE.—The term “terms of service” means a policy or set of policies adopted by a digital social company that specifies, at least, the user behavior and activities that are permitted on the internet-based service owned or operated by the digital social company, and the user behavior and activities that may subject the user or an item of content to being actioned.

@@ -1,0 +1,41 @@
+SEC. 1087. Establishment of Department of Defense working group on multilateral artificial intelligence coordination.
+
+(a) Establishment.--Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall establish a working group, or designated a working group of a similar nature, to develop and coordinate artificial intelligence initiatives among the allies and partners of the United States.
+
+(b) Organization.--
+
+(1) DESIGNATION OF HEAD.--The Secretary shall designate a senior civilian officer of the Department of Defense or senior military officer with experience leading relevant efforts, as determined by the Secretary, to serve as the head of the working group.
+
+(2) PARTICIPATION BY OTHER MEMBER COUNTRIES.--The Secretary shall establish a process to determine which allies and partners of the United States shall be asked to participate as member countries in the working group.
+
+(c) Responsibilities.--The responsibilities of the working group shall be to develop and coordinate efforts to implement an artificial intelligence initiative between the Department of Defense and allies and partners of the United States, including by--
+
+(1) comparing tools and practices for artificial intelligence systems for covered operational uses by member countries;
+
+(2) identifying (including by experimenting, testing, and evaluating) potential solutions to advance and accelerate the interoperability of artificial intelligence systems used for intelligence sharing, battlespace awareness, and other covered operational uses;
+
+(3) developing a shared strategy for the research, development, test, evaluation, and employment of artificial intelligence systems for covered operational uses carried out jointly by the member countries;
+
+(4) managing data for artificial intelligence systems, including multi-level security of training and operational data used by such systems;
+
+(5) testing and evaluating the capabilities of the defense industrial base of the member countries to incorporate artificial intelligence systems into systems used for covered operational uses;
+
+(6) expanding innovation efforts by the member countries and share among such countries best practices for the accelerated procurement and adoption of artificial intelligence technologies for covered operational uses;
+
+(7) carrying out such other activities as the Secretary determines to be relevant to such responsibilities.
+
+(d) Control of knowledge and technical data.--The Secretary shall seek to ensure that any knowledge or technical data produced by a member country under any cooperative project carried out by the working group shall be controlled by that country under the export control laws and regulations of that country and shall not be subject to the jurisdiction or control of any other member country.
+
+(e) Termination.--
+
+(1) IN GENERAL.--Except as provided in paragraph (2), the working group shall terminate on September 30, 2028.
+
+(2) AUTHORITY TO EXTEND.--The Secretary may extend the termination date under paragraph (1) if the Secretary determines such extension to be in the national security interests of the United States.
+
+(f) Definitions.--In this section:
+
+(1) The term "battlespace awareness" has the meaning given that term in the Joint Publication 1-02 of the Department of Defense, titled "Department of Defense Dictionary of Military and Associated Terms", or successor publication.
+
+(2) The term "covered operational use" means use by a government for operations in a defense context.
+
+(3) The term "member country" means a member country of the working group.

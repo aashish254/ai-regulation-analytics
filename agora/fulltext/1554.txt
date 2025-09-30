@@ -1,0 +1,76 @@
+An act to add and repeal Section 33328.5 of the Education Code, relating to public schools.
+
+[ Approved by Governor  September 28, 2024. Filed with Secretary of State  September 28, 2024. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+SB 1288, Becker. Public schools: artificial intelligence working group.
+Existing law requires the Superintendent of Public Instruction to establish procedures within the State Department of Education to, among other things, annually identify the critical needs for which effective educational programs and practices are to be identified, developed, and disseminated to public schools.
+This bill would require the Superintendent to convene a working group, composed as provided, for specific purposes related to artificial intelligence in public schools, as specified. The bill would require, among other things, the working group to develop, on or before January 1, 2026, guidance for school districts, county offices of education, and charter schools on the safe use of artificial intelligence in education, and to, on or before July 1, 2026, develop a model policy for those local educational agencies regarding the safe and effective use of artificial intelligence in ways that benefit, and do not negatively impact, pupils and educators, as provided. The bill would require the working group to, on or before January 1, 2027, report its findings and recommendations to the appropriate policy and fiscal committees of the Legislature, as provided. The bill would dissolve the working group upon submission of that report, and would repeal these provisions as of January 1, 2031.
+DIGEST KEY
+Vote: majority   Appropriation: no   Fiscal Committee: yes   Local Program: no  
+
+BILL TEXT
+THE PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS:
+
+SECTION 1. (a) The Legislature finds and declares that there is an urgent need for state guidance and locally adopted policies regarding the safe and effective use of artificial intelligence in education to benefit and protect pupils and educators.
+(b) It is the intent of the Legislature to ensure that the use of artificial intelligence technology-enabled teaching and learning practices are in coordination with, rather than a replacement of, educators.
+SEC. 2. Section 33328.5 is added to the Education Code, immediately following Section 33328, to read:
+
+33328.5. (a) For purposes of this section, the following definitions apply:
+(1) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer, from the input it receives, how to generate outputs that can influence physical or virtual environments.
+(2) “Educator” means a certificated or classified employee of a local educational agency or charter school.
+(3) “Local educational agency” means a school district or county office of education.
+(b) The Superintendent shall convene a working group for all of the following purposes:
+(1) Developing guidance on the safe and effective use of artificial intelligence in ways that benefit, and do not harm, pupils and educators.
+(2) Developing a model policy, reflecting available research, for local educational agencies and charter schools regarding the safe and effective use of artificial intelligence in ways that benefit, and do not negatively impact, educational quality, pupil critical thinking and writing skills, creativity, and the essential work of educators.
+(3) Identifying other ways in which the state can support educators in developing and sharing effective practices involving artificial intelligence that minimize risk and maximize benefits to pupils and educators.
+(c) (1) The working group shall include all of the following:
+(A) Current, credentialed public school teachers serving in elementary and secondary teaching positions.
+(B) Classified public school staff.
+(C) Schoolsite administrators.
+(D) School district or county office of education administrators.
+(E) University and community college faculty, including academics with expertise in artificial intelligence and its uses in education.
+(F) Representatives of private sector business or industry, with expertise in artificial intelligence and its uses in education.
+(G) Pupils enrolled in public school.
+(2) At least one-half of the workgroup shall be composed of current, credentialed public school teachers serving in elementary and secondary teaching positions with knowledge of the use of artificial intelligence in education.
+(d) The working group shall do all of the following:
+(1) (A) Assess the current and future state of artificial intelligence use in education, including both of the following:
+(i) The current state of artificial intelligence used by local educational agencies and charter schools, including all of the following:
+(I) Technologies most commonly in use.
+(II) The typical cost of those technologies.
+(III) The ownership structure of those technologies.
+(IV) The ownership structure of pupil- and employee-created materials.
+(V) The licensing agreements for those technologies.
+(VI) The ability to access source code for those technologies.
+(VII) The degree to which educators were involved in the decision to use artificial intelligence.
+(VIII) Artificial intelligence as a topic of instruction in developing class content.
+(ii) Anticipated and potential developments in artificial intelligence technology in education.
+(B) (i) Conduct at least three public meetings to incorporate feedback from pupils, families, and relevant stakeholders into the assessment required by subparagraph (A).
+(ii) Public meetings held pursuant to clause (i) may be held by teleconference, pursuant to the procedures required by Section 11123 of the Government Code, for the benefit of the public and the working group.
+(2) (A) Detail current uses of artificial intelligence in education settings including through the identification of all of the following:
+(i) Examples of human-centered artificial intelligence that aid, further, and improve teaching and learning, including in ways that do not exacerbate existing inequities, and the work of educators.
+(ii) Examples of human replacement artificial intelligence that could negatively impact pupil development, jeopardize pupil data security, or risk the jobs of educators.
+(iii) Examples of strategies to ensure that there are opportunities for stakeholders to offer meaningful feedback before any given form of artificial intelligence is introduced to pupils or educators.
+(B) In performing the work required by this subdivision, the working group shall solicit input from educators and pupils on their experience using the technologies identified in subparagraph (A).
+(3) On or before January 1, 2026, develop guidance for local educational agencies and charter schools on the safe use of artificial intelligence in education that addresses all of the following:
+(A) Academic integrity and plagiarism.
+(B) Acceptable and unacceptable uses of artificial intelligence for pupils and educators.
+(C) Pupil and educator data privacy and data security.
+(D) Parent and guardian access to information that pupils enter into artificial intelligence systems.
+(E) Procurement of software that ensures the safety and privacy of pupils and educators, and the protection of their data.
+(4) On or before July 1, 2026, develop a model policy for local educational agencies and charter schools regarding the safe and effective use of artificial intelligence in ways that benefit, and do not negatively impact, pupils and educators. This policy shall include all of the following topics:
+(A) Academic integrity and plagiarism.
+(B) Acceptable and unacceptable uses of artificial intelligence for pupils and educators.
+(C) Pupil and educator data privacy and data security.
+(D) Parent and guardian access to pupil information.
+(E) Procurement of software that ensures the safety and privacy of pupils and educators and their data.
+(F) Effective use of artificial intelligence to support, and avoid risk to, teaching and learning.
+(G) Effective practices to support, and avoid risk to, educators and pupils.
+(H) Strategies to ensure that artificial intelligence does not exacerbate existing inequities in the education system.
+(I) Professional development strategies for educators on the use of artificial intelligence.
+(5) Identify other ways in which the state can support educators in developing and sharing effective practices that minimize risk and maximize benefits to pupils and educators, including, but not limited to, establishing communities of practice on the use of artificial intelligence in education.
+(6) On or before January 1, 2027, submit a report to the appropriate policy and fiscal committees of the Legislature, in compliance with Section 9795 of the Government Code, presenting the assessment required by paragraph (1) and any findings or recommendations related to the assessment.
+(e) The department shall post on its internet website the guidance developed pursuant to paragraph (3) of subdivision (d) and the model policy for local educational agencies and charter schools developed pursuant to paragraph (4) of subdivision (d).
+(f) The working group shall be subject to the Bagley-Keene Open Meeting Act (Article 9 (commencing with Section 11120) of Chapter 1 of Part 1 of Division 3 of Title 2 of the Government Code).
+(g) The working group shall be dissolved upon submission of the report required by paragraph (6) of subdivision (d) to the Legislature.
+(h) This section shall remain in effect only until January 1, 2031, and as of that date is repealed.

@@ -1,0 +1,346 @@
+ S. 2293
+
+
+To establish the Chief Artificial Intelligence Officers Council, Chief Artificial Intelligence Officers, and Artificial Intelligence Governance Boards, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+July 13, 2023
+
+
+Mr. Peters introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs
+
+
+A BILL
+To establish the Chief Artificial Intelligence Officers Council, Chief Artificial Intelligence Officers, and Artificial Intelligence Governance Boards, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “AI Leadership To Enable Accountable Deployment Act” or the “AI LEAD Act”.
+
+
+SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) AGENCY.—The term “agency” has the meaning given the term in section 3502 of title 44, United States Code.
+
+
+(2) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. note prec. 4061; Public Law 115–232).
+
+
+(3) CHIEF ARTIFICIAL INTELLIGENCE OFFICER.—The term “Chief Artificial Intelligence Officer” means an official appointed or designated by the head of an agency pursuant to section 4(b)(1).
+
+
+(4) COUNCIL.—The term “Council” means the Chief Artificial Intelligence Officers Council established under section 3(a).
+
+
+(5) DIRECTOR.—The term “Director” means the Director of the Office of Management and Budget.
+
+
+(6) RELEVANT CONGRESSIONAL COMMITTEES.—The term “relevant congressional committees” means the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives.
+
+ SEC. 3. CHIEF ARTIFICIAL INTELLIGENCE OFFICERS COUNCIL.
+
+
+(a) Establishment.—Not later than 90 days after the date of enactment of this Act, the Director shall establish a Chief Artificial Intelligence Officers Council.
+
+
+(b) Duties.—The Council shall—
+
+
+(1) promote coordination regarding agency practices relating to the design, acquisition, development, modernization, use, operation, sharing, risk management, and performance of artificial intelligence technologies;
+
+
+(2) ensure interagency coordination regarding Federal artificial intelligence activities;
+
+
+(3) share experiences, ideas, best practices, and innovative approaches relating to artificial intelligence; and
+
+
+(4) assist the Director, as necessary, in—
+
+
+(A) the identification, development, and coordination of multi-agency projects and other initiatives to improve Government performance; and
+
+
+(B) the management of risks relating to developing, obtaining or using artificial intelligence, including by—
+
+
+(i) promoting the development and use of efficient, common, and shared approaches to key processes that improve the delivery of services for the public; and
+
+
+(ii) soliciting and providing perspectives on matters of concern to the Council, as appropriate, from and to—
+
+
+(I) the Chief Financial Officers Council;
+
+
+(II) the Chief Human Capital Officers Council;
+
+
+(III) the Chief Acquisition Officers Council;
+
+
+(IV) the Chief Information Officers Council;
+
+
+(V) the Chief Data Officers Council;
+
+
+(VI) other interagency councils;
+
+
+(VII) other key groups of the Federal Government;
+
+
+(VIII) industry;
+
+
+(IX) academia;
+
+
+(X) State, local, Tribal, territorial, and international governments; and
+
+
+(XI) other individuals and entities, as determined necessary by the Director.
+
+
+(c) Membership Of CAIOC.—
+
+
+(1) CHAIR.—The Director shall serve as the Chair of the Council.
+
+
+(2) COCHAIR.—The Cochair of the Council shall be—
+
+
+(A) nominated by a majority of the members of the Council; and
+
+
+(B) designated as the Cochair of the Council by the Director.
+
+
+(3) MEMBERS.—Members of the Council shall include—
+
+
+(A) the Chief Artificial Intelligence Officer of each agency described in section 901(b) of title 31, United States Code;
+
+
+(B) a representative from an agency with—
+
+
+(i) advisory experience in scientific and technological issues that require attention at the highest level of Government; and
+
+
+(ii) a role working with agencies to create strategies, plans, policies and programs for science and technology, including artificial intelligence; and
+
+
+(C) other members, as determined necessary by the Director.
+
+
+(4) STANDING COMMITTEES; WORKING GROUPS.—The Council shall have the authority to establish standing committees and working groups as necessary to consider items of concern to the Council.
+
+ SEC. 4. AGENCY ARTIFICIAL INTELLIGENCE OFFICERS.
+
+
+(a) Duties Of Agencies.—The head of each agency shall ensure the responsible research, development, acquisition, application, governance, and use of artificial intelligence by the agency that is consistent with democratic values, including—
+
+
+(1) privacy;
+
+
+(2) civil rights and civil liberties;
+
+
+(3) information security;
+
+
+(4) nondiscrimination;
+
+
+(5) transparency; and
+
+
+(6) reliability.
+
+
+(b) Chief Artificial Intelligence Officer.—
+
+
+(1) IN GENERAL.—The head of each agency shall hire or designate a Chief Artificial Intelligence Officer with responsibility for—
+
+
+(A) promoting artificial intelligence innovation;
+
+
+(B) developing, in coordination with other responsible officials of the agency, the policies of the agency regarding the use of artificial intelligence technologies;
+
+
+(C) ensuring policies of the agency are in compliance with governmentwide requirements;
+
+
+(D) in coordination with other responsible officials of the agency, the processes of the agency regarding the risk management, governance, and oversight of the use of artificial intelligence by the agency;
+
+
+(E) producing a risk management plan for agency-specific use cases of artificial intelligence, including a procedure for classifying risk levels in agency use of artificial intelligence;
+
+
+(F) ensuring standards, regulations, investments, practices, systems, and other matters are designed, developed, and deployed in a manner that protects the rights and safety of individuals;
+
+
+(G) providing input on the decision processes for annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports relating to artificial intelligence of the agency;
+
+
+(H) participating in internal control processes or entities convened for the purpose of reviewing artificial intelligence acquisitions during the acquisition life cycle; and
+
+
+(I) performing other functions relating to artificial intelligence, as determined by the Director or the head of the agency.
+
+
+(2) STRUCTURE.—The Director shall issue guidance on the appropriate reporting structure, qualifications, and seniority level for the role of a Chief Artificial Intelligence Officer.
+
+
+(3) SENIORITY.—With respect to the Chief Artificial Intelligence Officer of any agency described in section 901(b) of title 31, United States Code, the Chief Artificial Intelligence Officer shall be an executive with a position classified above GS–15 of the General Schedule or the equivalent.
+
+
+(4) ROLES.—The head of each agency shall ensure that the Chief Artificial Intelligence Officer of the agency has a significant role in—
+
+
+(A) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports relating to artificial intelligence of the agency; and
+
+
+(B) the management, governance, acquisition, and oversight processes of the agency relating to artificial intelligence.
+
+
+(c) Informing Congress.—Not later than 1 year after the date of the enactment of this Act, the head of each agency shall—
+
+
+(1) inform the relevant congressional committees of the appointment of a Chief Artificial Intelligence Officer pursuant to subsection (b); and
+
+
+(2) if relevant, provide to the appropriate congressional committees a full description of any authorities and responsibilities of the individual serving as the Chief Artificial Intelligence Officer that are performed in addition to the authorities and responsibilities of the individual in the role of the Chief Artificial Intelligence Officer.
+
+ SEC. 5. AGENCY COORDINATION ON ARTIFICIAL INTELLIGENCE.
+
+
+(a) Establishment.—Not later than 120 days after the date of enactment of this Act, the Director shall issue guidance directing the head of each agency described in section 901(b) of title 31, United States Code, to establish within the agency an Artificial Intelligence Governance Board to coordinate and govern artificial intelligence issues of the agency.
+
+
+(b) Contents.—The guidance issued under subsection (a) shall—
+
+
+(1) define the structure and activities of Artificial Intelligence Government Boards of agencies; and
+
+
+(2) ensure that the membership of the Artificial Intelligence Governance Board of an agency includes, to the extent applicable to the agency—
+
+
+(A) the deputy head of the agency;
+
+
+(B) the Chief Artificial Intelligence Officer of the agency, who shall serve as the Chair of the Artificial Intelligence Governance Board of the agency;
+
+
+(C) the chief information officer of the agency;
+
+
+(D) the chief acquisition officer of the agency;
+
+
+(E) the senior procurement executive of the agency;
+
+
+(F) the chief data officer of the agency;
+
+
+(G) the chief human capital officer of the agency;
+
+
+(H) the chief financial officer of the agency;
+
+
+(I) the senior agency official for privacy of the agency;
+
+
+(J) the senior agency official for civil rights and civil liberties of the agency; and
+
+
+(K) other individuals, as determined by the Director.
+
+
+(c) Strategy.—
+
+
+(1) IN GENERAL.—The head of each agency shall establish an artificial intelligence strategy for the trustworthy adoption of artificial intelligence by the agency to better achieve the mission of the agency to serve the people of the United States.
+
+
+(2) CONTENTS.—The strategy required under paragraph (1) shall include the following:
+
+
+(A) Defined roles and responsibilities for the use and oversight of artificial intelligence by the agency, including oversight of compliance with relevant laws, regulations, standards, and guidance.
+
+
+(B) Defined values, ethics, and principles to foster public trust and responsible use of artificial intelligence by the agency.
+
+
+(C) The standards, regulations, investments, practices, and other items the agency will use to improve trust and safety and ensure that artificial intelligence systems are designed, developed, and deployed in a manner that protects the rights and safety of individuals.
+
+
+(D) How the agency will oversee artificial intelligence systems and applications to identify and mitigate risk and prevent harm.
+
+
+(E) The considerations and safeguards the agency will use to protect the rights and safety of the public with respect to artificial intelligence, including mitigation of algorithmic discrimination.
+
+
+(F) The domains or areas in which the agency uses or anticipates using artificial intelligence.
+
+
+(G) The steps the agency will take to strengthen workforce knowledge to maximize the value artificial intelligence can bring to mission outcomes while mitigating any associated risks.
+
+
+(H) How and under what conditions the agency can use artificial intelligence to improve the interactions of the agency with the public and the fulfillment of the mission of the agency, while protecting against harmful impacts on agency employees or the public.
+
+
+(I) How the agency will coordinate and work across components, offices, and programs of the agency on artificial intelligence-related matters.
+
+
+(J) How the agency will engage in interagency governance and coordination with respect to artificial intelligence, including to leverage shared resources, expertise, and lessons learned to better leverage artificial intelligence to improve Federal Government operations and mitigate the risks of artificial intelligence.
+
+
+(K) How the agency will promote the use and availability of data to support the artificial intelligence efforts of the agency in accordance with statutory, regulatory, and policy requirements.
+
+
+(L) How the agency will work with the private sector to ensure that procured artificial intelligence systems or capabilities include protections to safeguard the rights and safety of individuals and to secure Federal Government data and other information.
+
+
+(M) An outline of specific actions to implement the strategy of the agency and desired outcomes.
+
+
+(d) GAO Report.—Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the relevant congressional committees a report on—
+
+
+(1) the implementation and effectiveness of Artificial Intelligence Governance Boards established pursuant to guidance issued under subsection (a);
+
+
+(2) an assessment of the effectiveness of Chief Artificial Intelligence Officers;
+
+
+(3) recommendations for improving the implementation and effectiveness of Artificial Intelligence Governance Boards established pursuant to guidance issued under subsection (a) and Chief Artificial Intelligence Officers; and
+
+
+(4) other relevant matters, as determined by the Comptroller General of the United States.
+
+
+SEC. 6. SUNSET.
+
+
+Effective on the date that is 10 years after the date of enactment of this Act, this Act shall have no force or effect.

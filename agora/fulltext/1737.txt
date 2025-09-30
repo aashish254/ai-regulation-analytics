@@ -1,0 +1,123 @@
+Subtitle D--Artificial Intelligence
+
+SEC. 1531. Artificial Intelligence Human Factors Integration Initiative.
+
+(a) Initiative required.--
+
+(1) IN GENERAL.--The Under Secretary of Defense for Research and Engineering, in coordination with the Under Secretary of Defense for Acquisition and Sustainment and the Chief Digital and Artificial Intelligence Officer of the Department of Defense, shall establish an initiative--
+
+(A) to improve the human usability of artificial intelligence systems and information derived from such systems through the application of cognitive ergonomics techniques; and
+
+(B) to improve the human usability and cognitive effectiveness of artificial intelligence systems adopted by the Department of Defense by ensuring that design tools and metrics are available for artificial intelligence and machine learning programs that ensure human factors considerations are included for such systems.
+
+(2) DESIGNATION.--The initiative established pursuant to paragraph (1) shall be known as the "Artificial Intelligence Human Factors Integration Initiative" (in this section the "Initiative").
+
+(b) Briefing.--Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Digital and Artificial Intelligence Officer of the Department of Defense shall jointly brief the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on the following:
+
+(1) Existing research and development work within the Department of Defense laboratories relating to human-machine teaming, human-centered design, cognitive load, cognitive ergonomics, and similar topics that are currently being used or could be used to inform or enhance Department personnel usability of artificial intelligence systems and artificial intelligence-derived information.
+
+(2) Identification of gaps in research with respect to interactions of personnel of the Department with artificial intelligence systems in warfighting and nonwarfighting environments that may necessitate additional research within the Federal Government, industry, or academia.
+
+(3) Identification of relevant tools, methodologies, testing processes or systems, and evaluation metrics that may be of use to the Department in improving the cognitive ergonomic and human usability features of artificial intelligence systems for personnel of the Department.
+
+(c) Plan.--Not later than 90 days after the date on which the briefing required by subsection (b) is provided, the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Digital and Artificial Intelligence Officer of the Department of Defense shall jointly develop and implement a plan to--
+
+(1) work with the military departments (as defined in section 101(a) of title 10, United States Code) and other components of the Department to ensure human factors and human systems integration elements are considered early in the development or evaluation process with respect to the procurement, adoption, or use of artificial intelligence systems or artificial intelligence-derived information;
+
+(2) convene research meetings or other forums to coordinate cognitive ergonomics research or related research challenges with a broad community of academic, commercial, and international partners;
+
+(3) work with the Chief Digital and Artificial Intelligence Officer of the Department of Defense to review commercial toolsets to assess the level of human factors integration investment of such commercial toolsets; and
+
+(4) develop guidance based on the research and development work identified pursuant to subsection (b)(1) regarding how to create a framework or taxonomy for characterizing the exercise of appropriate levels of human judgment within Department of Defense Directive 3000.09 (relating to Autonomy in Weapons Systems), or successor directive, for artificial intelligence programs in the Department.
+
+(d) Rule of construction.--Nothing in this section shall be construed to prohibit or otherwise limit the authority of the Secretary of Defense to research, develop, improve, or acquire any weapon system or other capability that is enabled, empowered, enhanced, or improved by artificial intelligence, machine learning, or a large language model.
+
+SEC. 1532. Advanced computing infrastructure to enable advanced artificial intelligence capabilities.
+
+(a) In general.--The Secretary of Defense shall establish a program, or designate an existing program, to meet the testing and processing requirements for next generation advanced artificial intelligence capabilities.
+
+(b) Development and expansion of high-performance computing infrastructure.--
+
+(1) IN GENERAL.--Under the program established or designated under subsection (a), the Secretary of Defense shall expand the infrastructure of the Department of Defense for development and deployment of military applications of high-performance computing and artificial intelligence capabilities that are located at installations of the Department or accessible through commercial cloud or hybrid-cloud environments.
+
+(2) ARTIFICIAL INTELLIGENCE APPLICATIONS.-- (A) The Secretary of Defense shall ensure that a portion of the infrastructure added pursuant to paragraph (1) is--
+
+(i) dedicated to providing access to modern artificial intelligence accelerators for training, fine-tuning, modifying, and deploying large artificial intelligence systems; and
+
+(ii) configured in accordance with industry best practices.
+
+(B) In carrying out subparagraph (A), the Secretary of Defense shall ensure, to the extent practical, that the Department of Defense does not use the portion of the infrastructure described in such subparagraph for the development of new artificial intelligence systems to the extent that such infrastructure is duplicative of readily available commercial or open source products or services that meet or are reasonably capable of meeting the physical and data security standards of the Department.
+
+(c) High-performance computing roadmap.--
+
+(1) IN GENERAL.--Under the program established or designated under subsection (a), the Secretary of Defense shall develop a roadmap that describes the high-performance computing infrastructure needed for the Department of Defense to research, test, develop, and evaluate advanced artificial intelligence applications projected over the period covered by the future-years defense program.
+
+(2) ASSESSMENT.--The roadmap required by paragraph (1) shall include assessments of the following:
+
+(A) The anticipated processing for advanced artificial intelligence applications of the Department of Defense during the period covered by the roadmap, including the computing needs associated with the development of such advanced artificial intelligence applications.
+
+(B) The physical and data security standards required for the infrastructure for the research, development, testing, and evaluation of advanced artificial intelligence applications, including data handling requirements.
+
+(C) The evaluation, milestones, and resourcing needs to maintain and expand the computing infrastructure necessary for the computing needs described in subparagraph (A).
+
+(d) Artificial intelligence system development.--
+
+(1) IN GENERAL.--Using the infrastructure added under the program established or designated under subsection (a), the Secretary of Defense shall develop advanced artificial intelligence systems that have general-purpose military applications for multiple data formats, including text, audio, and graphical.
+
+(2) TRAINING OF SYSTEMS.--The Secretary of Defense shall ensure that advanced artificial intelligence systems developed pursuant to paragraph (1) are trained using datasets curated by the Department of Defense using general, openly or commercially available sources of such data, or data owned by the Department, depending on the appropriate use case. Such systems may use openly or commercially available artificial intelligence systems, including those available through infrastructure located at installations of the Department or cloud or hybrid-cloud environments, for development or fine-tuning.
+
+(e) Coordination and duplication.--In establishing or designating the program under subsection (a), the Secretary of Defense shall consult with the Secretary of Energy to ensure that none of the activities carried out under this section are duplicative of any activity of a research entity of the Department of Energy, including the following:
+
+(1) The National Laboratories.
+
+(2) The Advanced Scientific Computing Research program.
+
+(3) The Advanced Simulation and Computing program.
+
+SEC. 1533. Cost budgeting for artificial intelligence data.
+
+(a) Plan required.--Not later than 180 days after the date of the enactment of this Act, the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering, shall develop a plan to ensure that the budgeting process for programs containing artificial intelligence components or subcomponents, including artificial intelligence support systems, models, or analysis tools, includes estimates for the types of data required to train, maintain, or improve the artificial intelligence components or subcomponents contained within such programs and estimated costs for the acquisition and sustainment of such data.
+
+(b) Elements of plan.--The plan required under subsection (a) shall include the following:
+
+(1) An assessment of the current programs of the Department of Defense containing artificial intelligence components or subcomponents, such as large language models, including the sources and costs for structured and unstructured training data for such artificial intelligence components.
+
+(2) An estimate of the costs associated with the data required to train, maintain, or improve artificial intelligence models or systems for programs that are ongoing or proposed as of enactment of this Act and which are not otherwise currently accounted for in a program of record.
+
+(3) An estimate of the costs associated with providing access to capabilities for data preparation, including tooling, indexing, and data tagging or labeling, including for the protection of data provided by the Government from unauthorized use during the algorithm training process and the ongoing control by the Government of such data during such process.
+
+(4) Mapping of the acquisition lifecycle for the programs described in paragraph (1) to align budgeting milestones with critical design or decision points in the budgeting and execution processes of the Department of Defense.
+
+(5) A framework for estimating the costs described in paragraph (2) and ensuring the costs associated with the data required to train, maintain, or improve artificial intelligence models or systems are appropriately incorporated into lifecycle sustainment estimates for future programs containing artificial intelligence components or subcomponents.
+
+(c) Implementation.--The Secretary of Defense shall begin implementing the plan required by subsection (a) not later than 90 days after the date on which development of the plan required by subsection (a) is completed.
+
+(d) Briefings.--Not later than 180 days after the date of the enactment of this Act, and not less frequently than once annually thereafter until 2027, the Secretary shall provide the congressional defense committees a briefing on the implementation of the plan developed pursuant to subsection (a).
+
+SEC. 1534. Evaluation of Federated Artificial Intelligence-Enabled Weapon Systems Center of Excellence.
+
+(a) Evaluation of Centers of Excellence.--The Secretary of Defense shall determine the advisability and feasibility of establishing a center or centers of excellence to carry out the functions described in subsection (b) to support the development and maturation of artificial intelligence-enabled weapon systems by organizations within the Department of Defense that--
+
+(1) were in effect on the day before the date of the enactment of this Act; and
+
+(2) have appropriate core competencies relating to the functions described in subsection (b).
+
+(b) Functions.--The functions described in this subsection are the following:
+
+(1) Capturing, analyzing, assessing, and sharing lessons learned across the Department of Defense regarding the latest advancements in artificial intelligence-enabled weapon systems, countermeasures, tactics, techniques and procedures, and training methodologies.
+
+(2) Facilitating collaboration among the Department of Defense and foreign partners, including Ukraine, to identify and promulgate best practices, safety guidelines, standards, and benchmarks.
+
+(3) Facilitating collaboration among the Department, industry, academia, and not-for-profit organizations in the United States, including industry with expertise in autonomous weapon systems and other nontraditional weapon systems that utilize artificial intelligence as determined by the Secretary of Defense.
+
+(4) Serving as a focal point for digital talent training and upskilling for the Department, and as the Secretary of Defense considers appropriate, providing enterprise-level tools and solutions based on these best practices, standards, and benchmarks.
+
+(5) Carrying out such other responsibilities as the Secretary of Defense determines appropriate.
+
+(c) Report.--Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall--
+
+(1) submit to the congressional defense committees a report on the determination of the Secretary required under subsection (a) and, if such determination is that establishing a center or centers of excellence described in such subsection is advisable and feasible, a plan for establishing such center or centers; and
+
+(2) if the Secretary submits a plan under paragraph (1), provide the congressional defense committees a briefing on such plan.
+
+(d) Artificial intelligence-enabled weapon system defined.--In this section, the term "artificial intelligence-enabled weapon system" includes autonomous weapon systems, as determined by the Secretary of Defense.

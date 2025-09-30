@@ -1,0 +1,206 @@
+S. 3642
+
+
+To direct the Secretary of Energy and the Administrator of the National Oceanic and Atmospheric Administration to conduct collaborative research to advance weather models in the United States, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+January 23, 2024
+
+
+Mr. Luján (for himself and Mrs. Blackburn) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To direct the Secretary of Energy and the Administrator of the National Oceanic and Atmospheric Administration to conduct collaborative research to advance weather models in the United States, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Advanced Weather Model Computing Development Act”.SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) ADMINISTRATION.—The term “Administration” means the National Oceanic and Atmospheric Administration.
+
+
+(2) ADMINISTRATOR.—The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration
+
+
+(3) ADVANCED COMPUTING TECHNIQUES.—The term “advanced computing techniques” includes the hardware, software, and computational methods necessary to develop and deploy advanced weather models, such as artificial intelligence, high-performance computing, cloud computing, numerical methods, machine learning, data assimilation, large scale data analytics, predictive analysis techniques, and quantum computing.
+
+
+(4) ADVANCED WEATHER MODEL.—The term “advanced weather model” means a model or suite of models used for the prediction of physical, biological, or chemical Earth system processes spanning weather, seasonal to sub-seasonal, or climate time scales.
+
+
+(5) APPROPRIATE COMMITTEES OF CONGRESS.—The term “appropriate committees of Congress” means—
+
+
+(A) the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate; and
+
+
+(B) the Committee on Science, Space, and Technology of the House of Representatives.
+
+
+(6) DEPARTMENT.—The term “Department” means the Department of Energy.
+
+
+(7) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+
+(8) NATIONAL LABORATORY.—The term “National Laboratory” has the meaning given that term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+
+
+(9) SECRETARY.—The term “Secretary” means the Secretary of Energy.SEC. 3. COORDINATION OF RESEARCH AND DEVELOPMENT ACTIVITIES RELATING TO IMPROVEMENT OF ADVANCED WEATHER MODELS.
+
+
+(a) In General.—The Secretary and the Administrator shall carry out collaborative research and development activities using advanced computing techniques that are focused on the improvement of advanced weather models relevant to the missions of the Department and the Administration.
+
+
+(b) Memorandum Of Understanding.—
+
+
+(1) IN GENERAL.—The Secretary and the Administrator shall carry out the activities under subsection (a) through the establishment of a memorandum of understanding or other appropriate interagency agreement.
+
+
+(2) USE OF PROCESS.—The memorandum or agreement, as the case may be, required under paragraph (1) shall require the use of a competitive, merit-reviewed process that considers applications from Federal agencies, National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities (or a consortia thereof).
+
+
+(c) Activities.—In carrying out the activities under subsection (a), the Secretary and the Administrator may—
+
+
+(1) conduct collaborative research to develop new methods and optimization of advanced computing techniques;
+
+
+(2) explore options for performance portability of optimized advanced weather model codes between the operational computing systems of the Administration and the high-performance computers of the Department;
+
+
+(3) advance methods to accommodate, analyze, and extract information from large data sets of weather and climate information;
+
+
+(4) to the maximum extent practicable, and in compliance with national security policies, promote collaboration, open community-based software development, and data sharing between Federal agencies, National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities by providing necessary access and secure data transfer capabilities; and
+
+
+(5) support maintenance of and improvements to scientific computing infrastructure that the Secretary and the Administrator determine appropriate.
+
+
+(d) Coordination.—In carrying out the activities under subsection (a), the Secretary and the Administrator may—
+
+
+(1) carry out reimbursable agreements between the Department, the Administration, and other entities to maximize the effectiveness of research and development; and
+
+
+(2) collaborate with other Federal agencies as appropriate.
+
+
+(e) Report.—Not later than 2 years after the date of the enactment of this Act, the Secretary and the Administrator shall submit to the appropriate committees of Congress a report detailing the following:
+
+
+(1) Interagency coordination between each Federal agency involved in the activities carried out under this section, including activities described in subsection (c).
+
+
+(2) Potential opportunities to expand the technical capabilities of the Department and the Administration with respect to those activities.
+
+
+(3) Collaborative research achievements with respect to those activities.
+
+
+(4) Areas of future mutually beneficial gains as a result of those activities.
+
+
+(5) Continuation of coordination between the Department and the Administration on those activities.SEC. 4. INITIATIVE ON DEVELOPMENT OF ADVANCED WEATHER MODELS USING ADVANCED COMPUTING TECHNIQUES.
+
+
+(a) Computing Research Initiative.—
+
+
+(1) IN GENERAL.—The Administrator, in collaboration with the Secretary, shall carry out an initiative that may leverage advanced computing techniques and the expertise of the Department to develop and deploy advanced weather models to conduct proof of concept scenarios in comparison with current issued models (in this section referred to as the “Initiative”).
+
+
+(2) PROCESS.—The Administrator, in collaboration with the Secretary, shall carry out the Initiative through a competitive, merit-reviewed process and consider applications from Federal agencies, National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities (or a consortia thereof).
+
+
+(3) COMPONENTS.—In carrying out the Initiative, the Administrator, in collaboration with the Secretary, shall prevent duplication and coordinate research efforts in advanced computing techniques across the Administration, and may—
+
+
+(A) leverage related efforts and data from the National Science and Technology Council, the Interagency Council for Advancing Meteorological Services, and other relevant interagency entities;
+
+
+(B) provide sufficient capacity for long-term archive of and access to model output to support research and long-term study;
+
+
+(C) determine computing decisions based on an agile requirements framework;
+
+
+(D) support the training, recruitment, and retention of the next generation weather, water, and climate computing workforce through incentives and pathways for career development and employment opportunities;
+
+
+(E) support maintenance of and improvements to scientific computing infrastructure that the Administrator and the Secretary determine appropriate;
+
+
+(F) conduct comparative research between forecasts issued by the National Weather Service and operational models of the National Weather Service as compared to predictions and models developed to run using advanced computing techniques; and
+
+
+(G) share relevant modeling system and application innovations developed through the Initiative, including applications based on the Unified Forecast System, through community-based activities.
+
+
+(b) Centers Of Excellence.—
+
+
+(1) IN GENERAL.—The Secretary, in collaboration with the Administrator, may establish at National Laboratories not more than 3 centers of excellence to support advanced weather models by researching, developing, and deploying advanced computing techniques in collaboration with research laboratories of the Administration and other relevant entities.
+
+
+(2) ACTIVITIES.—Each center established under paragraph (1) may carry out activities that include the following:
+
+
+(A) Leveraging robust public-private partnership models to provide access to training, experience, and long-term development of workforce and infrastructure.
+
+
+(B) Developing and optimizing tools, libraries, algorithms, data structures, and other supporting software necessary for specific applications on high-performance computing systems.
+
+
+(C) Applying advanced computing techniques to improve the accuracy and resolution of advanced weather model predictions and to address current and future mission challenges.
+
+
+(c) Priority.—In selecting National Laboratories at which to establish a center of excellence under subsection (b), the Secretary, in collaboration with the Administrator, shall give priority to Laboratories that—
+
+
+(1) have existing partnerships or relationships with the Administration;
+
+
+(2) host significant artificial intelligence enabled high-performance computing systems;
+
+
+(3) have a workforce with experience in advanced computing techniques;
+
+
+(4) are geographically proximate to one of the research laboratories of the Administration; and
+
+
+(5) have a workforce with experience in weather and climate modeling or computation.
+
+
+(d) Multi-Year Contracts.—The Administrator and the Secretary may enter into multi-year contracts in accordance with section 3903 of title 41, United States Code, and shall ensure compliance with all provisions of that section, to support operational research and development related to advanced computing techniques.
+
+
+(e) Report.—Not later than 2 years after the date of the enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a report evaluating the following:
+
+
+(1) The effectiveness of the Initiative, including applied research discoveries and advanced modeling improvements achieved through the Initiative.
+
+
+(2) Potential opportunities to expand capabilities of the Department and the Administration with respect to advanced computing techniques.
+
+
+(3) The need for collaboration on advanced computing techniques between the Department and the Administration.
+
+
+(f) Sunset.—The authority under this section shall terminate on the date that is 5 years after the date of the enactment of this Act.SEC. 5. RESEARCH SECURITY.
+
+
+The activities authorized or required to be conducted under this Act shall be carried out in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19231 et seq.).

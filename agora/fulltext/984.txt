@@ -1,0 +1,52 @@
+ SEC. 103. ADDITIONAL DUTIES OF INSTITUTE.
+
+
+(a) International Cooperation.—The Institute shall seek to promote collaboration between Americas partner countries on the development, standardization, and deployment of e-governance systems, including such systems developed outside the e-governance framework developed under section 102 and systems developed before the implementation of this Act.
+
+
+ (b) Development Process.—The Institute shall be responsible for assisting Americas partner countries in the development and deployment of e-governance systems in compliance with the e-governance framework developed under section 102. Such assistance may include the following:
+
+
+(1) The development or adoption, in collaboration with appropriate national and international standards organizations, of technical standards necessary to promote the efficient development of systems under the framework.
+
+
+(2) The development of reference implementations for e-government services, as the Institute considers appropriate.
+
+
+(3) The development and maintenance of infrastructure that may be shared by multiple services, including across multiple Americas partner countries, as the Institute and such countries consider appropriate.
+
+
+(4) Providing technical assistance to Americas partner countries in the development of services, which may include entering into contracts for developing and hosting services on behalf of such countries. Such contracts may include terms for an Americas partner country to provide the Institute with funding for development and hosting services.
+
+
+(5) The procurement or licensing, as the Institute considers appropriate, of commercial technology that may be shared with Americas partner countries and used for the delivery of services.
+
+
+(6) Providing for the certification of organizations to carry out the auditing and penetration testing required by section 102(e).
+
+
+(7) Partnering with private sector entities for the provision, development, maintenance, or hosting of services, or other such assistance as the Institute considers necessary.
+
+
+(8) Providing financing to facilitate the development or modernization of a system, subject to such accountability mechanisms as the Institute considers necessary to ensure funds are spent efficiently and appropriately.
+
+
+(9) Accounting for the development of emerging technologies, including artificial intelligence, and, to the extent necessary, incorporating such technologies into systems developed by or with Americas partner countries or making recommendations for how those countries may incorporate or regulate such technologies.
+
+
+(10) Other matters as the Institute considers appropriate.
+
+
+ (c) Procurement Restriction.—
+
+
+(1) IN GENERAL.—The Institute shall ensure that no system or product operating under the e-governance framework developed under section 102 is involved in any contract for the development of a service as part of the e-governance framework, or shares any data, with an individual or entity residing in or acting on behalf of the Russian Federation, the People’s Republic of China, Iran, North Korea, Venezuela, Cuba, or such other countries as the Institute considers necessary to protect the privacy and security of the citizens of Americas partner countries.
+
+
+(2) AUTHORITY TO EXCLUDE OTHER INDIVIDUALS, ENTITIES, AND PRODUCTS.—The Institute may, as the Institute considers necessary to protect the privacy and security of the citizens of Americas partner countries, prohibit any system described in paragraph (1) from entering into any contract for the development of a service as part of the e-governance framework, or sharing any data—
+
+
+(A) with an individual or entity that does not reside in a country described in paragraph (1); or
+
+
+(B) using a product not from such a country.

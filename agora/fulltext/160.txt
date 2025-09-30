@@ -1,0 +1,29 @@
+SEC. 8411. UNMANNED MARITIME SYSTEMS AND SATELLITE VESSEL TRACKING TECHNOLOGIES. 
+(a) ASSESSMENT.—The Commandant, acting through the Blue Technology Center of Expertise, shall regularly assess available unmanned maritime systems and satellite vessel tracking technologies for potential use to support missions of the Coast Guard. 
+
+(b) REPORT.— 
+(1) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, and biennially thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the actual and potential effects of the use of then-existing unmanned maritime systems and satellite vessel tracking technologies on the mission effectiveness of the Coast Guard. 
+(2) CONTENTS.—Each report submitted under paragraph 
+(1) shall include the following: 
+(A) An inventory of current unmanned maritime systems used by the Coast Guard, an overview of such usage, and a discussion of the mission effectiveness of such systems, including any benefits realized or risks or negative aspects of such usage. 
+(B) An inventory of satellite vessel tracking technologies, and a discussion of the potential mission effectiveness of such technologies, including any benefits or risks or negative aspects of such usage. 
+(C) A prioritized list of Coast Guard mission requirements that could be met with additional unmanned maritime systems, or with satellite vessel tracking technologies, and the estimated costs of accessing, acquiring, or operating such systems, taking into consideration the interoperability of such systems with the current and future fleet of— 
+(i) National Security Cutters; 
+(ii) Fast Response Cutters; 
+(iii) Offshore Patrol Cutters; 
+(iv) Polar Security Cutters; and 
+(v) in-service legacy cutters, including the 210-and 270-foot medium endurance cutters and 225-foot Buoy Tenders. 
+(c) DEFINITIONS.—In this section: 
+(1) UNMANNED MARITIME SYSTEMS.— 
+(A) IN GENERAL.—The term ‘‘unmanned maritime sys.tems’’ means— 
+(i) remotely operated or autonomous vehicles produced by the commercial sector designed to travel in the air, on or under the ocean surface, on land, or any combination thereof, and that function without an on-board human presence; and 
+(ii) associated components of such vehicles, including control and communications systems, data transmission systems, and processing systems. 
+(B) EXAMPLES.—Such term includes the following: 
+(i) Unmanned undersea vehicles. 
+(ii) Unmanned surface vehicles. 
+(iii) Unmanned aerial vehicles. 
+(iv) Autonomous underwater vehicles. 
+(v) Autonomous surface vehicles. 
+(vi) Autonomous aerial vehicles.
+(2) AVAILABLE UNMANNED MARITIME SYSTEMS.—The term ‘‘available unmanned maritime systems’’ includes systems that can be purchased commercially or are in use by the Department of Defense or other Federal agencies. 
+(3) SATELLITE VESSEL TRACKING TECHNOLOGIES.—The term ‘‘satellite vessel tracking technologies’’ means shipboard broadcast systems that use satellites and terrestrial receivers to continually track vessels.

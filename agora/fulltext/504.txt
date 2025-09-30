@@ -1,0 +1,140 @@
+ S. 3630
+
+
+To amend title XI of the Social Security Act to establish a pilot program for testing the use of a predictive risk-scoring algorithm to provide oversight of payments for durable medical equipment and clinical diagnostic laboratory tests under the Medicare program.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+January 18, 2024
+
+
+Mr. Braun (for himself and Mr. Cassidy) introduced the following bill; which was read twice and referred to the Committee on Finance
+
+
+A BILL
+To amend title XI of the Social Security Act to establish a pilot program for testing the use of a predictive risk-scoring algorithm to provide oversight of payments for durable medical equipment and clinical diagnostic laboratory tests under the Medicare program.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Medicare Transaction Fraud Prevention Act”.
+
+
+ SEC. 2. PILOT PROGRAM TESTING USE OF PREDICTIVE RISK-SCORING ALGORITHM TO PROVIDE OVERSIGHT OF PAYMENTS FOR DURABLE MEDICAL EQUIPMENT AND CLINICAL DIAGNOSTIC LABORATORY TESTS UNDER THE MEDICARE PROGRAM.
+
+
+Section 1128K of the Social Security Act (42 U.S.C. 1320a–7n) is amended—
+
+
+(1) in the section heading by inserting “; PILOT PROGRAM TESTING USE OF PREDICTIVE RISK-SCORING ALGORITHM TO PROVIDE OVERSIGHT OF PAYMENTS FOR DURABLE MEDICAL EQUIPMENT AND CLINICAL DIAGNOSTIC LABORATORY TESTS UNDER THE MEDICARE PROGRAM” after “ABUSE”; and
+
+
+(2) by adding at the end the following new subsection:
+
+
+“(d) Pilot Program Testing Use Of Predictive Risk-Scoring Algorithm To Provide Oversight Of Payments For Durable Medical Equipment And Clinical Diagnostic Laboratory Tests Under The Medicare Program.—
+
+
+“(1) IN GENERAL.—The Secretary shall establish a pilot program to test the use of predictive risk-scoring algorithms to provide oversight of relevant transactions (as defined in paragraph (7)(B)).
+
+
+“(2) DURATION.—The pilot program shall be conducted for a period of 2 years, beginning not later than January 1, 2025.
+
+
+“(3) SCOPE.—
+
+
+“(A) IN GENERAL.—The Secretary shall limit the implementation of the pilot program to relevant transactions involving applicable items or services furnished to beneficiaries who have opted in to receive electronic Medicare Summary Notices (in this subsection referred to as ‘applicable beneficiaries’).
+
+
+“(B) VOLUNTARY PARTICIPATION.—An applicable beneficiary may opt out of the pilot program at any time.
+
+
+“(4) CONSIDERATIONS.—The Secretary may, for purposes of identifying and calculating the risks of relevant transactions under the pilot program, consider the following factors:
+
+
+“(A) The absence of a prior relationship between the beneficiary and a provider of services (as defined in section 1861(u)) or supplier (as defined in section 1861(d)).
+
+
+“(B) Aberrant billing patterns for a provider of services or supplier with regards to volume of claims in one particular area.
+
+
+“(C) Electronic fund transfer (EFT) changes.
+
+
+“(D) Changes in ownership of a provider of services or supplier.
+
+
+“(5) COLLABORATION.—The Secretary shall work with industry representatives (including suppliers of durable medical equipment) on the development and implementation of the pilot program.
+
+
+“(6) REQUIREMENTS.—Under the pilot program, the Secretary shall—
+
+
+“(A) adopt a predictive risk-scoring algorithm, modeled similar to leading payment card networks’ real-time consumer feedback mechanisms, that would learn from beneficiary data to score relevant transactions from 1 (least risky) to 99 (most risky);
+
+
+“(B) prior to implementation of any predictive risk-scoring algorithm adopted under subparagraph (A) under the pilot program—
+
+
+“(i) require sufficient testing, evaluation, and review of such algorithm, taking into consideration the Blueprint for an AI Bill of Rights issued by the White House Office of Science and Technology Policy in October, 2022;
+
+
+“(ii) establish methods for notifying applicable beneficiaries and providers of services and suppliers impacted by the use of the algorithm regarding such usage (including information regarding how beneficiary data is collected and processed under the pilot program to produce a risk score for relevant transactions and the possible implications associated with the use of the algorithm); and
+
+
+“(iii) establish methods of communication with the Office of the Inspector General of the Department of Health and Human Service, and the ability to waive or forgo notice to an applicable beneficiary or a provider of services or supplier if appropriate;
+
+
+“(C) for any relevant transaction involving an item or service furnished to an applicable beneficiary identified by a predictive risk-scoring algorithm adopted under subparagraph (A) and implemented under subparagraph (B) as having a risk score that exceeds a level of risk specified by the Secretary—
+
+
+“(i) review the relevant transaction to determine whether it should be suspended pending the applicable beneficiary's response under clause (ii);
+
+
+“(ii) provide the applicable beneficiary the opportunity, by email or phone call response—
+
+
+“(I) to cure a high-risk score or suspended transaction that the beneficiary believes is based on inaccurate underlying data; and
+
+
+“(II) confirm the relevant transaction;
+
+
+“(iii) if, based on the results of the review, the relevant transaction is suspended—
+
+
+“(I) trigger an automatic alert to the applicable beneficiary by electronically sending a Medicare Summary Notice that includes the relevant transaction;
+
+
+“(II) require that all subsequent Medicare Summary Notices involving the relevant transaction be sent electronically and in two week intervals for 3 months after the first alert is sent under subclause (I); and
+
+
+“(III) include on such Medicare Summary Notices, as determined appropriate by the Secretary, information explaining how the beneficiary may report suspected fraud to relevant law enforcement agencies.
+
+
+“(D) have the authority to determine when a Medicare card must be terminated or a new card issued to prevent fraud and abuse.
+
+
+“(7) CLARIFICATION.—Any suspension of an account or transaction under the pilot program shall be based on a human review process, informed through the implementation of the predictive risk-scoring algorithm.
+
+
+ “(8) DEFINITIONS.—In this subsection:
+
+
+“(A) APPLICABLE ITEM OR SERVICE.—The term ‘applicable item or service’ means—
+
+
+“(i) an item of durable medical equipment (as defined in section 1861(n)); and
+
+
+“(ii) a clinical diagnostic laboratory test.
+
+
+“(B) RELEVANT TRANSACTION.—The term ‘relevant transaction’ means a claim for payment for an applicable item or service furnished to an applicable beneficiary, as determined by the Secretary.”.

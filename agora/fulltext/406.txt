@@ -1,0 +1,153 @@
+ H. R. 6791
+
+
+To amend the Digital Equity Act of 2021 to facilitate artificial intelligence literacy opportunities, and for other purposes.
+
+ IN THE HOUSE OF REPRESENTATIVES
+
+
+December 14, 2023
+
+
+Ms. Blunt Rochester (for herself and Mr. Bucshon) introduced the following bill; which was referred to the Committee on Energy and Commerce
+
+
+A BILL
+To amend the Digital Equity Act of 2021 to facilitate artificial intelligence literacy opportunities, and for other purposes.
+
+ Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Artificial Intelligence Literacy Act of 2023”.
+
+ SEC. 2. FINDINGS.
+
+
+The Congress finds the following:
+
+
+(1) Artificial intelligence (AI) is a transformative technology that affects nearly every aspect of the United States economy.
+
+
+(2) As AI becomes increasingly ubiquitous, AI literacy will become as important as digital literacy is today.
+
+
+(3) Technological leadership in AI is an economic and national security imperative. Maintaining this leadership requires a sufficient workforce to research and develop AI capabilities. Such a workforce must contain both technical talent, such as computer engineers and data scientists, and nontechnical talent, such as product managers and sales engineers, who understand AI.
+
+
+(4) Effective AI literacy initiatives encompass not only technical training but also include comprehensive education about the potential benefits and risks associated with AI technologies.
+
+
+(5) Informed developers and consumers of AI technologies can help mitigate potential risks and biases often found in systems that utilize AI.
+
+
+(6) Basic AI literacy is critical to ensuring that Americans have the tools and knowledge needed to navigate the economy and digital world. With AI being increasingly adopted by consumer-facing companies and widely used tools on the internet, Americans of all ages and occupations should have the skills and tools needed to understand AI and its limitations at a basic level as well as skills to identify when AI is being employed.
+
+
+(7) Successful AI literacy initiatives will prepare Americans of all ages and technical backgrounds to safely navigate AI tools and AI-enabled technologies.
+
+
+(8) Communities most often negatively impacted by AI-enabled technologies often have the least access to AI education.
+
+
+(9) AI literacy initiatives must engage stakeholders and communities in all stages, and specific outreach efforts should be made for communities disproportionately impacted by the digital divide, including minority and rural communities.
+
+
+(10) According to a survey of adults commissioned by Jobs for the Future, a non-profit organization with a focus on workforce development and education, 58 percent believe that learning opportunities around AI should be offered to workers, 53 percent believe that such opportunities should be available to learners, and 54 percent believe that they would feel more prepared for the future impact of AI if they were given learning tools for it.
+
+
+(11) As of 2018, the United States AI workforce stood at about 14,000,000 workers, or about 9 percent of total employment. From 2019 to 2029, demand for AI occupations is projected to grow twice as fast as for all occupations in the United States.
+
+
+(12) In 2021, Black students made up only 7.5 percent of AI-related bachelor’s degrees despite making up 14 percent of the population. While women account for 60 percent of college graduates, they constitute only 40 percent of Science, Technology, Engineering, and Mathematics graduates and 25 percent of graduates in AI fields. Efforts in AI literacy can help to bridge stark differences in attainment across demographic groups.
+
+
+(13) The need for a strong workforce of AI workers, as well as an AI-literate population, requires investment in AI literacy education.
+
+ SEC. 3. DIGITAL LITERACY, ARTIFICIAL INTELLIGENCE, AND COMPETITIVE GRANT PROGRAM.
+
+
+(a) Digital Literacy With Respect To Artificial Intelligence.—Section 60302 of the Digital Equity Act of 2021 (47 U.S.C. 1721) is amended—
+
+
+(1) in paragraph (12) by inserting “, including the skills associated with artificial intelligence literacy” before the period; and
+
+
+(2) by redesignating paragraphs (5) through (23), as amended by paragraph (1) of this subsection, as paragraphs (6) through (24), respectively, and inserting after paragraph (4) the following:
+
+
+
+
+“(5) ARTIFICIAL INTELLIGENCE LITERACY.—The term ‘artificial intelligence literacy’ means the skills associated with the ability to comprehend the basic principles, concepts, and applications of artificial intelligence, as well as the implications, limitations, and ethical considerations associated with the use of artificial intelligence.”.
+
+
+(b) Conforming Amendments.—Sections 60304 and 60305 of such Act (47 U.S.C. 1723, 1724) are amended by striking “60302(8)” and inserting “60302(9)”.
+
+ (c) Artificial Intelligence Literacy In The Digital Equity Competitive Grant Program.—Section 60305(d)(2)(A) of such Act (47 U.S.C. 1724(d)(2)(A)) is amended by redesignating clause (vi) as clause (x) and inserting after clause (v) the following:
+
+
+“(vi) In the case of a grant made to increase artificial intelligence literacy in public elementary and secondary schools—
+
+
+“(I) to provide teachers training and certification to support artificial intelligence literacy efforts in schools;
+
+
+“(II) to facilitate the attendance of teachers at professional development courses, workshops, and conferences related to artificial intelligence education, including professional development related to artificial intelligence course design and fee-based professional development;
+
+
+“(III) with respect to schools without resources for computer science education, to use best practices to develop and design computer science course materials needed for artificial intelligence education;
+
+
+“(IV) to support partnerships with the private sector to facilitate artificial intelligence education;
+
+
+“(V) to equip schools with labs to provide students hands-on artificial intelligence learning experiences; or
+
+
+“(VI) to develop virtual learning platforms that facilitate remote and individualized artificial intelligence education opportunities.
+
+
+“(vii) In the case of a grant made to increase artificial intelligence literacy in community colleges—
+
+
+“(I) to develop and implement an interdisciplinary literacy program with respect to artificial intelligence for non-traditional learners, including through partnerships with non-profit educational organizations;
+
+
+“(II) to develop labs to provide students hands-on artificial intelligence learning experiences; or
+
+
+“(III) to develop virtual learning platforms that facilitate remote and individualized artificial intelligence education opportunities.
+
+ “(viii) In the case of a grant made to increase artificial intelligence literacy in institutions of higher education—
+
+
+“(I) to develop labs to provide students hands-on artificial intelligence learning experiences;
+
+
+“(II) to develop virtual learning platforms that facilitate remote and individualized artificial intelligence education opportunities; or
+
+
+“(III) to develop programming and pedagogical tools with respect to artificial intelligence education and instruction for the benefit of elementary school and secondary school teachers and community educators.
+
+
+“(ix) In the case of a grant made to a community anchor institution, other than a school, community college, or institution of higher education, to increase artificial intelligence literacy in covered populations—
+
+
+“(I) to provide training and certification with respect to artificial intelligence education and instruction to employees of the community anchor institution; or
+
+
+“(II) to develop and implement artificial intelligence learning experiences and educational programming to the community served by the community anchor institution.”.
+
+ (d) Report To Congress.—Section 60305 of such Act (47 U.S.C. 1724) is amended by adding at the end the following:
+
+
+“(l) Annual Report To Congress.—For each year of the 4-year period described in subsection (d)(2)(D), the Assistant Secretary shall submit to the appropriate committees of Congress a written report—
+
+
+“(1) summarizing and analyzing the reports submitted to the Assistant Secretary pursuant to subsection (h) for that year; and
+
+
+“(2) identifying any specific use described by a report submitted pursuant to subsection (h) that the Assistant Secretary recommends for expansion or modification to benefit greater populations.”

@@ -1,0 +1,56 @@
+ AN ACT concerning State government.
+ 
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+ 
+Section 5. The Department of Innovation and Technology Act is amended by adding Section 1-80 as follows:
+ 
+(20 ILCS 1370/1-80 new)
+
+
+Sec. 1-80. Generative AI and Natural Language Processing Task Force.
+
+ (a) As used in this Section, "Task Force" means the Generative AI and Natural Language Processing Task Force established by this Section.
+
+
+(b) The Department shall establish the Generative AI and Natural Language Processing Task Force. The Task Force shall investigate and provide a report on generative artificial intelligence software and natural language processing software.
+
+ (c) The Task Force shall be composed of all of the following members:
+(1) One member appointed by the Speaker of the House of Representatives, who shall serve as a co-chairperson.
+(2) One member appointed by the Minority Leader of the House of Representatives.
+(3) One member appointed by the President of the Senate, who shall serve as a co-chairperson.
+(4) One member appointed by the Minority Leader of the Senate.
+(5) The Secretary of the Department of Innovation and Technology or his or her designee.
+(6) The State Superintendent of Education or his or her designee.
+(7) The Executive Director of the Illinois Community College Board or his or her designee.
+(8) The Executive Director of the Board of Higher Education or his or her designee.
+(9) Two teachers recommended by a statewide association representing teachers, appointed by the Governor.
+(10) Two principals recommended by a statewide principals association, appointed by the Governor.
+(11) Two experts on cybersecurity, appointed by the Governor.
+(12) Two experts on artificial intelligence, appointed by the Governor.
+(13) Two members of statewide business associations, appointed by the Governor.
+(14) The Statewide Chief Information Security Officer or his or her designee.
+(15) Two members of statewide labor associations, appointed by the Governor.
+(16) The Attorney General or his or her designee.
+
+ (d) The Task Force shall hold at least 5 public meetings in a hybrid format, with both virtual and in-person options to attend. Of those required 5 meetings, one shall be held in each of the following locations:
+(1) Chicago;
+(2) Springfield;
+(3) the Metro East region;
+(4) the Quad Cities region; and
+(5) Southern Illinois.
+
+ (e) The responsibilities of the Task Force shall include all of the following:
+(1) recommending legislation or regulations to protect consumer information as it relates to generative artificial intelligence;
+(2) recommending model policies for schools to address the use of generative artificial intelligence by students in the classroom;
+(3) assessing the use of generative artificial intelligence to improve delivery of public services;
+(5) protecting civil rights and civil liberties of individuals and consumers as it relates to generative artificial intelligence;  
+(6) assessing the use of generative artificial intelligence in the workforce and how this could affect employment levels, types of employment, and the deployment of workers;
+(7) assessing the challenges of generative artificial intelligence for cybersecurity; and
+(8) other topics related to generative artificial intelligence software and natural language processing software that may arise from testimony or reports to the Task Force submitted by its members or the public.
+
+ (f) The Department shall provide administrative and technical support to the Task Force.
+
+
+(g) The Task Force shall file a report by December 31, 2024 with the Governor and the General Assembly covering the Task Force's investigation into generative artificial intelligence software and natural language processing software and the Task Force's responsibilities under subsection (e).
+ 
+Section 99. Effective date. This Act takes effect upon becoming law.

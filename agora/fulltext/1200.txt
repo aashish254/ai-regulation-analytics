@@ -1,0 +1,99 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Providing Individuals Various Opportunities for Technical Training to Build a Skills-Based Cyber Workforce Act of 2024” or the “Cyber PIVOTT Act”.
+SEC. 2. CISA EDUCATION AND TRAINING PROGRAMS AND RESOURCES.
+(a) In General.—Subtitle D of title XIII of the Homeland Security Act of 2002 is amended by adding at the end the following new section:
+1334. CISA EDUCATION AND TRAINING PROGRAMS AND RESOURCES.
+“(a) Expanding Education And Training Programs And Resources To Community Colleges And Technical Schools.—
+“(1) STUDENT QUALIFICATIONS.—
+“(A) IN GENERAL.—The Director of the Cybersecurity and Infrastructure Security Agency (CISA) of the Department shall seek to enter into partnerships or other arrangements with community colleges (as such term is defined in section 5002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9401) and technical schools (as such term is defined in section 411.167 of title 20, Code of Federal Regulations) (in this section referred to as ‘participating institutions’) to establish education and training programs and facilitate internship and post-graduation Federal job opportunities at participating institutions. Such programs shall be known as the ‘Providing Individuals Various Opportunities for Technical Training to Build a Skills-Based Cyber Workforce Program’ or the ‘PIVOTT Program’ (in this section referred to as the ‘Program’).
+“(B) ELIGIBILITY.—The following categories of students are eligible to participate in the Program:
+“(i) Students enrolled in but who have not yet started a two-year cyber or cyber-relevant associate’s degree program or comparable technical certification, as determined by the Director of CISA, at a participating institution.
+“(ii) Students currently enrolled in their first semester of a two-year cyber or cyber-relevant associate’s degree program or comparable technical certification, as determined by the Director of CISA, at a participating institution.
+“(iii) Students identified by the Director of CISA who are eligible and qualified to enroll in a two-year degree cyber or cyber-relevant associate’s program or comparable technical certification at a participating institution, such as individuals who are pursuing a career change, have a high school diploma or equivalent, or would be considered entry-level.
+“(iv) Students enrolled in technical certifications at participating institutions that are less than two years to complete but align with Tasks, Knowledge, and Skills (TKS), as defined by the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800-181, revision 1), and prepare students to serve in Federal, State, local, Tribal, or territorial government cyber or cyber-relevant roles.
+“(C) SCHOLARSHIPS.—The Secretary, acting through the Director of CISA, shall provide students participating in the Program with full tuition scholarships, including academic fees, lab fees, travel, lodging, per diem, stipends, internship costs, costs associated with virtual participation, certification testing fees, and any other expenses the Director determines necessary to complete any requirement under the Program, including for participation in one in-person exercise in accordance with paragraph (3)(B), including travel, lodging, meals, in-person or in-laboratory post-course assessments fees, and other necessary expenses as determined by the Director.
+“(D) SERVICE OBLIGATION.—
+“(i) IN GENERAL.—Students who participate in and complete the Program shall fulfill a two-year service obligation in a cyber role, as defined by the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800-181, revision 1) or the Department of Defense Cyber Workforce Framework, to advance the cyber mission of an executive agency (as such term is defined in section 105 of title 5, United States Code) or a State, local, Tribal, or territorial government.
+“(ii) EXCEPTION.—The service obligation specified in clause (i) shall not apply to students who—
+“(I) have completed a term of service in the Armed Forces that is equal to the service obligation specified in clause (i);
+“(II) are currently serving in the Armed Forces; or
+“(III) pursue service in the Armed Forces in a cyber or cyber-relevant role during or immediately after completion of the Program.
+“(iii) DELAYED SERVICE.—Students who, immediately after completion of the Program, enroll in a four-year degree program may complete the service obligation specified in clause (i) after receiving such four-year degree.
+“(E) PROGRAM COMPLETION TIMELINE.—
+“(i) IN GENERAL.—Students shall complete participation in the Program within four years of starting the Program, or pursuant to participating institution rules if such rules are in effect at the time such a student begins such participation.
+“(ii) PROCESS FOR UPDATED COMPLETION TIMELINE.—A student who experiences extreme hardship during participation in the Program may submit to the Director of CISA an application to waive the application of the timeline specified in clause (i). The Director, in consultation with the appropriate participating institution, shall determine on a case-by-case basis whether such student may be granted additional time to complete the Program.
+“(2) INSTITUTIONAL REQUIREMENTS.—A community college or technical school is eligible to participate in the Program if such college or school is—
+“(A) a participant in the National Centers of Academic Excellence in Cybersecurity (NCAE-C) program; or
+“(B) determined eligible by the Director of CISA, taking into consideration whether the virtual or in-person course offerings at such a college or school aligns with pathways as defined by the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800-181, revision 1), and the presence of a cybersecurity clinic on campus.
+“(3) PROGRAM COMPONENTS.—
+“(A) IN GENERAL.—In accordance with subparagraph (C), students participating in the Program shall complete a minimum of four eligible skills-based exercises described in subparagraph (B).
+“(B) ELIGIBLE SKILLS-BASED EXERCISES.—Eligible skills-based exercises described in this subparagraph may include the following:
+“(i) Laboratory work.
+“(ii) Competitions such as hackathons, challenges, and capture the flag.
+“(iii) Virtual programming.
+“(iv) Table-top exercises.
+“(v) Industry training workshops.
+“(vi) Exercises in a box.
+“(C) PROVISION.—
+“(i) IN GENERAL.—The Director of CISA shall coordinate with participating institutions to provide at least one skills-based exercise under subparagraph (A) each semester.
+“(ii) STUDENT REQUIREMENTS.—Students participating in the Program shall complete at least one of the four skills-based exercises under subparagraph (A) in-person.
+“(iii) ADMINISTRATION OF EXERCISES.—The Director of CISA, in coordination with participating institutions, shall offer at least one in-person skills-based exercise to Program participants every two years.
+“(iv) COORDINATION.—The Director of CISA shall coordinate and may jointly offer the skills-based exercises under subparagraph (A) with the following:
+“(I) Other Federal agencies, such as the Department of Defense, the Federal Bureau of Investigation, the National Security Agency, and the Office of the National Cyber Director, as appropriate.
+“(II) Non-Federal entities with cyber or cyber-relevant expertise, including cybersecurity clinics.
+“(v) EXCEPTION.—A student participating in the Program who is unable to complete a skills-based exercise under subparagraph (A) may submit to the participating institution a proposal for a comparable skills-based exercise, as determined by the Director of CISA.
+“(D) INTERNSHIPS.—
+“(i) IN GENERAL.—The Director of CISA and participating institutions shall, as a core requirement of the Program, coordinate with appropriate entities to place students participating in the Program in an approved cyber or cyber-relevant internship, as determined by the Director, with any of the following:
+“(I) A State, local, Tribal, or territorial government entity.
+“(II) A critical infrastructure owner or operator that is located in a rural community or is considered to be a high-risk sector, as determined by the Director of CISA.
+“(III) A Federal department or agency, including with the CISA Regional Security Advisors program.
+“(ii) PRIORITIZATION.—A student who has communicated in writing to the Director of CISA or the participating institution during the internship placement process that such student intends to serve in a Federal Government position beyond the obligations of the student under paragraph (1)(D) shall be prioritized for Federal cyber internship opportunities that require a security clearance.
+“(iii) CURRENT FEDERAL EMPLOYEES.—The Director of CISA shall coordinate with the heads of appropriate Federal agencies to establish an approved cyber or cyber-relevant internship program for students participating in the Program who are Federal employees.
+“(iv) SECURITY CLEARANCES.—The Director of CISA shall take such actions as may be necessary to begin, not later than one year before an appropriate student under this subparagraph completes participation in the Program, the process to provide such student with an appropriate security clearance.
+“(4) OUTREACH INITIATIVES.—
+“(A) CISA.—The Director of CISA shall—
+“(i) conduct regional outreach initiatives, including at institutions designated as National Centers of Academic Excellence in Cybersecurity (NCAE-C), and provide informational materials about the Program—
+“(I) at each CISA regional office; and
+“(II) to industry partners to promote the Program; and
+“(ii) seek to engage with industry stakeholders to produce an annual report on industry-relevant skills intended to inform the skills-based exercises offered in the Program, which report may include input from an advisory committee, established by the Director of CISA and comprised of university-level educators.
+“(B) RECRUITMENT FAIR.—The Director of CISA, in coordination with the National Cyber Director, shall host a voluntary Federal Government recruitment fair that includes Federal Government agency representatives who seek to recruit for open cybersecurity positions each fiscal year. Information regarding such fair shall be posted on a dedicated job board hosted by CISA. Each such fair may be hosted online or in-person at a minimum of five Program participating institutions.
+“(5) PROGRAM COMPLETION BENEFITS.—
+“(A) DATABASE.—The Director of CISA, leveraging existing educational content repositories, shall maintain an online database of cyber training and education resources, mapped to job roles set forth in the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800-181, revision 1), and Federal job opportunities in cyber or cyber-relevant fields. Such database shall be available for access, as appropriate, by students who have successfully completed the Program.
+“(B) CERTIFICATION PROGRAM.—The Director of CISA shall establish and update annually a list of existing cyber certification programs developed or offered by entities in the private sector, academia, nonprofits, or other institutions, as determined by the Director. The Secretary, acting through the Director, may fund, through vouchers requested by a student participating in the Program, up to three certifications and associated certification examinations per student from such list for such students who complete the Program within ten years of such completion.
+“(C) ADDITIONAL SCHOLARSHIP OPPORTUNITIES FOR STUDENTS WHO COMPLETE THE PROGRAM.—The Director of CISA may select, pursuant to an application process designed by Director, up to ten students per year who completed the Program and have been employed by the Federal Government for at least seven years to be eligible for scholarships to be applied to cyber or cyber-relevant degree programs offered at institutions designated as NCAE-C. Scholarship amounts under this subparagraph shall be determined by the Director, subject to the availability of appropriations for such purpose.
+“(6) TERMS OF PROGRAM SCHOLARSHIP.—A scholarship recipient under this section shall be liable to the United States for repayment of a scholarship awarded to such recipient as provided under subsection (d) if such recipient—
+“(A) fails to maintain an acceptable level of academic standing at the participating institution, as determined by the Director of CISA;
+“(B) is dismissed from the participating institution for disciplinary reasons;
+“(C) withdraws from the eligible degree program before completing the Program;
+“(D) declares that such recipient does not intend to fulfill the post-award employment obligation under this section; or
+“(E) fails to maintain or fulfill the post-graduation government service or post-award obligations or requirements of such recipient.
+“(7) EXCEPTION.—A student who—
+“(A) enlists or commissions in the Armed Forces prior to completion of the Program, or
+“(B) has a documented history of demonstrated effort to secure a position with a Federal, State, local, Tribal, or territorial government within two years after completing the Program but who is not offered such a position,
+may be, on a case-by-case basis, as determined by the Director, exempted from liability to the United States for repayment of a scholarship awarded to such student.
+“(b) Monitoring Compliance.—As a condition of participation in the Program, a participating institution shall enter into an agreement with the Director of CISA to monitor the compliance of scholarship recipients with respect to their post-award employment obligations.
+“(c) Amount Of Repayment.—If a circumstance described in subsection (a)(6) occurs before the completion of one year of a post-scholarship employment obligation under this section, the total amount of scholarship awards received by an individual under this section shall—
+“(1) be repaid immediately; or
+“(2) be treated as a loan to be repaid in accordance with subsection (d).
+“(d) Repayments.—A loan referred to subsection (c) shall—
+“(1) be treated as a Federal Direct Unsubsidized Stafford Loan under part D of subpart 10 of chapter 2 of subpart 2 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.); and
+“(2) be subject to repayment, together with interest thereon accruing from the date of the scholarship award, in accordance with terms and conditions specified by the Secretary (in consultation with the Secretary of Education) in regulations promulgated to carry out this subsection.
+“(e) Collection Of Repayment.—
+“(1) IN GENERAL.—If a scholarship recipient is required to repay a scholarship under this section, the Secretary shall—
+“(A) determine the repayment amounts and notify such recipient of the amount owed; and
+“(B) collect such amount within a period of time as determined by the Secretary, or such amount shall be treated as a loan in accordance with subsection (e).
+“(2) RETURNED TO THE DEPARTMENT.—Except as provided in paragraph (3), any repayment under this subsection shall be returned to the Department.
+“(3) RETENTION OF PERCENTAGE.—A participating institution may retain a percentage of any repayment such institution collects under this subsection to defray administrative costs associated with the collection of such repayment. The Secretary shall establish a single, fixed percentage applicable to all participating institutions.
+“(f) Exceptions.—The Secretary may provide for the partial or total waiver or suspension of any repayment obligation by an individual under this section whenever compliance by such individual with such obligation is impossible or would involve extreme hardship to the individual.
+“(g) Timeline For Implementation.—
+“(1) IN GENERAL.—The Director of CISA and participating institutions shall seek to enroll in the Program, subject to the availability of appropriations, not fewer than 250 students for the first full academic year of the Program that begins one year after the date of the enactment of this section.
+“(2) GROWTH OF PROGRAM.—Beginning with the second full academic year of the Program, the Director of CISA and participating institutions shall seek to enroll in the Program each full academic year, subject to the availability of appropriations, not fewer than double the number of students enrolled in the immediately preceding full academic year until the number of such students reaches 1,000 each full academic year.
+“(3) PLAN FOR 10,000 STUDENTS.—Not later than 90 days after the date of the enactment of this section, the Director of CISA and participating institutions shall develop a plan, subject to capacity and administrative capabilities, to enroll by not later than ten years after the date of the establishment of the Program at least 10,000 students in the Program each academic year. The Director shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate regarding such plan.
+“(h) Report On Enrollment Goals.—If the Director of CISA and participating institutions fail in any academic year to meet the minimum quota specified in paragraph (1) or (2), as the case may be, of subsection (g), the Director of CISA shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate within 30 days following the conclusion of such academic year.
+“(i) Definitions.—In this section:
+“(1) CYBER-RELEVANT.—The term ‘cyber-relevant’ means areas of national security that would impact the cyber resiliency of the United States, including relating to operational technology, critical infrastructure, artificial intelligence, quantum computing, security awareness, or computer science.
+“(2) SKILLS-BASED EXERCISES.—The term ‘skills-based exercises’ means condensed programs lasting at least one day that focus on practice and application, rather than research and study.”.
+(b) Clerical Amendment.—The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 1333 the following new item:
+“Sec. 1334. CISA education and training programs and resources.”.
+(c) Review Of CISA Education, Training Programs And Resources.—Not later than 90 days after the date of the enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency (CISA) of the Department of Homeland Security shall submit to Congress a review of CISA’s education and training programs. Such review shall evaluate the cost, reach, and current demand of such programs, including relating to any resource gaps in any of such programs.
+(d) Promoting Cybercorps Scholarship For Service As A Gold Standard Program.—The Secretary of Homeland Security shall submit to the Committee on Homeland Security and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report on current support of the Department to the CyberCorps Scholarship for Service Program, including opportunities to provide additional funding to such Program under existing training and education programs of the Department of Homeland Security.

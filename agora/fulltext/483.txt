@@ -1,0 +1,255 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Supply Chain Mapping and Monitoring Act”.SEC. 2. SUPPLY CHAIN RESILIENCY AND CRISIS RESPONSE OFFICE.
+(a) Definitions.—In this section:
+(1) CRITICAL GOOD OR SERVICE.—The term “critical good or service” means any raw, in process, or manufactured material (including any mineral, metal, or advanced processed material), article, commodity, supply, product, or item of supply the absence of which would have a significant effect on—
+(A) the national security or economic security of the United States; and
+(B) critical infrastructure.
+(2) CRITICAL INDUSTRY.—The term “critical industry” means an industry that is critical for the national security or economic security of the United States, considering key technology focus areas under this section and critical infrastructure.
+(3) CRITICAL INFRASTRUCTURE.—The term “critical infrastructure” has the meaning given to that term in the Critical Infrastructures Protection Act of 2001 (42 U.S.C. 5195c).
+(4) DOMESTIC ENTERPRISE.—The term “domestic enterprise” means an enterprise that conducts business in the United States and procures a critical good or service.
+(5) DOMESTIC MANUFACTURER.—The term “domestic manufacturer” means a business that—
+(A) conducts in the United States the research and development, engineering, or production activities necessary or incidental to manufacturing; or
+(B) if provided financial assistance by the Federal Government, will conduct in the United States the research and development, engineering, or production activities necessary or incidental to manufacturing.
+(6) ECONOMICALLY DISTRESSED AREA.—The term “economically distressed area” means an area that meets 1 or more of the requirements described in section 301(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3161(a)).
+(7) FEDERAL AGENCY.—The term “Federal agency” has the meaning given the term “agency” in section 551 of title 5, United States Code.
+(8) INDUSTRIAL EQUIPMENT.—The term “industrial equipment” means any component, subsystem, system, equipment, tooling, accessory, part, or assembly necessary for the manufacturing of a critical good or service.(9) KEY TECHNOLOGY FOCUS AREAS.—The term “key technology focus areas” means the following:
+(A) Artificial intelligence, machine learning, autonomy, and related advances.
+(B) High-performance computing, semiconductors, and advanced computer hardware and software.
+(C) Quantum information science and technology.
+(D) Robotics, automation, and advanced manufacturing.
+(E) Natural and anthropogenic disaster prevention or mitigation.
+(F) Advanced communications technology, including optical transmission components.
+(G) Biotechnology, medical technology, genomics, and synthetic biology.
+(H) Data storage, data management, distributed ledger technologies, and cybersecurity, including biometrics.
+(I) Advanced energy and industrial efficacy technologies, such as batteries, advanced nuclear technologies, and polysilicon for use in solar photovoltaics, including for the purposes of electric generation (consistent with section 15 of the National Science Foundation Act of 1950 (42 U.S.C. 1874)).
+(J) Advanced materials science, including composites and 2D materials and equipment, aerospace grade metals, and aerospace specific manufacturing enabling chemicals.(10) LABOR ORGANIZATION.—The term “labor organization” has the meaning given the term in section 2(5) of the National Labor Relations Act (29 U.S.C. 152(5)), except that such term shall also include—
+(A) any organization composed of labor organizations, such as a labor union federation or a State or municipal labor body; and
+(B) any organization which would be included in the definition for such term under such section 2(5) but for the fact that the organization represents—
+(i) individuals employed by the United States, any wholly owned Government corporation, any Federal Reserve Bank, or any State or political subdivision thereof;
+(ii) individuals employed by persons subject to the Railway Labor Act (45 U.S.C. 151 et seq.); or
+(iii) individuals employed as agricultural laborers.
+(11) MANUFACTURING TECHNOLOGY.—The term “manufacturing technology” means technologies that are necessary or incidental to the manufacturing of a critical good or service.
+(12) OFFICE.—The term “Office” means the Supply Chain Resiliency and Crisis Response Office established under subsection (b).
+(13) RELEVANT COMMITTEES OF CONGRESS.—The term “relevant committees of Congress” means—
+(A) the Committee on Commerce, Science, and Transportation of the Senate;
+(B) the Committee on Appropriations of the Senate;
+(C) the Committee on Finance of the Senate;
+(D) the Committee on Homeland Security and Governmental Affairs of the Senate;
+(E) the Committee on Armed Services of the Senate;
+(F) the Committee on Energy and Natural Resources of the Senate;
+(G) the Select Committee on Intelligence of the Senate;
+(H) the Committee on Science, Space, and Technology of the House of Representatives;
+(I) the Committee on Energy and Commerce of the House of Representatives;
+(J) the Committee on Appropriations of the House of Representatives;
+(K) the Committee on Ways and Means of the House of Representatives;
+(L) the Committee on Homeland Security of the House of Representatives;
+(M) the Committee on Armed Services of the House of Representatives; and
+(N) the Permanent Select Committee on Intelligence of the House of Representatives.
+(14) RESILIENT SUPPLY CHAIN.—The term “resilient supply chain” means a supply chain that—
+(A) ensures that the United States can sustain critical industry production, supply chains, services, and access to critical goods and services, industrial equipment, and manufacturing technology during supply chain shocks; and
+(B) has key components of resilience that include—
+(i) effective private sector risk management and mitigation planning to sustain supply chains and supplier networks during a supply chain shock;
+(ii) minimized or managed exposure to supply chain shocks; and
+(iii) the financial and operational capacity to—
+(I) sustain supply chains during supply chain shocks; and
+(II) recover from supply chain shocks.
+(15) SECRETARY.—The term “Secretary” means the Secretary of Commerce.
+(16) STATE.—The term “State” means each State of the United States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
+(17) SUPPLY CHAIN.—The term “supply chain” means a supply chain for a critical good or service.
+(18) SUPPLY CHAIN INFORMATION.—The term “supply chain information” means information that is not customarily in the public domain and relating to—
+(A) sustaining and adapting supply chains during a supply chain shock;
+(B) supply chain risk mitigation and recovery planning with respect to a supply chain shock, including any planned or past assessment, projection, or estimate of a vulnerability within the supply chain, including testing, supplier network assessments, production flexibility, risk evaluations thereto, risk management planning, or risk audits; or
+(C) operational best practices, planning, and supplier partnerships that enable enhanced resilience of supply chains during a supply chain shock, including response, repair, recovery, reconstruction, insurance, or continuity.
+(19) SUPPLY CHAIN SHOCK.—The term “supply chain shock” includes the following:
+(A) A natural disaster or extreme weather event.
+(B) An accidental or human-caused event.
+(C) An economic disruption.
+(D) A pandemic.
+(E) A biological threat.
+(F) A cyberattack.
+(G) A great power conflict.
+(H) A terrorist or geopolitical attack.
+(I) Any other supply chain disruption or threat that affects the national security or economic security of the United States.
+(20) TRIBAL GOVERNMENT.—The term “Tribal government” means Indian Tribes, Alaska Native Tribal entities, and Native Hawaiian communities.
+(21) UNDER SECRETARY.—The term “Under Secretary” means the Under Secretary of the Office of Supply Chain Resiliency and Crisis Response appointed pursuant to subsection (d).(b) Establishment.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a Supply Chain Resiliency and Crisis Response Office to carry out the activities described in subsection (e).
+(c) Mission.—The mission of the Office shall be the following:
+(1) Help to promote the leadership of the United States with respect to critical industries and supply chains that—
+(A) strengthen the national security of the United States; and
+(B) have a significant effect on the economic security of the United States.
+(2) Encourage partnerships and collaboration with the Federal Government and the private sector, labor organizations, the governments of countries that are allies or key international partners of the United States, State governments and political subdivisions of a State, and Tribal governments in order to—
+(A) promote the resilience of supply chains; and
+(B) respond to supply chain shocks to—
+(i) critical industries; and
+(ii) supply chains.(3) Monitor the resilience, diversity, security, and strength of supply chains and critical industries, including by—
+(A) monitoring the financial and operational conditions of domestic manufacturers and domestic enterprises;
+(B) performing stress tests for critical industries, supply chains, domestic enterprises, and domestic manufacturers;
+(C) monitoring the demand and supply of critical goods and services, industrial equipment, and manufacturing technology;
+(D) monitoring manufacturing, ware­hous­ing, transportation, and distribution; and
+(E) working in partnership with the coordination group established under subsection (g), as applicable.
+(4) Support the development, maintenance, improvement, competitiveness, restoration, and expansion of the productive capacities, efficiency, and workforce of critical industries and domestic manufacturers of critical goods and services, industrial equipment, and manufacturing technology.
+(5) Prepare for and take appropriate steps to minimize the effects of supply chain shocks on critical industries and supply chains.
+(6) Support the creation of jobs with competitive wages in the manufacturing sector.
+(7) Encourage manufacturing growth and opportunities in economically distressed areas and communities of color.
+(8) Promote the health of the economy of the United States and the competitiveness of manufacturing in the United States.
+(9) Coordinate executive branch actions necessary to carry out the functions described in paragraphs (1) through (8).
+(d) Under Secretary Of The Office.—(1) APPOINTMENT AND TERM.—The head of the Office shall be the Under Secretary of the Office of Supply Chain Resiliency and Crisis Response, appointed by the President, by and with the advice and consent of the Senate, for a term of not more than 5 years.
+(2) PAY.—The Under Secretary shall be compensated at the rate in effect for level II of the Executive Schedule under section 5313 of title 5, United States Code.
+(3) ADMINISTRATIVE AUTHORITIES.—The Under Secretary may appoint officers and employees in accordance with chapter 51 and subchapter III of chapter 53 of title 5, United States Code.
+(e) Activities.—The Under Secretary shall carry out the following activities:
+(1) In collaboration with the coordination group established under subsection (g)—
+(A) map, monitor, and model supply chains; and
+(B) identify high priority supply chain gaps and vulnerabilities in critical industries and supply chains that—
+(i) exist as of the date of the enactment of this section; or
+(ii) are anticipated in the future.
+(2) Identify and evaluate—
+(A) supply chain shocks that may disrupt, strain, compromise, or eliminate a supply chain;
+(B) short-term, medium-term, and long-term manufacturing needs critical to the national security, economic security, public health, and the environment of the United States;
+(C) the diversity, security, reliability, and strength of—
+(i) supply chains, including single point of failure, single producer, or consolidated manufacturing; and
+(ii) the sources of critical goods and services, industrial equipment, or manufacturing technology, including those obtained or purchased from a person outside of the United States or imported into the United States;
+(D) the demand and supply of critical goods and services, industrial equipment, and manufacturing technology;
+(E) the availability, capability, and capacity of domestic manufacturers or manufacturers in allied nations or other key international partners to serve as a source of a critical good or service, industrial equipment, or manufacturing technology;
+(F) the effect on the economic security of the United States, including jobs and wages, that may result from the disruption, strain, compromise, or elimination of any supply chain;
+(G) the state of the manufacturing workforce, including—
+(i) the needs of domestic manufacturers; and
+(ii) opportunities to create high-quality manufacturing jobs; and
+(H) investments in critical goods and services, industrial equipment, or manufacturing technology from non-Federal sources.
+(3) In collaboration with the coordination group established under subsection (g), State governments and political subdivisions of a State, and Tribal governments, and, as appropriate, in cooperation with the governments of countries that are allies or key international partners of the United States—
+(A) identify opportunities to reduce supply chain gaps and vulnerabilities in critical industries and supply chains;
+(B) encourage partnerships between the Federal Government and industry, labor organizations, State governments and political subdivisions of a State, and Tribal governments to better respond to supply chain shocks to critical industries and supply chains and coordinate response efforts;
+(C) encourage partnerships between the Federal Government and the governments of countries that are allies or key international partners of the United States;
+(D) develop or identify opportunities to build the capacity of the United States in critical industries and supply chains;
+(E) develop or identify opportunities to build the capacity of countries that are allies or key international partners of the United States in critical industries and supply chains; and
+(F) develop contingency plans and coordination mechanisms to improve critical industry supply chain response to supply chain shocks.
+(4) In coordination with the Secretary of State and the United States Trade Representative—
+(A) work with governments of countries that are allies or key international partners of the United States to promote diversified and resilient supply chains industries that ensure the supply of critical goods and services, industrial equipment, and manufacturing technology to both the United States and companies of countries that are allies or key international partners of the United States; and
+(B) coordinate with other offices and divisions of the Department of Commerce and other Federal agencies to use authorities, as of the date of the enactment of this section, to encourage the resilience of supply chains of critical industries.
+(5) Develop strategies and plans to recover from supply chain shocks.
+(f) Continuous Monitoring.—The Under Secretary, in consultation with the head of any relevant Federal agency, including those with jurisdiction over supply chains, shall continuously monitor the resilience, diversity, security, and strength of supply chains.(g) Coordination Group.—
+(1) IN GENERAL.—In carrying out the activities under subsection (e), the Under Secretary shall establish a unified coordination group led by the Under Secretary which shall include private sector partners, labor organizations, and, as appropriate, Federally Funded Research and Development Centers, to serve as a method for coordinating between and among Federal agencies described under subsection (k) to plan for and respond to supply chain shocks and support the resilience, diversity, security, and strength of supply chains.
+(2) IMPLEMENTATION.—Through the unified coordination group established under paragraph (1), the Under Secretary shall—
+(A) acquire on a voluntary basis technical, engineering, and operational supply chain information from the private sector in a manner that ensures any supply chain information provided by the private sector is kept confidential as required under section 552(b)(3) of title 5, United States Code (commonly known as the “Freedom of Information Act”);
+(B) study the supply chain information acquired under subparagraph (A) to—
+(i) identify supply chains;
+(ii) assess the resilience of supply chains;
+(iii) identify supply chains vulnerable to disruption, strain, compromise, or elimination; and
+(iv) inform planning;
+(C) convene with relevant private sector entities to share best practices, planning, and capabilities to respond to potential supply chain shocks; and
+(D) develop contingency plans and coordination mechanisms to ensure an effective and coordinated response to potential supply chain shocks.
+(3) SUBGROUPS.—In carrying out the activities described in paragraph (2), the Under Secretary may establish subgroups of the unified coordination group established under paragraph (1) led by the head of an appropriate Federal agency.(4) INTERNATIONAL AGREEMENTS.—The Under Secretary, in consultation with the United States Trade Representative and any other relevant Federal agency, may enter into agreements with governments of countries that are allies or key international partners of the United States relating to enhancing the security and resilience of supply chains in response to supply chain shocks.
+(h) Designations.—Not later than 180 days after the date of enactment of this Act, the Under Secretary shall—
+(1) designate—
+(A) critical industries;
+(B) supply chains; and
+(C) critical goods and services;
+(2) provide for a period of public comment and review in carrying out paragraph (1); and
+(3) update the designations made under paragraph (1) not less frequently than once every four years.
+(i) Quadrennial Report On Supply Chain Resiliency And Domestic Manufacturing.—
+(1) IN GENERAL.—Not later than four years after the date on which the final Sectoral Supply Chain Assessments report on supply chains required under section 4(a) of Executive Order 14017 (relating to America’s supply chains) is submitted, and not later than once every four years thereafter, the Under Secretary, in coordination with relevant Federal agencies and relevant private sector entities, labor organizations, State governments and political subdivisions of a State, and Tribal governments, shall submit to the relevant committees of Congress and post on the website of the Under Secretary a report on supply chain resilience and domestic manufacturing (in this subsection referred to as the “report”) to strengthen, improve, and preserve the diversity, security, reliability, and strength of supply chains.
+(2) ELEMENTS.—In carrying out paragraph (1), the Under Secretary shall—
+(A) identify—
+(i) the critical industries, supply chains, and critical goods and services designated under subsection (h);
+(ii) supplies that are critical to the crisis preparedness of the United States;
+(iii) substitutes for critical goods and services, industrial equipment, and manufacturing technology; and
+(iv) the matters identified and evaluated pursuant to subsection (e)(3);
+(B) provide a description of—
+(i) the manufacturing base and supply chains in the United States, including the manufacturing base and supply chains for—
+(I) industrial equipment;
+(II) critical goods and services, including raw materials and semiconductors, that are essential to the production of technologies and supplies for critical industries; and
+(III) manufacturing technology; and
+(ii) the ability of the United States to—
+(I) maintain readiness with respect to preparing for and responding to supply chain shocks; and
+(II) in response to a supply chain shock—
+(aa) surge production in critical industries;
+(bb) surge production of critical goods and services and industrial equipment; and
+(cc) maintain access to critical goods and services, industrial equipment, and manufacturing technology;
+(C) provide an assessment and description of—
+(i) demand and supply of critical goods and services, industrial equipment, and manufacturing technology;
+(ii) production of critical goods and services, industrial equipment, and manufacturing technology by domestic manufacturers; and
+(iii) the capability and capacity of domestic manufacturers and manufacturers in countries that are allies or key international partners of the United States to manufacture critical goods and services, industrial equipment, and manufacturing technology;
+(D) identify defense, intelligence, homeland, economic, domestic labor supply, natural, geopolitical, or other contingencies and other supply chain shocks that may disrupt, strain, compromise, or eliminate a supply chain;
+(E) provide an assessment of—
+(i) the resilience and capacity of the manufacturing base, supply chains, and workforce of the United States, the allies of the United States, and the key international partners of the United States that can sustain critical industries through a supply chain shock;
+(ii) the flexible manufacturing capacity and capabilities available in the United States in the case of a supply chain shock; and
+(iii) the effect innovation has on domestic manufacturing;
+(F) provide specific recommendations to improve the security and resiliency of manufacturing capacity and supply chains through—
+(i) developing long-term strategies;
+(ii) increasing visibility into the networks and capabilities of suppliers and domestic manufacturers;
+(iii) identifying industry best practices;
+(iv) evaluating how diverse supplier networks, multi-platform and multi-region production capabilities and sources, and integrated global and regional supply chains can—
+(I) enhance the resilience of critical industries in the United States;
+(II) support and create jobs in the United States;
+(III) enhance the resilience of manufacturing capabilities of the United States; and
+(IV) support access of the United States to critical goods and services during a supply chain shock;
+(v) identifying and mitigating risks, including—
+(I) the financial and operational risks of a supply chain;
+(II) significant vulnerabilities to supply chain shocks and other emergencies; and
+(III) exposure to gaps and vulnerabilities in—
+(aa) domestic capacity or capabilities; and
+(bb) sources of imports needed to sustain critical industries and supply chains;
+(vi) identifying enterprise resource planning systems that are—
+(I) compatible across supply chain tiers; and
+(II) affordable for small- and medium-sized businesses;
+(vii) understanding the total cost of ownership, total value contribution, and other best practices that encourage strategic partnerships throughout supply chains;
+(viii) understanding Federal procurement opportunities to increase resiliency of supply chains and fill gaps in domestic purchasing of critical goods and services;
+(ix) identifying policies that maximize job retention and creation in the United States, including workforce development programs;
+(x) identifying opportunities to work with allies or key international partners of the United States in building more resilient critical industry supply chains and mitigating risks;
+(xi) identifying areas requiring further investment in research and development or workforce education; and
+(xii) identifying such other services as the Under Secretary determines necessary;
+(G) provide guidance to the Department of Commerce, the National Science Foundation, and other relevant Federal agencies with respect to critical goods and services, industrial equipment, and manufacturing technologies that should be prioritized;
+(H) with respect to countries that are allies or key international partners of the United States—
+(i) review and, if appropriate, provide recommendations for expanding the sourcing of critical goods and services, industrial equipment, and manufacturing technology associated with critical industries from those countries; and
+(ii) recommend coordination with those countries on—
+(I) sourcing critical goods and services, industrial equipment, and manufacturing technology; and
+(II) developing, sustaining, and expanding production and availability of supply chains, critical goods and services, industrial equipment, and manufacturing technology during a supply chain shock;
+(I) make recommendations for strengthening the financial and operational health of small- and medium-sized businesses in supply chains of the United States and countries that are allies or key international partners of the United States to mitigate risks and ensure diverse and competitive supplier markets that are less vulnerable to failure;
+(J) make an assessment of policies, rules, and regulations that impact domestic manufacturers’ operating costs and inhibit the ability for domestic manufacturing to compete with global competitors; and
+(K) make recommendations regarding freight and logistics necessary to support supply chains.
+(3) PROHIBITION.—The report may not include—
+(A) supply chain information that is not aggregated; or
+(B) confidential business information of a private sector entity.
+(4) COLLABORATION.—The head of any Federal agency with jurisdiction over any supply chain shall collaborate with the Under Secretary and provide any information, data, or assistance that the Under Secretary determines to be necessary for developing the report.
+(5) FORM.—The report submitted under this subsection, and any update submitted thereafter, shall be submitted in unclassified form and may include a classified annex.
+(6) PUBLIC COMMENT.—The Under Secretary shall provide for a period of public comment and review in developing the report required under paragraph (1).(j) Report To Congress.—Concurrent with the annual submission by the President of the budget under section 1105 of title 31, United States Code, the Secretary shall submit to the relevant committees of Congress and post on the website of the Under Secretary a report that contains a summary of the activities required under subsection (e) carried out under this section during the fiscal year covered by the report. Such report shall be submitted in unclassified form and may include a classified annex.
+(k) Coordination.—
+(1) IN GENERAL.—In implementing the requirements under subsection (i), the Under Secretary shall, as appropriate coordinate with—
+(A) the heads of appropriate Federal agencies, including—
+(i) the Secretary of State; and
+(ii) the United States Trade Representative; and
+(B) the Attorney General and the Federal Trade Commission with respect to—
+(i) advice on the design and activities of the unified coordination group described in subsection (g)(1); and
+(ii) ensuring compliance with Federal antitrust law.
+(2) SPECIFIC COORDINATION.—In carrying out the requirements under this section, with respect to supply chains involving specific sectors, the Under Secretary shall, as appropriate, coordinate with—
+(A) the Secretary of Defense;
+(B) the Secretary of Homeland Security;
+(C) the Secretary of the Treasury;
+(D) the Secretary of Energy;
+(E) the Secretary of Transportation;
+(F) the Secretary of Agriculture;
+(G) the Under Secretary of National Intelligence;
+(H) the Secretary of Health and Human Services;
+(I) the Small Business Administration;
+(J) the Secretary of Labor; and
+(K) the heads of other relevant Federal agencies, as appropriate.
+(l) Rule Of Construction.—Nothing in this section shall be construed to require any private entity—
+(1) to share information with the Secretary or Under Secretary;
+(2) to request assistance from the Secretary or Under Secretary; or
+(3) that requests assistance from the Secretary or Under Secretary to implement any measure or recommendation suggested by the Secretary or Under Secretary.(m) Protections.—
+(1) IN GENERAL.—Supply chain information that is voluntarily and lawfully submitted by a private entity and accompanied by an express statement described in paragraph (2) of this subsection—
+(A) shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code;
+(B) shall not be made available by any Federal, State, local, or Tribal authority pursuant to any Federal, State, local, or Tribal law requiring public disclosure of information or records; and
+(C) shall not, without the written consent of the person or entity submitting such information, be used directly by the Under Secretary, or any other Federal, State, or local authority in any civil enforcement action brought by a Federal, State, or local authority.
+(2) EXPRESS STATEMENT.—The express statement described in this paragraph, with respect to information or records, is—
+(A) in the case of written information or records, a written marking on the information or records substantially similar to the following: “This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of section 2(m) of the Supply Chain Mapping and Monitoring Act.”; or
+(B) in the case of oral information, a written statement similar to the statement described in subparagraph (A) submitted within a reasonable period following the oral communication.
+(3) INAPPLICABILITY TO SEMICONDUCTOR INCENTIVE PROGRAM.—This subsection shall not apply to the voluntary submission of supply chain information by a private entity in an application for Federal financial assistance under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).
+(n) No Effect On Discovery.—Subject to subsection (m), nothing in this section, nor any rule, regulation, or amendment shall be construed to create a defense to a discovery request, or otherwise limit or affect the discovery of supply chain information from a private entity arising from a cause of action authorized under any under Federal, State, local, or Tribal law.(o) Implementation Report.—
+(1) IN GENERAL.—Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the relevant committees of Congress and post on the website of the Under Secretary a report on the implementation of this section.
+(2) ELEMENTS.—In carrying out paragraph (1), the Secretary shall—
+(A) identify any office or bureau within the Department of Commerce that the Secretary determines has duties, responsibilities, resources, or expertise that support or duplicate the mission of the Office;
+(B) describe the purposes of the offices or bureaus identified under subparagraph (A);
+(C) identify if the Under Secretary is coordinating with the offices and bureaus identified under subparagraph (A) in implementing the requirements of this Act;
+(D) if the Secretary makes a positive determination under subparagraph (C), evaluate the effectiveness and efficiency of the Under Secretary and the offices and bureaus identified under subparagraph (A) at implementing the requirements of this section; and
+(E) identify if the Secretary will consolidate functions amongst the Office and the offices and bureaus identified under subparagraph (A).
+(p) Consistency With International Agreements.—This section shall be applied in a manner consistent with United States obligations under international agreements.
+(q) Authorization Of Appropriations.—There is authorized to be appropriated to the Under Secretary $500,000,000 for fiscal years 2024 through 2028, to remain available until expended, to carry out this section, of which not more than 2 percent per fiscal year may be used for administrative costs.

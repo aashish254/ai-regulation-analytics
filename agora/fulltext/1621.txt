@@ -1,0 +1,46 @@
+AN ACT RELATING TO MOTOR VEHICLES OPERATED BY AN AUTOMATED DRIVING SYSTEM, AND MAKING PENALTIES APPLICABLE. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+
+
+Section 1. NEW SECTION. 321.514 Definitions.
+As used in this section and sections 321.515 through 321.519, unless the context otherwise requires:
+1. “Automated driving system” means the hardware and software collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether the system is limited to a specific operational design domain, if any.
+2. “Conventional human driver” means a natural person who manually controls the in-vehicle accelerating, braking, steering, and transmission gear selection input devices in order to operate a motor vehicle.
+3. ''Driver less-capable vehicle" means a system-equipped vehicle capable of performing the entire dynamic driving task within the automated driving system's operational design domain, if any, including but not limited to achievement of a minimal risk condition without intervention or supervision by a conventional human driver.
+4. ''Dynamic driving task" means all real-time operational and tactical functions required to operate a motor vehicle on a highway in traffic within an automated driving system's specific operational design domain, if any. “Dynamic driving task” does not include any strategic function such as trip scheduling or the selection of destinations and waypoints.
+5. ''Minimal risk condition” means a reasonably safe state to which an automated driving system brings a system-equipped vehicle upon experiencing a performance-relevant failure of the system that renders the system unable to perform the entire dynamic driving task, including but not limited to removing the vehicle to the nearest shoulder if the vehicle is capable of doing so, bringing the vehicle to a complete stop, and activating the vehicle's emergency signal lamps.
+6. ''on-demand driverless-capable vehicle network" means a transportation service network that uses a software application or other digital means to dispatch driverless-capable vehicles for the purposes of transporting persons or goods, including transportation for hire as defined in section 325A.l, and public transportation.
+7. “Operational design domain” means a set of constraints used to define the domain under which an automated driving system is designed to properly operate, including but not limited to types of highways, speed ranges, environmental conditions such as weather or time of day, and other constraints.
+8. “System-equipped vehicle” means a motor vehicle equipped with an automated driving system.
+
+
+Sec. 2. NEW SECTION. 321.515 Operation.
+1. A driverless-capable vehicle may operate on the public highways of this state without a conventional human driver physically present in the vehicle, if the vehicle meets all of the following conditions:
+a. The vehicle is capable of achieving a minimal risk condition if a malfunction of the automated driving system occurs that renders the system unable to perform the entire dynamic driving task within the system's intended operational design domain, if any.
+b. While in driverless operation, the vehicle is capable of operating in compliance with the applicable traffic and motor vehicle safety laws and regulations of this state that govern the performance of the dynamic driving task, unless an exemption has been granted to the vehicle by the department.
+c . The vehicle has been certified by the vehicle's manufacturer to be in compliance with all applicable federal motor vehicle safety standards, except to the extent an exemption has been granted for the vehicle under applicable federal law or by the national highway traffic safety administration.
+
+
+2. a. The operation of a system-equipped vehicle capable of performing the entire dynamic driving task within the automated driving system's operational design domain on the public highways of this state while a conventional human driver is present in the vehicle shall be lawful. During such operation, the conventional human driver shall possess a valid driver's license pursuant to section 321.174 and shall be subject to the financial liability coverage requirements and penalties set forth under section 321.20B. The conventional human driver shall operate the system-equipped vehicle according to the manufacturer's requirements and specifications, and shall regain manual control of the vehicle when prompted by the automated driving system.
+b. An automated driving system, while engaged, shall be designed to operate within the system's operational design domain in compliance with the applicable traffic and motor vehicle safety laws and regulations of this state that govern the performance of the dynamic driving task, unless an exemption has been granted to the vehicle by the department.
+
+
+3. Except as provided in this section, the motor vehicle laws of this state shall not be construed to require a conventional human driver to operate a driverless-capable vehicle that is being operated by an automated driving system. The automated driving system, while engaged, shall be deemed to fulfill any physical acts required of a conventional human driver to perform the dynamic driving task.
+
+
+Sec. 3. NEW SECTION. 321.516 Insurance.
+Before a system-equipped vehicle is allowed to operate on the public highways of this state, the owner shall obtain financial liability coverage for the vehicle. A system-equipped vehicle shall not operate on the highways of this state unless financial liability coverage is in effect for the vehicle and unless proof of financial liability coverage is carried in the vehicle pursuant to section 321.20B.
+
+
+Sec. 4. NEW SECTION. 321.517 Accidents.
+In the event of an accident in which a system-equipped vehicle is involved, the vehicle shall remain at the scene of the accident and the operation of the vehicle shall otherwise comply with sections 321.261 through 321.273 where applicable and to the extent possible, and the vehicle's owner or a person on behalf of the vehicle's owner shall promptly report the accident to law enforcement authorities. If a system-equipped vehicle fails to remain at the scene of an accident or the operation of the vehicle fails to otherwise comply with sections 321.261 through 321.273 where applicable and to the extent possible as required by this section, the vehicle's failure shall be imputed to the vehicle's owner, and the vehicle's owner may be charged and convicted of a violation of sections 321.261 through 321.273, as applicable.
+
+
+Sec. 5. NEW SECTION. 321.518 On-demand driverless-capable vehicle network.
+A person may operate an on-demand driverless-capable vehicle network. An on-demand driverless-capable vehicle network may be used to facilitate the transportation of persons or goods, including transportation for hire as defined in section 325A.l, and public transportation. An on-demand driverless-capable vehicle network may connect passengers to driverless-capable vehicles either exclusively or as part of a digital network that also connects passengers to conventional human drivers who provide transportation services, consistent with chapter 321N or any other applicable laws, in vehicles that are not driverless-capable vehicles.
+
+
+Sec. 6. NEW SECTION. 321.519 Authority.
+1. Automated driving systems and system-equipped vehicles shall be governed by sections 321.514 through 321.518, this section, and all applicable traffic and motor vehicle safety laws and regulations of this state. Automated driving systems and system-equipped vehicles shall be regulated exclusively by the department. The department may adopt rules pursuant to chapter 17A to administer sections 321.514 through 321.518, and this section.
+
+
+2. A political subdivision of the state shall not impose requirements, including but not limited to performance standards, specific to the operation of system-equipped vehicles, automated driving systems, or on-demand driverless-capable vehicle networks that are in addition to the requirements set forth under sections 321.514 through 321.518. A political subdivision of the state shall not impose a tax on system-equipped vehicles, automated driving systems, or on-demand driverless-capable vehicle networks where such tax relates specifically to the operation of system-equipped vehicles, automated driving systems, or on-demand driverless-capable vehicle networks.

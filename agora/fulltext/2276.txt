@@ -1,0 +1,28 @@
+A BILL
+To amend the Federal Food, Drug, and Cosmetic Act to clarify that artificial intelligence and machine learning technologies can qualify as a practitioner eligible to prescribe drugs if authorized by the State involved and approved, cleared, or authorized by the Food and Drug Administration, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Healthy Technology Act of 2025”.
+
+
+SEC. 2. Prescription of drugs by artificial intelligence or machine learning technologies.
+
+
+Section 503(b) of Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)) is amended by adding at the end the following:
+
+
+
+
+“(6) In this subsection, the term ‘practitioner licensed by law to administer such drug’ includes artificial intelligence and machine learning technology that are—
+
+
+“(A) authorized pursuant to a statute of the State involved to prescribe the drug involved; and
+
+
+“(B) approved, cleared, or authorized under section 510(k), 513, 515, or 564.”.

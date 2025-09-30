@@ -1,0 +1,59 @@
+5. Key recommendations for AI standardization work
+Based on the current state of AI technology and industry development, together with the
+progress of standardization work and the establishment of the standards system, we propose key
+work recommendations for China’s AI standardization.
+(1) Improve the working mechanism and help industry to achieve healthy and
+sustainable development
+AI is deeply integrated into the real economy, and the standardization of AI is exhibiting a
+trend of collaborative participation in multiple fields. First, through the National Information
+Technology Standardization Technical Committee’s AI Technical Subcommittee (SAC/TC
+28/SC 42), the standardization of new generation information technology fields such as AI, the
+Internet of Things (IoT), cloud computing, and big data should be coordinated and promoted to
+strengthen the application of AI in vertical fields. Second, the role of the national AI
+standardization working group platform should be given full play to coordinate the development
+of AI standards in the real economy and related fields, and to absorb the energy of government,
+industry, academia, research institutes, and users to jointly promote AI standardization.
+(2) Develop key standards and improve the AI standards system
+The development of key AI standards must be promoted based on the principles of
+“advantages first, maturity first, lead with basics, and be application-driven.” The first is to
+consolidate the industrial foundation with a focus on the development of standards such as
+performance benchmarks, hardware virtual interfaces, and development framework compatibility
+specifications. The second is to support industrial applications and develop a number of
+industrial application standards around areas with a certain industrial scale, such as intelligent
+speech and computer vision. The third is to promote integrated development with the goal of
+supporting the deep integration of AI into the real economy and to develop a batch of industry
+application standards for applications such as smart transportation, smart healthcare, and smart
+classrooms.
+(3) Carry out pilot demonstrations to improve industrial service capabilities
+China’s AI standardization work is progressing steadily, and relevant standards are being
+successively released. Governments and relevant departments at all levels must play a guiding
+role to strengthen the promotion of AI standardization. The first is to carry out propaganda and
+promotion activities around key standards such as machine learning models and machine
+translation capability evaluations, combining the application of standards with the development
+of the AI industry. The second is to promote the construction of a standard compliance
+assessment system, focusing on selecting national AI innovation application pilot zones and
+national new generation AI innovation development test zones to carry out standard application
+demonstrations. The third is to build an AI standardization public technology service platform,
+improve the service capability of standardization for industry, and support basic and general
+purpose technology research and development, third-party evaluations, and other such work.
+(4) Create de facto standards (事实标准) and enhance industry competitiveness
+A de facto standard is the assassin's mace (杀手锏) of industry competition. By
+summarizing the outreach experience of information technology standards such as DCMM,
+ITSS, and CMMI, a cultivation model should be explored for China’s de facto AI standards. By
+combining major works and major projects around the open-source community and new
+infrastructure construction, and through consulting on training, testing and evaluation, product 
+certification, and other means, standards should be promoted with large-scale promotion and
+applications to create a batch of de facto AI standards.
+(5) Strengthen international exchanges and promote the global promotion of
+Chinese wisdom
+The first is to actively connect with international standards organizations such as ISO/IEC
+JTC 1 and continue to strengthen participation in AI international standards. The second is to
+rely on the National Artificial Intelligence Standardization General Working Group and the
+National Information Technology Standardization Technical Committee Artificial Intelligence
+Technical Subcommittee to organize the participation of domestic standardization institutions
+and enterprises in the formulation and revision of international standards and to contribute
+Chinese wisdom to international standard proposals. The third is to support domestic experts in
+assuming the positions of secretary and convener in the International Organization for
+Standardization to enhance the right to speak internationally. The fourth is to actively host
+international conferences and forums related to AI, deepen bilateral and multilateral cooperation
+in the field of AI, and achieve mutual benefits.

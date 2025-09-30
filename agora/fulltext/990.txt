@@ -1,0 +1,126 @@
+ SEC. 102. SANCTIONS WITH RESPECT TO COMMUNIST CHINESE MILITARY AND SURVEILLANCE COMPANIES.
+
+
+(a) In General.—Not later than 180 days after the date of the enactment of this Act, the President shall impose the sanctions described in subsection (e) with respect to any foreign person determined by the Secretary of the Treasury, in consultation with the Secretary of State and, as the Secretary of the Treasury determines appropriate, the Secretary of Defense, to knowingly engage in significant operations in the defense and related materiel sector or the surveillance technology sector of the economy of the People’s Republic of China.
+
+ (b) Annual Determination And Report.—Not less frequently than annually, the Secretary of the Treasury shall—
+
+
+(1) undertake the determination described under subsection (a) with respect to foreign persons listed in the Annex to Executive Order 14032 (as amended by any revision to such Annex); and
+
+
+(2) submit a report explaining the results of the determination to the appropriate congressional committees.
+
+ (c) Assessment.—For the purpose of making the determination described under subsection (a), the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Commerce, and the Secretary of Defense, shall—
+
+
+(1) assess whether, under existing authorities, sanctions should be imposed with respect to the activities of—
+
+
+(A) foreign persons listed on the Military End User List (Supplement No. 7 to part 744 of the Export Administration Regulations) that are located in the People’s Republic of China;
+
+
+(B) foreign persons listed by the Department of Commerce on the Denied Persons List or the Entity List (Supplement No. 4 to part 744 of the Export Administration Regulations) that are located in the People’s Republic of China; or
+
+
+(C) foreign persons listed pursuant to section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note); and
+
+
+(2) submit a report to the appropriate congressional committees summarizing such assessment, which shall include an explanation of why the sanctions described under subsection (e) may not be applicable to foreign persons included on the lists described under paragraph (1).
+
+ (d) Consideration Of Certain Activities.—For the purpose of making the determination described under subsection (a), the Secretary of the Treasury may, to the extent practicable, focus particular attention on foreign persons engaging in any of the following:
+
+
+(1) Artificial intelligence, machine learning, autonomy, and related advances.
+
+
+(2) High-performance computing, semiconductors, and advanced computer hardware and software.
+
+
+(3) Quantum information science and technology.
+
+
+(4) Robotics, automation, and advanced manufacturing.
+
+
+(5) Advanced communications technology and immersive technology.
+
+
+(6) Biotechnology, medical technology, genomics, and synthetic biology.
+
+
+(7) Data storage, data management, and cybersecurity, including biometrics.
+
+
+(8) Advanced materials science, including composites and 2D materials.
+
+ (e) Sanctions Described.—The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a foreign person if such property and interests in property—
+
+
+(1) are in the United States;
+
+
+(2) come within the United States; or
+
+
+(3) come within the possession or control of a United States person.
+
+ (f) Implementation.—The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+
+ (g) Penalties.—The penalties set forth in section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) apply to violations of any license, order, or regulation issued under this section.
+
+ (h) Waiver.—The President may waive the application of sanctions under this section, for renewable periods of one year, if the President certifies in writing to the appropriate congressional committees that the waiver is in the national interest of the United States, with an explanation of the reasons therefor. In lieu of the imposition of such sanctions, the President shall prohibit the purchase or sale of any publicly traded securities, or any publicly traded securities that are derivative of such securities, issued by any person with respect to which sanctions were waived.
+
+ (i) Exceptions.—
+
+
+(1) INTELLIGENCE AND LAW ENFORCEMENT ACTIVITIES.—Sanctions under this section shall not apply with respect to—
+
+
+(A) any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.); or
+
+
+(B) any authorized intelligence or law enforcement activities of the United States.
+
+
+(2) UNITED STATES GOVERNMENT ACTIVITIES.—Nothing in this section shall prohibit transactions for the conduct of the official business of the Federal Government by employees, grantees, or contractors thereof.
+
+
+(3) HUMANITARIAN ACTIVITIES.—The President may not impose sanctions under this section with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices or for the provision of humanitarian assistance.
+
+ (j) Exception Relating To Importation Of Goods.—
+
+
+(1) IN GENERAL.—The authorities and requirements to impose sanctions authorized under this section shall not include the authority or requirement to impose sanctions on the importation of goods.
+
+
+(2) GOOD DEFINED.—In this subsection, the term “good” means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+
+ (k) Definitions.—In this section—
+
+
+(1) the term “appropriate congressional committees” means—
+
+
+(A) the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
+
+
+(B) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate;
+
+
+(2) the term “foreign person” means an individual or entity that is not a United States person;
+
+
+(3) the term “United States person” means—
+
+
+(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States;
+
+
+(B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
+
+
+(C) a person in the United States; and
+
+
+(4) the term “knowingly” with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.

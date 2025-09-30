@@ -1,0 +1,64 @@
+Measures for Labeling of AI-Generated Synthetic Content
+
+Article 1: These Measures are drafted on the basis of the PRC Cybersecurity Law, the Provisions on the Management of Algorithmic Recommendations in Internet Information Services, the Provisions on the Administration of Deep Synthesis Internet Information Services, the Measures on the Administration of Generative Artificial Intelligence Services, and other relevant laws, administrative regulations, and departmental rules, so as to promote the healthy development of artificial intelligence, standardize the labeling of AI-generated synthesized content, protect the lawful rights and interests of citizens, legal persons, and other organizations, and preserve the societal public interest. 　　
+
+Article 2: These Measures apply to the labeling of AI-generated synthetic content by Online information service providers that meet the requirements of the Provisions on the Management of Algorithmic Recommendations in Internet Information Services, the Provisions on the Administration of Deep Synthesis Internet Information Services, the Measures on the Administration of Generative Artificial Intelligence Services (hereinafter "service providers"). 　　
+
+Article 3: "AI-generated synthetic content" refers to text, images, audio, video, virtual scenes, or other information that is generated or synthesized using AI technology. 　　
+
+The labeling of AI-generated synthetic content includes explicit and implicit labeling. 　　
+
+"Explicit labels" refers to labels added to generated synthetic content or interactive scenario interfaces, which appear in forms such as text, sound, or images, and can be clearly perceived by users. 　　
+"Implicit Labels" refers to labels added to generated synthetic content file data by employing technical measures, which are not easily perceived or known of by users. 　　
+
+Article 4: Where the generative or synthesis services provided by service providers fall within the situations of the first paragraph of Article 17 of the Provisions on the Administration of Deep Synthesis Internet Information Services, explicit labels shall be added to the generated synthetic content in accordance with the following requirements:
+
+(1) Add labels such as text notifications, or notifications using common symbols, at appropriate positions in the beginning, end, or middle of text, or add conspicuous notification labels in interactive scenario interfaces or beside text;
+
+(2) Add labels such as voice notifications or audio and rhythmic notifications at appropriate positions in the beginning, end, or middle of audio, or add conspicuous notification labels in interactive scenario interfaces;
+
+(3） Add conspicuous notification labels in appropriate places in images;
+
+(4) Add conspicuous notification labels to video starting screens of at appropriate positions around the video playback area; conspicuous notification labels may be added to the end and middle of the video at appropriate locations;
+
+(5) When presenting virtual scenes, conspicuous notification labels shall be added in appropriate positions on the starting screen, and conspicuous notification labels can be added in appropriate positions during the ongoing virtual scene services;
+
+(6) Explicit labels that are effective in giving conspicuous notice should be added in other generation and synthesis service scenarios based on the characteristics of the applications. 　　
+
+When service providers provide functions such as for downloading, reproducing, or exporting generated synthetic content, they shall ensure that the files contain explicit labels that satisfy these requirements. 　　
+
+Article 5: Service providers shall add implicit labels to the metadata of generated synthetic content files in accordance with Article 16 of the Provisions on the Administration of Deep Synthesis Internet Information Services; the implicit labels are to include production factor information such as the generated synthetic content's attribute information, the service providers' name or code, and the content reference number. 　　
+
+Service providers are encouraged to add implicit labels to generated synthetic content in forms such as digital watermarks. 　　
+
+"File Metadata" refers to descriptive information embedded in the file header according to a specific encoding format, which is used to record information content such as the file source, attributes, and uses. 　　
+
+Article 6: Service providers who provide online information content transmission platform services shall employ measures to regulate the transmission of generated synthetic content:
+
+(1) Verify whether the file metadata contains implicit labels, and where the metadata's implicit labels make clear that it is generated synthetic content, employ appropriate means to add conspicuous notification labels around the published content to clearly alert users that the content is generated synthetic content;
+
+(2) Where implicit labels are not verified in the file metadata, but the users assert that it is generated synthetic content; employ appropriate means to add conspicuous notification labels around the published content, alerting users that the content might be generated synthetic content;
+
+(3) Where implicit labels are not verified in the file metadata, and users have also not asserted that it is generated synthetic content, but the service providers who are providing the online information content transmission services detect explicit labels or other traces of generation and synthesis and it can be identified as suspected generated synthetic content; employ appropriate measures to add conspicuous notification labels around the published content, alerting users that the content is suspected of being generated synthetic content;
+
+(4) Provide necessary labeling functions and alert users to proactively assert whether published content includes generated synthetic content. 　　
+
+In the situations provided for in items (1)-(3) of the preceding paragraph, transmission factor information such as content attribute information, the transmission platform's name or code, and the content reference number shall be added to the file metadata. 　　
+
+Article 7: When internet application distribution platforms conduct reviews for placing applications on the market or online, they shall request the internet application service provider to provide an explanation of whether it provides generative AI services. 　　Where internet application service providers are providing generative AI services, the internet application distribution platform shall check materials related to the labeling of generated synthetic content. 　　
+
+Article 8: Service providers shall clearly explain the methods, styles, and other such specifications for labeling generated synthetic content in user service agreements, and notify users to carefully read and understand the corresponding labeling management requirements. 　　
+
+Article 9: Where users request that service providers provide generated synthetic content without explicit labels added, then, after clearly indicating users' labeling obligations and usage responsibilities through the service agreement, they may provide generated synthetic content that does not contain explicit labels and are to store the relevant logs for at least 6 months in accordance with law. 　　
+
+Article 10: Where users use online information content transmission services to publish generated synthetic content, they shall proactively declare it and use the labeling functions provided by the platform to make labels. 　　
+
+The generated synthetic content labels provided for in these Measures must not be maliciously deleted, altered, fabricated, or concealed by any organization or individual, tools and services must not be provided for others to carry out the malicious conduct described above, and the lawful rights and interests of others must not be harmed through the improper labeling. 　　
+
+Article 11: Where service providers carry out labeling activities, they shall comply with relevant laws, administrative regulations, departmental rules, and the requirements of mandatory national standards. 　　
+
+Article 12: When service providers perform procedures such as for filing algorithms or for safety assessments, they shall provide materials related to labeling generated synthetic content in accordance with these Measures, and strengthen label information sharing to prevent and combat the provision of support and assistance for related illegal and criminal activities. 　　
+
+Article 13: Where the provisions of these Measures are violated, relevant regulatory departments such as for internet information, telecommunications, public security, television, and radio are to address it in accordance with relevant laws, administrative regulations, and departmental rules. 　　
+
+Article 14: These measures are to take effect from September 1, 2025.

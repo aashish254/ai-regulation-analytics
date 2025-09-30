@@ -1,0 +1,51 @@
+ THE GENERAL ASSEMBLY OF PENNSYLVANIA
+HOUSE BILL
+No. 49 Session of 2023
+
+
+INTRODUCED BY MERCURI, ARMANINI, COOK, SCHLEGEL CULVER, FLICK, JAMES, JOZWIAK, PICKETT AND SMITH, MARCH 7, 2023
+
+
+REFERRED TO COMMITTEE ON COMMERCE, MARCH 7, 2023 
+
+
+AN ACT
+
+
+Amending the act of April 9, 1929 (P.L.177, No.175), entitled "An act providing for and reorganizing the conduct of the executive and administrative work of the Commonwealth by the Executive Department thereof and the administrative departments, boards, commissions, and officers thereof, including the boards of trustees of State Normal Schools, or Teachers Colleges; abolishing, creating, reorganizing or authorizing the reorganization of certain administrative departments, boards, and commissions; defining the powers and duties of the Governor and other executive and administrative officers, and of the several administrative departments, boards, commissions, and officers; fixing the salaries of the Governor, Lieutenant Governor, and certain other executive and administrative officers; providing for the appointment of certain administrative officers, and of all deputies and other assistants and employes in certain departments, boards, and commissions; providing for judicial administration; and prescribing the manner in which the number and compensation of the deputies and all other assistants and employes of certain departments, boards and commissions shall be determined," in powers and duties of the Department of State and its departmental administrative board, providing for artificial intelligence registry.
+
+ The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+
+
+Section 1. The act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, is amended by adding a section to read:
+
+
+Section 817. Artificial Intelligence Registry.
+
+
+(a) The Department of State shall establish a registry of businesses operating artificial intelligence systems in this Commonwealth.
+
+ (b) The Department of State shall coordinate with other State agencies that have contact with businesses operating artificial intelligence systems to establish a paper and an online registry form to enable State agencies to assist the Department of State in registering businesses in the registry.
+
+ (c) The Department of State shall provide access to a paper and an online registry form which must contain a statement indicating the purpose for the registry. The forms shall be developed to obtain the following information relating to the business operating artificial intelligence systems:
+(1) The name of the business operating artificial intelligence systems.
+(2) The IP address of the business.
+(3) The type of code the business is utilizing for artificial intelligence.
+(4) The intent of the software being utilized.
+(5) The personal information and first and last name of a contact person at the business.
+(6) The address, electronic email address and ten-digit telephone number of the contact person under paragraph (5).
+(7) A signed statement, or, for online applicants, a box that is checked, indicating that the business operating an artificial intelligence system has agreed for the Department of State to store the business' information on the registry.
+
+ (d) Information collected under this section may not be sold or used for commercial purposes or used for purposes not specified under this section. Information collected under this section for the registry shall be exempt from disclosure under the act of February 14, 2008 (P.L.6, No.3), known as the Rightto-Know Law.
+
+ (e) The department shall maintain a searchable online database for businesses operating artificial intelligence systems.
+
+ (f) By January 1, 2024, and each January 1 thereafter, the Department of State shall submit to the chairperson and minority chairperson of the Commerce Committee of the Senate and the chairperson and minority chairperson of the Commerce Committee of the House of Representatives a report on the registry which shall include:
+(1) The total number of businesses operating artificial intelligence systems registered with the Department of State.
+(2) The number of registrants received by each State agency.
+(3) Expenses incurred by the Department of State.
+
+ (g) As used in this section, the term "artificial intelligence" shall mean the theory and development of computer systems able to perform tasks that normally require human intelligence.
+
+
+Section 2. This act shall take effect in 60 days.

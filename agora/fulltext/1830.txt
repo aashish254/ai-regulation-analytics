@@ -1,0 +1,445 @@
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+
+     SECTION 1. [NEW MATERIAL] SHORT TITLE.--This act may be cited as the "Artificial Intelligence Act".
+
+     SECTION 2. [NEW MATERIAL] DEFINITIONS.--As used in the Artificial Intelligence Act:
+
+          A. "algorithmic discrimination" means any condition in which the use of an artificial intelligence system results in an unlawful differential treatment or impact that disfavors a person on the basis of the person's actual or perceived age, color, disability, ethnicity, gender, genetic information, proficiency in the English language, national origin, race, religion, reproductive health, veteran status or other status protected by state or federal law, but does not include:
+
+                (1) the offer, license or use of a high-risk artificial intelligence system by a developer or deployer for the sole purpose of:
+
+                     (a) the developer's or deployer's self-testing to identify, mitigate or ensure compliance with state and federal law; or
+
+                     (b) expanding an applicant, customer or participant pool to increase diversity or redress historical discrimination; or
+
+                (2) an act or omission by or on behalf of a private club or other entity that is not open to the public pursuant to federal law;
+
+          B. "artificial intelligence system" means any machine-based system that for an explicit or implicit objective infers from the inputs the system receives how to generate outputs, including content, decisions, predictions or recommendations, that can influence physical or virtual environments;
+
+C. "consequential decision" means a decision that has a material legal or similarly significant effect on the provision or denial to a consumer of or the cost or terms of:
+
+                (1) education enrollment or an educational opportunity;
+
+                (2) employment or an employment opportunity;
+
+                (3) a financial or lending service;
+
+                (4) health care service;
+
+                (5) housing;
+
+                (6) insurance; or
+
+                (7) legal service;
+
+          D. "consumer" means a resident of New Mexico;
+
+          E. "deploy" means to use an artificial intelligence system;
+
+          F. "deployer" means a person who deploys an artificial intelligence system;
+
+          G. "developer" means a person who develops or intentionally and substantially modifies an artificial intelligence system;
+
+          H. "health care services" means treatment, services or research designed to promote the improved health of a person, including primary care, prenatal care, dental care, behavioral health care, alcohol or drug detoxification and rehabilitation, hospital care, the provision of prescription drugs, preventive care or health outreach;
+
+I. "high-level summary" means information about the data and data sets used to train the high-risk artificial intelligence system, including:
+
+                (1) the sources or owners of the data sets and whether the data sets were purchased or licensed by the developer;
+
+                (2) the factors in the data, including attributes or other information about a consumer, that the system uses to produce its outputs, scores or recommendations;
+
+                (3) the demographic groups represented in the data sets and the proportion of each age, ethnic, gender or racial group in each dataset;
+
+                (4) a description of the types of data points within the data sets, including, for data sets that include labels, a description of the types of labels used;
+
+                (5) whether the data sets include any data protected by copyright, trademark or patent or whether the data sets are entirely in the public domain;
+
+                (6) whether there was any cleaning, processing or other modification to the data sets by the developer, including the intended purpose of those efforts in relation to the high-risk artificial intelligence system;
+
+                (7) the time period during which the data in the data sets were collected, including a notice when data collection is ongoing;
+
+                (8) the geographical regions or jurisdictions in which the data sets were collected, including whether the data sets were collected solely in New Mexico, solely in other states or in New Mexico in combination with other states; and
+
+                (9) other information as required by the state department of justice by rule;
+
+J. "high-risk artificial intelligence system" means any artificial intelligence system that when deployed makes or is a substantial factor in making a consequential decision, but does not include:
+
+                (1) an artificial intelligence system intended to:
+
+                     (a) perform a narrow procedural task; or
+
+                     (b) detect decision-making patterns or deviations from prior decision-making patterns and is not intended to replace or influence a previously completed human assessment without sufficient human review; or
+
+                (2) the following technologies, unless the technologies make or are a substantial factor in making a consequential decision when the technologies are deployed:
+
+                     (a) anti-fraud technology that does not use facial recognition technology;
+
+                     (b) anti-malware;
+
+                     (c) antivirus;
+
+                     (d) artificial-intelligence-enabled video games;
+
+                     (e) calculators;
+
+                     (f) cybersecurity;
+
+                     (g) databases;
+
+                     (h) data storage;
+
+                     (i) firewalls;
+
+                     (j) internet domain registration;
+
+                     (k) internet website loading;
+
+                     (l) networking;
+
+                     (m) spam and robocall filtering;
+
+                     (n) spell checking;
+
+                     (o) spreadsheets;
+
+                     (p) web caching;
+
+                     (q) web hosting or similar technology; or
+
+                     (r) technology that communicates with consumers in natural language for the purpose of providing users with information, making referrals or recommendations and answering questions and is subject to an accepted use policy that prohibits generating content that is discriminatory or harmful;
+
+K. "intentional and substantial modification" and "intentionally and substantially modifies" means a deliberate change made to an artificial intelligence system that results in a new reasonably foreseeable risk of algorithmic discrimination, but does not include a change made to a high-risk artificial intelligence system or the performance of a high-risk artificial intelligence system when:
+
+                (1) the high-risk artificial intelligence system continues to learn after the system is:
+
+                     (a) offered, sold, leased, licensed, given or otherwise made available to a deployer; or
+
+                     (b) deployed;
+
+                (2) the change is made as a result of system learning after being made available to a deployer or being deployed;
+
+                (3) the change was predetermined by the deployer or a third party contracted by the deployer when the deployer or third party completed an impact assessment of the high-risk artificial intelligence system pursuant to Section 6 of the Artificial Intelligence Act; or
+
+                (4) the change is included in technical documentation for the high-risk artificial intelligence system;
+
+          L. "offered or made available" includes a gift, lease, sale or other conveyance of an artificial intelligence system to a recipient deployer or a developer other than the original system developer;
+
+          M. "recipient" means a deployer who has received an artificial intelligence system from a developer or a developer who has received an artificial intelligence system from another developer;
+
+          N. "risk incident" means an incident when a developer discovers or receives a credible report from a deployer that a high-risk artificial intelligence system offered or made available by the developer has caused or is reasonably likely to have caused algorithmic discrimination;
+
+O. "substantial factor" means:
+
+                (1) a factor that:
+
+                     (a) assists in making a consequential decision;
+
+                     (b) is capable of altering, advising or influencing the outcome of a consequential decision; and
+
+                     (c) is generated by an artificial intelligence system; or
+
+                (2) content, decisions, labels, predictions, recommendations or scores generated by an artificial intelligence system concerning a consumer that are used as a basis, partial basis or recommendation to make a consequential decision concerning the consumer; and
+
+          P. "trade secret" means information, including a formula, pattern, compilation, program, device, method, technique or process, that:
+
+                (1) derives independent economic value, actual or potential, from not being generally known to and not being readily ascertainable by proper means by other persons who could obtain economic value from the information's disclosure or use; and
+
+                (2) is the subject of efforts that are
+
+reasonable under the circumstances to maintain its secrecy.
+
+SECTION 3. [NEW MATERIAL] DUTY OF CARE--DISCLOSURE OF RISK POTENTIAL--PROVISION OF DOCUMENTATION.--A developer shall:
+
+          A. use reasonable care to protect consumers from known or foreseeable risks of algorithmic discrimination arising from intended and contracted uses of a high-risk artificial intelligence system;
+
+          B. except for information excluded pursuant to Subsection C of Section 4 of the Artificial Intelligence Act, make the following available to a recipient of the developer's high-risk artificial intelligence system:
+
+                (1) a general summary describing the reasonably foreseeable uses and known harmful or inappropriate uses of the system; and
+
+                (2) documentation disclosing:
+
+                     (a) the purpose, intended uses and benefits of the system;
+
+                     (b) a high-level summary of the type of data used to train the system;
+
+                     (c) known or reasonable foreseeable limitations of the system, including the risk of algorithmic discrimination arising from the intended use of the system;
+
+                     (d) how the system was evaluated for performance and mitigation of algorithmic discrimination prior to being offered or made available to the deployer, including: 1) the metrics of performance and bias that were used; 2) how the metrics were measured; 3) any independent studies carried out to evaluate the system for performance and risk of discrimination; and 4) whether the studies are publicly available or peer-reviewed;
+
+                     (e) the measures governing the data sets used to train the system, the suitability of data sources, possible biases and bias mitigation;
+
+                     (f) the intended outputs of the system;
+
+                     (g) the measures the developer has taken to mitigate known or reasonably foreseeable risks of algorithmic discrimination that are reasonably foreseeable from the use of the system;
+
+                     (h) how the system should be used and monitored by the deployer;
+
+                     (i) any additional information that is reasonably necessary to assist the deployer in understanding the outputs and monitoring the performance of the system for risks of algorithmic discrimination; and
+
+                     (j) any other information necessary to allow the deployer to comply with the requirements of this section;
+
+          C. except for information excluded pursuant to Subsection C of Section 4 of the Artificial Intelligence Act, to the extent feasible make available to the recipient the necessary information to conduct an impact assessment as required pursuant to Section 6 of the Artificial Intelligence Act. Such information shall include model cards, dataset cards or previous impact assessments relevant to the system, its development or use;
+
+D. post on the developer's website in a clear and readily available manner a statement or public-use case inventory that summarizes:
+
+                (1) the types of high-risk artificial intelligence systems that the developer has developed or intentionally and substantially modified and currently offers or makes available to recipients; and
+
+                (2) how the developer manages known or reasonably foreseeable risks of algorithmic discrimination that may arise from the use or intentional and substantial modification of the systems listed on the developer's website pursuant to this subsection; and
+
+          E. ensure that the statement or public-use case inventory posted pursuant to this section remains accurate and is updated within ninety days of an intentional and substantial modification of a high-risk artificial intelligence system offered or made available by the developer to recipients.
+
+SECTION 4. [NEW MATERIAL] RISK INCIDENTS--REQUIRED DISCLOSURE AND SUBMISSION--EXCEPTIONS.--
+
+          A. Within ninety days of a risk incident and in a form and manner prescribed by the state department of justice, a developer shall disclose to the department and all known recipients of the high-risk artificial intelligence system that is the basis of the risk incident the known and foreseeable risks of algorithmic discrimination that may arise from the intended uses of the system.
+
+          B. Within ninety days of a request by the state department of justice, a developer shall submit to the department a copy of the summary and documentation the developer has made available to recipients pursuant to Section 3 of the Artificial Intelligence Act. A developer may designate the summary or documentation as including proprietary information or a trade secret. To the extent that information contained in the summary or documentation includes information subject to attorney-client privilege or work-product protection, compliance with this section does not constitute a waiver of the privilege or protection.
+
+          C. As part of a disclosure, notice or submission pursuant to the Artificial Intelligence Act, a developer shall not be required to disclose a trade secret, information protected from disclosure by state or federal law or information that would create a security risk to the developer. Such disclosure, notice or submission shall be exempt from disclosure pursuant to the Inspection of Public Records Act.
+
+SECTION 5. [NEW MATERIAL] DEPLOYER RISK-MANAGEMENT POLICY REQUIRED.--
+
+          A. A deployer shall use reasonable care to protect consumers from known or reasonably foreseeable risks of algorithmic discrimination.
+
+          B. A deployer shall implement a risk management policy and program to govern the deployer's deployment of a high-risk artificial intelligence system. The risk management policy and program shall:
+
+                (1) specify and incorporate the principles, processes and personnel that the deployer uses to identify, document and mitigate known or reasonably foreseeable risks of algorithmic discrimination; and
+
+                (2) be an iterative process planned, implemented and regularly and systematically updated over the life cycle of a high-risk artificial intelligence system and include regular systematic review and updates.
+
+          C. A risk management policy shall meet standards established by the state department of justice by rule.
+
+SECTION 6. [NEW MATERIAL] DEPLOYER IMPACT ASSESSMENTS.--
+
+          A. Except as provided in Subsections D, E and H of this section, a deployer shall conduct an impact assessment for any high-risk artificial intelligence system deployed by the deployer:
+
+                (1) annually; and
+
+                (2) within ninety days of an intentional and substantial modification to the system.
+
+          B. An impact assessment of a high-risk artificial intelligence system completed pursuant to this section shall include, to the extent reasonably known by or available to the deployer:
+
+                (1) a statement of the intended uses, deployment contexts and benefits of the system;
+
+                (2) an analysis of any known or reasonably foreseeable risks of algorithmic discrimination posed by the system, and when a risk exists, the nature of the algorithmic discrimination and the steps that have been taken to mitigate the risk;
+
+                (3) a description of the categories of data the system processes as inputs and the outputs the system produces;
+
+                (4) a summary of categories of any data used to customize the system;
+
+                (5) the metrics used to evaluate the performance and known limitations of the system, including:
+
+                     (a) whether the evaluation was carried out using test data;
+
+                     (b) whether the test data sets were collected solely in New Mexico, solely in other states or in New Mexico in combination with other states;
+
+                     (c) the demographic groups represented in the test data sets and the proportion of each age, ethnic, gender or racial group in each data set; and
+
+                     (d) any independent studies carried out to evaluate the system for performance and risk of discrimination and whether the studies are publicly available or peer-reviewed;
+
+                (6) a description of any transparency measures taken concerning the system, including measures taken to disclose to a consumer when the system is in use; and
+
+                (7) a description of the post-deployment monitoring and user safeguards provided for the system, including oversight, use and learning processes used by the deployer to address issues arising from deployment of the system.
+
+C. An impact assessment conducted due to an intentional and substantial modification of a high-risk artificial intelligence system shall include a disclosure of the extent to which the system was used in a manner consistent with, or that varied from, the developer's intended uses of the system.
+
+          D. A deployer may use a single impact assessment to address a set of comparable high-risk artificial intelligence systems.
+
+          E. An impact assessment conducted for the purpose of complying with another applicable law or rule shall satisfy the requirement of this section when the assessment:
+
+                (1) meets the requirements of this section; and
+
+                (2) is reasonably similar in scope and effect to an assessment that would otherwise be conducted pursuant to this section.
+
+          F. For at least three years following the final deployment of a high-risk artificial intelligence system, a deployer shall maintain records of the most recently conducted impact assessment for the system, including all records concerning the assessment and all prior assessments for the system.
+
+          G. On or before March 1, 2027, a deployer shall review each high-risk artificial intelligence system that the deployer has deployed to ensure that the system is not causing algorithmic discrimination.
+
+H. This section is not applicable when:
+
+                (1) a deployer using a high-risk artificial intelligence system:
+
+                     (a) employs fewer than fifty full-time employees;
+
+                     (b) does not use the deployer's own data to train the system;
+
+                     (c) uses the system solely for the system's intended uses as disclosed by a developer pursuant to the Artificial Intelligence Act; and
+
+                     (d) makes any impact assessment of the system that has been provided by the developer pursuant to the Artificial Intelligence Act available to consumers; and
+
+                (2) the system continues learning based on data derived from sources other than the deployer's own data.
+
+SECTION 7. [NEW MATERIAL] DEPLOYER GENERAL NOTICE TO CONSUMERS.--
+
+          A. A deployer shall make readily available to its consumers and on its website:
+
+                (1) a summary of the types of high-risk artificial intelligence systems that the deployer currently deploys and how known or reasonably foreseeable risks of algorithmic discrimination from the deployment of each system are managed; and
+
+                (2) a detailed explanation of the nature, source and extent of the information collected and used by the deployer.
+
+          B. At a minimum, a deployer shall update the information posted on its website pursuant to this section annually and when the deployer deploys a new high-risk artificial intelligence system.
+
+SECTION 8. [NEW MATERIAL] USE OF ARTIFICIAL INTELLIGENCE SYSTEMS WHEN MAKING CONSEQUENTIAL DECISIONS--DIRECT NOTICE TO AFFECTED CONSUMERS--ADVERSE DECISIONS--OPPORTUNITY FOR APPEAL.--
+
+          A. Except as provided in Subsection E of this section, before a high-risk artificial intelligence system is used to make or is a substantial factor in making a consequential decision concerning a consumer, a deployer shall provide directly to the consumer:
+
+                (1) notice that the system will be used to make or be a substantial factor in making the decision; and
+
+                (2) information describing:
+
+                     (a) the system and how to access the deployer's notice required pursuant to Section 7 of the Artificial Intelligence Act;
+
+                     (b) the purpose of the system and the nature of the consequential decision being made; and
+
+                     (c) the deployer's contact information.          B. Except as provided in Subsection E of this section, when a high-risk artificial intelligence system has been used to make or has been a substantial factor in making a consequential decision concerning a consumer that is adverse to the consumer, the deployer shall provide directly to the consumer:
+
+                (1) a statement explaining:
+
+                     (a) the principal reason or reasons for the decision;
+
+                     (b) the degree and manner in which the system contributed to the decision; and
+
+                     (c) the source and type of data that was processed by the system to make or that was a substantial factor in making the decision;
+
+                (2) an opportunity to correct any incorrect personal data that the system processed to make or that was a substantial factor in making the decision; and
+
+                (3) an opportunity to appeal the adverse decision except in instances where an appeal is not in the best interest of the consumer, such as creating a delay that may pose a risk of life or safety to the consumer.
+
+          C. If technically feasible, an appeal of an adverse decision pursuant to this section shall allow for human review.
+
+          D. All information, notices and statements to a consumer as required by this section shall be provided:
+
+                (1) in plain language and in all languages in which the deployer in the ordinary course of business provides contracts, disclaimers, sale announcements and other information to consumers; and
+
+                (2) in a format that is accessible to consumers with disabilities.
+
+          E. When a deployer is unable to provide information, notice or a statement required pursuant to this section directly to a consumer, the deployer shall make such information, notices or statements available in a manner that is reasonably calculated to ensure that the consumer receives the information, notice or statement.  
+
+SECTION 9. [NEW MATERIAL] USE OF HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM--NOTICE AND DISCLOSURE TO THE STATE DEPARTMENT OF JUSTICE--INSPECTION OF PUBLIC RECORDS ACT EXEMPTION.--
+
+          A. When a deployer discovers that a high-risk artificial intelligence system that has been used has caused algorithmic discrimination, the deployer shall as expeditiously as possible but at a maximum within ninety days notify the state department of justice of the discovery. The notice shall be in a form and manner prescribed by the department.
+
+          B. Upon request by the state department of justice, a deployer shall within ninety days submit to the state department of justice any risk management policy, impact assessment or records conducted, implemented, maintained or received pursuant to the Artificial Intelligence Act. The submission shall be in a form and manner prescribed by the department.
+
+          C. The state department of justice may evaluate risk management policies, impact assessments or records submitted pursuant to this section for compliance with the Artificial Intelligence Act.
+
+          D. A risk management policy, impact assessment or record submitted to the state department of justice pursuant to this section is exempt from disclosure pursuant to the Inspection of Public Records Act.
+
+          E. In a submission pursuant to this section, a deployer may designate a portion of the submission as including proprietary information or a trade secret and to the extent that a submission contains information subject to attorney-client privilege or work-product protection, the submission does not constitute a waiver of the privilege or protection.
+
+SECTION 10. [NEW MATERIAL] INTERACTION OF ARTIFICIAL INTELLIGENCE SYSTEM WITH CONSUMERS--REQUIRED DISCLOSURE.--A developer that offers or makes available an artificial intelligence system intended to interact with consumers shall ensure that a consumer is informed that the consumer is interacting with an artificial intelligence system. This section does not apply when it would be obvious to a reasonable person that the consumer is interacting with an artificial intelligence system.
+
+SECTION 11. [NEW MATERIAL] EXEMPTION FROM DISCLOSURE--TRADE SECRETS AND OTHER INFORMATION PROTECTED BY LAW--NOTICE TO CONSUMER.--
+
+          A. Nothing in the Artificial Intelligence Act shall require a deployer or developer to disclose a trade secret or other information protected from disclosure by state or federal law.
+
+          B. To the extent that a deployer or developer withholds information pursuant to this section that would otherwise be part of a disclosure pursuant to the Artificial Intelligence Act, the deployer or developer shall notify a consumer and provide a basis for the withholding.
+
+SECTION 12. [NEW MATERIAL] APPLICABILITY EXEMPTIONS-- OTHER LAW--SECURITY AND TESTING--FEDERAL USE--INSURANCE PROVIDERS.--
+
+          A. No provision of the Artificial Intelligence Act shall be construed to restrict a person's ability to:
+
+                (1) comply with federal, state or municipal laws or regulations;
+
+                (2) comply with a civil, criminal or regulatory inquiry, investigation, subpoena or summons by a governmental authority;
+
+                (3) cooperate with a law enforcement agency concerning activity that the person reasonably and in good faith believes may violate other laws or regulations;
+
+                (4) defend, exercise or investigate legal claims;
+
+                (5) act to protect an interest that is essential for the life or physical safety of a person;
+
+                (6) by means other than the use of facial recognition technology:
+
+                     (a) detect, prevent, protect against or respond to deceptive, illegal or malicious activity, fraud, identity theft, harassment or security incidents; or
+
+                     (b) investigate, prosecute or report persons responsible for the actions listed in Subparagraph (a) of this paragraph;
+
+                (7) preserve the integrity or security of artificial intelligence, computer, electronic or internet connection systems;
+
+                (8) engage in public or peer-reviewed scientific or statistical research that adheres to and is conducted in accordance with applicable federal and state law;
+
+                (9) engage in pre-market testing other than testing conducted under real-world conditions, including development, research and testing of artificial intelligence systems; or
+
+                (10) assist another person with compliance with the Artificial Intelligence Use Act.
+
+          B. No provision of the Artificial Intelligence Act shall be construed to restrict:
+
+                (1) a product recall; or
+
+                (2) identification or repair of technical errors that impair the functionality of an artificial intelligence system.
+
+          C. The Artificial Intelligence Act shall not apply in circumstances where compliance would violate an evidentiary privilege pursuant to law.
+
+          D. No provision of the Artificial Intelligence Act shall be construed so as to limit a person's rights to free speech or freedom of the press pursuant to the first amendment to the United States constitution or Article 2, Section 17 of the constitution of New Mexico.
+
+E. The Artificial Intelligence Act shall not apply to a developer, deployer or other person who:
+
+                (1) uses or intentionally and substantially modifies a high-risk artificial intelligence system that:
+
+                     (a) has been authorized by a federal agency in accordance with federal law; and
+
+                     (b) is in compliance with standards established by a federal agency in accordance with federal law when such standards are substantially equivalent or more stringent than the requirements of the Artificial Intelligence Act;
+
+                (2) conducts research to support an application for certification or review by a federal agency pursuant to federal law;
+
+                (3) performs work under or in connection with a contract with a federal agency, unless the work is on a high- risk artificial intelligence system used to make or as a substantial factor in making a decision concerning employment or housing; or
+
+                (4) is a covered entity pursuant to federal health insurance law and is providing health care recommendations:
+
+                     (a) generated by an artificial intelligence system;
+
+                     (b) that require a health care provider to take action to implement the recommendations; and
+
+                     (c) that are not considered to be high risk.
+
+          F. The Artificial Intelligence Act shall not apply to an artificial intelligence system acquired by the federal government, except for a high-risk artificial intelligence system used to make or as a substantial factor in making a decision concerning employment or housing.
+
+          G. A financial institution or affiliate or subsidiary of a financial institution that is subject to prudential regulation by another state or by the federal government pursuant to laws that apply to the use of high-risk artificial intelligence systems shall be deemed to be in compliance with the Artificial Intelligence Act when the applicable laws:
+
+                (1) impose requirements that are substantially equivalent to or more stringent than the requirements imposed by the Artificial Intelligence Act; and
+
+                (2) at a minimum, require the financial institution to:
+
+                     (a) regularly audit the institution's use of high-risk artificial intelligence systems for compliance with state and federal antidiscrimination laws; and
+
+                     (b) mitigate any algorithmic discrimination caused by the use of a high-risk artificial intelligence system.
+
+          H. As used in this section, "financial institution" means an insured state or national bank, a state or federal savings and loan association or savings bank, a state or federal credit union or authorized branches of each of the foregoing.
+
+          I. A developer, deployer or other person who engages in an action pursuant to an exemption set forth in this section shall bear the burden of demonstrating that the action qualifies for the exemption.
+
+SECTION 13. [NEW MATERIAL] ENFORCEMENT--STATE DEPARTMENT OF JUSTICE--CONSUMER CIVIL ACTIONS.--
+
+          A. Upon the promulgation of rules pursuant to Section 14 of the Artificial Intelligence Act:
+
+                (1) the state department of justice shall have authority to enforce that act; and
+
+                (2) a consumer may bring a civil action in district court against a developer or deployer for declaratory or injunctive relief and attorney fees for a violation of that act.
+
+          B. In an action by the state department of justice to enforce the Artificial Intelligence Act, it is an affirmative defense when:
+
+                (1) the developer, deployer or other person discovers and cures a violation of the Artificial Intelligence Act as a result of:
+
+                     (a) feedback that the developer, deployer or other person encourages the deployer or users to provide; or
+
+                     (b) adversarial testing, red teaming or an internal review process; and
+
+                (2) the developer, deployer or other person is in compliance with a risk management framework for artificial intelligence systems designated by the state department of justice by rule.
+
+          C. In an action by the state department of justice to enforce the Artificial Intelligence Act, the developer, deployer or other person who is the subject of the enforcement shall bear the burden of demonstrating that the requirements for an affirmative defense pursuant to this section have been met.
+
+          D. Nothing within the Artificial Intelligence Act, including the enforcement authority granted to the state department of justice pursuant to this section, preempts or otherwise affects any right, claim, remedy, presumption or defense available in law or equity.
+
+           E. An affirmative defense or rebuttable presumption established by the Artificial Intelligence Act applies only to an enforcement action by the state department of justice and does not apply to any right, claim, remedy, presumption or defense available in law or equity.
+
+          F. A violation of the Artificial Intelligence Act is an unfair practice and may be enforced pursuant to the Unfair Practices Act.
+
+          G. As used in this section:
+
+                (1) "adversarial testing" means to proactively try to break an application by providing it with data most likely to elicit problematic output, or as defined by the state department of justice by rule; and
+
+                (2) "red teaming" means the practice of simulating attack scenarios on an artificial intelligence application to pinpoint weaknesses and plan preventive measures or as defined by the state department of justice by rule.
+
+	SECTION 14. [NEW MATERIAL] RULEMAKING.--On or before January 1, 2027, the state department of justice shall promulgate rules to implement the Artificial Intelligence Act and shall post them prominently on the state department of justice's website.
+
+     SECTION 15. EFFECTIVE DATE.--The effective date of the provisions of this act is July 1, 2026.

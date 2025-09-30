@@ -1,0 +1,355 @@
+A BILL
+To provide guidance for and investment in the research and development activities of artificial intelligence at the Department of Energy, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Department of Energy Artificial Intelligence Act of 2024”.
+
+
+SEC. 2. Department of Energy artificial intelligence research program.
+
+
+(a) In general.—Title LV of the William M. (Mac) Thornberry National Defense Authorization Act of 2021 (Public Law 116–283) is amended to read as follows:
+
+
+“TITLE LV—Department of Energy artificial intelligence research program
+
+
+“Sec. 5501. Department of Energy artificial intelligence research program.
+“Sec. 5502. Ensuring energy security for data centers and computing resources.
+
+“SEC. 5501. Department of Energy artificial intelligence research program.
+“(a) In general.—The Secretary shall carry out a cross-cutting research and development program to advance artificial intelligence tools, systems, capabilities, and workforce needs and develop artificial intelligence capabilities for the purposes of advancing the missions of the Department (in this section referred to as the ‘program’). In carrying out such program, the Secretary shall coordinate across all relevant offices and programs of the Department, including the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office of Nuclear Energy, the Office of Fossil Energy, the Office of Electricity, the Office of Cybersecurity, Energy Security, Emergency Response, and the Advanced Research Projects Agency-Energy.
+
+
+“(b) Research areas.—In carrying out the program, the Secretary shall award financial assistance to eligible entities to carry out research projects on topics including the following:
+
+
+“(1) The application of artificial intelligence systems to improve large-scale simulations of natural and other phenomena.
+
+
+“(2) The study of applied mathematics, computer science, and statistics, including foundations of methods and systems of artificial intelligence, causal and statistical inference, and the development of algorithms for artificial intelligence systems.
+
+
+“(3) The analysis of existing and new large-scale datasets from science and engineering experiments and simulations, including energy simulations and sponsored research activities, and, as determined by the Secretary, other priorities of the Department that utilize artificial intelligence tools and techniques.
+
+
+“(4) The development of operation and control systems that enhance automated, intelligent decision-making capabilities.
+
+
+“(5) The development of advanced computing hardware and computer architecture tailored to artificial intelligence systems, including the following:
+
+
+“(A) The codesign of software and computational hardware.
+
+
+“(B) Energy-efficient computing hardware and algorithms for artificial intelligence training and inference.
+
+
+“(C) Mechanisms to improve the energy efficiency of data centers, including relevant energy efficiency benchmarks for such centers.
+
+
+“(6) The aggregation, curation, and distribution of standardized datasets for emerging artificial intelligence research fields and applications, including methods for addressing data scarcity.
+
+
+“(7) The development of advanced artificial intelligence systems for pressing scientific, energy, and national security applications.
+
+
+“(8) The development of trustworthy artificial intelligence systems, including the following:
+
+
+“(A) Algorithmic explainability.
+
+
+“(B) Analytical methods for identifying and mitigating bias in artificial intelligence systems.
+
+
+“(C) Safety and robustness, including assurance, verification, validation, security, and control.
+
+“(c) Technology transfer.—In carrying out the program, the Secretary shall support technology transfer of artificial intelligence systems for the benefit of society and United States economic competitiveness.
+
+
+“(d) Facility use and upgrades.—In carrying out the program, the Secretary shall carry out the following:
+
+
+“(1) Make available high-performance computing infrastructure at National Laboratories for the development and use of advanced artificial intelligence systems.
+
+
+“(2) Make any upgrades necessary to enhance the use of existing computing facilities for artificial intelligence systems, including upgrades to hardware and other resources necessary for developing, training, and evaluating advanced artificial intelligence technologies.
+
+
+“(3) Establish new computing capabilities necessary to manage data and conduct high performance computing that enables the development and use of advanced artificial intelligence systems.
+
+
+“(4) Maintain and improve, as needed, networking infrastructure, data input and output mechanisms, and data analysis, storage, and service capabilities.
+
+
+“(5) Facilitate the development of unclassified and classified high-performance computing systems and artificial intelligence platforms through Department-owned infrastructure data and computing facilities.
+
+
+“(6) Provide other resources necessary for the Department to develop, train, and evaluate advanced artificial intelligence systems and related technologies;
+
+
+“(e) Testbeds for next-Generation computing platforms and infrastructure.—
+
+
+“(1) IN GENERAL.—In carrying out the program, the Secretary shall establish at least one data center testbed for the development and assessment of hardware and algorithms for energy-efficient and energy-flexible artificial intelligence training and inference.
+
+
+“(2) ACTIVITIES.—In carrying out the testbed established under paragraph (1), the Secretary shall carry out the following:
+
+
+“(A) Test and evaluate new software, hardware, codesign of hardware and software, algorithms, networking, and other artificial intelligence-based technologies and applications to improve energy efficiency across the artificial intelligence ecosystem.
+
+
+“(B) Carry out cooperative research projects with industry, including end user companies, hardware systems vendors, artificial intelligence developers, data center developers and operators, energy utilities, and other appropriate stakeholders.
+
+“(f) Aggregation, curation, and distribution of artificial intelligence training datasets.—In carrying out activities described in subsection (b)(6), the Secretary shall develop methods, platforms, protocols, and other tools required for efficient, responsible, and effective aggregation, generation, curation, and distribution of artificial intelligence training and inference datasets, including the following:
+
+
+“(1) Assembling, aggregating, and curating large-scale training data for advanced artificial intelligence systems, including outputs from research programs of the Department and other open science data, with the goal of developing comprehensive scientific artificial intelligence training databases and testing and validation data.
+
+
+“(2) Developing dataset documentation and metadata protocols and visualization tools, taking into account appropriate standards and guidelines to promote interoperability and consistency in documentation.
+
+
+“(3) Developing and implementing appropriate data management plans for the ethical, responsible, and secure use of classified and unclassified scientific data.
+
+
+“(4) Identifying, curating, and safely distributing, as appropriate based on the application, the following:
+
+
+“(A) Scientific and experimental departmental datasets.
+
+
+“(B) Sponsored research activities that are needed for the training of foundational and adapted downstream artificial intelligence systems.
+
+
+“(5) Partnering with stakeholders to curate critical datasets that reside outside the Department but are determined by the Secretary to be critical to optimizing the capabilities of advanced artificial intelligence systems relevant to the missions of the Department.
+
+
+“(g) Development of advanced artificial intelligence systems for pressing scientific, energy, and national security applications.—In carrying out subsection (b)(7), the Secretary shall carry out the following:
+
+
+“(1) Develop innovative concepts in applied mathematics, computer science, engineering, and other science disciplines needed for advanced artificial intelligence systems.
+
+
+“(2) Develop best-in-class advanced artificial intelligence systems, model derivatives that support downstream use cases, and other technologies to solve pressing scientific, energy, and national security challenges.
+
+
+“(3) Carry out cooperative research projects with industry, including end user companies, hardware systems vendors, and artificial intelligence software companies, to advance artificial intelligence technologies relevant to the missions of the Department and mitigate risks associated with such technologies.
+
+
+“(4) In coordination with the Secretary of Commerce and the Secretary of Homeland Security, research counter-adversarial artificial intelligence solutions to predict, prevent, mitigate, and respond to threats to critical infrastructure, energy security, and nuclear nonproliferation, and biological and chemical threats.
+
+
+“(5) In coordination with energy utilities, State energy offices, data center developers and operators, and other key stakeholders the Secretary determines appropriate, carry out research to examine how artificial intelligence technologies may be impacted by or applied to energy supply bottlenecks, energy demand projections, site reliability challenges, and data center operational flexibilities.
+
+
+“(6) Establish crosscutting research efforts to understand and mitigate artificial intelligence-related risks, including the establishment of unclassified and classified data platforms across the Department.
+
+“(h) Shared resources for artificial intelligence.—
+
+
+“(1) IN GENERAL.—As part of the program, the Secretary shall identify, support, and sustain shared resources and enabling tools that have the potential to accelerate the pace of scientific discovery and technological innovation with respect to the missions of the Department relating to science, energy, and national security.
+
+
+“(2) CONSULTATION.—In carrying out paragraph (1), the Secretary shall consult with relevant experts in the Federal Government, industry, energy utilities, academia, State energy offices, and the National Laboratories.
+
+
+“(3) FOCUS.—Shared resources and enabling tools referred to in paragraph (1) shall include the following:
+
+
+“(A) Scientific data and knowledge bases for training artificial intelligence systems.
+
+
+“(B) Benchmarks and competitions for evaluating advances in artificial intelligence systems.
+
+
+“(C) Platform technologies that lower the cost of generating training data or enable the generation of training data.
+
+
+“(D) High-performance computing, including hybrid computing systems that integrate artificial intelligence and high-performance computing.
+
+
+“(E) The combination of artificial intelligence and scientific automation, such as cloud labs and self-driving labs.
+
+
+“(F) Tools that enable artificial intelligence to solve inverse design problems.
+
+
+“(G) Testbeds for accelerating progress at the intersection of artificial intelligence and cyberphysical systems.
+
+
+“(H) Testbeds for testing and evaluating artificial intelligence-based technologies and applications to improve energy efficiency across artificial intelligence systems, in accordance with subsection (e).
+
+
+“(4) INTERAGENCY COORDINATION.—The Secretary shall ensure coordination with, and avoid unnecessary duplication of, activities to provide shared resources with the National Science Foundation, the agencies participating in the Interagency Committee established under section 5103 of this Act, and the Networking and Information Technology Research and Development Program authorized under section 101 of the High Performance Computing Act of 1991 (15 U.S.C. 5511).
+
+“(i) Artificial intelligence research institutes.—The Secretary shall support on a competitive, merit-reviewed basis not fewer than two multidisciplinary artificial intelligence research institutes pursuant to section 5201 of this Act.
+
+
+“(j) Research To improve energy permitting processes.—In consultation with the Federal Permitting Improvement Steering Council established under section 41002(a) of the FAST Act (42 U.S.C. 4370m–1(a)), the Secretary shall carry out research and development activities to evaluate the potential for utilizing artificial intelligence to improve Federal permitting processes for energy-related projects, including critical materials (as such term is defined in section 7002 of title VII of division Z of the Consolidated Appropriations Act, 2021 (Public Law 116–260; 30 U.S.C. 1606)) projects, by building tools to improve future reviews and analyzing data from past environmental and other permitting reviews to inform more flexible and effective categorical exclusions.
+
+
+“(k) Risk management.—
+
+
+“(1) IN GENERAL.—The Secretary shall review agency policies for risk management in artificial intelligence related projects and issue, as necessary, policies and principles that are consistent with the framework developed under section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1(c)).
+
+
+“(2) TAXONOMY.—The Secretary, in consultation with the Secretary of Homeland Security, the Secretary of Defense, the Director of National Intelligence, the Director of the National Security Agency, and the Director of the National Institute of Standards and Technology, shall develop a taxonomy of safety and security risks associated with artificial intelligence systems relevant to the missions of the Department.
+
+
+“(l) Stem education and workforce development.—As part of the program, the Secretary, in coordination with the Director of the National Science Foundation, may develop the required workforce, and hire and train researchers to meet the rising demand for artificial intelligence talent, including by carrying out the following:
+
+
+“(1) Providing training, grants, and research opportunities, including experiential learning experiences for undergraduate and graduate students in advanced artificial intelligence systems.
+
+
+“(2) Carrying out public awareness campaigns regarding artificial intelligence related career paths.
+
+
+“(3) Assisting institutions of higher education to establish new degree and certificate programs in artificial intelligence-related disciplines.
+
+“(m) Administration.—
+
+
+“(1) RESEARCH SECURITY.—The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19231 et seq.).
+
+
+“(2) CYBERSECURITY.—The Secretary shall ensure the integration of robust cybersecurity measures into all artificial intelligence research-to-deployment efforts authorized under this section to protect the integrity and confidentiality of collected and analyzed data.
+
+
+“(3) ETHICAL CONSIDERATIONS.—Taking into account the guidance issued pursuant to section 10343(c) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19052(c)), the Secretary shall issue guidance governing the ethical, safe, and responsible conduct of research activities funded by the Department and performed at National Laboratories and user facilities.
+
+
+“(n) Data privacy and sharing.—The Secretary shall review agency policies for data sharing with other public and private sector organizations and issue, as necessary, policies and principles that are consistent with the standards and guidelines submitted under section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1(e)). In addition, the Secretary shall establish a streamlined mechanism for approving research projects or partnerships that require sharing sensitive public or private data with the Department.
+
+
+“(o) Partnerships.—
+
+
+“(1) FEDERAL PARTNERSHIPS.—The Secretary may request, accept, and provide funds from other Federal departments and agencies, State, United States territory, local, or Tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support a research project or partnership carried out under this section. The Secretary may not give any special consideration to any agency or entity in return for a donation.
+
+
+“(2) PARTNERSHIPS WITH PRIVATE ENTITIES.—
+
+
+“(A) IN GENERAL.—The Secretary shall seek to establish partnerships with private companies and nonprofit organizations in carrying out this section.
+
+
+“(B) REQUIREMENT.—In carrying out subparagraph (A), the Secretary shall protect any information submitted to or shared by the Department consistent with applicable laws and regulations.
+
+“(p) Stakeholder engagement.—In carrying out the activities authorized in this section, the Secretary shall carry out the following:
+
+
+“(1) Collaborate with a range of stakeholders, including small businesses, institutes of higher education, industry, and the National Laboratories.
+
+
+“(2) Leverage the collective body of knowledge from existing artificial intelligence and machine learning research.
+
+
+“(3) Engage with other Federal departments and agencies, research communities, and potential users of information produced under this section.
+
+“(q) Strategic plan.—
+
+
+“(1) IN GENERAL.—In carrying out the program, the Secretary shall develop a strategic plan with specific short-term and long-term goals and resource needs to advance applications in artificial intelligence for science, energy, and national security to support the missions of the Department. The strategic plan shall be consistent with the following:
+
+
+“(A) The 2023 National Laboratory workshop report entitled ‘Advanced Research Directions on AI for Science, Energy, and Security’.
+
+
+“(B) The 2024 National Laboratory workshop report entitled ‘AI for Energy’.
+
+
+“(C) The strategic plan required under section 5103 of division E of this Act (15 U.S.C. 9413).
+
+
+“(2) REPORT TO CONGRESS.—Not later than one year after the date of the enactment of this section, the Director shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee of Energy and Natural Resources of the Senate the strategic plan required under paragraph (1), and shall notify such committees of any substantial updates to such plan in subsequent years.
+
+“(r) Definitions.—In this section:
+
+
+“(1) ARTIFICIAL INTELLIGENCE SYSTEM.—The term ‘artificial intelligence system’ has the meaning given such term in section 7223 of the Advancing American AI Act (40 U.S.C. 11301 note; Public Law 117–263).
+
+
+“(2) DEPARTMENT.—The term ‘Department’ means the Department of Energy.
+
+
+“(3) ELIGIBLE ENTITIES.—The term ‘eligible entities’ means any of the following:
+
+
+“(A) An institution of higher education.
+
+
+“(B) A National Laboratory.
+
+
+“(C) A Federal research agency.
+
+
+“(D) A State research agency.
+
+
+“(E) A nonprofit research organization.
+
+
+“(F) A private sector entity.
+
+
+“(G) A consortium of two or more entities described in subparagraphs (A) through (F).
+
+
+“(4) NATIONAL LABORATORY.—The term ‘National Laboratory’ has the meaning given such term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+
+
+“(5) SECRETARY.—The term ‘Secretary’ means the Secretary of Energy.
+
+
+“(6) TESTBED.—The term ‘testbed’ means any platform, facility, or environment that enables the testing and evaluation of scientific theories and new technologies, including hardware, software, or field environments in which structured frameworks can be implemented to conduct tests to assess the performance, reliability, safety, and security of a wide range of items, including prototypes, systems, applications, artificial intelligence systems, instruments, computational tools, devices, and other technological innovations.
+
+
+“(s) Authorization of appropriations.—There are authorized to be appropriated to the Secretary to carry out this section $300,000,000 for each of fiscal years 2025 through 2030.
+
+“SEC. 5502. Ensuring energy security for data centers and computing resources.
+“Not later than one year after the date of the enactment of this section, the Secretary shall submit to Congress a report that includes the following:
+
+
+“(1) An assessment of the following:
+
+
+“(A) The growth of computing data centers and advanced computing electrical power load in the United States.
+
+
+“(B) Potential risks of growth in computing centers or growth in the required electrical power to United States energy security and national security.
+
+
+“(C) The extent to which emerging technologies, such as artificial intelligence and advanced computing, may impact hardware and software systems used at data and computing centers.
+
+
+“(D) Cost, performance, reliability, availability, space requirements, emissions, and supply chain issues for current technologies, including renewable diesel, natural gas, renewable natural gas, fuel cells, nuclear energy, battery storage, enhanced geothermal, long-duration energy storage, and other potentially viable technologies available to support regional data center expansion and for backup power.
+
+
+“(2) Recommendations for the following:
+
+
+“(A) Resources and capabilities that the Department may provide to promote access to energy resources by data centers, advanced computing hardware and algorithms, and artificial intelligence systems.
+
+
+“(B) Policy changes to ensure domestic deployment of data center and advanced computing resources to prevent offshoring of United States data and resources.
+
+
+“(C) Improving the energy efficiency of data centers, advanced computing hardware and algorithms, and artificial intelligence systems.”.
+
+
+(b) Clerical amendment.—The table of contents in section 2(b) of the William M. (Mac) Thornberry National Defense Authorization Act of 2021 (Public Law 116–283) is amended by inserting after the item relating to section 5501 the following new item:
+
+
+“Sec. 5502. Ensuring energy security for data centers and computing resources.”.

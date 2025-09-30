@@ -1,0 +1,71 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Veterans Appeals Efficiency Act of 2024”.SEC. 2. IMPROVEMENTS TO EFFICIENCY OF ADJUDICATIONS AND APPEALS OF CLAIMS FOR BENEFITS UNDER LAWS ADMINISTERED BY SECRETARY OF VETERANS AFFAIRS.
+(a) Annual Report On Length Of Adjudications.—
+(1) IN GENERAL.—Section 5109B of title 38, United States Code, is amended—
+(A) by striking “The Secretary” and inserting “(a) In General.—The Secretary”; and
+(B) by adding at the end the following new subsection:“(b) Annual Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate an annual report that includes, with respect to the period covered by the report, a statement of the average length of time a claim (or issue within a claim) that is remanded by the Board of Veterans' Appeals is pending before the Secretary after such return or remand.”.
+(2) DEADLINE.—The Secretary of Veterans Affairs shall submit the first report required by subsection (b) of section 5109B of such title (as added by paragraph (1)) by not later than one year after the date of the enactment of this Act.(b) Requirement To Track Certain Claims For Benefits.—
+(1) IN GENERAL.—Chapter 51 of title 38, United States Code, is amended by inserting after section 5109B the following new section:
+“§ 5109C. Requirement to track and maintain information on certain claims for benefits; notice of certain assignments
+“(a) In General.—The Secretary shall use technology to track and maintain information (including information with respect to timeliness) on—
+“(1) claims for benefits under the laws administered by the Secretary (including issues within such claims) that are—
+“(A) continuously pursued in accordance with—
+“(i) sections 5104C(a) and 5110(a)(2) of this title; or
+“(ii) any other policy established by the Secretary;
+“(B) filed in the National Work Queue (or any successor system) but have not been assigned to an office of the Veterans Benefits Administration for adjudication;
+“(C) afforded expeditious treatment by the Veterans Benefits Administration pursuant to section 5109B of this title or any other policy established by the Secretary;
+“(D) remanded by the Board of Veterans’ Appeals to the Secretary pursuant to section 7104 of this title; or
+“(E) pending a hearing by the Board of Veterans’ Appeals under section 7107 of this title;
+“(2) instances in which an adjudicator of the Veterans Benefits Administration does not comply with a relevant decision of the Board of Veterans’ Appeals to remand a claim for benefits under the laws administered by the Secretary (or issue within such claim), including such instances in which the relevant decision concerned a failure on the part of the agency of original jurisdiction to satisfy the Secretary’s duty to assist under section 5103A of this title;
+“(3) supplemental claims under section 5108 of this title filed—
+“(A) in accordance with section 5104C(a) and section 5110(a)(2) of this title; and
+“(B) after the date of the applicable final decision of the Secretary with respect to a claim for benefits under the laws administered by the Secretary (or issue within such claim);
+“(4) first notices submitted to the Secretary of the death of individuals in receipt of benefits under the laws administered by the Secretary, disaggregated by such individuals who were—
+“(A) assigned a fiduciary; and
+“(B) not assigned a fiduciary; and
+“(5) decisions of the Board of Veterans’ Appeals to remand a claim for benefits under the laws administered by the Secretary that the Chairman of the Board of Veterans’ Appeals determines were unnecessary pursuant to subsection (f) of section 7104 of this title.“(b) Notice Of Reason For Certain Assignments.—In carrying out this section, the Secretary shall prescribe rules and regulations to ensure that a claimant (or the representative of a claimant) may view or otherwise obtain notice of the reasons a relevant claim for benefits under the laws administered by the Secretary is—
+“(1) deferred for additional action by an office of the Veterans Benefits Administration in the National Work Queue (or any successor system); or
+“(2) assigned a suspense date for further action in the National Work Queue (or any successor system).”.
+(2) CLERICAL AMENDMENT.—The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5109B the following new item:
+“Sec. 5109C. Requirement to track and maintain information on certain claims for benefits; notice of certain assignments”.(c) Improvements To Board Of Veterans’ Appeals.—
+(1) AUTHORITY TO AGGREGATE CERTAIN CLAIMS.—Section 7104 of such section is amended in subsection (a) by inserting after the second sentence “If the Chairman of the Board determines that more than one appeal involves substantially similar questions of law or fact, the Chairman may aggregate such appeals for review.”.
+(2) REQUIREMENT TO ENSURE SUBSTANTIAL COMPLIANCE WITH CERTAIN DECISIONS.—Such section is further amended by adding at the end the following new subsection—
+(A) by redesignating subsection (f) as subsection (g); and
+(B) by inserting after subsection (e) the following new subsection (f):
+“(f) (1) The Secretary, acting through the Chairman of the Board, shall ensure substantial compliance with any decision of the Board to remand a claim.
+“(2) The Secretary may waive the requirement under paragraph (1) with respect to a decision of the Board to remand a claim to the Secretary if the Chairman of the Board determines—
+“(A) evidence added to the evidentiary after the date of such decision is sufficient to resolve the issues underlying such decision; or
+“(B) such decision was unnecessary.
+“(3) If the Secretary exercises the authority under paragraph (2), the Secretary shall include, pursuant to subsection (d), a written notation of such exercise in the decision of the Board.”.
+(3) MOTION FOR OGC OPINION.—Section 7104 of such title is amended by adding at the end the following new subsection:
+
+“(g) The Board may, on its own initiative or upon motion of the appellant, submit to the General Counsel a request for an opinion with respect to a question of law arising in an appeal under review by the Board.”.(d) Expansion Of Jurisdiction Of Court Of Appeals For Veterans Claims.—Section 7252 of title 38, United States Code, is amended—
+(1) by redesignating subsections (b) and (c) as subsections (d) and (e), respectively; and
+(2) by inserting after subsection (a) the following new subsections:
+“(b) (1) The Court shall have supplemental jurisdiction to review an eligible claim pending a final decision of the Board of Veterans Appeals with respect to such eligible claim.
+“(2) The period during which a claimant may submit a request for administrative review of an eligible claim under subsection (a) of section 5104C of this title shall be tolled for the period beginning on the date on which the claimant submits to the Court a motion for class action review and ending on the date that is 60 days after the date on which the Court issues a final decision with respect to—
+“(A) such eligible claim; or
+“(B) such motion for class action review, whichever is later.
+“(3) In this subsection, the term ‘eligible claim’ means a claim for benefits under the laws administered by the Secretary for which relief may be granted on a class-wide basis pursuant to the rules of practice and procedure of the Court of Appeals for Veterans Claims.
+“(c) (1) The Court may remand a matter to the Board of Veterans’ Appeals for the limited purpose of ordering the Board to address a question of law or fact in a claim for benefits under the laws administered by the Secretary that the Court determines the Board failed to—
+“(A) address, in the relevant decision of the Board, an issue that—
+“(i) the claimant (or representative of such claimant) raised; or
+“(ii) was reasonably raised by the evidentiary record of such claim; or
+“(B) provide adequate reasons or bases for the decision of the Board with respect to such question.
+“(2) In issuing a remand under paragraph (1), the Court may require the Board to issue a decision on the relevant question with a certain period of time prescribed by the Court.
+“(3) With respect to any matter remanded to the Board pursuant to paragraph (1), the Court shall—
+“(A) retain jurisdiction over such matter; and
+“(B) stay the proceedings of the Court on such matter until the date on which the Board issues the decision required by such remand.”.(e) Study And Report On Common Questions Of Law Or Fact Before Board Of Veterans’ Appeals.—
+(1) STUDY.—The Chairman of the Board of Veterans Appeals shall carry out a study to identify questions of law or fact the Board commonly considers when reviewing appeals pursuant to section 7104 of title 38, United States Code, for which precedential guidance would assist the Board in issuing final decisions on such appeals. The Chairman may use artificial intelligence and other technology in carrying out such study.
+(2) REPORT.—Not later than one year after the date of the enactment of this Act, the Chairman of the Board of Veterans Appeals shall submit to the Committees on Veterans Affairs of the House of Representatives and the Senate a report that includes the findings of the study required by paragraph (1).(f) Independent Assessment Of Potential Modifications To Authority Of Board Of Veterans’ Appeals.—
+(1) AGREEMENT.—Not later than 30 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall seek to enter into an agreement with an FFRDC for an assessment of the feasibility of modifying the authority of the Board of Veterans’ Appeals established under chapter 71 of title 38, United States Code, to permit the Board to issue precedential decisions with respect to questions of law or fact arising in matters before the Board.
+(2) ASSESSMENT.—An FFRDC that enters to an agreement under subsection (a) shall submit to the Secretary a written assessment that includes the following:
+(A) The determination of the FFRDC of whether modifying the authority of the Board to permit the Board to issue precedential decisions with respect to questions of law or fact arising in matters before the Board is feasible.
+(B) An assessment of the authority of the Board of Veterans’ Appeals to aggregate, for review, more than one appeal under chapter 71 of such title that involves substantially similar questions of law or fact pursuant to section 7104 of such title (as amended by subsection (c)(1)).
+(C) The recommendations of the FFRDC with respect to rules or principles to which the Board should adhere when aggregating appeals for review pursuant to section 7104(a) of title 38, United States Code (as amended by subsection (d)).
+(3) REPORT; IMPLEMENTATION.—Not later than 90 days after the Secretary receives the assessment under subsection (b), the Secretary shall—
+(A) submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a copy of such assessment; and
+(B) create policies and procedures to implement the recommendations in the assessment with respect to the authority of the Board of Veterans’ Appeals described in subparagraph (B) of paragraph (2).
+(4) DEFINITIONS.—In this subsection:
+(A) The term “FFRDC” means a federally funded research and development center.
+(B) The terms “claimant” and “notice” have the meanings given such terms in section 5100 of title 38, United States Code.(g) Plan For Timely Assignment Of Claims.—The Secretary of Veterans Affairs shall develop a plan to ensure claims for benefits administered by the Secretary are assigned to an adjudicator of the Veterans Benefits Administration of the Department of Veterans in a timely manner to the National Work Queue (or any successor system of the Department) and submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a copy of such plan by not later than one year after the date of the enactment of this Act.

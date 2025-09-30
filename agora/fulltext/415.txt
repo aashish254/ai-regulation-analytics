@@ -1,0 +1,80 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Preventing Algorithmic Collusion Act of 2024”.SEC. 2. DEFINITIONS.
+In this Act:
+(1) ANTITRUST LAWS.—The term “antitrust laws”—
+(A) has the meaning given that term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12); and
+(B) includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45).
+(2) COMMERCIAL TERMS.—The term “commercial terms” means—
+(A) level of service;
+(B) availability;
+(C) output, including quantities of products produced or distributed or the amount or level of service provided; or
+(D) rebates or discounts made available.
+(3) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+(4) DISTRIBUTE; DISTRIBUTION; DISTRIBUTING.—The terms “distribute”, “distribution”, and “distributing” include selling, licensing, providing access to, or otherwise making available by any means, including through a subscription or the sale of a service.
+(5) NONPUBLIC COMPETITOR DATA.—The term “nonpublic competitor data”—
+(A) means nonpublic data that is derived from or otherwise provided by another person that competes in the same market as a person, or a related market; and
+(B) does not include information distributed, reported, or otherwise communicated in a way that does not reveal any underlying data from a competitor, such as narrative industry reports, news reports, business commentaries, or generalized industry survey results.
+(6) NONPUBLIC DATA.—The term “nonpublic data” means information that is not widely available or easily accessible to the public, including information about price, commercial terms, and related products or services, regardless of whether the data is attributable to a specific competitor or anonymized.
+(7) PERSON.—The term “person” has the meaning given that term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12).
+(8) PRICE.—The term “price” means the amount of money or other thing of value, whether tangible or not, expected, required, or given in payment for any product or service, including compensation paid to an employee or independent contractor for services provided.
+(9) PRICING ALGORITHM.—The term “pricing algorithm” means any computational process, including a computational process derived from machine learning or other artificial intelligence techniques, that processes data to recommend or set a price or commercial term that is in or affecting interstate or foreign commerce.SEC. 3. COMPETITION LAW ENFORCEMENT AUDIT.
+
+(a) In General.—A person using or distributing a pricing algorithm, upon a written request by the Attorney General or the Commission, shall, not later than 30 days after the date of the written request, or any later date approved by the Attorney General or the Commission, respectively, provide to the Attorney General or the Commission, respectively, a written report on each pricing algorithm identified in the request.
+(b) Report Contents.—Each report under subsection (a) shall include—
+(1) information on whether the person is responsible for the development or distribution of the pricing algorithm, or whether a third party is responsible for the development or distribution of the pricing algorithm, including the identity and contact information of any other person responsible for the development or distribution of the pricing algorithm;
+(2) information on whether the pricing algorithm autonomously sets prices or commercial terms and whether there is human review of any recommendation or decision of the pricing algorithm;
+(3) an explanation of the rules or processes that the pricing algorithm uses to set or recommend prices or commercial terms;
+(4) a description of all data the pricing algorithm uses to set or recommend prices or commercial terms, including data used to train the algorithm;
+(5) all sources and collection processes, including the frequency of collection, of any data that the pricing algorithm uses to set or recommend prices or commercial terms;
+(6) whether the pricing algorithm engages in price discrimination by setting or recommending different prices or commercial terms for—
+(A) different customers seeking identical or nearly identical products or services, and if so, the factors used in differentiating among such customers; or
+(B) different employees or independent contractors providing substantially similar services, and if so, the factors used in differentiating among such employees or independent contractors; and
+(7) any changes made to the pricing algorithm between the date of receipt of the request under subsection (a) and the date of certification under subsection (c).
+(c) Certification Of Report.—The Chief Executive Officer, Chief Economist, Chief Technology Officer, or a corporate officer of similar authority of a person shall certify, under penalty of perjury, the accuracy of a report under subsection (a) submitted by the person.
+(d) Confidentiality.—All information submitted in a report under subsection (a) shall be treated as confidential and shall be considered to be privileged and confidential trade secrets and commercial or financial information exempt under subsection (b)(4) of section 552 of title 5, United States Code, from being made available to the public under subsection (a) of that section.(e) Information Sharing.—
+(1) IN GENERAL.—A report under subsection (a) may be shared—
+(A) between the Department of Justice and the Commission; and
+(B) with the National Institute of Standards and Technology for technical assistance in understanding the report.
+(2) LIMITATION.—The National Institute of Standards and Technology shall not disclose the contents of a report shared under paragraph (1) or the analysis of the report by the National Institute of Standards and Technology to any person, except the Department of Justice or Commission, whichever sought the technical assistance.
+(f) Rules Of Construction.—Nothing in this section shall—
+(1) limit the ability of the Commission or the Attorney General to issue a civil investigative demand, to issue a subpoena, to seek discovery in the course of litigation, or otherwise obtain information through other means available to the Commission or the Attorney General; or
+(2) restrict the use of information submitted in a report under subsection (a) in the course of a formal investigation, enforcement action, litigation, trial, or other proceeding, in accordance with the confidentiality procedures applicable to such proceeding.SEC. 4. PREVENTING COLLUSIVE ACTIVITY IN PRICING ALGORITHMS.
+
+(a) In General.—It shall be unlawful for a person to use or distribute any pricing algorithm that uses, incorporates, or was trained with nonpublic competitor data.
+(b) Civil Action.—If the Commission or the Attorney General has reason to believe that a person has violated subsection (a), the Commission, in its own name by any of its attorneys designated by it for such purpose, or the Attorney General may bring a civil action against the person in an appropriate district court of the United States to seek to recover—
+(1) a civil penalty of—
+(A) not less than $10,000, adjusted for inflation on the basis of the Consumer Price Index, for each day during which the violation occurs or continues to occur; or
+(B) the sum of the price of each product or service sold using the pricing algorithm in violation of subsection (a); and
+(2) other appropriate relief, including an injunction or other equitable relief.
+(c) Effective Date.—Subsection (a) shall take effect on the date that is 90 days after the date of enactment of this Act.SEC. 5. ALGORITHMIC PRICE FIXING.
+
+(a) Presumption Of Agreement.—With respect to the use of a pricing algorithm that would violate section 4 of this Act, there shall be a presumption for purposes of section 1 of the Sherman Act (15 U.S.C. 1) that the defendant entered into an agreement, contract, combination, or conspiracy in restraint of trade and for purposes of section 5(a) of the Federal Trade Commission Act (15 U.S.C. 45(a)) that the defendant has engaged in an unfair method of competition if the plaintiff establishes that—
+(1) the defendant distributed the pricing algorithm to 2 or more persons—
+(A) with the intent that the pricing algorithm be used to set or recommend a price or commercial term of a product or service in the same market or a related market; or
+(B) and 2 or more persons used the pricing algorithm to set or recommend a price or commercial term of a product or service in the same market or a related market; or
+(2) (A) the defendant used the pricing algorithm to set or recommend a price or commercial term of a product or service; and
+(B) the pricing algorithm was used by another person to set or recommend a price or commercial term of a product or service in the same market or a related market.(b) Rebuttal.—The presumption under subsection (a) shall not apply to a defendant if the defendant did not develop or distribute the pricing algorithm and the defendant demonstrates by clear and convincing evidence that the defendant did not have actual knowledge or could not have reasonably known that the pricing algorithm used nonpublic competitor data.
+(c) Joint And Several Liability.—In a civil case in which the presumption under subsection (a) is applicable, any persons that distributed the pricing algorithm and knew, or could reasonably have known, that the pricing algorithm would use, incorporate, or be trained with nonpublic competitor data shall be jointly and severally liable for any violation of section 1 of the Sherman Act (15 U.S.C. 1) or section 5(a) of the Federal Trade Commission Act (15 U.S.C. 45(a)).
+(d) Relation To Antitrust Laws.—Nothing in this section shall impair or limit the applicability of the antitrust laws.
+(e) Effective Date.—Subsection (a) shall take effect on the date that is 90 days after the date of enactment of this Act.SEC. 6. TRANSPARENCY IN PRICING ALGORITHMS.
+
+(a) In General.—Any person that has $5,000,000 or more in annual revenue that uses a pricing algorithm to recommend or set a price or commercial term shall clearly disclose, as applicable—
+(1) to a customer, before the customer purchases the relevant product or service, that the price or a commercial term, as applicable, is set or recommended by a pricing algorithm; and
+(2) to a current or prospective employee or independent contractor that the price or a commercial term for services rendered as an employee or independent contractor is set or recommended by a pricing algorithm.(b) Additional Disclosures.—
+(1) PRICE DISCRIMINATION.—If applicable, a disclosure under subsection (a) shall state that the pricing algorithm sets or recommends different prices or commercial terms for—
+(A) different customers seeking identical or nearly identical products or services; or
+(B) employees or independent contractors providing substantially similar services.
+(2) THIRD-PARTY ALGORITHM.—If applicable, a disclosure under subsection (a) shall—
+(A) state that the pricing algorithm was developed or distributed by a person other than the person making the disclosure; and
+(B) provide the identity of the person that developed or distributed the pricing algorithm.(c) Enforcement.—Failure to provide a disclosure under subsection (a), including the information required under subsection (b), shall constitute an unfair or deceptive act or practice under section 5 of the Federal Trade Commission Act (15 U.S.C. 45).
+(d) Civil Action.—If the Commission has reason to believe that a person has violated subsection (a) or (b), the Commission, in its own name by any of its attorneys designated by it for such purpose, may bring a civil action in an appropriate district court of the United States to recover—
+(1) a civil penalty of not less than $5,000, adjusted for inflation on the basis of the Consumer Price Index, for each day during which the violation occurs or continues to occur; and
+(2) other appropriate relief, including an injunction or other equitable relief.
+(e) Relation To Antitrust Laws.—Nothing in this section shall impair or limit the applicability of the antitrust laws.SEC. 7. FTC STUDY.
+Not later than 2 years after the date of enactment of this Act, the Commission shall publish the results of a study of the use of pricing algorithms, including information on—
+(1) the prevalence of pricing algorithms;
+(2) the frequency of the use of pricing algorithms to engage in price or wage discrimination;
+(3) the potential for persons to use pricing algorithms to engage in behavior that increases prices, lowers wages, reduces output, lowers quality, deters innovation, or otherwise harms the competitive process outside of the price fixing context;
+(4) the potential benefits or efficiencies of pricing algorithms;
+(5) any industries, sectors, or markets in which pricing algorithms may warrant additional oversight or regulation to protect competition and consumers; and
+(6) recommendations for additional legislation, regulation, or rulemaking relating to competition and consumer protection issues arising from the use of pricing algorithms.

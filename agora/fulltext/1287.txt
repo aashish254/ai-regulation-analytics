@@ -1,0 +1,134 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Social Media and AI Resiliency Toolkits in Schools Act” or the “SMART in Schools Act”.
+SEC. 2. DEFINITIONS.
+In this Act:
+(1) ESEA DEFINITIONS.—The terms “elementary school”, “evidence-based”, “local educational agency”, “paraprofessional”, “parent”, “secondary school”, “specialized instructional support personnel”, and “State educational agency” have the meanings given the terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+(2) BUREAU-FUNDED SCHOOL.—The term “Bureau-funded school” has the meaning given the term in section 1141 of the Education Amendments of 1978 (25 U.S.C. 2021).
+(3) DEPARTMENTS.—The term “Departments” means the Department of Education and the Department of Health and Human Services.
+(4) DIGITAL CITIZENSHIP.—The term “digital citizenship” means the ability to—
+(A) safely, responsibly, and ethically use communication technologies and digital information technology tools and platforms;
+(B) create and share media content using principles of social and civic responsibility and with awareness of the legal and ethical issues involved; and
+(C) participate in the political, economic, social, and cultural aspects of life related to technology, communications, and the digital world by consuming and creating digital content, including media.
+(5) DIGITAL RESILIENCE.—The term “digital resilience” means the ability to recognize, manage, and recover from online risks.
+(6) EDUCATOR.—The term “educator” means an early childhood educator, teacher, or paraprofessional, serving students.
+(7) GENDER IDENTITY.—The term “gender identity” means the gender-related identity, appearance, mannerism, or other gender-related characteristic of an individual, regardless of the designated sex at birth of the individual.
+(8) HEALTH CARE PROVIDER SERVING PEDIATRIC PATIENTS.—The term “health care provider serving pediatric patients” means a health care provider who serves children, including a family medicine physician, pediatrician, child and adolescent psychiatrist, mental health provider, or behavioral health provider.
+(9) LABOR ORGANIZATION.—The term “labor organization” has the meaning given the term in section 2 of the National Labor Relations Act (29 U.S.C. 152).
+(10) SCHOOL OR EDUCATIONAL AGENCY ADMINISTRATOR.—
+(A) IN GENERAL.—The term “school or educational agency administrator” means an individual who is a principal, other school leader, superintendent, or other employee or officer of an elementary school or secondary school, local educational agency, State educational agency, or other entity operating an elementary school or secondary school.
+(B) EXCEPTION.—The term “school or educational agency administrator” does not include an individual solely due to the individual’s service as a member of a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools.
+(11) SECRETARIES.—The term “Secretaries” means the Secretary of Health and Human Services and the Secretary of Education, acting jointly or acting jointly through their designees.
+(12) SEXUAL ORIENTATION.—The term “sexual orientation” means how a person identifies in terms of their emotional, romantic, or sexual attraction, and includes identification as straight, heterosexual, gay, lesbian, or bisexual, among other terms.
+(13) STUDENT.—The term “student” means a student in any of grades kindergarten through grade 12.
+(14) TOOLKIT.—The term “toolkit” means a collection of materials and resources to inform responsible use of artificial intelligence and social media platforms.
+(15) TRIBAL EDUCATIONAL AGENCY.—The term “Tribal educational agency” has the meaning given the term (without regard to capitalization) in section 6132(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7452).SEC. 3. JOINT DEVELOPMENT OF EDUCATIONAL TOOLKIT ON ARTIFICIAL INTELLIGENCE AND SOCIAL MEDIA PLATFORM IMPACT, RESPONSIBLE USES OF THESE TECHNOLOGIES, AND THE IMPACT ON YOUTH MENTAL HEALTH.
+(a) Development Of Toolkits.—
+(1) IN GENERAL.—Beginning not later than 1 year after the date of enactment of this Act, the Secretaries shall—
+(A) develop, and update on a biennial basis, including with reference to any existing resources, toolkits to facilitate greater awareness of, and ability to respond to, the impact of artificial intelligence and social media platforms on students, in accordance with subsections (b) through (d); and
+(B) not less frequently than once a year, disseminate such toolkits to school or educational agency administrators, educators, specialized instructional support personnel, health care providers serving pediatric patients, students, parents, guardians, and caregivers in accordance with subsection (e).
+(2) CONSULTATION AND CONSIDERATIONS.—In developing the educational materials and resources described in paragraph (1), the Secretaries shall—
+(A) consult with—
+(i) students, parents, guardians, and caregivers;
+(ii) relevant subject-matter experts;
+(iii) labor organizations representing educators, health care providers serving pediatric patients, and specialized instructional support personnel;
+(iv) professional organizations representing educators, health care providers serving pediatric patients, and specialized instructional support personnel;
+(v) health care providers serving pediatric patients;
+(vi) specialized instructional support personnel and educators;
+(vii) youth-serving or community-based youth-oriented organizations; and
+(viii) school or educational agency administrators; and
+(B) consider evidence-based recommendations from other groups as determined necessary by the Secretaries.
+(b) Toolkits Audiences.—In order to carry out subsection (a), the Secretaries shall create different toolkits tailored for each of the following audiences:
+(1) Students.
+(2) Educators.
+(3) Specialized instructional support personnel.
+(4) Health care providers serving pediatric patients.
+(5) Parents, guardians, and caregivers.
+(6) School or educational agency administrators.
+(7) Additional audiences, as the Secretaries determine necessary.
+(c) Tenets For Educational Resources.—The information provided in the toolkits described in subsection (a) shall be—
+(1) in an easily accessible and understandable format;
+(2) evidence-based; and
+(3) culturally appropriate and in a manner that is inclusive of race, ethnicity, language spoken, disability, geographic location, gender identity, and sexual orientation.
+(d) Contents Of Educational Resources.—
+(1) IN GENERAL.—The toolkits described in subsection (a) shall be designed to—
+(A) strengthen digital resilience and improve the ability to recognize, manage, recover from, and avoid perpetuating online risks (such as harassment, excessive use, discrimination, and other impacts to mental health) with respect to youth mental health concerns due to artificial intelligence and social media platform use;
+(B) provide information and instruction regarding healthy and responsible use cases of artificial intelligence and social media platform technologies and examples of responsible and healthy use of such technologies; and
+(C) provide evidence-based education to the relevant audience regarding—
+(i) artificial intelligence and social media platform education, including privacy concerns;
+(ii) the mental health implications and risk factors of excessive, irresponsible, maladaptive, or otherwise unhealthy use for students; and
+(iii) methods that the audience can use to seek help for a student with respect to excessive, irresponsible, maladaptive, or otherwise unhealthy artificial intelligence or social media platform use.(2) GROUP-SPECIFIC CONTENT REQUIREMENTS.—The toolkits described in subsection (a) for each audience described in subsection (b) shall meet the following requirements:
+(A) STUDENTS.—Such toolkits for students shall—
+(i) provide accessible explanations, differentiated for various grade-levels, for how artificial intelligence and social media platforms function;
+(ii) provide skills to identify generative artificial intelligence and the use of such technologies in “human-like” or “companion” chatbots, and information on how to interact with such artificial intelligence responsibly;
+(iii) inform students of indicators that the students are interacting with artificial intelligence and algorithms while using the internet and social media platform applications, including, as age appropriate—
+(I) information about attention-diverting and disguised algorithmic techniques like dark patterns; and
+(II) information regarding, and examples of, the effects of bad training or incomplete datasets on perpetuating existing inequities, including incorrect and negative outputs of artificial intelligence such as hallucinations, deep fakes, and false information;
+(iv) inform students of their rights online, both on social media platform applications and with regard to artificial intelligence;
+(v) teach digital resilience;
+(vi) teach digital citizenship and the skills necessary to reduce online risks from the user end;
+(vii) teach students to recognize excessive, irresponsible, maladaptive, or otherwise unhealthy use of social media platforms and how to initiate a conversation about such use or how to seek help from an adult; and
+(viii) provide information on unique impacts for students based on race, language spoken, disability, geographic location, gender identity, and sexual orientation.
+(B) EDUCATORS.—Such materials and resources for educators shall—
+(i) define and provide an appropriate knowledge base of artificial intelligence systems and social media platforms, including information regarding contexts and instances where technologies and functions that rely on artificial intelligence are in use;
+(ii) provide additional, specific information on—
+(I) the ways in which students are uniquely vulnerable to generative artificial intelligence and “human-like” or “companion” chatbots and other high-risk applications of artificial intelligence;
+(II) specific risks for different age groups of students; and
+(III) data privacy and management, including technologies that rely on artificial intelligence to—
+(aa) surveil students;
+(bb) track students' academic outcomes and engagement; and
+(cc) monitor students' online activities;
+(iii) provide information on the benefits of responsible use and strategies to encourage responsible use of artificial intelligence and social media platforms, including practical examples of how to teach and engage students to understand responsible use which may include professional development and training opportunities in addition to the information provided in the toolkit;
+(iv) provide information on the ways in which artificial intelligence and social media platform use outside of the classroom impacts student academic achievement, well-being, and mental health, and school climate;
+(v) inform how to recognize excessive, irresponsible, maladaptive, or otherwise unhealthy use of social media platforms in the educator’s age group of students;
+(vi) provide information on available resources educators can inform a student of if the educator identifies—
+(I) excessive, irresponsible, maladaptive, or otherwise unhealthy artificial intelligence and social media platform use or content; or
+(II) the use of these technologies impacting mental health;
+(vii) engagement strategies with parents, guardians, and caregivers to address excessive, irresponsible, maladaptive, or otherwise unhealthy artificial intelligence and social media platform use; and
+(viii) provide information on unique impacts for students based on race, language spoken, disability, geographic location, gender identity, or sexual orientation, including providing guidance for educators on how to present this information to students.
+(C) SPECIALIZED INSTRUCTIONAL SUPPORT PERSONNEL.—Such materials and resources for specialized instructional support personnel shall meet the requirements for educators under subparagraph (B) and also include—
+(i) clinically relevant information on the mental health impacts of excessive, irresponsible, maladaptive, or otherwise unhealthy artificial intelligence and social media platform use;
+(ii) more information on available in-school behavioral health or school resources that can be employed to assist in the prevention and early intervention of mental health concerns related to artificial intelligence and social media platform use;
+(iii) guidance regarding appropriate and inappropriate use of artificial intelligence and social media platforms within schools;
+(iv) more information on how to have discussions and engage with parents, guardians, and caregivers to promote responsible use of artificial intelligence and social media platforms and to address concerns and develop both prevention and intervention plans for students engaged in excessive, irresponsible, maladaptive, or otherwise unhealthy use;
+(v) information on how to find and connect students to behavioral health resources available within the school and the community; and
+(vi) specific information on communicating with parents, guardians, and caregivers about behavioral health services provided in the school day, including on obtaining parental consent for therapeutic services.(D) SCHOOL OR EDUCATIONAL AGENCY ADMINISTRATORS.—Such toolkits for school or educational agency administrators shall include—
+(i) definitions and an appropriate knowledge base of artificial intelligence systems and social media platforms, including specific information on generative artificial intelligence and “human-like” or “companion” chatbots;
+(ii) a primer on the ways in which artificial intelligence and social media platform use outside of the classroom impact student academic performance, well-being, mental health, and school climate;
+(iii) information on how to coordinate artificial intelligence and social media platform training for school staff and ideas for incorporating artificial intelligence and social media platform education into broader educational goals;
+(iv) information on responsible student data privacy and management, including technologies that rely on artificial intelligence to surveil students and such technologies mental health impacts on students;
+(v) information on unique impacts for students based on race, language spoken, disability, geographic location, gender identity, and sexual orientation;
+(vi) guidance on—
+(I) developing policies for a school, local educational agency, or State educational agency regarding how students and staff engage with artificial intelligence and social media platforms; and
+(II) incorporating student, parent, guardian, caregiver, and educator input in those policies; and
+(vii) guidance on—
+(I) information to provide to specialized instructional support personnel, educators, parents, guardians, caregivers, and students regarding behavioral health resources available within the school and community; and
+(II) how to ensure that such information is easily accessible, actionable, and publicly available
+(E) HEALTH CARE PROVIDERS WHO SERVE PEDIATRIC PATIENTS.—Such materials and resources for health care professionals who serve pediatric patients shall include—
+(i) definitions and an appropriate knowledge base of artificial intelligence systems and social media platforms, including specific information on generative artificial intelligence and “human-like” or “companion” chatbots;
+(ii) developmentally appropriate examples of appropriate and conductive use of, and relationships with, artificial intelligence and social media platforms;
+(iii) information on how to recognize excessive, irresponsible, maladaptive, or otherwise unhealthy use of social media platforms in their pediatric patients through conversations with their patients and their patients’ parents, guardians, and caregivers, including—
+(I) examples and explanations regarding how to begin and navigate those conversations; and
+(II) information on how to engage in a developmentally appropriate way with pediatric patients, parents, guardians, and caregivers about artificial intelligence and social media platforms and how to perform mental health screenings during routine visits; and
+(iv) information on how to treat or refer to treatment pediatric patients diagnosed with mental health issues related to or exacerbated by artificial intelligence and social media platforms;
+(v) information on unique impacts for pediatric patients based on race, language spoken, disability, geographic location, gender identity, and sexual orientation.
+(F) PARENTS, GUARDIANS, AND CAREGIVERS.—Such toolkits for parents, guardians, and caregivers shall include—
+(i) definitions and an appropriate knowledge base of artificial intelligence systems and social media platforms, including specific information on generative artificial intelligence and “human-like” or “companion” chatbots;
+(ii) information on what responsible use of artificial intelligence and social media platforms by students looks like at different developmental stages;
+(iii) information regarding how to recognize excessive, irresponsible, maladaptive, or otherwise unhealthy use of social media platforms;
+(iv) recommendations on initiating and facilitating a conversation about excessive, irresponsible, maladaptive, or otherwise unhealthy artificial intelligence or social media platform use;
+(v) available resources for parents, guardians, and caregivers who need further assistance, including individuals or organizations that may be of service;
+(vi) a description of how to work with educators and health care professionals who serve pediatric patients to address excessive, irresponsible, maladaptive, or otherwise unhealthy artificial intelligence and social media platform use; and
+(vii) information on unique impacts for students based on race, language spoken, disability, geographic location, gender identity, and sexual orientation.(e) Dissemination.—The Secretaries shall create a communications strategy and dissemination plan to disseminate the toolkits containing the educational materials and resources required under subsection (a) to all of the audiences described in subsection (b) through the pathways necessary to reach the audiences, which may include—
+(1) local educational agencies;
+(2) schools or education centers;
+(3) Bureau-funded schools;
+(4) State educational agencies;
+(5) Tribal, State, or local health departments;
+(6) after-school programs;
+(7) labor organizations, and professional organizations, representing educators, health care providers serving pediatric patients, specialized instructional support personnel, and other groups as determined necessary by the Secretary;
+(8) the foster care system for youth living in congregate care, to provide education to individuals working with foster youth;
+(9) carceral settings supporting juvenile offenders;
+(10) Federally qualified health centers and certified community behavioral health clinics, as described in section 223 of the Protecting Access to Medicare Act of 2014 (42 U.S.C. 1396a note) and rural health centers;
+(11) hospitals; and
+(12) other entities as determined necessary by the Secretaries.
+(f) Authorization Of Appropriations.—There is authorized to be appropriated to carry out this section $2,000,000.

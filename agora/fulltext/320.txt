@@ -1,0 +1,26 @@
+A BILL
+
+To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to include additional priorities as research and extension initiatives, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Land Grant Research Prioritization Act of 2023”.
+SEC. 2. Additional research and extension priorities.
+
+Section 1672(d) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925(d)) is amended by adding at the end the following:
+
+“(21) ADVANCED MECHANIZED HARVESTER TECHNOLOGIES RESEARCH AND EXTENSION.—
+
+“(A) IN GENERAL.—Research and extension grants may be made under this section for the purpose of developing and evaluating technologies to mechanize agricultural processes.
+
+“(B) EMPHASIS.—In awarding grants under subparagraph (A), the Secretary may place emphasis on mechanizing the process for harvesting specialty crops.
+“(22) AGRICULTURAL APPLICATION OF ARTIFICIAL INTELLIGENCE RESEARCH AND EXTENSION.—
+
+“(A) IN GENERAL.—Research and extension grants may be made under this section for the purpose of developing and evaluating agricultural uses of artificial intelligence.
+
+“(B) EMPHASIS.—In awarding grants under subparagraph (A), the Secretary may place emphasis on uses of artificial intelligence that improve specialty crop production.
+“(23) INVASIVE SPECIES RESEARCH AND EXTENSION.—Research and extension grants may be made under this section for the purpose of supporting research projects at land-grant colleges and universities (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103)) to develop and apply methods to manage and eradicate invasive species of plants and animals, including through methods of biocontrol.
+
+“(24) AQUACULTURE RESEARCH AND EXTENSION.—Research and extension grants may be made under this section for the purpose of supporting research projects at land-grant colleges and universities (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103)) to develop and apply aquaculture methods, including through the propagation and rearing of economically and ecologically valuable aquatic and marine species.”.

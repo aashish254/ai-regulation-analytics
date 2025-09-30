@@ -1,0 +1,24 @@
+ 7106--A
+2023-2024 Regular Sessions
+IN ASSEMBLY
+May 10, 2023
+
+
+Introduced by M. of A. BORES, WALKER, TAYLOR, CUNNINGHAM, McDONALD, ROZIC, LEE, L. ROSENTHAL, EPSTEIN, TAPIA, RIVERA, BURGOS, GIBBS, DAVILA, DINOWITZ, SILLITTI, CARROLL, SIMON -- read once and referred to the Committee on Election Law – committee discharged, bill amended, ordered reprinted as amended and recommitted to said committee
+
+
+AN ACT to amend the election law, in relation to the use and disclosure of synthetic media
+
+
+The People of the State of New York, represented in Senate and Assembly, do enact as follows:
+
+ Section 1. Short title. This act shall be known and may be cited as the "political artificial intelligence disclaimer (PAID) act".
+
+ § 2. Section 14-106 of the election law is amended by adding a new subdivision 2-a to read as follows:
+
+
+2-a. 
+(a) Any political communication covered by this section which was produced by or includes any synthetic media shall be required to disclose the use of such synthetic media. The disclosure on printed or digital political communications, including but not limited to brochures, flyers, posters, mailings, or internet advertising shall be printed or typed in an appropriate legible form to read as follows: "This political communication was created with the assistance of artificial intelligence". The disclosure on non-printed or digital political communications shall clearly and prominently display and/or speak the following statement: "This political communication was created with the assistance of artificial intelligence". In the case of a political communication that is not visual, such as radio or automated telephone calls, clearly speaking the statement will satisfy the requirements of this subdivision.
+(b) For the purposes of this subdivision, "synthetic media" means any form of media including text, image, video or sound fully or partially created or modified through the use of artificial intelligence algorithms.
+
+ § 3. This act shall take effect January 1, 2024.

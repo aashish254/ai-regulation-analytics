@@ -1,0 +1,51 @@
+ SEC. 203. SPECTRUM MANAGEMENT IMPROVEMENTS.
+
+
+(a) Prototyping.—Consistent with subparagraphs (F), (L), (P), and (U) of section 103(b)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(b)(2)), the Under Secretary, in coordination with the Commission and in consultation with other relevant Federal agencies, shall develop, establish, prototype, and support the implementation of common models, common methodologies, and common inputs to inform, with respect to frequencies assigned on a primary or co-primary basis to 1 or more Federal entities, electromagnetic spectrum management decisions relating to—
+
+
+(1) technologies and techniques to control radio frequency emissions and interference;
+
+
+(2) advanced antenna arrays, and artificial intelligence systems and technologies capable of operating advanced antenna arrays, including multiple-input, multiple-output antennas, beam forming and steering technology, antenna nulling technology, and conformal arrays;
+
+
+(3) network sensing and monitoring technologies;
+
+
+(4) advanced receivers that incorporate new technologies supporting new waveforms and multiple bands;
+
+
+(5) dynamic spectrum access technologies across wireless systems and frequencies, including local-to-the-radio and cognitive multidomain access;
+
+
+(6) novel spectrum access technologies;
+
+
+(7) artificial intelligence systems to enable dynamic spectrum access, Internet of Things networks, and other advanced communications technologies; and
+
+
+(8) optical and quantum communications technologies.
+
+ (b) Spectrum Management And Advanced Communications Technologies.—Section 104 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 903) is amended by adding at the end the following:
+
+
+“(f) Identification And Facilitation Of Implementation Of Spectrum Management Technologies.—The Under Secretary shall identify and facilitate implementation of technologies that promote, with respect to frequencies assigned on a primary or co-primary basis to 1 or more Federal entities—
+
+
+“(1) dynamic spectrum access;
+
+
+“(2) network sensing and monitoring; and
+
+
+“(3) optical and quantum communications.
+
+
+“(g) Prototyping Of Advanced Communications Technologies.—The Under Secretary shall, with respect to frequencies assigned on a primary or co-primary basis to 1 or more Federal entities—
+
+
+“(1) encourage the development of, and broad participation in, a skilled workforce to conduct prototyping of advanced communications technologies; and
+
+
+“(2) support partnerships among institutions to develop a skilled workforce to conduct prototyping of advanced communications technologies.”.

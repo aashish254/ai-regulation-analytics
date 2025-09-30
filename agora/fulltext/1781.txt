@@ -1,0 +1,32 @@
+STATE OF MISSISSIPPI Office of the Governor
+ 
+EXECUTIVE ORDER NO. 1584
+WHEREAS, the State of Mississippi ("the State") recognizes that artificial intelligence technologies ("AI") are already being utilized by state agencies, that such emerging technologies will transform the way the State conducts business and provides services to its citizens, and that such technologies must also be carefully deployed to mitigate potential risks and harms; and
+WHEREAS, the State aspires to fully harness AI to modernize the delivery of services to its citizens in a more efficient and effective manner, while at the same time protecting and respecting the privacy, security and confidentiality rights of all Mississippians; and
+WHEREAS, to address AI, state agencies should identify and prepare for potential risks and harms as they deploy AI tools and systems throughout state government. To this end, the State needs to support stakeholders as they gather information and decide what, when, where, and how to utilize and oversee the use of these technologies; and
+WHEREAS, the State acknowledges AI cannot completely replace human creativity or involvement and wishes to promote the responsible use of AI tools and systems in a manner that aligns and is consistent with the State's policies, goals, values, and missions while maintaining citizen trust and balancing the benefits, risks, and potential harms of AI; and
+WHEREAS, as the use of AI has implications for state, national, and personal security and privacy, it is necessary to ensure the use of AI is conducted in a responsible, ethical, transparent and beneficial manner; and
+WHEREAS, the Mississippi Department of Information of Technology Services ("ITS") is uniquely situated in the State to aid in the development of principles, guidelines and criteria relating to emerging technologies, enterprise security, information technology acquisitions, etc. pursuant to Title 25, Chapter 53 of the Mississippi Code.
+NOW, THEREFORE, I, Tate Reeves, by the authority vested in me as Governor by the Constitution and laws of the State of Mississippi, do hereby order and direct as follows:
+I. Definitions. For the purposes of this Executive Order, the following terms shall be defined as indicated below:
+A. The term "artificial intelligence" has the meaning set forth in 15 U.S.C. 9401(3): a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine and human- based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action.
+B. The term " generative AI" refers to AI that is capable of and used to produce new content, including, audio, code, images, text, and video, according to the data inputs and machine learning model it is trained on.
+C. The terms "artificial intelligence" and "generative AI" as defined herein shall be collectively referred to as "AI".
+D. The term "state agency" has the meaning set forth in Miss. Code Ann. 2553-3 to include all the various state agencies, officers, departments, boards, commissions, offices and institutions of the State, excluding Institutions of Higher Learning.
+II. Directive. In accordance with the directives of Miss. Code Ann. 25-53-1 to maximize the use and benefit from technologies and services, and to improve the efficiency of providing common technology services across agency boundaries, ITS is directed and empowered to:
+A. Conduct an inventory of all AI technologies being planned, piloted, acquired, developed, and/or utilized by each state agency. In order to facilitate such inventory, ITS shall develop a standardized form, and such form shall be provided by ITS to each state agency for completion. Such completed forms shall be given protection under Miss. Code Ann. 25-61-11.2;
+B. Evaluate the processes, guidelines (including procurement) and/or uses of AI currently in place at each state agency; and
+C. Coordinate with state agencies to develop policy recommendations for each agency' s responsible use of AI, including principles, guidelines, and criteria to govern the acquisition, development and utilization of AI by state agencies.
+Such policy recommendations for the acquisition and use of AI shall be rooted in principles of fairness, innovation, privacy, security and safety, transparency, accountability, accessibility, validity, and reliability with safeguards to protect against potential harms and risks.
+III. Stakeholder Engagement. ITS shall facilitate statewide coordination on the responsible, ethical, and productive use of AI in state government. ITS may engage Mississippi government stakeholders and/or other industry experts in AI to advise and/or provide recommendations, as needed, on best practices, uses, strategies, and other related tasks.
+IV. State Cooperation. State agencies shall, to the extent consistent with Mississippi law, collaborate with ITS, including, but not limited to, completing the requested inventory of AI technologies on the form to be provided by ITS, furnishing assistance and information as requested by ITS, and specifying to ITS a designated agency staff person for AI coordination.
+V. Implementation and Effective Date. This Executive Order shall be implemented to the maximum extent possible consistent with applicable law. Nothing in this Executive Order shall be construed as impairing or otherwise affecting the authority granted by law to any state agency, or the head thereof, except to the extent expressly set forth in this Executive Order. This Executive Order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any private party against the State, any of its agencies, departments, or entities, its officers, employees, or agents, or any other person. This Executive Order shall be effective upon execution and remain in force until amended, superseded or rescinded.
+IN TESTIMONY WHEREOF, I have hereunto set my hand and caused the Great Seal of the State of Mississippi to be affixed.
+DONE at the Capitol in the City of Jackson, the day of January, in the year of our Lord two thousand twenty-five, and of the Independence of the United States of America, the two hundred and forty-ninth.
+TATE REEVES
+GOVERNOR
+
+BY THE GOVERNOR:
+ 
+MICHAEL WATSON
+SECRETARY OF STATE

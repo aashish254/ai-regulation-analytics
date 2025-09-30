@@ -1,0 +1,148 @@
+ S. 3504
+
+
+To establish a course of education and pilot program on authentication of digital content provenance for certain Department of Defense media content, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+December 13, 2023
+
+
+Mr. Peters introduced the following bill; which was read twice and referred to the Committee on Armed Services
+
+
+A BILL
+To establish a course of education and pilot program on authentication of digital content provenance for certain Department of Defense media content, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Digital Defense Content Provenance Act of 2023”.
+
+ SEC. 2. COURSE OF EDUCATION AND PILOT PROGRAM ON AUTHENTICATION OF DIGITAL CONTENT PROVENANCE FOR CERTAIN DEPARTMENT OF DEFENSE MEDIA CONTENT.
+
+
+(a) Course Of Education.—
+
+
+(1) IN GENERAL.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense, acting through the Director of the Defense Media Activity, shall establish a course of education at the Defense Information School, the purpose of which shall be to provide instruction on the practical concepts and skills needed by public affairs, audiovisual, visual information, and records management specialists to understand the following:
+
+
+(A) Digital content provenance for applicable Department media content.
+
+
+(B) The challenges posed to missions and operations of the Department by a digital content forgery.
+
+
+(C) How industry open technical standards may be used to authenticate the digital content provenance of applicable Department media content.
+
+
+(2) MATTERS.—The course of education under paragraph (1) shall cover the following matters:
+
+
+(A) The challenges to missions and operations of the Department posed by a digital content forgery.
+
+
+(B) The development of industry open technical standards for authenticating the digital content provenance of applicable Department media content.
+
+
+(C) Hands-on training on techniques to record secure and authenticated digital content to document and communicate relevant themes and messages of the Department.
+
+
+(D) Training on—
+
+
+(i) the use of industry open technical standards for authenticating digital content provenance in the completion of post-production tasks; and
+
+
+(ii) the transmission of applicable Department media content in both operational and nonoperational environments.
+
+
+(E) Such other matters as the Director of the Defense Media Activity considers appropriate.
+
+
+(3) REPORT.—Not later than one year after the date of the establishment of the course of education under paragraph (1), the Director of the Defense Media Activity shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the following:
+
+
+(A) The status of the development of a curriculum for such course of education.
+
+
+(B) The implementation plan of the Director for such course of education, including the following:
+
+
+(i) The expertise and qualifications of the personnel of the Department responsible for teaching such course of education.
+
+
+(ii) The list of sources consulted or otherwise used to develop the curriculum for such course of education.
+
+
+(iii) A description of the industry open technical standards referred to in paragraph (1)(C).
+
+
+(iv) The status of the implementation of such course of education.
+
+
+(C) The resources available to the Director to carry out this subsection and whether the Director requires any additional resources to carry out this subsection.
+
+ (b) Pilot Program On Implementing Digital Content Provenance Standards.—
+
+
+(1) PILOT PROGRAM.—Not later than one year after the date of the enactment of this Act, the Director of the Defense Media Activity shall carry out a pilot program to assess the feasibility and advisability of implementing industry open technical standards for digital content provenance for official photographs and videos of the Department of Defense publicly released by the Defense Visual Information Distribution Service, or any successor operation, and other distribution platforms, systems, and services used by the Department of Defense (in this subsection referred to as the “pilot program”).
+
+
+(2) ELEMENTS.—In carrying out the pilot program, the Director of the Defense Media Activity shall—
+
+
+(A) establish a process for using industry open technical standards to verify the digital content provenance of applicable Department media content;
+
+
+(B) apply technology solutions that comport with industry open technical standard for digital content provenance to photographs and videos of the Department publicly released as described in paragraph (1) after the date of the enactment of this Act;
+
+
+(C) assess the feasibility and advisability of applying an industry open technical standard for digital content provenance to historical visual information records of the Department stored at the Defense Visual Information Records Center; and
+
+
+(D) develop and apply measure of effectiveness for the implementation of the pilot program.
+
+
+(3) CONSULTATION.—In carrying out the pilot program, the Director of the Defense Media Activity may consult with federally funded research and development centers, entities within private industry, institutions of higher education, and such other entities as the Director considers appropriate.
+
+
+(4) TERMINATION.—The pilot program shall terminate on January 1, 2027.
+
+
+(5) REPORT.—
+
+
+(A) IN GENERAL.—Not later than January 1, 2026, the Director of the Defense Media Activity shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+
+
+(B) ELEMENTS.—The report under subparagraph (A) shall include the following:
+
+
+(i) The findings of the Director with respect to the pilot program.
+
+
+(ii) The name of each entity the Director consulted with pursuant to paragraph (3) in carrying out the pilot program.
+
+
+(iii) An assessment by the Director of the effectiveness of the pilot program.
+
+
+(iv) A recommendation by the Director as to whether the pilot program should be made permanent.
+
+ (c) Definitions.—In this section:
+
+
+(1) The term “applicable Department media content” means any media holding generated, stored, or controlled by the Defense Media Activity.
+
+
+(2) The term “digital content forgery” means the use of emerging technologies, including artificial intelligence and machine learning techniques, to fabricate or manipulate audio, visual, or text content with the intent to mislead.
+
+
+(3) The term “digital content provenance” means the verifiable chronology of the origin and history of an image, video, audio recording, electronic document, or other form of digital content.

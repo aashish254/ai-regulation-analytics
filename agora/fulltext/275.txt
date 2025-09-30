@@ -1,0 +1,56 @@
+A BILL
+
+To prohibit the use of Federal funds to launch a nuclear weapon using an autonomous weapons system that is not subject to meaningful human control, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023”.
+
+SEC. 2. Findings.
+
+Congress finds the following:
+
+(1) Department of Defense Directive 3000.09 (relating to Autonomy in Weapons Systems), dated November 21, 2012, defines “autonomous weapons system” as a weapons system that, once activated, can select and engage targets without further intervention by an operator.
+
+(2) Article 3, clause 8 of the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which may be Deemed to be Excessively Injurious or to Have Indiscriminate Effects, signed at Geneva October 10, 1980 (commonly known as the“ Convention on Certain Conventional Weapons”) prohibits the indiscriminate use of weapons, which is defined in the Convention on Certain Conventional Weapons as “any placement of such weapons…which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated”.
+
+(3) Section 5.10 of the Department of Defense Law of War Manual states that “[c]ommanders, at all levels, have a great responsibility to exercise the leadership necessary to reduce the risk of harm to civilians and civilian objects”.
+
+(4) In a report on autonomous weapons systems published on December 1, 2021, Human Rights Watch and the International Human Rights Clinic of Harvard Law School argue that “[r]obots lack the compassion, empathy, mercy, and judgment necessary to treat humans humanely, and they cannot understand the inherent worth of human life”.
+
+(5) The 2022 Nuclear Posture Review states “[i]n all cases, the United States will maintain a human ‘in the loop’ for all actions critical to informing and executing decisions by the President to initiate and terminate nuclear weapon employment”.
+
+(6) The National Security Commission on Artificial Intelligence recommends that the United States “clearly and publicly affirm existing U.S. policy that only human beings can authorize employment of nuclear weapons and seek similar commitments from Russia and China”.
+
+(7) On February 16, 2023, the Secretary of State issued a Political Declaration on Responsible Military Use of Artificial Intelligence and Autonomy, which states that “States should maintain human control and involvement for all actions critical to informing and executing sovereign decisions concerning nuclear weapons”.
+
+(8) Large-scale nuclear war would lead to the deaths of millions of people, firestorms, radioactive fallout contamination, agricultural failure, and catastrophic climate results.
+
+(9) Compliance with international humanitarian law, human control and human legal judgment is essential in the nuclear command and control process.
+
+SEC. 3. Sense of Congress.
+
+It is the sense of Congress that—
+
+(1) the use of lethal, autonomous nuclear weapons systems that are not subject to meaningful human control cannot properly adhere to international humanitarian law; and
+
+(2) any decision to launch a nuclear weapon should not be made by artificial intelligence.
+SEC. 4. Prohibition on use of Federal funds to deploy nuclear weapons with autonomous weapons systems not subject to meaningful human control.
+
+(a) In general.—None of the funds authorized to be appropriated or otherwise made available for any fiscal year may be obligated or expended to use an autonomous weapons system that is not subject to meaningful human control—
+
+(1) to launch a nuclear weapon; or
+
+(2) to select or engage targets for the purposes of launching a nuclear weapon.
+
+(b) Definitions.—In this section:
+
+(1) AUTONOMOUS WEAPONS SYSTEM.—The term “autonomous weapons system” has the meaning given such term in Department of Defense Directive 3000.09 (relating to Autonomy in Weapons Systems), as in effect on the date of the enactment of this Act.
+
+(2) MEANINGFUL HUMAN CONTROL.—The term “meaningful human control” means, with respect to an autonomous weapons system, human control of—
+
+(A) the selection and engagement of targets; and
+
+(B) the time, location, and manner of use.

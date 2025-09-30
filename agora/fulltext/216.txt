@@ -1,0 +1,35 @@
+SEC. 1511. COMPARATIVE ANALYSIS OF CYBERSECURITY CAPABILITIES.
+
+(a) Comparative Analysis Required.--Not later than 180 days after the date of the enactment of this Act, the Chief Information Officer and the Director of Cost Assessment and Program Evaluation (CAPE) of the Department of Defense, in consultation with the Principal Cyber Advisor to the Secretary of Defense and the Chief Information Officers of each of the military departments, shall jointly sponsor a comparative analysis, to be conducted by the Director of the National Security Agency and the Director of the Defense Information Systems Agency, of the following:
+	(1) The cybersecurity tools, applications, and capabilities offered as options on enterprise software agreements for cloud-based productivity and collaboration suites, such as is offered under the Defense Enterprise Office Solution and Enterprise Software Agreement contracts with Department of Defense components, relative to the cybersecurity tools, applications, and capabilities that are currently deployed in, or required by, the Department to conduct--
+		(A) asset discovery;
+		(B) vulnerability scanning;
+		(C) conditional access (also known as ``comply-to-connect'');
+		(D) event correlation;
+		(E) patch management and remediation;
+		(F) endpoint query and control;
+		(G) endpoint detection and response;
+		(H) data rights management;
+		(I) data loss prevention;
+		(J) data tagging;
+		(K) data encryption;
+		(L) security information and event management; and
+		(M) security orchestration, automation, and response.
+	(2) The identity, credential, and access management (ICAM) system, and associated capabilities to enforce the principle of least privilege access, offered as an existing option on an enterprise software agreement described in paragraph (1), relative to--
+		(A) the requirements of such system described in the Zero Trust Reference Architecture of the Department; and
+		(B) the requirements of such system under development by the Defense Information Systems Agency.
+	(3) The artificial intelligence and machine-learning capabilities associated with the tools, applications, and capabilities described in paragraphs (1) and (2), and the ability to host Government or third-party artificial intelligence and machine-learning algorithms pursuant to contracts referred to in paragraph (1) for such tools, applications, and capabilities.
+	(4) The network consolidation and segmentation capabilities offered on the enterprise software agreements described in paragraph (1) relative to capabilities projected in the Zero Trust Reference Architecture.
+	(5) The automated orchestration and interoperability among the tools, applications, and capabilities described in paragraphs (1) through (4).
+(b) Elements of Comparative Analysis.--The comparative analysis conducted under subsection (a) shall include an assessment of the following:
+	(1) Costs.
+	(2) Performance.
+	(3) Sustainment.
+	(4) Scalability.
+	(5) Training requirements.
+	(6) Maturity.
+	(7) Human effort requirements.
+	(8) Speed of integrated operations.
+	(9) Ability to operate on multiple operating systems and in multiple cloud environments.
+	(10) Such other matters as the Chief Information Officer and the Director of Cost Assessment and Program Evaluation consider appropriate.
+(c) Briefing Required.--Not later than 30 days after the date on which the comparative analysis required under subsection (a) is completed, the Chief Information Officer and the Director of Cost Assessment and Program Evaluation (CAPE) of the Department of Defense shall jointly provide the congressional defense committees with a briefing on the findings of the Chief Information Officer and the Director with respect to such analysis, together with such recommendations for legislative or administrative action as the Chief Information Officer and the Director may have with respect to the matters covered by such analysis.

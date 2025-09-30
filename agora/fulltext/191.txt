@@ -1,0 +1,19 @@
+SEC. 1507. REVIEW AND PLAN RELATING TO CYBER RED TEAMS OF DEPARTMENT OF DEFENSE.
+
+(a) Review Relating to Prior Joint Assessment.--
+	(1) Review required.--Not later than 90 days after the date of the enactment of this Act, the officials described in subsection (c) shall review, and assess the status of the implementation of, the recommendations set forth by the Secretary of Defense in response to the joint assessment requirement under section 1660 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 133 Stat. 1771).
+	(2) Elements.--The review under paragraph (1) shall include, with respect to the recommendations specified in such paragraph--
+		(A) the timelines associated with each such recommendation, regardless of whether the recommendation is fully implemented or yet to be fully implemented; and
+		(B) a description of any impediments to the implementation of such recommendations encountered.
+(b) Plan Required.--
+	(1) Plan.--Not later than 180 days after the date of the enactment of this Act, the officials described in subsection (c) shall submit to the congressional defense committees a plan, developed taking into account the findings of the review under subsection (a), to ensure cyber red teams of the Department of Defense achieve sufficient capacity and capability to provide services and meet current and projected future demands on a Defense-wide basis. Such plan shall include--
+		(A) a description of the funding necessary for such cyber red teams to achieve such capacity and capability;
+		(B) a description of any other resources, personnel, infrastructure, or authorities for access to information necessary for such cyber red teams to achieve such capacity
+and capability (including with respect to the emulation of threats from foreign countries with advanced cyber capabilities, automation, artificial intelligence or machine learning, and data collection and correlation); and(C) updated joint service standards and metrics to ensure the training, staffing, and equipping of such cyber red teams at levels necessary to achieve such capacity and capability.
+	(2) Implementation.--Not later than one year after the date of enactment of this Act, the Secretary of Defense shall prescribe such regulations and issue such guidance as the Secretary determines necessary to implement the plan developed under subsection (a).
+(c) Officials Described.--The officials described in this subsection are the Principal Cyber Advisor to the Secretary of Defense, the Chief Information Officer of the Department of Defense, the Director of Operational Test and Evaluation, and the Commander of the United States Cyber Command.
+(d) Annual Reports.--Not later than January 31, 2025, and not less frequently than annually thereafter until January 31, 2031, the Director of Operational Test and Evaluation shall include in each annual report required under section 139(h) of title 10, United States Code, an update on progress made with respect to the implementation of this section, including the following:
+	(1) The results of test and evaluation events, including any resource or capability shortfalls limiting the capacity or capability of cyber red teams of the Department of Defense to meet operational requirements.
+	(2) The extent to which operations of such cyber red teams have expanded across the competition continuum, including during cooperation and competition phases, to match adversary positioning and cyber activities.
+	(3) A summary of identified categories of common gaps and shortfalls across cyber red teams of the military departments and Defense Agencies (as such terms are defined in section 101 of title 10, United States Code).
+	(4) Any identified lessons learned that would affect training or operational employment decisions relating to the cyber red teams of the Department of Defense.

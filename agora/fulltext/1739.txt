@@ -1,0 +1,15 @@
+SEC. 6504. Establishment of Artificial Intelligence Security Center.
+
+(a) Definition of counter-artificial intelligence.--In this section, the term "counter-artificial intelligence" means techniques or procedures to extract information about the behavior or characteristics of an artificial intelligence system, or to learn how to manipulate an artificial intelligence system, in order to subvert the confidentiality, integrity, or availability of an artificial intelligence system or adjacent system.
+
+(b) Establishment.--Not later than 90 days after the date of the enactment of this Act, the Director of the National Security Agency shall establish an Artificial Intelligence Security Center (referred to in this section as the "Center") within the Cybersecurity Collaboration Center of the National Security Agency.
+
+(c) Functions.--The functions of the Artificial Intelligence Security Center shall be as follows:
+
+(1) Developing guidance to prevent or mitigate counter-artificial intelligence techniques.
+
+(2) Promoting secure artificial intelligence adoption practices for managers of national security systems (as defined in section 3552 of title 44, United States Code) and elements of the defense industrial base.
+
+(3) Such other functions as the Director considers appropriate.
+
+(d) Disestablishment.--The Director of the National Security Agency may disestablish the Center established in subsection (b) not earlier than 3 years after the date of the enactment of this Act provided that the Director of the National Security Agency submits to the congressional intelligence committees a report documenting the rationale for disestablishment of the Center, including resource trades, effectiveness, priority, and any other pertinent considerations not later than 6 months prior to the disestablishment.

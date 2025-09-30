@@ -1,0 +1,20 @@
+SEC. 7513. POLICIES ESTABLISHED BY DIRECTOR OF NATIONAL INTELLIGENCE FOR ARTIFICIAL INTELLIGENCE CAPABILITIES.
+
+(a) In General.--Section 6702 of the Intelligence Authorization Act for Fiscal Year 2023 (50 U.S.C. 3334m) is amended--
+	(1) in subsection (a), in the matter preceding paragraph (1), by striking subsection (b)'' and inserting subsection (c)'';
+	(2) by redesignating subsection (b) as subsection (c); and
+	(3) by inserting after subsection (a) the following:
+``(b) Policies.--
+``(1) In general.--In carrying out subsection (a)(1), not later than 1 year after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2024, the Director of National Intelligence, in consultation with the heads of the elements of the intelligence community, the Director of the Office of Management and Budget, and such other officials as the Director of National Intelligence determines appropriate, shall establish the policies described in paragraph (2).
+``(2) Policies described.--The policies described in this paragraph are policies for the acquisition, adoption, development, use, coordination, and maintenance of artificial intelligence capabilities that--
+``(A) establish a lexicon relating to the use of machine learning and artificial intelligence developed or acquired by elements of the intelligence community;``(B) establish minimum guidelines for evaluating the performance of models developed or acquired by elements of the intelligence community, such as by--
+``(i) specifying conditions for the continuous monitoring of artificial intelligence capabilities for performance, including the conditions for retraining or retiring models based on performance;
+``(ii) documenting performance objectives, including specifying how performance objectives shall be developed and contractually enforced for capabilities procured from third parties;
+``(iii) specifying the manner in which models should be audited, as necessary, including the types of documentation that should be provided to any auditor; and
+``(iv) specifying conditions under which models used by elements of the intelligence community should be subject to testing and evaluation for vulnerabilities to techniques meant to undermine the availability, integrity, or privacy of an artificial intelligence capability;``(C) establish minimum guidelines for tracking dependencies in adjacent systems, capabilities, or processes impacted by the retraining or sunsetting of any model described in subparagraph (B);
+``(D) establish minimum documentation requirements for capabilities procured from third parties, aligning such requirements, as necessary, with existing documentation requirements applicable to capabilities developed by elements of the intelligence community;
+``(E) establish minimum standards for the documentation of imputed, augmented, or synthetic data used to train any model developed, procured, or used by an element of the intelligence community; and
+``(F) provide guidance on the acquisition and usage of models that have previously been trained by a third party for subsequent modification and usage by such an element.
+``(3) Policy review and revision.--The Director of National Intelligence shall annually review or revise each policy established under paragraph (1).''.
+
+(b) Conforming Amendment.--Section 6712(b)(1) of such Act (50 U.S.C. 3024 note) is amended by striking section 6702(b)'' and inserting section 6702(c)''.

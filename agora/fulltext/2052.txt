@@ -1,0 +1,265 @@
+WHEREAS the State of California is a global leader in innovation, research,
+development, human capital, and entrepreneurship; and
+WHEREAS Generative Artificial Intelligence ("GenAI") represents a
+significant leap forward in technology, by generating novel text, images, and
+other content, which will transform the way that the State and the world
+conduct business and serve the public; and
+WHEREAS GenAI has the potential to catalyze innovation and the rapid
+development of a wide range of benefits for Californians and the California
+economy, such as advances in medicine, wildfire forecasting and prevention,
+and climate science, and to push the bounds of human creativity and
+capacity; and
+WHEREAS California is leading the world in GenAI innovation and research,
+and is home to 35 of the world's top 50 Artificial Intelligence ("Al") companies;
+and
+WHEREAS San Francisco and San Jose are dominating this technological
+revolution, accounting for a quarter of all Al patents, conference papers, and
+companies globally; and
+WHEREAS the State of California endeavors to continue leading the world
+in the responsible development, adoption, and implementation of new
+technologies for the benefit of all Californians and the California economy; and
+WHEREAS GenAI can enhance human potential and creativity but must
+be deployed and regulated carefully to mitigate and guard against a new
+generation of risks; and
+WHEREAS the State of California is committed to accuracy, reliability, and
+ethical outcomes when adopting GenAI technology, engaging and supporting
+historically vulnerable and marginalized communities, and serving its residents,
+workers, and businesses in a transparent, engaged, and equitable way; and
+WHEREAS the State of California seeks to realize the potential benefits of
+GenAI for the good of all California residents, through the development and
+deployment of GenAI tools that improve the equitable and timely delivery of
+services, while balancing the benefits and risks of these new technologies; and
+WHEREAS the California state workforce is vital to California's continued
+prosperity and the State seeks to harness the potential of GenAI for the benefit
+of the state government workforce; and
+WHEREAS California is home to the University of California, Berkeley,
+College of Computing, Data Science, and Society and Stanford University's
+Institute for Human-Centered Artificial Intelligence, which are world-leading
+research institutions in GenAI; and
+WHEREAS the location of these institutions in California provides a unique
+opportunity for academic research and government collaboration; and
+WHEREAS GenAI development is advancing and accelerating at an
+exponential pace; and
+WHEREAS the unprecedented speed of innovation and deployment of
+GenAI technologies necessitates measured guardrails to protect against
+potential risks or malicious uses, including but not limited to, bioterrorism,
+cyberattacks, disinformation, deception, 1 and discrimination or bias;2 and
+WHEREAS the promise of GenAI requires the creation of a risk-safety
+ecosystem and the investment of private companies and research institutions to
+foster talent dedicated to trust and safety in these new frontiers; and
+WHEREAS research institutions face significant barriers in accessing the vast
+amounts of computing power necessary to use GenAI for research and
+education and there is a need for a public-private effort to overcome such
+barriers; and
+WHEREAS thoughtful, responsive governance at the beginning of a
+technology's lifecycle can maximize equitable distribution of the benefits,
+minimize adverse impacts and abuse by bad actors, and reduce barriers to
+entry into emerging markets; and
+WHEREAS the development of GenAI will necessitate united governance
+on issues of consumer data, financial services, healthcare, and innumerable
+other areas critical to our society, and my administration looks forward to
+engaging with the Legislature in furtherance of this aim; and
+WHEREAS California is the most populous, diverse state in the nation and a
+global technology leader uniquely situated to lead the world in responsibly
+developing, implementing, and governing GenAI, by combining the strengths of
+California's world-class tech industry, universities, economy, and workforce.
+NOW, THEREFORE, I, GAVIN NEWSOM, Governor of the State of California,
+in accordance with the authority vested in me by the State Constitution and
+statutes of the State of California, do hereby issue the following Order to
+become effective immediately:
+IT IS HEREBY ORDERED THAT:
+1) Within 60 days of issuance of this Order, the Government Operations
+Agency, the California Department of Technology, the Office of Data
+and Innovation, and the Governor's Office of Business and Economic
+Development, in collaboration with other State agencies and
+departments and their workforce, shall draft a report to the Governor
+examining the most significant, potentially beneficial use cases for
+deployment of GenAI tools by the State. The report shall also explain
+the potential risks to individuals, communities, and government and
+state government workers, with a focus on high-risk use cases, such as
+where GenAI is used to make a consequential decision affecting
+access to essential goods and services. Additionally, the report shall
+include but not be limited to: risks stemming from bad actors and
+insufficiently guarded governmental systems, unintended or emergent
+effects, and potential risks toward democratic and legal processes,
+public health and safety, and the economy. The report shall be
+regularly assessed for any significant developments or necessary
+updates and as appropriate, be done in consultation with civil society,
+academia, industry experts, and the state government workforce or
+organizations that represent state government employees.
+2) No later than March 2024, the California Cybersecurity Integration
+Center and the California State Threat Assessment Center, both
+established within the Governor's Office of Emergency Services, and
+inclusive of the California Department of Technology, the California
+Military Department, and the California Highway Patrol, shall perform a
+joint risk analysis of potential threats to and vulnerabilities of California's
+critical energy infrastructure by the use of GenAI, including those which
+could lead to mass casualty events and environmental emergencies,
+and develop, in consultation with external experts as appropriate from
+civil society, academia, and industry, a strategy to assess similar
+potential threats to other critical infrastructure. Once this analysis is
+completed, these agencies shall provide a classified briefing to the
+Governor and, where appropriate and without divulging classified
+information, make public recommendations for further administrative
+actions and/or collaboration with the Legislature to guard against these
+potential threats and vulnerabilities. These recommendations shall
+address how to ensure systems are regularly tested and monitored to
+detect and avoid unintended behavior, and how to ensure they
+remain under effective human control. At a cadence deemed
+appropriate by the Governor's Office of Emergency Services, the
+analysis and public recommendations should be updated to reflect
+changes to the technology, its applications, and risk management
+processes and learnings.
+3) To ensure State government fosters a safe and responsible innovation
+ecosystem that puts Al systems and tools to the best uses for
+Californians:
+a. By January 2024, the Government Operations Agency, the
+California Department of General Services, the California
+Department of Technology, and the California Cybersecurity
+Integration Center, shall issue general guidelines for public sector
+procurement, uses, and required trainings for use of GenAI,
+including for high-risk scenarios such as for consequential
+decisions affecting access to essential goods and services. The
+guidelines should build on guidance from the White House's
+Blueprint for an Al Bill of Rights and the National Institute for
+Science & Technology's Al Risk Management Framework, and
+shall address safety, algorithmic discrimination, data privacy,
+and notice of when materials are generated by GenAI. The
+Government Operations Agency shall engage and consult with
+the state government workforce or organizations that represent
+state government employees, and industry experts, including but
+not limited to, trust and safety experts, academic researchers,
+and research institutions, in developing these guidelines. The
+Government Operations Agency, the California Department of
+General Services, the California Department of Technology, and
+the California Cybersecurity Integration Center shall thereafter
+evaluate at a cadence they deem appropriate any need to
+revise the guidelines and establish a consultative process by
+which to do so with civil society, academia, industry experts, and
+the state government workforce or organizations that represent
+state government employees. Nothing in this Order shall be
+construed to allow the application of state funds by localities in
+the procurement of GenAI technologies. 
+b. By July 2024, the Government Operations Agency, the California
+Department of Technology, and the Office of Data and
+Innovation, in consultation with other State agencies and
+departments, shall develop guidelines for State agencies and
+departments to analyze the impact that adopting a GenAI tool
+may have on vulnerable communities, including criteria to
+evaluate equitable outcomes in deployment and
+implementation of high-risk use cases. These guidelines and
+criteria shall inform whether and how a State agency or
+department deploys a particular GenAI tool. The Government
+Operations Agency shall engage and consult with the state
+government workforce or organizations that represent state
+government employees, and industry experts, including but not
+limited to, trust and safety experts, academic researchers, and
+research institutions, in developing these guidelines. The
+Government Operations Agency, the California Department of
+Technology, and the Office of Data and Innovation shall
+thereafter evaluate at a cadence they deem appropriate any
+need to revise the guidelines and criteria and establish a
+consultative process by which to do so with civil society,
+academia, industry experts, and the state government
+workforce or organizations that represent state government
+employees.  
+c. By January 2025, the Government Operations Agency, the
+California Department of General Services, and the California
+Department of Technology shall update the State's project
+approval, procurement, and contract terms, incorporating
+analysis and feedback obtained through the processes outlined
+in 3.a. and 3.b. 
+d. In order to assist the Government Operations Agency and the
+California Department of Technology in these efforts, all
+agencies and departments subject to my authority shall conduct
+and submit an inventory of all current high-risk uses of GenAI 
+e. State agencies and departments subject to my authority shall
+consider procurement and enterprise use opportunities where
+GenAI can improve the efficiency, effectiveness, accessibility,
+and equity of government operations consistent with the
+Government Operations Agency, the California Department of
+General Services, and the California Department of
+Technology's guidelines for public sector GenAI procurement
+f. By March 2024, the California Department of Technology shall
+establish the infrastructure to conduct pilots of GenAI projects,
+including California Department of Technology approved
+environments, or "sandboxes," to test such projects. These
+environments will be available to State agencies and
+departments to help evaluate GenAI tools and services, to
+further safe, ethical, and responsible implementations, and to
+inform decisions to use GenAI, consistent with state guidelines. 
+g. By July 2024, a ll state agencies under my authority shall consider
+pilot projects of GenAI applications, in consultation with the state
+workforce or organizations that represent state government
+employees, and experts as appropriate from civil society,
+academia, and industry. Under a controlled setting, pilots shall
+measure 1) how GenAI can improve Californians' experience
+with and access to government services, and 2) how GenAI can
+support state employees in the performance of their duties in
+addition to any domain-specific impacts to be measured by the
+agency. 
+
+4) The Government Operations Agency, the California Department of
+Human Resources, the California Department of General Services, the
+California Department of Technology, the Office of Data and
+Innovation, and the California Cybersecurity Integration Center, shall
+engage with the Legislature and relevant stakeholders, including
+historically vulnerable and marginalized communities, and organizations
+that represent state government employees, in the development of any
+guidelines, criteria, reports, and/or training as directed by this Order. 
+5) State agencies and departments subject to my authority shall support
+California's state government workforce and prepare for the next
+generation of skills needed to thrive in the GenAI economy by: 
+a. No later than July 2024, the Government Operations Agency,
+the California Department of Technology, the California
+Department of Human Resources, and the Labor and Workforce
+Development Agency shall make available trainings for state
+government worker use of state-approved GenAI tools to
+achieve equitable outcomes, and to identity and mitigate
+potential output inaccuracies, fabricated text, hallucinations,
+and biases of GenAI, while enforcing public privacy and
+applicable state laws and policies. Where appropriate, the
+California Department of Technology and the California
+Department of Human Resources shall collaborate with the state
+government workforce or organizations that represent state
+government employees, and industry experts, on developing
+and providing training. 
+b. No later than January 1, 2025, the Government Operations
+Agency, the California Department of Human Resources, and
+the Labor and Workforce Development Agency, in consultation
+with the state government workforce or organizations that
+represent state government employees, shall establish criteria to
+evaluate the impact of GenAI to the state government
+workforce, and provide guidelines on how State agencies and
+departments can support state government employees to use
+these tools effectively and respond to these technological
+advancements. 
+
+6) The Governor's Office of Business and Economic Development, in
+consultation with the Government Operations Agency, is directed to
+pursue a formal partnership with the University of California, Berkeley,
+College of Computing, Data Science, and Society and Stanford
+University's Institute for Human-Centered Artificial Intelligence to
+consider and evaluate the impacts of GenAI on California and what
+efforts the State should undertake to advance its leadership in this
+industry. As part of this effort, beginning in the fall of 2023, those
+agencies are directed to work with the University of California, Berkeley,
+College of Computing, Data Science, and Society and Stanford
+University's Institute for Human-Centered Artificial Intelligence to
+develop and host a joint California-specific summit in 2024, to engage
+in meaningful discussions and thought partnership about the impacts of
+GenAI on California and its workforce and how all stakeholders can
+support growth in a manner that safeguards Californians. 
+
+7) Legal counsel for all State agencies, departments, and boards subject
+to my authority shall consider and periodically evaluate for any
+potential impact of GenAI on regulatory issues under the respective
+agency, department, or board's authority and recommend necessary
+updates, where appropriate, as a result of this evolving technology. 
+IT IS FURTHER ORDERED that, as soon as hereafter possible, this Order be
+filed in the Office of the Secretary of State and that widespread publicity and
+notice be given of this Order.
+This Order is not intended to, and does not, create any rights or benefits,
+substantive or procedural, enforceable at law or in equity, against the State of
+California, its agencies, departments, entities, officers, employees, or any other
+person. 

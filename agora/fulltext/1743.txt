@@ -1,0 +1,31 @@
+SEC. 1514. Management and cybersecurity of multi-cloud environments.
+
+(a) In general.--Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall, acting through the Chief Information Officer of the Department of Defense, develop a strategy for the management and cybersecurity of the multi-cloud environments of the Department.
+
+(b) Strategy.--The strategy required under subsection (a) shall--
+
+(1) align with the zero trust strategy of the Department of Defense entitled "DoD Zero Trust Strategy" and dated October 21, 2022, or any successor thereto;
+
+(2) provide the Department with network visibility and interoperability across the entirety of the multi-cloud environments of the Department;
+
+(3) rationalize user identities across such multi-cloud environments, including through the implementation of identity, credential, and access management technologies;
+
+(4) maintain the same means to secure endpoints across the Department;
+
+(5) provide means for improving the identification and resolution of security concerns for each cloud environment prior to and during the adoption of such cloud environment by the Department;
+
+(6) assess means to increase the adoption of artificial intelligence applications into the multi-cloud environments of the Department;
+
+(7) increase the transparency of the reporting by the Department on the usage of such multi-cloud environments by the Department to improve planning for capacity demand, budgeting, and predictability for users and the contractors of the Department providing such multi-cloud environments and the goods and services related to such multi-cloud environments;
+
+(8) identify opportunities to improve the planning of the Department for data use and storage in such cloud environments, including policies and processes to enforce protection of data provided by the Government when such data is used to train artificial intelligence models or other commercially developed software systems;
+
+(9) identify opportunities to streamline certification processes related to the provision of cloud services for cloud service providers; and
+
+(10) include a plan for training the necessary personnel of the Department on how to--
+
+(A) incorporate the use of multi-cloud environments into the performance of the functions of the Department; and
+
+(B) effectively leverage cybersecurity capabilities in such multi-cloud environments.
+
+(c) Briefing.--Not later than 240 days after the date of the enactment of this Act, the Chief Information Officer of the Department of Defense shall submit to the congressional defense committees the strategy developed pursuant to subsection (a) and, concurrent with such submission, provide to the congressional defense committees a briefing on such strategy.

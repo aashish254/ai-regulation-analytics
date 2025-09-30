@@ -1,0 +1,106 @@
+ S. 3004
+
+
+To specify control and management of Department of Defense data and to establish the Chief Digital and Artificial Intelligence Officer Governing Council, and for other purposes.
+
+ IN THE SENATE OF THE UNITED STATES
+
+
+October 3, 2023
+
+
+Mr. Manchin (for himself and Mr. Rounds) introduced the following bill; which was read twice and referred to the Committee on Armed Services
+
+
+A BILL
+To specify control and management of Department of Defense data and to establish the Chief Digital and Artificial Intelligence Officer Governing Council, and for other purposes.
+
+ Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. CONTROL AND MANAGEMENT OF DEPARTMENT OF DEFENSE DATA AND ESTABLISHMENT OF CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICER GOVERNING COUNCIL.
+
+
+(a) Control And Management Of Department Of Defense Data.—The Chief Digital and Artificial Intelligence Officer of the Department of Defense shall maintain the authority, but not the requirement, to access and control, on behalf of the Secretary of Defense, of all data collected, acquired, accessed, or utilized by Department of Defense components consistent with section 1513 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4001 note).
+
+
+(b) Chief Digital And Artificial Intelligence Officer Governing Council.—Section 238(d) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) is amended by striking paragraph (3) and inserting the following new paragraph (3):
+
+ “(3) CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICER GOVERNING COUNCIL.—
+
+
+“(A) ESTABLISHMENT.— (i) The Secretary shall establish a council to provide policy oversight to ensure the responsible, coordinated, and ethical employment of data and artificial intelligence capabilities across Department of Defense missions and operations.
+
+
+“(ii) The council established pursuant to clause (i) shall be known as the ‘Chief Digital and Artificial Intelligence Officer Governing Council’ (in this paragraph the ‘Council’).
+
+
+“(B) MEMBERSHIP.—The Council shall be composed of the following:
+
+
+“(i) Joint Staff J–6.
+
+
+“(ii) The Under Secretary of Defense for Acquisition and Sustainment.
+
+
+“(iii) The Under Secretary of Defense for Research and Engineering.
+
+
+“(iv) The Under Secretary of Defense for Intelligence and Security.
+
+
+“(v) The Under Secretary of Defense for Policy.
+
+
+“(vi) The Director of Cost Analysis and Program Evaluation.
+
+
+“(vii) The Chief Information Officer of the Department.
+
+
+“(viii) The Director of Administration and Management.
+
+
+“(ix) The service acquisition executives of each of the military departments.
+
+
+“(C) HEAD OF COUNCIL.—The Council shall be headed by the Chief Digital and Artificial Intelligence Officer of the Department.
+
+
+“(D) MEETINGS.—The Council shall meet not less frequently than twice each fiscal year.
+
+ “(E) DUTIES OF COUNCIL.—The duties of the Council are as follows:
+
+
+“(i) To streamline the organizational structure of the Department as it relates to artificial intelligence development, implementation, and oversight.
+
+
+“(ii) To improve coordination on artificial intelligence governance with the defense industry sector.
+
+
+“(iii) To establish and oversee artificial intelligence guidance on ethical requirements and protections for usage of artificial intelligence supported by Department funding and reduces or mitigates instances of unintended bias in artificial intelligence algorithms.
+
+
+“(iv) To identify, monitor, and periodically update appropriate recommendations for operational usage of artificial intelligence.
+
+
+“(v) To review, as the head of the Council considers necessary, artificial intelligence program funding to ensure that any Department investment in an artificial intelligence tool, system, or algorithm adheres to all Department established policy related to artificial intelligence.
+
+
+“(vi) To provide periodic status updates on the efforts of the Department to develop and implement artificial intelligence into existing Department programs and processes.
+
+
+“(vii) To provide guidance on access and distribution restrictions relating to data, models, tool sets, or testing or validation infrastructure.
+
+
+“(viii) to implement and oversee a data and artificial intelligence educational program for the purpose of familiarizing the Department at all levels on the applications of artificial intelligence in their operations.
+
+
+“(ix) To implement and oversee a data decree scorecard.
+
+
+“(x) Such other duties as the Council determines appropriate.
+
+
+“(F) PERIODIC REPORTS.—Not later than 180 days after the date of the enactment of this paragraph and not less frequently than once every 18 months thereafter, the Council shall submit to the Secretary and the congressional defense committees a report on the activities of the Council during the period covered by the report.”.

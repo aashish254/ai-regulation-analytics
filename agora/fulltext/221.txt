@@ -1,0 +1,21 @@
+SEC. 6211. FINANCIAL CRIMES TECH SYMPOSIUM. 
+
+(a) PURPOSE.—The purposes of this section are to— 
+(1) promote greater international collaboration in the effort to prevent and detect financial crimes and suspicious activities; and 
+(2) facilitate the investigation, development, and timely adoption of new technologies aimed at preventing and detecting financial crimes and other illicit activities. 
+
+(b) PERIODIC MEETINGS.—The Secretary shall, in coordination with the Subcommittee on Innovation and Technology established under subsection (d) of section 1564 of the Annunzio-Wylie Anti-Money Laundering Act, as added by section 6207 of this division, periodically convene a global anti-money laundering and financial crime symposium focused on how new technology can be used to more effectively combat financial crimes and other illicit activities. 
+
+(c) ATTENDEES.—Attendees at each symposium convened under this section shall include domestic and international financial regulators, senior executives from regulated firms, technology providers, representatives from law enforcement and national security agencies, academic and other experts, and other individuals that the Secretary determines are appropriate. 
+(d) PANELS.—At each symposium convened under this section, the Secretary shall convene panels in order to review new technologies and permit attendees to demonstrate proof of concept. 
+
+(e) IMPLEMENTATION AND REPORTS.—The Secretary shall, to the extent practicable and necessary, work to provide policy clarity, which may include providing reports or guidance to stakeholders, regarding innovative technologies and practices presented at each symposium convened under this section, to the extent that those technologies and practices further the purposes of this section. 
+(f) FINCEN BRIEFING.—Not later than 90 days after the date of enactment of this Act, the Director of FinCEN shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the use of emerging technologies, including— 
+(1) the status of implementation and internal use of emerging technologies, including artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies within FinCEN; 
+(2) whether artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies can be further leveraged to make data analysis by FinCEN more efficient and effective; 
+(3) whether FinCEN could better use artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies to— 
+(A) more actively analyze and disseminate the information FinCEN collects and stores to provide investigative leads to Federal, State, Tribal, and local law enforcement agencies and other Federal agencies; and 
+(B) better support ongoing investigations by FinCEN when referring a case to the agencies described in subparagraph (A); 
+(4) with respect to each of paragraphs (1), (2), and (3), any best practices or significant concerns identified by the Director, and their applicability to artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies with respect to United States efforts to combat money laundering and other forms of illicit finance; 
+(5) any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the agencies described in paragraph (3) through the implementation of innovative approaches to meet the obligations of the agencies under the Bank Secrecy Act and anti-money laundering compliance; and 
+(6) any other matter the Director determines is appropriate.

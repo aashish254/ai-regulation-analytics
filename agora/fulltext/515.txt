@@ -1,0 +1,109 @@
+ H. R. 2988
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+December 5, 2023
+
+
+Received; read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+AN ACT
+To provide for Department of Energy and National Aeronautics and Space Administration research and development coordination, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “DOE and NASA Interagency Research Coordination Act”.
+
+
+SEC. 2. DEPARTMENT OF ENERGY AND NATIONAL AERONAUTICS AND SPACE ADMINISTRATION RESEARCH AND DEVELOPMENT COORDINATION.
+
+
+(a) In General.—The Secretary of Energy (in this section referred to as the “Secretary”) and the Administrator of the National Aeronautics and Space Administration (in this section referred to as the “Administrator”) may carry out, as practicable, cross-cutting and collaborative research and development activities to support the advancement of Department of Energy and National Aeronautics and Space Administration mission requirements and priorities. The Secretary and Administrator, in accordance with subsection (e), may make competitive awards to carry out such activities.
+
+
+(b) Memoranda Of Understanding.—The Secretary and the Administrator shall coordinate the activities under subsection (a) through memoranda of understanding, or other appropriate interagency agreements.
+
+ (c) Coordination.—In carrying out the activities under subsection (a), the Secretary and the Administrator may—
+
+
+(1) conduct collaborative research and development activities in a variety of focus areas that may include—
+
+
+(A) propulsion systems and components, including nuclear thermal and nuclear electric propulsion, radioisotope power systems, thermoelectric generators, advanced nuclear fuels, and heater units;
+
+
+(B) modeling and simulation, machine learning, data assimilation, large scale data analytics, and predictive analysis in order to optimize algorithms for mission-related purposes;
+
+
+(C) fundamental high energy physics, astrophysics, and cosmology, including the nature of dark energy and dark matter, in accordance with section 305 of the Department of Energy Research and Innovation Act (42 U.S.C. 18643);
+
+
+(D) fundamental earth and environmental sciences, in accordance with section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644) and section 60501 of title 51, United States Code;
+
+
+(E) quantum information sciences, including quantum computing and quantum network infrastructure, in accordance with sections 403 and 404 of the National Quantum Initiative Act (15 U.S.C. 8853 and 8854);
+
+
+(F) radiation health effects, in accordance with section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644);
+
+
+(G) ground- and space-based technology necessary for the transmission to the Earth’s surface of solar energy collected in space; and
+
+
+(H) other areas of potential research and development collaboration the Secretary and the Administrator determine important to achieving agency missions and objectives;
+
+
+(2) develop methods to accommodate large voluntary data sets on space and aeronautical information on high-performance computing systems with variable quality and scale;
+
+
+(3) promote collaboration and data and information sharing between the Department of Energy, National Aeronautics and Space Administration, the National Laboratories, and other appropriate entities by providing the necessary access and secure data and information transfer capabilities; and
+
+
+(4) support the Administration’s access to the Department’s research infrastructure and capabilities, as practicable.
+
+ (d) Agreements.—In carrying out the activities under subsection (a), the Secretary and the Administrator are authorized to—
+
+
+(1) carry out reimbursable and non-reimbursable agreements between the Department of Energy and the National Aeronautics and Space Administration; and
+
+
+(2) collaborate with other Federal agencies, as appropriate.
+
+
+(e) Merit Review Process.—The Secretary and the Administrator shall ensure any competitive awards made to carry out the activities under section (a) shall follow all appropriate laws and agency policies, including the following:
+
+
+(1) Selection by merit-review-based processes.
+
+
+(2) Consideration of applications from Federal agencies, National Laboratories, institutions of higher education, non-profit institutions, and other appropriate entities.
+
+ (f) Report.—Not later than two years after the date of the enactment of this section, the Secretary and the Administrator shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Commerce, Science, and Transportation of the Senate, a report detailing the following:
+
+
+(1) Interagency research and development coordination activities between the Department of Energy and the National Aeronautics and Space Administration carried out under this section.
+
+
+(2) How such coordination activities expand the technical capabilities of the Department and the Administration.
+
+
+(3) Collaborative research and development achievements.
+
+
+(4) Areas of future mutually beneficial activities, including potential applications of clean energy technologies, such as marine energy.
+
+
+(5) Continuation of coordination activities between the Department of Energy and the National Aeronautics and Space Administration.
+
+
+(g) Research Security.—The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B Public Law 117–167; 42 U.S.C. 19231 et seq.).
+
+
+Passed the House of Representatives December 4, 2023.

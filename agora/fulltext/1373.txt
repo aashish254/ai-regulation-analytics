@@ -1,0 +1,125 @@
+5 Recommendations for AI security standardization work
+(1) Attach importance to improving a system of AI security standards
+We recommend launching AI standardization work, coordinating the planning of a system of AI 
+security standards, strengthening research into fundamental AI security standards, and deepening the work
+of AI application security standards. 
+The first is the overall planning of a system of AI security
+standards. In order to ensure the orderly progress of the development of AI security standards, we
+recommend investigating and analyzing the need for AI security standardization in China and giving
+priority to research on a system of AI security standards. The system of standards should cover the security
+needs of multiple objects such as the foundation, platform, technology, products, and applications of AI
+and should be able to clearly define relationships with related standards such as big data security, personal
+information protection, cloud computing security, and IoT security. 
+Second, pay close attention to
+research and to implement the AI ethical principles. Focus on the outstanding issues of AI algorithm
+discrimination and algorithmic bias. Analyze and review the ethical needs of AI in various scenarios,
+develop and refine AI ethical principles, and guide the implementation of principles and requirements
+related to AI standards.
+(2) Accelerate the development of standards in key areas
+AI has the characteristics of wide coverage, complex application scenarios, and many types of security
+requirements. We recommend that AI security standardization promotion plans be established to develop
+AI security standards in accordance with the concept of “emergency use first, driven by safety incidents.”
+The development of standards should be accelerated in key areas, and AI security standardization should
+be advanced in an orderly fashion. 
+First is fundamental AI security standards research. China’s AI security
+standards mainly focus on the field of application security, lacking security standards for AI itself or basic
+commonality. We recommend that fundamental AI security standards be strengthened with requirements
+for AI security aspects such as monitoring and early warning, risk assessment, security accountability, and
+research personnel security guidelines based on the New Generation Artificial Intelligence Development
+Plan. Standards research should be conducted for such aspects as AI security reference architecture, security
+risks, ethical design, and security assessment to grasp AI algorithm security threats and protection needs to
+clarify general algorithm security principles and requirements and to strengthen AI algorithm model
+security and robustness. AI algorithm models and smart product security requirements and evaluation
+methods should be standardized to address the data quality and dataset security issues faced by AI. 
+Second is a deepening of AI application security standards. Given that AI is becoming ever more integrated with
+various application fields, we should begin to study AI products and application security standards. We
+recommend that smart product security standards be ahead of AI application standards. AI security
+standardization characteristics and requirements should be extracted based on the development of standards
+for smart door locks, smart homes, and other fields that have been carried out by the National Information
+Security Standardization Technical Committee. 
+Afterwards, we should give priority to areas where there is
+an urgent need for standardization, more mature applications, urgent security needs, wide applications, or
+areas that are relatively sensitive. We should develop AI products and application security standards to
+improve the security requirements of existing AI standards. 
+Third is to develop standards according to
+the concept of “fulsome research, with priority to urgent needs, driven by security incidents.” We
+recommend that priority be given to security standards with pressing security needs and mature applications.
+For instance, standards such as Artificial Intelligence Security Reference Framework, Artificial Intelligence
+Dataset Security, Artificial Intelligence Data Labeling Security, Machine Learning Algorithm Model
+Trustworthiness, Artificial Intelligence Open Source Framework Security, Artificial Intelligence
+Application Security Guide, and Artificial Intelligence Security Service Capabilities Requirements should
+be prioritized. 
+Simultaneously, research work on fundamental AI standards should be conducted with the
+study and application of security risk assessment standards and key AI product and service security
+standards such as smart manufacturing and intelligent networked vehicles. We should gradually promote research on AI security standards in other fields.
+(3) Diligently promote the application of AI security standards
+In order to improve the effectiveness and operability of AI security standards, address prominent AI
+security risks, and explore a path to standardization of the most difficult and pressing issues of AI security,
+we recommend that in-depth application and practical work be carried out for AI security standards. 
+First, improve the pilot mechanisms for AI security standards. Select a number of pilot enterprises to carry
+out an evaluation of the applicability of the standards and the effectiveness of implementation, establish the
+concept of work of “tracking practice, discovering issues, summarizing experiences, improving standards,
+and providing feedback for the next step of standardization,” and promote the rapid and high-quality
+development of AI security standardization. 
+Second, improve the research, promotion, and application
+of promotion mechanisms for AI security standards. Organize universities, scientific research institutes,
+and enterprises in jointly breaking past AI security standardization difficulties, give play to the advantages
+of various institutions, establish AI security standards research, promotion, and application mechanisms
+that integrate "industry, university, and research," and promote the benign development of the AI industry.
+(4) Effectively strengthen the training of AI security standardization talent
+Talent is the cornerstone of AI security standardization work, and we recommend that a multi-level
+and multi-type AI security talent training mechanism be established and improved upon. First, train AI
+security professionals. Establish training programs for professional technology, standard setting, publicity
+and habituation training (宣贯培训), and testing and evaluation. 
+Second, encourage universities, research
+institutes, and enterprises to establish collaboration. Explore training paths that integrate talent into AI
+security. 
+Third, strengthen support for artificial intelligence security and standardization projects.
+Optimize the ratio of scientific research resources and management and evaluation mechanisms to ensure
+that relevant talent fields concentrate on solving key AI security issues.
+(5) Actively participate in international AI security standardization
+International organizations such as ISO and IEEE have organized and undertaken a number of AI
+security standardization research tasks and have achieved certain standardization results in some areas. We
+recommend that the achievements of international and overseas standardization work be fully digested,
+absorbed, and incorporated with China's AI security needs in order to explore AI security standardization
+work paths with Chinese characteristics. 
+First, closely track and study the dynamics and development
+trends of AI security standardization work at home and abroad. Consolidate the research achievements
+of international AI security standardization, absorb the experiences of standards development overseas, and
+promote the better development of AI security standardization in China. 
+Second, continuously enhance
+the influence of China's international standards in the field of AI security. Diligently support the
+participation of Chinese institutions and experts in international standardization work, strengthen research
+into AI security standards, and encourage Chinese experts to serve in international standardization
+organizations and act as editors of international standard projects. 
+Third, give full play to China's
+international standardization exchange and cooperation mechanisms. Given the rich application
+scenarios of China's AI industry, standards cooperation and exchange mechanisms in the field of AI security
+should be established to enrich the achievements of Chinese AI security standardization work with the help
+of international and overseas efforts.
+(6) Establish an AI high security risk early warning mechanism as soon as possible
+In view of AI technologies, products, and applications with high security risks, we recommend that an
+early warning mechanism be studied and proposed for highly dangerous AI security risks. 
+First, establish
+a catalog of highly dangerous AI security risks. Review AI technologies, products, and applications with
+outstanding security risks that may create high-impact security issues and classify and categorize risk items
+within the catalog. 
+Second, establish an AI high security risk early warning mechanism. Incorporate
+technology, application, and product characteristics and propose an early warning plan for risks. 
+Third, study and formulate highly dangerous AI safety risk management standards. Starting with standards,
+propose a security risk management plan for highly dangerous AI that incorporates techniques, management,
+evaluation, and other means and covers such aspects as risk identification, analysis, and processing.
+(7) Effectively improve AI security supervision support capabilities
+Standardization can strongly support the implementation of AI security supervision, and we
+recommend the development of an index evaluation system for AI security standards. First, establish a
+sound AI supervision system and formulate supporting standards. The government should use
+standards as a powerful starting point to establish a monitoring system that runs through the entire cycle of
+AI development, design, data acquisition, and market application to prevent AI from being used illegally
+or used in areas that deviate from its intended purpose. 
+Second, we recommend accelerating research
+into AI supply chain security management mechanisms. Develop supporting standards for AI supply
+chain security, propose AI supply chain procurement requirements for telecommunications, energy,
+transportation, power, finance, and other industries, and promote the piloting of relevant standards in key
+areas to provide a useful reference for Chinese party and government departments, and for key industries,
+to manage AI supply chain security risks and offer practical guidance for enterprises as they strengthen AI
+supply chain management.

@@ -1,0 +1,167 @@
+H. R. 6463
+
+
+To require the publication of the terms of service of certain social media company platforms.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+November 21, 2023
+
+
+Mr. Gottheimer (for himself and Mr. Bacon) introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Permanent Select Committee on Intelligence, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To require the publication of the terms of service of certain social media company platforms.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Stopping Terrorists Online Presence and Holding Accountable Tech Entities Act of 2023” or as the “STOP HATE Act of 2023”.SEC. 2. TERMS OF SERVICE PUBLICATION.
+
+
+(a) No later than 180 days after the date of enactment, a social media company shall post terms of service, or lack thereof, for each social media platform owned or operated by the company in a manner reasonably designed to inform all users of the social media platform of the existence and contents of the terms of service applicable to the following:
+
+
+(1) A foreign terrorist organization designated under section 219 of the Immigration and Nationality Act.
+
+
+(2) Individuals or entities designated as Specially Designated Global Terrorists under Executive Order 13224.
+
+
+(b) In addition to the terms of service published pursuant to (a), the social media company shall also publish the following information:
+
+
+(1) Contact information for the purpose of allowing users to ask the social media company questions about the terms of service.
+
+
+(2) A description of the process that users must follow to flag content, groups, or other users that they believe violate the terms of service, and the social media company’s commitments on response and resolution time.
+
+
+(3) A list of potential actions the social media company may take against an item of content or a user, including, but not limited to, removal, demonetization, deprioritization, or banning.SEC. 3. TERMS OF SERVICE REPORT TO THE ATTORNEY GENERAL.
+
+
+(a) In General.—A social media company shall electronically submit on a triannual basis a terms of service report to the Attorney General pursuant to (b), regarding information and enforcement of the terms of service identified in section 2(a), that will include—
+
+
+(1) the version of the terms of service for each social media platform owned or operated by the company in effect as of the date of the report;
+
+
+(2) data related to violations of the terms of service of identified under section 2 of this Act, including but not limited to:
+
+
+(A) The total number of flagged items of content.
+
+
+(B) The total number of actioned items of content.
+
+
+(C) The total number of actioned items of content that resulted in action taken by the social media company against the user or group of users responsible for the content.
+
+
+(D) The total number of actioned items of content that were removed, demonetized, or deprioritized by the social media company.
+
+
+(E) The number of times actioned items of content were viewed by users.
+
+
+(F) The number of times actioned items of content were shared, and the number of users that viewed the content before it was actioned.
+
+
+(G) The number of times users appealed social media company actions taken on that platform and the number of reversals of social media company actions on appeal disaggregated by each type of action.
+
+
+(3) All information required by (2) shall be disaggregated into the following categories:
+
+
+(A) The category of content, including any relevant categories described in (2).
+
+
+(B) The type of content, including, but not limited to, posts, comments, messages, profiles of users, or groups of users.
+
+
+(C) The type of media of the content, including, but not limited to, text, images, and videos.
+
+
+(D) How the content was flagged, including, but not limited to, flagged by company employees or contractors, flagged by artificial intelligence software, flagged by community moderators, flagged by civil society partners, and flagged by users.
+
+
+(E) How the content was actioned, including, but not limited to, actioned by company employees or contractors, actioned by artificial intelligence software, actioned by community moderators, actioned by civil society partners, and actioned by users.
+
+
+(4) A complete and detailed evaluation of the changes over time, including identifiable trends and analysis, with respect to the information in clauses (1)–(3) since the previous report, if applicable, and those thereafter.
+
+
+(b) Deadline.—Not later than 360 days after the date of enactment of this Act, a social media company shall submit the first report required pursuant to subsection (a). After the submission of the first report, the following reports will occur no later than January 31, April 30, and October 31 the following years.
+
+
+(c) Publication.—The Attorney General shall make all reports submitted under this section available to the public in a searchable repository on the Department of Justice’s website.SEC. 4. CIVIL PENALTY.
+
+
+(a) In General.—The Attorney General may bring an action for a civil penalty of not more than $5,000,000 per violation per day against any social media company that does not submit a report required under section 3.
+
+
+(b) Violations.—A social media company shall be considered in violation of the provisions of this chapter for each day the social media company does any of the following:
+
+
+(1) Fails to post terms of service in accordance with section 2.
+
+
+(2) Fails to timely submit to the Attorney General a report required pursuant to section 3.
+
+
+(3) Materially omits or misrepresents required information in a report submitted pursuant to section 3.SEC. 5. REPORTS.
+
+
+(a) National Intelligence Estimate.—Not later than 360 days after the date of enactment, the Director of National Intelligence shall submit a National Intelligence Estimate on the use of platforms by the individuals and entities identified under section 2(a) to Congress. The Director shall ensure an unclassified version of the assessment is published on the Department’s website no later than 30 days following the submission to Congress.
+
+
+(b) Comptroller General Reports.—Not later than 540 days after the date of enactment, and then again 540 days after, the Comptroller General shall submit to Congress reports on the implementation of this Act.
+
+
+SEC. 6. SUNSET.
+
+
+The authority to carry out this Act shall terminate on the date that is five years after the date of enactment of this Act.SEC. 7. DEFINITIONS.
+
+
+In this Act:
+
+
+(a) Actioned.—The term “actioned” means a social media company, due to a suspected or confirmed violation of the terms of service, has taken some form of action, including, but not limited to, removal, demonetization, deprioritization, or banning, against the relevant user or relevant item of content.
+
+
+(b) Content.—The term “content” means statements or comments made by users and media that are created, posted, shared, or otherwise interacted with by users on an internet-based service or application. This does not include media put on a service or application exclusively for the purpose of cloud storage, transmitting files, or file collaboration.
+
+
+(c) Social Media Platform.—The term “social media platform” means any entity subject to the jurisdiction of the Federal Trade Commission under section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 45(a)(2)) that—
+
+
+(1) is a website, desktop application, or mobile application that—
+
+
+(A) permits a person to become a registered user, establish an account, or create a profile for the purpose of allowing the user to create, share, and view user-generated content through such an account or profile;
+
+
+(B) enables one or more users to generate content that can be viewed by other users of the platform; and
+
+
+(C) primarily serves as a medium for users to interact with content generated by other users of the platform and for the platform to deliver ads to users; and
+
+
+(2) has at least 25,000,000 unique monthly users in the United States for a majority of the months in the most recent 12-month period.
+
+
+(d) Social Media Company.—The term “social media company” means a person or entity that owns or operates one or more social media platforms.
+
+
+(e) Publicly Traded Company.—The term “publicly traded company” means any company whose principal class of shares is listed on a stock exchange; and can be readily purchased or sold by the public; and includes all subsidiaries of a company.
+
+
+(f) Critical Trading Partner.—The term “critical trading partner” means an entity that has the ability to restrict or impede the access of a business user to—“the users or customers of the business user; or a tool or service that the business user needs to effectively serve the users or customers of the business user.”
+
+
+(g) Terms Of Service.—The term “terms of service” means a policy or set of policies adopted by a social media company that specifies, at least, the user behavior and activities that are permitted on the internet-based service owned or operated by the social media company, and the user behavior and activities that may subject the user or an item of content to being actioned.

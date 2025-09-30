@@ -1,0 +1,24 @@
+SECTION 1. Chapter 123 of the General Laws, as appearing in the 2020 Official Edition, is hereby amended by inserting after section 36C the following section:
+
+Section 1: Purpose
+
+The purpose of this act is to regulate the use of Artificial Intelligence (AI) in providing mental health services in the Commonwealth of Massachusetts in order to ensure the safety and well-being of individuals seeking mental health treatment, while also allowing for the responsible use of AI in mental health services.
+Section 2: Definitions
+
+(a) "Artificial Intelligence" or "AI" means any technology that can simulate human intelligence, including but not limited to, natural language processing, training language models, reinforcement learning from human feedback and machine learning systems.
+
+(b) "Mental health services" means any service provided by a licensed mental health professional for the purpose of diagnosing, treating, or preventing mental illness or emotional or behavioral disorders.
+
+(c) "Licensed mental health professional" means any individual who is licensed by the state of Massachusetts to provide mental health services, including but not limited to, psychiatrists, psychologists, licensed mental health counselors (LMHCs), licensed independent clinical social workers (LICSWs) and other professional counselors.
+Section 3: Regulation of AI in Mental Health Services
+
+(a) Any licensed mental health professional who wishes to provide mental health services through the use of AI shall first seek approval from the relevant professional licensing board.
+
+(b) Any AI system used to provide mental health services must be designed to prioritize the safety and well-being of individuals seeking treatment and must be continuously monitored by a licensed mental health professional to ensure its safety and effectiveness.
+
+(c) Any licensed mental health professional providing mental health services through the use of AI shall inform patients of the use of AI in their treatment and provide them with the option to receive treatment from a licensed mental health professional.
+
+(d) Any licensed mental health professional providing mental health services through the use of AI shall disclose the use of AI to patients in advance and obtain their informed consent.
+Section 4: Penalties
+
+(a) Any licensed mental health professional who violates the provisions of this act shall be subject to disciplinary action by the relevant professional licensing board.

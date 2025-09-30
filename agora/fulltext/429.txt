@@ -1,0 +1,6 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Healthy Technology Act of 2023”.SEC. 2. PRESCRIPTION OF DRUGS BY ARTIFICIAL INTELLIGENCE OR MACHINE LEARNING TECHNOLOGIES.
+Section 503(b) of Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)) is amended by adding at the end the following:
+“(6) In this subsection, the term ‘practitioner licensed by law to administer such drug’ includes artificial intelligence and machine learning technology that are—
+“(A) authorized pursuant to a statute of the State involved to prescribe the drug involved; and
+“(B) approved, cleared, or authorized under section 510(k), 513, 515, or 564.”.

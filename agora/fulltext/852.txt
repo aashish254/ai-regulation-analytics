@@ -1,0 +1,114 @@
+ H. R. 8315
+
+
+To amend the Export Control Reform Act of 2018 to prevent foreign adversaries from exploiting United States artificial intelligence and other enabling technologies, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+May 8, 2024
+Mr. McCaul (for himself, Mr. Moolenaar, Mr. Krishnamoorthi, and Ms. Wild) introduced the following bill; which was referred to the Committee on Foreign Affairs
+
+
+A BILL
+To amend the Export Control Reform Act of 2018 to prevent foreign adversaries from exploiting United States artificial intelligence and other enabling technologies, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+
+
+(a) Short Title.—This Act may be cited as the “Enhancing National Frameworks for Overseas Restriction of Critical Exports Act” or “ENFORCE Act”.
+
+
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title and table of contents.
+Sec. 2. Definitions.
+Sec. 3. Authority of the President.
+Sec. 4. Additional authorities.
+Sec. 5. Amendment to International Emergency Economic Powers Act.
+
+ SEC. 2. DEFINITIONS.
+
+
+Section 1742 of the Export Control Reform Act of 2018 (50 U.S.C. 4801) is amended by adding at the end the following:
+
+
+“(15) ADDITIONAL DEFINITIONS.—
+
+
+“(A) ARTIFICIAL INTELLIGENCE.—The term ‘artificial intelligence’ has the meaning given that term in section 5002(3) of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401(3)).
+
+
+“(B) ARTIFICIAL INTELLIGENCE SYSTEM.—The term ‘artificial intelligence system’ means any software or hardware implementation of artificial intelligence, including artificial intelligence model weights and any numerical parameters associated with the artificial intelligence implementation.
+
+
+“(C) COVERED ARTIFICIAL INTELLIGENCE SYSTEM.—
+
+
+“(i) INTERIM DEFINITION.—For the period beginning on the date of the enactment of this paragraph and ending on the date on which the Secretary issues the regulations required by clause (ii), the term ‘covered artificial intelligence system’ means an artificial intelligence system that—
+
+
+“(I) exhibits, or could foreseeably be modified to exhibit, capabilities in the form of high levels of performance at tasks that pose a serious risk to the national security and foreign policy of the United States or any combination of those matters, even if it is provided to end users with technical safeguards that attempt to prevent users from taking advantage of the relevant capabilities, such as by—
+
+
+“(aa) substantially lowering the barrier of entry for experts or non-experts to design, synthesize, acquire, or use chemical, biological, radiological, or nuclear (CBRN) weapons or weapons of mass destruction;
+
+
+“(bb) enabling offensive cyber operations through automated vulnerability discovery and exploitation against a wide range of potential targets of cyber attacks; or
+
+
+“(cc) permitting the evasion of human control or oversight through means of deception or obfuscation; or
+
+
+“(II) can reasonably be expected to exhibit the capabilities described in subclause (I), such as by demonstrating technical similarity or equivalent performance to models in which relevant capabilities have emerged unexpectedly.
+
+
+“(ii) FINAL DEFINITION.—
+
+
+“(I) IN GENERAL.—Not later than 365 days after the date of the enactment of this paragraph, the Secretary, in consultation with the Secretary of State, the Secretary of Defense, and the Secretary of Energy, shall issue regulations defining the term ‘covered artificial intelligence system’ for purposes of this subtitle. Thereafter, the Secretary, in consultation with the Secretary of State, the Secretary of Defense, and the Secretary of Energy, shall update the definition of such term as necessary.
+
+
+“(II) FACTORS.—In developing the definition of the term ‘covered artificial intelligence system’ under this clause, the Secretary, in consultation with the Secretary of State, the Secretary of Defense, and the Secretary of Energy, shall consider technical and non-technical factors, including those factors that will most effectively promote the national security of the United States.
+
+
+“(D) MODEL WEIGHT.—The term ‘model weight’ means a numerical parameter within an artificial intelligence model that helps determine the model’s outputs in response to inputs.”.
+
+ SEC. 3. AUTHORITY OF THE PRESIDENT.
+
+
+Section 1753(a) of the Export Control Reform Act of 2018 (50 U.S.C. 4812(a)) is amended by adding at the end the following:
+
+
+“In addition, in order to carry out the policy set forth in paragraphs (1) through (10) of section 1752, the President may control the activities of United States persons, wherever located, relating to specific covered artificial intelligence systems and emerging and foundational technologies that are identified as essential to the national security of the United States pursuant to section 1758(a).”.
+
+ SEC. 4. ADDITIONAL AUTHORITIES.
+
+
+Section 1754(d) of the Export Control Reform Act of 2018 (50 U.S.C. 4813(d)) is amended by adding at the end the following:
+
+
+“(3) ADDITIONAL AUTHORITIES.—In furtherance of section 1753(a), the President may require a United States person, wherever located, to apply for and receive a license from the Department of Commerce for—
+
+
+“(A) the export, reexport, or in-country transfer of items described in paragraph (4), including items that are not subject to control under this subchapter; and
+
+
+“(B) other activities that may support the design, development, production, use, operation, installation, maintenance, repair, overhaul, or refurbishing of, or for the performance of services relating to, any items described in paragraph (4).
+
+
+“(4) ITEMS DESCRIBED.—The items described in this paragraph include—
+
+
+“(A) covered artificial intelligence systems; and
+
+
+“(B) specific emerging and foundational technologies that are identified as essential to the national security of the United States pursuant to section 1758(a).”.
+
+ SEC. 5. AMENDMENT TO INTERNATIONAL EMERGENCY ECONOMIC POWERS ACT.
+
+
+Section 203(b)(3) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)(3)) is amended by striking “section 5 of the Export Administration Act of 1979, or under section 6 of such Act to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States” and inserting “section 1754 of the Export Control Reform Act of 2018”.

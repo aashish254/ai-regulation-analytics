@@ -1,0 +1,17 @@
+AN ACT
+To enact R.S. 14:73.14, relative to computer related crime; to create the crime of unlawful dissemination or sale of images of another created by artificial intelligence; to provide definitions; to provide penalties; and to provide for related matters.
+
+
+Be it enacted by the Legislature of Louisiana:
+Section 1. R.S. 14:73.14 is hereby enacted to read as follows:
+
+
+§73.14. Unlawful dissemination or sale of images of another created by artificial intelligence
+A. It shall be unlawful for any person, with the intent to coerce, harass, intimidate, or maliciously disseminate or sell any video or still image created by artificial intelligence that depicts another person who is totally nude or in a state of undress so as to expose the genitals, pubic area, buttocks, or female breast, when the person disseminating the video or still image knows or has reason to know that he is not licensed or authorized to disseminate or sell such video or still image.
+
+
+B. The provisions of this Section shall not apply to an interactive computer service, electronic mail service provider, or a provider of a telecommunications service or any information service as defined in 47 U.S.C.153, system, or access software provider that provides or enables computer access by multiple users to a computer server that was used by a person to commit any act prohibited by Subsection A of this Section.
+
+
+C. For purposes of this Section:
+(1) "Another person" includes a person whose image was used in creating, adapting, or modifying a video or still image with the intent to depict an actual person and who is recognizable as an actual person by the person's face, likeness, or other distinguishing characteristic.

@@ -1,0 +1,57 @@
+SEC. 224. NEXT GENERATION AIR DOMINANCE FAMILY OF SYSTEMS DEVELOPMENT PROGRAM ACCOUNTABILITY MATRICES.
+
+(a) Submittal of Matrices.--Concurrent with the submission of the budget of the President to Congress pursuant to section 1105(a) of title 31, United States Code, for fiscal year 2025--
+	(1) the Secretary of the Air Force shall submit to the congressional defense committees and the Comptroller General of the United States the matrices described in subsection (b) relating to the Next Generation Air Dominance piloted fighter aircraft and the autonomous, uncrewed Collaborative Combat Aircraft programs of the Air Force; and
+	(2) the Secretary of the Navy shall submit to the congressional defense committees and the Comptroller General of the United States the matrices described in subsection (b) relating to the Next Generation Air Dominance piloted fighter aircraft and the autonomous, uncrewed Collaborative Combat Aircraft programs of the Navy and the Marine Corps.
+(b) Matrices Described.--The matrices described in this subsection are the following:
+	(1) Engineering manufacturing and development goals.--A matrix that identifies, in six month increments, key milestones, development and testing events, and specific performance goals for the engineering manufacturing and development phase (referred to in this section as the ``EMD phase'') of the programs described in subsection (a), and which shall be subdivided, at a minimum, according to the following:
+		(A) Technology readiness levels of major components and subsystems and key demonstration and testing events.
+		(B) Design maturity.
+		(C) Software maturity.
+		(D) Subsystem and system-level integration maturity.
+		(E) Manufacturing readiness levels for critical manufacturing operations and key demonstration and testing events.
+		(F) Manufacturing operations.
+		(G) System verification, validation, and key flight test events.
+		(H) Reliability.
+		(I) Availability for flight operations.
+		(J) Maintainability.	(2) Cost.--A matrix expressing, in six month increments, the total cost for the Secretary's service cost position for the EMD phase and low initial rate of production lots of the programs described in subsection (a) and a matrix expressing the total cost for the prime contractor's estimate for such EMD phase and production lots, both of which shall be phased over the entire EMD period and subdivided according to the costs of the following:
+		(A) Air vehicle.
+		(B) Propulsion.
+		(C) Mission systems.
+		(D) Vehicle subsystems.
+		(E) Air vehicle software.
+		(F) Systems engineering.
+		(G) Program management.
+		(H) System test and evaluation.
+		(I) Support and training systems.
+		(J) Contract fee.
+		(K) Engineering changes.
+		(L) Direct mission support, including Congressional General Reductions.
+		(M) Government testing.
+		(N) Ancillary aircraft equipment.
+		(O) Initial spares.
+		(P) Contractor support.
+		(Q) Modifications.
+(c) Semiannual Update of Matrices.--
+	(1) In general.--Each Secretary concerned shall submit to the congressional defense committees and the Comptroller General of the United States updates to the matrices described in subsection (b) as follows:
+		(A) The first update shall be submitted not later than 180 days after the date on which the Secretaries concerned submit the initial matrices as required by subsection (a).
+		(B) Following the first update under paragraph (1), additional updates shall be submitted--
+			(i) concurrent with the submission of the budget of the President to Congress pursuant to section 1105(a) of title 31, United States Code, for each fiscal year; and
+			(ii) not later than 180 days after each such submittal.
+	(2) Elements.--Each update submitted under paragraph (1) shall detail progress made toward the goals identified in the matrix described in subsection (b)(1) and provide updated cost estimates as described in subsection (b)(2).
+	(3) Treatment of initial matrices as baseline.--The initial matrices submitted pursuant to subsection (a) shall be treated as the baseline for the full EMD phase and low-rate initial production of the programs described in subsection (a) for purposes of the updates submitted pursuant to paragraph (1) of this subsection.
+(d) Assessment by Comptroller General of the United States.-- Not later than the date that is 60 days after the date on which the Comptroller General of the United States receives an update to a matrix under subsection (c)(1), the Comptroller General shall review the sufficiency of such matrix and submit to the congressional defense committees an assessment of such matrix, including by identifying cost, schedule, or performance trends.
+
+(e) Key Performance Parameter Requirements.--
+	(1) In general.--Each Secretary concerned shall develop key performance parameters (referred to in this section as ``cost KPPs)'' for the threshold and objective costs of the programs described in subsection (a) under the jurisdiction of such Secretary and shall include those values as program performance requirements in any capability development document or system requirements document for the program involved. Each cost KPP shall include, for each cost category specified in paragraph (2)--
+		(A) a threshold value indicating the highest acceptable cost for that category, as determined by the Secretary concerned; and
+		(B) an objective value indicating the lowest cost expected to be achieved for that category, as determined by the Secretary concerned.
+	(2) Cost categories specified.--The cost categories specified in this paragraph are the following:
+		(A) Unit recurring flyaway cost.
+		(B) Average procurement unit cost.
+		(C) Gross/weapon system unit cost.
+		(D) Aircraft cost-per-tail-per-year.
+		(E) Aircraft cost-per-flight-hour.
+(f) Definitions.--In this section, the term ``Secretary concerned'' means--
+	(1) the Secretary of the Navy, with respect to aircraft programs of the Navy and the Marine Corps; and
+	(2) the Secretary of the Air Force, with respect to aircraft programs of the Air Force.

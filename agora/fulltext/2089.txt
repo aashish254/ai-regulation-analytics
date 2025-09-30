@@ -1,0 +1,88 @@
+ [AI Inventory chart excluded]
+I. Background
+In May of 2022 the Legislature passed H410/Act 132, an Act relating to the use and oversight of
+Artificial Intelligence in State Government. Section 3 created an inventory of “automated decision
+systems being developed, employed, or procured by State Government.” Section 4 describes a report
+including “recommendations for any changes to the inventory, including how it should be maintained,
+the frequency of updates, and remediation measures needed to address systems deemed problematic.”
+While the inventory itself will be maintained on an ongoing basis, this report documents initial
+findings and makes recommendations for the questions described above.
+Artificial Intelligence systems (AI) in use by the State of Vermont are considered as a component of
+the human system and processes they enable. Artificial Intelligences must be designed, developed,
+implemented, and used as a part of human processes. They must be monitored to ensure the process as
+a whole is meeting standards and expectations.
+The goal of this inventory as it is being collected by the Agency of Digital Services Division of
+Artificial Intelligence is to identify the systems and processes that use artificial intelligence, especially
+where such usage could have impacts on Vermonters.
+II. Recommendations
+A. Inventory Maintenance
+The Inventory of Artificial Intelligence Usage should be maintained by the Division of Artificial
+Intelligence within the Agency of Digital Services.
+The Agency of Digital Services (ADS) recommends that this inventory be updated as new systems and
+capabilities are implemented and reviewed for completeness and accuracy annually.
+B. Remediation Measures
+Act 132 requires the identification of problematic systems based on 3rd party bias testing. As
+documented by the National Institute of Standards and Technologies (NIST) and other policy-making
+bodies, AI systems can behave problematically in ways other than biased outputs, and those issues can
+stem not only from the AI itself but also from its implementation and usage. ADS recommends a suite
+of possible remediation measures depending on the nature and impact of the issue identified. The most
+appropriate type of remediation will vary depending on the complexity of the process the AI supports,
+the impact of the issue, and the frequency with which the issue occurs. In some cases, multiple
+remediation measures may be required for a single issue.
+1. Process changes upstream of the AI System
+Some issues can be remediated by injecting controls into the process the AI system supports before the
+steps performed by the AI system. These could include adjustments to data input into the system or
+diversion of cases with certain characteristics to a different system.
+Example: If an AI is showing unexpected behavior based on counties with small populations, set the
+county to “Rest of Vermont” for cases where the county is not Chittenden.
+Example: If an AI is showing unexpected behavior on cases for families with more than 4 children,
+divert those cases to a manual review system.
+2. Process changes downstream of the AI System
+Some issues can be remediated by adding controls downstream of the AI system. Generally, issues
+that appear sporadically are better suited to downstream process changes. Depending on the nature of
+the impact, automated review to detect known problematic patterns could be sufficient. In other cases,
+selecting cases known to be at higher risk of issues for additional employee review could be a good
+option. Other times creating an easy appeal process might be the most appropriate solution.
+Example: If an AI is showing infrequent unexpected behavior on cases for families with more than  4
+children, have an employee review those determinations before providing the information to the case
+worker.
+Example: If an AI is showing infrequent unexpected behavior on cases for families with more than 4
+children, have a low-friction appeal process for the caseworker to flag cases where the reason for the
+determination does not align with the case history.
+3. Changes to the AI System
+In some cases, the AI may need to be retrained. This is especially likely if the input or process has
+evolved from the original design. In some cases, adding some training examples may be sufficient, in
+other cases the model may need more extensive redesign.
+In cases where continued use of the AI system would have significant adverse effects or erode trust in
+government institutions, the most appropriate course may be to decommission all or part of the AI
+system.
+C. Inventory Changes
+1. Scope
+The definition of Artificial Intelligence System in 3 V.S.A. § 3305 is narrower than that of
+“Automated Decision System” in this report. We recommend using the narrower Artificial Intelligence
+System definition in this inventory as Automated Decision Systems, as defined, include numerous
+apps, algorithms, spreadsheets, and personal productivity tools that present minimal risk to the state.
+Some AI tools are essentially “commodity” products that pose little or no risk to the state. Examples
+are smart assistants on smart phones, text predictions that have become ubiquitous, and spam filters.
+ADS recommends scoping this inventory to products the state procures, develops, maintains,
+influences, or oversees, as well as any systems that are deemed to pose a potential risk to the state or
+Vermonters.
+2. Elements collected
+Bias Testing: 3 V.S.A. § 3305 b 4 “whether the automated decision system has been tested for bias by
+an independent third party, has a known bias, or is untested for bias.” Bias testing is one component of
+ensuring AI systems behave as expected, but it is not relevant in all cases. Instead of focusing solely
+on 3rd party Bias Testing, NIST recommends continuous monitoring of system outcomes, as an AI
+which passes bias testing may behave in biased was depending on implementation details. ADS
+recommends adding elements on outcome monitoring, specifically:
+Monitoring In Place: Yes/No
+Monitoring Results: No Issues Detected/Issues Detected/Issues Remediated
+Remediation Applied: Narrative summary of remediation approach.
+Independent Decision Making: 3 V.S.A. § 3305 b 2B “whether the automated decision system is
+used or may be used for independent decision-making powers.” In general, the goal of AI systems is to
+make some level of decision, so this answer is always “yes.” ADS recommends changing this element
+to focus on the autonomy of the system:
+Capable of taking independent action: Yes/No
+Independent Decisions: Description
+Note that the inventory already has a Supported Decisions elements to describe situations where an AI
+functions as a support for a human to decide.
+Agencies using the system: ADS recommends identifying the agencies directly using the system

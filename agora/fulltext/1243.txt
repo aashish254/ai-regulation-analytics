@@ -1,0 +1,49 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Workforce for AI Trust Act”.
+SEC. 2. NSF ARTIFICIAL INTELLIGENCE RESEARCH AND EDUCATION; NIST ARTIFICIAL INTELLIGENCE GOVERNANCE WORKFORCE.
+(a) NSF Artificial Intelligence Research And Education.——
+(1) FELLOWSHIPS.—Subsection (e) of section 5401 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9451; enacted as part of title LIV of division E of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283)) is amended—
+(A) in paragraph (2)—
+(i) in the heading, by striking “FACULTY”; and
+(ii) by adding at the end the following new subparagraph:
+“(D) INTERDISCIPLINARY ARTIFICIAL INTELLIGENCE FELLOWSHIPS.—
+“(i) IN GENERAL.—The Director of the National Science Foundation may support graduate and postdoctoral research fellowships for students and postdoctoral researchers from across disciplines, including social science disciplines and the humanities, by making awards through qualified institutions of higher education for research and related activities related to the integration of ethical and responsible practices and principles into the design, development, training, deployment, evaluation, and understanding of artificial intelligence systems.
+“(ii) USE OF AWARDS.—An institution of higher education shall use awards under clause (i) for the following purposes:
+“(I) For graduate fellowships, tuition, education-related fees, and stipends for up to three academic years.
+“(II) For postdoctoral fellowships, salaries, benefits, relocation costs, related conference travels, and research expenses for up to three years.
+“(III) Additional such other expenses the Director determines appropriate.
+“(iii) ELIGIBILITY.—To be eligible to receive an award under this subparagraph, an institution of higher education receiving the award shall ensure recipients—
+“(I) are citizens, nationals, or lawful permanent residents of the United States;
+“(II) demonstrate a commitment to a career in advancing the topic of technology ethics, including trustworthy artificial intelligence;
+“(III) for graduate fellowships, are—
+“(aa) full-time students in an eligible program at the institution of higher education, as determined by the Director; or
+“(bb) students pursuing a degree on a less than full-time basis, but not less than half-time basis, in an eligible program at the institution of higher education, as determined by the Director; and
+“(IV) for postdoctoral fellowships, have a doctoral degree in an eligible program, have received such degree not earlier than five years before the date that such fellowship begins, and have a postdoctoral appointment at a host institution.
+“(iv) APPLICATION.—An applicant for a fellowship shall submit to the Director of the National Science Foundation an application, in such manner, and containing such information, as the Director may require. At a minimum, the Director shall require an applicants to include in such application a description of how—
+“(I) the proposed research and activities are designed to advance the field of trustworthy artificial intelligence, including ways to design, develop, train, deploy, evaluate, and understand artificial intelligence systems or deploy such systems in a trustworthy manner;
+“(II) the applicant will be integrated with artificial intelligence researchers at the host institution in a role consistent with being a member of an interdisciplinary or transdisciplinary team; and
+“(III) the applicant plans to disseminate any research findings, learned best practices, or technical solutions to the broader artificial intelligence systems research community.
+“(v) OUTREACH.—The Director of the National Science Foundation shall conduct outreach to recruit fellowship applicants—
+“(I) from diverse research institutions;
+“(II) from all regions of the country; and
+“(III) from groups historically underrepresented in STEM fields.
+“(vi) ADMINISTRATIVE AGREEMENTS.—Eligible fellowships may include temporary artificial intelligence-related positions at Federal or State agencies, national laboratories, private sector entities, institutions of higher education, the Institute, or other artificial intelligence relevant entities, as determined appropriate by the Director of the National Science Foundation.”; and
+(B) by adding at the end the following new paragraph:
+“(4) ARTIFICIAL INTELLIGENCE SKILLS-BASED TRAINING ACROSS THE NATIONAL SCIENCE FOUNDATION.—The Director of the National Science Foundation shall seek to encourage the application of artificial intelligence systems to accelerate scientific discovery and technology development across all fields of STEM supported by the Foundation, including by supporting the following:
+“(A) Training for undergraduate and graduate students and postdoctoral researchers through existing technical and skills-based training or certification programs and by providing for additional experiential learning experiences, as appropriate.
+“(B) Development and hosting of intra- or inter-institutional workshops on the application of artificial intelligence systems to new uses in research, development, demonstration, testing, dissemination, and evaluation.
+“(C) Administrative and award supplements to existing research awards to support professional development experiences for graduate students and postdoctoral researchers who receive a substantial portion of their support in connection with such research awards to learn how to apply artificial intelligence systems to their research, as determined by the Director.”.
+(2) ETHICS.—Subsection (d) of the section 5401 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9451) is amended by adding at the end the following new paragraph:
+“(3) WORKSHOPS.—The Director of the National Science Foundation may make awards for the development and hosting of intra- or inter-institutional workshops focused on integrating perspectives and skills from multiple and diverse disciplines, including social science, behavioral science, technology ethics, normative ethics, and linguistics, toward the deployment, evaluation, and understanding of artificial intelligence systems.”.
+(3) PEER REVIEW PANELS.—Section 5401 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9451) is amended—
+(A) by redesignating subsection (g) as subsection (h); and
+(B) by inserting after subsection (f) the following new subsection:
+“(g) Peer Review Panels.—As practicable and appropriate, the Director of the National Science Foundation shall ensure that merit review panels convened to evaluate proposals related to artificial intelligence systems research and related activities integrate perspectives from multiple and diverse research disciplines, including researchers from social science, technology ethics, normative ethics, legal, and linguistic disciplines.”.(b) NIST Activities To Support The Artificial Intelligence Governance Workforce.—
+(1) SUPPORTING ACTIVITIES.—Subsection (b) of section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1) is amended—
+(A) by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively; and
+(B) by inserting after paragraph (2) the following new paragraph:
+“(3) support education and workforce development activities to expand the artificial intelligence workforce, including careers related to helping organizations govern, map, measure, and manage artificial intelligence related risk, including testing, evaluation, verification, and validation of artificial intelligence systems;”.
+(2) RISK MANAGEMENT FRAMEWORK.—Subsection (c) of section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1) is amended—
+(A) by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; and
+(B) by inserting after paragraph (3) the following new paragraph:
+“(4) support technical standards and guidance to describe tasks, knowledge, skills, abilities, competencies, job pathways, and work roles to guide career development, education, training activities, and professional certifications related to artificial intelligence risk management, including careers related to helping organizations govern, map, measure, and manage artificial intelligence related risk, including testing, evaluation, verification, and validation of artificial intelligence systems;”.

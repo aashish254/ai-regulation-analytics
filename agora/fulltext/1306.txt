@@ -1,0 +1,76 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Supercritical Geothermal Research and Development Act”.
+SEC. 2. GEOTHERMAL ENERGY.
+(a) In General.—The Energy Independence and Security Act of 2007 is amended—
+(1) in section 612 (42 U.S.C. 17191; relating to definitions)—
+(A) by redesignating paragraph (8) as paragraph (9); and
+(B) by inserting after paragraph (7) the following new paragraph:
+“(8) SUPERCRITICAL GEOTHERMAL.—The term ‘supercritical geothermal’ means energy derived from a subsurface rock resource in-situ existing at or above the supercritical conditions of the primary fluid present.”;
+(2) in section 613 (42 U.S.C. 17192; relating to hydrothermal research and development), by striking “advanced geologic tools to assist” and inserting “advanced tools, including machine learning algorithms, to assist”;
+(3) in section 614 (42 U.S.C. 17193; relating to general geothermal systems research and development)—
+(A) in paragraph (1) of subsection (d), by striking “among the Office of Fossil Energy, the Office of Energy Efficiency and Renewable Energy,” and inserting “across the Department”; and
+(B) in subsection (h)—
+(i) in paragraph (1), by inserting “and publicly available subsurface data, including data reported as part of fossil fuel and mining operations,” after “geothermal drilling information”; and
+(ii) in paragraph (2), by adding at the end the following new subparagraphs:
+“(C) UPDATES.—The repository established under paragraph (1) shall be periodically updated in order to carry out the following:
+“(i) Standardize data in a uniform manner to the maximum extent practicable and enable analysis across different projects.
+“(ii) Enhance the accessibility and usability of data to increase analysis of geothermal energy, including enhanced, closed-loop, and supercritical geothermal, on regional, local, and site-specific scales.
+“(iii) Increase uses of data, including data viewable by map and organization by common attributes such as region.
+“(iv) Make other improvements in functionality and usability, as determined by the Secretary.“(D) MEMORANDUM OF UNDERSTANDING.—The Secretary shall enter into a memorandum of understanding with the Secretary of the Interior, along with the heads of other relevant Federal departments, for notifying, sharing, and providing opportunities for additional data collection regarding shared geothermal development data from projects funded by each such department, including data from mining, critical minerals, and energy projects, such as subsurface heat data, seismic data, lithology data, boundaries of State and federally protected areas, and existing transmission capacity. To the maximum extent practicable, activities conducted under such a memorandum of understanding shall prioritize heat, lithology, and strain profiles through deep exploration boreholes and control points for deep heat mapping and geothermal development.
+“(E) REGIONAL DEEP DATA PROBES.—The Secretary shall work with the Secretary of the Interior, who shall be responsible for commissioning the drilling of deep exploration boreholes deeper than eight kilometers in depth in representative geological provinces in the United States to provide control points for deep heat mapping and geothermal development. The resulting data shall include an exploration of heat, lithology, and strain profiles, and shall be shared publicly on the drilling data repository.”;
+(4) in section 615 (42 U.S.C. 17194; relating to enhanced geothermal systems research and development)—
+(A) in subsection (b)—
+(i) in paragraph (11), by striking “and” after the semicolon;
+(ii) in paragraph (12), by striking the period and inserting “; and”; and
+(iii) by adding at the end the following new paragraph:
+“(13) the research topics specified in subparagraphs (1) through (12) in supercritical conditions.”;
+(B) in subsection (c), by adding at the end the following new paragraph:
+“(8) SUPERCRITICAL NEXT GENERATION GEOTHERMAL TESTING.—Not later than one year after the date of the enactment of this paragraph, the Secretary shall take such actions as may be necessary to ensure that at least one FORGE site has the capabilities to include supercritical geothermal testing and, if practicable and technically feasible, closed-loop geothermal systems in supercritical conditions.”; and
+(C) by adding at the end the following new subsection:“(e) Supercritical Geothermal Research And Development Program.—
+“(1) IN GENERAL.—Within the Geothermal Technologies Office of the Department, the Secretary shall support a program of supercritical geothermal research, development, demonstration, and commercial application activities and, if practicable and technically feasible, closed-loop geothermal systems in supercritical conditions.
+“(2) FOCUS AREAS.—
+“(A) IN GENERAL.—The program described in paragraph (1) shall focus on the following topics:
+“(i) Well completion.
+“(ii) Permeability creation and management, including proppants and packers.
+“(iii) Materials development and equipment design, including power production, specific to supercritical geothermal systems.
+“(iv) Sensor development.
+“(v) Water-rock geochemistry.
+“(vi) Rock properties.
+“(vii) Hard rock and deep drilling.
+“(viii) Any other topics the Secretary determines necessary.
+“(B) ADMINISTRATION.—The Secretary may administer grants to universities and private sector entities to carry out activities on the topics specified in subparagraph (A) and, to the maximum extent practicable, share data, results, and information publicly.
+“(3) REPORT ON WATER USE.—Not later than five years after the date of the enactment of this subsection, the Secretary shall submit to the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the following:
+“(A) Water use and estimated needs of enhanced geothermal systems.
+“(B) Water use and estimated needs for closed-loop, and superhot geothermal energy production.
+“(4) NEXT GENERATION GEOTHERMAL CENTER OF EXCELLENCE.—
+“(A) ESTABLISHMENT.—The Secretary shall award grants through a competitive, merit-reviewed process, to National Laboratories (as such term is defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801)), multi-institutional collaborations, or institutes of higher education (or consortia thereof) for the following:
+“(i) The continuation and expansion of research, development, demonstration, testing, and commercial application activities applicable to FORGE sites.
+“(ii) The establishment of a next-generation geothermal center of excellence.
+“(B) LOCATION.—In selecting institutions of higher education for a center referred to in subparagraph (A), the Secretary shall consider the following criteria:
+“(i) Whether the institution hosts an existing geothermal energy research and development program.
+“(ii) Whether the institution has proven technical expertise to support geothermal energy research.
+“(iii) Whether the institution has access to geothermal resources.
+“(C) PURPOSE.—The center referred to in subparagraph (A) shall coordinate among existing FORGE sites, the Department, and national laboratories to carry out the following:
+“(i) Advance research, development, demonstration, and commercial application of enhanced geothermal energy technologies, including supercritical geothermal technologies, in response to industry and commercial needs, including by partnering with other academic or research institutions, industry, non-governmental organizations, and State, local, or Tribal governments.
+“(ii) Foster collaboration for education, research, and partnership initiatives in order to support the technology, deployment, and workforce needs of the United States geothermal energy industry, including a focus on enhanced, closed-loop, and supercritical geothermal systems.
+“(iii) Support workforce development across the enhanced geothermal energy development lifecycle.
+“(iv) Provide educational, technical, and analytical assistance on enhanced geothermal systems to Federal agencies, industry, and State, local, and Tribal governments.
+“(v) Collect and disseminate information on best practices in all areas relating to developing and managing geothermal energy resources and energy systems, including enhanced, closed-loop, and supercritical geothermal.
+“(5) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the Secretary $5,000,000 for each fiscal years 2026 through 2030 to carry out this subsection.”; and
+(5) in section 617 (42 U.S.C. 17196; relating to organization and administration of programs)—
+(A) in subsection (e), by striking “Committee on Science and Technology” and inserting “Committee on Science, Space, and Technology”; and
+(B) by amending subsection (f) to read as follows:“(f) Progress Reports.—Not later than one year after the date of the enactment of this subsection and every two years thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that contains the following:
+“(1) A description of the maximum potential of geothermal resources in the United States.
+“(2) Information relating to the results of projects undertaken under this section.
+“(3) An assessment of the barriers to commercialization of enhanced, closed-loop, and supercritical geothermal technologies.
+“(4) Such other information as the Secretary considers appropriate.”.
+(b) Update To Geothermal Resource Assessment.—
+(1) IN GENERAL.—Section 2501 of the Energy Policy Act of 1992 (30 U.S.C. 1028) is amended—
+(A) in subsection (c)—
+(i) in the matter preceding paragraph (1), by inserting “quadrennially” before “update”; and
+(ii) in paragraph (1)(D)(ii), by striking “and” after the semicolon;
+(iii) in paragraph (2), by striking the period and inserting “; and”; and
+(iv) by adding at the end the following new paragraph:
+“(3) assessing regions of the United States with significant potential for supercritical geothermal.”; and
+(B) by striking subsection (d).
+(2) FIRST UPDATE.—The first quadrennial update to the geothermal resource assessment carried out by the United States Geological Survey under subsection (c) of section 2501 of the Energy Policy Act of 1992, as amended by paragraph (1), shall be completed by not later than 180 days after the date of the enactment of this Act.

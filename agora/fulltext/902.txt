@@ -1,0 +1,216 @@
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.—This Act may be cited as the “Transformational Artificial intelligence to Modernize the Economy against Extreme Weather Act” or the “TAME Extreme Weather Act”.
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Purpose.
+TITLE I—MATTERS RELATING TO THE NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+Sec. 101. Definitions.
+Sec. 102. Earth system reanalysis.
+Sec. 103. Advanced artificial intelligence applications for weather.
+Sec. 104. Technical assistance on use of artificial intelligence weather models.
+Sec. 105. Fire combustion modeling program.
+Sec. 106. Emissions monitoring and analysis program.
+Sec. 107. Partnerships for transformational innovation.
+Sec. 108. Retention of Federal Government expertise.
+Sec. 109. National security.
+TITLE II—MATTERS RELATING TO THE DEPARTMENT OF AGRICULTURE
+Sec. 201. Deforestation and illegal wood products.
+TITLE III—MATTERS RELATING TO THE DEPARTMENT OF ENERGY
+Sec. 301. Secretary defined.
+Sec. 302. Grid and transmission optimization.
+Sec. 303. Preparation of environmental review documents.
+TITLE IV—AUTHORIZATION OF APPROPRIATIONS
+Sec. 401. Authorization of appropriations.SEC. 2. DEFINITIONS.
+In this Act:
+(1) ARTIFICIAL INTELLIGENCE.—
+(A) IN GENERAL.—The term “artificial intelligence” means a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments, including by using machine-based and human-based inputs—
+(i) to abstract those perceptions into models through analysis in an automated manner; and
+(ii) to use model inferences to formulate options for information or action.
+(B) INCLUSIONS.—The term “artificial intelligence” includes machine learning, neural networks, and natural language processing.
+(2) CURATE.—The term “curate” means to collect and maintain a dataset—
+(A) to ensure its quality;
+(B) to provide metadata on its provenance; and
+(C) to update the dataset periodically, as practicable.
+(3) OPEN LICENSE.—The term “open license” has the meaning given that term in section 3502(21) of title 44, United States Code.
+(4) TRAINING DATASET.—The term “training dataset” means a dataset used to train an artificial intelligence.SEC. 3. PURPOSE.
+The purpose of this Act is to mandate the use of artificial intelligence by Federal agencies to adapt to extreme weather by—
+(1) improving weather forecasts;
+(2) increasing the resilience of electrical grids and transmission;
+(3) strengthening analytic capacity to guide where to deploy resources to respond to and mitigate harm from extreme weather; and
+(4) strengthening public-private partnerships in highly technical, high-risk, and high-reward fields.TITLE I—MATTERS RELATING TO THE NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+SEC. 101. DEFINITIONS.
+In this title:
+(1) ADMINISTRATOR.—The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+(2) ARTIFICIAL INTELLIGENCE WEATHER MODEL.—The term “artificial intelligence weather model” means a weather model based primarily on artificial intelligence technology to project future Earth system conditions based on machine learning from an Earth system reanalysis dataset.
+(3) EARTH SYSTEM REANALYSIS DATASET.—The term “Earth system reanalysis dataset” means a dataset that contains continuous global observational data and synthetic data for Earth system variables relevant to weather forecasting.
+(4) ENVIRONMENTAL INFORMATION SERVICES WORKING GROUP.—The term “Environmental Information Services Working Group” means the Environmental Information Services Working Group established under section 401 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8541), or any similar successor working group.
+(5) NUMERICAL WEATHER MODEL.—The term “numerical weather model” means a weather model based primarily on atmospheric physics and that uses numerical computation to forecast future Earth system conditions.
+(6) OBSERVATIONAL DATA.—The term “observational data” means data from actual observations of environmental conditions.
+(7) REFORECAST ANALYSIS.—The term “reforecast analysis” means the assessment of a numerical weather model or artificial intelligence weather model by comparing model output and observational data over a period of time in the past.
+(8) SYNTHETIC DATA.—The term “synthetic data” means data produced from a model or statistical method in order to fill gaps in observational data.SEC. 102. EARTH SYSTEM REANALYSIS.
+(a) In General.—Not later than two years after the date of the enactment of this Act, the Administrator shall, in consultation with the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Director of the National Center for Atmospheric Research, the Environmental Information Services Working Group, and such other technical experts as the Administrator considers appropriate, develop and curate an Earth system reanalysis dataset that creates a long-term record of past weather in support of—
+(1) furthering the understanding of weather;
+(2) advancing the science of weather forecasting, including seasonal and subseasonal forecasting; and
+(3) developing artificial intelligence weather forecasting applications.
+(b) Use Of Existing Datasets.—In order to speed the development of the Earth system reanalysis dataset required under subsection (a), the Administrator shall assess, and to the greatest extent practicable build on, existing Earth system reanalysis datasets of the Federal Government.
+(c) Artificial Intelligence Weather Model.—
+(1) IN GENERAL.—In carrying out this section, the Administrator, in consultation with the Environmental Information Services Working Group, may develop and test a national weather model based on artificial intelligence technologies.
+(2) REPORT.—Not later than one year after the date of the enactment of this Act, and not less frequently than annually thereafter, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities conducted under paragraph (1).
+(d) Cooperative Institutes And Contracting Authority.—In carrying out this section, subject to the availability of appropriations, the Administrator may competitively award contracts, increase the scope of existing cooperative institutes of the National Oceanic and Atmospheric Administration, or competitively award a new cooperative institute.
+(e) Public Access.—Subject to section 109, the Administrator shall make available to the public, at no cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license, the Earth system reanalysis dataset developed under subsection (a) and the code for the artificial intelligence weather model developed under subsection (c).
+(f) Environmental Impact.—The Administrator shall develop and disseminate best practices to minimize environmental impacts from the use of artificial intelligence technology to carry out this section.
+(g) Continued Support For Observations, Basic Research, And Numerical Weather Models.—Notwithstanding the requirements of this section, the Administrator shall continue to support and advance the activities of the National Oceanic and Atmospheric Administration—
+(1) to collect and acquire observational data relevant for artificial intelligence and numerical weather forecasting;
+(2) to advance research on the Earth system and numerical weather forecasting;
+(3) to develop and advance numerical weather modeling;
+(4) to identify and acquire novel observational data shown to improve artificial intelligence and numerical weather forecasting; and
+(5) to improve data assimilation techniques.SEC. 103. ADVANCED ARTIFICIAL INTELLIGENCE APPLICATIONS FOR WEATHER.
+The Administrator shall explore advanced applications of artificial intelligence to improve weather forecasts, such as by—
+(1) improving data assimilation;
+(2) accounting for Earth system processes that cause model areas, such as cloud cover, ocean eddies, and photosynthesis; and
+(3) using artificial intelligence weather models to quickly emulate running numerical weather models to assess and improve the confidence in and reliability of weather forecasts.SEC. 104. TECHNICAL ASSISTANCE ON USE OF ARTIFICIAL INTELLIGENCE WEATHER MODELS.
+(a) In General.—The Administrator shall regularly inventory and assess major non-Federal Government artificial intelligence weather models in order to provide—
+(1) technical assistance on using such models;
+(2) best practices on providing forecasts based on outputs from both artificial intelligence weather models and numerical weather models; and
+(3) support for emergency managers to make operational decisions based on outputs from both artificial intelligence weather models and numerical weather models.
+(b) Reforecast Analysis.—
+(1) IN GENERAL.—The Administrator shall support the development of a common framework for the assessment of numerical weather models and artificial intelligence weather models through reforecast analysis and such other methodologies as the Administrator considers appropriate.
+(2) BEST PRACTICES.—In carrying out this subsection, the Administrator may develop and disseminate best practices in collaboration with—
+(A) the National Institute for Standards and Technology, the National Aeronautics and Space Administration, the National Science Foundation, and the Department of Energy;
+(B) academic and research institutions; and
+(C) the private sector.
+(3) PUBLIC AVAILABILITY OF DATASET.—
+(A) IN GENERAL.—The Administrator may make available to the public, as the Administrator determines appropriate and subject to section 109, at no cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license, any reforecast dataset developed under this subsection.
+(B) DETERMINATION.—In determining whether to make a reforecast dataset public under subparagraph (A), the Administrator shall consider factors such as—
+(i) the difficulty of replicating the reforecast dataset; and
+(ii) the utility of the reforecast dataset to non-Federal partners of the National Oceanic and Atmospheric Administration.
+(4) REPORT ON USE OF ANALYSIS TO IMPROVE MODELS.—Not later than one year after the date of the enactment of this Act, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the feasibility of using reforecast analysis techniques to improve seasonal and subseasonal models.
+(c) Warning Coordination Meteorologists And Regional Forecast Offices.—In carrying out this section, the Administrator shall provide technical assistance, best practices, and support required under subsection (a) through the warning coordination meteorologists and weather forecast offices of the National Oceanic and Atmospheric Administration.
+(d) Independent Study On The Impacts Of Artificial Intelligence Weather Models.—The Administrator may enter into an agreement with the National Academy of Sciences to assess the impacts of artificial intelligence weather models on the weather enterprise and make recommendations to improve the integration of such models in operational forecasting.SEC. 105. FIRE COMBUSTION MODELING PROGRAM.
+(a) In General.—Not later than one year after the date of the enactment of this Act, the Administrator, in consultation with the Secretary of the Interior, the Secretary of Agriculture, the Administrator of the National Aeronautics and Space Administration, the Secretary of Energy, the Director of the National Science Foundation, the Director of the National Center for Atmospheric Research, the Environmental Information Services Working Group, and such other technical experts as the Administrator considers appropriate, shall develop a program to use artificial intelligence to analyze available data on the built and natural environments in order to—
+(1) warn and protect at-risk communities, firefighters, and other responders;
+(2) detect wildfires as early as possible; and
+(3) forecast wildfire propagation and combustion risks based on an analysis of the availability of combustible materials in the built and natural environments.
+(b) Training Dataset.—In carrying out this section, the Administrator shall gather observational data and synthetic data on the built and natural environments collected across the Federal Government to develop and curate a related training dataset for purposes of training the artificial intelligence technology used in furtherance of this section.
+(c) Data Acquisition.—In carrying out this section, the Administrator may contract to acquire relevant data.
+(d) Weather Integration.—In carrying out this section, the Administrator shall integrate outputs from weather and other environmental models and data.
+(e) Environmental Impact.—The Administrator shall develop and disseminate best practices to minimize environmental impacts from the use of artificial intelligence technology to carry out this section.
+(f) Public Access.—Subject to section 109, the Administrator shall make available to the public, at no-cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license, the code for the artificial intelligence used under subsection (a) and the training dataset developed under subsection (b).SEC. 106. EMISSIONS MONITORING AND ANALYSIS PROGRAM.
+(a) In General.—Not later than one year after the date of the enactment of this Act, the Administrator, in consultation with the Administrator of the Environmental Protection Agency, the Administrator of the National Aeronautics and Space Administration, the Secretary of Energy, the Director of the National Science Foundation, the Director of the National Center for Atmospheric Research, the Environmental Information Services Working Group, and such other technical experts as the Administrator considers appropriate, shall develop a program to use artificial intelligence to analyze global atmospheric observations in order to—
+(1) improve atmospheric dispersion models;
+(2) detect leaks from fuel transmission infrastructure;
+(3) detect, monitor, and track smoke and other emissions from wildfires;
+(4) identify significant changes in global greenhouse gas emissions;
+(5) infer the geographical and production sources of emissions; and
+(6) support the enforcement of applicable domestic and international laws.
+(b) Law Enforcement.—The Administrator shall collaborate with Federal, international, State, local, and Tribal law enforcement entities to ensure the program developed under subsection (a) delivers outputs that support law enforcement activities.
+(c) Training Dataset.—In carrying out this section, the Administrator shall gather observational data and synthetic data on the atmosphere and its chemical components collected across the Federal Government to develop, curate, and regularly update a global atmospheric chemistry training dataset for purposes of training the artificial intelligence technology used in furtherance of this section.
+(d) Data Acquisition.—In carrying out this section, the Administrator—
+(1) shall seek to negotiate with foreign governments for access to relevant data; and
+(2) may contract to acquire relevant data.
+(e) Environmental Impact.—The Administrator shall develop and disseminate best practices to minimize environmental impacts from the use of artificial intelligence technology to carry out this section.
+(f) Public Access.—Subject to section 109, the Administrator shall make available to the public, at no-cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license, the code for the artificial intelligence used under subsection (a) and the training dataset developed under subsection (c).SEC. 107. PARTNERSHIPS FOR TRANSFORMATIONAL INNOVATION.
+(a) In General.—The Administrator shall explore novel structures for partnerships with private entities and academic entities for transformative innovation in weather forecasting and other environmental forecasts in order to—
+(1) further the understanding of weather;
+(2) advance the science of weather forecasting, including seasonal and subseasonal forecasting; and
+(3) develop artificial intelligence weather forecasting applications.
+(b) Co-Investment.—In carrying out this section, subject to applicable law, the Administrator shall consider and adopt novel co-investment strategies with the private sector and academic sector, including—
+(1) non-Federal Government contributions to resource and support high-risk, high-return research and development in environmental forecasting, data science, artificial intelligence, and related fields;
+(2) shared rights to intellectual property from research and development activities under this section; and
+(3) other approaches to sharing resources and results under this section.
+SEC. 108. RETENTION OF FEDERAL GOVERNMENT EXPERTISE.
+Subject to applicable law, the Administrator shall consider methods to recruit and retain expert personnel to support activities under this title, including methods to be competitive with salaries outside the Federal Government.SEC. 109. NATIONAL SECURITY.
+(a) In General.—Notwithstanding any other provision of this title, the Administrator, in consultation with the Secretary of Defense, as appropriate, may withhold any model, code, or data developed or used under this title if the Administrator determines doing so to be necessary to protect the national security interests of the United States.
+(b) Rule Of Construction.—Nothing in this title shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.TITLE II—MATTERS RELATING TO THE DEPARTMENT OF AGRICULTURE
+SEC. 201. DEFORESTATION AND ILLEGAL WOOD PRODUCTS.
+(a) In General.—Not later than 1 year after the date of enactment of this Act, the Secretary of Agriculture (referred to in this section as the “Secretary”), acting through the Administrator of the Animal and Plant Health Inspection Service, shall develop a program (referred to in this section as the “program”) to use artificial intelligence to analyze available environmental, commercial, law enforcement, and related data—
+(1) to expand and improve global observations of forested lands;
+(2) to detect changes in the amount of forested lands globally;
+(3) to infer the causes of the changes described in paragraph (2);
+(4) to analyze past patterns in the movement of illegal wood products;
+(5) to predict future movements of illegal wood products;
+(6) to support the efficient deployment of international and domestic law enforcement assets to prevent the movement of illegal wood products;
+(7) to analyze how the movement of illegal wood products is affected by the deployment of law enforcement assets described in paragraph (6); and
+(8) to accomplish other related purposes.
+(b) Best Practices.—The Secretary shall develop and disseminate best practices for minimizing the environmental impacts of the use of artificial intelligence technology under this section.
+(c) Training Dataset.—In carrying out the program, the Secretary, acting through the Administrator of the Animal and Plant Health Inspection Service, shall collect and curate a training dataset, which shall source from—
+(1) the domestic and foreign intelligence communities;
+(2) satellite imagery;
+(3) acoustic monitoring of forest habitats;
+(4) data from Federal law enforcement agencies;
+(5) to the extent practicable, foreign governments; and
+(6) other relevant data, as determined by the Secretary.
+(d) Contracts For Additional Data.—Subject to the availability of appropriations, the Secretary may enter into contracts to acquire additional relevant data to carry out the program.
+(e) International Agreements.—
+(1) IN GENERAL.—The Secretary shall seek to enter into agreements with foreign governments to share relevant data and artificial intelligence analysis for enforcing international and domestic laws prohibiting the trade of illegal wood products.
+(2) TECHNICAL ASSISTANCE.—The Secretary may provide technical assistance to a foreign government with which the Secretary has an agreement under paragraph (1) to increase the capacity of the foreign government to participate in intelligence sharing and law enforcement activities relating to the trade of illegal wood products.TITLE III—MATTERS RELATING TO THE DEPARTMENT OF ENERGY
+SEC. 301. SECRETARY DEFINED.
+In this title, the term “Secretary” means the Secretary of Energy.SEC. 302. GRID AND TRANSMISSION OPTIMIZATION.
+(a) Establishment Of Program.—
+(1) IN GENERAL.—The Secretary, in consultation with the Chairman of the Federal Energy Regulatory Commission, shall establish a program (referred to in this section as the “program”) to use artificial intelligence to optimize energy grids and transmission—
+(A) to minimize the loss of electrical energy;
+(B) to stabilize energy flows to minimize power outages and power surges;
+(C) to compensate for variability in energy production;
+(D) to maximize the efficient use of new energy sources; and
+(E) to account for other factors, as appropriate.
+(2) DEADLINE.—The program shall be established not later than 1 year after the later of—
+(A) the date on which the report required under section 5.2(g)(i) of Executive Order 14110 (88 Fed. Reg. 75191; relating to safe, secure, and trustworthy development and use of artificial intelligence) is issued; and
+(B) the date of enactment of this Act.
+(b) Training Dataset.—In establishing and carrying out the program, the Secretary shall collect data on electrical production, transmission, use, and other factors, as appropriate, to gather and curate a regularly updated dataset for purposes of training artificial intelligence technology used in furtherance of the program.
+(c) Data Acquisition.—The Secretary may contract to acquire relevant data for purposes of this section.
+(d) Public Access.—Subject to subsection (e), the Secretary shall make available to the public, at no cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license—
+(1) the code for any artificial intelligence developed in furtherance of the program; and
+(2) the training dataset curated under subsection (b).
+(e) National Security.—
+(1) IN GENERAL.—Notwithstanding any other provision of this section, the Secretary may withhold any model, code, or data from disclosure under subsection (d) or any other law if the Secretary, in consultation with the Secretary of Defense, as appropriate, determines that withholding the model, code, or data is necessary to protect—
+(A) the national security interests of the United States; or
+(B) the security of the electrical grids or transmission systems of the United States.
+(2) RULE OF CONSTRUCTION.—Nothing in this section supersedes any other provision of law governing the protection of the national security interests of the United States.SEC. 303. PREPARATION OF ENVIRONMENTAL REVIEW DOCUMENTS.
+(a) Definitions.—In this section:
+(1) NATIONAL ACADEMIES.—The term “National Academies” means the National Academies of Sciences, Engineering, and Medicine.
+(2) NEPA; IMPACTS; MAJOR FEDERAL ACTION.—The terms “NEPA”, “impacts”, and “major Federal action” have the meanings given those terms in section 1508.1 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+(b) Establishment Of Program.—Not later than 1 year after the date of enactment of this Act, the Secretary shall establish a program (referred to in this section as the “program”)—
+(1) to use artificial intelligence, including large language models, to assist in the preparation of documents to comply with NEPA;
+(2) to provide ready access to publicly filed NEPA compliance documents to further support the development of documents to comply with NEPA; and
+(3) to assess the reliability of outputs from the artificial intelligence used under paragraph (1), including the viability of using those outputs to support compliance with NEPA.
+(c) Best Practices.—The Secretary shall develop and disseminate best practices for minimizing the environmental impacts of the use of artificial intelligence technology under this section.
+(d) Training Dataset.—
+(1) IN GENERAL.—In establishing and carrying out the program, the Secretary shall gather and curate a training dataset of publicly filed NEPA compliance documents relating to—
+(A) the mission of the Department of Energy; and
+(B) any related statutory authorities.
+(2) INCORPORATION OF METADATA.—The training dataset described in paragraph (1) may incorporate metadata, as appropriate to aid in carrying out subsection (f).
+(e) Implementation And Scope.—In carrying out this section, the Secretary—
+(1) shall adopt an incremental approach, with utilization by a limited number of participants and careful assessment, to ensure—
+(A) the viability of the artificial intelligence technology used for purposes of the program; and
+(B) compliance with all applicable environmental statutes, rules, regulations, and international laws; and
+(2) may broaden the scope of the program to include the application of artificial intelligence technology to assist with the preparation of other environmental compliance documents, subject to all applicable environmental statutes, rules, regulations, and international laws.
+(f) Public Access.—The Secretary shall make available to the public, at no cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license—
+(1) the code for any artificial intelligence developed in furtherance of the program;
+(2) the training dataset curated under subsection (d); and
+(3) the particular NEPA documents used in the training dataset curated under subsection (d), which shall be searchable, at a minimum, by—
+(A) project name;
+(B) geography;
+(C) keywords;
+(D) type of major Federal action; and
+(E) other parameters, as appropriate or convenient.
+(g) Program Review.—
+(1) IN GENERAL.—Not later than 2 years after the date on which the program is established, the Secretary shall enter into a contract with the National Academies to assess—
+(A) the program, including a comparison of the efficacy, accuracy, and speed of preparing comparable documents using the artificial intelligence described in subsection (b) and traditional methods;
+(B) the training dataset curated under subsection (d); and
+(C) any artificial intelligence developed in furtherance of the program.
+(2) REQUIREMENTS.—In carrying out the assessment under paragraph (1), the National Academies shall consider—
+(A) the legal viability of the NEPA compliance documents prepared using—
+(i) an artificial intelligence developed under this section; or
+(ii) the training dataset curated under subsection (d); and
+(B) the capacity of the program—
+(i) to take into account the unique cultural concerns regarding impacts to specific sites and communities from a major Federal action; and
+(ii) to avoid bias arising from the limitations of the training dataset.
+(3) RECOMMENDATIONS.—In carrying out the assessment under paragraph (1), the National Academies shall issue recommendations on how the Secretary may improve—
+(A) the artificial intelligence; and
+(B) the curation of the training dataset under subsection (d).
+(h) Savings Provision.—Nothing in this section shall—
+(1) limit or modify any applicable environmental law; or
+(2) affect compliance of applications for permits and other permissions with all applicable statutes, rules, regulations, and international laws.TITLE IV—AUTHORIZATION OF APPROPRIATIONS
+SEC. 401. AUTHORIZATION OF APPROPRIATIONS.
+There are authorized to be appropriated such sums as are necessary to carry out this Act.

@@ -1,0 +1,108 @@
+ SEC. 303. TASK FORCE TO ADDRESS ARTIFICIAL INTELLIGENCE-ENABLED INFLUENCE OPERATIONS.
+
+
+(a) Sense Of Congress.—It is the sense of Congress that—
+
+
+(1) the rapid development of publicly available, affordable generative artificial intelligence (AI) technology, including the use of large language models (LLM) to fuel natural language processing applications, has the potential to fundamentally alter the nature of disinformation and propaganda campaigns by enabling finely tailored, auto-generated disinformation swiftly, in any language, at scale, and at low-costs;
+
+
+(2) academia and private industry, including social media platforms, play a critical role in establishing safeguards for powerful, publicly available tools for producing AI-generated content, and it is in the United States national security interest to ensure that these technologies are not misused by foreign malign actors to enhance influence operations abroad;
+
+
+(3) the ability to identify, track, and label original text, audio, and visual content is becoming increasingly vital to United States national interests as sophisticated AI-generated content creation becomes increasingly available to the public at low costs;
+
+
+(4) coalitions such as the Content Authenticity Initiative (CAI) and the Coalition for Content Provenance and Authority (C2PA) play important roles in establishing open industry standards for content authenticity and digital content provenance, which will become increasingly vulnerable to manipulation and distortion through AI-powered tools; and
+
+
+(5) the Department, as the lead agency for United States public diplomacy, should work within the interagency process to develop a common approach to United States international engagement on issues related to AI-enabled disinformation.
+
+ (b) Statement Of Policy.—It shall be the policy of the United States—
+
+
+(1) to share knowledge with allies and partners of instances when foreign state actors have leveraged generative AI to augment disinformation campaigns or propaganda;
+
+
+(2) to work with private industry and academia to mitigate the risks associated with public research on generative AI technologies; and
+
+
+(3) to support efforts in developing digital content provenance detection techniques and technologies in line with United States national security interests.
+
+ (c) Establishment Of Countering AI-Enabled Disinformation Task Force.—
+
+
+(1) ESTABLISHMENT.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish within the Department a Countering AI-Enabled Disinformation Task Force (referred to in this section as the “Task Force”) to—
+
+
+(A) identify potential responses to the growing threat of AI-enabled disinformation and its use by foreign state actors to augment influence operations and disinformation campaigns;
+
+
+(B) work closely with private industry and academia to identify and coordinate efforts in developing digital content provenance detection techniques and technologies;
+
+
+(C) develop the Department’s internal coordination across regional and functional bureaus on the issue of AI-enabled disinformation;
+
+
+(D) develop a unified approach to international coordination on—
+
+
+(i) establishing standards around digital content provenance techniques and technologies, specifically as it relates to countering AI-enabled disinformation campaign; and
+
+
+(ii) assessing the potential for establishing frameworks around the proliferation of tools that facilitate AI-enabled disinformation; and
+
+
+(E) identify any additional tools or resources necessary to enhance the Department’s ability to—
+
+
+(i) detect AI-enabled foreign disinformation and propaganda;
+
+
+(ii) rapidly produce original counter-messaging to address AI-enabled disinformation campaigns;
+
+
+(iii) expand digital literacy programming abroad to include education on how media consumers in recipient countries can identify and inoculate themselves from synthetically produced media; and
+
+
+(iv) coordinate and collaborate with other governments, international organizations, civil society, the private sector, and others, as necessary.
+
+
+(2) MEMBERSHIP.—The Task Force shall be comprised of a representative from relevant offices, as determined by the Secretary, including—
+
+
+(A) the Bureau of Cyberspace and Digital Policy;
+
+
+(B) the Under Secretary for Public Diplomacy and Public Affairs;
+
+
+(C) the Global Engagement Center;
+
+
+(D) the Office of the Science and Technology Advisor to the Secretary;
+
+
+(E) the Bureau of Oceans and International Environmental and Scientific Affairs;
+
+
+(F) the Bureau for Intelligence and Research;
+
+
+(G) the Center for Analytics of the Office of Management Strategy and Solutions;
+
+
+(H) the Foreign Service Institute School of Applied Information Technology; and
+
+
+(I) any others the Secretary determines appropriate.
+
+ (d) Task Force Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit a report to the appropriate congressional committees on the establishment and progress of the Task Force’s work, including in pursuit of the objectives described in subsection(c)(1).
+
+ (e) Definitions.—In this section:
+
+
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given that term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4001 note).
+
+
+(2) DIGITAL CONTENT PROVENANCE.—The term “digital content provenance” means the verifiable chronology of the origin and history of a piece of digital content, such as an image, video, audio recording, or electronic document.

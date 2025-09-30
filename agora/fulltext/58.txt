@@ -1,0 +1,71 @@
+PART II--SMART MANUFACTURING
+
+SEC. 40531. DEFINITIONS.
+
+In this part:
+	(1) Energy management system.--The term ``energy management system'' means a business management process based on standards of the American National Standards Institute that enables an organization to follow a systematic approach in achieving continual improvement of energy performance, including energy efficiency, security, use, and consumption.
+	(2) Industrial research and assessment center.--The term ``industrial research and assessment center'' means a center located at an institution of higher education, a trade school, a community college, or a union training program that--
+		(A) receives funding from the Department;
+		(B) provides an in-depth assessment of small- and medium-size manufacturer plant sites to evaluate the facilities, services, and manufacturing operations of the plant site; and
+		(C) identifies opportunities for potential savings for small- and medium-size manufacturer plant sites from energy efficiency improvements, waste minimization, pollution prevention, and productivity improvement.
+	(3) Information and communication technology.--The term ``information and communication technology'' means any electronic system or equipment (including the content contained in the system or equipment) used to create, convert, communicate, or duplicate data or information, including computer hardware, firmware, software, communication protocols, networks, and data interfaces.
+	(4) Institution of higher education.--The term ``institution of higher education'' has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+	(5) North american industry classification system.--The term ``North American Industry Classification System'' means the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting,
+analyzing, and publishing statistical data relating to the business economy of the United States.	(6) Small and medium manufacturers.--The term ``small and medium manufacturers'' means manufacturing firms--
+		(A) classified in the North American Industry Classification System as any of sectors 31 through 33;
+		(B) with gross annual sales of less than $100,000,000;
+		(C) with fewer than 500 employees at the plant site; and(D) with annual energy bills totaling more than $100,000 and less than $3,500,000.
+	(7) Smart manufacturing.--The term ``smart manufacturing'' means advanced technologies in information, automation, monitoring, computation, sensing, modeling, artificial intelligence, analytics, and networking that--
+		(A) digitally--
+			(i) simulate manufacturing production lines;
+			(ii) operate computer-controlled manufacturing equipment;
+			(iii) monitor and communicate production line status; and
+			(iv) manage and optimize energy productivity and cost throughout production;
+		(B) model, simulate, and optimize the energy efficiency of a factory building;
+		(C) monitor and optimize building energy performance;
+		(D) model, simulate, and optimize the design of energy efficient and sustainable products, including the use of digital prototyping and additive manufacturing to enhance product design;
+		(E) connect manufactured products in networks to monitor and optimize the performance of the networks, including automated network operations; and
+		(F) digitally connect the supply chain network.
+SEC. 40532. LEVERAGING EXISTING AGENCY PROGRAMS TO ASSIST SMALL AND MEDIUM MANUFACTURERS.
+
+The Secretary shall expand the scope of technologies covered by the industrial research and assessment centers of the Department--
+	(1) to include smart manufacturing technologies and practices; and
+	(2) to equip the directors of the industrial research and assessment centers with the training and tools necessary to provide technical assistance in smart manufacturing technologies and practices, including energy management systems, to manufacturers.
+SEC. 40533. LEVERAGING SMART MANUFACTURING INFRASTRUCTURE AT NATIONAL LABORATORIES.
+
+(a) Study.--
+	(1) In general.--Not later than 180 days after the date of enactment of this Act, the Secretary shall conduct a study on how the Department can increase access to existing high-performance computing resources in the National Laboratories, particularly for small and medium manufacturers.
+	(2) Inclusions.--In identifying ways to increase access to National Laboratories under paragraph (1), the Secretary shall--
+		(A) focus on increasing access to the computing facilities of the National Laboratories; and
+		(B) ensure that--
+			(i) the information from the manufacturer is protected; and
+			(ii) the security of the National Laboratory facility is maintained.
+	(3) Report.--Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to Congress a report describing the results of the study.
+
+(b) Actions for Increased Access.--The Secretary shall facilitate access to the National Laboratories studied under subsection (a) for small and medium manufacturers so that small and medium manufacturers can fully use the high-performance computing resources of the National Laboratories to enhance the manufacturing competitiveness of the United States.
+SEC. 40534. STATE MANUFACTURING LEADERSHIP.
+
+(a) Financial Assistance Authorized.--The Secretary may provide financial assistance on a competitive basis to States for the establishment of programs to be used as models for supporting the implementation of smart manufacturing technologies.
+(b) Applications.--
+	(1) In general.--To be eligible to receive financial assistance under this section, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+	(2) Criteria.--The Secretary shall evaluate an application for financial assistance under this section on the basis of merit using criteria identified by the Secretary, including--
+		(A) technical merit, innovation, and impact;
+		(B) research approach, workplan, and deliverables;
+		(C) academic and private sector partners; and
+		(D) alternate sources of funding.
+
+(c) Requirements.--
+	(1) Term.--The term of an award of financial assistance under this section shall not exceed 3 years.
+	(2) Maximum amount.--The amount of an award of financial assistance under this section shall be not more than $2,000,000.
+	(3) Matching requirement.--Each State that receives financial assistance under this section shall contribute matching funds in an amount equal to not less than 30 percent of the amount of the financial assistance.
+(d) Use of Funds.--A State may use financial assistance provided under this section--
+	(1) to facilitate access to high-performance computing resources for small and medium manufacturers; and
+	(2) to provide assistance to small and medium manufacturers to implement smart manufacturing technologies and practices.
+
+(e) Evaluation.--The Secretary shall conduct semiannual evaluations of each award of financial assistance under this section--
+	(1) to determine the impact and effectiveness of programs funded with the financial assistance; and(2) to provide guidance to States on ways to better execute the program of the State.
+
+(f) Authorization of Appropriations.--There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for the period of fiscal years 2022 through 2026.
+SEC. 40535. REPORT.
+
+The Secretary annually shall submit to Congress and make publicly available a report on the progress made in advancing smart manufacturing in the United States.

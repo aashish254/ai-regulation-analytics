@@ -1,0 +1,32 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Protect Working Musicians Act of 2023”.SEC. 2. FINDINGS.
+Congress finds the following:
+(1) Music is a cultural treasure and a unique source of spiritual inspiration, emotional comfort, community connection, and joy. It is also a powerful economic driver that directly and indirectly supports nearly 2 million American jobs and almost $150 billion in annual economic activity.
+(2) A healthy music ecosystem is a fundamental bedrock for a healthy society.
+(3) Fair and competitive markets for the use and licensing of recorded music are integral to a healthy music ecosystem.
+(4) As music distribution has moved online, the market for use and licensing has become distorted and imbalanced. The largest Dominant Online Music Distribution Platforms use their market power to distort legal requirements and force music creators into licensing agreements that do not reflect market value. Those agreements essentially dictate a price to music creators. If music creators do not agree to licensing terms, the online platforms profit from unlicensed uploads of music anyway.
+(5) These platforms game the system created by the Digital Millennium Copyright Act, which allows dominant online platforms to ignore and profit from unlicensed use of music and places the responsibility for finding each and every instance of unlicensed use of music on music creators. This “notice and takedown” scheme has been described as a gigabit-speed game of whack-a-mole.
+(6) The trade association for the major record labels spends millions of dollars engaged in this effort which it says has grown to be “largely useless.” The trade association for the independent record labels agrees, calling it a “dysfunctional relic”.
+(7) An effort that is largely useless for major and independent record labels is an exercise in futility for Independent Music Creator Owners—those who own the copyrights and market their work themselves. Independent Music Creator Owners lack the economic, legal, and political resources to stand up to the Dominant Online Music Distribution Platforms and have no way to meaningfully negotiate fair licensing rates for their work.
+(8) That power imbalance means that Independent Music Creator Owners are forced to take whatever terms dominant online platforms offer for their work. If they decline, the platforms simply ignore them since in most cases lacking access to any single artists’ work does not present a threat to the platforms’ overall attractiveness to consumers.
+(9) This imbalance has decimated careers in music at an untold cost to our society and culture. Multi Grammy-award winning musician Rosanne Cash recently lamented: “I see young musicians give up their missions and dreams all the time because they can’t make a living.”
+(10) The antitrust laws were intended to and do provide important economic and civic benefits.
+(11) A central purpose of these laws is to promote, protect, and strengthen fair and open markets, including those for music.
+(12) While antitrust exemptions are generally disfavored, should the application of the antitrust laws ever be applied in a manner that conflicts with their purpose—such as protecting the online marketplace for creative works—it is the duty and prerogative of the Congress to resolve the conflict.SEC. 3. SAFE HARBOR FOR CERTAIN COLLECTIVE NEGOTIATIONS.
+(a) Definitions.—For purposes of this section:
+(1) The term “antitrust laws” has the meaning given such term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12), and includes—
+(A) section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent that such section applies to unfair methods of competition; and
+(B) any State law, rule, or regulation that prohibits or penalizes the conduct described in, or is otherwise inconsistent with, subsection (b) of this section.
+(2) The term “Dominant Online Music Distribution Platform” means any entity that—
+(A) operates an app, website or other online service that is used by members of the public to listen to sound recordings, whether via a digital audio transmission, an audio-visual presentation, or any other means;
+(B) has annual revenues related to the distribution of music of more than $100 million; and
+(C) is not eligible for a license under section 114(d)(2) of title 17 of the United States Code.
+(3) The term “generative artificial intelligence” means an artificial intelligence system that is capable of generating novel text, video, images, audio, and other media based on prompts or other forms of data provided by a person.
+(4) The term “Individual Music Creator Owner” means any musician or group of musician, producers, mixers, and sound engineers that—
+(A) owns the copyrights to one or more sound recordings created by the musician or group of musicians, producers, and sound engineers; and
+(B) either:
+(i) has earned less than $1,000,000 in licensing revenues associated with these copyrights in the prior year; or
+(ii) qualifies as a small business under the Office of Management and Budget North American Industry Classification System (NAICS) code 512250.(b) Limitation Of Liability.—An Individual Music Creator Owner shall not be held liable under the antitrust laws for agreeing with other Individual Music Creator Owners to collectively negotiate music licensing terms with a Dominant Online Music Distribution Platform or a company engaged in development or deployment of generative artificial intelligence, or agreeing with other Individual Music Creator Owners to collectively refuse to license their music to a Dominant Online Music Distribution Platform or a company engaged in development or deployment of generative artificial intelligence, if—
+(1) the negotiations are not limited to price, are nondiscriminatory as to similarly situated independent creator/owners;
+(2) the coordination among Independent Music Creator Owners is directly related to and reasonably necessary for negotiations with a Dominant Online Music Distribution Platform that are otherwise consistent with the operation of the Antitrust laws; and
+(3) the negotiations do not involve any person that is not an Independent Music Creator Owner or a Dominant Online Music Distribution Platform.(c) Rule Of Construction.—Except as provided in this Act, this Act shall not be construed to modify, impair, or supersede the operation of the antitrust laws.

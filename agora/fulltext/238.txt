@@ -1,0 +1,72 @@
+SEC. 10305. MODIFICATIONS TO THE OCEAN EXPLORATION PROGRAM OF THE NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.
+
+(a) Purpose.--Section 12001 of the Omnibus Public Land Management Act of 2009 (33 U.S.C. 3401) is amended by striking ``and the national undersea research program''.
+
+(b) Program Established.--Section 12002 of such Act (33 U.S.C. 3402) is amended--
+	(1) in the first sentence, by striking ``and undersea''; and
+	(2) in the second sentence, by striking and undersea research and exploration'' and inserting research and ocean exploration and characterization efforts''.
+
+(c) Powers and Duties of the Administrator.--
+	(1) In general.--Section 12003(a) of such Act (33 U.S.C. 3403(a)) is amended--
+		(A) in the matter preceding paragraph (1), by inserting , in consultation with the Ocean Policy Committee established under section 8932 of title 10, United States Code,'' after Administration'';
+		(B) in paragraph (1)--
+			(i) by striking voyages'' and inserting expeditions'';
+			(ii) by striking Federal agencies'' and all that follows through and survey'' and inserting ``Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations, to map, explore, and characterize''; and
+			(iii) by inserting characterize,'' after observe,'';
+		(C) in paragraph (2), by inserting of the exclusive economic zone'' after deep ocean regions'';
+		(D) in paragraph (3), by striking voyages'' and inserting expeditions'';
+		(E) in paragraph (4), by striking ``, in consultation with the National Science Foundation,'';
+		(F) by amending paragraph (5) to read as follows:``(5) support technological innovation of the United States marine science community by promoting the development and use of new and emerging technologies for research, communication, navigation, and data collection, such as sensors and autonomous vehicles;'';
+		(G) in paragraph (6), by inserting , in consultation with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023,'' after forum'';
+		(H) by adding at the end the following:
+``(7) provide guidance, in consultation with the National Ocean Mapping, Exploration, and Characterization Council, to Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations on data standards, protocols for accepting data, and coordination of data collection, compilation, processing, archiving, and dissemination for data relating to ocean exploration and characterization; and
+``(8) coordinate with applicable ocean mapping, ocean monitoring, and ocean observation programs to maximize coordination and collaboration opportunities, prevent duplication of such activities and identify gaps in data.''.	(2) Donations.--Section 12003(b) of such Act (33 U.S.C. 3403(b)) is amended to read as follows:
+
+``(b) Donations.--For the purpose of mapping, exploring, and characterizing the oceans or increasing the knowledge of the oceans, the Administrator may--
+``(1) accept monetary donations, which shall be credited as discretionary offsetting collections to the currently applicable appropriation, account, or fund of the National Oceanic and Atmospheric Administration and shall be made available for such purposes only to the extent and in the amounts provided in advance in appropriations Acts;
+``(2) accept donations of property, data, and equipment; and
+``(3) pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest.''.
+	(3) Definition of exclusive economic zone.--Section 12003 of such Act (33 U.S.C. 3403) is amended by adding at the end the following:
+
+`(c) Definition of Exclusive Economic Zone.--In this section, the term exclusive economic zone' means the zone established by Presidential Proclamation Number 5030, dated March 10, 1983 (16 U.S.C. 1453 note).''.
+(d) Repeal of Ocean Exploration and Undersea Research Technology and Infrastructure Task Force.--Section 12004 of such Act (33 U.S.C. 3404) is repealed.
+(e) Education, Workforce Training, and Outreach.--
+	(1) In general.--Such Act is further amended by inserting after section 12003 the following new section 12004:``SEC. 12004. EDUCATION, WORKFORCE TRAINING, AND OUTREACH.
+
+``(a) In General.--The Administrator of the National Oceanic and Atmospheric Administration shall--
+``(1) conduct education and outreach efforts in order to broadly disseminate information to the public on the discoveries made by the program under section 12002;
+``(2) to the extent possible, coordinate the efforts described in paragraph (1) with the outreach strategies of other domestic or international ocean mapping, exploration, and characterization initiatives; and
+``(3) establish a fellowship program at the National Oceanic and Atmospheric Administration to provide year-long fellowships to undergraduate students from institutions described in section 371(a) of the Higher Education Act of 1965.
+
+``(b) Education and Outreach Efforts.--Efforts described in subsection (a)(1) may include--
+``(1) education of the general public, teachers, students, and ocean and coastal resource managers; and
+``(2) workforce training, reskilling, and opportunities to encourage development of ocean-related science, technology, engineering, and mathematics technical training programs involving secondary schools, community colleges, and universities, including institutions described in section 371(a) of the Higher Education Act of 1965.
+
+``(c) Outreach Strategy.--Not later than 180 days after the date of the enactment of the National Ocean Exploration Act, the Administrator of the National Oceanic and Atmospheric Administration shall develop an outreach strategy to broadly disseminate information on the discoveries made by the program under section 12002.''.
+	(2) Clerical amendment.--The table of contents in section 1(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111-11; 123 Stat. 991) is amended by striking the item relating to section 12004 and inserting the following:
+
+``Sec. 12004. Education, workforce training, and outreach.''.
+(f) Ocean Exploration Advisory Board.--
+	(1) Establishment.--Section 12005(a) of such Act (33 U.S.C. 3505(a)) is amended--
+		(A) by inserting , including representatives from academic, commercial, nonprofit, philanthropic, policy, and Tribal entities'' after relevant fields'';
+		(B) by amending paragraph (1) to read as follows:
+``(1) to advise the Administrator on priority areas for survey, discovery, and opportunities for extramural collaboration and partnerships;'';
+		(C) by redesignating paragraph (4) as paragraph (6); and(D) by inserting after paragraph (3) the following:
+``(4) to identify market barriers to development or commercialization of novel ocean mapping, exploration, and characterization products, processes, and tools;
+``(5) to identify best practices to improve data management, processing, storage, and archiving standards; and''.
+	(2) Technical amendment.--Section 12005(c) of such Act (33 U.S.C. 3505(c)) is amended by inserting this'' before part''.
+(g) Authorization of Appropriations.--
+Section 12006 of such Act (33 U.S.C. 3406) is amended by striking this part'' and all that follows and inserting this part $60,000,000 for each of fiscal years 2023 through 2028''.
+(h) Definitions.--Such Act is further amended by inserting after section 12006 the following:
+``SEC. 12007. DEFINITIONS.
+
+``In this part:
+`(1) Characterization.--The terms characterization', characterize', and characterizing' mean activities that provide comprehensive data and interpretations for a specific area of interest of the sea floor, sub-bottom, water column, or hydrologic features, such as water masses and currents, in direct support of specific research, environmental protection, resource management, policymaking, or applied mission objectives.
+`(2) Exploration.--The term exploration', explore', and exploring' means activities that provide--
+``(A) a multidisciplinary view of an unknown or poorly understood area of the sea floor, sub-bottom, or water column; and
+``(B) an initial assessment of the physical, chemical, geological, biological, archaeological, or other characteristics of such an area.
+`(3) Mapping.--The terms map' and `mapping' mean activities that provide comprehensive data and information needed to understand sea floor characteristics, including depth, topography, bottom type, sediment composition and distribution, underlying geologic structure, and benthic flora and fauna.''.
+
+(i) Clerical Amendment.--The table of contents in section 1(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111-11; 123 Stat. 991) is amended by inserting after the item relating to section 12006 the following:
+
+``Sec. 12007. Definitions.''.

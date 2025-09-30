@@ -1,0 +1,70 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Synthetic Biology Advancement Act of 2024”.
+SEC. 2. FINDINGS.
+Congress finds that—
+(1) the application of synthetic biology to accelerate innovation in food and agriculture is critical to—
+(A) the national security and economic future of the United States; and
+(B) the ability of the United States to feed and fuel the global economy;
+(2) while agriculture has experienced significant advancements in productivity and sustainability, the future of the food system relies on disruptive technologies catalyzed by synthetic biology at the intersections of soil health, plant science, animal health, and, ultimately, human health;
+(3) synthetic biology is a key tool to defend against terrorism and high-consequence events;
+(4) investments into synthetic biology will catalyze the strengths of engineering, agriculture, and manufacturing to develop a resilient food and agriculture system;
+(5) resiliency is accomplished through advanced biotechnology and digital solutions to keep the United States at the forefront of feeding the United States and the world;
+(6) Congress has historically prioritized a safe and secure food supply in the United States, as evidenced by the enactment of the Securing Our Agriculture and Food Act (Public Law 115–43; 131 Stat. 884); and
+(7) innovation and research are necessary to push the boundaries of science to develop disruptive technologies that advance national security through food security.SEC. 3. NATIONAL SYNTHETIC BIOLOGY CENTER.
+(a) Definitions.—In this section:
+(1) 1862 INSTITUTION; 1890 INSTITUTION.—The terms “1862 Institution” and “1890 Institution” have the meanings given those terms in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7601).
+(2) 1994 INSTITUTION.—The term “1994 Institution” has the meaning given the term in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382).
+(3) CENTER.—The term “Center” means the National Synthetic Biology Center established under subsection (b)(1).
+(4) ELIGIBLE INSTITUTION.—The term “eligible institution” means—
+(A) an 1862 Institution;
+(B) an 1890 Institution; and
+(C) a 1994 Institution.
+(5) NATIONAL LABORATORY.—The term “National Laboratory” has the meaning given the term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+(6) SECRETARY.—The term “Secretary” means the Secretary of Agriculture.
+(b) Establishment Of National Synthetic Biology Center.—
+(1) IN GENERAL.—The Secretary, in consultation with the head of any other relevant Federal agency, shall establish a center, to be known as the “National Synthetic Biology Center”, to award grants, on a competitive basis, to eligible institutions.
+(2) PURPOSE.—The purpose of the Center is to provide a hub for researchers and industry partners in the United States to discover and develop science-based solutions based on synthetic biology to improve agricultural performance while minimizing environmental impact and improving overall food system resiliency.
+(c) Partnerships.—The Center shall provide grants to eligible institutions to carry out projects in partnership with not fewer than 1 other entity, which may include—
+(1) a nonprofit organization;
+(2) a State entity;
+(3) a National Laboratory;
+(4) an 1862 Institution;
+(5) an 1890 Institution;
+(6) a 1994 Institution; or
+(7) any combination of entities described in paragraphs (1) through (6).
+(d) Application.—
+(1) IN GENERAL.—An eligible institution seeking a grant under this section shall submit an application to the Center at such time, in such manner, and containing such information as the Center may require.
+(2) REQUIREMENTS.—An application submitted under paragraph (1) shall include, at a minimum, a description of how the proposed project will—
+(A) promote innovative synthetic biology technologies and practices that address current and emerging challenges in the food and agriculture sector;
+(B) foster the development and dissemination of science-based educational resources and training programs on synthetic biology for stakeholders in the agricultural community;
+(C) enhance the efficiency, sustainability, and resiliency of food production systems through synthetic biology interventions; and
+(D) monitor and evaluate the impacts, benefits, and challenges of implementing synthetic biology solutions in real-world agricultural settings.
+(e) Use Of Funds.—
+(1) RESEARCH PRIORITIES.—In awarding grants to eligible institutions, the Center shall prioritize the following areas of research:
+(A) Cellular biology.
+(B) Genomes to phenomes.
+(C) Microbiomes or microbes.
+(D) Gene editing.
+(E) Digital agriculture.
+(F) Fermentation.
+(G) Controlled environment agriculture.(2) PURPOSES.—An eligible institution receiving a grant from the Center may use the grant for the following purposes:
+(A) To explore and advance biotechnology applied to food science in the creation of new protein sources for human and animal consumption.
+(B) To build on the Agricultural Genome to Phenome Initiative (also known as the “AG2PI”) of the National Institute of Food and Agriculture to inform approaches to understanding how variable weather, environments, and production systems interact with genetic diversity in crops and animals to impact growth and productivity.
+(C) To advance the development and commercialization of nutritional and therapeutic innovations to improve the health of livestock and companion animals.
+(D) To create new crops that have functional mutations that improve performance and increase climate resiliency through increased efficiency in the use of inputs and increased disease and pest resistance.
+(E) To apply artificial intelligence, machine learning, data science, and advanced computational processes to accelerate modeling and measurement for new synthetic biological solutions.
+(F) To strengthen advanced manufacturing sciences and infrastructure to use microorganisms to produce food and agricultural products, including vaccines, crop protection products, and food products for human and animal nutrition, by capitalizing on the strength of food science, engineering, and pharmacy.
+(G) To advance diversity of crops to increase the food supply and explore pharmaceutical plant-based derivatives within a controlled environment.(f) Timing Of Awards.—Not later than 1 year after the date of enactment of this Act, the Center shall begin awarding grants under this section.
+(g) Coordination.—
+(1) GRANT RECIPIENTS.—An eligible institution receiving a grant from the Center under this section shall endeavor to coordinate with a wide range of experts and researchers to create efficiency in the innovation development pipeline.
+(2) CENTER.—The Center shall coordinate with technology transfer offices or technology licensing offices in order to disseminate innovations and reach commercialization.
+(h) Website.—The Center shall establish and maintain a website with a user friendly portal in order to disseminate synthetic biology findings and connect researchers and innovators to collaborative opportunities.
+(i) Report.—Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the Center shall submit to the relevant committees of Congress a report detailing—
+(1) any findings from the research funded by the Center;
+(2) the progress of any innovation funded by the Center;
+(3) a description of the focus and proposed goals of each grant recipient;
+(4) an assessment, based on a common set of metrics across all grant recipients, of the success of each grant recipient in improving efficiency in the innovation development pipeline; and
+(5) any recommendations for administrative or legislative action that may optimize the effectiveness of the research activities carried out by grant recipients under this section.
+(j) Authorization Of Appropriations.—There are authorized to be appropriated to the Secretary—
+(1) $5,000,000 for each of fiscal years 2025 through 2029, to remain available until expended, for the awarding of grants by the Center; and
+(2) $1,000,000 for each of fiscal years 2025 through 2029, to remain available until expended, for the establishment of the Center and for other activities of the Center.

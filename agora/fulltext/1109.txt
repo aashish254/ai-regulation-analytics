@@ -1,0 +1,137 @@
+A BILL TO 
+
+
+Make provision for the regulation of artificial intelligence; and for connected purposes. 
+
+
+BE IT ENACTED by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— 
+
+
+1. The AI Authority 
+(1) The Secretary of State must by regulations make provision to create a body called the AI Authority. 
+
+
+(2) The functions of the AI Authority are to— 
+(a) ensure that relevant regulators take account of AI; 
+(b) ensure alignment of approach across relevant regulators in respect of AI; 
+(c) undertake a gap analysis of regulatory responsibilities in respect of AI; 
+(d) coordinate a review of relevant legislation, including product safety, privacy and consumer protection, to assess its suitability to address the challenges and opportunities presented by AI; 
+(e) monitor and evaluate the overall regulatory framework’s effectiveness and the implementation of the principles in section 2, including the extent to which they support innovation; 
+(f) assess and monitor risks across the economy arising from AI; 
+(g) conduct horizon-scanning, including by consulting the AI industry, to inform a coherent response to emerging AI technology trends; 
+(h) support testbeds and sandbox initiatives (see section 3) to help AI innovators get new technologies to market; 
+(i) accredit independent AI auditors (see section 5(1)(a)(iv)); 
+(j) provide education and awareness to give clarity to businesses and to empower individuals to express views as part of the iteration of the framework; 
+(k) promote interoperability with international regulatory frameworks. 
+
+
+(3) The Secretary of State may by regulations amend the functions in subsection (2), and may dissolve the AI Authority, following consultation with such persons as he or she considers appropriate. 
+
+
+2. Regulatory principles 
+(1) The AI Authority must have regard to the principles that— 
+(a) regulation of AI should deliver— 
+(i) safety, security and robustness; 
+(ii) appropriate transparency and explainability; 
+(iii) fairness; (iv) accountability and governance; 
+(v) contestability and redress; 
+(b) any business which develops, deploys or uses AI should— 
+(i) be transparent about it; 
+(ii) test it thoroughly and transparently; 
+(iii) comply with applicable laws, including in relation to data protection, privacy and intellectual property; 
+(c) AI and its applications should— 
+(i) comply with equalities legislation; 
+(ii) be inclusive by design; 
+(iii) be designed so as neither to discriminate unlawfully among individuals nor, so far as reasonably practicable, to perpetuate unlawful discrimination arising in input data; 
+(iv) meet the needs of those from lower socio-economic groups, older people and disabled people; 
+(v) generate data that are findable, accessible, interoperable and reusable; 
+(d) a burden or restriction which is imposed on a person, or on the carrying on of an activity, in respect of AI should be proportionate to the benefits, taking into consideration the nature of the service or product being delivered, the nature of risk to consumers and others, whether the cost of implementation is proportionate to that level of risk and whether the burden or restriction enhances UK international competitiveness. 
+
+
+(2) The Secretary of State may by regulations amend the principles in subsection (1), following consultation with such persons as he or she considers appropriate. 
+
+
+3. Regulatory sandboxes 
+(1) The AI Authority must collaborate with relevant regulators to construct regulatory sandboxes for AI. 
+
+
+(2) In this section a “regulatory sandbox” is an arrangement by one or more 40 regulators which—
+(a) allows businesses to test innovative propositions in the market with real consumers; 
+(b) is open to authorised firms, unauthorised firms that require authorisation and technology firms partnering with, or providing services to, UK firms doing regulated activities; 
+(c) provides firms with support in identifying appropriate consumer protection safeguards; 
+(d) requires tests to have a clear objective and to be conducted on a small scale; 
+(e) requires firms which want to test products or services which are regulated activities to be authorised by or registered with the relevant regulator before starting the test. 
+
+
+(3) The Secretary of State may by regulations amend the description in subsection (2), following consultation with such persons as he or she considers appropriate. 
+
+
+4. AI responsible officers 
+(1) The Secretary of State, after consulting the AI Authority and such other persons as he or she considers appropriate, must by regulations provide that any business which develops, deploys or uses AI must have a designated AI officer, with duties— 
+(a) to ensure the safe, ethical, unbiased and non-discriminatory use of AI by the business; 
+(b) to ensure, so far as reasonably practicable, that data used by the business in any AI technology is unbiased (see section 2(1)(c)(iii)). 
+
+
+(2) In the Companies Act 2006, section 414C(7)(b), after paragraph (iii) insert— 
+“(iv) any development, deployment or use of AI by the company, and the name and activities of the AI officer designated under the Artificial Intelligence (Regulation) Act 2024,”. 
+
+
+(3) The Secretary of State may by regulations amend the duties in subsection (1) and the text inserted by section (2), following consultation with such persons as he or she considers appropriate. 
+
+
+5. Transparency, IP obligations and labelling 
+(1) 35 The Secretary of State, after consulting the AI Authority and such other persons as he or she considers appropriate, must by regulations provide that— 
+(a) any person involved in training AI must— 
+(i) supply to the AI Authority a record of all third-party data and intellectual property (“IP”) used in that training; and 
+(ii) assure the AI Authority that— 
+(A) they use all such data and IP by informed consent;  and 
+(B) they comply with all applicable IP and copyright obligations; 
+(iii) any person supplying a product or service involving AI must give customers clear and unambiguous health warnings, labelling and opportunities to give or withhold informed consent in advance; and 
+(iv) any business which develops, deploys or uses AI must allow independent third parties accredited by the AI Authority to audit its processes and systems. 
+
+
+(2) Regulations under this section may provide for informed consent to be express (opt-in) or implied (opt-out) and may make different provision for different cases. 
+
+
+6. Public engagement 
+The AI Authority must— 
+(a) implement a programme for meaningful, long-term public engagement about the opportunities and risks presented by AI; and 
+(b) consult the general public and such persons as it considers appropriate as to the most effective frameworks for public engagement, having regard to international comparators. 
+
+
+7. Interpretation 
+(1) In this Act “artificial intelligence” and “AI” mean technology enabling the programming or training of a device or software to— 
+(a) perceive environments through the use of data; 
+(b) interpret data using automated processing designed to approximate cognitive abilities; and 
+(c) make recommendations, predictions or decisions; with a view to achieving a specific objective. 
+
+
+(2) AI includes generative AI, meaning deep or large language models able to generate text and other content based on the data on which they were trained. 
+
+
+8. Regulations 
+(1) Regulations under this Act are made by statutory instrument. 
+
+
+(2) Regulations under this Act may create offences and require payment of fees, penalties and fines. 
+
+
+(3) A statutory instrument containing regulations under section 1 or 2 or regulations covered by subsection (2) may not be made unless a draft of the instrument has been laid before and approved by resolution of both Houses of Parliament. 
+
+
+(4) A statutory instrument containing only regulations not covered by subsection (3) is subject to annulment in pursuance of a resolution of either House of Parliament. 
+
+
+(5) A statutory instrument containing regulations applying to Wales, Scotland or Northern Ireland must be laid before Senedd Cymru, the Scottish Parliament or the Northern Ireland Assembly respectively before being made. 
+
+
+9. Extent, commencement and short title 
+
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland. 
+
+
+(2) This Act comes into force on the day on which it is passed. 
+
+
+(3) This Act may be cited as the Artificial Intelligence (Regulation) Act 2024

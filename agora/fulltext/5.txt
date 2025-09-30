@@ -1,0 +1,111 @@
+SEC. 212. CLARIFICATION OF ROLE OF SENIOR OFFICIAL WITH PRINCIPAL RESPONSIBILITY FOR ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING.
+
+(a) Personnel Management Authority to Attract Experts in Science and Engineering.--Section 4092 of title 10, United States Code, is amended--
+	(1) in subsection (a)(6)--
+		(A) by striking Director of the Joint Artificial Intelligence Center'' and inserting official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232)'';
+		(B) by striking for the Center'' and inserting to support the activities of such official under section 238 of such Act''; and
+		(C) in the paragraph heading, by striking ``Center'';
+	(2) in subsection (b)(1)(F)--
+		(A) by striking Joint Artificial Intelligence Center'' and inserting office of the official designated under section
+238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-
+232)''; and
+		(B) by striking in the Center'' and inserting in support of the activities of such official under section 238 of such Act''; and
+	(3) in subsection (c)(2), by striking Joint Artificial Intelligence Center'' and inserting the activities under section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232)''.
+(b) Review of Artificial Intelligence Applications and Establishment of Performance Metrics.--Section 226(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 4001 note) is amended--
+	(1) in paragraph (3), by striking Director of the Joint Artificial Intelligence Center'' and inserting official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061)'';
+	(2) in paragraph (4), by striking Director of the Joint Artificial Intelligence Center'' and inserting official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061)''; and
+	(3) in paragraph (5), by striking Director of the Joint Artificial Intelligence Center'' and inserting official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061)''.
+(c) Modification of the Joint Common Foundation Program.--Section 227(a) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 4001 note) is amended by striking Joint Artificial Intelligence Center'' and inserting the office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061)''.
+(d) Pilot Program on Data Repositories to Facilitate the Development of Artificial Intelligence Capabilities for the Department of Defense.--
+Section 232 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 4001 note) is amended--
+	(1) in the section heading, by striking pilot program on data repositories'' and inserting data repositories'';
+	(2) by amending subsection (a) to read as follows:
+
+``(a) Establishment of Data Repositories.--The Secretary of Defense, acting through the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) (and such other officials as the Secretary determines appropriate), shall--
+``(1) establish data repositories containing Department of Defense data sets relevant to the development of artificial intelligence software and technology; and
+``(2) allow appropriate public and private sector organizations to access such data repositories for the purpose of developing improved artificial intelligence and machine learning software capabilities that may, as determined appropriate by the
+Secretary, be procured by the Department to satisfy Department requirements and technology development goals.'';
+	(3) in subsection (b), by striking If the Secretary of Defense carries out the pilot program under subsection (a), the data repositories established under the program'' and inserting The data repositories established under subsection (a)''; and
+	(4) by amending subsection (c) to read as follows:
+
+``(c) Briefing.--Not later than July 1, 2023, the Secretary of Defense shall provide to the congressional defense committees a briefing on--
+``(1) the types of information the Secretary determines are feasible and advisable to include in the data repositories established under subsection (a); and
+``(2) the progress of the Secretary in establishing such data repositories.''.
+(e) Digital Development Infrastructure Plan and Working Group.--
+Section 1531(d)(2)(C) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81; 135 Stat. 2051) is amended by striking The Joint Artificial Intelligence Center (JAIC)'' and inserting The office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061)''.
+(f) Board of Advisors for the Office of the Senior Official With Principal Responsibility for Artificial Intelligence and Machine Learning.--Section 233 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116-283; 10 U.S.C. 4001 note) is amended--
+	(1) in the section heading, by striking joint artificial intelligence center'' and inserting office of the senior official with principal responsibility for artificial intelligence and machine learning'';
+	(2) in subsection (a), by striking Joint Artificial Intelligence Center'' and inserting office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) (referred to in this section as the `Official')'';
+	(3) in subsection (b), by striking Director'' each place in appears and inserting Official'';
+	(4) in subsection (f), by striking September 30, 2024'' and inserting September 30, 2026''; and
+	(5) in subsection (g)--
+		(A) by striking paragraphs (2) and (3); and
+		(B) by redesignating paragraph (4) as paragraph (2).
+(g) Application of Artificial Intelligence to the Defense Reform Pillar in the National Defense Strategy.--Section 234(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116-283; 10 U.S.C. 113 note) is amended by striking Director of the Joint Artificial Intelligence Center'' and inserting official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-
+232; 10 U.S.C. note prec. 4061)''.
+(h) Pilot Program on the Use of Electronic Portfolios to Evaluate Certain Applicants for Technical Positions.--Section 247(c) of the William M. (Mac) Thornberry National Defense
+Authorization Act for Fiscal Year 2021 (Public Law 116-283; 10 U.S.C. note prec. 1580) is amended--
+	(1) in paragraph (1), by striking the Joint Artificial Intelligence Center'' and inserting the office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061)'';
+	(2) by striking paragraph (2); and
+	(3) by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively.
+(i) Acquisition Authority of the Director of the Joint Artificial Intelligence Center.--Section 808 the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116-
+283; 10 U.S.C. 4001 note) is amended--
+	(1) in the section heading, by striking the director of the joint artificial intelligence center'' and inserting the senior official with principal responsibility for artificial intelligence and machine learning'';
+	(2) in subsection (a)--
+		(A) by striking the Director of the Joint Artificial Intelligence Center'' and inserting the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) (referred to in this section as the `Official')''; and
+		(B) by striking the Center'' and inserting the office of such official (referred to in this section as the `Office')'';
+	(3) in subsection (b)--
+		(A) in the subsection heading, by striking ``JAIC'';
+		(B) in paragraph (1)--
+			(i) in the matter preceding subparagraph (A),(I) by striking staff of the Director'' and inserting staff of the Official''; and
+		(II) by striking the Director of the Center'' and inserting such Official'';
+(ii) in subparagraph (A), by striking the Center'' and inserting the Office'';
+(iii) in subparagraph (B), by striking the Center'' and inserting the Office'';
+(iv) in subparagraph (C), by striking the Center'' each place it appears and inserting the Office''; and
+(v) in subparagraph (D), by striking the Center'' each place it appears and inserting the Office''; and
+		(C) in paragraph (2)--
+			(i) by striking the Center'' and inserting the Office''; and
+			(ii) by striking the Director'' and inserting the Official'';
+	(4) in subsection (c)(1)--
+		(A) by striking the Center'' and inserting the Office''; and
+		(B) by striking the Director'' and inserting the Official'';
+	(5) in subsection (d), by striking the Director'' and inserting the Official'';
+	(6) in subsection (e)--
+		(A) in paragraph (2)--
+			(i) in subparagraph (B), by striking Center missions'' and inserting the missions of the Office''; and
+			(ii) in subparagraph (D), by striking the Center'' and inserting the Office''; and
+		(B) in paragraph (3), by striking the Center'' and inserting the Office'';
+	(7) in subsection (f), by striking the Director'' and inserting the Official''; and
+	(8) in subsection (g)--
+		(A) by striking paragraphs (1) and (3); and
+		(B) by redesignating paragraphs (4) and (5) as paragraphs (1) and (2), respectively.
+(j) Biannual Report on Office of the Senior Official With Principal Responsibility for Artificial Intelligence and Machine Learning.--
+Section 260 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92) is amended--
+	(1) in the section heading, by striking joint artificial intelligence center'' and inserting office of the senior official with principal responsibility for artificial intelligence and machine learning'';
+	(2) in subsection (a)--
+		(A) by striking 2023'' and inserting 2026''; and
+		(B) by striking the Joint Artificial Intelligence Center (referred to in this section as the `Center')'' and inserting the office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) (referred to in this section as the `Office')'';
+	(3) in subsection (b)--
+		(A) by striking Center'' each place it appears and inserting Office'';
+		(B) in paragraph (2), by striking the National Mission Initiatives, Component Mission Initiatives, and any other initiatives'' and inserting any initiatives''; and
+		(C) in paragraph (7), by striking the Center's investments in the National Mission Initiatives and Component Mission Initiatives'' and inserting the Office's investments in its initiatives and other activities''; and
+	(4) by striking subsection (c).
+(k) Chief Data Officer Responsibility for Department of Defense Data Sets.--Section 903(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 10 U.S.C. 2223 note) is amended--
+	(1) by striking paragraph (3); and
+	(2) by redesignating paragraph (4) as paragraph (3).
+
+(l) Joint Artificial Intelligence Research, Development, and Transition Activities.--Section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) is amended--
+	(1) by amending subsection (c) to read as follows:
+
+``(c) Organization and Roles.--
+``(1) In general.--In addition to designating an official under subsection (b), the Secretary of Defense shall assign to appropriate officials within the Department of Defense roles
+and responsibilities relating to the research, development, prototyping, testing, procurement of, requirements for, and operational use of artificial intelligence technologies.
+``(2) Appropriate officials.--The officials assigned roles and responsibilities under paragraph (1) shall include--
+``(A) the Under Secretary of Defense for Research and Engineering;
+``(B) the Under Secretary of Defense for Acquisition and Sustainment;
+``(C) one or more officials in each military department;
+``(D) officials of appropriate Defense Agencies; and
+``(E) such other officials as the Secretary of Defense determines appropriate.'';
+	(2) in subsection (e), by striking Director of the Joint Artificial Intelligence Center'' and inserting official designated under subsection (b)''; and
+	(3) by striking subsection (h).
+(m) References.--Any reference in any law, regulation, guidance, instruction, or other document of the Federal Government to the Director of the Joint Artificial Intelligence Center of the Department of Defense or to the Joint Artificial Intelligence Center shall be deemed to refer to the official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) or the office of such official, as the case may be.

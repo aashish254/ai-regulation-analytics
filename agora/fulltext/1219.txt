@@ -1,0 +1,485 @@
+A BILL
+To promote a 21st century artificial intelligence workforce and to authorize the Secretary of Education to carry out a program to increase access to prekindergarten through grade 12 emerging and advanced technology education and upskill workers in the technology of the future.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+This Act may be cited as the “Workforce of the Future Act of 2024”.
+
+
+SEC. 2. Table of contents.
+The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+TITLE I—IMPACT OF ARTIFICIAL INTELLIGENCE ON JOBS
+
+
+Sec. 101. Sense of Congress.
+Sec. 102. Definitions.
+Sec. 103. Report on artificial intelligence.
+TITLE II—EMERGING AND ADVANCED TECHNOLOGY EDUCATION AND WORKFORCE DEVELOPMENT
+
+
+Sec. 201. Findings.
+Sec. 202. Definitions.
+Sec. 203. Department of Education grants.
+Sec. 204. Department of Labor grants.
+Sec. 205. Reporting requirements.
+Sec. 206. Amendments to other laws.
+TITLE I—Impact of Artificial Intelligence on Jobs
+
+SEC. 101. Sense of Congress.
+It is the sense of Congress that—
+
+
+(1) while the field of artificial intelligence is evolving quickly and has potential to disrupt jobs, there are opportunities to prepare the American workforce to develop and work alongside this new technology and mitigate the potential negative consequences of job displacement; and
+
+
+(2) to ensure these opportunities, it is imperative to identify the following:
+
+
+(A) Data and data access necessary to properly analyze the impact of artificial intelligence on the United States workforce.
+
+
+(B) Industries projected to be most impacted by artificial intelligence.
+
+
+(C) Opportunities for workers and other stakeholders to influence the impact of artificial intelligence across industries.
+
+
+(D) Characteristics of workers and communities whose career opportunities are most likely to be affected by the growth of artificial intelligence.
+
+
+(E) The skills, expertise, and education needed to develop, operate, or work alongside artificial intelligence.
+
+
+(F) Methods to ensure necessary skills, expertise, and education are accessible to all segments of the current and future workforce.
+
+SEC. 102. Definitions.
+In this title:
+
+
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+
+
+(2) COMMUNITY COLLEGE.—The term “community college” has the meaning given the term “junior or community college” in section 312(f) of the Higher Education Act of 1965 (20 U.S.C. 1058(f)).
+
+
+(3) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+
+(4) LOCAL EDUCATIONAL AGENCY.—The term “local educational agency” has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+
+
+(5) MINORITY-SERVING INSTITUTION.—The term “minority-serving institution” means an eligible institution as described in section 371 of the Higher Education Act of 1965 (20 U.S.C. 1067q).
+
+
+(6) STATE EDUCATIONAL AGENCY.—The term “State educational agency” has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+
+
+(7) TECHNICAL COLLEGE.—The term “technical college” means a postsecondary vocational institution, as that term is defined in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)).
+
+
+(8) TRIBAL COLLEGE OR UNIVERSITY.—The term “Tribal College or University” has the meaning given the term in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).
+
+SEC. 103. Report on artificial intelligence.
+(a) In general.—
+
+
+(1) INTERIM AND FINAL REPORTS.—The Secretary of Labor, the Director of the National Science Foundation, and the Secretary of Education shall, jointly and in collaboration with the individuals and entities described in subsection (c), prepare and submit to the Committee on Education and the Workforce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions and the Committee on Commerce, Science, and Transportation of the Senate—
+
+
+(A) not later 1 year after the date of enactment of this Act, an interim report on artificial intelligence and its impact on the workforce of the United States, which shall include the information and recommendations listed in subsection (b);
+
+
+(B) not later than 2 years after the date of enactment of this Act, a final report on artificial intelligence and its impact on the workforce of the United States, which shall include the information and recommendations listed in subsection (b); and
+
+
+(C) not later than 5 years after the final report described in subparagraph (B) is submitted, an updated report reassessing the information and recommendations listed in subsection (b).
+
+
+(2) MEMORANDUM OF UNDERSTANDING.—The Secretary of Labor may enter into a memorandum of understanding with the Director of the National Science Foundation and the Secretary of Education to establish procedures for the preparation and submission of the interim and final reports described in paragraph (1).
+
+
+(b) Required information.—Each report submitted under subsection (a) shall include the following:
+
+
+(1) An identification of the specific data relating to the workforce, and the availability of such data, necessary to properly analyze the impact and growth of artificial intelligence on the workforce of the United States and outline how much of this data is privately owned, and the effectiveness of Federal, State, or industry efforts (including public-private partnerships) to make privately owned data on the workforce of the United States available for Federal research purposes.
+
+
+(2) Identification of industries and occupations projected to have the most growth in artificial intelligence use, the extent to which the technology is likely to result in the enhancement of workers’ capabilities or their displacement, and level of education currently consistent with industries and occupations identified.
+
+
+(3) Analysis of how growth in artificial intelligence use will impact job quality in the industries and occupations identified in paragraph (2).
+
+
+(4) Identification of opportunities for workers, educators, institutions of higher education, Congress, labor organizations, or other relevant stakeholders to influence the impact of artificial intelligence on workers across various industries.
+
+
+(5) Analysis of how educational entities, workforce development organizations, and labor organizations can collaborate to advance new opportunities for education and workforce development to support an artificial intelligence-enabled economy and workforce.
+
+
+(6) Analysis of which demographic groups (including based on race and ethnicity, gender, socio-economic status or income level, age, disability status, and geography) of workers and communities currently stand to experience expanded career opportunities, and which of these groups currently appear most vulnerable to career displacement, due to artificial intelligence.
+
+
+(7) Analysis of the skills, expertise, and education in emerging and advanced technology needed to develop, operate, or work alongside artificial intelligence over the next decades, as compared to the levels of such comparable expertise and education among the workforce as of the date of enactment of this Act, with a differentiation between core competencies required across the entire workforce and competencies required within the industries and occupations identified in paragraph (2).
+
+
+(8) Identification of methods by which necessary skills, expertise, and education can be effectively delivered to various segments of the United States workforce, including promising efforts underway as of the time of the report that can be expanded.
+
+
+(9) Identification of industry leaders, institutions of higher education, and labor organizations at the forefront of research and application of artificial intelligence in the industries and occupations identified in paragraph (2).
+
+
+(10) Identification of the resources and opportunities required for labor organizations and institutions of higher education, including community colleges, technical colleges, minority-serving institutions (including Tribal Colleges and Universities), and institutions of higher education serving rural areas, to deliver skills, expertise, and education identified in paragraph (7).
+
+
+(11) Identification of the demographic characteristics and educational background (including level of education) of the individuals who deliver skills, expertise, and education to students at the institutions described in paragraph (10).
+
+
+(12) Recommendations to support enhanced workforce development and prepare future workforce members for the artificial intelligence economy, and any other relevant observations or recommendations within the field of emerging and advanced technology, which shall include recommendations on—
+
+
+(A) methods to expand public access to privately-owned workforce data and government-owned workforce data, for the purpose of researching the effect of emerging technologies on the United States workforce;
+
+
+(B) policy, regulatory, or programmatic options for stakeholders (workers, educators, institutions of higher education, Congress, labor organizations, or other relevant stakeholders) to effectively enhance educational and workforce development opportunities, including mitigating perceived negative impacts of artificial intelligence on segments of the United States workforce;
+
+
+(C) recommendations to employers on best practices to engage workers and representatives of workers, including labor organizations, in decisionmaking on the integration of artificial intelligence into the workplace;
+
+
+(D) methods to upskill or mitigate earnings or income losses to demographic groups identified in paragraph (6) as most vulnerable to career displacement, due to artificial intelligence;
+
+
+(E) methods to encourage low cost, open source sharing of industry valued credentials certifying the types of skills, expertise, and education identified in paragraph (7);
+
+
+(F) methods to ensure core skills and competencies identified in paragraph (7) can be evaluated, updated, and made public by relevant stakeholders as needed, given rapid developments in the field of artificial intelligence;
+
+
+(G) methods to ensure community colleges, technical colleges, minority-serving institutions (including Tribal Colleges and Universities), and institutions of higher education serving rural areas receive resources and opportunities identified in paragraph (10);
+
+
+(H) methods to promote knowledge sharing and capacity building between industry leaders, labor organizations, and institutions identified in paragraph (9) and community colleges, technical colleges, minority-serving institutions (including Tribal Colleges and Universities), and rural institutions of higher education; and
+
+
+(I) other methods to ensure that the skills, expertise, and education needed to develop, operate, or work alongside artificial intelligence are delivered to vulnerable demographic groups identified in paragraph (6), rural workers, and other historically underserved segments of the United States workforce (including workers with disabilities).
+
+
+(c) Collaboration.—In preparing the report under subsection (a), the Secretary of Labor, the Director of the National Science Foundation, and the Secretary of Education shall collaborate, through a series of public meetings, roundtables or other methods, with—
+
+
+(1) local educational agencies, State educational agencies, State agencies with responsibility for the administration of a core program (as defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102)), institutions of higher education (including community colleges, technical colleges, minority-serving institutions (including Tribal Colleges and Universities), labor organizations, and institutions of higher education serving rural areas), workforce-training organizations, National Laboratories, and teacher and educator preparation programs;
+
+
+(2) a broad range of industrial stakeholders in the technology, manufacturing, employment, human resources, and service sectors, including companies (large and small), think tanks, organized labor, and industry organizations;
+
+
+(3) the National Academies of Sciences, Engineering, and Medicine, including by sharing relevant information obtained as a result of the study conducted under section 5105 of the National Artificial Intelligence Initiative Act of 2020 (Public Law 116–283; 134 Stat. 4530); and
+
+
+(4) the Secretary of Commerce, the Director of the White House Office of Science and Technology Policy, the Director of the National Artificial Intelligence Initiative Office, the National Cyber Director, and the heads of any other Federal agency the Secretary of Labor, the Director of the National Science Foundation, and the Secretary of Education determine appropriate.
+
+TITLE II—Emerging and Advanced Technology Education and Workforce Development
+
+
+SEC. 201. Findings.
+Congress finds the following:
+
+
+(1) Emerging and advanced technologies are transforming industry, creating new fields of commerce, driving innovation, and bolstering productivity. Emerging and advanced technology and information occupations are projected to grow by 377,500 jobs per year on average between 2022 and 2032, much faster than the average for all other occupations.
+
+
+(2) As of 2024, more than 400,000 computing and technology jobs remain unfilled in the United States. These unfilled jobs present a significant opportunity for individuals to advance in the 21st-century economy. It is projected that there will be 660,000 new jobs in the technology and computing sector by 2032. However, the availability of emerging and advanced technology education at the time of enactment of this Act does not equitably provide all students in the United States with the tools to fill these technology sector jobs.
+
+
+(3) Given the rapidly increasing interest and deployment of artificial intelligence and other new technologies in the workplace, knowledge of, and the skills to use, emerging and advanced technology is increasingly essential for all individuals, not just those working or planning to work in the technology sector.
+
+
+(4) Providing students with emerging and advanced technology education in elementary school and secondary school is critical for student success, and strengthening the workforce of a 21st century economy.
+
+
+(5) While an estimated 90 percent of parents want technology, such as computer science, taught in their children’s schools, just 44 percent of all middle schools and 57.5 percent of secondary schools offer high-quality technology instruction that includes programming and coding.
+
+
+(6) Lack of universal emerging and advanced technology education is evident in the lack of a widespread tech industry, which is overwhelmingly concentrated in a few cities nationwide. Emerging and advanced technology education is limited to affluent schools and students, placing low-income, minority, and rural communities at risk of being left behind.
+
+
+
+SEC. 202. Definitions.
+In this title:
+
+
+(1) COMPUTATIONAL THINKING.—The term “computational thinking” means the wide range of creative processes that go into formulating problems and their solutions in such a way that the solutions can be carried out by a computer, and may involve some understanding of software and hardware design, logic and the use of abstraction and representation, algorithm design, algorithm expression, problem decomposition, modularity, programming paradigms and languages, issues of information security and privacy, the application of computation across a wide range of disciplines, and the societal impact of computing.
+
+
+(2) ELIGIBLE ENTITY.—The term “eligible entity” means—
+
+
+(A) a State educational agency, as defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801);
+
+
+(B) a local educational agency, as defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801);
+
+
+(C) an eligible Tribal school;
+
+
+(D) a community college, which shall have the meaning given the term “junior or community college” in section 312(f) of the Higher Education Act of 1965 (20 U.S.C. 1058(f));
+
+
+(E) a technical college or postsecondary vocational institution, as that term is defined in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c));
+
+
+(F) a labor organization;
+
+
+(G) a State agency with responsibility for a workforce development program, as defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102); or
+
+
+(H) an institution of higher education, as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+
+(3) ELIGIBLE TRIBAL SCHOOL.—The term “eligible Tribal school” means—
+
+
+(A) a school operated by the Bureau of Indian Education;
+
+
+(B) a school operated pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.); or
+
+
+(C) a tribally controlled school (as defined in section 5212 of the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2511)).
+
+
+(4) EMERGING AND ADVANCED TECHNOLOGY EDUCATION.—The term “emerging and advanced technology education” includes education in any of the following: computational thinking; software design; hardware architecture and organization; theoretical foundations; use of abstraction and representation in problem solving; logic; algorithm design and implementation; the limits of computation; programming paradigms and languages; parallel and distributed computing; information security and privacy; computing systems and networks; graphics and visualization; databases and information retrieval; the relationship between computing and mathematics; artificial intelligence; quantum computing; applications of computing across a broad range of disciplines and problems; cloud computing; and the social impacts and professional practices of computing.
+
+
+(5) POVERTY LINE.—The term “poverty line” has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+
+
+(6) PROGRAMMING.—The term “programming” means a hands-on, inquiry-based way in which computational thinking may be learned.
+
+
+(7) SECRETARY.—The term “Secretary” means the Secretary of Education.
+
+
+(8) STEAM.—The term “STEAM” means the subjects of science, technology, engineering, arts, and mathematics, including emerging and advanced technology.
+
+
+
+SEC. 203. Department of Education grants.
+(a) Authorization of grants.—
+
+
+(1) IN GENERAL.—The Secretary shall award grants to eligible entities to serve as models for national replication of emerging and advanced technology education expansion efforts, including by building participants’ broader transferable skills, not just specialized technical skills. From the amounts appropriated under subsection (g), after reserving amounts under subsection (e), the Secretary shall—
+
+
+(A) reserve 50 percent of the remaining funds to award grants to eligible entities that propose to use grant funds in accordance with subsection (c); and
+
+
+(B) reserve 50 percent of the remaining funds to award grants to eligible entities that propose to use grant funds in accordance with subsection (d).
+
+
+(2) CONSORTIA AND PARTNERSHIPS.—An eligible entity may apply for a grant under this section as part of a consortium or in partnership with a State educational agency or other partner.
+
+
+(3) DURATION.—Grants awarded under this section shall be for a period of not more than 5 years.
+
+
+(4) STAGGERING GRANT AWARDS.—The Secretary may stagger grant awards under this section over the period of authorization for such grant awards.
+
+
+(5) CONSIDERATIONS.—In awarding grants under this section, the Secretary shall consider—
+
+
+(A) the information and recommendations included in the reports prepared under section 103; and
+
+
+(B) structural and other barriers facing specific demographic groups, as informed by the reports prepared under section 103.
+
+
+(b) Application requirements.—
+
+
+(1) IN GENERAL.—An eligible entity that desires a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+
+(2) PLAN.—An eligible entity that proposes to use grant funds in accordance with subsection (c) shall include in the application under paragraph (1), at a minimum, plans for the following:
+
+
+(A) Every high school student served by the eligible entity to have access to emerging and advanced technology education not later than 5 years after receipt of grant funds.
+
+
+(B) All students served by the eligible entity to have access to a progression of emerging and advanced technology education from prekindergarten through middle school that prepares students for high school emerging and advanced technology education.
+
+
+(C) Expansion of overall access to rigorous (as defined by the Secretary) STEAM classes, utilizing emerging and advanced technology as a catalyst for increased interest in STEAM more broadly, and reducing the enrollment and academic achievement gap for underrepresented groups, such as minorities, girls, and youth from families living at, or below, the poverty line.
+
+
+(D) Continuous monitoring and evaluation of project activities.
+
+
+(E) Effectively sustaining project activities after the grant period ends, and the length of time which the applicant plans to sustain the project activities.
+
+(c) Grant funds for emerging and advanced technology education.—
+
+
+(1) REQUIRED ACTIVITIES.—An eligible entity that receives a grant under subsection (a)(1)(A) shall use the grant funds for the following activities:
+
+
+(A) Training teachers to teach emerging and advanced technology, including providing professional development opportunities.
+
+
+(B) Expanding access to high-quality learning materials (as defined by the Secretary) and online learning options, including equipment and other related technologies and access to broadband Internet that are necessary to fully perform in the area of emerging and advanced technologies.
+
+
+(C) Creating plans for expanding overall access to rigorous (as defined by the Secretary) STEAM classes, utilizing emerging and advanced technology as a catalyst for increased interest in STEAM more broadly, and reducing course equity gaps for all students, including underrepresented groups, such as minorities, girls, and youth from low-income families.
+
+
+(D) Ensuring additional support and resources, which may include mentoring for students traditionally underrepresented in STEAM fields.
+
+
+(E) Ongoing industry engagement to receive feedback on curricula and the emerging skills needed of artificial intelligence-related jobs.
+
+
+(2) PERMISSIBLE ACTIVITIES.—An eligible entity that receives a grant under subsection (a)(1)(A) may use the grant funds for the following activities:
+
+
+(A) Building effective regional collaborations with industry, nonprofit organizations, State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102)), 2-year and 4-year degree granting institutions of higher education (including community colleges, technical colleges, historically Black colleges and universities (as defined within the meaning of the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061)), Hispanic-serving institutions (as defined in section 502 of such Act (20 U.S.C. 1101a)), Asian American and Native American Pacific Islander-serving institutions (as defined in section 371(c) of such Act (20 U.S.C. 1067q(c))), Tribal Colleges and Universities (as defined in section 316 of such Act (20 U.S.C. 1059c)), Alaska Native-serving institutions (as defined in section 317(b) of such Act (20 U.S.C. 1059d(b))), Native Hawaiian-serving institutions (as defined in section 317(b) of such Act (20 U.S.C. 1059d(b))), Predominantly Black Institutions (as defined in section 371(c) of such Act (20 U.S.C. 1067q(c))), Native American-serving, nontribal institutions (as defined in section 371(c) of such Act (20 U.S.C. 1067q(c))), and other minority-serving institutions), and out-of-school providers.
+
+
+(B) Recruiting and hiring instructional personnel as needed, including teachers and paraeducators (which shall have the meaning given the term “paraprofessional” in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), including through support for the workforce development system (as defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102)) in the State.
+
+
+(C) Preparations for effectively sustaining project activities after the grant period ends.
+
+
+(D) Disseminating information about effective practices.
+
+
+(3) LIMITATION.—Not more than 15 percent of a grant awarded under subsection (a)(1)(A) may be used to purchase equipment.
+
+
+(d) Grant funds for emerging and advanced technology teacher development and recruitment.—
+
+
+(1) IN GENERAL.—An eligible entity that receives a grant under subsection (a)(1)(B) shall use the grant funds for emerging and advanced technology teacher development and recruitment, which may include professional development opportunities, loan forgiveness, or tuition reimbursement for service as an emerging and advanced technology teacher, or any other program designed to develop and recruit emerging and advanced technology teachers.
+
+
+(2) FULFILLING OBLIGATION.—If an eligible entity that receives a grant under subsection (a)(1)(B) uses the grant funds to implement a loan forgiveness program or program for tuition reimbursement for service as an emerging and advanced technology teacher, the eligible entity shall fulfill any loan forgiveness or tuition reimbursement obligation made to a teacher in exchange for service.
+
+
+(e) National activities.—The Secretary may reserve not more than 2.5 percent of funds available for grants under this section for national activities, including technical assistance, evaluation, and dissemination.
+
+
+(f) Evaluations.—In carrying out this section, the Secretary shall authorize third-party evaluations of grants awarded under this section to help build an evidence base of programs that advance a 21st century artificial intelligence workforce.
+
+
+(g) Authorization of appropriations.—There are authorized to be appropriated to carry out this section $160,000,000 for the period of fiscal years 2025 through 2029.
+
+
+
+SEC. 204. Department of Labor grants.
+(a) Grants authorized.—
+
+
+(1) IN GENERAL.—The Secretary of Labor shall award grants to eligible entities to serve as models for national replication of emerging and advanced technology workforce expansion efforts, including by building participants’ broader transferable skills, not just specialized technical skills. From the amounts appropriated under subsection (f), after reserving amounts under subsection (d), the Secretary of Labor shall award grants as described in subsection (b).
+
+
+(2) CONSORTIA AND PARTNERSHIPS.—An eligible entity may apply for a grant under this section as part of a consortium or in partnership with a State workforce agency or other partner.
+
+
+(3) DURATION.—Grants awarded under this section shall be for a period of not more than 5 years.
+
+
+(4) STAGGERING GRANT AWARDS.—The Secretary of Labor may stagger grant awards under this section over the period of authorization for such grant awards.
+
+
+(5) CONSIDERATIONS.—In awarding grants under this section, the Secretary of Labor shall consider—
+
+
+(A) the information and recommendations included in the reports prepared under section 103; and
+
+
+(B) structural and other barriers facing specific demographic groups, as informed by the reports prepared under section 103.
+
+
+(b) Grant funds To serve individuals seriously affected by AI.—
+
+
+(1) IN GENERAL.—An eligible entity that receives a grant under this section shall use the grant funds to serve individuals who—
+
+
+(A) have a high school diploma or its recognized equivalent; and
+
+
+(B) are employed in an industry or occupation projected, pursuant to the report under section 103(b)(2), to have the most growth in artificial intelligence use, which is likely to significantly impact the job opportunities or wages of workers.
+
+
+(2) ACTIVITIES.—In serving individuals described in paragraph (1), an eligible entity that receives a grant under this section shall use the grant funds for one or more of the following purposes:
+
+
+(A) Upskilling such individuals, including by offering scholarships or skill certifications, or by supporting other programs that upskill such individuals.
+
+
+(B) Enabling lifelong learning and cross training, including continuing education certificates or programs aiming to update workers’ skills related to advanced and emerging technology.
+
+
+(c) Application requirements.—An eligible entity that desires a grant under this section shall submit an application to the Secretary of Labor at such time, in such manner, and containing such information as the Secretary of Labor may require, including, at a minimum, plans for the following:
+
+
+(1) Continuous monitoring and evaluation of project activities.
+
+
+(2) Effectively sustaining project activities after the grant period ends, and the length of time which the applicant plans to sustain the project activities.
+
+
+(d) National activities.—The Secretary of Labor may reserve not more than 2.5 percent of funds available for grants under this section for national activities, including technical assistance, evaluation, and dissemination.
+
+
+(e) Evaluations.—In carrying out this section, the Secretary of Labor shall authorize third-party evaluations of grants awarded under this section to help build an evidence base of programs that advance a 21st century artificial intelligence workforce.
+
+
+(f) Authorization of appropriations.—There are authorized to be appropriated to carry out this section $90,000,000 for the period of fiscal years 2025 through 2029.
+
+
+
+SEC. 205. Reporting requirements.
+(a) Grantee reports.—Each eligible entity—
+
+
+(1) that receives a grant under section 203 shall submit to the Secretary a report, not less than twice a year during the grant period, on the use of grant funds that shall include data on the numbers of individuals served through activities funded under such section, disaggregated by race (for Asian and Native Hawaiian or Pacific Islander individuals using the same race response categories as the decennial census of the population), ethnicity, gender, and eligibility to participate in the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.); and
+
+
+(2) that receives a grant under section 204 shall submit to the Secretary of Labor a report, not less than twice a year during the grant period, on the use of grant funds that shall include data on the numbers of individuals served through activities funded under such section, disaggregated by race (for Asian and Native Hawaiian or Pacific Islander individuals using the same race response categories as the decennial census of the population), ethnicity, and gender.
+
+
+(b) Report by the secretary.—Not later than 5 years after the first grant is awarded under this title, the Secretary and the Secretary of Labor shall submit to Congress a report based on the analysis of reports received under subsection (a) with a recommendation on how to expand the programs under this title.
+
+
+
+SEC. 206. Amendments to other laws.
+(a) Department of Education Organization Act.—Section 203(c)(1) of the Department of Education Organization Act (20 U.S.C. 3413(c)(1)) is amended by inserting “, which shall include information with respect to the existence of emerging and advanced technology education (as defined in section 202 of the Workforce of the Future Act of 2024), disaggregated by the type of emerging and advanced technology education and by the type of eligible entity (as defined in such section 202)” after “Rights”.
+
+
+(b) The Education Sciences Reform Act of 2002.—Section 153(a)(1) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9543(a)(1)) is amended—
+
+
+(1) in subparagraph (N), by striking “and” after the semicolon;
+
+
+(2) in subparagraph (O), by inserting “and” after the semicolon; and
+
+
+(3) by adding at the end the following:
+
+
+
+
+“(P) the existence of emerging and advanced technology education (as defined in section 202 of the Workforce of the Future Act of 2024) in elementary schools and secondary schools, and the degree of competency in emerging and advanced technology fields among such students;”.

@@ -1,0 +1,320 @@
+A bill for an act relating to public safety; establishing a cause of action for nonconsensual dissemination of deep fake sexual images; establishing the crime of using deep fake technology to influence an election; establishing a crime for nonconsensual dissemination of deep fake sexual images; proposing coding for new law in Minnesota Statutes, chapters 604; 609; 617.
+
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MINNESOTA:
+
+
+Section 1. [604.32] CAUSE OF ACTION FOR NONCONSENSUAL DISSEMINATION OF A DEEP FAKE DEPICTING INTIMATE PARTS OR SEXUAL ACTS.
+
+
+Subdivision 1. Definitions. 
+
+
+(a) As used in this section, the following terms have the meanings given. 
+
+
+(b) "Deep fake" means any video recording, motion-picture film, sound recording, electronic image, or photograph, or any technological representation of speech or conduct substantially derivative thereof:
+(1) that is so realistic that a reasonable person would believe it depicts speech or conduct of an individual; and
+(2) the production of which was substantially dependent upon technical means, rather than the ability of another individual to physically or verbally impersonate such individual.
+
+
+(c) "Depicted individual" means an individual in a deep fake who appears to be engaging in speech or conduct in which the individual did not engage.
+
+
+(d) "Intimate parts" means the genitals, pubic area, partially or fully exposed nipple, or anus of an individual.
+
+
+(e) "Personal information" means any identifier that permits communication or in-person contact with an individual, including:
+(1) an individual's first and last name, first initial and last name, first name and last initial, or nickname;
+(2) an individual's home, school, or work address;
+(3) an individual's telephone number, email address, or social media account information; or
+(4) an individual's geolocation data.
+
+
+(f) "Sexual act" means either sexual contact or sexual penetration.
+
+
+(g) "Sexual contact" means the intentional touching of intimate parts or intentional touching with seminal fluid or sperm onto another individual's body.
+
+
+(h) "Sexual penetration" means any of the following acts:
+(1) sexual intercourse, cunnilingus, fellatio, or anal intercourse; or
+(2) any intrusion, however slight, into the genital or anal openings of an individual by another's body part or an object used by another for this purpose.
+
+
+Subd. 2. Nonconsensual dissemination of a deep fake. 
+
+
+(a) A cause of action against a person for the nonconsensual dissemination of a deep fake exists when:
+(1) a person disseminated a deep fake with knowledge that the depicted individual did not consent to its public dissemination;
+(2) the deep fake realistically depicts any of the following:
+(i) the intimate parts of another individual presented as the intimate parts of the depicted individual;
+(ii) artificially generated intimate parts presented as the intimate parts of the depicted individual; or
+(iii) the depicted individual engaging in a sexual act; and
+(3) the depicted individual is identifiable:
+(i) from the deep fake itself, by the depicted individual or by another individual; or
+(ii) from the personal information displayed in connection with the deep fake.
+
+
+(b) The fact that the depicted individual consented to the creation of the deep fake or to the voluntary private transmission of the deep fake is not a defense to liability for a person who has disseminated the deep fake with knowledge that the depicted individual did not consent to its public dissemination.
+
+
+Subd. 3. Damages. The court may award the following damages to a prevailing plaintiff from a person found liable under subdivision 2:
+
+
+(1) general and special damages, including all finance losses due to the dissemination of the deep fake and damages for mental anguish;
+
+
+(2) an amount equal to any profit made from the dissemination of the deep fake by the person who intentionally disclosed the deep fake;
+
+
+(3) a civil penalty awarded to the plaintiff of an amount up to $100,000; and
+
+
+(4) court costs, fees, and reasonable attorney fees.
+
+
+Subd. 4. Injunction; temporary relief. 
+
+
+(a) A court may issue a temporary or permanent injunction or restraining order to prevent further harm to the plaintiff.
+
+
+(b) The court may issue a civil fine for the violation of a court order in an amount up to $1,000 per day for failure to comply with an order granted under this section.
+
+
+Subd. 5. Confidentiality. The court shall allow confidential filings to protect the privacy of the plaintiff in cases filed under this section.
+
+
+Subd. 6. Liability; exceptions. 
+
+
+(a) No person shall be found liable under this section when:
+(1) the dissemination is made for the purpose of a criminal investigation or prosecution that is otherwise lawful;
+(2) the dissemination is for the purpose of, or in connection with, the reporting of unlawful conduct;
+(3) the dissemination is made in the course of seeking or receiving medical or mental health treatment, and the image is protected from further dissemination;
+(4) the deep fake was obtained in a commercial setting for the purpose of the legal sale of goods or services, including the creation of artistic products for sale or display, and the depicted individual knew that a deep fake would be created and disseminated in a commercial setting;
+(5) the deep fake relates to a matter of public interest; dissemination serves a lawful public purpose; the person disseminating the deep fake as a matter of public interest clearly identifies that the video recording, motion-picture film, sound recording, electronic image, photograph, or other item is a deep fake; and the person acts in good faith to prevent further dissemination of the deep fake;
+(6) the dissemination is for legitimate scientific research or educational purposes, the deep fake is clearly identified as such, and the person acts in good faith to minimize the risk that the deep fake will be further disseminated; or
+(7) the dissemination is made for legal proceedings and is consistent with common practice in civil proceedings necessary for the proper functioning of the criminal justice system, or protected by court order which prohibits any further dissemination.
+
+
+(b) This section does not alter or amend the liabilities and protections granted by United
+States Code, title 47, section 230, and shall be construed in a manner consistent with federal
+law.
+
+
+(c) A cause of action arising under this section does not prevent the use of any other cause of action or remedy available under the law.
+
+
+Subd. 7. Jurisdiction. A court has jurisdiction over a cause of action filed pursuant to this section if the plaintiff or defendant resides in this state.
+
+
+Subd. 8. Venue. A cause of action arising under this section may be filed in either:
+
+
+(1) the county of residence of the defendant or plaintiff or in the jurisdiction of the plaintiff's designated address if the plaintiff participates in the address confidentiality program established by chapter 5B; or
+
+
+(2) the county where any deep fake is produced, reproduced, or stored in violation of this section.
+
+
+Subd. 9. Discovery of dissemination. In a civil action brought under subdivision 2, the statute of limitations is tolled until the plaintiff discovers the deep fake has been disseminated.
+
+
+EFFECTIVE DATE. This section is effective August 1, 2023, and applies to dissemination of a deep fake that takes place on or after that date.
+
+
+Sec. 2. [609.771] USE OF DEEP FAKE TECHNOLOGY TO INFLUENCE AN ELECTION.
+
+
+Subdivision 1. Definitions. 
+
+
+(a) As used in this section, the following terms have the meanings given.
+
+
+(b) "Candidate" means an individual who seeks nomination or election to a federal, statewide, legislative, judicial, or local office including special districts, school districts, towns, home rule charter and statutory cities, and counties.
+
+
+(c) "Deep fake" means any video recording, motion-picture film, sound recording, electronic image, or photograph, or any technological representation of speech or conduct substantially derivative thereof:
+(1) that is so realistic that a reasonable person would believe it depicts speech or conduct of an individual who did not in fact engage in such speech or conduct; and
+(2) the production of which was substantially dependent upon technical means, rather than the ability of another individual to physically or verbally impersonate such individual.
+
+
+(d) "Depicted individual" means an individual in a deep fake who appears to be engaging in speech or conduct in which the individual did not engage.
+
+
+Subd. 2. Use of deep fake to influence an election; violation. A person who disseminates a deep fake or enters into a contract or other agreement to disseminate a deep fake is guilty of a crime and may be sentenced as provided in subdivision 3 if the person knows or reasonably should know that the item being disseminated is a deep fake and dissemination:
+
+
+(1) takes place within 90 days before an election;
+
+
+(2) is made without the consent of the depicted individual; and
+
+
+(3) is made with the intent to injure a candidate or influence the result of an election.
+
+
+Subd. 3. Use of deep fake to influence an election; penalty. A person convicted of violating subdivision 2 may be sentenced as follows:
+
+
+(1) if the person commits the violation within five years of one or more prior convictions under this section, to imprisonment for not more than five years or to payment of a fine of not more than $10,000, or both;
+
+
+(2) if the person commits the violation with the intent to cause violence or bodily harm, to imprisonment for not more than one year or to payment of a fine of not more than $3,000, or both; or
+
+
+(3) in other cases, to imprisonment for not more than 90 days or to payment of a fine of not more than $1,000, or both.
+
+
+Subd. 4. Injunctive relief. A cause of action for injunctive relief may be maintained against any person who is reasonably believed to be about to violate or who is in the course of violating this section by:
+
+
+(1) the attorney general;
+
+
+(2) a county attorney or city attorney;
+
+
+(3) the depicted individual; or
+
+
+(4) a candidate for nomination or election to a public office who is injured or likely to
+be injured by dissemination.
+
+
+EFFECTIVE DATE. This section is effective August 1, 2023, and applies to crimes committed on or after that date.
+
+
+Sec. 3. [617.262] NONCONSENSUAL DISSEMINATION OF A DEEP FAKE DEPICTING INTIMATE PARTS OR SEXUAL ACTS.
+
+
+Subdivision 1. Definitions. 
+
+
+(a) For purposes of this section, the following terms have the meanings given.
+
+
+(b) "Deep fake" means any video recording, motion-picture film, sound recording, electronic image, or photograph, or any technological representation of speech or conduct substantially derivative thereof:
+(1) that is so realistic that a reasonable person would believe it depicts speech or conduct of an individual; and
+(2) the production of which was substantially dependent upon technical means, rather than the ability of another individual to physically or verbally impersonate such individual.
+
+
+(c) "Depicted individual" means an individual in a deep fake who appears to be engaging in speech or conduct in which the individual did not engage.
+
+
+(d) "Dissemination" means distribution to one or more persons, other than the individual depicted in the deep fake, or publication by any publicly available medium.
+
+
+(e) "Harass" means an act that would cause a substantial adverse effect on the safety, security, or privacy of a reasonable person.
+
+
+(f) "Intimate parts" means the genitals, pubic area, anus, or partially or fully exposed nipple of an individual.
+
+
+(g) "Personal information" means any identifier that permits communication or in-person contact with an individual, including:
+(1) an individual's first and last name, first initial and last name, first name and last initial, or nickname;
+(2) an individual's home, school, or work address;
+(3) an individual's telephone number, email address, or social media account information; or
+(4) an individual's geolocation data.
+
+
+(h) "Sexual act" means either sexual contact or sexual penetration.
+
+
+(i) "Sexual contact" means the intentional touching of intimate parts or intentional touching with seminal fluid or sperm onto another individual's body.
+
+
+(j) "Sexual penetration" means any of the following acts:
+(1) sexual intercourse, cunnilingus, fellatio, or anal intercourse; or
+(2) any intrusion, however slight, into the genital or anal openings of an individual by another's body part or an object used by another for this purpose.
+
+
+(k) "Social media" means any electronic medium, including an interactive computer service, telephone network, or data network, that allows users to create, share, and view user-generated content.
+
+
+Subd. 2. Crime. It is a crime to intentionally disseminate a deep fake when:
+
+
+(1) the actor knows or reasonably should know that the depicted individual did not consent to the dissemination;
+
+
+(2) the deep fake realistically depicts any of the following:
+(i) the intimate parts of another individual presented as the intimate parts of the depicted individual;
+(ii) artificially generated intimate parts presented as the intimate parts of the depicted individual; or
+(iii) the depicted individual engaging in a sexual act; and
+
+
+(3) the depicted individual is identifiable:
+(i) from the deep fake itself, by the depicted individual or by another individual; or
+(ii) from the personal information displayed in connection with the deep fake.
+
+
+Subd. 3. Penalties. 
+
+
+(a) Except as provided in paragraph (b), whoever violates subdivision 2 is guilty of a gross misdemeanor.
+
+
+(b) Whoever violates subdivision 2 may be sentenced to imprisonment for not more than three years or to payment of a fine of $5,000, or both, if one of the following factors is present:
+(1) the depicted individual suffers financial loss due to the dissemination of the deep fake;
+(2) the actor disseminates the deep fake with intent to profit from the dissemination;
+(3) the actor maintains an Internet website, online service, online application, or mobile application for the purpose of disseminating the deep fake;
+(4) the actor posts the deep fake on a website;
+(5) the actor disseminates the deep fake with intent to harass the depicted individual;
+(6) the actor obtained the deep fake by committing a violation of section 609.52, 609.746, 609.89, or 609.891; or
+(7) the actor has previously been convicted under this chapter.
+
+
+Subd. 3a. No defense. It is not a defense to a prosecution under this section that the depicted individual consented to the creation or possession of the deep fake, or the private transmission of the deep fake to an individual other than those to whom the deep fake was disseminated.
+
+
+Subd. 4. Venue. Notwithstanding anything to the contrary in section 627.01, an offense committed under this section may be prosecuted in:
+
+
+(1) the county where the offense occurred;
+
+
+(2) the county of residence of the actor or victim or in the jurisdiction of the victim's designated address if the victim participates in the address confidentiality program established by chapter 5B; or
+
+
+(3) only if venue cannot be located in the counties specified under clause (1) or (2), the county where any deep fake is produced, reproduced, found, stored, received, or possessed in violation of this section.
+
+
+Subd. 5. Exemptions. Subdivision 2 does not apply when:
+(1) the dissemination is made for the purpose of a criminal investigation or prosecution that is otherwise lawful;
+
+
+(2) the dissemination is for the purpose of, or in connection with, the reporting of unlawful conduct;
+
+
+(3) the dissemination is made in the course of seeking or receiving medical or mental health treatment, and the image is protected from further dissemination;
+
+
+(4) the deep fake was obtained in a commercial setting for the purpose of the legal sale of goods or services, including the creation of artistic products for sale or display, and the depicted individual knew, or should have known, that a deep fake would be created and disseminated;
+
+
+(5) the deep fake relates to a matter of public interest and dissemination serves a lawful public purpose;
+
+
+(6) the dissemination is for legitimate scientific research or educational purposes; or
+
+
+(7) the dissemination is made for legal proceedings and is consistent with common practice in civil proceedings necessary for the proper functioning of the criminal justice system, or protected by court order which prohibits any further dissemination.
+
+
+Subd. 6. Immunity. Nothing in this section shall be construed to impose liability upon the following entities solely as a result of content or information provided by another person:
+
+
+(1) an interactive computer service as defined in United States Code, title 47, section 230, paragraph (f), clause (2);
+
+
+(2) a provider of public mobile services or private radio services; or
+
+
+(3) a telecommunications network or broadband provider.
+
+
+EFFECTIVE DATE. This section is effective August 1, 2023, and applies to crimes committed on or after that date.

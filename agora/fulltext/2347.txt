@@ -1,0 +1,81 @@
+A BILL
+To require the Secretary of Homeland Security to conduct annual assessments on terrorism threats to the United States posed by terrorist organizations utilizing generative artificial intelligence applications, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Generative AI Terrorism Risk Assessment Act”.
+
+
+SEC. 2. Sense of Congress regarding the use of generative artificial intelligence applications for terrorist activity.
+
+
+It is the sense of Congress that—
+
+
+(1) the heightened terrorism threat landscape and the increasing utilization of generative artificial intelligence applications by terrorist organizations represent a national security threat, and the challenges posed by such threat are not well understood; and
+
+
+(2) the Department of Homeland Security, in consultation with the Office of the Director of National Intelligence, must take steps to recognize, assess, and address such threat, thereby reducing risks to the people of the United States.
+
+
+SEC. 3. Annual assessments on terrorism threats to the United States posed by terrorist organizations utilizing generative artificial intelligence applications.
+
+
+(a) Assessments.—
+
+
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act and annually thereafter for five years, the Secretary of Homeland Security, in consultation with the Director of National Intelligence, shall submit to the appropriate congressional committees an assessment of terrorism threats to the United States posed by terrorist organizations utilizing generative artificial intelligence applications.
+
+
+(2) CONTENTS.—Each terrorism threat assessment under paragraph (1) shall include the following:
+(A) An analysis of incidents during the immediately preceding calendar year in which terrorist organizations have utilized or attempted to utilize generative artificial intelligence applications to carry out the following:
+(i) Spread violent extremist messaging and facilitate the ability to radicalize and recruit individuals to violence.
+(ii) Enhance their ability to develop or deploy chemical, biological, radiological, or nuclear weapons.
+(B) Recommendations on appropriate measures to counter terrorism threats to the United States posed by such terrorist organizations.
+
+
+(3) COORDINATION.—Each terrorism threat assessment under paragraph (1)—
+
+
+(A) shall be coordinated with the Office of the General Counsel, the Privacy Office, and the Office of for Civil Rights and Civil Liberties of the Department of Homeland Security prior to release outside the Department to ensure each such assessment complies with applicable law and protects individuals’ privacy, civil rights, and civil liberties, and
+
+
+(B) may be informed by existing products, as appropriate.
+
+
+(4) FORM.—Each terrorism threat assessment under paragraph (1) shall be submitted in unclassified form, but may include a classified annex only for the protection of intelligence sources and methods relating to the matters contained in such assessment. The Secretary of Homeland Security shall post on a publicly available website of the Department of Homeland Security the unclassified portion of each such assessment.
+
+
+(5) BRIEFING.—Not later than 30 days after the submission of each terrorism threat assessment under paragraph (1), the Secretary of Homeland Security shall brief the appropriate congressional committees regarding each such assessment. The head of any other relevant Federal department or agency shall join the Secretary for any such briefing if any such committee, in consultation with the Secretary, determines such is appropriate.
+
+
+(6) APPROPRIATE CONGRESSIONAL COMMITTEES.—In this subsection, the term “appropriate congressional committees” means the Committee on Homeland Security, the Permanent Select Committee on Intelligence, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Homeland Security and Governmental Affairs, the Select Committee on Intelligence, and the Committee on Commerce, Science, and Transportation of the Senate.
+
+
+(b) Information sharing.—The Secretary of Homeland Security shall review information relating to terrorism threats to the United States posed by terrorist organizations utilizing generative artificial intelligence applications that is gathered by State and local fusion centers and the National Network of Fusion Centers, and incorporate such information, as appropriate, into the Department of Homeland Security’s own information relating to such. The Secretary shall ensure the dissemination to State and local fusion centers and the National Network of Fusion Centers of such information.
+
+
+(c) Definitions.—In this section:
+
+
+(1) GENERATIVE ARTIFICIAL INTELLIGENCE APPLICATIONS.—The term “generative artificial intelligence applications” means the class of artificial intelligence models that emulate the structure and characteristics of input data in order to generate derived synthetic content, including images, videos, audio, text, and other digital content.
+
+
+(2) FUSION CENTER.—The term “fusion center” has the meaning given such term in subsection (k) of section 210A of the Homeland Security Act of 2002 (6 U.S.C. 124h).
+
+
+(3) NATIONAL NETWORK OF FUSION CENTERS.—The term “National Network of Fusion Centers” means a decentralized arrangement of fusion centers intended to enhance the ability of individual State and local fusion centers to leverage the capabilities and expertise of all such fusion centers for the purpose of enhancing analysis and homeland security information sharing nationally.
+
+
+(4) TERRORIST ORGANIZATION.—The term “terrorist organization” means—
+
+
+(A) any entity designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
+
+
+(B) any entity engaged in terrorism, as such term is defined in section 2(18) of the Homeland Security Act of 2002 (6 U.S.C. 101(18)).

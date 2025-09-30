@@ -1,0 +1,112 @@
+An Act, Relating to motor vehicles; to authorize autonomous commercial vehicles operated by an automated driving system and commercial motor vehicles with teleoperation systems.
+
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+
+
+Section 1. For the purposes of this act, the following words shall have the following meanings:
+
+
+(1) AUTOMATED COMMERCIAL MOTOR VEHICLE. A commercial motor vehicle equipped with an automated driving system.
+
+
+(2) AUTOMATED DRIVING SYSTEM. The hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether it is limited to a specific operational design domain.
+
+
+(3) COMMERCIAL MOTOR VEHICLE. A commercial motor vehicle as defined in subdivision (2) of Section 32-9A-1, Code of Alabama 1975.
+
+
+(4) CONVENTIONAL DRIVER. A driver who manually exercises in-vehicle braking, accelerating, steering, and transmission gear selection input devices in order to operate a vehicle.
+
+
+(5) DYNAMIC DRIVING TASK. All of the real-time operational and tactical functions required to operate a vehicle in on-road traffic excluding strategic functions such as trip scheduling and selection of destinations and waypoints.
+
+
+(6) MINIMAL RISK CONDITION. A condition to which a user or an automated driving system may bring a vehicle in order to reduce the risk of a crash upon experiencing a failure of the vehicle's automated driving system that renders the vehicle unable to perform the entire dynamic driving task.
+
+
+(7) OPERATIONAL DESIGN DOMAIN. A description of the specific operating domain in which an automated commercial motor vehicle is designed to properly operate, including, but not limited to, roadway types, speed, environmental conditions, and other domain constraints.
+
+
+(8) REMOTE DRIVER. A natural person who is not seated in a commercial motor vehicle, but is able to perform the entire dynamic driving task.
+
+
+(9) TELEOPERATION SYSTEM. Hardware and software installed on a commercial motor vehicle that allow a remote driver to operate the motor vehicle.
+
+
+Section 2. (a) Unless otherwise provided by this act, an automated commercial motor vehicle and a teleoperation system, including any commercial use or operation of either, are governed exclusively by this act.
+
+
+(b) Notwithstanding any other provision of law, the Department of Transportation is the sole and exclusive state agency with jurisdiction over automated commercial motor vehicles and teleoperation systems that may implement this act.
+
+
+(c) A political subdivision of this state or a state agency may not impose requirements, including taxes or performance standards, related specifically to the operation of a teleoperation system or automated commercial motor vehicle in addition to the requirements of this act.
+
+
+Section 3. Notwithstanding any other provision of law, an automated commercial motor vehicle may operate in this state without a conventional driver physically present in the vehicle if the vehicle meets all of the following criteria:
+
+
+(1) The automated commercial vehicle is capable of operating in compliance with applicable federal law and the traffic and motor vehicle laws of this state, including without limitation, applicable laws concerning the capability to safely navigate and negotiate railroad crossings.
+
+
+(2) The automated commercial vehicle is registered and titled in accordance with the laws of this state.
+
+
+(3) The automated commercial vehicle is certified in accordance with 49 C.F.R. Part 567 as being in compliance with federal motor vehicle safety standards and bears the required certification label or labels, including reference to any  exemption granted under applicable federal law.
+
+
+(4) The automated commercial vehicle can achieve a  minimal risk condition if a failure occurs rendering the  vehicle unable to perform the dynamic driving task relevant to its intended operational design domain or if the vehicle exits its operational design domain.
+
+
+(5) The automated commercial vehicle is covered by motor vehicle liability coverage in an amount not less than two million dollars ($2,000,000).
+
+
+(6) The registration of an automated commercial motor vehicle shall not be interpreted to abrogate or amend any statutory or regulatory provisions or any aspects of common law pertaining to liability for any harm or injury caused.
+
+
+Section 4. (a) The owner of an automated commercial vehicle, or the lessee if the vehicle is leased or rented, is considered the operator of the vehicle for the purpose of assessing compliance with applicable traffic or motor vehicle laws, including the rules of the road.
+
+
+(b) The automated driving system is considered to be licensed to operate the vehicle.
+
+
+Section 5. When an accident occurs involving an automated commercial motor vehicle, the requirements of Chapter 10, Title 32, Code of Alabama 1975, shall be deemed satisfied if the vehicle remains on the scene of the accident and the vehicle, owner, a person on behalf of the owner, or operator promptly contacts appropriate law enforcement entities and communicates the information required by Chapter 10, Title 32, Code of Alabama 1975.
+
+
+Section 6. (a) Notwithstanding any other provision of this act, a commercial motor vehicle equipped with a teleoperation system may operate without a conventional driver physically present in the vehicle if a remote driver is operating the vehicle.
+
+
+(b) When a remote driver is operating a commercial motor vehicle, the remote driver is considered to be the operator of the vehicle for the purpose of assessing compliance with applicable traffic or motor vehicle laws, including the rules of the road, and for the purpose of any charge for a violation of the Alabama Criminal Code, Title 13A, Code of Alabama 1975, or Title 32, Code of Alabama 1975. Extradition of a person charged pursuant to this section shall be governed by Chapter 9 of Title 15, Code of Alabama 1975.
+
+
+(c) The remote driver shall hold the proper class of license required for a conventional driver to operate the vehicle.
+
+
+(d) When an accident occurs involving a commercial motor vehicle equipped with a teleoperation system, the requirements of Chapter 10, Title 32, Code of Alabama 1975, shall be deemed satisfied if the vehicle remains on the scene of the accident and the owner or remote driver promptly contacts appropriate law enforcement entities and communicates the information required by Chapter 10, Title 32, Code of Alabama 1975.
+
+
+(e) In the event of an accident involving a commercial motor vehicle equipped with a teleoperation system, the remote drive who is operating the vehicle shall be subject to Section 32-6-49.13, Code of Alabama 1975, regardless of the jurisdiction in which the remote driver is physically present. A remote driver is deemed to have give consent, subject to provisions of Section 32-5-192, Code of Alabama 1975, to take a test or tests of the remote driver's blood, breath, or urine for the purpose of determining that the person's alcohol concentration, or the presence of other drugs. Subdivision (1) of subsection (b) of Section 32-6-49.13 shall be deemed satisfied if the test or tests are administered in cooperation with local law enforcement officials in the jurisdiction where a remote driver is present. The results of any test shall be provided to Alabama law enforcement agencies.
+
+
+Section 7. A commercial motor vehicle equipped with a teleoperation system registered in this state shall meet all of the following requirements:
+
+
+(1) The motor vehicle shall be in compliance with applicable federal law.
+
+
+(2) The motor vehicle shall be certified in accordance with federal regulations in 49 C.F.R. Part 567 as being in compliance with applicable federal motor vehicle safety standards and shall bear the required certification label or labels, including reference to any exemption granted under applicable federal law.
+
+
+(3) The motor vehicle shall be capable of being operated in compliance with the applicable traffic and motor vehicle laws of this state, regardless of whether the vehicle is operated by a remote driver, including without limitation,applicable laws concerning the capability to safely navigate and negotiate railroad crossings.
+
+
+(4) The motor vehicle shall be covered by motor vehicle liability coverage in an amount of not less than two million dollars ($2,000,000).
+
+
+(5) The motor vehicle shall be able to achieve a reasonably safe state, such as bringing the vehicle to a stop, if a failure of the teleoperation system occurs that renders the remote driver unable to perform the entire dynamic driving task for the vehicle.
+
+
+Section 8. This act shall not be construed to repeal, modify, or preempt any liability that may be incurred under existing common or statutory law applicable to a vehicle owner, operator, manufacturer, component part supplier, or retailer.
+
+
+Section 9. This act shall become effective immediately following its passage and approval by the Governor, or its otherwise becoming law.

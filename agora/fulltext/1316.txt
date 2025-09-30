@@ -1,0 +1,35 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Modernizing Retrospective Regulatory Review Act”.
+SEC. 2. IMPROVING RETROSPECTIVE REVIEWS OF FEDERAL REGULATIONS.
+(a) Definitions.—In this section:
+(1) ADMINISTRATIVE COMMITTEE OF THE FEDERAL REGISTER.—The term “Administrative Committee of the Federal Register” means the committee established under section 1506 of title 44, United States Code.
+(2) ADMINISTRATOR.—The term “Administrator” means the Administrator of the Office of Information and Regulatory Affairs.
+(3) AGENCY.—The term “agency” has the meaning given the term in section 3502 of title 44, United States Code.
+(4) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+(A) the Committee on Oversight and Accountability of the House of Representatives; and
+(B) the Committee on Homeland Security and Governmental Affairs of the Senate.
+(5) DIRECTOR OF GPO.—The term “Director of GPO” means the Director of the Government Publishing Office.
+(6) MACHINE-READABLE.—The term “machine-readable” has the meaning given the term in section 3502 of title 44, United States Code.
+(7) RETROSPECTIVE REVIEW OF A REGULATION OF THE AGENCY.—The term “retrospective review of a regulation of the agency” means a review of regulations of the agency conducted after the regulation has been issued that is required by law or determined appropriate by the head of the agency.
+(b) Report On Availability Of Existing Regulations In Machine-Readable Format.—
+(1) IN GENERAL.—Not later than 180 days after the date of enactment of this Act, the Director of the Office of Management and Budget, acting through the Administrator and in consultation with the Director of GPO, the Archivist of the United States, and the Director of the Federal Register, shall submit to the appropriate congressional committees, a report on the progress of the Federal Government in making regulations of agencies available in machine-readable format.
+(2) CONTENTS OF REPORT.—The report required by paragraph (1) shall include—
+(A) an assessment of whether agency regulations have been made available in a machine-readable format to the public; and
+(B) information regarding the recognition by the Administrative Committee of the Federal Register of the eCFR maintained by the Director of the Federal Register and the Director of GPO as an official legal edition of the Code of Federal Regulations.
+(c) Guidance On Using Technology To Conduct Retrospective Reviews.—
+(1) IN GENERAL.—Not later than 18 months after the date of enactment of this Act, the Director of the Office of Management and Budget, acting through the Administrator, shall issue guidance on how the head of an agency can—
+(A) use technology (including algorithmic tools and artificial intelligence) to more efficiently, cost-effectively, and accurately conduct any retrospective review of the existing regulations of the agency, including how to identify, procure, and use such technology to identify through any such review regulations of the agency that—
+(i) are obsolete, ineffective, or insufficient;
+(ii) are excessively burdensome or should be improved;
+(iii) contain typographical errors;
+(iv) contain inaccurate cross references; or
+(v) are redundant, contradict, or overlap with any regulations or standards of the agency; and
+(B) adequately train personnel of the agency on how to use such technology.
+(2) DEVELOPMENT OF GUIDANCE.—In developing the guidance required pursuant to paragraph (1), the Administrator shall take into account any assessment or information included in the report required by subsection (b).
+(d) Agency Retrospective Review Plan.—Not later than 2 years after the date of enactment of this Act, the head of each agency shall submit to the Administrator and the appropriate congressional committees a plan that—
+(1) includes a detailed strategy for implementing the guidance issued pursuant to subsection (c) with respect to the regulations of the agency;
+(2) identifies any regulation of the agency, or categories of regulations of the agency, that the head of the agency—
+(A) is required by law to review after the applicable regulation is issued; or
+(B) determines would benefit from being reviewed after the regulation is issued; and
+(3) includes any additional information, data, or ex-post analysis determined necessary or useful by the head of the agency.
+(e) Agency Implementation.—Not later than 180 days after the date on which the head of an agency submits the plan required by subsection (d), the head of the agency shall implement the strategy included in such plan with respect to any retrospective review of a regulation of the agency.

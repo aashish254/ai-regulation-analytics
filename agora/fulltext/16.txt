@@ -1,0 +1,24 @@
+SEC. 11227. REVIEW OF ARTIFICIAL INTELLIGENCE APPLICATIONS AND ESTABLISHMENT OF PERFORMANCE METRICS.
+
+(a) In General.--Not later than 2 years after the date of enactment of this Act, the Commandant shall--
+	(1) review the potential applications of artificial intelligence and digital technology to the platforms, processes, and operations of the Coast Guard;
+	(2) identify the resources necessary to improve the use of artificial intelligence and digital technology in such platforms, processes, and operations; and
+	(3) establish performance objectives and accompanying metrics for the incorporation of artificial intelligence and digital readiness into such platforms, processes, and operations.
+(b) Performance Objectives and Accompanying Metrics.--
+	(1) Skill gaps.--In carrying out subsection (a), the Commandant shall--
+		(A) conduct a comprehensive review and assessment of--
+			(i) skill gaps in the fields of software development, software engineering, data science, and artificial intelligence;
+			(ii) the qualifications of civilian personnel needed for both management and specialist tracks in such fields; and
+			(iii) the qualifications of military personnel (officer and enlisted) needed for both management and specialist tracks in such fields; and
+		(B) establish recruiting, training, and talent management performance objectives and accompanying metrics for achieving and maintaining staffing levels needed to fill identified gaps and meet the needs of the Coast Guard for skilled personnel.	(2) AI modernization activities.--In carrying out subsection (a), the Commandant shall--
+		(A) assess investment by the Coast Guard in artificial intelligence innovation, science and technology, and research and development;
+		(B) assess investment by the Coast Guard in test and evaluation of artificial intelligence capabilities;
+		(C) assess the integration of, and the resources necessary to better use artificial intelligence in wargames, exercises, and experimentation;
+		(D) assess the application of, and the resources necessary to better use, artificial intelligence in logistics and sustainment systems;
+		(E) assess the integration of, and the resources necessary to better use, artificial intelligence for administrative functions;
+		(F) establish performance objectives and accompanying metrics for artificial intelligence modernization activities of the Coast Guard; and
+		(G) identify the resources necessary to effectively use artificial intelligence to carry out the missions of the Coast Guard.
+(c) Report to Congress.--Not later than 180 days after the completion of the review required under subsection (a)(1), the Commandant shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report on--
+	(1) the findings of the Commandant with respect to such review and any action taken or proposed to be taken by the Commandant, and the resources necessary to address such findings;
+	(2) the performance objectives and accompanying metrics established under subsections (a)(3) and (b)(1)(B); and
+	(3) any recommendation with respect to proposals for legislative change necessary to successfully implement artificial intelligence applications within the Coast Guard.

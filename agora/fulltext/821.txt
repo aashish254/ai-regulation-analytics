@@ -1,0 +1,29 @@
+ SEC. 407. ASSESSMENT OF ARTIFICIAL INTELLIGENCE THREATS TO HEALTH SECURITY.
+
+
+(a) In General.—Not later than 45 days after the date of enactment of this Act, the Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall seek to enter into a contract with the National Academies of Sciences, Engineering, and Medicine (referred to in this section as the “National Academies”) to conduct a study assessing the potential vulnerabilities to health security presented by the current or prospective use or misuse of artificial intelligence, including with respect to open-source artificial intelligence models, such as large language models.
+
+ (b) Inclusions.—The study conducted pursuant to the contract under subsection (a) shall include—
+
+
+(1) an assessment of the potential vulnerabilities posed by technical advancements in artificial intelligence to health security, including any risks related to the development of, enhancement of, or protection from, chemical, biological, radiological, or nuclear threats;
+
+
+(2) a description of roles, responsibilities, and capabilities of agencies and offices of the Department of Health and Human Services, and, as applicable and appropriate, other Federal departments and agencies, with respect to the identification and mitigation of such potential vulnerabilities;
+
+
+(3) a summary of any ongoing Federal activities related to the identification, understanding, and mitigation of such potential risks;
+
+
+(4) the identification of any potential gaps, whether current or anticipated, related to such roles, responsibilities, and capabilities; and
+
+
+(5) recommendations to improve Federal efforts to identify, prepare for, and mitigate such potential vulnerabilities.
+
+ (c) Reports.—
+
+
+(1) NATIONAL ACADEMIES REPORT.—Not later than 2 years after the date of the contract under subsection (a), the National Academies shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the study conducted pursuant to subsection (a).
+
+
+(2) HHS REPORT.—Not later than 1 year after the issuance of the report required under paragraph (1), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report detailing actions taken to mitigate and monitor risks to health security posed by misuse of artificial intelligence, as detailed in the report under paragraph (1).

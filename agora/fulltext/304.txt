@@ -1,0 +1,16 @@
+AN ACT concerning employment. 
+ 
+Be it enacted by the People of the State of Illinois, represented in the General Assembly: 
+ 
+Section 1. Short title. This Act may be cited as the Artificial Intelligence Video Interview Act. 
+ 
+Section 5. Disclosure of the use of artificial intelligence analysis. An employer that asks applicants to record video interviews and uses an artificial intelligence analysis of the applicant-submitted videos shall do all of the following when considering applicants for positions based in Illinois before asking applicants to submit video interviews: 
+
+(1) Notify each applicant before the interview that artificial intelligence may be used to analyze the applicant's video interview and consider the applicant's fitness for the position. 
+
+(2) Provide each applicant with information before the interview explaining how the artificial intelligence works and what general types of characteristics it uses to evaluate applicants. 
+
+(3) Obtain, before the interview, consent from the applicant to be evaluated by the artificial intelligence program as described in the information provided. An employer may not use artificial intelligence to evaluate applicants who have not consented to the use of artificial intelligence analysis. 
+ Section 10. Sharing videos limited. An employer may not share applicant videos, except with persons whose expertise or technology is necessary in order to evaluate an applicant's fitness for a position. 
+ 
+Section 15. Destruction of videos. Upon request from the applicant, employers, within 30 days after receipt of the request, must delete an applicant's interviews and instruct any other persons who received copies of the applicant video interviews to also delete the videos, including all electronically generated backup copies. Any other such person shall comply with the employer's instructions.

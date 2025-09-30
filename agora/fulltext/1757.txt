@@ -1,0 +1,17 @@
+SEC. 222. Modification to artificial intelligence education strategy.
+
+Section 256 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 133 Stat. 1290) is amended by adding at the end the following new subsection:
+
+"(d) Artificial intelligence and machine learning education platforms.--
+
+"(1) IN GENERAL.--Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall--
+
+"(A) develop a set of distance education courses on--
+
+"(i) the foundational concepts of artificial intelligence and machine learning; and
+
+"(ii) the responsible and ethical design, development, acquisition and procurement, deployment, and use of artificial intelligence and machine learning applications; and
+
+"(B) make such courses available to members of the Armed Forces.
+
+"(2) REPORT.--Not later than 270 days after the date of the enactment of this subsection, the Secretary of Defense shall submit to the congressional defense committees a report on the progress of the Chief Digital and Artificial Intelligence Officer in implementing paragraph (1).".

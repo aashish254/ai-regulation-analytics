@@ -1,0 +1,99 @@
+15 CFR part 702 is proposed to be amended as follows:
+
+PART 702—INDUSTRIAL BASE SURVEYS—DATA COLLECTIONS
+
+1. The authority citation for 15 CFR part 702 is revised to read as follows:
+
+Authority: 50 U.S.C. 4501 et seq.; E.O. 13603, 77 FR 16651, 3 CFR, 2012 Comp., p. 225; E.O. 14110, 88 FR 75191, 3 CFR, 2023 Comp., p. 657.
+
+2. Section 702.7 is added to read as follows: 
+
+§ 702.7
+
+Special requirements for on-going reporting regarding the development of advanced artificial intelligence models and computing clusters.
+
+(a) Reporting requirements.
+
+(1) Covered U.S. persons are required to submit a notification to the Department by emailing ai_reporting@bis.doc.gov on a quarterly basis as defined in paragraph (a)(2) of this section if the covered U.S. person engages in, or plans, within six months, to engage in `applicable activities,' defined as follows:
+
+(i) Conducting any AI model training run using more than 10^26 computational operations (e.g., integer or floating-point operations); or
+
+(ii) Acquiring, developing, or coming into possession of a computing cluster that has a set of machines transitively connected by data center networking of greater than 300 Gbit/s and having a theoretical maximum greater than 10^20 computational operations (e.g., integer or floating-point operations) per second (OP/s) for AI training, without sparsity.
+
+Note 1 to paragraph (a)(1): Consistent with industry conventions, one multiply-accumulate computation, D = A × B + C, should be counted as two operations.
+
+(2) Timing of notifications and response to BIS questions
+
+(i) Notification of applicable activities.
+Covered U.S. persons subject to the reporting requirements in paragraph (a)(1) of this section must notify BIS of `applicable activities' via email each quarter, identifying any `applicable activities' planned in the six months following notification. Quarterly notification dates are as follows: Q1—April 15; Q2—July 15; Q3—October 15; Q4—January 15. For example, in a notification due on April 15, a covered U.S. person should include all activities planned until October 15 of the same year.
+
+(ii) Response to BIS questions.
+
+Following a notification of `applicable activities' by a covered U.S. person, the covered U.S. person will receive questions from BIS. The covered U.S. person must respond to all questions within 30 calendar days of receiving the request.
+
+(iii) Corrections.
+
+If any notification of `applicable activities' or response to BIS questions filed under this section is incomplete when filed, BIS will notify the covered U.S. person and require a revised resubmission within 14 calendar days after BIS provides notice of incompletion. BIS will continue to require revisions within 14 calendar days of notification if a resubmission remains incomplete.
+
+(iv) Clarification questions.
+
+If, after receipt of responses described in paragraph (a)(2)(ii) of this section, BIS has additional questions to clarify those responses, the covered U.S. person will provide additional responses to such additional questions within seven (7) calendar days. If the covered U.S. person needs additional time to provide an additional response, it can request an extension from BIS.
+
+(v) Affirmation of no applicable activities.
+
+For each of the seven quarters following the quarter covered by a notification of `applicable activities,' if the covered U.S. person has no `applicable activities' (i.e., an “applicable activity” that meets the criteria under paragraph (a)(1)(i) or (ii) of this section) to report, they must submit an affirmation of no applicable activities by emailing ai_reporting@bis.doc.gov on the quarterly notification date. If the covered U.S. person submits an affirmation of no applicable activities for seven consecutive quarters, they need not provide BIS with any affirmation thereafter until they have `applicable activities' to report.
+
+(b) Content, form, and manner of response to BIS questions.
+
+(1) All information submitted under this section shall be filed with BIS in the form and manner that BIS will prescribe in instructions sent to the covered U.S. person after BIS has received a notification of `applicable activities.'
+
+(2) BIS will send questions to the covered U.S. person which must address, but may not be limited to, the following topics:
+
+(i) Any ongoing or planned activities related to training, developing, or producing dual-use foundation models, including the physical and cybersecurity protections taken to assure the integrity of that training process against sophisticated threats;
+
+(ii) The ownership and possession of the model weights of any dual-use foundation models, and the physical and cybersecurity measures taken to protect those model weights;
+
+(iii) The results of any developed dual-use foundation model's performance in relevant AI red-team testing, including a description of any associated measures the company has taken to meet safety objectives, such as mitigations to improve performance on these red-team tests and strengthen overall model security; and
+
+(iv) Other information pertaining to the safety and reliability of dual-use foundation models, or activities or risks that present concerns to U.S. national security.
+
+(c) Definitions.
+
+For purposes of the reports required by paragraph (a) of this section, apply the following definitions.
+
+AI red-teaming means a structured testing effort to find flaws and vulnerabilities in an AI system, often in a controlled environment and in collaboration with developers of AI. In the context of AI, red-teaming is most often performed by dedicated “red teams” that adopt adversarial methods to identify flaws and vulnerabilities, such as harmful or discriminatory outputs from an AI system, unforeseen or undesirable system behaviors, limitations, or potential risks associated with the misuse of the system.
+
+AI model means a component of an information system that implements AI technology and uses computational, statistical, or machine-learning techniques to produce outputs from a given set of inputs.
+
+AI system means any data system, software, hardware, application, tool, or utility that operates in whole or in part using AI.
+
+Artificial intelligence or AI has the meaning set forth in 15 U.S.C. 9401(3).
+
+Company means a corporation, partnership, association, or any other organized group of persons, or legal successor or representative thereof. This definition is not limited to commercial or for-profit organizations. For example, the term “any other organized group of persons” may encompass academic institutions, research centers, or any group of persons who are organized in some manner. The term “corporation” is not limited to publicly traded corporations or corporations that exist for the purpose of making a profit.
+
+Covered U.S. person means any individual U.S. citizen, lawful permanent resident of the United States as defined by the Immigration and Nationality Act, entity—including organizations, companies, and corporations—organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person (individual) located in the United States.
+
+Dual-use foundation model means an AI model that is:
+
+(i)(A) Trained on broad data;
+(B) Generally uses self-supervision;
+(C) Contains at least tens of billions of parameters;
+(D) Is applicable across a wide range of contexts; and
+(E) Exhibits, or could be easily modified to exhibit, high levels of performance at tasks that pose a serious risk to security, national economic security, national public health or safety, or any combination of those matters, such as by:
+(1) Substantially lowering the barrier of entry for non-experts to design, synthesize, acquire, or use chemical, biological, radiological, or nuclear (CBRN) weapons;
+(2) Enabling powerful offensive cyber operations through automated vulnerability discovery and exploitation against a wide range of potential targets of cyberattacks; or
+(3) Permitting the evasion of human control or oversight through means of deception or obfuscation.
+(ii) Models meet this definition even if they are provided to end users with technical safeguards that attempt to prevent users from taking advantage of the relevant unsafe capabilities.
+
+Knowledge has the meaning set out in 15 CFR 772.1.
+
+Large-scale computing cluster means a cluster of computing hardware that meets the technical thresholds provided by the Department in paragraph (a)(1) of this section.
+
+Model weights means the numerical parameters used in the layers of a neural network.
+
+Training or training run refers to any process by which an AI model learns from data using computing power. Training includes but is not limited to techniques employed during pre-training like unsupervised learning and employed during fine tuning like reinforcement learning from human feedback.
+
+United States (U.S.) includes the 50 states, the District of Columbia, Puerto Rico, Guam, American Samoa, the U.S. Virgin Islands, and the Northern Mariana Islands.
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.

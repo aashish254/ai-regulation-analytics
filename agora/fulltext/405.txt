@@ -1,0 +1,177 @@
+ H. R. 6425
+
+
+To direct the Secretary of Defense to establish a working group to develop and coordinate an artificial intelligence initiative among the Five Eyes countries, and for other purposes.
+
+ IN THE HOUSE OF REPRESENTATIVES
+
+
+November 15, 2023
+
+
+Mr. Gallagher (for himself and Mr. Khanna) introduced the following bill; which was referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To direct the Secretary of Defense to establish a working group to develop and coordinate an artificial intelligence initiative among the Five Eyes countries, and for other purposes.
+
+ Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. ESTABLISHMENT OF WORKING GROUP FOR ARTIFICIAL INTELLIGENCE INITIATIVE AMONG FIVE EYES COUNTRIES.
+
+
+(a) Establishment.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Director of National Intelligence, shall establish a working group to be known as the “Five AIs Strategic Artificial Intelligence Working Group” (in this section referred to as the “Working Group”).
+
+
+(b) Purpose.—The purpose of the Working Group shall be to develop and coordinate an artificial intelligence initiative among the Five Eyes countries.
+
+ (c) Organization.—
+
+
+(1) DESIGNATION OF HEAD.—The Secretary of Defense, in coordination with the Director of National Intelligence, shall designate a senior civilian officer of the Department of Defense or senior military officer with experience leading relevant efforts, as determined by the Secretary, to serve as the head of the Working Group.
+
+
+(2) PARTICIPATION BY OTHER MEMBER COUNTRIES.—The Secretary of Defense, in coordination with the Director of National Intelligence, shall encourage participation in the Working Group by the members of the Five Eyes Intelligence Oversight and Review Council.
+
+ (d) Responsibilities.—The responsibilities of the Working Group shall be to develop and coordinate efforts to implement an artificial intelligence initiative between the Department of Defense, the Office of the Intelligence Community Inspector General of the United States, and the other members of the Five Eyes Intelligence Oversight and Review Council to—
+
+
+(1) compare—
+
+
+(A) the various artificial intelligence systems and the elements thereof (including machine learning and generative artificial intelligence such as large language models) used for covered operational uses by such members; and
+
+
+(B) the respective practices associated with the employment of such systems for covered operational uses by such members;
+
+
+(2) identify (including by experimenting, testing, and evaluating) potential solutions to advance and accelerate the interoperability of artificial intelligence systems used for intelligence sharing, battlespace awareness, and other covered operational uses;
+
+
+(3) test and evaluate the effects of artificial intelligence model redundancy, including the risks and safety measures associated with operating multiple artificial intelligence systems, including in tandem with one another;
+
+
+(4) develop a shared strategy for the research, development, test, evaluation, and employment of artificial intelligence systems for covered operational uses carried out jointly by the Five Eyes countries;
+
+
+(5) develop a shared strategy for—
+
+
+(A) managing data-informed artificial intelligence systems; and
+
+
+(B) testing and evaluating artificial intelligence systems with combined data sets at the unclassified and classified levels;
+
+
+(6) test and evaluate the capabilities of the defense industrial base of the Five Eyes countries to incorporate artificial intelligence systems into systems used for covered operational uses;
+
+
+(7) compare and use ethical frameworks to accelerate technological advancements with respect to artificial intelligence systems;
+
+
+(8) expand innovation efforts by the Five Eyes countries and share among such countries best practices for the accelerated procurement and adoption of artificial intelligence technologies for covered operational uses;
+
+
+(9) leverage commercially available artificial intelligence technologies to advance near-term jointness between the armed forces and intelligence components of the Five Eyes countries;
+
+
+(10) jointly identify and source artificial intelligence systems, as practicable, and advise Five Eyes countries with respect to export controls applicable to such systems;
+
+
+(11) share, to the extent practicable and as agreed upon by the Working Group, the results, opportunities, and frameworks assessed or otherwise identified by the Working Group for the informed use of artificial intelligence with allies and partners of the United States other than Five Eyes countries; and
+
+
+(12) carry out such other activities as the Secretary of Defense, in consultation with the Director of National Intelligence and any members of the Five Eyes Intelligence Oversight and Review Council participating in the Working Group, determines to be relevant to such responsibilities.
+
+ (e) Control Of Knowledge And Technical Data.—The Secretary of Defense shall seek to ensure that any knowledge or technical data produced by a Five Eyes country under any cooperative project carried out by the Working Group shall be controlled by that country under the export control laws and regulations of that country and shall not be subject to the jurisdiction or control of any other Five Eyes country.
+
+ (f) Plan And Reports.—
+
+
+(1) PLAN.—
+
+
+(A) SUBMISSION.—Not later than 60 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Director of National Intelligence, shall submit to the appropriate congressional committees a plan for the establishment and activities of the Working Group.
+
+
+(B) ELEMENTS.—The plan under subparagraph (A) shall include—
+
+
+(i) a plan for the establishment of the Working Group, including for efforts to engage with the members of the Five Eyes Intelligence Oversight and Review Council with respect to such establishment;
+
+
+(ii) a description of any funding requirements or administrative support necessary to carry out this section;
+
+
+(iii) a description of any additional statutory authorities necessary to carry out this section;
+
+
+(iv) a plan for the fulfilment of responsibilities under subsection (c) by the Working Group;
+
+
+(v) an evaluation of existing joint efforts by the Five Eyes countries to fulfill similar responsibilities;
+
+
+(vi) a plan for the integration of the artificial intelligence initiative developed and coordinated by the Working Group with other programs and initiatives of the elements of the Department of Defense or the Office of Director of National Intelligence with responsibilities relating to mutual security and artificial intelligence efforts among the Five Eyes countries;
+
+
+(vii) performance indicators by which the activities of the Working Group will be assessed; and
+
+
+(viii) a description of how efforts of the commanders of the combatant commands relating to military interoperability and test and evaluation of artificial intelligence systems will be tasked and executed by and through the Working Group.
+
+
+(2) BIANNUAL REPORT.—Not later than 180 days after the date of the enactment of this Act, and on a biannual basis thereafter until the date of termination under subsection (f), the Secretary of Defense shall submit to the appropriate congressional committees a report on the activities and milestones of the Working Group. Each such report shall include, with respect to the period covered by the report—
+
+
+(A) an assessment of the activities of the Working Group based on the performance indicators set forth in the plan under paragraph (1)(B)(vii); and
+
+
+(B) a description of any efforts of the commanders of the combatant commands taken in support of the responsibilities of the Working Group.
+
+ (g) Termination.—
+
+
+(1) IN GENERAL.—Except as provided in paragraph (2), the Working Group shall terminate on September 30, 2028.
+
+
+(2) AUTHORITY TO EXTEND.—The Secretary of Defense may extend the termination date under paragraph (1) if the Secretary determines such extension to be in the national security interests of the United States.
+
+ (h) Definitions.—In this section:
+
+
+(1) The term “appropriate congressional committees” means—
+
+
+(A) the congressional defense committees, as such term is defined in section 101 of title 10, United States Code; and
+
+
+(B) the congressional intelligence committees, as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+
+
+(2) The term “battlespace awareness” has the meaning given that term in the Joint Publication 1–02 of the Department of Defense, titled “Department of Defense Dictionary of Military and Associated Terms”, or successor publication.
+
+
+(3) The term “covered operational use” means use by a government for operations in a defense or intelligence context.
+
+
+(4) The term “Five Eyes countries” means the following:
+
+
+(A) Australia.
+
+
+(B) Canada.
+
+
+(C) New Zealand.
+
+
+(D) The United Kingdom.
+
+
+(E) The United States.
+
+
+(5) The term “Five Eyes Intelligence Oversight and Review Council” means the council established pursuant to the agreement entered into between the Inspector General of the Intelligence Community of the United States and the relevant foreign counterparts of the governments of the Five Eyes countries, titled “Charter of the Five Eyes Intelligence Oversight and Review Council”, done on October 2, 2017.

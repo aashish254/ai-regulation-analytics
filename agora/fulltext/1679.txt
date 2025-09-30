@@ -1,0 +1,91 @@
+A BILL
+To amend title 44, United States Code, to modernize data practices to improve government, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Modernizing Data Practices to Improve Government Act”.
+
+
+SEC. 2. Modernizing data practices to improve government.
+
+
+(a) Definitions.—Section 3502 of title 44, United States Code, is amended—
+
+
+(1) in paragraph (22), by striking “; and” and inserting a semicolon;
+
+
+(2) in paragraph (23), by striking the period at the end and inserting a semicolon; and
+
+
+(3) by adding at the end the following:
+“(24) the term ‘artificial intelligence’—
+“(A) has the meaning given the term ‘artificial intelligence’ in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401); and
+“(B) includes the artificial systems and techniques described in paragraphs (1) through (5) of section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4061 note prec.); and
+“(25) the term ‘data governance’ means the policies and procedures of an agency to manage data throughout the lifecycle of such data, including acquisition, collection, analysis, protection, use, dissemination, disposal, or archival, including—
+“(A) any data asset; and
+“(B) any action taken and any technology or process used by an agency to manage such data or data asset.”.
+
+
+(b) Chief Data Officer qualifications.—Subsection (b) of section 3520 of title 44, United States Code, is amended by striking “data management, governance (including creation, application, and maintenance of data standards), collection, analysis, protection, use, and dissemination, including with respect to” and inserting “data management and data governance, including with respect to creation, application, and maintenance of data standards and”.
+
+
+(c) Revival of law.—In the case of a termination and repeal under subsection (e)(2) of section 3520A of title 44, United States Code, such section 3520A shall be effective as in effect on December 14, 2024, as if such section had not been repealed, and such section shall apply retroactively to any period of repeal.
+
+
+(d) Chief Data Officer Council.—Section 3520A of title 44, United States Code, is amended—
+
+
+(1) in subsection (b), by striking paragraph (5) and inserting the following:
+“(5) identify opportunities and procedures to improve data governance to—
+“(A) evaluate new technology solutions for improving the collection and use of data;
+“(B) ensure the public data assets are transparent and of sufficient quality for the intended use of the data asset; and
+“(C) support the head of each agency with the efforts by the agency to reliably and securely use emerging technology and artificial intelligence to improve operational efficiency across agencies.”;
+
+
+(2) in subsection (c), by striking paragraph (4) and inserting the following:
+“(4) EX OFFICIO MEMBERS.—The Director shall select a representative to serve as an ex-officio member of the Council for each of the following:
+“(A) Agency Chief Information Officers.
+“(B) Agency Evaluation Officers.
+“(C) Senior agency officials for privacy.”; and
+
+
+(3) by striking subsections (d) and (e) and inserting the following:
+“(d) Reports.—The Council shall submit to the Director, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Accountability of the House of Representatives the following:
+“(1) Not later than 2 years after the date of the enactment of this subsection, and every two years thereafter, a report on the work of the Council that includes—
+“(A) a description of any work of the Council to ensure progress on each purpose and function of the Council described under subsection (b); and
+“(B) any update to the recommendations provided in the report required under paragraph (2).
+“(2) Not later than 1 year after the date of the enactment of this subsection, a report that includes the following:
+“(A) Recommendations and best practices for agencies on developing data assets, data governance policies, and infrastructure to enable adoption, maintenance, use, and interoperability of emerging technology and artificial intelligence, such as for use in training, testing, and operation of artificial intelligence within agencies, that includes the following:
+“(i) An assessment of ways to strengthen and clarify the roles and responsibilities of senior agency officials with respect to data governance.
+“(ii) An identification of data available to 1 or more agencies at the time of the submission of the report that would benefit other agencies if the data were shared or made accessible to such other agencies.
+“(iii) Criteria agencies should consider when using data to train any artificial intelligence used by agencies, including recommendations for—
+“(I) ways to make such data more transparent to the public and the employees of the agency using the trained artificial intelligence; and
+“(II) processes and procedures to analyze and test such data for potential risks.
+
+
+“(iv) Recommendations for defining, generating, using, and ensuring the privacy and security of synthetic data in the Federal Government.
+“(B) An indication of how agencies can incorporate such recommendations and best practices into agency processes and statutory requirements.
+“(e) Director responsibilities.—
+“(1) DATA GOVERNANCE GUIDANCE.—The Director, upon receipt of a report required under subsection (d), may issue or amend, as necessary, guidance to agencies with respect to the implementation of any recommendation included in the report in accordance with this chapter.
+“(2) CHIEF DATA OFFICER INVENTORY.—Not later than 270 days after the date of the enactment of this subsection, the Director, in consultation with the Council, shall make available on a public website, and update not less frequently than annually, an inventory of Chief Data Officers, including, with respect to each agency—
+“(A) a list of each Chief Data Officer, including, with respect to each Chief Data Officer—
+“(i) any additional role or title the Chief Data Officer holds at the agency; and
+“(ii) each responsibility and statutory authority of the Chief Data Officer relating to data and artificial intelligence that are not described in section 3520(c); and
+“(B) an identification of resources needed by Chief Data Officers, including to support the adoption of artificial intelligence at agencies.
+“(f) Evaluation.—Not later than 2 years after the date of the enactment of this subsection, and not less frequently than every 2 years thereafter, the Comptroller General shall submit to Congress a report on—
+“(1) whether the duties of the Council improved the use of evidence, data, and program evaluation in the Federal Government; and
+“(2) any barrier or challenge preventing the Council from accomplishing the requirements under this section.
+“(g) Rule of construction.—Nothing in this section shall be construed to require an agency to implement any recommendation developed pursuant to subsection (d).
+“(h) Sunset.—This section shall have no force or effect on and after December 14, 2031.”.
+
+
+SEC. 3. No additional funds.
+
+
+No additional funds are authorized to be appropriated for the purpose of carrying out this Act.

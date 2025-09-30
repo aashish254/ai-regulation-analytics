@@ -1,0 +1,82 @@
+ SEC. 6303. PROMOTING PRECISION AGRICULTURE.
+
+
+(a) Definitions.—In this section:
+
+
+(1) ADVANCED WIRELESS COMMUNICATIONS TECHNOLOGY.—The term “advanced wireless communications technology” means advanced technology that contributes to mobile (5G or beyond) networks, next-generation Wi-Fi networks, or other future networks using other technologies, regardless of whether the network is operating on an exclusive licensed, shared licensed, or unlicensed frequency band.
+
+
+(2) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061).
+
+
+(3) FOREIGN ADVERSARY.—The term “foreign adversary” means any foreign government or foreign nongovernment person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States, or security and safety of United States persons.
+
+
+(4) PRECISION AGRICULTURE; PRECISION AGRICULTURE TECHNOLOGY.—The terms “precision agriculture” and “precision agriculture technology” have the meanings given the terms in section 1201 of the Food Security Act of 1985.
+
+
+(5) TRUSTED.—The term “trusted” means, with respect to a provider of advanced communications service or a supplier of communications equipment or service, that the Secretary has determined that the provider or supplier is not owned by, controlled by, or subject to the influence of, a foreign adversary.
+
+
+(6) VOLUNTARY CONSENSUS STANDARDS DEVELOPMENT ORGANIZATION.—The term “voluntary consensus standards development organization” means an organization that develops standards in a process that meets the principles for the development of voluntary consensus standards (as defined in the document of the Office of Management and Budget entitled “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities” (OMB Circular A–119)).
+
+ (b) Purposes.—The purposes of this section are—
+
+
+(1) to enhance the participation of precision agriculture in the United States; and
+
+
+(2) to promote United States leadership in voluntary consensus standards development organizations that set standards for precision agriculture.
+
+ (c) Interconnectivity Standards For Precision Agriculture.—
+
+
+(1) IN GENERAL.—Not later than 2 years after the date of enactment of this Act, the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Federal Communications Commission, shall—
+
+
+(A) develop voluntary, consensus-based, private sector-led interconnectivity standards, guidelines, and best practices for precision agriculture that will promote economies of scale and ease the burden of the adoption of precision agriculture; and
+
+
+(B) in carrying out subparagraph (A)—
+
+
+(i) coordinate with relevant public and trusted private sector stakeholders and other relevant industry organizations, including voluntary consensus standards development organizations; and
+
+
+(ii) consult with sector-specific agencies, other appropriate agencies, and State and local governments.
+
+
+(2) CONSIDERATIONS.—The Secretary, in carrying out paragraph (1), shall, in consultation with the Federal Communications Commission and the Director of the National Institute of Standards and Technology, consider—
+
+
+(A) the evolving demands of precision agriculture;
+
+
+(B) the connectivity needs of precision agriculture technology;
+
+
+(C) the cybersecurity challenges facing precision agriculture, including cybersecurity threats for agriculture producers and agriculture supply chains;
+
+
+(D) the impact of advanced wireless communications technology on precision agriculture; and
+
+
+(E) the impact of artificial intelligence on precision agriculture.
+
+ (d) GAO Assessment Of Precision Agriculture Standards.—
+
+
+(1) STUDY.—Not later than 1 year after the Secretary develops standards under subsection (c), and every 2 years thereafter for the following 8 years, the Comptroller General of the United States shall conduct a study that assesses those standards, including the extent to which those standards, as applicable—
+
+
+(A) are voluntary;
+
+
+(B) were developed in coordination with relevant industry organizations, including voluntary consensus standards development organizations; and
+
+
+(C) have successfully encouraged the adoption of precision agriculture.
+
+
+(2) REPORT.—The Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that summarizes the findings of each study conducted under paragraph (1).

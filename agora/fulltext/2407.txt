@@ -1,0 +1,260 @@
+A BILL
+To direct the use of artificial intelligence by National Oceanic and Atmospheric Administration to adapt to extreme weather, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title; table of contents.
+(a) Short title.—This Act may be cited as the “Transformational Artificial intelligence to Modernize the Economy against Extreme Weather and Wildfires Act” or the “TAME Extreme Weather and Wildfires Act”.
+
+
+(b) Table of contents.—The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Earth system forecasting and information delivery.
+Sec. 4. Advanced artificial intelligence applications for weather and information delivery.
+Sec. 5. Technical assistance on use of artificial intelligence weather models.
+Sec. 6. Fire environment modeling program.
+Sec. 7. Partnerships for transformational innovation.
+Sec. 8. Federal Government workforce expertise.
+Sec. 9. Data access.
+
+
+SEC. 2. Definitions.
+In this Act:
+
+
+(1) ARTIFICIAL INTELLIGENCE.—
+(A) IN GENERAL.—The term “artificial intelligence” means a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments, including by using machine-based and human-based inputs—
+(i) to abstract such objectives into models through analysis in an automated manner; and
+(ii) to use model inferences to generate information or formulate options for action.
+(B) INCLUSIONS.—The term “artificial intelligence” includes machine learning, neural networks, and natural language processing.
+
+
+(2) ARTIFICIAL INTELLIGENCE WEATHER MODEL.—The term “artificial intelligence weather model” means a weather model based primarily on artificial intelligence to project future Earth system conditions based on machine learning from an Earth system reanalysis dataset.
+
+
+(3) CURATE.—The term “curate” means to collect, maintain, and update periodically a dataset—
+(A) to ensure and document its quality; and
+(B) to provide metadata on its provenance.
+
+
+(4) NUMERICAL WEATHER MODEL.—The term “numerical weather model” means a weather model based primarily on coupled Earth system processes and that uses numerical computation to forecast future Earth system conditions.
+
+
+(5) OBSERVATIONAL DATA.—The term “observational data” means data from actual observations of environmental conditions, including remote sensing and in situ platforms.
+
+
+(6) OPEN LICENSE.—The term “open license” has the meaning given that term in section 3502(21) of title 44, United States Code.
+
+
+(7) REFORECAST ANALYSIS.—The term “reforecast analysis” means the assessment of a numerical weather model or artificial intelligence weather model by comparing model output and observational data over a period of time in the past.
+
+
+(8) SYNTHETIC DATA.—The term “synthetic data” means data produced from a model or statistical method in order to fill gaps in observational data.
+
+
+(9) TRAINING DATASET.—The term “training dataset” means a dataset used to train an artificial intelligence model.
+
+
+(10) UNDER SECRETARY.—The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
+
+
+(11) WEATHER ENTERPRISE.—The term “weather enterprise” has the meaning given such term in section 2 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501).
+
+
+
+
+SEC. 3. Earth system forecasting and information delivery.
+(a) In general.—Not later than two years after the date of the enactment of this Act, the Under Secretary, in consultation with the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, any appropriate Federal Advisory Committee, and such other technical experts as the Under Secretary considers appropriate, shall develop and curate comprehensive weather forecasting training datasets with relevant Earth system data, quality information, and metadata necessary for weather forecasting dataset that develops a long-term record of past weather in support of the following:
+
+
+(1) Furthering the understanding of weather, water, and space weather modeling and data.
+
+
+(2) Advancing the science of weather forecasting, including seasonal and subseasonal forecasting.
+
+
+(3) Developing artificial intelligence weather forecasting applications.
+
+
+(b) Use of existing datasets.—In order to speed the development of the weather forecasting training dataset required under subsection (a), the Under Secretary shall assess, and to the greatest extent practicable build on, existing weather forecasting training datasets of the Federal Government.
+
+
+(c) Artificial intelligence weather model.—
+
+
+(1) IN GENERAL.—In carrying out this section, the Under Secretary, in consultation with any appropriate Federal Advisory Committees, may develop and test a global weather model based on artificial intelligence, to be referred to as an “artificial intelligence weather model”.
+
+
+(2) WEATHER READY NATION.—In coordination with the activities carried out under paragraph (1), the Under Secretary may explore using artificial intelligence to enhance the dissemination of information and evaluation of effectiveness for improved public understanding, preparedness, and resilience.
+
+
+(3) REPORTS.—Not later than two years after the date of the enactment of this Act and not less frequently than annually thereafter, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities conducted under paragraph (1).
+
+
+(d) Cooperative institutes and contracting authority.—In carrying out this section, subject to the availability of appropriations, the Under Secretary may competitively award contracts and funding opportunities, increase the scope of existing cooperative institutes of the National Oceanic and Atmospheric Administration, or competitively award a new cooperative institute.
+
+
+(e) Environmental impact.—The Under Secretary shall develop and disseminate best practices to minimize environmental impacts from the use of artificial intelligence to carry out this section.
+
+
+(f) Continued support for observations, basic research, and numerical weather models.—Notwithstanding the requirements of this section, the Under Secretary shall continue to support and advance the activities of the National Oceanic and Atmospheric Administration carry out the following:
+
+
+(1) Collect and acquire traditional and novel observational data relevant for artificial intelligence and numerical weather models.
+
+
+(2) Advance research on the Earth system and numerical weather models.
+
+
+(3) Develop and advance numerical Earth system modeling for predictions.
+
+
+(4) Develop weather model data post-processing techniques.
+
+
+(5) Improve data assimilation techniques.
+
+
+SEC. 4. Advanced artificial intelligence applications for weather and information delivery.
+The Under Secretary shall explore advanced applications of artificial intelligence to improve weather forecasts and information delivery, such as by carrying out the following:
+
+
+(1) Improving data assimilation techniques.
+
+
+(2) Using artificial intelligence weather models to quickly emulate running numerical weather models to assess and improve the confidence in and reliability of weather forecasts and information delivery.
+
+
+(3) Improving impact-based decision support to communities for greater societal benefits based on weather forecasts.
+
+
+SEC. 5. Technical assistance on use of artificial intelligence weather models.
+(a) In general.—The Under Secretary shall regularly inventory and assess major non-Federal Government artificial intelligence weather models in order to provide the following:
+
+
+(1) Technical evaluation and assistance on using such models.
+
+
+(2) Best practices on providing forecasts based on outputs from both artificial intelligence weather models and numerical weather models, or a combination thereof.
+
+
+(3) Support for forecasters and social scientists to test and evaluate the use and effectiveness of artificial intelligence models, including within National Oceanic and Atmospheric Administration testbeds.
+
+
+(4) Support for emergency managers to make operational decisions based on outputs from both artificial intelligence weather models and numerical weather models, or a combination thereof.
+
+
+(b) Reforecast analysis.—
+
+
+(1) IN GENERAL.—The Under Secretary shall support the development of a common framework for the assessment of numerical weather models and artificial intelligence weather models through reforecast analysis and related methodologies as the Under Secretary considers appropriate.
+
+
+(2) BEST PRACTICES.—In carrying out this subsection, the Under Secretary may develop and disseminate best practices in collaboration with the following:
+(A) The National Institute for Standards and Technology.
+
+
+(B) The National Aeronautics and Space Administration.
+(C) The National Science Foundation.
+(D) The Department of Energy.
+(E) Academic and research institutions.
+(F) The private sector.
+
+
+(3) REPORT ON USE OF ANALYSIS TO IMPROVE MODELS.—Not later than one year after the date of the enactment of this Act, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the feasibility of using reforecast analysis techniques to improve seasonal and subseasonal models.
+
+
+(c) Weather forecast offices.—In carrying out this section, the Under Secretary shall provide technical assistance, best practices, and support required under subsection (a) through weather forecast offices of the National Oceanic and Atmospheric Administration.
+
+
+(d) Independent study on the impacts of artificial intelligence weather, water, and space weather models.—The Under Secretary may enter into an agreement with the National Academy of Sciences or any other entity determined appropriate by the Under Secretary to assess the impacts of artificial intelligence weather models on the weather enterprise and make recommendations to improve the integration of such models in operational forecasting.
+
+
+SEC. 6. Fire environment modeling program.
+(a) In general.—Not later than one year after the date of the enactment of this Act, the Under Secretary, in coordination with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Homeland Security, and in consultation with the Administrator of the National Aeronautics and Space Administration, the Secretary of Energy, the Director of the National Science Foundation, any appropriate Federal advisory committees, and such other technical experts as the Under Secretary considers appropriate, shall develop a program to use artificial intelligence to analyze available observational data and synthetic data on the built and natural environments in order to carry out the following:
+
+
+(1) Warn at-risk communities, firefighters, and other responders, including by integrating social science informed research and development.
+
+
+(2) Predict and detect wildfires to the maximum extent practicable.
+
+
+(3) Forecast wildland and built environment fire propagation and potential impacts based on an analysis of the elements influencing fire behavior, weather conditions, terrain, and observations of the fire environment.
+
+
+(4) Detect, monitor, and forecast smoke and other hazards associated with wildfires.
+
+
+(b) Training dataset.—In carrying out this section, the Under Secretary may acquire observational data and synthetic data on the built and natural environments collected across the United States to develop and curate a related artificial intelligence-ready training dataset for purposes of training the artificial intelligence used in furtherance of this section.
+
+
+(c) Data acquisition.—In carrying out this section, the Under Secretary may enter into contracts to acquire relevant data referred to in this section.
+
+
+(d) Weather integration.—In carrying out this section, the Under Secretary shall integrate outputs from weather and other environmental models and observational data and synthetic data referred to in subsection (a).
+
+
+(e) Environmental impact.—The Under Secretary shall develop and disseminate best practices to minimize environmental impacts from the use of artificial intelligence to carry out this section.
+
+
+SEC. 7. Partnerships for transformational innovation.
+(a) In general.—The Under Secretary shall explore novel structures for partnerships with private entities and academic entities for transformative innovation in weather forecasting and other environmental forecasts in order to carry out the following:
+
+
+(1) Further the understanding of weather, water, wildfires, and space weather, and associated societal impact.
+
+
+(2) Advance the science of weather and water forecasting, including seasonal and subseasonal forecasting.
+
+
+(3) Develop, evaluate, and transition artificial intelligence weather, water, and hazard forecasting applications for operations.
+
+
+(b) Co-Investment.—In carrying out this section, subject to applicable law, the Under Secretary shall consider and adopt novel co-investment strategies with the private sector and academic sector, including the following:
+
+
+(1) Non-Federal Government contributions to resource and support high-risk, high-return research and development in environmental forecasting, data science, artificial intelligence, and related fields.
+
+
+(2) Shared rights to intellectual property from research and development activities under this section.
+
+
+(3) Other approaches to sharing resources and results under this section.
+
+
+SEC. 8. Federal Government workforce expertise.
+(a) In general.—The Under Secretary, to the maximum extent practicable, shall develop, recruit, and sustain a professional workforce for weather forecasting applications of artificial intelligence.
+
+
+(b) Collaboration.—The Under Secretary shall leverage robust public-private partnership models to collaborate with private sector experts and provide employees with access to training, experience, and long-term development of workforce and infrastructure in order to utilize artificial intelligence to improve weather forecasts.
+
+
+SEC. 9. Data access.
+(a) In general.—The Under Secretary may make available to the public, as the Under Secretary determines appropriate, at no cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license, any data or code developed under this Act.
+
+
+(b) Accommodations.—The Under Secretary may make such accommodations as the Under Secretary considers appropriate to ensure that the public release of any model, information, documentation, or data pursuant to this Act does not jeopardize any of the following:
+
+
+(1) National security.
+
+
+(2) Intellectual property or redistribution rights, including under titles 17 and 35, United States Code.
+
+
+(3) Any trade secret or commercial or financial information subject to section 552(b)(4) of title 5, United States Code.
+
+
+(4) Any models or data that are otherwise restricted by contract or other written agreement.
+
+
+(5) The mission of the National Oceanic and Atmospheric Administration to protect lives and property.
+
+
+(c) Rule of construction.—Nothing in this Act may be construed to supersede any other provision of law governing the protection of the national security interests of the United States.

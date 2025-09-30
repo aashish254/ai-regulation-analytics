@@ -1,0 +1,30 @@
+SEC. 861. STRATEGY FOR INCREASING COMPETITIVE OPPORTUNITIES FOR CERTAIN CRITICAL TECHNOLOGIES.
+
+(a) Strategy.--Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a comprehensive strategy to--
+	(1) increase competitive opportunities available for appropriate United States companies to transition critical technologies into major weapon systems and other programs of record; and
+	(2) enhance the integrity and diversity of the defense industrial base.
+(b) Elements.--The strategy required under subsection (a) shall include the following:
+	(1) A description of methods to increase opportunities for appropriate United States companies to develop end items of critical technologies for major weapon systems, rapidly prototype such end items, and conduct activities that would support the transition of such end items into major weapon systems and programs of record, including--
+		(A) continuous experimentation or military utility assessments to improve such end items;
+		(B) evaluation of how to integrate existing commercial capabilities relating to such end items of appropriate United States companies or entities in the defense industrial base into major weapon systems and programs of record in the Department of Defense;
+		(C) efforts that improve the ability of appropriate United States companies or entities in the defense industrial base to maintain, afford, or manufacture major weapon systems or components for such systems; and
+		(D) development of alternative supply sources for components of a major weapon system to ensure the availability of component parts and to support supply chain diversity.
+	(2) Processes to improve coordination by the military departments and other elements of the Department of Defense to carry out the strategy required by this section.
+(c) Definitions.--In this section:
+	(1) The term ``appropriate United States company'' means--
+		(A) a nontraditional defense contractor, as defined in section 3014 of title 10, United States Code; or(B) a prime contractor that has entered into a cooperative agreement with a nontraditional defense contractor with the express intent to pursue funding authorized by sections 4021 and 4022 of title 10, United States Code, in the development, testing, or prototyping of critical technologies.
+	(2) The term ``major weapon system'' has the meaning given in section 3455 of title 10, United States Code.
+	(3) The term ``critical technology'' means a technology identified as critical by the Secretary of Defense, which shall include the following:
+		(A) Biotechnology.
+		(B) Quantum science technology.
+		(C) Advanced materials.
+		(D) Artificial intelligence and machine learning.
+		(E) Microelectronics.
+		(F) Space technology.
+		(G) Advanced computing and software.
+		(H) Hypersonics.
+		(I) Integrated sensing and cybersecurity.
+		(J) Autonomous systems.
+		(K) Unmanned systems.
+		(L) Advanced sensing systems.
+		(M) Advanced communications systems.

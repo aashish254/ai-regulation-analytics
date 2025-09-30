@@ -1,0 +1,160 @@
+The people of the State of California do enact as follows:
+
+
+SECTION 1. Section 35 of the Code of Civil Procedure, as amended by Section 1 of Chapter 343 of the Statutes of 2023, is amended to read:
+
+
+35. (a) Proceedings in cases involving the registration or denial of registration of voters, the certification or denial of certification of candidates, the certification or denial of certification of ballot measures, election contests, actions under Section 20010 or 20012 of the Elections Code, and actions under Chapter 2 (commencing with Section 21100) of Division 21 of the Elections Code shall be placed on the calendar in the order of their date of filing and shall be given precedence.
+
+
+(b) This section shall remain in effect only until January 1, 2027, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2027, deletes or extends that date.
+
+
+SEC. 1.5. Section 35 of the Code of Civil Procedure, as amended by Section 1 of Chapter 343 of the Statutes of 2023, is amended to read:
+
+
+35. (a) Proceedings in cases involving the registration or denial of registration of voters, the certification or denial of certification of candidates, the certification or denial of certification of ballot measures, election contests, actions under Section 20010 or 20012 of the Elections Code, actions under Chapter 7 (commencing with Section 20510) of Division 20 of the Elections Code, and actions under Chapter 2 (commencing with Section 21100) of Division 21 of the Elections Code shall be placed on the calendar in the order of their date of filing and shall be given precedence.
+
+
+(b) This section shall remain in effect only until January 1, 2027, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2027, deletes or extends that date.
+
+
+SEC. 2. Section 35 of the Code of Civil Procedure, as amended by Section 2 of Chapter 343 of the Statutes of 2023, is amended to read:
+
+
+35. (a) Proceedings in cases involving the registration or denial of registration of voters, the certification or denial of certification of candidates, the certification or denial of certification of ballot measures, election contests, actions under Section 20012 of the Elections Code, and actions under Chapter 2 (commencing with Section 21100) of Division 21 of the Elections Code shall be placed on the calendar in the order of their date of filing and shall be given precedence.
+
+
+(b) This section shall become operative January 1, 2027.
+
+
+SEC. 2.5. Section 35 of the Code of Civil Procedure, as amended by Section 2 of Chapter 343 of the Statutes of 2023, is amended to read:
+
+
+35. (a) Proceedings in cases involving the registration or denial of registration of voters, the certification or denial of certification of candidates, the certification or denial of certification of ballot measures, election contests, actions under Section 20012 of the Elections Code, actions under Chapter 7 (commencing with Section 20510) of Division 20 of the Elections Code, and actions under Chapter 2 (commencing with Section 21100) of Division 21 of the Elections Code shall be placed on the calendar in the order of their date of filing and shall be given precedence.
+
+
+(b) This section shall become operative January 1, 2027.
+
+
+SEC. 3. Section 20012 is added to the Elections Code, to read:
+
+
+20012. (a) The Legislature finds and declares as follows:
+(1) California is entering its first-ever artificial intelligence (AI) election, in which disinformation powered by generative AI will pollute our information ecosystems like never before. Voters will not know what images, audio, or video they can trust.
+(2) In a few clicks, using current technology, bad actors now have the power to create a false image of a candidate accepting a bribe, or a fake video of an elections official “caught on tape” saying that voting machines are not secure, or generate an artificial robocall in the Governor’s voice telling millions of Californians their voting site has changed.
+(3) In the lead-up to the 2024 presidential elections, candidates and parties are already creating and distributing deepfake images and audio and video content. These fake images or files can skew election results, even if they use older methods of distribution, such as mail, television, telephone, and text, and undermine trust in the ballot counting process.
+(4) In order to ensure California elections are free and fair, California must, for a limited time before and after elections, prevent the use of deepfakes and disinformation meant to prevent voters from voting and deceive voters based on fraudulent content. The provisions of this bill are narrowly tailored to advance California’s compelling interest in protecting free and fair elections.
+(5) The labeling information required by this bill is narrowly tailored to provide consumers with factual information about the inauthenticity of particular images, audio, video, or text content in order to prevent consumer deception.
+
+
+(b) (1) A person, committee, or other entity shall not, during the time period set forth in subdivision (c), with malice, knowingly distribute an advertisement or other election communication containing materially deceptive content of any of the following:
+(A) A candidate for any federal, state, or local elected office in California portrayed as doing or saying something that the candidate did not do or say if the content is reasonably likely to harm the reputation or electoral prospects of a candidate.
+(i) For purposes of subparagraph (A), “candidate for any federal, state, or local elected office” includes any person running for the office of President of the United States or Vice President of the United States who seeks to or will appear on a ballot issued in California.
+(B) An elections official portrayed as doing or saying something in connection with an election in California that the elections official did not do or say if the content is reasonably likely to falsely undermine confidence in the outcome of one or more election contests.
+(C) An elected official portrayed as doing or saying something in connection with an election in California that the elected official did not do or say if the content is reasonably likely to harm the reputation or electoral prospects of a candidate or is reasonably likely to falsely undermine confidence in the outcome of one or more election contests.
+(D) A voting machine, ballot, voting site, or other property or equipment related to an election in California portrayed in a materially false way if the content is reasonably likely to falsely undermine confidence in the outcome of one or more election contests.
+
+
+(2) Notwithstanding subparagraph (A) of paragraph (1), this section does not apply to a candidate portraying themself as doing or saying something that the candidate did not do or say if the content includes a disclosure stating “This ____ has been manipulated.” and complies with the following requirements:
+(A) The blank in the disclosure required by paragraph (2) shall be filled with whichever of the following terms most accurately describes the media:
+(i) Image.
+(ii) Audio.
+(iii) Video.
+(B) (i) For visual media, the text of the disclosure shall appear in a size that is easily readable by the average viewer and no smaller than the largest font size of other text appearing in the visual media. If the visual media does not include any other text, the disclosure shall appear in a size that is easily readable by the average viewer. For visual media that is video, the disclosure shall appear for the duration of the video.
+(ii) If the media consists of audio only, the disclosure shall be read in a clearly spoken manner and in a pitch that can be easily heard by the average listener, at the beginning of the audio, at the end of the audio, and, if the audio is greater than two minutes in length, interspersed within the audio at intervals of not greater than two minutes each.
+
+
+(3) Notwithstanding paragraph (1), this section does not apply to an advertisement or other election communication containing materially deceptive content that constitutes satire or parody if the communication includes a disclosure stating “This ____ has been manipulated for purposes of satire or parody.” The disclosure shall comply with the requirements set forth in subparagraphs (A) and (B) of paragraph (2).
+
+
+(4) (A) A person, committee, or other entity shall not, during the time period set forth in subdivision (c), do either of the following:
+(i) Remove any disclosure required by paragraph (2) or (3).
+(ii) Knowingly republish any content subject to paragraph (2) or (3) without the required disclosure.
+(B) A violation of subparagraph (A) is evidence of intent to knowingly distribute an advertisement or other election communication containing materially deceptive content, as prohibited by paragraph (1).
+
+
+(c) The prohibition in subdivision (b) applies only during the following time periods:
+(1) One hundred twenty days before any election in California.
+(2) For people and items set forth in subparagraphs (B) and (D) of paragraph (1) of subdivision (b), 120 days before any election in California through 60 days after the election, inclusive.
+
+
+(d) (1) A recipient of materially deceptive content distributed in violation of this section, candidate or committee participating in the election, or elections official may seek injunctive or other equitable relief prohibiting the distribution of the materially deceptive content in violation of this section. The court shall also award a prevailing plaintiff reasonable attorney’s fees and costs. An action under this paragraph shall be entitled to precedence in accordance with Section 35 of the Code of Civil Procedure.
+
+
+(2) (A) A recipient of materially deceptive content distributed in violation of this section, candidate or committee participating in the election, or elections official may bring an action for general or special damages against the person, committee, or other entity that distributed or republished the materially deceptive content in violation of this section. The court shall also award a prevailing party reasonable attorney’s fees and costs. This subdivision shall not be construed to limit or preclude a plaintiff from securing or recovering any other available remedy at law or equity.
+(B) This paragraph does not apply to a broadcasting station or internet website that distributed the materially deceptive content if the broadcasting station or internet website did not create the content.
+
+
+(3) In any civil action alleging a violation of this section, the plaintiff shall bear the burden of establishing the violation through clear and convincing evidence.
+
+
+(e) (1) This section does not apply to a broadcasting station that broadcasts any materially deceptive content prohibited by this section as part of a bona fide newscast, news interview, news documentary, commentary of general interest, or on-the-spot coverage of bona fide news events, if the broadcast clearly acknowledges through content or a disclosure, in a manner that can be easily heard or read by the average listener or viewer, that the materially deceptive content does not accurately represent any actual event, occurrence, appearance, speech, or expressive conduct.
+
+
+(2) This section does not apply to a broadcasting station when it is paid to broadcast materially deceptive content and either of the following circumstances exist:
+(A) The broadcasting station can show that it has prohibition and disclaimer requirements that are consistent with the requirements in this section and that it has provided those prohibition and disclaimer requirements to each person or entity that purchased the advertisement.
+(B) Federal law requires the broadcasting station to air advertisements from legally qualified candidates or prohibits the broadcasting station from censoring or altering the message.
+
+
+(3) This section does not apply to a regularly published newspaper, magazine, or other periodical of general circulation, including an internet or electronic publication, that routinely carries news and commentary of general interest, and that publishes any materially deceptive content prohibited by this section, if the publication clearly states that the materially deceptive content does not accurately represent any actual event, occurrence, appearance, speech, or expressive conduct.
+
+
+(4) This section does not impose liability on an interactive computer service, as defined in Section 230(f)(2) of Title 47 of the United States Code.
+
+
+(f) For purposes of this section, the following definitions apply:
+
+
+(1) “Advertisement” means any general or public communication that is authorized or paid for the purpose of supporting or opposing a candidate for elective office in California or a ballot measure that appears on a ballot issued in California and that is broadcast by or through television, radio, telephone, or text, distributed through the internet, or disseminated by print media, including billboards, video billboards or screens, and other similar types of advertising.
+
+
+(2) “Broadcasting station” means a radio or television broadcasting station, including any of the following:
+(i) Cable operator, programmer, or producer.
+(ii) Streaming service operator, programmer, or producer.
+(iii) Direct-to-home satellite television operator, programmer, or producer.
+
+
+(3) “Committee” means a committee as defined in Section 82013 of the Government Code.
+
+
+(4) “Deepfake” means audio or visual media that is digitally created or modified such that it would falsely appear to a reasonable person to be an authentic record of the actual speech or conduct of the individual depicted in the media.
+
+
+(5) “Election communication” means any general or public communication not covered under “advertisement” that is broadcast by or through television, radio, telephone, or text, distributed through the internet, or disseminated by print media, including billboards, video billboards or screens, and other similar types of communications, that concerns any of the following:
+(A) A candidate for office or ballot measure.
+(B) Voting or refraining from voting in an election.
+(C) The canvass of the vote.
+
+
+(6) “Elections official” means any of the following persons, but only in their capacity as a person charged with holding or conducting an election, conducting a canvass, assisting with the holding or conducting of an election or a canvass, or performing another duty related to administering the provisions of the Elections Code:
+(i) An elections official as defined in Section 320.
+(ii) The Secretary of State and their staff.
+(iii) A temporary worker, poll worker, or member of a precinct board.
+(iv) Any other person charged with holding or conducting an election, conducting a canvass, assisting with the holding or conducting of an election or a canvass, or performing another duty related to administering the provisions of the Elections Code.
+
+
+(7) “Malice” means the person, committee, or other entity distributed the audio or visual media knowing the materially deceptive content was false or with a reckless disregard for the truth.
+
+
+(8) (A) “Materially deceptive content” means audio or visual media that is intentionally digitally created or modified, which includes, but is not limited to, deepfakes, such that the content would falsely appear to a reasonable person to be an authentic record of the content depicted in the media.
+(B) “Materially deceptive content” does not include any audio or visual media that contains only minor modifications that do not significantly change the perceived contents or meaning of the content. Minor changes include changes to brightness or contrast of images, removal of background noise in audio, and other minor changes that do not impact the content of the audio or visual media.
+
+
+(9) “Recipient” includes a person who views, hears, or otherwise perceives an image or audio or video file that was initially distributed in violation of this section.
+
+
+(g) The provisions of this section apply regardless of the language used in the advertisement or solicitation. If the language used is not English, the disclosure required by paragraph (2) of subdivision (b) shall appear in the language used in the advertisement or solicitation.
+
+
+(h) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+
+SEC. 4. Section 1.5 of this bill incorporates amendments to Section 35 of the Code of Civil Procedure proposed by both this bill and Assembly Bill 2655. That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2025, but this bill becomes operative first, (2) each bill amends Section 35 of the Code of Civil Procedure, as amended by Section 1 of Chapter 343 of the Statutes of 2023, and (3) this bill is enacted after Assembly Bill 2655, in which case Section 35 of the Code of Civil Procedure, as amended by Section 1 of this bill, shall remain operative only until the operative date of Assembly Bill 2655, at which time Section 1.5 of this bill shall become operative.
+
+
+SEC. 5. Section 2.5 of this bill incorporates amendments to Section 35 of the Code of Civil Procedure proposed by both this bill and Assembly Bill 2655. That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2025, but this bill becomes operative first, (2) each bill amends Section 35 of the Code of Civil Procedure, as amended by Section 2 of Chapter 343 of the Statutes of 2023, and (3) this bill is enacted after Assembly Bill 2655, in which case Section 35 of the Code of Civil Procedure, as amended by Section 2 of this bill, shall remain operative only until the operative date of Assembly Bill 2655, at which time Section 2.5 of this bill shall become operative.
+
+
+SEC. 6. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the California Constitution and shall go into immediate effect. The facts constituting the necessity are:
+California is approaching its first election influenced by artificial intelligence (“AI”), where disinformation generated by AI can distort voter awareness and perception of candidates, elections officials, elected officials, and voting apparatuses. In the lead-up to the 2024 presidential election, candidates and bad actors are already creating and distributing deepfake images and audio and video content. In order to implement the provisions of this act and safeguard the upcoming November 5, 2024, general election against disinformation propagated by AI and deepfake media, it is necessary for this act to take effect immediately.

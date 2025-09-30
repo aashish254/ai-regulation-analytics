@@ -1,0 +1,195 @@
+AN ACT RELATING TO ELECTIONS; AMENDING AND ENACTING SECTIONS OF THE CAMPAIGN REPORTING ACT BY ADDING DISCLAIMER REQUIREMENTS FOR ADVERTISEMENTS CONTAINING MATERIALLY DECEPTIVE MEDIA; CREATING THE CRIME OF DISTRIBUTING OR ENTERING INTO AN AGREEMENT WITH ANOTHER PERSON TO DISTRIBUTE MATERIALLY DECEPTIVE MEDIA; ADDING DEFINITIONS; PROVIDING PENALTIES.
+
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+
+
+SECTION 1. Section 1-19-26 NMSA 1978 (being Laws 1979, Chapter 360, Section 2, as amended) is amended to read:
+"1-19-26. DEFINITIONS.--As used in the Campaign Reporting Act:
+
+
+A. "advertisement" means a communication referring to a candidate or ballot question that is published, disseminated, distributed or displayed to the public by print, broadcast, satellite, cable or electronic media, including recorded phone messages, or by printed materials, including mailers, handbills, signs and billboards, but "advertisement" does not include:
+(1) a communication by a membership organization or corporation to its current members, stockholders or executive or administrative personnel;
+(2) a communication appearing in a news story or editorial distributed through a print, broadcast,satellite, cable or electronic medium; 
+(3) a candidate debate or forum or a communication announcing a candidate debate or forum paid for on behalf of the debate or forum sponsor; provided that two or more candidates for the same position have been invited to participate or, in the case of an uncontested election, that the single candidate for the position has been invited to participate; 
+(4) nonpartisan voter guides allowed by the federal Internal Revenue Code of 1986, as amended, for Section 501(c)(3) organizations; or 
+(5) statements made to a court or administrative board in the course of a formal judicial or administrative proceeding; 
+
+
+B. "anonymous contribution" means a contribution the contributor of which is unknown to the candidate or the candidate's agent or the political committee or its agent who accepts the contribution; 
+
+
+C. "artificial intelligence" means a machine-based or computer-based system that through hardware or software uses input data to emulate the structure and characteristics of input data in order to generate synthetic content, including images, video or audio; 
+
+
+D. "ballot question" means a constitutional amendment or other question submitted to the voters in an election; 
+
+
+E. "bank account" means an account in a financial institution regulated by the United States or a state of the United States; 
+
+
+F. "campaign committee" means an association of two or more persons authorized by a candidate to act on the candidate's behalf for the purpose of electing the candidate to office; provided that a candidate shall not authorize more than one campaign committee; 
+
+
+G. "campaign expenditure" means an expenditure that is made by a campaign committee or by a candidate in support of the candidate's campaign in an election; 
+
+
+H. "candidate" means an individual who seeks or considers an office in an election covered by the Campaign Reporting Act, including a public official, who has filed a declaration of candidacy and has not subsequently filed a statement of withdrawal or: 
+(1) for a nonstatewide office, has received contributions or made expenditures of more than one thousand dollars ($1,000) or authorized another person or campaign committee to receive contributions or make expenditures of more than one thousand dollars ($1,000) for the purpose of seeking election to the office; or 
+(2) for a statewide office, has received contributions or made expenditures of more than three thousand dollars ($3,000) or authorized another person or campaign committee to receive contributions or make expenditures of more than three thousand dollars ($3,000) for the purpose of seeking election to the office or for candidacy exploration purposes in the years prior to the year of the election; 
+
+
+I. "contribution": 
+(1) means a gift, subscription, loan, advance or deposit of money or other thing of value, including the estimated value of an in-kind contribution, that is made or received for a political purpose, including payment of a debt incurred in an election campaign; 
+(2) includes a coordinated expenditure; 
+(3) does not include the value of services provided without compensation or unreimbursed travel or other personal expenses of individuals who volunteer a portion or all of their time on behalf of a candidate or political committee nor does it include the administrative or solicitation expenses of a political committee that are paid by an organization that sponsors the committee; 
+and (4) does not include the value of the incidental use of the candidate's personal property, home or business office for campaign purposes; 
+
+
+J. "coordinated expenditure" means an expenditure that is made: 
+(1) by a person other than a candidate or campaign committee; 
+(2) at the request or suggestion of, or in cooperation, consultation or concert with, a candidate, campaign committee or political party or any agent or representative of a candidate, campaign committee or political party; and 
+(3) for the purpose of: 
+(a) supporting or opposing the nomination or election of a candidate; 
+or (b) paying for an advertisement that refers to a clearly identified candidate and is published and disseminated to the relevant electorate in New Mexico within thirty days before the primary election or sixty days before the general election in which the candidate is on the ballot; 
+
+
+K. "deliver" or "delivery" means to deliver by certified or registered mail, telecopier, electronic transmission or facsimile or by personal service; 
+
+
+L. "depicted individual" means an individual whose image, photo, likeness or voice is represented in an advertisement or other media in such a manner that results in the individual being identifiable; 
+
+
+M. "distribution platform" means a website, internet forum or message board, application or a published newspaper, magazine or other periodical of general circulation, including an internet or electronic publication, that carries news and commentary; 
+
+
+N. "election" means any primary, general or statewide special election in New Mexico and includes county and judicial retention elections but excludes federal, municipal, school board and special district elections; 
+
+
+O. "election year" means an even-numbered year in which an election covered by the Campaign Reporting Act is held; 
+
+
+P. "expenditure" means a payment, transfer or distribution or obligation or promise to pay, transfer or distribute any money or other thing of value for a political purpose, including payment of a debt incurred in an election campaign or pre-primary convention; 
+
+
+Q. "independent expenditure" means an expenditure that is: 
+(1) made by a person other than a candidate or campaign committee; 
+(2) not a coordinated expenditure as defined in the Campaign Reporting Act; and 
+(3) made to pay for an advertisement that: 
+(a) expressly advocates the election or defeat of a clearly identified candidate or the passage or defeat of a clearly identified ballot question; 
+(b) is susceptible to no other reasonable interpretation than as an appeal to vote for or against a clearly identified candidate or ballot question; or 
+(c) refers to a clearly identified candidate or ballot question and is published and disseminated to the relevant electorate in New Mexico within thirty days before the primary election or sixty days before the general election at which the candidate or ballot question is on the ballot; 
+
+
+R. "legislative caucus committee" means a political committee established by the members of a political party in a chamber of the legislature; 
+
+
+S. "materially deceptive media" means an image, video or audio that: 
+(1) depicts an individual engaged in conduct or speech in which the depicted individual did not engage; 
+(2) was published, disseminated, distributed or displayed to the public without the consent of the depicted individual; and 
+(3) was produced in whole or in part by using artificial intelligence; 
+
+
+T. "person" means an individual or entity; 
+
+
+U. "political committee" means: 
+(1) a political party; 
+(2) a legislative caucus committee; 
+(3) an association that consists of two or more persons whose primary purpose is to make contributions to candidates, campaign committees or political committees or make coordinated expenditures or any combination thereof; or 
+(4) an association that consists of two or more persons whose primary purpose is to make independent expenditures and that has received more than five thousand dollars ($5,000) in contributions or made independent expenditures of more than five thousand dollars ($5,000) in the election cycle; 
+
+
+V. "political party" means an association that has qualified as a political party pursuant to the provisions of Section 1-7-2 NMSA 1978; 
+
+
+W. "political purpose" means for the purpose of supporting or opposing a ballot question or the nomination or election of a candidate; 
+
+
+X. "prescribed form" means a form or electronic format prepared and prescribed by the secretary of state; 
+
+
+Y. "public official" means a person elected to an office in an election covered by the Campaign Reporting Act or a person appointed to an office that is subject to an election covered by that act; and 
+
+
+Z. "reporting individual" means a public official, candidate or treasurer of a campaign committee or a treasurer of a political committee." 
+
+
+SECTION 2. Section 1-19-26.4 NMSA 1978 (being Laws 2019, Chapter 262, Section 2) is amended to read: 
+"1-19-26.4. DISCLAIMERS IN ADVERTISEMENTS--ARTIFICIAL INTELLIGENCE--MATERIALLY DECEPTIVE MEDIA--VIOLATION-- PENALTY.-- 
+
+
+A. A person who makes a campaign expenditure, a coordinated expenditure or an independent expenditure for an advertisement in an amount that exceeds one thousand dollars ($1,000), or in an amount that, when added to the aggregate amount of the campaign expenditures, coordinated expenditures and independent expenditures for advertisements made by the same person during the election cycle, exceeds one thousand dollars ($1,000), shall ensure that the advertisement contains the name of the candidate, committee or other person who authorized and paid for the advertisement. 
+
+
+B. The requirements of Subsection A of this section do not apply to the following: 
+(1) bumper stickers, pins, buttons, pens and similar small items upon which the disclaimer cannot be conveniently printed; or 
+(2) skywriting, water towers, wearing apparel or other means of displaying an advertisement of such a nature that the inclusion of a disclaimer would be impracticable. 
+
+
+C. The disclaimer statements required by Subsection A of this section shall be set forth legibly on any advertisement that is disseminated or displayed by visual media. If the advertisement is transmitted by audio media, the statement shall be clearly spoken during the advertisement. If the advertisement is transmitted by audiovisual media, the statement shall be both written legibly and spoken clearly during the advertisement. 
+
+
+D. If a person creates, produces or purchases an advertisement that contains materially deceptive media, the advertisement shall include a disclaimer. The disclaimer shall appear in a clear and conspicuous manner in every language used in the advertisement and shall indicate: "This ____ has been manipulated or generated by artificial intelligence". The blank line in the disclaimer shall be filled with each of the following terms that describes the media: 
+(1) image; 
+(2) video; or 
+(3) audio. 
+
+
+E. The disclaimer required in Subsection D of this section shall be included as follows: 
+(1) for visual media that is an image, the text of the disclaimer shall appear in a size that is easily readable; 
+(2) for visual media that is video, the disclaimer shall appear for the duration of the video in a size that is easily readable; 
+(3) for media that contains audio only, the disclaimer shall be read in a clearly spoken manner and in a pitch that can be easily heard at the beginning of the audio, at the end of the audio and, if the audio is greater than two minutes in length, interspersed within the audio at intervals of not greater than two minutes each; and 
+(4) for mixed media, there shall be a disclaimer in the same form as provided in this section for each form of media used. 
+
+
+F. Each occurrence of a person creating, producing or purchasing an advertisement subject to the disclaimer requirements as provided in Subsection D of this section that fails to meet the disclaimer requirements constitutes a separate violation. A person found to have violated the requirements provided in Subsection D of this section shall be subject to civil penalties as provided in Section 1-19-34.6 NMSA 1978. 
+
+
+G. It is not a violation of this section for: 
+(1) a radio or television broadcasting station, including a cable television, satellite television or streaming service operator, programmer or producer, that broadcasts an advertisement as part of a bona fide newscast, news interview, news documentary or on-the-spot coverage of a bona fide news event if the broadcast clearly acknowledges through content or a disclaimer, in a manner that can be easily read or heard, that the advertisement was generated in whole or in part by using artificial intelligence and does not accurately represent the speech or conduct of the depicted individual; 
+(2) a radio or television broadcasting station, including a cable television, satellite television or streaming service operator, programmer or producer, that broadcasts an advertisement when the station or streaming service is paid to broadcast the advertisement if the station or streaming service can show that it has disclaimer requirements that are consistent with the requirements provided in Subsection D of this section and that it provided those disclaimer requirements to each person or entity that purchased the broadcast or streaming of the advertisement; 
+(3) an advertisement that reasonably constitutes satire or parody if the advertisement includes a disclaimer consistent with the requirements provided in Subsection D of this section; and 
+(4) a distribution platform that published, posted or distributed an advertisement or a prerecorded phone message if the distribution platform can show that it has disclaimer requirements that are consistent with the requirements provided in Subsection D of this section and that it provided those disclaimer requirements to the person or entity that purchased the distribution of the advertisement or prerecorded phone message by or on the distribution platform. 
+
+
+H. Nothing in this section shall be construed to preclude a claim pursuant to any other section of law or any civil action for damages." 
+
+
+SECTION 3. A new section of the Campaign Reporting Act, Section 1-19-26.8 NMSA 1978, is enacted to read: 
+"1-19-26.8. PROHIBITED USE OF MATERIALLY DECEPTIVE MEDIA--DISCLAIMERS REQUIRED--CRIME FOR VIOLATION-- EXCEPTIONS--ENFORCEMENT.-- 
+
+
+A. Except as otherwise provided in Subsections B through D of this section, it is a violation of the Campaign Reporting Act for a person to distribute or enter into an agreement with another person to distribute materially deceptive media. A person violates this subsection if that person distributes or enters into an agreement with another person to distribute materially deceptive media and: 
+(1) the person knows the materially deceptive media falsely represents a depicted individual; 
+(2) the distribution occurs within ninety days before an election; and 
+(3) the person intends the distribution to result in altering the voting behavior of electors in an election by misleading the electors into believing that the depicted individual engaged in the speech or conduct depicted, and the distribution is reasonably likely to cause that result. 
+
+
+B. The prohibition provided in Subsection A of this section does not apply to materially deceptive media if that media includes a disclaimer that appears in a clear and conspicuous manner in every language used in the media and indicates: "This ____ has been manipulated or generated by artificial intelligence". The blank line in the disclaimer shall be filled in with each of the following terms that describes the media: 
+(1) image; 
+(2) video; or 
+(3) audio. 
+
+
+C. The disclaimer required in Subsection B of this section shall be included as follows: 
+(1) for visual media that is an image, the text of the disclaimer shall appear in a size that is easily readable; 
+(2) for visual media that is video, the disclaimer shall appear for the duration of the video; 
+(3) for media that contains audio only, the disclaimer shall be read in a clearly spoken manner and in a pitch that can be easily heard at the beginning of the audio, at the end of the audio, and if the audio is greater than two minutes in length, interspersed within the audio at intervals of not greater than two minutes each; and 
+(4) for mixed media, there shall be a disclaimer in the same form as provided in this section for each form of media used. 
+
+
+D. A person found to have willfully and knowingly violated the prohibition provided in Subsection A of this section is guilty of a crime as follows: 
+(1) for a first conviction, a misdemeanor; and 
+(2) for a second conviction, a fourth degree felony. 
+
+
+E. Enforcement of the provisions of this section, including injunctive relief, against a person who violates this section may be sought in any court of competent jurisdiction by any of the following: 
+(1) the attorney general; 
+(2) a district attorney; 
+(3) a depicted individual who is falsely represented; 
+(4) a candidate for office who has been injured or is likely to be injured by the distribution of materially deceptive media; or 
+(5) any organization that represents the interests of voters who are likely to be misled by the distribution of materially deceptive media. 
+
+
+F. Nothing in this section shall be construed to preclude a claim pursuant to any other section of law or any civil action for damages."

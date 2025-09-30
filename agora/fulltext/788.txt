@@ -1,0 +1,149 @@
+ TITLE IV—NATIONAL SCIENCE FOUNDATION ACTIVITIES
+
+
+SEC. 401. NATIONAL SCIENCE FOUNDATION ACTIVITIES.
+
+
+(a) In General.—The Director of the National Science Foundation shall support research and STEM education and related activities in advanced air mobility and unmanned aircraft systems, components, and related technologies, including competitive awards or grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).
+
+ (b) Use Of Funds.—In carrying out the activities under subsection (a), the Director of the National Science Foundation shall—
+
+
+(1) support fundamental research on the underlying technologies for advanced air mobility and unmanned aircraft systems, components, and related technologies, which may include—
+
+
+(A) improving the safety and reliability of operation systems;
+
+
+(B) developing and improving autonomous control systems, including real-time control and autonomous decisionmaking;
+
+
+(C) incorporating the use of artificial intelligence into systems;
+
+
+(D) improving or developing materials for advanced air mobility and unmanned aircraft systems;
+
+
+(E) understanding safety and sustainability of advanced air mobility and unmanned aircraft systems as a part of a transportation system, including the impacts of advanced air mobility and unmanned aircraft systems on ground transportation;
+
+
+(F) developing and improving communications systems, including multivehicle coordination and task and path planning; and
+
+
+(G) understanding the human-drone interface;
+
+
+(2) support research and development of advanced air mobility and unmanned aircraft system enabled uses, which may include—
+
+
+(A) creating new sensing tools to improve understanding, prediction, and detection of severe weather and natural hazards, including wildfires;
+
+
+(B) enabling advanced air mobility;
+
+
+(C) monitoring and surveying infrastructure;
+
+
+(D) disaster reconnaissance, including the collection of data to model and simulate disasters and assist responders; and
+
+
+(E) improving the reliable use of advanced sensing systems in rural and agricultural settings;
+
+
+(3) support research on data modeling and validation of the use of advanced air mobility and unmanned aircraft systems;
+
+
+(4) support research and development on security, including the cybersecurity, of advanced air mobility systems and unmanned aerial aircraft systems;
+
+
+(5) support research on the ethical use of advanced air mobility and unmanned aircraft systems, including protection of individual privacy;
+
+
+(6) support middle school and high school level STEM education research and related activities related to advanced air mobility and unmanned aircraft systems and related technologies, which may include—
+
+
+(A) supporting curriculum development relating to advanced air mobility and unmanned aircraft system applications, including developing place-based learning curriculum, particularly for students in poor, rural, or Tribal communities;
+
+
+(B) utilizing advanced air mobility and unmanned aircraft systems technologies to advance the engagement of students, including students in poor, rural, or Tribal communities, in STEM through providing before school, after-school, out-of-school, or summer activities;
+
+
+(C) developing professional development resources for STEM educators in utilizing advanced air mobility and unmanned aircraft systems technologies and applications in their curriculum and classrooms, including through distance-delivered courses;
+
+
+(D) connecting relevant STEM curriculum to the design, construction and demonstration of advanced air mobility and unmanned aircraft systems; and
+
+
+(E) designing advanced air mobility and unmanned aircraft system related activities designed to help students make real-world connections to STEM content and educate students on the relevance and significance of STEM careers;
+
+
+(7) support undergraduate and graduate education and workforce development research and related activities related to advanced air mobility and unmanned aircraft systems and related technologies, which may include—
+
+
+(A) supporting curriculum development relating to advanced air mobility and unmanned aircraft systems applications and technologies;
+
+
+(B) supporting hands-on research opportunities at institutions of higher education, research institutions, including National Labs, and industry for undergraduate and graduate students relating to advanced air mobility and unmanned aircraft systems applications and technologies;
+
+
+(C) facilitating participation in collegiate level advanced air mobility and unmanned systems robotic competitions; and
+
+
+(D) ensuring that students pursuing master’s degrees and doctoral degrees in fields relating to advanced air mobility and unmanned aircraft systems are considered as applicants for scholarships and graduate fellowships under the Graduate Research Fellowship Program under section 10 of the National Science Foundation Act of 1950 (42 U.S.C. 1869);
+
+
+(8) support activities to develop a skilled technical workforce for supporting and operating advanced air mobility and unmanned aircraft systems, which may include establishing national centers focused on educating and training the skilled technical workforce in advanced air mobility and unmanned aircraft system applications and technologies through the Advanced Scientific and Technical Education Program as authorized by the Scientific and Advanced-Technology Act of 1992 (42 U.S.C. 1862i), including by—
+
+
+(A) expanding educational resources to address current workforce demands in advanced air mobility and unmanned aircraft system applications and technologies;
+
+
+(B) developing curriculum for community and technical colleges to train and upskill the skilled technical workforce in advanced air mobility and unmanned aircraft system applications and technologies;
+
+
+(C) engaging the skilled technical workforce community in STEM, advanced air mobility and unmanned aircraft system applications and technologies; and
+
+
+(D) in partnership with industry, employing activities to increase the visibility and utility of careers in advanced air mobility and unmanned aircraft applications and technologies;
+
+
+(9) engage veterans and departing members of the Armed Forces in activities specified in paragraphs (7) and (8);
+
+
+(10) support one or more Institutes as described in section 201(a) for the purpose of advancing the field of advanced air mobility and unmanned aircraft systems;
+
+
+(11) support prize competitions pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719);
+
+
+(12) establish a robust data management strategy that ensures digital access and machine-readability; that promotes findability, interoperability, analysis- and decision-readiness and reusability; and ensures applicable scientific data are managed for wide use by the Federal Government, State, local and Tribal governments, academia, and the public;
+
+
+(13) applies lessons learned from unmanned aircraft systems research, development, demonstration, and testing to advanced air mobility systems; and
+
+
+(14) any other activities the Director determines necessary to meet the goals specified in subsection (a).
+
+ (c) Public-Private Partnerships.—As part of the activities under subsection (a), the Director of the National Science Foundation shall support public-private partnerships to support domestic development of advanced air mobility and unmanned aircraft systems in the United States and address pre-competitive industry challenges.
+
+
+(d) Interagency Coordination.—In carrying out the program under this section, the Director of the National Science Foundation shall coordinate with the heads of other Federal departments and agencies to avoid duplication of research and other activities to ensure that the activities carried out under this section are complementary to those being undertaken by such other agencies.
+
+
+(e) Authorization Of Appropriations.—There are authorized to be appropriated to the National Science Foundation to carry out this section—
+
+
+(1) $50,000,000 for fiscal year 2024;
+
+
+(2) $52,500,000 for fiscal year 2025;
+
+
+(3) $55,125,000 for fiscal year 2026;
+
+
+(4) $57,881,775 for fiscal year 2027; and
+
+
+(5) $60,775,863 for fiscal year 2028.

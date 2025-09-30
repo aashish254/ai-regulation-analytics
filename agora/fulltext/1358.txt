@@ -1,0 +1,318 @@
+SEC. 4. Protection of covered sectors.
+
+The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended by adding at the end the following:
+
+
+“TITLE VIII—Protection of covered sectors
+“SEC. 801. Definitions.
+
+“In this title:
+
+“(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘appropriate congressional committees’ means—
+
+“(A) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Ways and Means, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+“(B) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
+
+“(2) COUNTRY OF CONCERN.—The term ‘country of concern’ includes—
+
+“(A) the Democratic People's Republic of North Korea;
+
+“(B) the People's Republic of China, including the Hong Kong Special Administrative Region and the Macau Special Administrative Region;
+
+“(C) the Russian Federation;
+
+“(D) the Islamic Republic of Iran; and
+
+“(E) any other country that the President has identified as engaging in a comprehensive, long-term strategy that directs, facilitates, or otherwise supports advancements in sensitive technologies and products that are critical to the military, intelligence, surveillance, or cyber-enabled capabilities of the country to counter United States capabilities in a way that threatens the national security of the United States; and
+
+“(F) any other country the President determines necessary to ensure a country described in any of subparagraphs (A) through (E) is unable to circumvent the provisions of this title and the regulations issued pursuant to this title.
+
+“(3) COVERED ACTIVITY.—
+
+“(A) IN GENERAL.—Subject to such regulations as may be prescribed in accordance with section 807, and except as provided in subparagraph (B), the term ‘covered activity’ means any activity engaged in by a United States person that involves—
+
+“(i) an acquisition by such United States person of an equity interest or contingent equity interest, or monetary capital contribution, in a covered foreign entity, directly or indirectly, by contractual commitment or otherwise;
+
+“(ii) an arrangement for an interest held by such United States person in the short- or long-term debt obligations of a covered foreign entity that includes governance rights that are characteristic of an equity investment, management, or other important rights;
+
+“(iii) the establishment of a wholly owned subsidiary in a country of concern, such as a greenfield investment, for the purpose of production, design, testing, manufacturing, fabrication, or development related to one or more covered sectors;
+
+“(iv) the establishment by such United States person of a joint venture in a country of concern or with a covered foreign entity for the purpose of production, design, testing, manufacturing, fabrication, or research, or other contractual or other commitments involving a covered foreign entity to jointly research and develop new innovation, including through the transfer of capital or intellectual property or other business proprietary information; or
+
+“(v) the acquisition by a United States person with a covered foreign entity of—
+
+“(I) operational cooperation, such as through supply or support arrangements;
+
+“(II) the right to board representation (as an observer, even if limited, or as a member) or an executive role (as may be defined through regulation) in a covered foreign entity;
+
+“(III) the ability to direct or influence such operational decisions as may be defined through such regulations;
+
+“(IV) formal governance representation in any operating affiliate, such as a portfolio company, of a covered foreign entity; or
+
+“(V) a new relationship to share or provide business services, such as financial services, marketing services, maintenance, or assembly functions; or
+
+“(vi) knowingly directing transactions by foreign persons that would constitute covered activity if engaged in by a United States person.
+
+“(B) EXCEPTIONS.—The term ‘covered activity’ does not include—
+
+“(i) any transaction the value of which the President determines is de minimis, as defined in regulations prescribed in accordance with section 807;
+
+“(ii) any category of transactions that the President determines is in the national interest of the United States, as may be defined in regulations prescribed in accordance with section 807;
+
+“(iii) an investment in—
+
+“(I) a publicly traded security (as such term is defined in section 3(a)(10) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(10)));
+
+“(II) an index fund, mutual fund, exchange-traded fund, or a similar instrument (including associated derivatives) offered by an investment company (as such term is defined in section 3(a)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(a)(1))), or by a private investment fund; or
+
+“(III) a venture capital fund, private equity fund, fund of funds, or other pooled investment funds, as the limited partner, in each case in which the limited partner's contribution is solely capital in a limited partnership structure and—
+
+“(aa) the limited partner cannot make managerial decisions, is not responsible for any debts beyond its investment, and does not have the ability (formally or informally) to influence or participate in the fund's or a covered foreign entity's decision making or operations; or
+
+“(bb) the investment is below a de minimis threshold to be determined by the President;
+
+“(iv) the acquisition of the equity or other interest owned or held by a covered foreign entity in an entity or assets located outside of a country of concern in which the United States person is acquiring all interests in the entity or assets held by covered foreign entity;
+
+“(v) an intracompany transfer of funds from a United States parent company to a subsidiary located in a country of concern, as specified in regulations prescribed in accordance with section 807;
+
+“(vi) a transaction made pursuant to a binding, uncalled capital commitment entered into before the date on which the regulations prescribed in accordance with section 807 take effect; or
+
+“(vii) any ordinary or administrative business transaction as may be defined in such regulations.
+
+“(4) COVERED FOREIGN ENTITY.—Subject to regulations prescribed in accordance with section 807, the term ‘covered foreign entity’ means the following:
+
+“(A) Any entity that is incorporated in, has a principal place of business in, or is organized under the laws of a country of concern.
+
+“(B) Any entity the equity securities of which are traded in the ordinary course of business on one or more exchanges in a country of concern.
+
+“(C) Any agency or instrumentality of the government of a country of concern.
+
+“(D) Any entity in which any entity described in subparagraph (A), (B), or (C) holds, individually or in the aggregate, directly or indirectly, an ownership interest of greater than 50 percent.
+
+“(E) Any other entity that is not a United States person and that meets such criteria as may be specified by the President in such regulations prescribed in accordance with section 807.
+
+“(5) COVERED SECTORS.—Subject to regulations prescribed in accordance with section 807, the term ‘covered sectors’ includes sectors within the following areas:
+
+“(A) Semiconductors and microelectronics.
+
+“(B) Artificial intelligence.
+
+“(C) Quantum information science and technology.
+
+“(D) Hypersonics.
+
+“(E) Satellite-based communications.
+
+“(F) Networked laser scanning systems with both military and civilian applications.
+
+“(6) LEAD AGENCY.—The term ‘lead agency’ means the Federal agency to which the President delegates, pursuant to section 802, the authorities provided under this title.
+
+“(7) PARTY.—The term ‘party’, with respect to an activity, has the meaning given that term in regulations prescribed in accordance with section 807.
+
+“(8) UNITED STATES PERSON.—The term ‘United States person’ means—
+
+“(A) an individual who is a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+“(B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including any foreign branch of such an entity.
+
+“SEC. 802. Delegation of authorities.
+
+“Except as provided by section 808, the President may delegate the authorities provided under this title to the head of any Federal agency the President determines appropriate in order to carry out the provisions of this title.
+
+“SEC. 803. Identification of categories of technologies and products in covered sectors that may pose threats to United States national security.
+
+“(a) In general.—Not later than one year after the date of the enactment of this title, the President shall—
+
+“(1) identify categories of technologies and products in covered sectors that may pose an acute threat to the national security of the United States if developed or acquired by a country of concern; and
+
+“(2) publish a list of the categories of technologies and products identified under paragraph (1) in the Federal Register.
+
+“(b) Annual updates.—Not later than one year after the publication of the initial list required by subsection (a)(2), the President shall—
+
+“(1) review the categories of technologies and products on that list; and
+
+“(2) publish an updated list of the categories of technologies and products in the Federal Register if the list has changed.
+
+“SEC. 804. Prohibition on covered activities.
+
+“(a) In general.—The President may, on or after the date on which the initial list of categories of technologies and products is published in the Federal Register under section 803(a), prescribe, subject to public notice and comment, regulations to prohibit a United States person from engaging, directly or indirectly, in a covered activity involving a category of technologies and products on the list.
+
+“(b) Elements.—Regulations prescribed under subsection (a) may—
+
+“(1) require that a United States person take all reasonable steps to prohibit and prevent any transaction by a foreign entity under the control of the United States person that would be a prohibited transaction if engaged in by a United States person; and
+
+“(2) exclude any transaction consisting of the acquisition of an equity or other interest in an entity located outside a country of concern, if the President has determined that the government of the country in which that entity is established or has its principal place of business has in place a program for the restriction of certain activities involving countries of concern that is comparable to the provisions provided for in this title, after consideration of other relevant factors.
+
+“SEC. 805. Mandatory notification of covered activities.
+
+“(a) Mandatory notification.—
+
+“(1) IN GENERAL.—Beginning on the date that is 90 days after the date on which the initial list of categories of technologies and products is published in the Federal Register under section 803(a), a United States person engaging in a covered activity described in paragraph (2), or that controls a foreign entity engaging in an activity that would be a covered activity described in paragraph (2) if engaged in by a United States person, shall submit to the President a complete written notification of the activity not later than 14 days after the completion date of the activity.
+
+“(2) COVERED ACTIVITIES DESCRIBED.—A covered activity described in this paragraph is a covered activity—
+
+“(A) involving a category of technologies and products on the list published under section 803; and
+
+“(B) that is not prohibited pursuant to section 804.
+
+“(3) CIRCULATION OF NOTIFICATION.—
+
+“(A) IN GENERAL.—The President shall, upon receipt of a notification under paragraph (1), promptly inspect the notification for completeness.
+
+“(B) INCOMPLETE NOTIFICATION.—If a notification submitted under paragraph (1) is incomplete, the President shall promptly inform the United States person that submits the notification that the notification is not complete and provide an explanation for relevant material with respect to which the notification is not complete.
+
+“(4) IDENTIFICATION OF NON-NOTIFIED ACTIVITY.—The President shall establish a process to identify a covered activity described in paragraph (2) for which—
+
+“(A) a notification is not submitted to the President under paragraph (1); and
+
+“(B) information is reasonably available.
+
+“(b) Confidentiality of information.—
+
+“(1) IN GENERAL.—Except as provided in paragraph (2), any information or documentary material filed with the President or the President’s designee pursuant to this section shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code, and no such information or documentary material may be made public.
+
+“(2) EXCEPTIONS.—Subject to appropriate confidentiality and classification requirements, the exemption from disclosure provided by paragraph (1) shall not prevent the disclosure of the following:
+
+“(A) Information relevant to any administrative or judicial action or proceeding.
+
+“(B) Information to Congress or any of the appropriate committees or subcommittees of Congress.
+
+“(C) Information important to national security analysis or actions of the President to any domestic governmental entity, or to any foreign governmental entity of an ally or partner of the United States, under the exclusive direction and authorization of the President or the President’s designee, only to the extent necessary for national security purposes, and subject to appropriate confidentiality and classification requirements.
+
+“(D) Information that the parties have consented to be disclosed to third parties.
+
+“(3) APPLICABILITY TO CONGRESS.—Members of Congress, and staff of either House of Congress or any committee of Congress, are subject to the limitations on disclosure of information and documentary material that are applicable under this subsection.
+
+“SEC. 806. Reporting requirements.
+
+“(a) In general.—Not later than one year after the date on which the regulations prescribed under section 807 take effect, and not less frequently than annually thereafter, the President shall submit to the appropriate congressional committees a report that—
+
+“(1) lists all notifications submitted under section 805 during the year preceding submission of the report, disaggregated by—
+
+“(A) sector;
+
+“(B) covered activity;
+
+“(C) covered foreign entity; and
+
+“(D) country of concern;
+
+“(2) includes an assessment of whether to amend the regulations, including whether to amend the definition of ‘covered sectors’ to enhance national security;
+
+“(3) provides additional context and information regarding trends in the sectors, the types of covered activity, and the countries involved in those notifications, including—
+
+“(A) the locations of the relevant covered foreign entities; and
+
+“(B) the countries in which the United States persons, or foreign entities controlled by a United States person, involved in relevant covered activities are located;
+
+“(4) includes an assessment of the effectiveness of measures imposed under this title, including actions taken by the President as a result of the insight gained from the information contained in notifications submitted under section 805; and
+
+“(5) makes recommendations for—
+
+“(A) expanding existing Federal programs to support the production or supply of technologies and products in covered sectors in the United States, including the potential of existing authorities to address any related national security concerns; and
+
+“(B) the continuation, expansion, or modification of the implementation and administration of this title.
+
+“(b) Form.—Each report required by this section shall be submitted in unclassified form, but may include a classified annex.
+
+“(c) Prohibition on disclosure.—Information contained in a report required by this section may be withheld from disclosure only to the extent otherwise permitted by statute, except that all information included pursuant to subsection (a)(1) shall be withheld from public disclosure.
+
+“SEC. 807. Requirement for regulations.
+
+“(a) In general.—Not later than 180 days after the date on which the initial list of categories of technologies and products is published in the Federal Register pursuant to section 803(a), the President shall prescribe regulations to carry out this title in accordance with subchapter II of chapter 5 and chapter 7 of title 5 (commonly known as the ‘Administrative Procedure Act’).
+
+“(b) Elements.—Regulations prescribed to carry out this title shall—
+
+“(1) specify the types of activities that will be considered to be covered activities, other than types of activities described in section 801(3);
+
+“(2) specify the technologies and products in covered sectors with respect to which covered activities are prohibited under section 804 or require a notification under section 805, other than covered sectors specified in section 801(5);
+
+“(3) provide for a process by which parties can ask questions and get timely guidance as to whether a covered activity is prohibited under section 804 or requires a notification under section 805; and
+
+“(4) clarify the terms used in this title, to maximize the effectiveness of this title.
+
+“(c) Public notice and comment.—Regulations issued pursuant to subsection (a) shall be subject to public notice and comment.
+
+“(d) Low-Burden regulations.—In prescribing regulations under this section, the President shall, to the extent practicable, structure the regulations—
+
+“(1) to minimize the cost and complexity of compliance for affected parties;
+
+“(2) to ensure the benefits of the regulations outweigh their costs;
+
+“(3) to adopt the least burdensome alternative that achieves regulatory objectives;
+
+“(4) to prioritize transparency and stakeholder involvement in the process of prescribing the regulations; and
+
+“(5) to provide for regular review and streamlining of regulations prescribed pursuant to this title to reduce redundancy and complexity.
+
+“SEC. 808. Multilateral engagement and coordination.
+
+“(a) In general.—The Secretary of State and the head of the lead agency, in coordination with the Secretary of Commerce, the United States Trade Representative, the Director of National Intelligence, and the heads of other relevant Federal agencies, as appropriate, should—
+
+“(1) conduct bilateral and multilateral engagement with the governments of countries that are allies and partners of the United States to promote and increase coordination of protocols and procedures to facilitate the effective implementation of, and appropriate compliance with, the prohibitions and notifications pursuant to this title;
+
+“(2) upon adoption of protocols and procedures described in paragraph (1), work with those governments to establish mechanisms for sharing information, including trends, with respect to such activities; and
+
+“(3) work with and encourage the governments of certain countries that are allies and partners of the United States to develop similar mechanisms of their own.
+
+“(b) Strategy for multilateral engagement and coordination.—Not later than 180 days after the date of the enactment of this title, the Secretary of State and the head of the lead agency, in coordination with the heads of other relevant Federal agencies, should—
+
+“(1) develop a strategy to work with the governments of countries that are allies and partners of the United States to develop mechanisms that are comparable to the prohibitions and notifications pursuant to this title; and
+
+“(2) assess opportunities to provide technical assistance to those countries with respect to the development of those mechanisms.
+
+“(c) Report.—Not later than one year after the date of the enactment of this title, and annually thereafter for 4 years, the Secretary of State shall submit to the appropriate congressional committees a report that includes—
+
+“(1) a discussion of any strategy developed pursuant to subsection (b)(1), including key tools and objectives for the development of comparable mechanisms by the governments of countries that are allies and partners of the United States;
+
+“(2) a list of countries that are allies and partners of the United States to target for cooperation in developing their own screening programs;
+
+“(3) the status of the implementation and outcomes of the strategy; and
+
+“(4) a description of impediments to the establishment of comparable mechanisms by governments of countries that are allies and partners of the United States.
+
+“SEC. 809. Authorization of appropriations.
+
+“There are authorized to be appropriated, for each of the first 2 fiscal years beginning on or after the date of the enactment of this title, such sums as may be necessary to carry out this title, including to provide outreach to industry and persons affected by this title. Such amounts shall be derived from amounts otherwise authorized to be appropriated to the President.
+
+“SEC. 810. Hiring authority.
+
+“(a) In general.—The head of lead agency may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, not more than 25 candidates directly to positions in the competitive service (as defined in section 2102 of that title) in that agency.
+
+“(b) Primary responsibility.—The primary responsibility of individuals in positions authorized under subsection (a) shall be to administer this title.
+
+“SEC. 811. Penalties and enforcement.
+
+“(a) Unlawful acts.—It shall be unlawful for a United States person to violate, attempt to violate, conspire to violate, or cause a violation of any license, order, regulation, or prohibition issued under this title.
+
+“(b) Civil penalties.—
+
+“(1) PENALTIES.—A civil penalty may be imposed on any person who commits an unlawful act described in subsection (a) in an amount not to exceed the greater of—
+
+“(A) $5,000,000; or
+
+“(B) an amount that is twice the amount of the covered activity that is the basis of the violation with respect to which the penalty is imposed.
+
+“(c) Criminal penalties.—A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, an unlawful act described in subsection (a) shall, upon conviction, be fined not more than $1,000,000, or if an individual, may be imprisoned for not more than 20 years, or both.
+
+“(d) Enforcement.—The Attorney General may seek appropriate relief, including a temporary or permanent injunction, restraining order, divestment relief, or other such other order as the Attorney General may determine to be proper, in the district courts of the United States in order to implement and enforce this title and any regulation thereunder.
+
+“SEC. 812. Rule of construction.
+
+“Nothing in this title may be construed to—
+
+“(1) restrain or deter United States activities abroad if such activities do not pose a risk to the national security of the United States; or
+
+“(2) alter or negate the authority of the President under any authority, process, regulation, investigation, enforcement measure, or review provided by or established under any other provision of Federal law, or any other authority of the President or Congress under the Constitution of the United States.
+
+“SEC. 813. National interest waiver.
+
+“(a) In general.—Subject to subsection (b), the President is authorized to exempt from any applicable prohibition or notification requirement under this title any activity determined by the President, in consultation with the heads of relevant Federal agencies, as appropriate, to be in the national interest of the United States.
+
+“(b) Congressional notification.—The President shall—
+
+“(1) notify the appropriate congressional committees not later than 48 hours after issuing a waiver under subsection (a); and
+
+“(2) include in such notification an identification of the national interest justifying the use of the waiver.”.
+

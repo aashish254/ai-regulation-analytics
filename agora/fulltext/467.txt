@@ -1,0 +1,167 @@
+ H. R. 4503
+
+
+To amend the Artificial Intelligence Training for the Acquisition Workforce Act to expand AI training within the executive branch of the Federal Government, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+July 10, 2023
+
+
+Ms. Mace (for herself and Mr. Connolly) introduced the following bill; which was referred to the Committee on Oversight and Accountability
+
+
+A BILL
+To amend the Artificial Intelligence Training for the Acquisition Workforce Act to expand AI training within the executive branch of the Federal Government, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “AI Training Expansion Act of 2023”.
+
+ SEC. 2. EXPANSION OF AI TRAINING WITHIN THE EXECUTIVE BRANCH OF THE FEDERAL GOVERNMENT.
+
+
+(a) In General.—Section 2 of the Artificial Intelligence Training for the Acquisition Workforce Act (Public Law 117–207; 41 U.S.C. 1703 note) is amended—
+
+
+(1) in subsection (a)—
+
+
+(A) by redesignating paragraphs (1), (2), (3), (4), and (5), as (2), (3), (4), (6), and (7), respectively;
+
+
+(B) by inserting before paragraph (2), as so redesignated, the following:
+
+
+“(1) ACQUISITION POSITION.—The term ‘acquisition position’ means any position listed in subsection (g)(1)(A) of section 1703 of title 41, United States Code.”;
+
+
+(C) in paragraph (4), as so redesignated—
+
+
+(i) by striking subparagraph (A);
+
+
+(ii) by redesignating subparagraph (B) as subparagraph (E); and
+
+
+(iii) inserting before subparagraph (E), as so redesignated, the following:
+
+
+“(A) an employee of an executive agency serving in an acquisition position;
+
+
+“(B) a management official;
+
+
+“(C) a supervisor;
+
+
+“(D) an employee serving in a data or technology position; and”;
+
+
+(D) inserting before paragraph (6), as so redesignated, the following:
+
+
+“(7) DATA OR TECHNOLOGY POSITION.—The term ‘data or technology position’ means a position that is classified to an occupational series within the Mathematical Sciences Group or to the Information Technology Group identified by the Office of Personnel Management.”; and
+
+
+(E) by adding at the end the following:
+
+
+“(8) MANAGEMENT OFFICIAL.—The term ‘management official’ has the meaning given the term in section 7103(a) of title 5, United States Code.
+
+
+“(9) SUPERVISOR.—The term ‘supervisor’ has the meaning given the term in section 7103(a) of title 5, United States Code.”; and
+
+
+(2) in subsection (b)—
+
+
+(A) in paragraph (1)—
+
+
+(i) by striking “(1) IN GENERAL.—Not” and inserting the following:
+
+
+“(1) IN GENERAL.—
+
+
+“(A) ESTABLISHMENT OF PROGRAM.—Not”; and
+
+
+(ii) by adding at the end the following:
+
+
+“(B) INCORPORATION OF EXISTING TRAINING PERMITTED.—For the purposes of subparagraph (A), the Director may incorporate the AI training program described under subparagraph (A) into any other training program that the Director determines relevant to providing the information required under paragraph (3), including training programs offered under section 4103 of title 5, United States Code.”;
+
+
+(B) in paragraph (2), by striking “knowledge” and all that follows through the period at the end and inserting the following: knowledge regarding—
+
+
+“(A) the capabilities and risks associated with AI; and
+
+
+“(B) requirements and best practices established by the Director with respect to AI.”;
+
+
+(C) by amending paragraph (3) to read as follows:
+
+
+“(3) TOPICS.—The AI training program shall include, at a minimum, information relating to—
+
+
+“(A) what AI is and how AI works;
+
+
+“(B) introductory concepts relating to the technological features of AI;
+
+
+“(C) any potential benefits and risks posed by AI, including any potential benefits and risks posed to the Federal Government;
+
+
+“(D) the role of data in developing and operating AI models and systems;
+
+
+“(E) ways to mitigate the risks AI systems pose to the Federal Government; and
+
+
+“(F) what executive agencies should consider in developing, deploying, and managing of AI systems by executive agencies.”;
+
+
+(D) in paragraph (4)—
+
+
+(i) in subparagraph (A), by striking “; and” and inserting a semicolon;
+
+
+(ii) in subparagraph (B), by striking the period at the end and inserting “; and”; and
+
+
+(iii) by adding at the end the following:
+
+
+“(C) incorporate any feedback from participants received under paragraph (6).”; and
+
+
+(E) in paragraph (6)—
+
+
+(i) in the matter preceding subparagraph (A), by striking “ensure the existence of” and insert “establish”; and
+
+
+(ii) in subparagraph (B), by inserting “through any update to such program under paragraph (4)” before the period at the end.
+
+ (b) Amendment To Short Title Of Artificial Intelligence Training For The Acquisition Workforce Act.—
+
+
+(1) IN GENERAL.—Section 1 of the Artificial Intelligence Training for the Acquisition Workforce Act (Public Law 117–207; 41 U.S.C. 1703 note) is amended by striking “ ‘for the Acquisition Workforce’”.
+
+
+(2) RULE OF CONSTRUCTION.—Any reference in law, regulation, document, paper, or other record to the Artificial Intelligence Training for the Acquisition Workforce Act shall be construed as referring to the Artificial Intelligence Training Act.

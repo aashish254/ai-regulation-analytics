@@ -1,0 +1,11 @@
+SEC. 856. PILOT PROGRAM TO ANALYZE AND MONITOR CERTAIN SUPPLY CHAINS.
+
+(a) In General.--Not later than 90 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment shall establish and carry out a pilot program to analyze, map, and monitor supply chains for up to five covered weapons platforms, under which the Under Secretary shall--
+	(1) identify impediments to production and opportunities to expand the production of components of such a covered weapons platform;
+	(2) identify potential risks to and vulnerabilities of suppliers for such covered weapons platforms and ways to mitigate such risks; and
+	(3) identify critical suppliers for such covered weapons platforms.(b) Use of Tools.--The Under Secretary may use a combination of commercial tools and tools available to the Department of Defense to carry out the program established under this section, including artificial intelligence and machine learning tools to improve data analysis capabilities for such supply chains.
+(c) Annual Reports.--Not later than one year after the date of the enactment of this Act, and annually thereafter until the date specified in subsection (d), the Under Secretary shall submit to the congressional defense committees a report containing--
+	(1) a list of the vulnerabilities of the supply chains for each covered weapons platform selected under subsection (a), categorized by severity of threat or risk to deployment of such a platform;
+	(2) for each vulnerability, a description of such vulnerability, whether such vulnerability has been resolved, and, if resolved, the time from identification to resolution; and(3) an assessment of any efficiencies achieved by addressing impediments to the supply chain.
+(d) Termination.--The authority to carry out the pilot program under this section shall terminate on January 1, 2028.
+(e) Covered Weapons Platform Defined.--In this section, the term ``covered weapons platform'' means any weapons platform identified in the reports submitted under section 1251(d)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note).

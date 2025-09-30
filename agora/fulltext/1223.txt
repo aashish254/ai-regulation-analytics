@@ -1,0 +1,61 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “AI Grand Challenges Act of 2024”.
+SEC. 2. PRIZE COMPETITIONS FOR ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT.
+(a) Definition.—Except as otherwise expressly provided, in this section the term “Director” means the Director of the National Science Foundation.
+(b) Establishment Of Program.—
+(1) IN GENERAL.—Not later than 12 months after the date of enactment of this Act, the Director, in coordination with the Interagency Committee established under section 5103 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9413), shall establish a program to award prizes, utilizing the authorities and processes established under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), to eligible participants as determined by the Director pursuant to subsection (e) to stimulate artificial intelligence research, development, and commercialization that solves or advances specific, well-defined, and measurable grand challenges in 1 or more of the following categories:
+(A) National security.
+(B) Cybersecurity.
+(C) Health.
+(D) Energy.
+(E) Environment.
+(F) Transportation.
+(G) Agriculture and rural development.
+(H) Education and workforce training.
+(I) Manufacturing.
+(J) Space and aerospace.
+(K) Quantum computing, including molecular modeling and simulation.
+(L) Materials science.
+(M) Supply chain resilience.
+(N) Disaster preparedness.
+(O) Natural resources management.
+(P) Cross cutting challenges in artificial intelligence, including robustness, interpretability, explainability, transparency, safety, privacy, content provenance, and bias mitigation.
+(2) DESIGNATION.—The grand challenges and prize competition program established under paragraph (1) shall be known as the “AI Grand Challenges Program”.
+(3) ROTATORS.—Participants in the Rotator Program of the National Science Foundation may support the development and implementation of the AI Grand Challenges Program.
+(c) Grand Challenges Selection And Grand Challenges Information.—
+(1) IN GENERAL.—
+(A) CONSULTATION ON IDENTIFICATION AND SELECTION.—The Director shall consult with the Director of the Office of Science and Technology Policy, the Director of the National Institute of Standards and Technology, the Director of the Defense Advanced Research Projects Agency, the heads of relevant Federal agencies, and the National Artificial Intelligence Advisory Committee to identify and select artificial intelligence research and development grand challenges in which eligible participants will compete to solve or advance for prize awards under subsection (b).
+(B) PUBLIC INPUT ON IDENTIFICATION.—The Director shall also seek public input on the identification of artificial intelligence research and development grand challenges.
+(2) PROBLEM STATEMENTS; SUCCESS METRICS.—For each grand challenge selected under paragraph (1) and the grand challenge under paragraph (3), the Director shall—
+(A) establish a specific and well-defined grand challenge problem statement and ensure that such problem statement is published on the National Science Foundation website linking out to relevant prize competition listings on the website Challenge.gov that is managed by the General Services Administration; and
+(B) establish and publish on the website Challenge.gov clear targets, success metrics, and validation protocols for the prize competitions designed to address each grand challenge, in order to provide specific benchmarks that will be used to evaluate submissions to the prize competition.
+(3) GRAND CHALLENGE FOR ARTIFICIAL INTELLIGENCE-ENABLED CANCER BREAKTHROUGHS.—
+(A) REQUIRED PRIZE COMPETITION.—Not later than 1 year after the date of enactment of this Act, the Director, in consultation with the Director of the Office of Science and Technology Policy and the Director of the National Institutes of Health, shall establish not less than 1 grand challenge in which eligible participants will compete in a prize competition to solve or advance solutions for prize awards under subsection (b) that seek to advance medical breakthroughs to address 1 or more of the most lethal forms of cancer and related comorbidities. The grand challenge shall relate to detection, diagnostics, treatments, therapeutics, or other innovations in artificial intelligence to increase the total quality-adjusted life years of those affected or likely to be affected by cancer.
+(B) PRIZE AMOUNT.—In carrying out the prize competition under subparagraph (A), the Director shall award not less than $10,000,000 in cash prize awards to each winner.
+(4) AMBITIOUS AND ACHIEVABLE GOALS.—Grand challenges selected under paragraph (1) and the grand challenge under paragraph (3) shall be ambitious but achievable goals that utilize science, technology, and innovation to solve or advance solutions to problems to benefit the United States.
+(d) Additional Consultation.—The Director may consult with, and incorporate effective practices from, other entities that have developed successful large-scale technology demonstration prize competitions, including the Defense Advanced Research Projects Agency, the National Aeronautics and Space Administration, other Federal agencies, private sector enterprises, and nonprofit organizations, in the development and implementation of the AI Grand Challenges Program and related prize competitions, including on the requirements under subsection (e).(e) Requirements.—
+(1) IN GENERAL.—The Director shall develop requirements for—
+(A) the prize competition process, including eligibility criteria for participants, consistent with the requirements under paragraph (2); and
+(B) testing, judging, and verification procedures for submissions to receive a prize award under the AI Grand Challenges Program.
+(2) ELIGIBILITY REQUIREMENT AND JUDGING.—
+(A) ELIGIBILITY.—In accordance with the requirement described in section 24(g)(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(g)(3)), a recipient of a prize award under the AI Grand Challenges Program—
+(i) that is a private entity shall be incorporated in and maintain a primary place of business in the United States; and
+(ii) who is an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States.
+(B) JUDGES.—In accordance with section 24(k) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(k)), a judge of a prize competition under the AI Grand Challenges Program may be an individual from the private sector.
+(f) Prize Amount.—
+(1) IN GENERAL.—In carrying out the AI Grand Challenges Program, the Director—
+(A) shall award not less than $1,000,000 in cash prize awards to each winner of the prize competitions, except as provided in subsection (c)(3); and
+(B) may also utilize non-cash awards.
+(2) LARGER AWARDS.—The Director may award prizes under the AI Grand Challenges Program that are more than $50,000,000, pursuant to the requirements under section 24(m)(4)(A) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(A)).
+(g) Funding.—
+(1) IN GENERAL.—In accordance with section 24(m)(1) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(1)), the Director may request and accept funds from other Federal agencies, State, United States territory, local, or Tribal government agencies, for-profit entities, and nonprofit entities to support the AI Grand Challenges Program.
+(2) PROHIBITION ON CONSIDERATION FOR SUPPORT.—The Director may not consider any support provided by an agency or entity under paragraph (1) in determining the winners of prize awards under subsection (b).
+(h) Reports.—
+(1) NOTIFICATION OF WINNING SUBMISSION.—Not later than 60 days after the date on which a prize is awarded under the AI Grand Challenges Program, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and other relevant committees of Congress a report that describes the winning submission to the prize competition and its benefits to the United States.
+(2) BIENNIAL REPORT.—
+(A) IN GENERAL.—Not later than 2 years after the date of enactment of this Act, and biennially thereafter, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and other relevant committees of Congress a report that includes—
+(i) a description of the activities carried out under this Act;
+(ii) a description of the active competitions and the results of completed competitions under the AI Grand Challenges Program; and
+(iii) efforts to provide information to the public about the AI Grand Challenges Program to encourage participation.
+(B) PUBLIC ACCESSIBILITY.—The Director shall make the biennial report required under subparagraph (A) publicly accessible, including by posting the biennial report on the website of the National Science Foundation in an easily accessible location.
+(i) Accessibility.—In carrying out the AI Grand Challenges Program, the Director shall post the active prize competitions and available prize awards under subsection (b) to Challenge.gov after the grand challenges are selected and the prize competitions are designed pursuant to subsections (c) and (e) to ensure the prize competitions are widely accessible to eligible participants.

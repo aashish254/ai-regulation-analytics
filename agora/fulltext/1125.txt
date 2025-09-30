@@ -1,0 +1,97 @@
+Ethical Norms for the New Generation Artificial Intelligence
+
+
+This set of norms is formulated in order to deeply implement the “New Generation Artificial Intelligence Development Plan”, to refine and implement the ” Governance Principles for the New Generation Artificial Intelligence”, to enhance the ethical awareness on Artificial Intelligence (AI) and the behavioral awareness of the entire society, to actively guide the responsible AI research, development, and application activities, and to promote healthy development of AI.
+
+
+Chapter 1. General Principles
+
+
+1. This set of norms aims to integrate ethics into the entire life cycle of AI, to promote fairness, justice, harmony, safety and security, and to avoid issues such as prejudice, discrimination, privacy and information leakage.
+
+
+2. This set of norms applies to natural persons, legal persons, and other related organizations engaged in related activities such as management, research and development, supply, and use of AI. (1) The management activities mainly refer to strategic planning, formulation and implementation of policies, laws, regulations, and technical standards, resource allocation, supervision and inspection, etc. (2) The research and development activities mainly refer to scientific research, technology development, product development, etc. related to AI. (3) The supply activities mainly refer to the production, operation, and sales of AI products and services. (4) The use activities mainly refer to the procurement, consumption, and manipulation of AI products and services.
+
+
+3. Various activities of AI shall abide by the following fundamental ethical norms. (1) Enhancing the well-being of humankind. Adhere to the people-oriented vision, abide by the common values ​​of humankind, respect human rights and the fundamental interests of humankind, and abide by national and regional ethical norms. Adhere to the priority of public interests, promote human-machine harmony, improve people’s livelihood, enhance the sense of happiness, promote the sustainable development of economy, society and ecology, and jointly build a human community with a shared future. (2) Promoting fairness and justice. Adhere to shared benefits and inclusivity, effectively protect the legitimate rights and interests of all relevant stakeholders, promote fair sharing of the benefits of AI in the whole society, and promote social fairness and justice, and equal opportunities. When providing AI products and services, we should fully respect and help vulnerable groups and underrepresented groups, and provide corresponding alternatives as needed. (3) Protecting privacy and security. Fully respect the rights of personal information, to know, and to consent, etc., handle personal information, protect personal privacy and data security in accordance with the principles of lawfulness, justifiability, necessity, and integrity, do no harm to the legitimate rights of personal data, must not illegally collect and use personal information by stealing, tampering, or leaking, etc., and must not infringe on the rights of personal privacy. (4) Ensuring controllability and trustworthiness. Ensure that humans have the full power for decision-making, the rights to choose whether to accept the services provided by AI, the rights to withdraw from the interaction with AI at any time, and the rights to suspend the operation of AI systems at any time, and ensure that AI is always under meaningful human control. (5) Strengthening accountability. Adhere that human beings are the ultimate liable subjects. Clarify the responsibilities of all relevant stakeholders, comprehensively enhance the awareness of responsibility, introspect and self-discipline in the entire life cycle of AI. Establish an accountability mechanism in AI related activities, and do not evade liability reviews and do not escape from responsibilities. (6) Improving ethical literacy. Actively learn and popularize knowledge related to AI ethics, objectively understand ethical issues, and do not underestimate or exaggerate ethical risks. Actively carry out or participate in the discussions on the ethical issues of AI, deeply promote the practice of AI ethics and governance, and improve the ability to respond to related issues.
+
+
+4. The ethical norms that should be followed in specific activities related to AI include the norms of management, the norms of research and development, the norms of supply, and the norms of use.
+
+
+Chapter 2. The Norms of Management
+
+
+5. Promotion of agile governance. Respect the law of development of AI, fully understand the potential and limitations of AI, continue to optimize the governance mechanisms and methods of AI. Do not divorce from reality, do not rush for quick success and instant benefits in the process of strategic decision-making, institution construction, and resource allocation. Promote the healthy and sustainable development of AI in an orderly manner.
+
+
+6. Active practice. Comply with AI related laws, regulations, policies and standards, actively integrate AI ethics into the entire management process, take the lead in becoming practitioners and promoters of AI ethics and governance, summarize and promote AI governance experiences in a timely manner, and actively respond to the society’s concerns on the ethics of AI.
+
+
+7. Exercise and use power correctly. Clarify the responsibilities and power boundaries of AI-related management activities, and standardize the conditions and procedures of power operations. Fully respect and protect the privacy, freedom, dignity, safety and other rights of relevant stakeholders and other legal rights and interests, and prohibit improper use of power to infringe the legal rights of natural persons, legal persons and other organizations.
+
+
+8. Strengthen risk preventions. Enhance bottom-line thinking and risk awareness, strengthen the research and judgment on the potential risks during the development of AI, carry out systematic risk monitoring and evaluations in a timely manner, establish an effective early warning mechanism for risks, and enhance the ability of manage, control, and disposal of ethical risks of AI.
+
+
+9. Promote inclusivity and openness. Pay full attention to the rights and demands of all stakeholders related to AI, encourage the application of diverse AI technologies to solve practical problems in economic and social development, encourage cross-disciplinary, cross-domain, cross-regional, and cross-border exchanges and cooperation, and promote the formation of AI governance frameworks, standards and norms with broad consensus.
+
+
+Chapter 3. The Norms of Research and Development
+
+
+10. Strengthen the awareness of self-discipline. Strengthen self-discipline in activities related to AI research and development, actively integrate AI ethics into every phase of technology research and development, consciously carry out self-censorship, strengthen self-management, and do not engage in AI research and development that violates ethics and morality.
+
+
+11. Improve data quality. In the phases of data collection, storage, use, processing, transmission, provision, disclosure, etc., strictly abide by data-related laws, standards and norms. Improve the completeness, timeliness, consistency, normativeness and accuracy of data.
+
+
+12. Enhance safety, security and transparency. In the phases of algorithm design, implementation, and application, etc.,  improve transparency, interpretability, understandability, reliability, and controllability, enhance the resilience, adaptability, and the ability of anti-interference of AI systems, and gradually realize verifiable, auditable, supervisable, traceable, predictable and trustworthy AI.
+
+
+13. Avoid bias and discrimination. During the process of data collection and algorithm development, strengthen ethics review, fully consider the diversity of demands, avoid potential data and algorithmic bias, and strive to achieve inclusivity, fairness and non-discrimination of AI systems.
+
+
+Chapter 4. The Norms of Supply
+
+
+14. Respect market rules. Strictly abide by the various rules and regulations for market access, competition, and trading activities, actively maintain market order, and create a market environment conducive to the development of AI. Data monopoly, platform monopoly, etc. must not be used to disrupt the orderly market competitions, and any means that infringe on the intellectual property rights of other subjects are forbidden.
+
+
+15. Strengthen quality control. Strengthen the quality monitoring and the evaluations on the use of AI products and services, avoid infringements on personal safety, property safety, user privacy, etc. caused by product defects introduced during the design and development phases, and must not operate, sell, or provide products and services that do not meet the quality standards.
+
+
+16. Protect the rights and interests of users. Users should be clearly informed that AI technology is used in products and services. The functions and limitations of AI products and services should be clearly identified, and users’ rights to know and to consent should be ensured. Simple and easy-to-understand solutions for users to choose to use or quit the AI mode should be provided, and it is forbidden to set obstacles for users to fairly use AI products and services.
+
+
+17. Strengthen emergency protection. Emergency mechanisms and loss compensation plans and measures should be investigated and formulated. AI systems need to be timely monitored, user feedbacks should be responded and processed in a timely manner, systemic failures should be prevented in time, and be ready to assist relevant entities to intervene in the AI systems in accordance with laws and regulations to reduce losses and avoid risks.
+
+
+Chapter 5. The Norms of Use
+
+
+18. Promote good use. Strengthen the justifications and evaluations of AI products and services before use, fully get aware on the benefits of AI products and services, and fully consider the legitimate rights and interests of various stakeholders, so as to better promote economic prosperity, social progress and sustainable development.
+
+
+19. Avoid misuse and abuse. Fully get aware and understand the scope of applications and potential negative effects of AI products and services, and earnestly respect the rights of relevant entities not to use AI products or services, avoid improper use, misuse and abuse of AI products and services, and avoid unintended cause of damages to the legitimate rights and interests of others.
+
+
+20. Forbid malicious use. It is forbidden to use AI products and services that do not comply with laws, regulations, ethical norms, and standards. It is forbidden to use AI products and services to engage in illegal activities. It is strictly forbidden to endanger national security, public safety and production safety, and it is strictly forbidden to do harm to public interests.
+
+
+21. Timely and Proactive feedback. Actively participate in the practice of AI ethics and governance, prompt feedback to relevant subjects and assistance for solving problems are expected when technical safety and security flaws, policy and law vacuums, and lags of regulation are found in the use of AI products and services.
+
+
+22. Improve the ability to use. Actively learn AI-related knowledge, and actively master the skills required for various phases related to the use of AI products and services, such as operation, maintenance, and emergency response, so as to ensure the safe and efficient use of them.
+
+
+Chapter 6. Organization and Implementation
+
+
+23. This set of norms is issued by the National Governance Committee of New Generation Artificial Intelligence, and it is responsible for explaining and guiding its implementation.
+
+
+24. With actual requirements and needs, management departments at all levels, enterprises, universities, research institutes, associations and other related organizations may formulate more specific ethical norms and related measures based on this set of norms.
+
+
+25. This set of norms shall be carried out starting from the date of its publication, and shall be revised in due course according to the needs of economic and social development and the development state of AI.

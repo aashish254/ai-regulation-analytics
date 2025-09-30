@@ -1,0 +1,25 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Small Business Artificial Intelligence Advancement Act”.
+SEC. 2. RESOURCES FOR SMALL BUSINESSES TO UTILIZE ARTIFICIAL INTELLIGENCE.
+Section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1) is amended—
+(1) by redesignating subsection (h) as subsection (i); and
+(2) by inserting after subsection (g) the following new subsection:
+“(h) Development Of Resources For Small Businesses In Utilizing Artificial Intelligence.—
+“(1) IN GENERAL.—Subject to the availability of appropriations, the Director shall, in carrying out subsection (a), develop or identify, and disseminate (in accordance with paragraph (4)), resources for small business concerns (as such term is defined in section 3 of the Small Business Act (15 U.S.C. 632)) relating to artificial intelligence. Such resources may include technical standards, best practices, benchmarks, methodologies, procedures, or processes for the understanding, adoption, or integration of artificial intelligence.
+“(2) REQUIREMENTS.—The Director shall ensure that the resources described in paragraph (1) satisfy the following:
+“(A) Are generally applicable and usable by a wide range of small business concerns.
+“(B) Include elements that promote basic understanding, identification, and adoption of proper use cases of artificial intelligence.
+“(C) Include case studies of practical application across a range of business sizes and types.
+“(D) Are technology-neutral and relevant to technologies that are accessible and suitable for small businesses.
+“(E) Are based on international voluntary standards as applicable, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
+“(F) Include recommendations and references to existing Federal educational resources, including the risk management framework under subsection (c) and activities relating to the national cybersecurity awareness and education program under section 303 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7443).
+“(3) REVIEW AND UPDATE OF RESOURCES.—Not later than two years after the date of enactment of this subsection and not less frequently than once every two years thereafter, the Director shall carry out the following:
+“(A) Review the resources described in paragraph (1).
+“(B) Update such resources as the Director considers appropriate.
+“(4) DISSEMINATION AND USE OF TRAINING RESOURCES.—The Director shall coordinate with the Administrator of the Small Business Administration regarding the distribution and use through the resource partners of the Small Business Administration of the resources described in paragraph (1).
+“(5) VOLUNTARY RESOURCES.—The use of the resources described in paragraph (1) shall be considered voluntary.“(6) REPORT.—
+“(A) IN GENERAL.—Not later than four years after the date of the enactment of this subsection, the Director shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, including updates made, on the development, identification, dissemination, and use of the resources described in paragraph (1).
+“(B) CONTENTS.—The report under subparagraph (A) shall include the following:
+“(i) A list of the resources described in paragraph (1), including updates made.
+“(ii) Relevant feedback from recipients of such resources, and disseminators of such resources pursuant to paragraph (4).
+“(iii) Recommendations to Congress for further actions to help with the utilization of artificial intelligence by small business concerns.”.

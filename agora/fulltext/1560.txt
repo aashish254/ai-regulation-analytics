@@ -1,0 +1,14 @@
+THE PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS:
+
+SECTION 1. Section 2874 of the Public Utilities Code is amended to read:
+
+2874. (a) Whenever telephone calls are placed through the use of an automatic dialing-announcing device, the device may be operated only after an unrecorded, natural voice announcement has been made to the person called by the person calling. The announcement shall do all of the following:
+(1) State the nature of the call and the name, address, and telephone number of the business or organization being represented, if any.
+(2) Inquire as to whether the person called consents to hear the prerecorded message of the person calling.
+(3) Inform the person called if the prerecorded message uses an artificial voice.
+(b) The person calling, as described in subdivision (a), shall disconnect the automatic dialing-announcing device from the telephone line upon the termination of the call by either the person calling or the person called.
+(c) For purposes of this section, both of the following definitions apply:
+(1) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+(2) “Artificial voice” means a voice that is generated or significantly altered using artificial intelligence.
+
+SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.

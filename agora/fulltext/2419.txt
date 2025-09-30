@@ -1,0 +1,98 @@
+Subtitle C--Matters Involving Uncrewed Systems
+
+
+SEC. 231. ESTABLISHMENT OF NATIONAL ADVISORY COMMITTEE ON AUTONOMOUS 
+              MARITIME SYSTEMS.
+
+
+(a) In General.--Chapter 151 of title 46, United States Code, is amended by adding at the end the following:
+
+
+Sec. 15110. Establishment of National Advisory Committee on Autonomous Maritime Systems
+(a) Establishment.--There is established a National Advisory  Committee on Autonomous Maritime Systems (in this section referred to  as the `Committee').
+(b) Function.--The Committee shall advise the Secretary on  matters relating to the regulation and use of Autonomous Systems within the territorial waters of the United States.
+(c) Membership.--
+(1) In general.--The Committee shall consist of 15 members appointed by the Secretary in accordance with this section and section 15109.
+(2) Expertise.--Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+(3) Representation.--Each of the following groups shall be represented by at least 1 member on the Committee:
+(A) Marine safety or security entities.
+(B) Vessel design and construction entities.
+(C) Entities engaged in the production or research of uncrewed vehicles, including drones, autonomous or semi-autonomous vehicles, or any other product or service integral to the provision, maintenance, or management of such products or services.
+(D) Port districts, authorities, or terminal operators.
+(E) Vessel operators.
+(F) National labor unions representing merchant mariners.
+(G) Maritime pilots.
+(H) Commercial space transportation operators.
+(I) Academic institutions.''.
+
+
+(b) Clerical Amendments.--The analysis for chapter 151 of title 46, 
+United States Code, is amended by adding at the end the following:
+
+
+15110. Establishment of National Advisory Committee on Autonomous Maritime Systems.''.
+(c) Establishment.--Not later than 90 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall establish the Committee under section 15110 of title 46, United States Code (as added by this section).
+
+
+SEC. 232. PILOT PROGRAM FOR GOVERNANCE AND OVERSIGHT OF SMALL UNCREWED MARITIME SYSTEMS.
+
+
+(a) Limitation.--Notwithstanding any other provision of law, for  the period beginning on the date of enactment of this Act and ending on the date that is 2 years after such date of enactment, small uncrewed maritime systems owned, operated, or chartered by the National Oceanic and Atmospheric Administration, or that are performing specified oceanographic surveys on behalf of and pursuant to a contract or other written agreement with the National Oceanic and Atmospheric Administration, shall not be subject to any vessel inspection, design, operations, navigation, credentialing, or training requirement, law, or regulation, that the Assistant Administrator of the Office of Marine and Aviation Operations of the National Oceanic and Atmospheric Administration determines will harm real-time operational extreme weather oceanographic and atmospheric data collection and predictions.
+(b) Other Authority.--Nothing in this section shall limit the authority of the Secretary of the department in which the Coast Guard is operating, acting through the Commandant, if there is an immediate safety or security concern regarding small uncrewed maritime systems.
+
+
+SEC. 233. COAST GUARD TRAINING COURSE.
+
+
+(a) In General.--For the period beginning on the date of enactment of this Act and ending on the date that is 3 years after such date of enactment, the Commandant, or such other individual or organization as the Commandant considers appropriate, shall develop a training course on small uncrewed maritime systems and offer such training course at least once each year for Coast Guard personnel working with or regulating small uncrewed maritime systems.
+(b) Course Subject Matter.--The training course developed under subsection (a) shall–
+(1) provide an overview and introduction to small uncrewed maritime systems, including examples of those used by the Federal Government, in academic settings, and in commercial sectors;
+(2) address the benefits and disadvantages of use of small uncrewed maritime systems;
+(3) address safe navigation of small uncrewed maritime systems, including measures to ensure collision avoidance;
+(4) address the ability of small uncrewed maritime systems to communicate with and alert other vessels in the vicinity;
+(5) address the ability of small uncrewed maritime systems to respond to system alarms and failures to ensure control commensurate with the risk posed by the systems;
+(6) provide present and future capabilities of small uncrewed maritime systems; and
+(7) provide an overview of the role of the International Maritime Organization in the governance of small uncrewed maritime systems.
+
+
+SEC. 234. NOAA MEMBERSHIP ON AUTONOMOUS VESSEL POLICY COUNCIL.
+
+
+Not later than 30 days after the date of enactment of this Act, the Commandant, with the concurrence of the Assistant Administrator of the Office of Marine and Aviation Operations of the National Oceanic and Atmospheric Administration, shall establish the permanent membership of a National Oceanic and Atmospheric Administration employee to the Automated and Autonomous Vessel Policy Council of the Coast Guard.
+
+
+SEC. 235. TECHNOLOGY PILOT PROGRAM.
+
+
+Section 319(b)(1) of title 14, United States Code, is amended by striking ``2 or more existing Coast Guard small boats deployed at operational units'' and inserting ``2 or more Coast Guard small boats deployed at operational units and 2 or more existing Coast Guard small boats''.
+
+
+SEC. 236. UNCREWED SYSTEMS CAPABILITIES REPORT AND BRIEFING.
+
+
+(a) In General.--
+(1) Report.--Not later than 1 year after the date of enactment of this Act, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of =Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that outlines a plan for establishing an uncrewed systems capabilities office within the Coast Guard responsible for the acquisition and development of uncrewed system and counter-uncrewed system technologies and to expand the capabilities of the Coast Guard with respect to such technologies.
+(2) Contents.--The report required under paragraph (1) shall include the following:
+(A) A management strategy for the acquisition, development, and deployment of uncrewed system and counter-uncrewed system technologies.
+(B) A service-wide coordination strategy to synchronize and integrate efforts across the Coast Guard in order to–
+(i) support the primary duties of the Coast =Guard pursuant to section 102 of title 14, United States Code; and
+(ii) pursue expanded research, development, testing, and evaluation opportunities and funding to expand and accelerate identification and transition of uncrewed system and counter-uncrewed system technologies.
+(C) The identification of contracting and acquisition authorities needed to expedite the development and deployment of uncrewed system and counter-uncrewed system technologies.
+(D) A detailed list of commercially available uncrewed system and counter-uncrewed system technologies with capabilities determined to be useful for the Coast Guard.
+(E) A cross-agency collaboration plan to engage with the Department of Defense and other relevant agencies to identify common requirements and opportunities to partner in acquiring, contracting, and sustaining uncrewed system and counter-uncrewed system capabilities.
+(F) Opportunities to obtain and share uncrewed system data from government and commercial sources to improve maritime domain awareness.
+(G) The development of a concept of operations for a data system that supports and integrates uncrewed system and counter-uncrewed system technologies with key enablers, including enterprise communications networks, data storage and management, artificial intelligence and machine learning tools, and information sharing and dissemination capabilities.
+(b) Briefings.--Not later than 1 year after the date of enactment of this Act, and annually thereafter for a period of 3 years, the Commandant, in coordination with the Administrator of the National Oceanic and Atmospheric Administration, the Executive Director of the Office of Naval Research, the Director of the National Science Foundation, and the Director of the White House Office of Science and Technology Policy, shall brief the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, on the future operation and governance of small uncrewed maritime systems.
+
+
+SEC. 237. DEFINITIONS.
+
+
+In this subtitle:
+(1) Counter-uncrewed system.--The term ``counter-uncrewed system'' means a system or device capable of lawfully and safely disabling, disrupting, or seizing control of an uncrewed system, including a counter-UAS system (as such term is defined in section 44801 of title 49, United States Code).
+(2) Small uncrewed maritime systems.--The term ``small uncrewed maritime systems'' means unmanned maritime systems (as defined in section 2 of the CENOTE Act of 2018 (33 U.S.C. 4101)), that–
+(A) are not greater than 35 feet overall in length;
+(B) are operated remotely or autonomously; and
+(C) exclusively perform oceanographic surveys or scientific research.
+(3) Uncrewed system.--The term ``uncrewed system'' means an uncrewed surface, undersea, or aircraft and associated elements (including communication links and the components that control the uncrewed system) that are required for the operator to operate the system safely and efficiently, including an unmanned aircraft system (as such term is defined in section 44801 of title 49, United States Code).

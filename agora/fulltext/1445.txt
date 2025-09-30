@@ -1,0 +1,138 @@
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Tennessee Artificial Intelligence
+Advisory Council Act."
+SECTION 2.
+The purpose of the council is to recommend an action plan to guide awareness,
+education, and usage of artificial intelligence in state government that aligns with the
+state's policies and goals and that supports public employees in the efficient and
+effective delivery of customer service. The council shall include definitive actions,
+policies, and investments needed to leverage artificial intelligence as part of the plan.
+SECTION 3.
+As used in this act:
+(1) "Advisory council" means the Tennessee artificial intelligence advisory
+council; and
+(2) "Artificial intelligence" means models and systems capable of
+performing functions generally associated with human intelligence, including
+reasoning and learning.
+SECTION 4.
+(a) There is created the Tennessee artificial intelligence advisory council.
+(b) The advisory council must be composed of twenty-four (24) members, as
+follows:
+(1) The commissioner of finance and administration, or the
+commissioner's designee;
+(2) The commissioner of the department of human resources, or the
+commissioner's designee;
+(3) The commissioner of economic and community development, or the
+commissioner's designee;
+(4) The commissioner of labor and workforce development, or the
+commissioner's designee;
+(5) The commissioner of education, or the commissioner's designee;
+(6) The commissioner of commerce and insurance, or the commissioner's
+designee;
+(7) The commissioner of safety, or the commissioner's designee; 
+HB2325
+(8) The state's chief information officer, or the chief information officer's
+designee;
+(9) The state's chief operating officer, or the chief operating officer's
+designee;
+(1 0) The attorney general and reporter, or the attorney general and
+reporter's designee;
+(11) The director of the office of legislative information systems, or the
+director's designee;
+(12) The chair of the finance, ways and means committee of the senate
+and the chair of the finance, ways, and means committee of the house of
+representatives, or their designees;
+(13) The chair of the commerce and labor committee of the senate and
+the chair of the commerce committee of the house of representatives, or their
+designees;
+(14) Seven (7) members appointed by the governor. Such members may
+have an interest or be experienced in:
+(A) Local government;
+(B) Higher education;
+(C) Workforce development;
+(D) A business in this state that is likely to be impacted by artificial
+intelligence;
+(E) An artificial intelligence developer or expert;
+(F) A representative of academics with a concentration in
+technology policy; or
+(G) A representative of the Tennessee bureau of investigation;
+( 15) One ( 1) member appointed by the speaker of the senate; and
+(16) One (1) member appointed by the speaker of the house of
+representatives.
+(c)
+(1) The chief information officer for the state and the commissioner of
+finance and administration shall serve as joint chairs of the advisory council.
+(2) In the event of a vacancy on the advisory council, the joint chairs shall
+notify the respective appointing authority, who shall then appoint a person to fill
+the vacancy.
+(3) The joint chairs shall call all meetings and the advisory council shall
+meet at least four (4) times per calendar year. The joint chairs may establish
+subcommittees of the advisory council's members as necessary to ensure the
+council's effective and efficient operation.
+(4) The advisory council is attached to the department of finance and
+administration for administrative purposes.
+SECTION 5.
+(a) The advisory council shall submit an action plan to the governor addressing
+how to:
+(1) Position this state competitively to ensure its citizens capture the full
+economic benefit from artificial intelligence opportunities; and
+(2) Responsibly leverage artificial intelligence to improve the efficiency of
+state and local government services.
+(b) No later than May 1, 2025, the joint chairs shall submit a status report on the
+council's activities and progress as of such date.
+(c) No later than December 31, 2025 and by December 31 of 2026 and 2027
+thereafter, the joint chairs shall submit to the governor, the speaker of the senate, and
+the speaker of the house of representatives a report containing, at a minimum, the
+following findings for the respective years as of such dates:
+(1) The current state of artificial intelligence and its likely impact on this
+state's labor market conditions;
+(2) How the labor market impact might reshape this state's key industries,
+occupations, and foundational skillsets;
+(3) Initiatives to stimulate economic growth, create jobs, and enhance
+talent development in the face of artificial intelligence-related changes;
+(4) Recommended legal regulations or policy changes needed to ensure
+the responsible and ethical use of artificial intelligence in this state, while
+protecting the rights of Tennessee citizens;
+(5) Ways to encourage artificial intelligence innovation and
+entrepreneurship and strategies to support workers displaced by artificial
+intelligence;
+(6) Proposed policy changes related to workforce development,
+educational systems, and research opportunities for colleges and universities in
+this state;
+(7) An overview of the goals, benefits, potential uses, and limitations of
+artificial intelligence systems; and
+(8) Recommended ways to promote transparency and accountability for
+the use of artificial intelligence technologies by measuring, monitoring and
+reporting outcomes and progress.
+(d) No later than December 31, 2028, the joint chairs shall deliver to the
+governor, the speaker of the senate, and the speaker of the house of representatives a
+final report and action plan containing, at a minimum, the following findings:
+(1) Principles and values to guide artificial intelligence use in state and
+local governments;
+(2) Governance framework with policies, procedures, and processes for
+the development, deployment, and use of artificial intelligence by state and local
+governments;
+(3) Evaluation of potentially beneficial use cases for deployment of
+artificial intelligence tools and strategies by the state to improve government
+services;
+(4) Risk analysis of potential threats to this state's key infrastructure from
+artificial intelligence technologies;
+(5) Recommendations on how this state can support state and local
+government employees through the artificial intelligence transition;
+(6) Recommendations on how to position this state competitively to
+ensure its citizens capture the full economic benefit from artificial intelligence
+opportunities; and
+(7) Recommendations on how to responsibly leverage artificial
+intelligence to improve the efficiency of state and local government services.
+SECTION 6.
+(a) Members of the advisory council receive no compensation for their service
+but must be reimbursed for official travel expenses in accordance with the
+comprehensive travel regulations as promulgated by the department of finance and
+administration.
+(b) All state departments and agencies shall cooperate with the advisory council
+in carrying out its duties and shall provide support or other assistance as reasonably
+requested. The advisory council may consult with other persons and organizations with
+expertise related to artificial intelligence, government infrastructure, and economic
+development.
+SECTION 7. This act is repealed on December 31, 2028.
+SECTION 8. This act takes effect upon becoming a law, the public welfare requiring it. 

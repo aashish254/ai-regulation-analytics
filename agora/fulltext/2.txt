@@ -1,0 +1,35 @@
+SEC. 226. REVIEW OF ARTIFICIAL INTELLIGENCE APPLICATIONS AND ESTABLISHMENT OF PERFORMANCE METRICS.
+
+(a) In General.--Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall--
+	(1) review the potential applications of artificial intelligence and digital technology to the platforms, processes, and operations of the Department of Defense; and
+	(2) establish performance objectives and accompanying metrics for the incorporation of artificial intelligence and digital readiness into such platforms, processes, and operations.
+(b) Performance Objectives and Accompanying Metrics.--
+	(1) Skill gaps.--In carrying out subsection (a), the Secretary of Defense shall require each Secretary of a military department and the heads of such other organizations and elements of the Department of Defense as the Secretary of Defense determines appropriate to--
+		(A) conduct a comprehensive review and assessment of--
+			(i) skill gaps in the fields of software development, software engineering, data science, and artificial intelligence;
+			(ii) the qualifications of civilian personnel needed for both management and specialist tracks in such fields; and
+			(iii) the qualifications of military personnel (officer and enlisted) needed for both management and specialist tracks in such fields; and
+		(B) establish recruiting, training, and talent management performance objectives and accompanying metrics for achieving and maintaining staffing levels needed to fill identified gaps and meet the needs of the Department for skilled personnel.
+	(2) AI modernization activities.--In carrying out subsection (a), the Secretary of Defense shall--
+		(A) assess investment by the Department of Defense in artificial intelligence innovation, science and technology, and research and development;
+		(B) assess investment by the Department in test and evaluation of artificial intelligence capabilities; and
+		(C) establish performance objectives and accompanying metrics for artificial intelligence modernization activities of the Department.
+	(3) Exercises, wargames, and experimentation.--In conjunction with the activities of the Secretary of Defense under subsection (a), the Chairman of the Joint Chiefs of Staff, in coordination with the Director of the Joint Artificial Intelligence Center, shall--
+		(A) assess the integration of artificial intelligence into war-games, exercises, and experimentation; and
+		(B) develop performance objectives and accompanying metrics for such integration.
+	(4) Logistics and sustainment.--In carrying out subsection (a), the Secretary of Defense shall require the Under Secretary of Defense for Acquisition and Sustainment, with support from the Director of the Joint Artificial Intelligence Center, to--
+		(A) assess the application of artificial intelligence in logistics and sustainment systems; and
+		(B) establish performance objectives and accompanying metrics for integration of artificial intelligence in the Department of Defense logistics and sustainment enterprise.
+	(5) Business applications.--In carrying out subsection (a), the Secretary of Defense shall require the Under Secretary of Defense (Comptroller), in coordination with the Director of the Joint Artificial Intelligence Center, to--
+		(A) assess the integration of artificial intelligence for administrative functions that can be performed with robotic process automation and artificial intelligence-enabled analysis; and
+		(B) establish performance objectives and accompanying metrics for the integration of artificial intelligence in priority business process areas of the Department of Defensee, including the following:
+			(i) Human resources.
+			(ii) Budget and finance, including audit.
+			(iii) Retail.
+			(iv) Real estate.
+			(v) Health care.
+			(vi) Logistics.
+			(vii) Such other business processes as the Secretary considers appropriate.
+(c) Report to Congress.--Not later than 120 days after the completion of the review required by subsection (a)(1), the Secretary of Defense shall submit to the congressional defense committees a report on--
+	(1) the findings of the Secretary with respect to the review and any action taken or proposed to be taken by the Secretary to address such findings; and
+	(2) the performance objectives and accompanying metrics established under subsections (a)(2) and (b).

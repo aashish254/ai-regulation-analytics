@@ -1,0 +1,52 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Artificial Intelligence Acquisitions Act of 2024”.
+SEC. 2. DEFINITIONS.
+In this Act:
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given that term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(2) CONTROL.—The term “control” has the meaning given that term in section 800.208 of title 31, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+(3) COUNTRY OF CONCERN.—The term “country of concern”—
+(A) means a country the government of which is a foreign adversary, as defined in section 8(c) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1607(c)); and
+(B) includes—
+(i) the People’s Republic of China (including the Special Administrative Regions of the People’s Republic of China, Hong Kong and Macau);
+(ii) the Russian Federation;
+(iii) the Islamic Republic of Iran;
+(iv) the Democratic People’s Republic of Korea;
+(v) the Republic of Cuba;
+(vi) the Maduro Regime of Venezuela; and
+(vii) the Syrian Arab Republic.
+(4) FEDERAL AGENCY.—The term “Federal agency” has the meaning given the term in section 5122 of title 42, United States Code.
+(5) FIRMWARE.—The term “firmware” has the meaning given the term in section 120.40 of title 22, Code of Federal Regulations.
+(6) FOREIGN PERSON OF CONCERN.—The term “foreign person of concern” means—
+(A) any corporation, business association, partnership, trust, society, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, or any government or agency thereof, that—
+(i) is domiciled in or subject to the laws of a country of concern;
+(ii) is directly or indirectly controlled by any person domiciled in or subject to the laws of a country of concern; or
+(iii) is directly or indirectly controlled by a government of a country of concern; and
+(B) any successor to any entity described in subparagraph (A).
+(7) PERSON.—The term “person” means—
+(A) a natural person; or
+(B) a corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, or any government or agency thereof.
+(8) SEMICONDUCTOR CHIP PRODUCT.—The term “semiconductor chip product” has the meaning given the term in section 901 of title 17, United States Code.
+(9) EXECUTIVE DIRECTOR.—The term “Executive Director” means the Executive Director for Information and Communications Technology and Services.SEC. 3. DETERMINATION OF ARTIFICIAL INTELLIGENCE AND LARGE LANGUAGE MODEL PRODUCTS OR SERVICES POSING NATIONAL SECURITY RISKS.
+(a) Development Of List.—
+(1) IN GENERAL.—The Executive Director, in coordination with the Under Secretary of Commerce for Standards and Technology and the Federal Acquisition Security Council, shall develop a list containing any artificial intelligence product or service that meets 1 or more of the following criteria:
+(A) Uses software or firmware produced or developed by a foreign person of concern.
+(B) Has a logic semiconductor chip product that is manufactured by a foreign person of concern.
+(C) Is offered by a foreign person of concern.
+(2) APPLICATION TO LOGIC SEMICONDUCTOR CHIPS.—For purposes of paragraph (1)(B), the term “manufactured” does not include the assembly, testing, or packing of logic semiconductor chips.
+(b) Publication Of List.—Not later than 1 year after the date of the enactment of this Act, Executive Director, in coordination with the Under Secretary of Commerce for Standards and Technology and the Federal Acquisition Security Council, shall publish on a publicly available website of the Office of Information and Communication Technology Services of the Bureau of Industry and Security the list developed pursuant to subsection (a).
+(c) Updates To List.—
+(1) IN GENERAL.—The Executive Director, in coordination with the Under Secretary of Commerce for Standards and Technology and the Federal Acquisition Security Council, shall annually update the list developed pursuant to subsection (a).
+(2) REMOVAL FROM LIST.—The Executive Director may remove an artificial intelligence product or service from the list developed pursuant to subsection (a) if—
+(A) the person that owns such product or service submits to the Federal Acquisition Security Council a certification that the product or service does not meet any of the criteria described in subsection (a), including information in support of such certification; and
+(B) the Federal Acquisition Security Council—
+(i) reviews such certification and information; and
+(ii) certifies to the Executive Director that the product or service does not meet any of the criteria described in subsection (a).
+(3) PUBLIC NOTIFICATION.—If the list is not updated pursuant to paragraph (1) during the most recently completed annual period, then not later than 90 days after the end of such annual period, the Federal Acquisition Security Council shall notify the public that no updates were necessary during such annual period to protect national security.SEC. 4. PROHIBITION ON PURCHASE OF COVERED ARTIFICIAL INTELLIGENCE AND LARGE LANGUAGE MODEL PRODUCTS AND SERVICES.
+(a) Prohibition On Purchase Of Covered Products And Services.—Beginning on the date that is 30 days after the date the list developed pursuant to section 4(a) is published in accordance with section 4(c), the head of a Federal department or agency may not—
+(1) purchase, rent, lease, or otherwise obtain any artificial intelligence or large language model product or service included on such list; or
+(2) award contracts, grants, or otherwise use any Federal funds to procure a product or service from persons that use any such artificial intelligence or large language model product or service.
+(b) Divestment From Covered Products And Services.—
+(1) INITIAL DIVESTMENT.—Any person that is a recipient of a contract to sell a product or provide a service for a Federal agency and has acquired, prior to the date of the enactment of this Act, artificial intelligence and large language model products or services from a foreign person of concern through purchase, rental, lease, or contract shall divest from and discontinue use of such products or services not later than 2 years after the date of the enactment of this Act.
+(2) ONGOING DIVESTMENT.—Not later than 1 year after the date an artificial intelligence or large language model product or service is added to the list developed pursuant to section 4(a), any person that is a recipient of a contract to sell a product or provide a service for a Federal agency that uses such product or service shall divest from and discontinue use of such product or service.
+(c) Exception On Prohibition On Purchase For Intelligence Activities.—Subsection (a) shall not apply to any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any other authorized intelligence activity (as that term is described in section 1101 of the National Security Act of 1947 (50 U.S.C. 3231)).
+(d) Exception For Certain Department Of Defense Activities.—Subsection (a) shall not apply to the Secretary of Defense with respect to the procurement of any artificial intelligence or large language model product for the purpose of engaging in defense intelligence activities or researching adversarial artificial intelligence.

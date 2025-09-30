@@ -1,0 +1,75 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Technology in the Parks Act of 2024”.
+SEC. 2. E-RATE SUPPORT FOR COVERED LOCAL PARKS.
+Section 254 of the Communications Act of 1934 (47 U.S.C. 254) is amended—
+(1) in subsection (b)(6)—
+(A) in the heading, by striking “AND LIBRARIES” and inserting “LIBRARIES, AND COVERED LOCAL PARKS”; and
+(B) by striking “and libraries” and inserting “libraries, and covered local parks”;
+(2) in subsection (c)(3), by striking “and health care providers” and inserting “health care providers, and covered local parks”;
+(3) in subsection (h)—
+(A) in paragraph (1)(B)—
+(i) in the heading, by striking “AND LIBRARIES” and inserting “, LIBRARIES, AND COVERED LOCAL PARKS”; and
+(ii) by striking “and libraries” and inserting “libraries, and covered local parks”;
+(B) in paragraph (3)—
+(i) by inserting “or a covered local park” after “telecommunications user”;
+(ii) by inserting “or park” after “such user”; and
+(iii) by adding at the end the following: “Notwithstanding the preceding sentence, a covered local park may transfer telecommunications services and network capacity to an entity with which such park has a contract as described in subsection (m) to enable such entity to conduct a qualified technology training program as described in such subsection.”;
+(C) in paragraph (4), by striking “paragraph (7)(A)” and inserting “paragraph (8)(A)”;
+(D) by redesignating paragraph (7) as paragraph (8); and
+(E) by inserting after paragraph (6) the following:
+“(7) INTERNET SAFETY REQUIREMENTS FOR COVERED LOCAL PARKS.—Not later than 14 days after the date of the enactment of this paragraph, the Commission shall promulgate regulations that provide for internet safety requirements for covered local parks receiving services at discount rates under paragraph (1)(B) that are substantially similar to the requirements under paragraphs (5) and (6) and subsection (l) for schools and libraries receiving services at discount rates under paragraph (1)(B).”; and
+(4) by adding at the end the following:
+“(m) Covered Local Park Defined.—In this section, the term ‘covered local park’ means a local park, as defined in subsection (h) of section 4 of the Technology in the Parks Act of 2024, that has a contract with an entity to allow such entity to conduct in such park a qualified technology training program using a grant received by such entity under such section.”.SEC. 3. LOAN, LEASE, OR TRANSFER OF CERTAIN EXCESS RESEARCH EQUIPMENT.
+Subsection (i) of section 11 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710) is amended—
+(1) by striking “The Director” and inserting the following:
+“(1) IN GENERAL.—The Director”;
+(2) in paragraph (1), as so inserted, by striking “or nonprofit organization” and inserting “, nonprofit organization, or local park”; and
+(3) by adding at the end the following new paragraph:
+“(2) DEFINITION.—In this subsection, the term ‘local park’ means a park owned and maintained by a local government.”.
+SEC. 4. GRANTS FOR TECHNOLOGY IN THE PARK.
+(a) In General.—Beginning not later than 60 days after the date of the enactment of this Act, the Secretary of Labor (referred to in this section as the “Secretary”) shall carry out a program under which the Secretary makes grants on a competitive basis to eligible entities to pay the Federal share of the costs of conducting a qualified technology training program in local parks.
+(b) Applications.—To be eligible to receive a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+(c) Uses Of Funds.—An eligible entity that receives a grant under this section shall use the grant to conduct a qualified technology training program in a local park, which may include the use of grant funds to—
+(1) pay labor costs involved in conducting the qualified technology training program described in subsection (d);
+(2) purchase or otherwise obtain necessary equipment for the qualified technology training program described in subsection (d);
+(3) create or modify infrastructure to facilitate the qualified technology training program described in subsection (d); or
+(4) carry out other activities directly related to the activities needed to conduct the qualified technology training program described in subsection (d).
+(d) Qualified Technology Training Program Described.—A qualified technology training program described in this subsection is a program—
+(1) the completion of which results in the award of a recognized postsecondary credential (as defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102));
+(2) that occurs, to the extent practicable—
+(A) after school;
+(B) as a summer program; or
+(C) as a continuing education program; and
+(3) that is designed to train or provide instruction to covered individuals in—
+(A) coding;
+(B) cyber security;
+(C) network security;
+(D) digital manufacturing;
+(E) technology assistance;
+(F) software development;
+(G) database administration;
+(H) web development;
+(I) video production;
+(J) robotics;
+(K) artificial intelligence;
+(L) video game design;
+(M) reading;
+(N) math; or
+(O) a combination of the subjects described in subparagraphs (A) through (N).
+(e) Grant Duration And Amount.—
+(1) DURATION.—Each grant under this section shall be made for a period of 2 years.
+(2) AMOUNT.—The Secretary shall determine the maximum amount of each grant under this section.
+(f) Federal Share.—The Federal share of a grant under this section shall not exceed 10 percent of the costs of carrying out the activities described in subsection (c).
+(g) Supplement, Not Supplant.—An eligible entity shall use a grant received under this section only to supplement funds that would, in the absence of such grant, be made available from other Federal, State, or local sources for activities supported by the grant, not to supplant such funds.
+(h) Definitions.—In this section:
+(1) COVERED INDIVIDUAL.—The term “covered individual” means an individual who is—
+(A) receiving—
+(i) unemployment compensation under any State or Federal law;
+(ii) assistance under a State program for temporary assistance to needy families funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+(iii) services under a State program funded by the Social Services Block Grant program under subtitle A of title XX of the Social Security Act (42 U.S.C. 1397 et seq.); or
+(iv) maternal and child health services under a State program funded by title V of the Social Security Act (42 U.S.C. 701 et seq.); or
+(B) entitled to monthly insurance benefits under section 202 or 223 of the Social Security Act (42 U.S.C. 401 et seq.).
+(2) ELIGIBLE ENTITY.—The term “eligible entity” means a non-profit organization.
+(3) LOCAL PARK.—The term “local park” means a park owned and maintained by a local government—
+(A) that has a physical structure suitable for conducting a qualified technology training program described in subsection (d); or
+(B) at which such a physical structure may be constructed.

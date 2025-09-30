@@ -1,0 +1,189 @@
+ H. R. 6346
+
+
+To update oversight and inspection practices of the Nuclear Regulatory Commission, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+November 9, 2023
+
+
+Mrs. Lesko introduced the following bill; which was referred to the Committee on Energy and Commerce
+
+
+A BILL
+To update oversight and inspection practices of the Nuclear Regulatory Commission, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Advancing Nuclear Regulatory Oversight Act”.
+
+ SEC. 2. IMPLEMENTING LESSONS LEARNED FROM THE COVID–19 HEALTH EMERGENCY.
+
+
+(a) In General.—Not later than 180 days after the date of enactment of this Act, the Commission shall submit to the appropriate committees of Congress a report on actions taken by the Commission during the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19.
+
+
+(b) Contents.—The report submitted under subsection (a) shall—
+
+
+(1) identify any processes, procedures, and other regulatory policies that the Commission revised or temporarily suspended during the public health emergency described in subsection (a);
+
+
+(2) examine how any revision or temporary suspension of a process, procedure, or other regulatory policy identified under paragraph (1) affected the ability of the Commission to license and regulate the civilian use of radioactive materials in the United States to protect public health and safety, promote the common defense and security, and protect the environment;
+
+
+(3) discuss lessons learned from the matters described in paragraph (2);
+
+
+(4) list actions that the Commission has taken or will take to incorporate into the licensing and oversight activities of the Commission, without compromising the mission of the Commission, the lessons described in paragraph (3); and
+
+
+(5) describe when the actions listed under paragraph (4) were implemented or may be implemented.
+
+ SEC. 3. ADVANCING EFFICIENT, RISK-INFORMED OVERSIGHT AND INSPECTIONS.
+
+
+(a) In General.—Not later than 1 year after the date of enactment of this Act, the Commission shall develop and submit to the appropriate committees of Congress a report that identifies specific improvements to the nuclear reactor and materials oversight and inspection programs carried out pursuant to the Atomic Energy Act of 1954 that the Commission may implement to maximize the efficiency of such programs through, where appropriate, the use of risk-informed, performance-based procedures, expanded incorporation of information technologies, and staff training.
+
+
+(b) Stakeholder Input.—In developing the report under subsection (a), the Commission shall, as appropriate, seek input from—
+
+
+(1) the Secretary of Energy;
+
+
+(2) the National Laboratories;
+
+
+(3) the nuclear energy industry; and
+
+
+(4) nongovernmental organizations that are related to nuclear energy.
+
+
+(c) Contents.—The report submitted under subsection (a) shall—
+
+
+(1) assess specific elements of oversight and inspections that may be modified by the use of technology, improved planning, and continually updated risk-informed, performance-based assessment, including—
+
+
+(A) use of travel resources;
+
+
+(B) planning and preparation for inspections, including entrance and exit meetings with licensees and consideration of whether inspection teams need to be onsite;
+
+
+(C) document collection and preparation, including consideration of whether nuclear reactor data are accessible without onsite visits or requests to the licensee and that document requests are timely and within the scope of inspections;
+
+
+(D) the cross-cutting issues program; and
+
+
+(E) the scope of event reporting required by licensees to ensure decisions are risk-informed;
+
+
+(2) identify and assess measures to improve oversight and inspections, including—
+
+
+(A) elimination of areas of duplicative or otherwise unnecessary activities;
+
+
+(B) increased use of templates in documenting inspection results; and
+
+
+(C) periodic training of Commission staff and leadership on the application of risk-informed criteria for—
+
+
+(i) inspection planning and assessments;
+
+
+(ii) agency decision making processes on the application of regulations and guidance; and
+
+
+(iii) the application of the Commission’s standard of reasonable assurance of adequate protection;
+
+
+(3) assess measures to advance risk-informed procedures, including—
+
+
+(A) increased use of inspection approaches that balance the level of resources commensurate with safety significance;
+
+
+(B) increased review of the use of inspection program resources based on licensee performance;
+
+
+(C) expansion of modern information technology, including artificial intelligence and machine learning to risk inform oversight and inspection decisions; and
+
+
+(D) updating the Differing Professional Views or Opinions process to include—
+
+
+(i) safety significance as a threshold for entering such process; and
+
+
+(ii) guidance for issue resolution to minimize the impact of such process on project schedules;
+
+
+(4) assess the ability of the Commission, consistent with its obligations to provide reasonable assurance of adequate protection of health and safety pursuant to the Atomic Energy Act of 1954, to enable licensee innovations that may advance nuclear reactor operational efficiency and safety, including the criteria of the Commission for timely acceptance of licensee adoption of advanced technologies, including digital technologies;
+
+
+(5) identify recommendations resulting from the assessments described in paragraphs (1) through (4);
+
+
+(6) identify specific actions that the Commission will take to incorporate into the training, inspection, oversight, and licensing activities, and regulations of the Commission, without compromising the mission of the Commission, the recommendations identified under paragraph (5); and
+
+
+(7) describe when the actions identified under paragraph (6) may be implemented.
+
+ SEC. 4. OFFICE AND FACILITY SPACE REVIEW.
+
+
+(a) Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall—
+
+
+(1) review office and other facility space requirements of the Commission; and
+
+
+(2) submit to the appropriate committees of Congress a report, with recommendations, on the results of such review.
+
+
+(b) Contents.—The report described in subsection (a) shall include—
+
+
+(1) an examination of—
+
+
+(A) the costs associated with the headquarters, regional offices, and technical training center of the Commission, including examination of—
+
+
+(i) costs that do not support the Commission’s mission, including rent subsidies for other Federal agencies; and
+
+
+(ii) opportunities to reduce future costs through reduction in unnecessary office space, consolidation of offices, use of advanced information technology, or any other appropriate means; and
+
+
+(B) current and anticipated office and facility requirements to efficiently accomplish the mission of the Commission; and
+
+
+(2) recommendations to Congress, the Commission, and the General Services Administration for actions that may assist in reducing office and facility costs to licensees and taxpayers.
+
+ SEC. 5. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) APPROPRIATE COMMITTEES OF CONGRESS.—The term “appropriate committees of Congress” means the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+
+
+(2) COMMISSION.—The term “Commission” means the Nuclear Regulatory Commission.
+
+
+(3) LICENSEE.—The term “licensee” means a person that holds a license issued under section 103 or section 104 of the Atomic Energy Act of 1954 (42 U.S.C. 2133; 2134).

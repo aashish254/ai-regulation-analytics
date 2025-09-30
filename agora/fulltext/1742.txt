@@ -1,0 +1,31 @@
+SEC. 1515. Protective measures for mobile devices within the Department of Defense.
+
+(a) In general.--The Secretary of Defense shall carry out a detailed evaluation of the cybersecurity products and services for mobile devices to identify products and services that may improve the cybersecurity of mobile devices used by the Department of Defense, including mitigating the risk to the Department of Defense from cyber attacks against mobile devices.
+
+(b) Cybersecurity technologies.--In carrying out the evaluation required under subsection (a), the Secretary of Defense shall evaluate each of the following technologies:
+
+(1) Anonymizing-enabling technologies, including dynamic selector rotation, un-linkable payment structures, and anonymous onboarding.
+
+(2) Network-enabled full content inspection.
+
+(3) Mobile-device case hardware solutions.
+
+(4) On-device virtual private networks.
+
+(5) Protected Domain Name Server infrastructure.
+
+(6) Extended coverage for mobile device endpoint detection.
+
+(7) Smishing, phishing, and business text or email compromise protection leveraging generative artificial intelligence.
+
+(8) Any other emerging or established technologies determined appropriate by the Secretary.
+
+(c) Elements.--In carrying out the evaluation required under subsection (a), for each technology described in subsection (b), the Secretary of Defense shall--
+
+(1) assess the efficacy and value of the cybersecurity provided by the technology for mobile devices;
+
+(2) assess the feasibility of scaling the technology across the entirety or components of the Department of Defense, including the timeline for deploying the technology across the entirety or components of the Department of Defense; and
+
+(3) evaluate the ability of the Department of Defense to integrate the technology with the existing cybersecurity architecture of the Department of Defense.
+
+(d) Report.--Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report of the findings of the evaluation carried out under subsection (a), including a determination whether the Department of Defense or any component thereof should procure or incorporate any of the technologies evaluated pursuant to subsection (b).

@@ -1,0 +1,252 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “NSF AI Education Act of 2024”.
+SEC. 2. DEFINITIONS.
+In this Act:
+(1) ESEA TERMS.—The terms “educational service agency”, “elementary school”, “high school”, “local educational agency”, “secondary school”, “State educational agency”, and “universal design for learning” have the meaning given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+(2) ARTIFICIAL INTELLIGENCE; AI.—The term “artificial intelligence” or “AI” has the meaning given such term in section 5002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9401).
+(3) COMMUNITY COLLEGE.—The term “community college” means—
+(A) an institution that is a junior or community college, as such term is defined in section 312(f) of the Higher Education Act of 1965 (20 U.S.C. 1058(f));
+(B) a degree-granting public institution of higher education at which—
+(i) the highest degree awarded is an associate degree; or
+(ii) an associate degree is the most frequently awarded degree;
+(C) an eligible Tribal College or University; or
+(D) a branch campus of a four-year public institution of higher education, if, at such branch campus—
+(i) the highest degree awarded is an associate degree; or
+(ii) an associate degree is the most frequently awarded degree.
+(4) DIRECTOR.—The term “Director” means the Director of the National Science Foundation.
+(5) EMERGING RESEARCH INSTITUTION.—The term “emerging research institution” has the meaning given the term in section 10002 of the Research and Development, Competition, and Innovation Act (42 U.S.C. 18901).
+(6) EPSCoR INSTITUTION.—The term “EPSCoR institution” means an institution of higher education, nonprofit organization, or other institution located in a jurisdiction eligible to participate in the Established Program to Stimulate Competitive Research under section 113 of the National Science Foundation Authorization Act of 1988 (42 U.S.C. 1862g).
+(7) FOREIGN COUNTRY OF CONCERN.—The term “foreign country of concern” means a country that is a covered nation, as defined in section 4872(d) of title 10, United States Code.
+(8) FOREIGN ENTITY OF CONCERN.—The term “foreign entity of concern” has the meaning given the term in section 10612 of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19221).
+(9) HISTORICALLY BLACK COLLEGE AND UNIVERSITY.—The term “historically Black college and university” has the meaning given the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+(10) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+(11) KEY EMERGING TECHNOLOGIES.—The term “key emerging technologies” means the technologies included in the initial list of key technology focus areas set forth by section 10387(c) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19107(c)), photonics, and electronics.
+(12) LABOR ORGANIZATION.—The term “labor organization” has the meaning given the term in section 2(5) of the National Labor Relations Act (29 U.S.C. 152(5)).
+(13) MINORITY-SERVING INSTITUTION.—The term “minority-serving institution” means an institution defined in any of paragraphs (1) through (7) of section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 7801).
+(14) NATIONAL LABORATORY.—The term “National Laboratory” has the meaning given that term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+(15) NONPROFIT ORGANIZATION.—The term “nonprofit organization” means an organization which is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code.
+(16) QUANTUM HYBRID COMPUTING.—The term “quantum hybrid computing” means the use of quantum computing in conjunction with classical computing.
+(17) QUANTUM INFORMATION SCIENCE.—The term “quantum information science” means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.
+(18) RURAL-LOCATED INSTITUTION OF HIGHER EDUCATION.—The term “rural-located institution of higher education” means an institution of higher education that is located in or near areas that are not classified as urban by the Census Bureau.
+(19) RURAL-SERVING INSTITUTION OF HIGHER EDUCATION.—The term “rural-serving institution of higher education” means an institution of higher education that—
+(A) primarily serves areas that are not classified as urban by the Census Bureau; and
+(B) offers degrees that are unique and helpful to rural regions that are not classified as urban by the Census Bureau.
+(20) STEM.—The term “STEM” means science, technology, engineering, and mathematics, including computer science.
+(21) TRIBAL COLLEGE OR UNIVERSITY.—The term “Tribal College or University” has the meaning given the term in section 316(b) of the Higher Education Act of 1965 (20 U.S.C. 1059c(b)).SEC. 3. UNDERGRADUATE SCHOLARSHIPS FOR ARTIFICIAL INTELLIGENCE EDUCATION.
+(a) Scholarships Related To AI Or Quantum Hybrid Computing.—
+(1) IN GENERAL.—Subject to section 15, the Director shall award merit- or need-based scholarships to undergraduate students at institutions of higher education in order to enable such students to study—
+(A) the development, deployment, integration, or application of artificial intelligence; or
+(B) quantum hybrid computing.
+(2) SCHOLARSHIPS.—Scholarships awarded under paragraph (1) shall be in the form of annual grant awards for not more than a 4-year period in amounts that cover the cost of tuition, education-related fees, and a stipend. Such scholarships shall be paid directly to the institution of higher education in which the student is enrolled.
+(b) Scholarships Related To AI And Agriculture.—
+(1) IN GENERAL.—Subject to section 15, the Director shall award merit- or need-based scholarships to undergraduate students at institutions of higher education in order to enable such students to study—
+(A) artificial intelligence and agriculture; or
+(B) the integration of artificial intelligence into agricultural operations, prediction, and decisionmaking.
+(2) PRIORITY.—In awarding scholarships under this subsection, the Director shall give preference to students who are attending rural-located institutions of higher education, rural-serving institutions of higher education, Tribal Colleges or Universities, or minority-serving institutions (including historically Black colleges and universities).
+(3) SCHOLARSHIPS.—Scholarships awarded under paragraph (1) shall be in the form of annual grant awards for not more than a 4-year period in amounts that cover the cost of tuition, education-related fees, and a stipend. Such scholarships shall be paid directly to the institution of higher education in which the student is enrolled.
+(c) Scholarships Related To AI And Education.—
+(1) IN GENERAL.—Subject to section 15, the Director shall award merit- or need-based scholarships to undergraduate students at institutions of higher education in order to enable such students to study the teaching of artificial intelligence and artificial intelligence skills at elementary schools, secondary schools, career and technical education schools, institutions of higher education, or through other higher education and professional education programs.
+(2) SCHOLARSHIPS.—Scholarships awarded under paragraph (1) shall be in the form of annual grant awards for not more than a 4-year period that cover the cost of tuition, education-related fees, and a stipend. Such scholarships shall be paid directly to the institution of higher education in which the student is enrolled.
+(d) Scholarships Related To AI And Advanced Manufacturing.—
+(1) IN GENERAL.—Subject to section 15, the Director shall award merit- or need-based scholarships to undergraduate students at institutions of higher education in order to enable such students to study—
+(A) artificial intelligence and advanced manufacturing; or
+(B) the integration of artificial intelligence into advanced manufacturing operations.
+(2) SCHOLARSHIPS.—Scholarships awarded under paragraph (1) shall be in the form of annual grant awards for a 4-year period that cover the cost of tuition, education-related fees, and a stipend. Such scholarships shall be paid directly to the institution of higher education in which the student is enrolled.
+(e) Method.—The Director may carry out this section by making awards through new or existing programs.@SEC. 4. GRADUATE SCHOLARSHIPS FOR ARTIFICIAL INTELLIGENCE EDUCATION.
+(a) Graduate Scholarships Related To AI Or Quantum Hybrid Computing.—Subject to section 15, the Director shall award merit- or need-based scholarships to graduate students at institutions of higher education in order to enable such students to study—
+(1) the development, deployment, integration, or application of artificial intelligence; or
+(2) quantum hybrid computing.
+(b) Scholarships Related To AI And Agriculture.—
+(1) IN GENERAL.—Subject to section 15, the Director shall award merit- or need-based scholarships to graduate students at institutions of higher education in order to enable such students to study—
+(A) artificial intelligence and agriculture; or
+(B) the integration of artificial intelligence into agricultural operations, prediction, and decisionmaking.
+(2) PRIORITY.—In awarding scholarships under this subsection, the Director shall give preference to students who are attending rural-located institutions of higher education, rural-serving institutions of higher education, Tribal Colleges or Universities, or minority-serving institutions (including historically Black colleges and universities).
+(c) Graduate Scholarships Related To AI And Education.—Subject to section 15, the Director shall award merit- or need-based scholarships to graduate students at institutions of higher education in order to enable such students to study the teaching of artificial intelligence and artificial intelligence skills at elementary schools, secondary schools, career and technical education schools, institutions of higher education, or through other higher education and professional education programs.
+(d) Graduate Scholarships Related To AI And Advanced Manufacturing.—Subject to section 15, the Director shall award merit- or need-based scholarships to graduate students at institutions of higher education in order to enable such students to study—
+(1) artificial intelligence and advanced manufacturing; or
+(2) the integration of artificial intelligence into advanced manufacturing operations.
+(e) Scholarships.—Scholarships awarded under this section shall be in the form of annual grant awards for not more than a 3-year period that cover the cost of tuition, education-related fees, and a stipend. Such scholarships shall be paid directly to the institution of higher education in which the student is enrolled.
+(f) Method.—The Director may carry out this section by making awards through new or existing programs.SEC. 5. NSF ARTIFICIAL INTELLIGENCE PROFESSIONAL DEVELOPMENT FELLOWSHIPS.
+(a) In General.—Subject to section 15, the Director shall establish a program to promote the exchange of ideas and encourage collaborations between institutions of higher education and industry partners in the fields of artificial intelligence and key emerging technologies, including through fellowships for students, teachers, faculty at institutions of higher education, and industry professionals.
+(b) Fellowships.—
+(1) IN GENERAL.—The Director shall award merit-based fellowships for professionals for professional development programs in STEM fields or the field of education that are administered by or affiliated with institutions of higher education, in order to enable fellowship recipients to attain skills or training in AI-related subjects, including—
+(A) the development, deployment, integration, or application of artificial intelligence;
+(B) prompt engineering; or
+(C) quantum hybrid computing.
+(2) FELLOWSHIP AWARDS.—Awards under this subsection shall be in the form of one annual award that covers the cost of tuition, education-related fees, and a stipend. Such awards shall be paid directly to the institution of higher education that administers, or that is affiliated with, the program in which the fellowship recipient is participating.
+(c) Application.—An applicant for a fellowship under this section shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require. The Director shall set minimum standards for participation in the fellowship program established under this section.
+(d) Method.—The Director may carry out this section through new or existing programs.SEC. 6. ARTIFICIAL INTELLIGENCE TRAINING FOR LAND-GRANT COLLEGES AND UNIVERSITIES.
+(a) In General.—Subject to section 15, the Secretary of Agriculture, acting through the Director of the National Institute of Food and Agriculture, in collaboration with the Director of the National Science Foundation, shall award grants to land-grant colleges and universities (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103)) for artificial intelligence in agriculture.
+(b) Use Of Funds.—A grant awarded under this section may be used for—
+(1) research and development on the use of artificial intelligence in agriculture or the integration of artificial intelligence into agricultural operations, predictions, and decision making;
+(2) the dissemination of educational resources for artificial intelligence in rural areas; and
+(3) acquisition and deployment of artificial intelligence tools for agriculture.
+(c) Method.—The Director may carry out this section through new or existing programs.SEC. 7. QUANTUM FELLOWSHIPS AND SCHOLARSHIPS.
+(a) In General.—The Director may establish or use existing programs to support fellowships and scholarships for students at institutions of higher education for the purpose of—
+(1) increasing quantum information science, engineering, and technology exposure for undergraduate and graduate STEM students; and
+(2) increasing post-graduation employment opportunities for STEM students who demonstrate interest in pursuing careers in quantum information science, engineering, and technology, or fields that support the quantum industry.
+(b) Requirement.—Eligible participants in the fellowship and scholarship program shall be enrolled in or have graduated from a STEM degree program at an institution of higher education.
+(c) Considerations.—Eligible fellowships and scholarships may include temporary quantum-related positions at State or Federal agencies, National Laboratories, private sector entities, institutions of higher education, or other quantum-relevant entities, as determined appropriate by the Director.
+(d) Competitive Awards.—Fellowships and scholarships shall be competitively awarded through a merit-review process. The Director may prioritize fellowships that include an industry partner that provides financial assistance to the applicant for direct or indirect costs.
+(e) Fellows In Federal Agencies Subject To OMB Ethics Requirements.—An individual participating in a fellowship with an assignment at a Federal agency shall be subject to the ethics requirements prescribed by the Director of the Office of Management and Budget that apply to an employee of such agency.
+(f) Method.—The Director may carry out this section through new or existing programs.SEC. 8. NSF OUTREACH CAMPAIGN.
+(a) In General.—Subject to section 15, the Director shall carry out a nationwide outreach campaign to students, teachers, principals, and other school leaders at elementary schools, secondary schools, career and technical education schools, institutions of higher education, or through other higher education and professional education programs to increase awareness about AI or quantum education opportunities at the National Science Foundation.
+(b) Priority.—In carrying out such campaign, the Director shall prioritize outreach to underserved and rural areas.
+(c) Method.—The Director may carry out this section through new or existing programs.SEC. 9. COMMUNITY COLLEGE AND VOCATIONAL SCHOOL CENTERS OF AI EXCELLENCE.
+(a) Definitions.—In this section:
+(1) AREA CAREER AND TECHNICAL EDUCATION SCHOOL.—The term “area career and technical education school” has the meaning given the term in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302).
+(2) ELIGIBLE APPLICANT.—The term “eligible applicant” means a community college, vocational school, or area career and technical education school in partnership with 1 or more of the following:
+(A) A Federal, State, local, or Tribal government entity.
+(B) An institution of higher education.
+(C) An entity in private industry.
+(D) An economic development organization or venture development organization.
+(E) A labor organization or a nonprofit organization if such organization partners with an entity described in any of subparagraphs (A) through (D).
+(3) VENTURE DEVELOPMENT ORGANIZATION.—The term “venture development organization” has the meaning given the term in section 27(a) of the Stevenson-Wydler Act of 1980 (15 U.S.C. 3722(a)).
+(4) VOCATIONAL SCHOOL.—The term “vocational school” has the meaning given the term “postsecondary vocational institution” in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)).
+(b) Establishment Of Centers Of AI Excellence.—Subject to section 15, the Director, in coordination with the Regional Technology Hubs program at the Department of Commerce and the Regional Innovation Engines program at the National Science Foundation, shall choose not less than 5 regionally and geographically diverse eligible applicants to be designated as Community College and Vocational School Centers of AI Excellence (referred to in this section as “Centers of AI Excellence”).
+(c) EPSCoR State Participation.—Not less than 20 percent of designated Community College and Vocational School Centers of AI Excellence shall be eligible applicants that are located in a State jurisdiction eligible to participate in the National Science Foundation’s Established Program to Stimulate Competitive Research under section 113 of the National Science Foundation Authorization Act of 1988 (42 U.S.C. 1862g).
+(d) Application.—An eligible applicant that desires to be designated as a Center of AI Excellence shall submit an application to the Director at such time, in such manner, and containing such information as the Director may reasonably require. Such application shall specify a focus area or areas for the Center of AI Excellence, which may be any of the following:
+(1) AI education and training related to agriculture.
+(2) AI education and training related to manufacturing.
+(3) AI education and training related to applications of AI-based technology and AI literacy.
+(4) AI education and training related to another focus area as specified by the eligible applicant.
+(e) Activities.—A designated Center of AI Excellence shall develop and disseminate information about best practices for—
+(1) artificial intelligence research and education at community colleges and area career and technical education schools;
+(2) methods to scale up successful programs that perform research or provide education on artificial intelligence at community colleges and area career and technical education schools;
+(3) providing hands-on research opportunities on artificial intelligence and learning opportunities for students that are enabled through artificial intelligence; and
+(4) identifying pathways to employment for students that are enabled by artificial intelligence.(f) Performance Measurement, Transparency, And Accountability.—
+(1) METRICS, STANDARDS AND ASSESSMENT.— The Director, in coordination with the Regional Technology Hubs program at the Department of Commerce and the Regional Innovation Engines program at the National Science Foundation, shall develop metrics to assess, and shall assess, the effectiveness of each designated Center of AI Excellence in carrying out the activities described in subsection (e).
+(2) FINAL REPORTS BY RECIPIENTS OF STRATEGY IMPLEMENTATION GRANTS AND COOPERATIVE AGREEMENTS.—The Director shall require each Center of AI Excellence designated under this section to submit to the Director a report on the activities of the Center of AI Excellence that are supported by Federal funds or Federal cooperative agreements.
+(g) Annual Reports To Congress.—Not less frequently than once each year, the Director shall submit to the appropriate committees of Congress an annual report on the results of the assessments conducted by the Director under subsection (f)(1) during the period covered by the report.
+(h) Method.—The Director may carry out this section through new or existing programs.
+(i) Sunset.—The section shall cease to be effective, and the activities authorized under this section shall terminate on the date that is 7 years after the date of enactment of this Act.SEC. 10. AWARD PROGRAM FOR RESEARCH ON AI IN EDUCATION.
+(a) Eligible Entity.—In this section, the term “eligible entity” means—
+(1) an institution of higher education;
+(2) a nonprofit organization; or
+(3) a consortium of 1 or more institution of higher education or a nonprofit organization and 1 or more private entities.
+(b) Program Authorized.—
+(1) IN GENERAL.—Subject to section 15, the Director shall make awards, on a competitive, merit-reviewed basis, to eligible entities, to enable the eligible entities to promote research on teaching models, tools, and materials for artificial intelligence and integration with other key emerging technologies, such as quantum information science and technologies and photonics, with a focus on teaching and learning for elementary school and secondary school students who are from low-income, rural, or Tribal populations.
+(2) METHOD.—The Director may carry out this section by making awards through new or existing programs.
+(c) Application.—
+(1) IN GENERAL.—An eligible entity that desires to receive an award under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
+(2) CONTENTS.—An application described in paragraph (1) shall include—
+(A) a description of the student demographics on which the research supported under the award intends to focus;
+(B) a description of any regional partnerships the eligible entity plans to utilize to carry out the award;
+(C) a description of how such research activity or activities may inform efforts to promote the engagement and achievement of elementary school and secondary school students in artificial intelligence and other key emerging technologies, such as quantum information science and technologies and photonics;
+(D) with respect to an application that concerns the use or integration of artificial intelligence, a description of potential ethical concerns and implications of teacher and student interactions with artificial intelligence systems;
+(E) a description of how the research on teaching models, tools, and materials were developed in consultation with other educators, academia, and private sector organizations; and
+(F) such other information as the Director may require.
+(d) Use Of Award Funds.—An eligible entity that receives an award under this section shall carry out a program described in subsection (b)(1) that—
+(1) emphasizes preparing and providing professional development to teachers, principals, and other school leaders to help them integrate artificial intelligence, key emerging technologies, and computational thinking in teaching and learning; and
+(2) supports research to develop, pilot, fully implement, or test areas, such as—
+(A) evidence-based instructional materials and high-quality learning opportunities for teaching artificial intelligence and key emerging technologies;
+(B) models for the preparation of new teachers who will teach artificial intelligence and key emerging technologies;
+(C) scalable models of professional development and ongoing support for teachers, principals, and other school leaders; and
+(D) tools and models for teaching and learning aimed at supporting student access to and utilization of artificial intelligence and key emerging technologies across diverse populations, including low-income, rural, and Tribal populations.SEC. 11. NATIONAL SCIENCE FOUNDATION AWARDS FOR ARTIFICIAL INTELLIGENCE RESOURCES.
+
+(a) Definitions.—In this section:
+(1) ELIGIBLE ENTITY.—The term “eligible entity” means—
+(A) a State educational agency, local educational agency, or educational service agency;
+(B) an institution of higher education, including—
+(i) an emerging research institution;
+(ii) an EPSCoR institution;
+(iii) a minority-serving institution;
+(iv) a historically Black college or university;
+(v) a Tribal College or University; or
+(vi) a community college; or
+(C) a technical and vocational school.
+(2) TECHNICAL AND VOCATIONAL SCHOOL.—The term “technical and vocational school” has the meaning given the term “area career and technical school” in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302).
+(b) Awards Authorized.—Subject to section 15, the Director shall make awards to eligible entities to enable the eligible entities to provide or increase access to artificial intelligence tools and applications to the students and researchers served by the eligible entities.
+(c) Preference.—In making awards under subsection (b), the Director shall give preference to eligible entities that—
+(1) expand the geographic diversity of funded entities; or
+(2) are emerging research institutions, EPSCoR institutions, minority-serving institutions, historically Black colleges and universities, Tribal Colleges or Universities, community colleges, or technical and vocational schools.
+(d) Method.—The Director may carry out this section through new or existing programs.SEC. 12. GUIDANCE FOR THE INTRODUCTION AND USE OF ARTIFICIAL INTELLIGENCE IN ELEMENTARY AND SECONDARY EDUCATION.
+(a) In General.—Not later than 2 years after the date of enactment of this Act, the Director, in coordination with the Secretary of Education, the Director of the Institute of Education Sciences, the Director of the National Institute of Standards and Technology, and the Director of the Office of Science and Technology Policy, shall develop and make publicly available guidance for the introduction and use of artificial intelligence in elementary and secondary education.
+(b) Considerations.—The guidance required under subsection (a) shall include—
+(1) considerations for—
+(A) the use of artificial intelligence in elementary and secondary education in rural areas and economically distressed areas; and
+(B) the differing applications of artificial intelligence in STEM and the liberal arts; and
+(2) a description of how the guidance was developed in consultation with educators, academia, and private sector organizations.SEC. 13. NSF GRAND CHALLENGES RELATING TO ARTIFICIAL INTELLIGENCE EDUCATION AND TRAINING.
+(a) Grand Challenge.—The term “grand challenge” means a prize competition under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719).
+(b) In General.—Subject to section 15, the Director, in coordination with the Secretaries of Labor and Education, shall support grand challenges to stimulate innovation regarding—
+(1) how to train 1,000,000 or more workers, including educators, technical and vocational workers, and professionals, in the United States by 2028 in areas related to the creation, deployment, or use of artificial intelligence, such as foundational knowledge, critical thinking, programming skills, machine learning, or deep learning;
+(2) how to overcome barriers in the development of the artificial intelligence education and training;
+(3) methods and strategies for creating artificial intelligence education and training that does not displace workers, including teachers, in the workforce;
+(4) ways to increase the number of women who receive artificial intelligence education and training; and
+(5) how to ensure rural areas of the United States are able to benefit from artificial intelligence education and training.
+(c) Method.—The Director may carry out this section through new or existing programs.SEC. 14. CRITERIA ON APPROPRIATENESS OF GIFT ACCEPTANCE; PRINCIPLES FOR PUBLIC-PRIVATE PARTNERSHIPS.
+(a) Criteria For Determining Appropriateness Of Gift Acceptance.—
+(1) IN GENERAL.—Not later than 180 days after the date of enactment of this Act, the Director shall establish the criteria to be used in determining whether the acceptance of contributions of money, services, use of facilities, or personal property under this Act would reflect unfavorably upon the ability of the National Science Foundation, or any employee of the National Science Foundation, to carry out its responsibilities or official duties in a fair, objective, and transparent manner, or would compromise the integrity or the appearance of the integrity of its programs or any official involved in those programs.
+(2) REQUIREMENTS.—
+(A) VERIFICATION.—
+(i) DEFINED TERM.—In this subparagraph, the term “entity meeting the definition of foreign ownership, control, or influence” means, with respect to a United States entity—
+(I) a foreign interest has the power to direct or decide matters affecting such entity's management or operations in a manner that could—
+(aa) result in unauthorized access to classified information; or
+(bb) adversely affect the performance of a contract or agreement requiring access to classified information; and
+(II) the foreign interest is—
+(aa) exercising such power directly or indirectly;
+(bb) exercising such power through ownership of such entity's securities, by contractual arrangements, or other similar means;
+(cc) exercising such power through its ability to control or influence the election or appointment of 1 or more members to the entity's governing board; or
+(dd) capable of exercising such power.
+(ii) IN GENERAL.—The Director, working with relevant Federal agencies, shall require that any criteria established pursuant to paragraph (1) include a means to verify that no contribution has any ties to a foreign entity of concern, a foreign country of concern, or an entity meeting the definition of foreign ownership, control, or influence.
+(B) PROHIBITION.—The criteria established pursuant to paragraph (1) shall include a prohibition on the receipt of funding pursuant to the National Science Foundation’s gift authority from either a foreign country of concern or a foreign entity of concern.
+(3) REVIEW OF EXISTING RULES.—To the extent the criteria described in paragraph (1) have already been established, the Director shall—
+(A) conduct a review of the existing criteria;
+(B) update the criteria as necessary to satisfy the requirements under this subsection; and
+(C) include, in the report under paragraph (4), an explanation of the existing criteria and any changes made to the criteria resulting from the Director’s review.
+(4) REPORT.—The Director shall submit a report on the criteria established under this subsection to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce and the Committee on Science, Space, and Technology of the House of Representatives.(b) Principles For Public-Private Partnerships.—
+(1) IN GENERAL.—The Director shall establish principles to guide the National Science Foundation's formation of public-private partnerships under this Act to help ensure that such partnerships are aligned with the National Science Foundation's statutory obligations and do not reflect unfavorably upon the ability of the National Science Foundation or any employee of the National Science Foundation, to carry out its responsibilities or official duties in a fair, objective, and transparent manner, or compromise the integrity or the appearance of the integrity of its programs or any official involved in those programs.
+(2) REVIEW OF EXISTING PRINCIPLES.—To the extent the principles described in paragraph (1) have already been established, the Director shall—
+(A) conduct a review of the existing principles;
+(B) update the principles as necessary to satisfy the requirements under paragraph (1); and
+(C) include, in the report under paragraph (3), an explanation of the existing principles and any changes made to the principles resulting from the Director’s review.
+(3) REPORT.—The Director shall submit a report on the principles established under this subsection to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce and the Committee on Science, Space, and Technology of the House of Representatives.SEC. 15. ACTIVITIES SUBJECT TO FUNDING.
+The activities under this Act that are subject to this section shall only be required if sufficient funds are either appropriated by Congress or made available to carry out those respective requirements.SEC. 16. RESEARCH SECURITY.
+The activities authorized under this Act shall be carried out in accordance with the provision of subtitle D of title VI of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19231 et seq.; enacted as part of division B of Public Law 117–167) and section 223 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (42 U.S.C. 6605).SEC. 17. WORKFORCE FRAMEWORKS FOR CRITICAL AND EMERGING TECHNOLOGIES.
+(a) Definitions.—
+(1) IN GENERAL.—In this section, the terms “competencies”, “workforce categories”, and “workforce framework” have the meanings given such terms in subsection (f) of section 2 of the National Institute of Standards and Technology Act (15 U.S.C. 272), as added by paragraph (2) of this subsection.
+(2) AMENDMENT TO NIST ACT.—Section 2 of such Act (15 U.S.C. 272) is amended by adding at the end the following:
+“(f) Definitions.—In this section:
+“(1) COMPETENCIES.—The term ‘competencies’ means knowledge and skills.
+“(2) WORKFORCE CATEGORIES.—The term ‘workforce categories’ means a high-level grouping of tasks across an organization as defined by work roles within the category.
+“(3) WORKFORCE FRAMEWORK.—The term ‘workforce framework’ means a common taxonomy and lexicon for any given domain that includes the building blocks of tasks, knowledge, or skills that can be structured to form work roles or competency areas.”.(b) Expansion Of Functions Of Director Of National Institute Of Standards And Technology To Include Workforce Frameworks For Critical And Emerging Technologies.—Section 2(b) of such Act (15 U.S.C. 272(b)) is amended—
+(1) in paragraph (12), by striking “; and” and inserting a semicolon;
+(2) in paragraph (13), by striking the period at the end and inserting “; and”; and
+(3) by adding at the end the following:
+“(14) (A) to develop, maintain, and provide industry, government, research, nonprofit, labor organizations, and educational institutions with workforce frameworks for critical and emerging technologies and other science, technology, engineering, and mathematics domains for the purpose of bolstering scientific and technical education, training, and workforce development;
+“(B) at least once every 3 years—
+“(i) to determine if an update to any workforce framework, or its components or associated materials, including work roles or competency areas, provided pursuant to subparagraph (A) are appropriate; and
+“(ii) if the Director determines it is appropriate under clause (i), to update such frameworks and components;
+“(C) consider including in all workforce frameworks, or associated materials—
+“(i) relevant professional skills or employability skills;
+“(ii) relevant support or operations work roles and competency areas such as administration and finance, law and policy, ethics, privacy, human resources, information technology, operational technology, supply chain security, and acquisition and procurement;
+“(iii) information that promotes the discovery of careers in critical and emerging technologies and the multiple career pathways for learners from a variety of backgrounds, including individuals with nontechnical or other nontraditional backgrounds and education; and
+“(iv) information for how individuals can acquire relevant credentials (e.g., academic degrees, certificates, certifications, etc.) that qualify individuals for employment and career advancement;
+“(D) consult, as the Director considers appropriate, with Federal agencies, industry, State, local, Tribal, and territorial government, nonprofit, labor organizations, research, and academic institutions in the development of workforce frameworks, or associated materials;
+“(E) to produce resources in multiple languages to support global adoption of the frameworks provided pursuant to subparagraph (A); and
+“(F) after each determination under subparagraph (B), to submit to Congress a report on such determination and any plans to review and update any workforce frameworks under this paragraph.”.(c) NICE Workforce Framework For Cybersecurity Update.—
+(1) REPORT ON UPDATES.—
+(A) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, and subsequently pursuant to paragraph (14)(F) of section (2)(b) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)), as added by subsection (b) of this section, the Director of the National Institute of Standards and Technology shall submit to Congress a report that describes the process for ongoing review and updates to the National Initiative for Cybersecurity Education Workforce Framework for Cybersecurity (NIST Special Publication 800–181), or a successor framework.
+(B) REQUIREMENTS.—Each report submitted pursuant to subparagraph (A) shall—
+(i) summarize proposed changes to the framework;
+(ii) identify, with regard to the work roles, tasks, knowledge, and skills included in the framework, how industry, academia, labor organizations, and relevant government agencies are consulted in the update; and
+(iii) describe—
+(I) the ongoing process and timeline for updating the framework; and
+(II) the incorporation of any additional work roles or competency areas in domains such as administration and finance, law and policy, ethics, privacy, human resources, information technology, operational technology, supply chain security, and acquisition and procurement.
+(2) REPORT ON APPLICATION AND USE OF NICE FRAMEWORK.—Not later than 3 years after the date of the enactment of this Act and not less frequently than once every 3 years thereafter for 9 years, the Director shall, in consultation with industry, government, nonprofit, labor organizations, research, and academic institutions, submit to Congress a report that identifies—
+(A) applications and uses of the framework described in paragraph (1)(A) in practice;
+(B) any guidance that the program office of the National Initiative for Cybersecurity Education provides to increase adoption by employers and education and training providers of the work roles and competency areas for individuals who perform cybersecurity work at all proficiency levels;
+(C) available information regarding employer and education and training provider use of the framework;
+(D) an assessment of the use and effectiveness of the framework by and for individuals with nontraditional backgrounds or education, especially individuals making a career change or not pursuing a bachelor’s degree or higher; and
+(E) any additional actions taken by the Director to increase the use of the framework.
+(3) CYBERSECURITY CAREER EXPLORATION RESOURCES.—The Director, acting through the National Initiative for Cybersecurity Education, shall disseminate cybersecurity career resources for all age groups, including kindergarten through secondary and postsecondary education and adult workers.(d) Additional Workforce Frameworks.—
+(1) FRAMEWORK ASSESSMENT.—Not later than 180 days after the date of the enactment of this Act, the Director shall assess the need for additional workforce frameworks for critical and emerging technologies, such as quantum information science.
+(2) DEVELOPMENT OF ADDITIONAL FRAMEWORKS.—
+(A) IN GENERAL.—The Director shall develop and publish a workforce framework for each additional workforce framework that the Director determines is needed pursuant to an assessment carried out pursuant to paragraph (1).
+(B) REQUIRED AI FRAMEWORK.—Notwithstanding paragraph (1) and subparagraph (A) of this paragraph, not less than 540 days after the date of the enactment of this Act, the Director shall develop and publish a workforce framework, workforce categories, work roles, and competency areas for artificial intelligence.
+(3) MODEL.—In developing a workforce framework under paragraph (2), the Director may use the Playbook for Workforce Frameworks developed by the National Initiative for Cybersecurity Education that is modeled after the National Initiative for Cybersecurity Education Workforce Framework for Cybersecurity (NIST Special Publication 800–181), or a successor framework.
+(4) FRAMEWORK COMPONENTS.—Each framework developed pursuant to paragraph (2) shall include relevant support or operations work roles and competency areas such as administration and finance, law and policy, ethics, privacy, human resources, information technology, operational technology, supply chain security, and acquisition and procurement, as the Director considers appropriate, in alignment with paragraph (14)(C) of section 2(b) of the National Institute of Standards and Technology Act ( 15 U.S.C. 272(b)), as added by subsection (b).
+(5) PROFESSIONAL SKILLS REQUIRED.—Each framework developed pursuant to paragraph (2) shall include professional skills or employability skills, as the Director considers appropriate, in alignment with paragraph (14)(C) of section 2(b) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)), as added by subsection (b).
+(6) NONTRADITIONAL BACKGROUNDS.—Each framework developed under paragraph (2), or materials associated with each framework, shall include information for how individuals with nontechnical or other nontraditional backgrounds and education may utilize their skills for such frameworks’ roles and tasks, in alignment with paragraph (14)(D) of section 2(b) of the such Act (15 U.S.C. 272(b)(14)(D)), as so added.
+(7) UPDATES.—The Director shall update each framework developed under paragraph (2) in accordance with subparagraph (B) of paragraph (14) of section 2(b) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)), as added by subsection (b) of this section, and submit to Congress reports in accordance with subparagraph (F) of such paragraph.SEC. 18. RESTRICTIONS ON AWARDS OR SCHOLARSHIPS TO CERTAIN INSTITUTIONS OR RECIPIENTS.
+The Director may not award any funds or initiate any programs authorized under or described in this Act to an elementary or secondary education institution, an institution of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), a nonprofit entity related to or affiliated with any such institution, a nonprofit entity that engages in established curriculum-related clinical training of students registered at any such institution, a nonprofit research organization, or a governmental research organization, if such recipient has been found to be in violation of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) due to discrimination on the basis of shared ancestry or ethnic characteristics on or after January 1, 2020.

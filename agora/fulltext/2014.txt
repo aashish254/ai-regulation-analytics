@@ -1,0 +1,74 @@
+Ethical Artificial Intelligence (AI) Policy 
+
+
+I. Purpose 
+The City of Tempe established the Ethical Artificial Intelligence (AI) Policy to affirm Tempe’s commitment to responsible and ethical use of AI through the principles that ensure transparency, fairness, accountability, and the protection of individual rights in all AI-related activities conducted by the City of Tempe. Being intentional in our adoption and use of AI technologies will drive innovation, support increased efficiencies in operations and improved experiences for community engagement. This policy outlines the principles, guidelines, and procedures governing the responsible and ethical use of AI technologies within Tempe. 
+
+
+II. Scope 
+This policy applies to the design, development, and deployment of AI for:  
+All departments, agencies, employees, contractors, and stakeholders involved in the development, deployment, and utilization of AI within Tempe.  
+Categories of AI inclusive of predictive analytics, machine learning, deep learning, generative AI, and automated decision making  
+All cases where AI functionality is known to be included, such as new tools for existing products, new products being considered for use or where AI technology is developed by Tempe employees, contractors, partner agencies or other stakeholders. 
+
+
+III. Policy Statement 
+The City of Tempe is committed to designing, developing, and deploying AI technologies in a responsible and ethical manner. We recognize that AI has the potential to significantly impact society and drive innovation, and we believe that it is our duty to ensure that its development, adoption, and use align with the principles of fairness, transparency, accountability, and respect for human rights. With this in mind, we hereby establish our ethical AI policy, outlining the principles and guidelines that will govern our AI initiatives: 
+
+
+1. Purpose and Scope. We will clearly define the problem the AI technology would solve including the purpose and the scope of application. 
+
+
+2. Human-Centered Approach: We will prioritize the well-being, safety, and dignity of individuals and communities affected by AI technology we use. We will strive to understand and address the needs and values of humans, promoting AI technologies that enhance human capabilities, foster inclusion, and contribute to the overall betterment of society. 
+
+
+3. Human Responsibility: We will clearly define the roles and responsibilities of human operators in utilizing AI systems, including their training requirements and obligations for monitoring, and intervening in system decisions. 
+
+
+4. Human-AI Collaboration: We will encourage collaboration between humans and AI systems, leveraging the strengths of both to enhance decision-making processes and ensure that ultimate control remains with humans. 
+5. Fairness and Avoidance of Bias: We will actively work to eliminate biases and ensure fairness in our design, development, and deployment of AI technology. We will take steps to prevent discrimination, protect privacy, and mitigate the risks of unfair or unjust outcomes resulting from AI algorithms. We will continuously assess and mitigate potential biases throughout the AI lifecycle. 
+
+
+6. Transparency and Explainability: We will strive to make our selection, design, development, and deployment of AI technology transparent and explainable to the best of our abilities. We will clearly disclose where individuals are interacting with AI or interacting with AI generated content. We will provide clear documentation and accessible information about the functioning and purpose of the AI technologies we use, enabling users, stakeholders and those who are subject to decisions informed by AI to understand and question the decision-making processes involved. 
+
+
+7. Accountability and Oversight: We will establish standards for accountability and oversight throughout the selection, design, development, and deployment of AI technology. We will be responsible for the actions and impacts of the AI technology we use, and we will implement strategies to identify, mitigate and rectify any potential harms or unintended consequences resulting from their use. We will proactively engage in ongoing monitoring, evaluation, and auditing to ensure compliance with ethical standards. 
+
+
+8. Data Privacy and Security: We will maintain the highest standards of data privacy and security in our AI initiatives. We will handle personal data in accordance with applicable policy, laws, and regulations, and we will implement robust safeguards to protect data from unauthorized access, misuse, or breaches. 
+
+
+9. Collaboration and Public Engagement: We will actively engage with stakeholders, such as users, experts, policymakers, and community organizations, to solicit diverse perspectives and feedback on the AI technology under consideration or currently used. We will seek to foster collaboration and share knowledge to address ethical challenges and ensure that AI technologies benefit society as a whole. 
+
+
+10. Continuous Monitoring and Ethical Improvement: We will continuously strive to improve the ethical aspects of our AI technology through research, innovation, and learning from our experiences. We will keep abreast of emerging ethical guidelines and best practices, adapting our policies and practices accordingly. 
+11. Training Programs: We will provide training programs and resources to employees involved in AI system development and utilization, promoting AI literacy, ethical considerations, privacy protection, and responsible AI practices. 
+
+
+12. Compliance and Legal Frameworks: We will comply with applicable laws, standards and regulations related to AI and data protection. We will actively support the development of ethical AI regulations and frameworks that align with our principles and contribute to the responsible use of AI technology. 
+
+
+This ethical AI policy statement reflects our commitment to responsible and ethical AI. We recognize that ethical considerations are paramount, and we will hold ourselves accountable to these principles as we work towards creating AI technologies that benefit humanity and contribute positively to our collective future. 
+
+
+IV. AI Governance 
+1. Departments shall 
+a) Define clear objectives and goals in support of adopting an AI solution and the intended use(s) of the solution. 
+b) Collaborate with Information Technology to complete the Artificial Intelligence Review process and will implement any mitigation strategies identified during the review. 
+c) Conduct semiannual reviews of implemented AI solutions. 
+
+
+2. Technology and Innovation Steering Committee shall 
+a) Establish mechanisms for ongoing monitoring and evaluation of AI solutions to ensure compliance with this policy and relevant laws and regulations. 
+b) Develop reporting mechanisms for AI-related activities, including regular audits to assess policy compliance and identify areas for improvement. 
+c) Define consequences for non-compliance with this policy, including disciplinary actions or termination of contracts, and establish remedial measures to address violations or failures of AI systems. 
+d) Support public awareness campaigns and educational initiatives to inform and engage the public on AI-related activities, their purpose, and potential impacts. 
+
+
+3. Information Technology shall 
+a) Collaborate with departments to develop the Artificial Intelligence Review Process. 
+b) Collaborate with departments to complete the Artificial Intelligence Review process and semiannual review. 
+c) Provide training programs and resources to employees involved in AI system development and utilization, promoting AI literacy, ethical considerations, privacy protection, and responsible AI practices. 
+
+
+This policy will be periodically reviewed and updated as necessary to address emerging challenges, technological advancements, and changes in legal or regulatory frameworks related to AI.

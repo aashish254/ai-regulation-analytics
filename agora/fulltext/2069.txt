@@ -1,0 +1,122 @@
+1. Purpose
+This policy, guided by the New Hampshire Code of Ethics for the Use and Development of Generative
+Artificial Intelligence and Automated Decision Systems (AI System) outlines the principles, guidelines, and
+requirements for the responsible and ethical use of various AI technologies across State Government
+Departments and Agencies, with a strong emphasis on protecting Personal Identifying Information (PII)
+and restricted or sensitive data.
+This policy is part of the library of Statewide processes that supports the State of New Hampshire’s
+information security program that is collectively referred to as the Statewide Information Security Manual,
+or “SISM”. The SISM is applicable to all Departments, Agencies, Commissions, Boards, Bodies, or other
+instrumentalities of the Executive Branch of New Hampshire State Government.
+2. Applicability
+All New Hampshire State Employees and affiliates are responsible and accountable to their supervisor and
+Agency Head to adhere to the following principles when using AI to enable the delivery of government
+services:
+• Human-Centric Approach: A human-centric approach shall be used to develop and deploy AI
+technologies, prioritizing the well-being, rights, and interests of users and stakeholders.
+• Transparency and Accountability: All AI systems used by State Government shall be transparent,
+explainable, and accountable, especially when handling PII and sensitive data.
+• Fairness and Nondiscrimination: AI technologies shall be designed and integrated to avoid bias,
+discrimination, and unfair treatment, particularly when dealing with PII and sensitive information,
+while ensuring equitable accessibility and level of service for all users. AI user interfaces shall be
+designed to comply with the current published version of the web content accessibility guidelines
+(WCAG).
+• Privacy and Data Protection: The collection, storage, and use of user data, especially PII and
+sensitive data, shall adhere to relevant data protection laws and prioritize user privacy, in 
+alignment with the New Hampshire Statewide Information Security Manual and New Hampshire
+Privacy Laws.
+• Continuous Improvement: Any employee or Agency using AI shall continuously monitor, evaluate,
+and improve AI technologies to ensure their effectiveness, accuracy, and ethical use, with special
+attention to data security.
+
+All New Hampshire State Employees may use a variety of AI-powered technologies to enhance
+government services, streamline processes, and provide users with timely and accurate information. All
+employees and affiliates shall adhere to specific requirements for each use case:
+• Decision Support Systems: Automated decision systems may assist human decision-makers by
+providing data-driven insights, but final decisions shall remain under human oversight and
+judgment.
+• Public Engagement: AI-powered chatbots and virtual assistants may be used for public
+engagement, answering frequently asked questions, and providing users with information on
+government initiatives and services, while adhering to stringent data protection measures found
+in the Statewide Information Security Manual.
+• Predictive Analytics: AI technologies may be used for predictive modeling and data analysis to
+inform policymaking, resource allocation, and future planning, with strict controls on data access
+and sharing for PII and sensitive data.
+• Image and Video Analysis: AI systems may be used for analyzing images and videos to support
+efforts such as law enforcement, emergency response, and environmental monitoring, while
+ensuring the confidentiality and security of PII and sensitive data, in line with applicable federal
+and New Hampshire law.
+• Natural Language Processing: AI-driven natural language processing tools may be employed to
+analyze public sentiment, engage in open-ended user feedback, and gather insights for
+policymaking while safeguarding user privacy and guided by the New Hampshire Code of Ethics for
+the Use of AI Systems.
+• Generative Content: AI technology may be used to create content such as images and draft
+publications, including media releases, guidance documents, etc., but final publications must have
+human review and approval.
+• Healthcare and Public Health: AI technologies may be used to analyze healthcare data for disease
+trends, resource allocation, and public health initiatives, ensuring the security and privacy of
+medical information, in accordance with applicable laws and directives for the protection of
+sensitive data.
+• Environmental Monitoring: AI systems may be deployed to analyze environmental data for
+detecting pollution, predicting natural disasters, and supporting conservation efforts, while
+adhering to data protection regulations stipulated by Federal Law or New Hampshire Statutes and
+regulations promulgated by the New Hampshire Department of Environmental Services.
+• Transportation and Infrastructure: AI technologies may be utilized to optimize transportation
+systems, manage traffic flow, and assess infrastructure maintenance needs, with a focus on data
+security and protection, but final decisions shall remain under human oversight and judgment.
+
+All New Hampshire State Employees and affiliates are responsible and accountable to their supervisor and
+Agency Head to adhere to the following technical and ethical requirements when using AI to deliver
+government services:
+ Algorithmic Transparency: AI systems shall provide explanations for decisions and actions,
+especially those involving PII and sensitive data, enabling users to understand the basis for
+responses.
+• Data Quality: Data used to train and operate AI systems shall be accurate, representative, and
+relevant, with specific attention to maintaining the security of PII and sensitive information. PII
+and sensitive data shall never be used in an “open” AI instance; that is, where the AI is not
+instantiated in a manner where the State controls both the application and the data.
+• Human Oversight: Critical decisions, policy changes, and high-stakes interactions require rigorous
+human oversight and intervention at the same level as if AI was not used in the process.
+• Ethical Review: High-risk AI systems shall undergo ethical reviews, by a committee composed of
+the program owner, a representative of the Attorney General’s Office, and the Agency Head, with
+a specific focus to assess potential societal impacts, bias, and unintended consequences.
+
+All New Hampshire State Employees and affiliates are responsible and accountable to their supervisor and
+Agency Head to adhere to the following data governance and cybersecurity requirements per the
+Statewide Information Security Manual when using AI to deliver government services:
+• Data Protection: All data, especially PII and sensitive data, processed by AI technologies shall
+adhere to established data protection protocols and comply with heightened measures for
+encryption, access controls, and secure storage as required by specific programs or regulatory
+bodies in addition to any SISM requirements.
+• Cybersecurity: AI systems shall be designed and maintained with robust cybersecurity measures
+to protect against unauthorized access, data breaches, and potential compromise of PII and
+sensitive information, as mandated by the Statewide Information Security Manual and regulatory
+bodies.
+All New Hampshire State Employees and affiliates are responsible and accountable to their supervisor and
+Agency Head to ensure:
+• Transparency in Communication: Users interacting with AI technologies shall be informed when
+they are interacting with automated technology and provided with information on how their PII
+and sensitive data are handled and protected.
+• Use of AI Education Initiatives: Agencies using AI engage in public education initiatives to increase
+user awareness of AI technology usage, benefits, and potential risks.
+
+NIST controls
+This policy has been mapped to the current NIST-800-53 R5 standard and the standard tags are
+contained in the procedure’s metadata and listed here:
+• Personally identifiable information processing and transparency (PT)
+• System development life cycle (SA-03)
+• Risk assessment (RA)
+
+3. Roles and responsibilities
+This policy applies to all State of New Hampshire Employees. Accountability for adherence to this policy is
+the responsibility of Agency heads.
+Agencies shall report all instances of AI Technologies in development and production to DoIT’s Business
+Relationship Management Division (BRMD) for inventory purposes.
+
+4. References
+• State of New Hampshire Code of Ethics for AI Systems
+• RSA 5:D, Use of Artificial Intelligence by State Agencies
+• RSA 507:8-j effective January 1, 2025, Civil Actions for Fraudulent Use of Deepfakes.
+• RSA 638:26-a effective January 1, 2025, Identity Theft: Fraudulent Use of Deepfakes.
+• RSA 664:14-c Political Advertising: Synthetic Media and Deceptive and Fraudulent
+Deepfakes.

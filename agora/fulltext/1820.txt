@@ -1,0 +1,724 @@
+PART 732—STEPS FOR USING THE EAR
+
+1. The authority citation for part 732 continues to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783. 
+
+2. Supplement No. 3 to part 732 is amended by adding paragraph 28 under “Red Flags” to read as follows: 
+
+Supplement No. 3 to Part 732—BIS's “Know Your Customer” Guidance and Red Flags
+
+* * * * * 
+
+Red Flags
+
+* * * * * 
+
+28. You will be providing Infrastructure-as-a-Service (IaaS) products or services, or other computing products or services, to assist in training an AI model with model weights captured by ECCN 4E091 for an entity headquartered, or whose ultimate parent is headquartered, in any destination other than those listed in paragraph (a) of supplement no. 5 to part 740 of the EAR. Such assistance creates a substantial risk that such AI model weights, due to their digital nature, will be exported or reexported to a destination for which a license is required and, if a license is not obtained, that the IaaS provider will have aided and abetted in a violation of the EAR. In such cases, the IaaS provider should inquire if the customer intends to export the model and if so, apply for a license as required or inform the customer of their obligation to do so prior to export.
+
+PART 734—SCOPE OF THE EXPORT ADMINISTRATION REGULATIONS
+
+3. The authority citation for part 734 continues to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., p. 223; Notice of November 7, 2024, 89 FR 88867 (November 8, 2024); Pub. L. 118-50. 
+
+4. Section 734.9 is amended by: 
+
+a. Revising paragraph (h); and 
+
+b. Adding paragraph (l). 
+
+The addition and revision read as follows:
+
+§ 734.9 
+
+Foreign-Direct Product (FDP) Rules.
+
+* * * * * 
+
+(h) Advanced computing FDP rule. A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (h)(1) of this section and the destination scope in paragraph (h)(2) of this section. See § 742.6(a)(6) of the EAR for license requirements and license exceptions and § 742.6(b)(10) for license review policy applicable to foreign-produced items that are subject to the EAR under this paragraph (h). 
+
+(1) Product scope of advanced computing FDP rule. The product scope applies if a foreign-produced item meets the conditions of either paragraph (h)(1)(i) or (ii) of this section. 
+
+(i) “Direct product” of “technology” or “software.” A foreign-produced item meets the product scope of this paragraph (h) if it meets both of the following conditions: 
+
+(A) The foreign-produced item is the “direct product” of “technology” or “software” subject to the EAR and specified in 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E991, or 5E002 of the CCL; and
+
+(B) The foreign-produced item is:
+
+( 1) Specified in ECCN 3A090, 3E001 (for 3A090), 4A090, or 4E001 (for 4A090) of the CCL; or 
+
+( 2) An integrated circuit, computer, “electronic assembly,” or “component” specified in ECCN 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z. 
+
+(ii) Product of a complete plant or 'major component' of a plant that is a “direct product.” A foreign-produced item meets the product scope of this paragraph (h) if it meets both of the following conditions: 
+
+(A) The foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, 5E991, 5D002, or 5E002 of the CCL; and
+
+(B) The foreign-produced item is:
+
+( 1) Specified in ECCN 3A090, 3E001 (for 3A090), 4A090, or 4E001 (for 4A090) of the CCL; or 
+
+( 2) An integrated circuit, computer, “electronic assembly,” or “component” specified in ECCN 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z. 
+
+(2) Destination or end use scope of the advanced computing FDP rule. A foreign-produced item meets the destination scope of this paragraph (h)(2) if there is “knowledge” that the foreign-produced item is: 
+
+(i) Destined to any location worldwide or will be incorporated into any “part,” “component,” “computer,” or “equipment” not designated EAR99 destined to any location worldwide; or
+
+(ii) “Technology” “developed” by an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5, for the “production” of a mask or an integrated circuit wafer or die. 
+
+Note to 5 paragraph (h)(2)(ii):
+
+These end-use requirements under paragraph (h) apply when any entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5, is a party to any transaction involving the foreign-produced item, e.g., as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
+
+* * * * * 
+
+(l) AI Model weights FDP rule. A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (l)(1) of this section and the destination scope in paragraph (l)(2) of this section. See § 742.6(a)(13) of the EAR for license requirements and § 742.6(b)(10) for license review policy applicable to foreign-produced items that are subject to the EAR under this paragraph (l). 
+
+(1) Product scope. The product scope applies if a foreign-produced item is specified in ECCN 4E091 and is produced by a complete plant or `major component' of a plant that is located outside the United States, when the complete plant or `major component' of a plant, whether made in the United States or a foreign country, is subject to the EAR and specified in ECCN 3A001.z, 3A090, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, or 5A992.z. 
+
+Note 7 to paragraph (l)(1):
+
+A foreign-produced item specified in ECCN 4E091 includes any foreign produced item that is further trained or modified via post-training techniques such as fine-tuning, quantization, or other techniques.
+
+(2) Destination scope. A foreign-produced 4E091 item meets the destination scope of this paragraph (l)(2) if the foreign-produced item is destined to any location worldwide. 
+
+* * * * * 
+
+PART 740—LICENSE EXCEPTIONS
+
+5. The authority citation for part 740 continues to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;22 U.S.C. 7201 et seq.;E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783. 
+
+6. Section 740.2 is amended by revising paragraph (a)(9)(ii) introductory text and paragraph (a)(9)(ii)(A) to read as follows: 
+
+§ 740.2 
+
+Restrictions on all License Exceptions.
+
+* * * * * 
+
+(a) * * *
+
+(9) * * *
+
+(ii) The item is identified in paragraph (a)(9)(ii)(A) or (B) of this section and is being exported, reexported, or transferred (in-country) to or within a destination specified in Country Group D:1, D:4, or D:5, excluding any destination also specified in Country Groups A:5 or A:6, or to an entity headquartered in or whose ultimate parent is headquartered in, Macau or a destination specified in Country Group D:5, wherever located, and the license exception is other than: TMP, restricted to eligibility under the provisions of § 740.9(a)(6); NAC/ACA, under the provisions of § 740.8; RPL, under the provisions of § 740.10; GOV, restricted to eligibility under the provisions of § 740.11(b); TSU under the provisions of § 740.13(a) and (c); HBM under the provisions of § 740.25; AIA under the provisions of § 740.27 (for ECCN 4E091 to entities headquartered in countries listed in paragraph (a) of supplement no. 5 to part 740 and located in destinations other than Macau or Country Group D:5); or ACM under the provisions of § 740.28. Items restricted to eligibility only for the foregoing license exceptions are:
+
+(A) Controlled under ECCNs 3A090, 4A090, 4E091, or associated software and technology in 3D001, 3E001, 4D090, and 4E001;
+
+* * * * * 
+
+7. Section 740.8 is amended by revising the introductory text of paragraph (a) and paragraph (c)(1) to read as follows: 
+
+§ 740.8 
+
+Notified Advanced Computing (NAC) and Advanced Computing Authorized (ACA).
+
+(a) Eligibility requirements. License Exception NAC authorizes the export and reexport of any item classified in ECCN 3A090 (except for 3A090.c), 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a, to Macau and Country Group D:5 or an entity headquartered in or whose ultimate parent is headquartered in, Macau or a destination specified in Country Group D:5, wherever located. License Exception ACA authorizes the export, reexport, and transfer (in-country) of any item classified in ECCN 3A090 (except for 3A090.c), 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a, to or within any destination worldwide (except Macau, a destination specified in Country Group D:5, or an entity headquartered in, or whose ultimate parent is headquartered in, Macau or a destination specified in Country Group D:5, wherever located), as well as transfers (in-country) within Macau and destinations specified in Country Group D:5. These license exceptions may be used provided the export, reexport, or transfer (in-country) meets all of the applicable criteria identified under this paragraph (a) and none of the restrictions in paragraph (b) of this section. 
+
+* * * * * 
+
+(c) * * *
+
+(1) Procedures. At least twenty-five calendar days prior to exports or reexports using License Exception NAC, you must provide prior notification under License Exception NAC by submitting a completed application in SNAP-R in accordance with § 748.1 of the EAR. The following blocks must be completed, as appropriate: Blocks 1, 2, 3, 4, 5 (by marking box 5 export license or reexport license), 9, 14, 16, 17, 18, 19, 21, 22(a), (d), (e), (f), (g), (h), (i), (j), 23, 24, and 25 according to the instructions described in supplement no. 1 to part 748 of the EAR. Box 9 under special purpose must include NAC. The application must include certain information to allow for BIS to determine if the item in question otherwise meets the criteria for an item eligible for License Exception NAC. Required information to include in the NAC submission is as follows: 
+
+(i) Total Processing Performance of the item, as defined in ECCN 3A090;
+
+(ii) Performance density of the item, as defined in ECCN 3A090;
+
+(iii) Data sheet or other documentation showing how the item is designed and marketed (in particular, whether it is designed or marketed for datacenter use);
+
+(iv) All NAC and license approvals to the end-user in the past 12 months;
+
+(v) Memory bandwidth of the item(s); and
+
+(vi) Whether the items are destined for use in a computing cluster, and, if so:
+
+(A) The computing power of the computing cluster, measured in the aggregate TPP of all chips used in the cluster once the cluster is complete; and
+
+(B) Whether the cluster will be:
+
+( 1) Exclusively for internal use by a company headquartered in the United States or a destination specified in Country Group A:5 or A:6, or 
+
+( 2) Used by any other companies not headquartered in A:5 or A:6, or by external parties such as through cloud services. 
+
+* * * * * 
+
+8. Add §§ 740.27, 740.28, and 740.29 to read as follows: 
+
+§ 740.27 
+
+License Exception Artificial Intelligence Authorization (AIA).
+
+(a) Scope. This license exception authorizes the export, reexport, and transfer (in-country) of the items identified in paragraphs (a)(1) and (a)(2)(i) of this section to entities located within destinations listed in paragraph (a) of supplement no. 5 to this part, unless the entity is headquartered outside of, or has an ultimate parent company headquartered outside of, a destination specified in paragraph (a) of supplement no. 5 to this part, with an additional authorization for certain model weights in paragraph (a)(3) of this section, subject to additional conditions. This license exception cannot be used to provide items identified in paragraph (a)(1) of this section to entities headquartered outside of or located outside of paragraph (a) in supplement no. 5 to this part for training AI models specified in ECCN 4E091. Prior to export, reexport, or transfer (in-country) of eligible items in paragraph (a)(1) of this section, the exporter, reexporter, or transferor must obtain the certification described in (b)(2) of this section and submit it to BIS. 
+
+(1) Eligible commodities for this exception are: ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1; 5A004.z.1.a, z.2.a; and 5A992.z.1.
+
+(2) Eligible software and technology for this exception are:
+
+(i) Advanced Integrated Circuits: 3D001 (for “software” for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a and 3A090.a); 4D001 (for “software” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1); 4D090 (for “software” for commodities controlled by 4A090.a); 4E001 (for “technology” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or “software” specified by 4D001 (for 4A003.z.1.a, z.2.a 4A004.z.1, and 4A005.z.1) or 4D090.a); ; 5D002.z.1.a z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a, or 5D992.z.1; 5E002 (for “technology” for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or “software” specified by 5D002 (for 5A002. z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities)); and 5E992 (for “technology” for commodities controlled by 5A992.z.1 or “software” controlled by 5D992.z.1.)
+
+(ii) AI Model Weights specified by ECCN 4E091, subject to the additional requirements in paragraph (a)(3) of this section.
+
+(3) Additional authorization for AI model weights. For items identified in paragraph (a)(2)(ii) of this section only, this license exception also authorizes the export, reexport, and transfer (in-country) to entities headquartered, or whose ultimate parent company is headquartered, in the destinations listed in paragraph (a) of supplement no. 5 to this part 740, as long as:
+
+(i) The entities obtaining the items are located outside Macau or destinations specified in Country Group D:5, and
+
+(ii) These items will be stored in a facility that complies with paragraphs 14, 15 and 18 of the guidelines outlined in supplement no. 10 to part 748 (regardless of whether the facility is designated as a VEU).
+
+(b) Requirements prior to use of this license exception for eligible commodities, software, and technology identified in paragraphs (a)(1) and (a)(2)(i) of this section— (1) Furnish ECCN. The exporter, reexporter, or transferor must furnish to the ultimate consignee the ECCN of each item to be exported, reexported, or transferred (in-country) pursuant to this section. Once furnished to a particular ultimate consignee, the ECCN need not be refurnished to that same ultimate consignee at the time the same exporter, reexporter, or transferor makes an additional export, reexport, or transfer (in-country) of the same item, if the ECCN(s) remains accurate at the time of the additional export, reexport, or transfer (in-country). For purposes of this license exception, the ultimate consignee is the entity that has ownership over the eligible item(s) in paragraph (a)(1) or (a)(2)(ii). 
+
+(2) Ultimate consignee certification. Prior to use of this license exception for items identified in (a)(1) only, the exporter, reexporter, or transferor must obtain a certification from the ultimate consignee. The certification is a one-time certification provided by each ultimate consignee that will be receiving items through the use of this license exception. The certification should provide that: [INSERT NAME(S) OF ULTIMATE CONSIGNEE(S)]: 
+
+(i) Is aware that [INSERT GENERAL DESCRIPTION AND APPLICABLE ECCN(S) OF ITEMS TO BE SHIPPED ( e.g., Boards classified under ECCN 4A090.a)) will be shipped pursuant to License Exception Artificial Intelligence Authorization (AIA) of the Export Administration Regulations (EAR), 15 CFR parts 730-774; 
+
+(ii) Agrees not to export, reexport, or transfer (in-country) these items to any end use or end user prohibited pursuant to Part 744 of the EAR without BIS authorization;
+
+(iii) Agrees items received under this license exception are not, without prior authorization from the U.S. Department of Commerce's Bureau of Industry and Security (BIS), to be used to provide Infrastructure-as-a-Service (IaaS) access for training AI models specified in ECCN 4E091 for entities headquartered or located outside of, or whose ultimate parent company is headquartered outside of destinations listed in paragraph (a) of Supplement No. 5 to part 740;
+
+(iv) Agrees that the items received under this license exception will not be exported, reexported, or transferred (in-country) to an entity headquartered or located outside of, or whose ultimate parent company is headquartered outside of paragraph (a) of Supplement No. 5 to Part 740 without prior authorization from BIS; and
+
+(v) Inserts [NAME(S), SIGNATURE(S), AND TITLE(S) OF PERSON(S) AUTHORIZED TO SIGN THIS DOCUMENT ON BEHALF OF THE ULTIMATE CONSIGNEE, AND DATE(S) DOCUMENT IS SIGNED].
+
+(3) Notification to ultimate consignee of AIA shipment. With each shipment under License Exception AIA, the exporter (or reexporter or transferor as applicable), must notify the ultimate consignee in writing that the shipment is made pursuant to License Exception AIA. The notice must either specify which items are subject to License Exception AIA or state that the entire shipment is made pursuant to License Exception AIA. The notice must clearly identify the shipment to which it applies. The written notice may be conveyed by paper documents or by electronic methods such as facsimile or email. 
+
+(c) Reporting requirement. Once the exporter, reexporter, or transferor obtains the certification from the ultimate consignee for items identified in paragraph (a)(1) only, prior to the initial export, reexport or transfer (in-country), the exporter, reexporter, or transferor must submit the certification to EARReports@bis.doc.gov, with the subject line: AIA Certification. Following submission of the certification, exporters, reexporters and in-country transferors are not required to sign or provide a subsequent certification if the notification described in (b)(4) is provided to the ultimate consignee. This reporting requirement is only applicable if the ultimate consignee is receiving items identified in paragraph (a)(1) with a cumulative total processing performance (TPP) of 253,000,000. 
+
+§ 740.28
+
+License Exception Advanced Compute Manufacturing (ACM).
+
+(a) Scope. License Exception ACM authorizes the export, reexport, and transfer (in-country) of eligible items specified in paragraph (b) to `private sector end users' for the “development,” “production,” or storage (in a warehouse or other similar facility) prior to export, reexport, or transfer (in country) to the ultimate end user of eligible items specified in paragraph (b) for items that are ultimately destined to customers outside of Macau or destinations specified in Country Group D:5, unless otherwise authorized. 
+
+(b) Eligible commodities, software, and technology. Items controlled by ECCNs 3A001.z; 3A090; 3D001 (for “software” for commodities controlled by 3A001.z or 3A090); 3E001 (for “technology” for commodities controlled by 3A001.z or 3A090); 4A003.z; 4A004.z; 4A005.z; 4A090; 4D001 (for “software” for commodities controlled by 4A003.z, 4A004.z, and 4A005.z); 4D090 (for “software” for commodities controlled by 4A090); 4E001 (for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or “software” specified by 4D001 (for 4A003.z, 4A004.z, or 4A005.z), or 4D090 (for “software” for commodities controlled by 4A090)); 5A002.z; 5A004.z; 5A992.z; 5D002.z; 5D992.z; 5E002 (for “technology” for commodities controlled by 5A002.z or 5A004.z or “software” specified by 5D002 (for 5A002.z or 5A004.z commodities)); or 5E992 (for “technology” for commodities controlled by 5A992.z or “software” controlled by 5D992.z). 
+
+(c) Ineligible destinations. License Exception ACM does not authorize the export, reexport, or transfer (in-country) to Macau or any destination specified in Country Group D:5, or to any consignee wherever located when the ultimate consignee is headquartered in, or the ultimate consignee's ultimate parent company is headquartered in, Macau or a destination specified in Country Group D:5. 
+
+(d) Private sector end user. A `private sector end user' is either an individual who is not acting on behalf of any government (other than the U.S. Government), or a commercial firm (including its subsidiary and parent firms, and other subsidiaries of the same parent) that is not wholly owned by, or otherwise controlled by any government (other than the U.S. Government). 
+
+(e) Accounting. Exporters, reexporters, and transferors must maintain a system of distribution that allows them to account for the number of controlled items transferred to, and subsequently out, of the facility. Such accounting should be done for each facility, with records updated every six months or more frequently. 
+
+§ 740.29 
+
+License Exception Low Processing Performance (LPP).
+
+(a) Scope. License Exception LPP authorizes the export and reexport of up to 26,900,000 cumulative total processing performance (TPP) of advanced computing integrated circuits per-calendar year directly to a single ultimate consignee. If the ultimate consignee is headquartered in a destination specified in paragraph (a) of supplement no. 5 to part 740, then the ultimate consignee may apply the cumulative TPP of exports and reexports of eligible commodities under this license exception toward the cumulative TPP limit of a different entity that will operate the items in paragraph (b). This license exception does not authorize transfers (in-country). 
+
+(b) Eligible commodities. Eligible commodities are those under ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A004.z.1.a, z.2.a; and 5A992.z.1. 
+
+(c) Eligible destinations. This License Exception is available except: 
+
+(1) To destinations specified in Country Group D:5 or Macau, or
+
+(2) To any destination when the ultimate consignee is headquartered in or has an ultimate parent company headquartered in Macau or a destination specified in Country Group D:5.
+
+(d) Restriction on annual processing power volume of LPP. The total TPP volume of all exports and reexports of eligible commodities under this license exception made by all exporters and reexporters to a single ultimate consignee per calendar year may not exceed 26,900,000 TPP; however, there is no restriction on the number of shipments or the number of exporters and reexporters, provided that TPP volume is not exceeded. This annual TPP limit applies to shipments by all exporters and reexporters to the same ultimate consignee even though the shipments are made through more than one intermediate consignee. 
+
+(e) Prohibited end use and end user. This license exception cannot be used to export or reexport items to any end use or end user prohibited under Part 744. 
+
+(f) Ultimate Consignee Statement. Prior to use of this license exception the exporter or reexporter must obtain a certification from the ultimate consignee that: [INSERT NAME(S) OF ULTIMATE CONSIGNEE(S)]: 
+
+(i) Is aware that [INSERT GENERAL DESCRIPTION AND APPLICABLE ECCN(S) OF ITEMS TO BE SHIPPED ( e.g., Boards classified under ECCN 4A090.a)] will be shipped pursuant to License Exception Low Processing Performance; 
+
+(ii) Agrees not to export, reexport, or transfer these items to any use or user prohibited under Part 744 of the Export Administration Regulations;
+
+(iii) Certifies that they have not received a `cumulative TPP' of 26,900,000 of ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1, 5A004.z.1.a, z.2.a; and 5A992.z.1 items in the relevant calendar year under License Exception LPP.
+
+(iv) Inserts [NAME(S), SIGNATURE(S), AND TITLE(S) OF PERSON(S) AUTHORIZED TO SIGN THIS DOCUMENT ON BEHALF OF THE ULTIMATE CONSIGNEE, AND DATE(S) DOCUMENT IS SIGNED].
+
+(g) Reporting requirement. (1) Exporters and reexporters, having obtained the required certification in paragraph (f) prior to exporting or reexporting eligible items, must provide a copy of that certification to BIS by email to EARReports@bis.doc.gov with subject line “LPP Shipment” within 30 days of the date on which the export or reexport takes place. 
+
+(2) Ultimate consignees receiving eligible commodities under this License Exception TPP must notify BIS by email to EARReports@bis.doc.gov with subject line “LPP TPP Limit Reached” whenever they have received the maximum allowable 26,900,000 TPP under this license exception in a calendar year in all shipments from all exporters and reexporters. Notification to BIS should be made as soon as the ultimate consignee actually receives the final shipment of eligible commodities that exhausts the consignee's annual TPP volume limit. 
+
+(3) Exporters and reexporters, prior to exporting or reexporting the eligible items, must notify BIS by email to EARReports@bis.doc.gov with the subject line “LPP Shipment” of any shipment with an aggregate TPP of 3,200,000. 
+
+(h) Definitions —(1) Ultimate consignee. For purposes of this license exception, the ultimate consignee is the ultimate parent entity that has ultimate ownership over the items in paragraph (b). 
+
+(2) Cumulative TPP. The `cumulative TPP' is the total amount of TPP, as defined in the Technical Notes to 3A090, of all eligible commodities in paragraph (b) that are received by a single ultimate consignee in all shipments from all exporters and reexporters in a calendar year. Cumulative TPP should be calculated by adding the individual TPP for any items specified in 3A090.a and 4A090.a and any items specified in 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z that meet or exceed the parameters of 3A090.a or 4A090.a. 
+
+9. Part 740 is amended by adding Supplement No. 5 to read as follows: 
+
+Supplement No. 5 to Part 740—Artificial Intelligence Authorization Countries
+
+(a) Destinations eligible:
+
+Australia
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Ireland
+Italy
+Japan
+Netherlands
+New Zealand
+Norway
+Republic of Korea
+Spain
+Sweden
+Taiwan
+United Kingdom
+United States
+
+(b) Destinations that have provided government assurances to the U.S. Government and therefore are subject to a higher country allocation. 
+
+PART 742—CONTROL POLICY—CCL BASED CONTROLS
+
+10. The authority citation for part 742 continues to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;22 U.S.C. 3201 et seq.;42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.;22 U.S.C. 7210; Sec. 1503, Pub. L. 108-11, 117 Stat. 559; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Presidential Determination 2003-23, 68 FR 26459, 3 CFR, 2004 Comp., p. 320; Notice of November 7, 2024, 89 FR 88867 (November 8, 2024). 
+
+11. Section 742.6 is amended by 
+
+a. Revising paragraph (a)(6)(iii); 
+
+b. Adding paragraph (a)(13); 
+
+c. Revising paragraph (b)(10)(iii); and 
+
+d. Adding (b)(14). 
+
+The revisions and additions read as follows:
+
+§ 742.6
+
+Regional stability.
+
+* * * * * 
+
+(a) * * *
+
+(6) * * *
+
+(iii)(A) Worldwide license requirement. A license is required to export, reexport, or transfer (in-country) items specified in ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 3D001 (for “software” for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, or 3A090.a); 3E001 (for “technology” for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, or 3A090.a); 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 4D001 (for “software” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1); 4D090 (for “software” for commodities controlled by 4A090.a); 4E001 (for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or “software” specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1, or 4A005.z.1), or 4D090 (for “software” for commodities controlled by 4A090.a)); 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1; 5D002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a; 5D992.z.1; 5E002 (for “technology” for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or “software” specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities)); or 5E992 (for “technology” for commodities controlled by 5A992.z.1 or “software” controlled by 5D992.z.1.) to or within any destination worldwide. 
+
+(B) Country Groups D:1, D:4, or D:5 license requirement excluding destination also specified in Country Groups A:5 or A:6. A license is required to export, reexport, or transfer (in-country) items specified in ECCNs 3A001.z.1.b, z.2.b, z.3.b, z.4.b; 3A090.b; 3D001 (for “software” for commodities controlled by 3A001.z.1.b, z.2.b, z.3.b, z.4.b; 3A090.b); 3E001 (for “technology” for commodities controlled by 3A001.z.1.b, z.2.b, z.3.b, z.4.b, or 3A090.b); 4A003.z.1.b, z.2.b; 4A004.z.2; 4A005.z.2; 4A090.b; 4D001 (for “software” for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2); 4D090 (for “software” for commodities controlled by 4A090.b); 4E001 (for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or “software” specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, or 4A005.z.2), or 4D090 (for “software” for commodities controlled by 4A090.b)); 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b; 5A004.z.1.b, z.2.b; 5A992.z.2; 5D002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b, z.6.b, z.7.b, z.8.b, and z.9.b; 5D992.z.2; 5E002 (for “technology” for commodities controlled by 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b or “software” specified by 5D002 (for 5A002. z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b commodities)); or 5E992 (for “technology” for commodities controlled by 5A992.z.2 or “software” controlled by 5D992.z.2.) to or within a destination in Country Groups D:1, D:4, or D:5 excluding destinations also specified in Country Groups A:5 or A:6. 
+
+* * * * * 
+
+(13) RS requirement that applies to artificial intelligence model weights. A license is required for the export, reexport, and transfer (in-country) of items specified in ECCN 4E091 to all destinations worldwide. The license requirements in this paragraph (a)(13) do not apply to deemed exports or deemed reexports for `permanent regular employees,' as that term is defined § 734.20(d)(2), employed by entities headquartered in or with an ultimate parent headquartered in a destination specified in paragraph (a) of Supplement No. 5 to Part 740. 
+
+* * * * * 
+
+(b) * * *
+
+(10) * * *
+
+(iii) License review policy for paragraph (a)(6)(iii)(A) —(A)( 1) Policy for Country Group D:5 and Macau. For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within Macau or destinations specified in Country Group D:5 or to an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 will be reviewed under a presumption of denial. 
+
+( 2) Policy for countries in paragraph (a)of supplement no. 5 to part 740. For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within destinations listed in paragraph (a) to supplement no. 5 of Part 740, or to entities headquartered in, or whose ultimate parent company is headquartered in, a destination listed in paragraph (a) to supplement no. 5 of Part 740 will be reviewed under a presumption of approval. 
+
+(B) Country Allocations and licensing policy for all other destinations. For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within a destination or to entities headquartered, or whose ultimate parent is headquartered, in a destination not listed in either paragraph (a) or (b) of supplement no. 5 of Part 740: 
+
+( 1) Not exceeding the country allocation. Applications for exports, reexports, or transfers (in-country) will be reviewed under a presumption of approval, up to a per-country allocation of 790,000,000 TPP for the period from 2025 to 2027, to or within destinations other than Country Group D:5 or Macau or to entities not headquartered in or whose ultimate parent company is not headquartered in destinations in Country Group D:5 or Macau. These TPP allocations represent permitted cumulative installed base, not newly available TPP in addition to previous-year installed bases. BIS will calculate progress toward country allocations by totaling the TPP of 3A090.a, 4A090.a, and corresponding .z items licensed to each destination cumulatively beginning in 2025. Items exported, re-exported, or transferred (in-country) before 2025 will not count toward country allocations. Please visit www.bis.gov /advanced-compute-resources for an update on whether the country allocations have been met. 
+
+( 2) Exceeding the country allocation. After the country allocations above are met, applications will be reviewed under a policy of denial. Together with the Departments of State, Energy, and Defense, BIS will review allocations for subsequent years on an annual basis. 
+
+(C) For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within destinations listed in paragraph (b) of supplement no. 5 to Part 740, TPP allocations may be increased up to 100% for that destination pursuant to government-to-government assurances, as applicable. Accordingly, the licensing policy in paragraph (b)(10)(iii)(B) will apply, up to the adjusted country allocations.
+
+(iv) For items specified in paragraph (a)(6)(iii)(B) of this section:
+
+(A) Presumption of approval. Applications for exports, reexports, or transfers (in-country) will be reviewed with a presumption of approval to or within destinations not specified in Country Group D:5 or Macau or to an entity not headquartered in, and whose ultimate parent company is not headquartered in, either Macau or a destination specified in Country Group D:5. 
+
+(B) Presumption of denial. Applications for exports, reexports, or transfers (in-country) will be reviewed under a presumption of denial to or within Macau or destinations specified in Country Group D:5 or to an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5. 
+
+* * * * * 
+
+(14) License Review Policy for AI Model Weights in (a)(13) of this section. Applications to export, reexport, or transfer (in-country) items classified under ECCN 4E091 will be reviewed under a presumption of denial for end users headquartered, or with an ultimate parent headquartered, outside of destinations listed in paragraph (a) to supplement No. 5 to part 740. 
+
+Note to paragraph (b)(14):
+
+Note 2 to ECCN 4E091 explains that 4E091 does not control the `parameters' of any artificial intelligence model trained utilizing fewer `operations' than the number needed to train an artificial intelligence model as capable, according to an aggregate of widely used benchmarks, as the most advanced artificial intelligence model that has been “published” as defined in § 734.7(a) of the EAR.
+
+* * * * * 
+
+PART 744—CONTROL POLICY: END-USER AND END-USE BASED
+
+12. The authority citation for part 744 is revised to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;22 U.S.C. 3201 et seq.;42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.;22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice of September 18, 2024, 89 FR 77011 (September 20, 2024); Notice of November 7, 2024, 89 FR 88867 (November 8, 2024). 
+
+13. Revise § 744.23(a)(3)(i) to read as follows: 
+
+§ 744.23 
+
+“Supercomputer,” “advanced-node integrated circuits,” and semiconductor manufacturing equipment end use controls.
+
+* * * * * 
+
+(a) * * *
+
+(3) * * *
+
+(i)(A) Any item subject to the EAR and specified in ECCN 3A001.z.1.b, z.2.b, z.3.b, z.4.b; 3A090.b; 4A003.z.1.b, z.2.b; 4A004.z.2; 4A005.z.2; 4A090.b; 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b; 5A004.z.1.b, z.2.b; 5A992.z.2, 5D002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b, z.6.b, z.7.b, z.8.b, and z.9.b; 5D992.z.2 destined to any destination other than those specified in Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6) for an entity that is headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 ( e.g., a PRC-headquartered cloud or data server provider located outside of Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6)). 
+
+(B) Any item subject to the EAR and specified in ECCN 3A090.c destined to any destination other than Macau or those specified in Country Group D:5, for an entity that is headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5.
+
+PART 748—APPLICATIONS (CLASSIFICATION, ADVISORY, AND LICENSE) AND DOCUMENTATION
+
+14. The authority citation for part 748 is revised to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Notice of August 13, 2024, 8 FR 66187 (August 15, 2024). 
+
+15. Section 748.3 is amended by adding paragraph (f) to read as follows: 
+
+§ 748.3 
+
+Classification requests and advisory opinions.
+
+* * * * * 
+
+(f) Classification requests for artificial intelligence models. Classification requests may be submitted to confirm that technology is not controlled under ECCN 4E091 because the artificial intelligence model has been trained utilizing fewer computational `operations' than the number needed to train a model as capable, according to an average of widely used benchmarks, as the most advanced artificial intelligence model that has been “published” as defined in § 734.7(a) of the EAR. Refer to the technical notes to ECCN 4E091 for instructions regarding self-classifications of artificial intelligence models. 
+
+16. Section 748.15 is amended by revising the introductory text and paragraphs (a)(1), (a)(2), (b), (d)(2), and (f) to read as follows: 
+
+§ 748.15
+
+Authorization Validated End-User (VEU).
+
+Validated end-users (VEU) are those who have been previously approved by BIS pursuant to the requirements of this section. To be eligible for authorization VEU, exporters, reexporters, and validated end-user applicants must adhere to the conditions and restrictions set forth in paragraphs (a) through (f) of this section. If a request for VEU Authorization for a particular end-user is not granted, no new license requirement is triggered. In addition, such a result does not render the end user ineligible for license approvals from BIS. There are two types of VEU authorization: General VEU Authorization and Data Center VEU Authorization. General VEU Authorizations permit the export, reexport, and transfer to validated end-users of any eligible items that will be used in a specific eligible destination. Data Center VEU Authorizations permit the export and reexport to validated end-users of any eligible items that will be used in specific data centers. A data center is a facility or “facilities” that house a multi-racked, networked computer system that include servers, storage devices, and networking equipment. Data Center VEU Authorizations may be either universal or national authorizations. 
+
+(a)(1) Eligible end-users for General VEU Authorizations and Data Center VEU Authorizations. The only end users to whom eligible items may be exported, reexported, or transferred under a General VEU Authorization or a Data Center VEU Authorization are those validated end-users identified in Supplement No. 7 to this part. Those entities were added as VEUs according to the provisions in this Section and Supplement Nos. 8 and 9 to this part. 
+
+(2) Requests for authorizations —(i) Advisory opinion. To apply for a General VEU Authorization or Data Center VEU Authorization, requests for authorization must be submitted in the form of an advisory opinion request, as described in § 748.3(c), and must include a list of items (except as excluded by paragraph (c) of this section), identified by ECCN, intended for export, reexport, or transfer (in-country) to an eligible end-user, once approved. 
+
+(ii) Applications for Universal VEU (UVEU) Authorization— (A) Application Overview. A UVEU authorization should be submitted by the owner of the advanced computing ICs. To qualify for UVEU authorization, the owner of the advanced computing ICs must certify that it will follow the guidelines in Supplement No. 10 to this part. The owner of the advanced compute must certify that it will follow the guidelines in paragraphs 14, 15, and 18 of Supplement No. 10 to this part on or before January 15, 2026. If the owner of the advanced computing ICs cannot certify to all of the guidelines in Supplement No. 10 to this part, it must notify BIS in its application of the other entities involved in its operations. The applicant must also provide signed certifications from such entities as set forth in Supplement No. 10 to this part. For UVEUs, if the operator of the advanced compute is different from the owner of the advanced compute, the operator must itself have an Authorization UVEU. As appropriate, BIS will adjudicate complete UVEU applications within 30 days of receipt. A UVEU will need to file a notification with BIS when building a datacenter in a new location 180 days before any exports, reexports, or transfers (in-country) to the new datacenter. The notification should include the physical address of the new data center location. BIS will use this information to update the eligible destination column in the validated end user list in Supplement No. 7 to this part. The UVEU may choose whether to list a corporate address or a physical address of the new data center location. The UVEU may furnish its BIS authorization letter as proof of its authorization to receive exports, reexports, or transfers (in-country) prior to the publication of an amendment to Supplement No. 7 to this part that includes a physical address, or where Supplement No. 7 includes a corporate address but not a physical address. No other requirements may be placed on the UVEU beyond those described in Supplement No. 10 to this part as a condition for granting the original UVEU application. 
+
+(B) UVEU Compute Geographic Allocations. UVEUs will be subject to the geographic allocations identified in paragraph 6 or Supplement No. 10 to this part. 
+
+(iii) Applications for National VEU (NVEU) Authorization —(A) Application Overview. The NVEU Authorization will allow an entity to receive exports and reexports in a specific country as specified in their NVEU authorization. For every additional country in which the NVEU wants to operate, the owner of the advanced compute must obtain a separate NVEU authorization. To qualify for NVEU authorization, the owner of the advanced computing ICs must adhere to guidelines provided in Supplement No. 10 to this part but, depending on its location and the national security and foreign policy risks associated with that location, may be subject to other requirements. The owner of the advanced compute must certify that it will follow the guidelines in paragraphs 14, 15, and 18 of Supplement No. 10 to this part on or before January 15, 2026. If the owner of the advanced computing ICs cannot certify to all of the guidelines in Supplement No. 10 to this part, it must notify BIS in its application of the other entities involved in its operations. Applicants must provide written assurances from those other entities consistent with Supplement No. 10 to this part during the application review process. Government-to-Government assurances between the United States and the government of the country in which the NVEU wishes to operate may be sought before a NVEU is granted. Where multiple entities will own and operate the NVEU they should submit a joint application. For NVEUs, if the operator of the advanced compute is different from the owner of the advanced compute, the operator must itself have its own Authorization NVEU. After receiving NVEU Authorization, the NVEU will be listed as such in Supplement No. 7 to this part. The NVEU may inform BIS if it prefers that Supplement No. 7 list a corporate address or a physical address of the new data center location. Once approved for Authorization NVEU by BIS, the NVEU may furnish its BIS authorization letter that includes physical addresses as proof of its authorization to receive exports, reexports, or transfers (in-country) prior to the publication of an amendment to Supplement No. 7 that includes a physical address, or where Supplement No. 7 includes a corporate address but not a physical address. 
+
+(B) NVEU TPP Allocation. NVEUs will be subject to a per-NVEU per-country installed base allocation of total processing performance (TPP), as measured by the collective computing power of items subject to ECCNs 3A090.a, 4A090.a, or corresponding .z paragraphs, as provided below: 
+
+Table 1 to Paragraph (a)(2)(iii)(B)
+
+Quarter	Cumulative per-company per-country allocation in TPP
+
+2025 Q1	633,000,000
+2025 Q2	949,500,000
+2025 Q3	1,266,000,000
+2025 Q4	1,582,500,000
+2026 Q1	1,899,000,000
+2026 Q2	2,690,250,000
+2026 Q3	3,481,500,000
+2026 Q4	4,272,750,000
+2027 Q1-4	5,064,000,000
+
+These TPP allocations represent permitted cumulative installed base during a given quarter, not newly available TPP in addition to previous-quarter installed bases, and do not count towards or impact country allocations. Advanced computing ICs that suffer attrition due to factors such as loss, damage, failure, relocation, and resale do not count toward allocations. 
+
+(iv) Information to include and address for submissions. To ensure a thorough review, applications for Authorization VEU must include the information described in Supplement No. 8 to this part. Applications for UVEU and NVEU should also include information demonstrating that the applicant can adhere to the guidelines described in Supplement No. 10 to this part. Requests for authorization will be accepted from exporters, reexporters, or end users. Submit the request to: The Office of Exporter Services, Bureau of Industry and Security, U.S. Department of Commerce, 14th Street and Pennsylvania Avenue NW, Room 2099B, Washington, DC 20230. Mark the package “Request for [insert “General,” “Data Center—Universal,” or “Data Center—National” as appropriate] Authorization Validated End-user.” 
+
+* * * * * 
+
+(b) Eligible destinations —(1) General VEU Authorizations. General VEU Authorizations may be used for the following destinations: 
+
+(i) The People's Republic of China.
+
+(ii) India.
+
+(2) Data Center VEU Authorizations. (i) UVEU must be headquartered in, or have their ultimate parent company headquartered in, destinations listed in paragraph (a) of Supplement No. 5 to Part 740, and UVEU data centers may be located anywhere, except in Macau or destinations specified in Country Group D:5. 
+
+(ii) NVEU may be headquartered, have an ultimate parent headquartered, or located in a destination specified in Country Groups A, B, or D:1-D:4, except Macau or destinations specified in Country Group D:5. NVEU data centers can be built around the world, except in Macau or destinations specified in Country Group D:5.
+
+* * * * * 
+
+(d) * * *
+
+(2) Data Center VEU Authorizations. Items obtained under Data Center VEU Authorizations may not be used for any activities described in part 744 of the EAR. Eligible validated end users who obtain items under VEU may only: 
+
+(i) Use such items at the end user's own facility located in an authorized destination;
+
+(ii) Consume such items during use; or
+
+(iii) In-country transfers and reexports are not permitted under Data Center VEU Authorization unless the transfer (in-country) or reexport is to a VEU authorized location by the same VEU or a separate authorization is obtained.
+
+Note 1 to paragraph (d): 
+
+Authorizations set forth in supplement no. 7 to this part for General VEUs and Data Center NVEUs are country-specific. Authorization as a validated end-user for one country specified in paragraph (b) of this section does not constitute authorization as a validated end-user for any other country specified in that paragraph for those types of VEUs.
+
+* * * * * 
+
+(f) Reporting and review requirements —(1) Reports— (i) Reexport Information Required for both types of VEU authorizations. Reexporters who make use of General VEU Authorizations are required to submit annual reports to BIS. Reexporters who make use of Data Center VEU Authorizations are required to submit semi-annual reports to BIS. For either authorization, reexporters must include, for each validated end user to whom the exporter or reexporter exported or reexported eligible items: 
+
+(A) The name and address of each validated end-user to whom eligible items were reexported;
+
+(B) The eligible destination to which the items were reexported;
+
+(C) The quantity of such items;
+
+(D) The value of such items; and
+
+(E) The ECCN(s) of such items.
+
+(ii) End user reports for Data Center VEU Authorizations. End users who make use of Data Center VEU Authorizations must submit reports to BIS semi-annually. End users must submit the following information, including, as appropriate: 
+
+(A) A record of current inventory of eligible items received;
+
+(B) Dates of when eligible items were received; and
+
+(C) For NVEUs, a list of current customers.
+
+(iii) Deadlines. For reexporters making use of General VEU Authorization, reports are due by February 15 of each year, and must cover the period from January 1 through December 31 of the prior year. For reexporters and end users making use of Data Center VEU Authorization, reports are due semiannually: 
+
+(A) The first report is due July 15 of each year and must cover the period from January 1 through June 30;
+
+(B) The second report is due January 15 of each year and must cover the period from July 1 to December 31 of the previous year.
+
+(iv) Addresses. Reports must be sent to: Office of Exporter Services, Bureau of Industry and Security, U.S. Department of Commerce, 14th Street and Constitution Avenue NW, Room 2099B, Washington, DC 20230. Mark the package “General Authorization Validated End-User Report” or “Data Center Authorization Validated End-user Report.” 
+
+(2) Reviews. Records related to activities covered by General or Data Center VEU Authorizations that are maintained by exporters, reexporters, transferors, and VEU will be reviewed on a periodic basis. Upon request by BIS, exporters, reexporters, transferors, and validated end-users must allow review of records, including on-site reviews covering the information set forth in paragraphs (e) and (f)(1) of this section. 
+
+* * * * * 
+
+17. Amend supplement No. 2 to part 748 by adding paragraphs (c)(3) and (4) to read as follows: 
+
+Supplement No. 2 to Part 748—Unique Application and Submission Requirements
+
+* * * * * 
+
+(c) * * *
+
+(3) Purchase orders for Artificial Intelligence commodities. License applications for items controlled under ECCNs 3A090.a, 4A090.a, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z require the submission of a purchase order or equivalent contractual agreement with the submission of the license application. The purchase order may be contingent on approval of the license. Upon approving a license for these items, BIS will generally limit the licensed quantity to the quantity specified on the purchase order. 
+
+(4) License applications for Artificial Intelligence commodities. Applicants are required to submit the total aggregated TPP value of each export item on their license application. This information should be included in block 22(j) in SNAP-R. If applicants are submitting a license for items destined to a country that is subject to a per-country TPP allocation, the applicant must fill out an individual license for each country and calculate the TPP per individual country. Applicants are encouraged to include information to support their TPP calculation in their Letter of Explanation (LOE). Calculate the aggregate TPP for each export item by adding the TPP for each integrated circuit. For additional information on calculating TPP, please refer to the Technical Notes to 3A090. 
+
+* * * * * 
+
+18. Amend supplement No. 8 to part 748 by revising paragraphs B(2), (6), (9), and (10), and adding B(11) to read as follows: 
+
+Supplement No. 8 to Part 748—Information Required in Requests for VEU Authorization
+
+* * * * * 
+
+B * * *
+
+(2) An overview of any business activity or corporate relationship that the candidate has with either government or military organizations of Macau or a destination specified in Country Group D:5;
+
+* * * * * 
+
+(6) For NVEUs, absent a legal prohibition or other such exceptional circumstances, a list of current and potential customers of the data center;
+
+* * * * * 
+
+(9) An overview of the applicant's supply chain risk management plan to limit PRC-origin equipment specified in paragraph 3 of Supplement No. 10 to Part 748 from entering the data-center environment and supply chain;
+
+(10) An overview of the applicant's export control training program and compliance program procedures; and
+
+(11) (NVEU applicants only) An overview of the applicant's ability to verify that items subject to the license requirement in § 742.6(a)(6)(iii) have not been moved from the specific country authorized for export or reexport by the NVEU ( e.g. from the ping times to nearby secure servers); 
+
+* * * * * 
+
+19. Supplement No. 10 to part 748 is added to read as follows: 
+
+Supplement No. 10 to Part 748—Data Center VEU Authorization Guidelines
+
+I. Certification and Policy Requirements Relating to National and Universal Validated End Users (VEU)
+
+Vetting Requirements
+
+1. General Compliance and Proven Track Record. The VEU must have a credible plan to meet or demonstrated track record of meeting established physical, cyber, and personnel security standards for large-scale data center operations and of complying with U.S. export control laws, a credible plan to or demonstrated track record of respecting human rights, as well as a clear and feasible plan for doing so in a destination that is not Macau, specified in Country Group D:5, or listed in paragraph (a) to Supplement No. 5 to Part 740. 
+
+2. Foreign Military and Intelligence Ties.
+
+a. The VEU, to include all subsidiary and parent entities (as well as their personnel in their professional capacities), must be free of ties to any `military end users' (as that term is defined in § 744.21(g)) or `military-intelligence end users' (as that term is defined in § 744.22(f)(2)).
+
+b. Ties include research and development agreements and joint activities.
+
+3. Foreign Technology Ties. The VEU, to include all subsidiary and parent entities (as well as their personnel in their professional capacities), must adhere to the U.S. rules on outbound investment at 31 CFR part 850 as applied to U.S. persons regardless of whether such VEU, entity, or individual is a U.S. person, without giving effect to any exception under 31 CFR 850.501(g), except that non-U.S. persons must submit materials to BIS, not the Department of the Treasury. Any notifications or other information that, because of this paragraph, would be required to be submitted in order to adhere to 31 CFR part 850 should be submitted to BIS as part of the VEU application. (For the avoidance of doubt, any notification or other information that would be required to be submitted pursuant to 31 CFR part 850 should continue to be submitted to the Department of the Treasury). The VEU must also adhere to determinations, including any prohibitions and mitigations, made under Commerce's Information Communication Technology Services program at 15 CFR part 791, and the VEU must demonstrate that it has eliminated supply chain dependencies on advanced semiconductors specified in ECCN 3A090.a, 4A090.a, or .z derivatives meeting or exceeding the parameters of ECCN 3A090.a or 4A090.a and advanced networking equipment specified in ECCN 4A003.g, 5A001, 5A002.a, or 5A992.a. produced by any entities headquartered in Macau or destinations specified in Country Group D:5. The VEU must also demonstrate that it has eliminated supply chain dependencies on equipment and services listed by the Federal Communications Commission as covered by Section 2 of the Secure and Trusted Communications Networks Act of 2019. The VEU must also notify the U.S. Government, through the VEU program, of all cooperative activities, such as joint ventures, with any entities headquartered in Macau or a destination specified in Country Group D:5 or any individuals or entities that are on the EAR's Entity List or OFAC's Specially-Designated Nationals and Blocked Persons List. The VEU must report to BIS all equity interests (including contingent equity interests) or ownership stakes in the VEU by, or debt or obligations of the VEU from similar financial arrangements to, any entity. headquartered in Macau or a destination specified in Country Group D:5 or any individual or entities that are on the EAR's Entity List or OFAC's Specially-Designated Nationals and Blocked Persons List, with the exception of investments under 1 percent or $1 million, whichever is lower, individually or as aggregated across (a) entities that are affiliated or have formal or informal arrangements to act in concert, or (b) departments, agencies, or instrumentalities of, or that are controlled by, the national or subnational governments of Macau or a destination specified in Country Group D:5, in a VEU whose equity securities are primarily traded on an exchange in a country listed in paragraph (a) to Supplement No. 5 to Part 740. 
+
+Export Restrictions
+
+4. Transfer of Chips. The VEU may not, without authorization from BIS, transfer chips, assemblies, or computers that meet or exceed the scope of ECCN 3A090.a, 4A090.a, or .z items meeting or exceeding the parameters of ECCN 3A090.a or 4A090.a to any of the following: 
+
+a. Any entity located in, or headquartered in, Macau or a destination specified in Country Group D:5;
+
+b. Persons of any nationality working for or on behalf of a party on the EAR's Entity List, ISN's nonproliferation sanctions lists, or OFAC's Specially Designated Nationals and Blocked Persons List;
+
+c. Persons of any nationality employed by a government entity of Macau or a government entity of a destination specified in Country Group D:5 or presenting a high risk of facilitating diversion to Macau or a destination specified in Country Group D:5.
+
+These requirements should not be read as allowing any transfers that otherwise require a license.
+
+5. Intra-company Transfer Notification. [ Only for VEUs accredited via a UVEU] The UVEU must notify the BIS 60 days in advance of its intention to transfer any chips between countries in which the UVEU is using the UVEU authorization for such transfer, as well as any planned construction or installations of data centers in countries not previously included in prior notifications to BIS. BIS retains the right to impose licensing requirements for transfers of chips and/or to require additional conditions for entry into these countries. 
+
+6. Geographic allocations. Only for entities headquartered in countries listed in paragraph (a) to Supplement no. 5 to Part 740 with UVEU status: The UVEU cannot transfer or install more than 25% of its total AI computing power, measured as the aggregate Total Processing Power (TPP) of chips that meet or exceed the scope of ECCN 3A090.a and are owned by the entity and all its subsidiary and parent entities, to or in locations outside of countries listed in paragraph (a) to Supplement No. 5 to Part 740, and cannot transfer or install more than 7% of its total AI computing power to or in any single country outside of those listed in paragraph (a) to Supplement No. 5 to Part 740). Only for U.S.-headquartered entities with UVEU status: The UVEU cannot transfer or install more than 50% of its total AI computing power outside of the United States, as measured on the reporting dates outlined in Section 10. 
+
+Acceptable Use Policies
+
+7. Advanced AI Training. The VEU, to include all subsidiary and parent entities, may not, without authorization from BIS, train an AI model specified in ECCN 4E091, in whole or in part, in a location outside of, or as Infrastructure-as-a-Service (IaaS) for an entity headquartered outside of, countries listed in paragraph (a) to Supplement No. 5 to Part 740. Fine-tuning an AI model specified in ECCN 4E091 is permitted if such fine-tuning constitutes no more than 25 percent of the training operations of the original AI model specified in ECCN 4E091. Provision of application programming interface (API) access to AI models or infrastructure-as-a-service (IaaS) access for AI inference are not prohibited, and would only become prohibited if equivalent restrictions are put in place for U.S.-based computing resources. 
+
+8. Model Weight Storage. The VEU may only store or transfer the model weights of an advanced AI model specified in ECCN 4E091 to facilities located in countries listed in paragraph (a) to Supplement No. 5 to Part 740, or to facilities located in jurisdictions other than Macau or those specified in Country Group D:5, provided such facilities are owned or operated by entities headquartered in, or with an ultimate parent headquartered in countries listed in paragraph (a) to Supplement No. 5 to Part 740, and provided the facility complies with the provisions of paragraphs 14, 15, and 18 of Supplement No. 10 to this part by January 15, 2026. 
+
+9. Prohibited Uses and Human Rights Safeguards. The VEU is responsible for ensuring that no items subject to the EAR are used to support any of the following: 
+
+a. Activities described in part 744 and all relevant supplemental notices;
+
+b. Military and intelligence entities headquartered, or located in, Macau, destinations specified in Country Group D:5, and military and intelligence entities whose activities BIS informs the VEU could pose an unacceptable risk to U.S. national security or could enable human rights abuses or repression of democracy; or
+
+c. Activities that enable human rights abuses and/or repression of democracy including through censorship; arbitrary or unlawful surveillance; and abusive genetic collection and analysis schemes.
+
+Documentation, Auditing, and Reporting Requirements
+
+10. Reporting of Chip Installations. The VEU will report to BIS and other agencies on a semi-annual basis (each February 1 and August 1), a complete facility-specific chip accounting for itself and all parent and subsidiary entities, including: 
+
+a. The quantities and types of chips that meet or exceed the parameters of 3A090.a, purchased, approved for export to facilities in given countries, reexported, transferred to relevant destinations and entities to which transfers have occurred, and installed in all data center facilities in destinations except Macau, destinations specified in Country Group D:5, and countries not listed in paragraph (a) to Supplement No. 5 to Part 740.
+
+b. A breakdown of the VEU's total aggregate compute for chips, assemblies, and computers specified in 3A090.a, 4A090.a, or .z derivatives meeting or exceeding the parameters of ECCN 3A090.a or 4A090.a, in destinations except Macau and destinations specified in Country Group D:5 (including chips transferred but not yet installed). This accounting must also include information about chip attrition due to factors such as loss, damage, failure, relocation, and resale.
+
+11. Monitoring, Recordkeeping, and Reporting. The VEU must perform ongoing monitoring, evaluation, and end user due diligence of all the vetting requirements, export restrictions, acceptable use policies, and security requirements herein. The VEU must further notify BIS if, at any time, any requirements have not been met and it must maintain for five years all records in conjunction with these conditions. These records must be made available pursuant to a request from BIS, whether through an end use check or otherwise. The VEU must also cooperate with BIS's auditing of records and facilities described in this document. Failure to comply with BIS may result in revocation of VEU status. 
+
+12. Certification as VEU. An entity is certified as a VEU through the process described in Supplement No. 9 to this part. Entities headquartered in countries listed in paragraph (a) to Supplement No. 5 to Part 740 are eligible if they meet the standards provided in Section I and II. Entities in destinations except Macau, destinations specified in Country Group D:5, or those listed in paragraph (a) to Supplement No. 5 to Part 740 are eligible if they meet the appropriate standards outlined in Supplement No. 10 to part 748 and, for NVEUs, if there is a government-to-government arrangement between their government and the United States. If a government-to-government arrangement is rescinded by either party, the NVEU status of NVEUs and, as appropriate, the ability of a UVEU to operate in that country may be revoked. 
+
+II. Security Requirements
+
+Ownership Security
+
+13. Ownership Security of VEUs: The VEU, to include all subsidiary and parent entities, must meet ownership security standards to ensure there are no Foreign Ownership, Control, or Influence (FOCI) factors related to Macau or a destination specified in Country Group D:5. Factors relating to the entity, its relevant foreign interest, and the government of such foreign interest shall be assessed against the requirements outlined in National Industrial Security Program Operating Manual (NISPOM) 32 CFR 117.11(b) and additional factors to include: 
+
+a. The VEU's financial viability;
+
+b. Counterintelligence concerns, especially regarding key management or leadership personnel and company owners with regard to the government of Macau or the government of a destination specified in Country Group D:5, or to entities headquartered in, or nationals of, Macau or a destination specified in Country Group D:5;
+
+c. Record of enforcement and/or engagement in unauthorized technology transfer;
+
+d. The nature of any relevant bilateral and multilateral security agreement and information exchange agreements; and
+
+e. Any other factor that demonstrates a capability on the part of foreign interests to control or influence the operations or management of the VEU of concern.
+
+Baseline Security
+
+14. Baseline Security of Chips and Data. The VEU's datacenters must be compliant with NIST 800-53 in a fashion certified as appropriate for compliance with these conditions and consistent with the security requirements associated with FedRAMP High, as well as with controls AC-3(7), AT-2(1), CA-8(3), CM-7(4), CM-11(2), IR-4(14), PE-3(3), PM-3, and PS-7 from NIST 800-53. This includes: 
+
+a. Advanced AI model weights and proprietary techniques used for advanced AI training must be treated as an information type with FIPS-199 security category {(confidentiality, HIGH), (integrity, HIGH), (availability, HIGH)}.
+
+b. Certification of compliance with the above NIST 800-53 requirements must be attested annually by a Third-Party Assessment Organization (3PAO) and made available to BIS. 3PAOs must be accredited and recognized by the FedRAMP Program Management Office, and have successfully completed the certification of a FedRAMP-high Cloud Service Provider;
+
+c. The VEU must have procedures in place to address and prevent seizure of chips;
+
+d. The VEU must put in place software and hardware mechanisms to detect and defeat tampering, such as illicit modification;
+
+e. Plans for the secure operation of data centers supporting a VEU shall be implemented in accordance with a security management defense-in-depth framework that includes a review of the following factors:
+
+i. Threat analysis. Assess the capabilities, intentions, and opportunity of an adversary to exploit or damage assets or information.
+
+ii. Vulnerability analysis. Assess the inherent susceptibility to attack of a procedure, facility, information system, equipment, or policy.
+
+iii. Probability analysis. Assess the probability of an adverse action, incident, or attack occurring.
+
+iv. Consequence analysis. Assess the consequences of such an action (expressed as a measure of loss, such as cost in dollars, resources, programmatic effect/mission impact, etc.)
+
+f. The following physical and technical security requirements are required for all VEU data centers:
+
+i. Compliance with Department of Defense Unified Facilities Criteria 4-010-05, Sections 3-4.4.1, 3-4.6.10, and 3-4.17.3;
+
+ii. No windows permitted in server core areas; and
+
+iii. 24/7/365 roving guard patrol or Perimeter Intrusion Detection System (PIDS) with a 15-minute response time;
+
+Software and Network Security
+
+15. AI-Specific Cybersecurity. The VEU will establish and bear responsibility for the following additional practices for AI security: 
+
+a. Ensure compliance with all best practices in the NSA cybersecurity information sheet “Deploying AI Systems Securely,” and the recommended actions for every CISA CPG 1.0 goal cross-referenced therein.
+
+b. Establish accountability for usage; generate logs and other records of usage, to include logging and monitoring usage of third-party APIs and fine-tuning mechanisms;
+
+c. Comply with the following requirements on model weights specified in ECCN 4E091, in addition to complying with the best practices listed in (a):
+
+i. Model weights must be stored on dedicated devices not used by, or hosting the data of, other organizations.
+
+ii. Every interface by which model weights can be accessed, directly or indirectly, must be reviewed to determine the appropriate output rate of information necessary for its legitimate functionality. The output rate must be monitored, and rate limitations must be implemented to ensure the output rate is unable to exceed the rate established for the interface's legitimate functionality.
+
+iii. Every interface, for which the established output rate is such that the model weights may be extracted in six months or less, must provide access only through a narrow, well-defined API, such as for inference or fine-tuning. The API must be thoroughly reviewed and secured to prevent model extraction attacks. 
+
+Supply Chain Security
+
+16. Transit Security. The VEU must work with the chip provider to develop, implement, and maintain a shipment security plan, to include working with validated shipping providers, establishing a positive chain of custody, employing anti-theft and anti-tampering measures, conducting inspection/inventory upon receipt, and reporting any theft, loss, or tampering incidents to BIS within 30 days. The VEU will bear responsibility for tracking and security of chips and other items subject to export control while in transit and shall report any anomalies to BIS, as outlined in Section 11. 
+
+17. Sanitization and Disposal Procedures. The VEU must incorporate appropriate end-of-life procedures for chip sanitization and disposal that are verifiable and that ensure such chips do not enable prohibited activities, including by exceeding relevant caps. 
+
+Personnel Security
+
+18. Personnel Security Standards and Practices. In addition to the personnel security requirements in Section 13, the VEU must follow the below practices: 
+
+a. The VEU must develop a plan to implement a personnel vetting model covering all individuals granted access to the VEU data center facility or corresponding systems.
+
+b. Personnel granted unescorted access to the VEU data center must be vetted under the following categories:
+
+i. Individuals specifically named on the U.S. Department of Treasury, Office of Foreign Assets Control (OFAC) Specially Designated Nationals List (SDN) or other OFAC sanctions lists; and
+
+ii. Individuals with employment history by a government, intelligence service, or military based in Macau or a destination specified in Country Group D:5, or with any parties on the EAR's Entity List or OFAC's SDN, Blocked Persons List, or other sanctions lists should be excluded from consideration. Individuals with employment history with entities headquartered in Macau or a destination specified in Country Group D:5 require additional vetting of their continuing ties, relationships, obligations, or other factors that could incentivize them to act on behalf of an entity headquartered in Macau or a destination specified in Country Group D:5.
+
+c. The VEU must establish and maintain a comprehensive program for detecting, assessing, disclosing, and managing insider threats, in accordance with the Cybersecurity and Infrastructure Security Agency Insider Threat Mitigation Guide, with particular consideration for insider threats that could enable access or prohibited uses by individuals or any other entities.
+
+Adherence to This Agreement
+
+19. Enforcement. Failure to adhere to this agreement may result in the revocation of VEU status on a national or global basis, denial of chip allocations or export licenses, as well as other penalties as appropriate under U.S. laws and regulations. 
+
+Exemption for Intentional Publication
+
+None of the provisions of this document shall be interpreted as to apply to or prevent intentional publication of model weights, data, or code.
+
+PART 750—APPLICATION PROCESSING, ISSUANCE, AND DENIAL
+
+19. The authority citation for part 750 continues to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.; Sec. 1503, Pub. L. 108-11, 117 Stat. 559; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2013 Comp., p. 223; Presidential Determination 2003-23, 68 FR 26459, 3 CFR, 2004 Comp., p. 320. 
+
+20. Section 750.7 is amended by revising paragraph (g) introductory text to read as follows: 
+
+§ 750.7 
+
+Issuance of licenses.
+
+* * * * * 
+
+(g) License validity period. Licenses involving the export or reexport of items will generally have a four-year validity period, unless a different validity period has been requested and specifically approved by BIS or is otherwise specified on the license at the time that it is issued. Exceptions from the four-year validity period include: license applications for items controlled for short supply reasons, which will be limited to a one-year validity period during which the items must be exported, re-exported, or transferred (in country) and license applications reviewed and approved as an “emergency” (see § 748.4(h) of the EAR); and items controlled under ECCNs 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, 0A509, or listed in § 742.6(a)(6)(iii)(A) of the EAR, which will generally be limited to a one-year validity period during which the items must be exported, re-exported, or transferred (in country). Emergency licenses will expire no later than the last day of the calendar month following the month in which the emergency license is issued. The expiration date will be clearly stated on the face of the license. If the expiration date falls on a legal holiday (Federal or State), the validity period is automatically extended to midnight of the first business day following the expiration date. 
+
+* * * * * 
+
+PART 762—RECORDKEEPING
+
+21. The authority citation for part 762 continues to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783. 
+
+22. Section 762.2 is amended by adding paragraphs (b)(58), (59), and (60) to read as follows: 
+
+§ 762.2 
+
+Records to be retained.
+
+* * * * * 
+
+(b) * * *
+
+(58) § 740.27, License Exception AIA.
+
+(59) § 740.28, License Exception ACM.
+
+(60) § 740.29, License Exception LPP.
+
+PART 772—DEFINITIONS OF TERMS
+
+23. The authority citation for part 772 continues to read as follows: 
+
+Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.;50 U.S.C. 1701 et seq.;E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783. 
+
+24. Section 772.1 is amended by adding, in alphabetical order, the definition for “Model Weights” to read as follows: 
+
+§ 772.1 
+
+Definitions of terms as used in the Export Administration Regulations (EAR).
+
+* * * * * 
+
+Model Weights. See ECCN 4E091 (Supplement No. 1 to part 774). 
+
+* * * * * 
+
+PART 774—THE COMMERCE CONTROL LIST
+
+[Omitted; refer to official version.]
+

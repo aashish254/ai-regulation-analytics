@@ -1,0 +1,151 @@
+Subtitle C--Information Technology and Data Management
+
+SEC. 1521. CONTROL AND MANAGEMENT OF DEPARTMENT OF DEFENSE DATA; ESTABLISHMENT OF CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICER GOVERNING COUNCIL.
+
+(a) Control and Management of Department of Defense Data.--The Chief Digital and Artificial Intelligence Officer of the Department of Defense may access and control, on behalf of the Secretary of Defense, any data collected, acquired, accessed, or used by a component (as such term is defined in section 1513 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117-263; 10 U.S.C. 4001 note)), consistent with such section.
+(b) Chief Digital and Artificial Intelligence Officer Governing Council.--Section 238(d)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) is amended to read as follows:
+``(3) Chief digital and artificial intelligence officer governing council.--
+``(A) Establishment.--The Secretary shall establish a council to provide policy oversight to ensure the responsible, coordinated, and ethical employment of data and artificial intelligence capabilities across Department of
+Defense missions and operations. Such council shall be known as the Chief Digital and Artificial Intelligence Officer Governing Council' (in this paragraph referred to as the Council').
+``(B) Membership.--The Council shall be composed of the following:
+``(i) Joint Staff J-6.
+``(ii) The Under Secretary of Defense for Acquisition and Sustainment.
+``(iii) The Under Secretary of Defense for Research and Evaluation.
+``(iv) The Under Secretary of Defense for Intelligence and Security.
+``(v) The Under Secretary of Defense for Policy.
+``(vi) The Director of Cost Analysis and Program Evaluation.
+``(vii) The Chief Information Officer of the Department.
+``(viii) The Director of Administration and Management.
+``(ix) The service acquisition executives of each of the military departments.
+``(C) Head of council.--The Council shall be headed by the Chief Digital and Artificial Intelligence Officer of the Department.
+``(D) Meetings.--The Council shall meet not less frequently than twice each fiscal year.``(E) Duties of council.--The duties of the Council are as follows:
+``(i) To streamline the organizational structure of the Department as such structure relates to the development, implementation, and oversight of artificial intelligence.
+``(ii) To improve coordination on artificial intelligence governance with the defense industry sector.
+``(iii) To issue and oversee guidance on ethical requirements and protections for the use of artificial intelligence supported by Department funding and the reduction or mitigation of instances of unintended bias in artificial intelligence algorithms.
+``(iv) To identify, monitor, and periodically update appropriate recommendations for the operational use of artificial intelligence.
+``(v) To review, to the extent the head of the Council considers necessary, artificial intelligence program funding, to ensure that any investment by the Department in an artificial intelligence tool, system, or algorithm adheres to each applicable policy of the Department relating to artificial intelligence.
+``(vi) To provide periodic status updates on the efforts of the Department to develop and implement artificial intelligence into existing Department programs and processes.
+``(vii) To issue guidance on access and distribution restrictions relating to data, models, tool sets, or testing or validation infrastructure.
+``(viii) To implement and oversee an educational program on data and artificial intelligence, for the purpose of familiarizing personnel Department-wide on the applications of artificial intelligence within the respective operations of such personnel.
+``(ix) To implement and oversee a scorecard to assess data decrees of the Department.
+``(x) Such other duties as the Council determines appropriate.``(F) Periodic reports.--Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, and not less frequently than once every 18 months thereafter, the Council shall submit to the Secretary and the congressional defense committees a report on the activities of the Council during the period covered by the report.''.
+SEC. 1522. MODIFICATION TO DEPARTMENT OF DEFENSE ENTERPRISE-WIDE PROCUREMENT OF CYBER DATA PRODUCTS AND SERVICES.
+
+Section 1521(a) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 2224 note) is amended--
+	(1) by redesignating paragraph (6) as paragraph (7);
+	(2) in paragraph (7), as so redesignated, by striking (1) through (5)'' and inserting (1) through (6)''; and
+	(3) by inserting after paragraph (5) the following new paragraph:
+``(6) Evaluating emerging cyber technologies, such as artificial intelligence-enabled security tools, for efficacy and applicability to the requirements of the Department of Defense.''.
+SEC. 1523. MANAGEMENT OF DATA ASSETS BY CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICER.
+
+(a) In General.--The Secretary of Defense, subject to existing authorities and limitations and acting through the Chief Digital and Artificial Intelligence Officer of the Department of Defense, shall provide the digital infrastructure and procurement vehicles necessary to manage data assets and data analytics capabilities at scale to enable an understanding of foreign key terrain and relational frameworks in cyberspace to support the planning of cyber operations, the generation of indications and warnings regarding military operations and capabilities, and the calibration of actions and reactions in strategic competition.(b) Responsibilities of Chief Digital and Artificial Intelligence Officer.--The Chief Digital and Artificial Intelligence Officer shall--
+	(1) develop a baseline of data assets exclusive to foreign key terrain and relational frameworks in cyberspace maintained by the intelligence agencies of the Department of Defense, the military departments, the combatant commands, and any other components of the Department of Defense;
+	(2) develop and oversee the implementation of plans to enhance such data assets that the Chief Digital and Artificial Intelligence Officer determines are essential to support the purposes set forth in subsection (a); and
+	(3) ensure that such activities and plans are undertaken in cooperation and in coordination with the Assistant to the
+Secretary of Defense for Privacy, Civil Liberties, and Transparency, to ensure that any data collection, procurement, acquisition, use, or retention measure conducted pursuant to this section is in compliance with applicable laws and regulations, including standards pertaining to data related to United States persons or any persons in the United States.
+(c) Other Matters.--The Chief Digital and Artificial Intelligence Officer shall--
+	(1) designate or establish one or more Department of Defense executive agents for enhancing data assets and the acquisition of data analytic tools for users;
+	(2) ensure that data assets referred to in subsection (b) that are in the possession of a component of the Department of Defense are accessible for the purposes described in subsection (a); and
+	(3) ensure that advanced analytics, including artificial intelligence technology, are developed and applied to the analysis of the data assets referred to in subsection (b) in support of the purposes described in subsection (a).
+
+(d) Semiannual Briefings.--Not later than 120 days after the date of the enactment of this Act, and not less frequently than semiannually thereafter, the Chief Digital and Artificial Intelligence Officer shall provide to the appropriate congressional committees a briefing on the implementation of this section.
+
+(e) Rule of Construction.--Nothing in this section shall be construed to authorize the Department of Defense to collect, procure, or otherwise acquire data, including commercially available data, in any manner that is not authorized by law, or to make use of data assets in any manner, or for any purpose, that is not otherwise authorized by law.
+(f) Appropriate Congressional Committees Defined.--In this section, the term ``appropriate congressional committees'' means--
+	(1) the congressional defense committees;
+	(2) the Permanent Select Committee on Intelligence of the House of Representatives; and
+	(3) the Select Committee on Intelligence of the Senate.
+SEC. 1524. COURSE OF EDUCATION AND PILOT PROGRAM ON AUTHENTICATION OF DIGITAL CONTENT PROVENANCE FOR CERTAIN DEPARTMENT OF DEFENSE MEDIA CONTENT.
+
+(a) Course of Education.--
+	(1) In general.--Not later than one year after the date of the enactment of this Act, the Secretary of Defense, acting through the Director of the Defense Media Activity, shall establish a course of education at the Defense Information School, the purpose of which shall be to provide instruction on the practical concepts and skills needed by public affairs, audiovisual, visual information, and records management specialists to understand the following:
+		(A) Digital content provenance for applicable Department media content.
+		(B) The challenges posed to missions and operations of the Department by a digital content forgery.
+		(C) How industry open technical standards may be used to authenticate the digital content provenance of applicable Department media content.	(2) Matters.--The course of education under paragraph (1) shall cover the following matters:
+		(A) The challenges to missions and operations of the Department posed by a digital content forgery.
+		(B) The development of industry open technical standards for authenticating the digital content provenance of applicable Department media content.
+		(C) Hands-on training on techniques to record secure and authenticated digital content to document and communicate relevant themes and messages of the Department.
+		(D) Training on--
+			(i) the use of industry open technical standards for authenticating digital content provenance in the completion of post-production tasks; and
+			(ii) the transmission of applicable Department media content in both operational and nonoperational environments.
+		(E) Such other matters as the Director of the Defense Media Activity considers appropriate.	(3) Report.--Not later than one year after the date of the establishment of the course of education under paragraph (1), the Director of the Defense Media Activity shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the following:
+		(A) The status of the development of a curriculum for such course of education.
+		(B) The implementation plan of the Director for such course of education, including the following:
+			(i) The expertise and qualifications of the personnel of the Department responsible for teaching such course of education.
+			(ii) The list of sources consulted or otherwise used to develop the curriculum for such course of education.
+			(iii) A description of the industry open technical standards referred to in paragraph (1)(C).
+			(iv) The status of the implementation of such course of education.
+		(C) The resources available to the Director to carry out this subsection and whether the Director requires any additional resources to carry out this subsection.
+(b) Pilot Program on Implementing Digital Content Provenance Standards.--
+	(1) Pilot program.--Not later than one year after the date of the enactment of this Act, the Director of the Defense Media Activity shall carry out a pilot program to assess the feasibility and advisability of implementing industry open technical standards for digital content provenance for official photographs and videos of the Department of Defense publicly released by the Defense Visual Information Distribution Service, or any successor operation, and other distribution platforms, systems, and services used by the Department of Defense (in this subsection referred to as the ``pilot program'').
+	(2) Elements.--In carrying out the pilot program, the Director of the Defense Media Activity shall--
+		(A) establish a process for using industry open technical standards to verify the digital content provenance of applicable Department media content;
+		(B) apply technology solutions that comport with industry open technical standard for digital content provenance to photographs and videos of the Department publicly released as described in paragraph (1) after the date of the enactment of this Act;
+		(C) assess the feasibility and advisability of applying an industry open technical standard for digital content provenance to historical visual information records of the Department stored at the Defense Visual Information Records Center; and
+		(D) develop and apply measure of effectiveness for the implementation of the pilot program.	(3) Consultation.--In carrying out the pilot program, the Director of the Defense Media Activity may consult with federally funded research and development centers, entities within private industry, institutions of higher education, and such other entities as the Director considers appropriate.
+	(4) Termination.--The pilot program shall terminate on January 1, 2027.
+	(5) Report.--
+		(A) In general.--Not later than January 1, 2026, the Director of the Defense Media Activity shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+		(B) Elements.--The report under subparagraph (A) shall include the following:
+			(i) The findings of the Director with respect to the pilot program.
+			(ii) The name of each entity the Director consulted with pursuant to paragraph (3) in carrying out the pilot program.
+			(iii) An assessment by the Director of the effectiveness of the pilot program.
+			(iv) A recommendation by the Director as to whether the pilot program should be made permanent.
+
+(c) Definitions.--In this section:
+	(1) The term ``applicable Department media content'' means any media holding generated, stored, or controlled by the Defense Media Activity.
+	(2) The term ``digital content forgery'' means the use of emerging technologies, including artificial intelligence and machine learning techniques, to fabricate or manipulate audio, visual, or text content with the intent to mislead.
+	(3) The term ``digital content provenance'' means the verifiable chronology of the origin and history of an image, video, audio recording, electronic document, or other form of digital content.
+SEC. 1525. PRIZE COMPETITIONS FOR BUSINESS SYSTEMS MODERNIZATION.
+
+(a) Establishment.--Not later than 270 days after the date of the enactment of this Act, under the authority of section 4025 of title 10, United States Code, the Secretary of Defense shall establish one or more prize competitions to support the business systems modernization goals of the Department of Defense.
+(b) Scope.--
+	(1) In general.--The Secretary of Defense shall structure any prize competition established under subsection (a) to complement, and to the extent practicable, accelerate the delivery or expand the functionality of business systems capabilities sought by the Secretaries of the military departments that are in operation, in development, or belong to any broad class of systems covered by the defense business enterprise architecture specified in section 2222(e) of title 10, United States Code.	(2) Areas for consideration.--In carrying out subsection (a), the Secretary of Defense and the Secretaries of the military departments shall consider the following:
+		(A) Integration of artificial intelligence or machine learning capabilities.
+		(B) Data analytics, business intelligence, or related visualization capabilities.
+		(C) Automated updating of business architectures, business systems integration, or documentation relating to existing systems or manuals.
+		(D) Improvements to interfaces or processes for interacting with other non-Department of Defense business systems.
+		(E) Updates or replacements for legacy defense business systems to improve operational effectiveness and efficiency, such as the system of the Defense Logistics Agency known as the ``Mechanization of Contract Administration Services'' system, or any successor system.
+		(F) Contract writing systems, or expanded capabilities relating to such systems, that may be integrated into existing systems of the Department of Defense.
+		(G) Pay and personnel systems, or expanded capabilities relating to such systems, that may be integrated into existing systems of the Department of Defense.
+		(H) Other finance and accounting systems, or expanded capabilities relating to such systems, that may be integrated into existing systems of the Department of Defense.
+		(I) Systems supporting the defense industrial base and related supply chain visibility, analytics, and management.
+(c) Framework.--Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees a briefing on the framework to be used in carrying out the prize competition under subsection (a).
+(d) Annual Briefings.--Not later than October 1 of each year until the date of termination under subsection (e), the Secretary of Defense shall provide to the congressional defense committees a briefing on the results of the prize competition under subsection (a).
+(e) Termination.--The authority to carry out the prize competition under subsection (a) shall terminate on September 30, 2028.
+SEC. 1526. REQUIREMENTS FOR DEPLOYMENT OF FIFTH GENERATION INFORMATION AND COMMUNICATIONS CAPABILITIES TO MILITARY INSTALLATIONS AND OTHER DEPARTMENT FACILITIES.
+
+(a) Requirements.--
+	(1) Strategy for private wireless networks.--Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall develop and implement a strategy for deploying to military installations and other facilities of the Department of Defense private wireless networks that are--
+		(A) based on fifth generation information and communications capabilities and Open Radio Access Network architecture; and
+		(B) tailored to the mission, security, and performance requirements of the respective military installation or other facility.	(2) Process for public wireless network service providers.--
+		(A) Establishment.--The Secretary shall establish a Department-wide process under which a public wireless network service provider of fifth generation information and communications capabilities may gain access to a military installation or other facility of the Department to provide commercial subscriber services to military and civilian personnel of the Department (including contractor personnel) located at, and organizational elements of the Department maintained at, such installation or facility.
+		(B) Design requirements.--In establishing the process under subparagraph (A), the Secretary shall ensure relevant system architectures and supporting infrastructure are designed to support modular upgrades to future generation technologies.
+	(3) Determination relating to contract authority.--The Secretary shall determine, on a contract-by-contract basis or as a determination with uniform applicability to contracts across military installations and other facilities of the Department, whether to enter into a contract for--
+		(A) neutral hosting, under which infrastructure and services would be provided to companies deploying private wireless networks and public wireless network services to such installation or other facility through multi-operator core network architectures; or(B) separate private wireless network and public wireless network infrastructure at such installation or other facility (which shall include a determination by the Secretary on how to establish roaming agreements and policies between such networks).
+	(4) Briefing.--Not later than 150 days after the date of the enactment of this Act, the Secretary shall provide to the congressional defense committees a briefing on the strategy developed under paragraph (1) and any other activity carried out pursuant to this subsection.
+(b) International Cooperation Activities.--The Secretary, using existing authorities available to the Secretary, may engage in cooperation activities with foreign allies and partners of the United States to--
+	(1) improve the implementation of the strategy under subsection (a)(1); and
+	(2) inform the deployment of private wireless networks to military installations and other facilities of the Department pursuant to such strategy.
+(c) Open Radio Access Network Architecture Defined.--In this section, the term ``Open Radio Access Network architecture'' means a network architecture that is modular, uses open interfaces, and virtualizes functionality on commodity hardware through software.
+SEC. 1527. REQUIRED POLICIES TO ESTABLISH DATALINK STRATEGY OF DEPARTMENT OF DEFENSE.
+
+(a) Policies Required.--
+	(1) In general.--The Secretary of Defense shall develop and implement policies to establish a unified datalink strategy of the Department of Defense (in this section referred to as the ``strategy'').
+	(2) Elements.--The policies under paragraph (1) shall provide for, at a minimum, the following:
+		(A) The designation of an organization to serve as the lead coordinator of datalink activities throughout the Department of Defense.
+		(B) The prioritization and coordination across the military departments with respect to the strategy within the requirements generation process of the Department.
+		(C) The use throughout the Department of a common standardized datalink network or transport protocol that ensures interoperability between independently developed datalinks, regardless of physical medium used, and ensures mesh routing. In developing such policy, the Secretary of Defense shall consider the use of a subset of Internet Protocol.
+		(D) A programmatic decoupling of the physical method used to transmit data, the network or transport protocols used in the transmission and reception of data, and the applications used to process and use data.
+		(E) Coordination of the strategy with respect to weapon systems executing the same mission types across the military departments, including through the use of a common set of datalink waveforms. In developing such policy, the Secretary shall evaluate the use of redundant datalinks for line-of-sight and beyond-line-of-sight information exchange for each weapon systems platform.
+		(F) Coordination between the Department and the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) to leverage any efficiencies and overlap with existing datalink waveforms of the intelligence community.
+		(G) Methods to support the rapid integration of common datalinks across the military departments.
+		(H) Support for modularity of specific datalink waveforms to enable rapid integration of future datalinks, including the use of software defined radios compliant with modular open system architecture and sensor open system architecture.
+(b) Information to Congress.--Not later than June 1, 2024, the Secretary of Defense shall--
+	(1) provide to the appropriate congressional committees a briefing on the proposed policies under subsection (a)(1), including timelines for the implementation of such policies; and
+	(2) submit to the appropriate congressional committees--
+		(A) an estimated timeline for the implementations of datalinks;
+		(B) a list of any additional resources and authorities necessary to implement the strategy; and
+		(C) a determination of whether a common set of datalinks can and should be implemented across all major weapon systems (as such term is defined in section 3455 of title 10, United States Code) of the Department of Defense.
+
+(c) Appropriate Congressional Committees Defined.--In this section, the term ``appropriate congressional committees'' means the congressional defense committees and the congressional intelligence committees, as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).

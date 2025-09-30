@@ -1,0 +1,12 @@
+SEC. 7. Implementation of technology for classification and declassification.
+
+(a) In general.—Not later than 1 year after the date of the enactment of this Act, the Administrator of the Office of Electronic Government of the Office of Management and Budget (in this section referred to as the “Administrator”), in consultation with the Secretary of Defense, the Director of the Central Intelligence Agency, the Director of National Intelligence, the Director of the Information Security Oversight Office, the head of the National Declassification Center of the National Archives and Records Administration, and the Public Interest Declassification Board, shall—
+(1) research a technology-based solution—
+(A) using machine learning and artificial intelligence to support efficient and effective systems for classification and declassification; and
+(B) to be implemented on an interoperable and federated basis across the Federal Government; and
+(2) submit to the President a recommendation regarding a technology-based solution described in paragraph (1) that should be adopted by the Federal Government.
+(b) Staff.—The Administrator may hire sufficient staff to carry out subsection (a).
+
+(c) Report.—
+(1) SUBMISSION.—Not later than 540 days after the date of the enactment of this Act, the President shall submit to Congress a report on the technology-based solution recommended by the Administrator under subsection (a)(2) and the determination of the President regarding its adoption.
+(2) FORM.—The report under paragraph (1) may be submitted in classified form.

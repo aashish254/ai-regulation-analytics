@@ -1,0 +1,43 @@
+SEC. 1531. DIGITAL DEVELOPMENT INFRASTRUCTURE PLAN AND WORKING GROUP.
+
+(a) Plan Required.--Not later than one year after the date of the enactment of this Act, the Secretary of Defense, acting through the working group established under subsection (d)(1), shall develop a plan for the establishment of a modern information technology infrastructure that supports state of the art tools and modern processes to enable effective and efficient development, testing, fielding, and continuous updating of artificial intelligence-capabilities.
+
+(b) Contents of Plan.--The plan developed pursuant to subsection (a) shall include at a minimum the following:
+	(1) A technical plan and guidance for necessary technical investments in the infrastructure described in subsection (a) that address critical technical issues, including issues relating to common interfaces, authentication, applications, platforms, software, hardware, and data infrastructure.
+	(2) A governance structure, together with associated policies and guidance, to support the implementation throughout the Department of such plan.
+	(3) Identification and minimum viable instantiations of prototypical development and platform environments with such infrastructure, including enterprise data sets assembled under subsection (e).
+
+(c) Harmonization With Departmental Efforts.--The plan developed pursuant to subsection (a) shall include a description of the aggregated and consolidated financial and personnel requirements necessary to implement each of the following Department of Defense documents:
+	(1) The Department of Defense Digital Modernization Strategy.
+	(2) The Department of Defense Data Strategy.
+	(3) The Department of Defense Cloud Strategy.
+	(4) The Department of Defense Software Modernization Strategy.
+	(5) The Department-wide software science and technology strategy required under section 255 of the National Defense Authorization Act for Fiscal Year 2020 (10 U.S.C. 2223a note).
+	(6) The Department of Defense Artificial Intelligence Data Initiative.
+	(7) The Joint All-Domain Command and Control Strategy.
+	(8) Such other documents as the Secretary determines appropriate.
+(d) Working Group.--
+	(1) Establishment.--Not later than 60 days after the date of the enactment of this Act, the Secretary of Defense shall establish a working group on digital development infrastructure implementation to develop the plan required under subsection (a).
+	(2) Membership.--The working group established under paragraph (1) shall be composed of individuals selected by the Secretary of Defense to represent each of the following:
+		(A) The Office of Chief Data Officer (CDO).
+		(B) The Component Offices of Chief Information Officer and Chief Digital Officer.
+		(C) The Joint Artificial Intelligence Center (JAIC).
+		(D) The Office of the Under Secretary of Defense for Research & Engineering (OUSD (R&E)).
+		(E) The Office of the Under Secretary of Defense for Acquisition & Sustainment (OUSD (A&S)).
+		(F) The Office of the Under Secretary of Defense for Intelligence & Security (OUSD (I&S)).
+		(G) Service Acquisition Executives.
+		(H) The Office of the Director of Operational Test and Evaluation (DOT&E).
+		(I) The office of the Director of the Defense Advanced Research Projects Agency (DARPA).
+		(J) Digital development infrastructure programs, including the appropriate activities of the military services and defense agencies.
+		(K) Such other officials of the Department of Defense as the Secretary determines appropriate.
+	(3) Chairperson.--The chairperson of the working group established under paragraph (1) shall be the Chief Information Officer of the Department of Defense, or such other official as the Secretary of Defense considers appropriate.
+	(4) Consultation.--The working group shall consult with such experts outside of the Department of Defense as the working group considers necessary to develop the plan required under subsection (a).
+(e) Strategic Data Node.--To enable efficient access to enterprise data sets referred to in subsection (b)(3) for users with authorized access, the Secretary of Defense shall assemble such enterprise data sets in the following areas:
+	(1) Human resources.
+	(2) Budget and finance.
+	(3) Acquisition.
+	(4) Logistics.
+	(5) Real estate.
+	(6) Health care.
+	(7) Such other areas as the Secretary considers appropriate.
+(f) Report.--Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the development of the plan required under subsection (a).

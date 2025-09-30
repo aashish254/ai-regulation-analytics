@@ -1,0 +1,44 @@
+SEC. 834. PLAN FOR ARTIFICIAL INTELLIGENCE DIGITAL ECOSYSTEM.
+
+    (a) Plan.--Not later than 1 year 
+after the date of the enactment of this Act, the Director of National 
+Intelligence shall coordinate with the heads of other elements of the 
+intelligence community and, in conjunction with the heads of those 
+elements, shall--
+            (1) develop a plan for the development and resourcing of a 
+        modern digital ecosystem that embraces state-of-the-art tools 
+        and modern processes to enable development, testing, fielding, 
+        and continuous updating of artificial intelligence-powered 
+        applications at speed and scale from headquarters to the 
+        tactical edge; and
+            (2) submit to the congressional intelligence committees the 
+        plan developed under paragraph (1).
+    (b) Contents of Plan.--At a minimum, the plan required by subsection 
+(a) shall include the following:
+            (1) Policies to enable elements of the intelligence 
+        community to adopt a hoteling model to allow trusted small- and 
+        medium-sized artificial intelligence companies access to 
+        classified facilities on a flexible basis.
+            (2) Policies for an open architecture and an evolving 
+        reference design and guidance for needed technical investments 
+        in the proposed ecosystem that address issues, including common 
+        interfaces, authentication, applications, platforms, software, 
+        hardware, and data infrastructure.
+            (3) Policies to ensure, to the extent possible, 
+        interoperability, and the reduction of duplication, of 
+        artificial intelligence capabilities developed or acquired by 
+        elements of the intelligence community.
+            (4) A governance structure, 
+        together with associated policies and guidance, to drive the 
+        implementation of the reference throughout the intelligence 
+        community on a federated basis.
+            (5) Community standards for the use of artificial 
+        intelligence and associated data, as appropriate.
+            (6) Recommendations to ensure 
+        that use of artificial intelligence and associated data by the 
+        Federal Government related to United States persons comport with 
+        rights relating to freedom of expression, equal protection, 
+        privacy, and due process.
+
+    (c) Form.--The plan submitted under subsection (a)(2) shall be 
+submitted in unclassified form, but may include a classified annex.

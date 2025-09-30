@@ -1,0 +1,27 @@
+SEC. 6505. ASSESSMENTS OF PRODUCTION OF SEMICONDUCTORS BY THE PEOPLE'S REPUBLIC OF CHINA.
+
+(a) Definitions.--In this section:
+	(1) Appropriate committees of congress.--The term ``appropriate committees of Congress'' means--
+		(A) the congressional intelligence committees;
+		(B) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security
+and Governmental Affairs, and the Committee on Appropriations of the Senate; and
+		(C) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.
+	(2) Legacy semiconductor.--The term ``legacy semiconductor'' has the meaning given such term in section 9902(a)(6)(A) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4652(a)(6)(A)).
+
+(b) In General.--Not later than 60 days after the date of the enactment of this Act, and annually thereafter for 3 years, the Director of National Intelligence shall submit to the appropriate committees of Congress an assessment of progress by the People's Republic of China in global competitiveness in the production of semiconductors by Chinese firms, including any subsidiary, affiliate, or successor of such firms.
+
+(c) Consultation.--In carrying out subsection (b), the Director shall consult with the Secretary of Commerce and the heads of such other Federal agencies as the Director considers appropriate.
+(d) Elements.--Each assessment submitted under subsection (b) shall include the following:
+	(1) The progress of the People's Republic of China toward self-sufficiency in the supply of semiconductors, including globally competitive Chinese firms competing in the fields of artificial intelligence, cloud computing, autonomous vehicles, next-generation and renewable energy, advanced life sciences and biotechnology, and high-performance computing.
+	(2) The progress of the People's Republic of China in developing indigenously or accessing foreign sources of intellectual property critical to the design and manufacturing of leading edge process nodes, including electronic design automation technology.
+	(3) Activity of Chinese firms with respect to the production of semiconductors that are not legacy semiconductors, including any identified export diversion to evade export controls.
+	(4) Any observed stockpiling efforts by Chinese firms with respect to semiconductor manufacturing equipment, substrate materials, silicon wafers, or other necessary inputs for semiconductor production.
+	(5) An analysis of the relative market share of different Chinese semiconductor manufacturers at different process nodes and the estimated increase or decrease of market share by that manufacturer in each product category during the preceding year.
+	(6) A comprehensive summary of recruitment activity of the People's Republic of China targeting semiconductor manufacturing engineers and managers from non-
+Chinese firms.
+	(7) An analysis of the capability of the workforce of the People's Republic of China to design, produce, and manufacture of semiconductors that are not legacy semiconductors and relevant equipment.
+	
+(e) Form of Assessments.--Each assessment submitted under subsection (b) shall be submitted in unclassified form and include a classified annex.
+
+(f) Additional Reporting.--Each assessment submitted under subsection (b) shall also be transmitted to the Secretary of Commerce, to inform, among other activities of the Department of Commerce, implementation of section 103 of the CHIPS Act of 2022 (Public Law 117-
+1. and title XCIX of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651 et seq.).

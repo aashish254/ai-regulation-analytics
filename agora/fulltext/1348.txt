@@ -1,0 +1,42 @@
+SEC. 1013. TASK FORCE ON PREVENTING BIAS IN AI AND ALGORITHMS.
+
+
+(a) In General.--Not later than 30 days after the date of enactment of this Act, the Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall establish a Task Force to be known as the “Task Force on Preventing AI and Algorithmic Bias in Health Care” (referred to in this section as the “Task Force”) to provide clear and robust guidance on how to ensure that the development and integration of artificial intelligence and algorithmic technologies within the health care service delivery process does not exacerbate health disparities and inequities, expands access to health care services, and improves health care delivery.
+
+(b) Membership and Chairperson.--
+(1) Membership.--The Task Force shall be composed of–
+(A) the Chief Information Officer of the Department of Health and Human Services;
+(B) the Director of the Centers for Disease Control and Prevention;
+(C) the Director of the National Institutes of Health;
+(D) the Commissioner of Food and Drugs;
+(E) the Administrator of the Federal Emergency Management Agency;
+(F) the Director of the National Institute on Minority Health and Health Disparities;
+(G) the Director of the Indian Health Service;
+(H) the Administrator of the Centers for Medicare & Medicaid Services;
+(I) the Director of the Agency for Healthcare Research and Quality;
+(J) the Surgeon General;
+(K) the Administrator of the Health Resources and Services Administration;
+(L) the Director of the Office of Minority Health;
+(M) the Director of the Office on Women's Health;
+(N) the Chairperson of the National Council on Disability;
+(O) the National Coordinator for Health Information Technology;
+(P) at least 4 State, local, territorial, and Tribal public health officials representing departments of public health, or an Urban Indian health representative, who shall represent jurisdictions from different regions of the United States with relatively high concentrations of historically marginalized populations, to be appointed by the Secretary;
+(Q) at least 3 independent individuals with expertise on racially and ethnically diverse representation with knowledge or field experience with community-based participatory research on racial and ethnic disparities in public health, to be appointed by the Secretary; and
+(R) at least 4 individuals with expertise on health equity and demographic data disparities with knowledge of, or field experience in, language, disability status, sex, sexual orientation, gender identity, or socioeconomic status.
+(2) Chairperson.--The Chief Information Officer of the Department of Health and Human Services (or the Chief Information Officer's designee) shall serve as the Chairperson of the Task Force.
+
+(c) Duties.--The Task Force shall--
+(1) examine artificial intelligence and algorithms in the health care service sector, including the health care delivery process relative to the use of autonomous human decision makers;
+(2) identify the risks of health care system utilization of artificial intelligence and algorithms in terms of civil rights, civil liberties, and discriminatory bias in health care access, quality, and outcomes; and
+(3) prepare and submit the report under subsection (d).
+
+(d) Report.--Not later than 1 year after the date of enactment of this Act, the Task Force shall--
+(1) submit a written report of the findings of the examination under subsection (c)(1) and recommendations to Congress with respect to implementation of artificial intelligence and algorithms in health care delivery and mitigation of the risks associated with that implementation; and
+(2) publish such report on the website of the Department of Health and Human Services.
+
+(e) Public Comment.--Not later than 60 days after the date of the enactment of this Act, the Task Force shall publish in the Federal Register a notice providing for a public comment period on the duties and activities of the Task Force of not less than 90 days, beginning on the date of that publication.
+
+(f) Staff of Commission.--
+(1) Additional staff.--The Chairperson of the Task Force may appoint and fix the pay of additional staff to the Task Force as the Chairperson considers appropriate.
+(2) Applicability of certain civil service laws.--The staff of the Task Force may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+(3) Detailees.--Any Federal Government employee may be detailed to the Task Force without reimbursement from the Task Force, and the detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.

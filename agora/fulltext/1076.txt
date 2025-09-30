@@ -1,0 +1,138 @@
+Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics
+
+
+Introduction 
+
+
+Artificial intelligence systems are being increasingly used across the world, in both the private and public sectors. AI systems already have a wide range of applications such as autonomous vehicles, medical imaging analysis, credit scoring, securities trading, personalized learning and employment – and the list of applications is constantly expanding. In the coming years, AI systems are expected to have profound economic and societal impact in diverse fields of activity such as health, education, labor, transportation, finance, agriculture, energy systems, construction, and industrial manufacturing.
+
+
+Along with its many advantages and great economic and societal benefit potential, the use of artificial intelligence presents major challenges for regulators in Israel and across the globe. Those challenges include the risk of bias and discrimination, lack of transparency and human oversight, potential harms to privacy, the vulnerability of AI systems, safety concerns, concerns about accountability and IP related considerations. To help address these challenges, Israel's Ministry of Innovation, Science and Technology published, on December 2023, its first-ever policy on AI regulation and ethics, which recommends concrete steps to foster responsible AI innovation in the private sector (the "AI Policy"). 
+
+
+The AI Policy is the fruit of comprehensive work led by the Ministry, and conducted collaboratively with the Office of Legal Counsel and Legislative Affairs (Economic Law Department) at the Ministry of Justice. The AI Policy was developed pursuant to a government resolution that tasked the Ministry of Innovation, Science and Technology with advancing a national AI plan for Israel. It is based on extensive consultations with multiple government departments, the Israel Innovation Authority, civil society organizations, academia and the private sector actors. The AI Policy builds upon various initiatives and documents published over the last few years by working groups and government bodies in Israel, as well as AI policy papers of international organizations and leading countries. An important milestone in the process was the publication, on November 17, 2022, of a White Paper which formed the basis for public consultations and constituted the first draft of the AI Policy.
+
+
+The AI Policy identifies seven main challenges arising from the use of artificial intelligence in the private sector (discrimination, human oversight, explainability, disclosure of AI interactions, safety, accountability and privacy). To address these challenges, and consistent with the approach taken by the OECD AI Recommendations, the AI Policy sets forth common policy principles and a number of practical recommendations.
+
+
+The main recommendation are:
+a. Adopting sectoral regulation
+b. Consistency with existing regulatory approach of leading countries and international organizations
+c. Adopting a risk-based approach
+d. Using "soft" regulatory tools intended to allow for an incremental development of the regulatory framework
+e. Fostering cooperation between the public and the private sectors.
+
+
+The AI Policy is a stand-alone document, focusing on responsible AI innovation, regulatory policy and ethics. However, it also forms part of a wider governmental effort to address the benefits and challenges that arise from AI. This includes recommendations with respect to the use of AI applications by the government or for specific sectors (such as the report published by the Office of Legal Counsel and Legislative Affairs (Economic Law Department) at the Ministry of Justice, regarding the use of AI in financial services); a legal opinion addressing IP challenges in the context of large scale AI models; and Israel’s participation in various multinational forums such as the OECD’s Working Party on Artificial Intelligence Governance (AIGO) and the Council of Europe’s Committee on Artificial Intelligence (CAI).The AI Policy also contemplates future work regarding the implications of Foundation Models and Frontier AI.
+
+
+The AI Policy was originally published in Hebrew. It includes an in-depth study of the challenges and advantages arising from AI, and a review of the approaches suggested by leading countries and international forums, and a chapter containing detailed recommendations. The present document provides an English summary of the AI Policy, focusing mainly on the recommendations chapter.
+
+
+Scope
+The AI Policy provides guidelines and instructions for sectoral regulators when addressing the regulation of AI in the private sector. While some parts of the AI Policy can be natively applied to the public sector as well, a full discussion of the required adaptations and modifications is out of the scope of this Policy. The government's policy on public sector applications of AI is being developed separately. 
+
+
+With respect to private sector applications, the AI Policy is premised upon the concept of "Responsible Innovation", which captures the need to support innovation while simultaneously fostering accountability and ethically-aligned design and uses of AI. While private sector innovation and ethics (or regulation) are often perceived as conflicting with one another, responsible innovation views these two goals as synergistic and mutually complementary. The AI Policy applies this concept to the entire lifecycle of AI applications, with a special focus on use and deployment.
+
+
+Regulatory and Ethical Challenges
+The AI Policy is based upon a thorough analysis of seven key regulatory and ethical challenges. The term "challenge" is used here to reflect the need to consider holistically both the risks and benefits of AI systems when crafting policy.
+
+
+Discrimination – This refers to the risk that existing biases in the training data will lead to discriminatory outcomes (disparate impact). This risk is exacerbated by the scale at which this could occur, potentially entrenching discrimination in certain cases. Discriminatory outcomes could be due not only to problems with the training data, but also to inferences about the correlation between certain variables (e.g. the place of residence, gleaned from an address or postal code, can be a proxy for group affiliation, ethnic characteristics or socio-economic status). That being said, AI systems can also mitigate existing discriminatory conditions through delibrate algorithmic or methodological approaches.
+
+
+Human oversight – The absence of human oversight in the decision cycle of an AI system could undermine its process and overall accountability. Without human oversight, harmful decisions and system errors could go undetected. At the same time, bearing in mind that AI systems draw their effectiveness, by and large, from the automation that they enable, it is not always possible or even desirable to mandate human oversight. The main questions, then, are (1) when should human involvement be required, and (2) how should the interaction and division of responsibility between a human and an AI system be shaped in order to harness their respective advantages, bearing in mind the need for legal and regulatory certainty regarding their respective roles.
+
+
+Explainability – State of the art AI systems are based on machine learning models for making predictions, generating content and supporting human decision-making. However, it is often the case that the logic underlying those models cannot easily be "extracted" from the system or formulated in a human readable manner (the so-called "black box" problem). Absent some sort of transparency into the AI-based decisional process, arbitrary or erroneous decisions would not necessarily be detectable or understandable. This, in turn, could undermine public trust in those systems. In this context, "explainability" refers to the ability to explain how a particular AI system operates or to provide the reasons for a specific AI-based decision or recommendation, in a manner that is readily understandable. At the same time, the imposition of broad explainability requirements might be technically complex and financially onerous, potentially inhibiting innovation. In addition, developers and deployers of AI systems have legitimate concerns about the apparent tradeoff between explainability and the protection of their intellectual property. Questions arise such as in which situations is it appropriate to require an explanation about how the system operates or about a particular decision, and what is the appropriate level of detail provided in each such situation.
+
+
+Disclosing AI interactions – AI systems are being increasingly used for decision support or assistance, interacting with users and generating content of all kinds. While general public awareness of such uses has grown over the years, individuals may not always be aware whether and how an AI system is being used in their case. This is especially true with respect to vulnerable groups and those with lower digital literacy. In addition, in some cases, an entity operating an AI system may seek to conceal the use of an AI system from end-users, raising various concerns: the proliferation of fake news and disinformation, with attendant risks to democratic governance, harms to fundamental rights and freedoms, wide-scale consumer manipulation, and the like. A discussion about the appropriate scope of disclosure for AI systems must take these broader concerns into account.
+
+
+Reliability, robustness, security, and safety – AI systems are susceptible to technical faults and intentional manipulations of the training data or the system itself. This raises concerns of poor performance of an AI system, as well as concerns of disruption by an external adversary through exploitation of a vulnerability in the system. Such concerns are especially relevant when AI systems are used in the physical world. Generally, developers are incentivized to mitigate those risks, but there may be cases where additional regulatory intervention is justified.
+
+
+Accountability and legal liability – Civil and criminal liability frameworks presume agency on the part of an individual. The autonomous nature of AI systems and the difficulty in predicting and explaining their activity challenges, raise questions about who bears moral, social and legal accountability and responsibility (civil and criminal) for harm caused by an AI system, and what kind of liability can be imposed (negligence, strict or absolute responsibility). Such questions also point to the need to strengthen accountability frameworks within organizations, through internal governance structures and periodic risk assessments. Given the large number of AI companies across regulated sectors, it is important to craft tailored approaches.
+
+
+Privacy – The development and use of AI systems necessitates the use of large quantities of data, some of which could include personal information. The collection and processing of personal information is regulated by privacy protection laws that have existed for decades, but new challenges have emerged in the AI context. For example, a developer may seek to use, as training data, personal information that was not initially collected for that purpose. The need to train a system on large quantities of historic data also runs counter to data minimization requirements, which compel an entity to delete personal information after a period of time. Additional questions include: (1) whether individuals have the ability to modify the information collected about them; (2) whether they should be granted the right to object to continued processing of their personal information; and (3) whether re-identification of anonymized data should be limited. Clearly, privacy concerns must be addressed in the development and use of AI systems, as well as in the elaboration of regulatory policy in this field.
+
+
+Recommendations on a Regulation and Ethics Policy on Artificial Intelligence
+
+
+1. Establishing a governmental policy framework for AI regulation
+
+
+When developing regulatory responses to the challenges noted above, it is important to recall existing legal frameworks, such as contract law, tort law, consumer protection law and privacy protection law, which already address some of these challenges. These frameworks are complemented by sector-specific regulation in fields such as medical diagnosis, pharmaceutical, vehicular safety, banking and insurance. However, points of friction can arise when the effects of disruptive technologies are not fully captured by existing regulation, or when addressing them through existing regulation does not result in a socially desirable outcome. In such cases, legislators and regulatory bodies may need to intervene in some way.
+
+
+The AI Policy accordingly puts forward a set of recommendations to promote responsible AI innovation. The concept of responsible innovation refers holistically to several joint goals: fostering the development and use of AI-based technologies, the reduction of regulatory barriers faced by the private sector, increasing legal certainty, the minimization of possible violations of fundamental rights and alignment with ethics and public interest concerns. 
+
+
+Underlying this approach are six regulatory principles:
+a. Empowering sector-specific regulators: The need for any regulation of the development and use of artificial intelligence in a particular sector should be assessed by the appropriate sectoral regular, based upon concrete needs and adapted to the existing regulatory environment of that sector. This approach is favored over the adoption of broad horizontal legislation. At the same time, any such regulatory efforts should be consistent with a uniform government policy through dedicated coordination mechanisms. Furthermore, the need for horizontal legislation should be assessed periodically, as the challenges evolve and experience is accumulated, including to address common challenges that arise across sectors.
+b. International interoperability of frameworks: In order to facilitate international operability of frameworks and reduce cross-border regulatory barriers, Israel's regulation should foster consistency with existing approaches of leading countries and international organizations, to the extent possible.
+c. Risk-based approach: AI regulation should be adapted to the risks posed by the type of technology, weighted against the potential benefits and risk mitigation measures that are applied in the context of the specific use being regulated. It should result from a risk management process undertaken by the regulator, and direct the private sector to also adopt a risk management approach in relation to the use of AI. Thus, generally, regulation will not apply uniformly to technologies and uses where the risks and concerns they each raise vary greatly.
+d. Incremental development and regulatory experimentation: AI regulation should be incremental and adaptable, concomitantly with technological developments. Regulatory experimentation tools, including regulatory pilot projects and sandboxes, should be used to enable the safe introduction of AI-based systems and harness their socioeconomic benefits.
+e. Soft regulation: Enabling regulation should be favored when possible. This includes considering the use of advanced "soft" regulatory tools, such as nonbinding ethical principles, standards, recommendations for voluntary adoption, and supervised and unsupervised self-regulation.
+f. Multistakeholder cooperation: AI regulation should result from cooperation with experts and stakeholders, including representatives of industry (with an emphasis on micro, small and medium enterprises), academia, civil society organizations and the public at large, as necessary in the circumstances, in order for such regulation to be based on high-caliber professional and technological underpinnings that strike a balance between the various rights and interests.
+
+
+2. Adopting a common set of ethical AI principles
+
+
+The AI Policy recommends adopting AI principles based upon the OECD AI Principles (with some adjustments), in order to assist regulators and other stakeholders in the field. Doing so would enable government authorities, regulators, policy-makers and other stakeholders, to share a common taxonomy. Furthermore, it provides a framework within which the principles of responsible AI innovation can be nurtured.
+
+
+The principles should not be construed as legally binding to regulators or organizations, nor should they constitute a tool for legal interpretation. Rather, they are meant to reflect elements that should be considered in the development and use of AI and in the drafting of regulation in this area. They are set forth below:
+a. Artificial intelligence to promote growth, sustainable development and Israeli leadership in innovation: The use of trustworthy AI should be a means to encourage growth, sustainable development and social well-being, and to advance Israeli leadership in AI innovation.
+b. Human-centric AI: The development and use of an AI system should respect the rule of law, fundamental rights and public interests, and in particular, it should preserve human dignity and the right to privacy.
+c. Equality and non-discrimination: Consideration should be given to risks of biases and discrimination against individuals or groups, while bearing in mind AI's potential to promote equality.
+d. Transparency and explainability: To the extent possible and in appropriate cases, individuals should be: (1) informed that they are interacting with an AI system, (2) notified if an AI system is being used to make recommendations or decisions involving them, and (3) provided with an understandable explanation of an AI-based recommendation or decision involving them. Relevant factors to take into account include the impact of the AI recommendation or decision, intellectual property protections and technological limitations.
+e. Reliability, robustness, security and safety: Suitable measures should be taken, in accordance with generally accepted professional risk management standards, in order to mitigate potential safety and cyber-related risks throughout the lifecycle of AI systems.
+f. Accountability: Developers, operators and users of AI should be accountable for the proper functioning of AI systems and for the implementation of the other ethical principles in their operation. Among other things, they should adopt generally accepted risk-management approaches. 
+
+
+3. Establishing an AI Policy Coordination Center
+
+
+It is proposed to establish an AI Policy Coordination Center, in collaboration with the Office of Legal Counsel and Legislative Affairs (Economic Law Department), at the Ministry of Justice. The Center would serve as an expert-based inter-agency body, tasked with the following functions:
+a. Advising sectoral regulators in examining the need for AI regulation and developing such regulation as necessary.
+b. Promoting inter-agency coordination in order to ensure consistency with global government policy and reduce overlaps.
+c. Spearheading coordinated and horizontal processes to implement governmental AI policy, and updating the AI Policy.
+d. Advising the government on AI regulation and on the implementation of the AI Policy, and monitoring such implementation.
+e. Leading Israel's representation and involvement in international forums with respect to AI regulation and standards.
+f. Publishing information and tools on responsible AI innovation, for use by regulators and the private sector.
+g. Establishing consultation forums to facilitate ongoing discussions and sharing knowledge with industry, academia, civil society organizations and the government.
+
+
+The Center should be composed of civil servants with expertise in areas such as government policy, regulation, international and public relations, technology and law. Its overall activities would be overseen by a steering committee chaired by a senior official from the Ministry of Innovation, Science and Technology, and composed of other senior officials from the Ministry of Justice, the Ministry of Finance, the Regulatory Authority, the Privacy Protection Authority, the Israel National Digital Agency, and the Israel Innovation Authority. Furthermore, it should be endowed with sufficient budgetary resources to conduct its activities effectively.
+
+
+4. Mapping the uses of AI and the associated challenges in regulated sectors
+
+
+To ensure fact-driven, evidence-based and technologically informed policy making, government entities and relevant regulators should take immediate measures to map out the concrete uses of AI systems by their respective regulated entities, as well as the challenges and risks that these systems pose. The AI Policy Coordination Center should assist them in this task.
+
+
+5. Establishing a forum of regulators and a forum for public participation on AI policy
+
+
+An inter-agency forum should be established, comprised of regulators and experts in technology, policy and law, in order to promote coordination and coherence in sectoral AI regulation, through cooperation and joint learning. In addition, a multistakeholder forum should be established, with representatives from industry, academia and civil society organizations. It would allow for open discussions among stakeholders to identify policy gaps and formulate potential responses.
+
+
+6. Active involvement in developing regulation and standards in international forums
+
+
+The Ministry of Innovation, Science and Technology, in partnership and coordination with other government departments, should take an active role in international organizations, and foster bilateral and multilateral approaches to AI policy, with the goal of promoting international operability of frameworks.
+
+
+7. Developing tools for responsible AI, including a risk management tool
+
+
+Tools should be developed by the government to enable the responsible development and use of AI, such as a risk management framework which will create a common terminology for regulatory bodies, and between them and private entities. Adoption of a common terminology would help the private sector assess the risks in a specific use of AI and deploy mitigation measures, and would assist regulators to overview these measures and assessments. The AI Policy Coordination Center should lead this effort, together with regulators and stakeholders.

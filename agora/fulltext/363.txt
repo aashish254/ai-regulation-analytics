@@ -1,0 +1,57 @@
+ 5309
+ 
+2023-2024 Regular Sessions
+
+
+IN  ASSEMBLY
+
+
+March 7, 2023
+
+
+Introduced by M. of A. SOLAGES -- read once and referred to the Committee on Governmental Operations
+ 
+AN ACT to amend the state finance law, in relation to  the  purchase of products  that  are  or  contain an algorithmic decision system that adheres to responsible artificial intelligence standards; and to amend the executive law, in relation to the definition of "unlawful  discriminatory practice"
+ 
+The People of the State of New York, represented in Senate and Assembly, do enact as follows:
+  Section 1. Section 165 of the state finance law is amended by adding a new subdivision 9 to read as follows:
+
+
+1. Algorithmic decision system purchase.  
+
+
+a. As used in this subdivision:
+(i) "algorithmic decision system" means a computational process, including one derived from machine learning, statistics, or other data processing or artificial intelligence techniques, that makes a decision, or facilitates human decision making, in a manner that impacts individuals; and 
+(ii) "state unit" means the state and any governmental agency or political subdivision or public benefit corporation of the state.
+
+
+b. When purchasing a product or service that is or contains an algorithmic decision system to be used by the state, a state unit shall purchase a product or service that adheres to responsible artificial intelligence standards, including:
+(i) the avoidance of harm, including the minimization of:
+(A) risks of physical or mental injury; 
+(B) the unjustified deletion or disclosure of information; and
+(C) the unwarranted damage to property, reputation, or environment;
+(ii) a commitment to transparency, including the full disclosure to the state unit any algorithmic decision system:
+(A) capabilities;
+(B) limitations; and
+(C) potential problems;
+(iii) giving primacy to fairness, including by taking actions to:
+(A) eliminate discrimination;
+(B) include equality, tolerance, respect for others, and justice as algorithmic decision system goals; and
+(C) provide an avenue for feedback to redress harms; and
+(iv) a comprehensive and thorough evaluation and analysis of the algorithmic decision system's impact and potential risks.
+
+
+c. The commissioner of taxation and finance shall adopt regulations to carry out this subdivision.
+
+ § 2. Subdivision 4 of section 292 of the executive law, as amended by section  2 of subpart F of part KK of chapter 57 of the laws of 2018, is amended to read as follows:
+
+
+1. The term "unlawful discriminatory practice":
+
+
+(a) includes only those practices specified in sections two hundred ninety-six, two hundred ninety-six-a, two hundred ninety-six-c and two hundred ninety-six-d of this article; and
+
+
+(b) includes an act prohibited under paragraph (a) of this subdivision that is performed through an algorithmic decision system, as defined under subdivision nine of section one hundred sixty-five of the state finance law.
+
+ § 3. This act shall take effect on the first of January next succeeding the date upon which it shall have become a law.

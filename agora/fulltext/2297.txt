@@ -1,0 +1,679 @@
+A BILL
+To improve the resilience of critical supply chains, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+
+
+SECTION 1. Short title; table of contents.
+(a) Short title.—This Act may be cited as the “Promoting Resilient Supply Chains Act of 2025”.
+
+
+(b) Table of contents.—The table of contents for this Act is as follows:
+
+
+
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Additional responsibilities of Assistant Secretary of Commerce for Industry and Analysis.
+Sec. 3. Critical supply chain resilience and crisis response working group.
+Sec. 4. Department of Commerce capability assessment.
+Sec. 5. No additional funds.
+Sec. 6. Sunset.
+Sec. 7. Definitions.
+
+
+SEC. 2. Additional responsibilities of Assistant Secretary of Commerce for Industry and Analysis.
+In addition to the responsibilities of the Assistant Secretary on the day before the date of the enactment of this Act, the Assistant Secretary shall have the following responsibilities:
+
+
+(1) Promote In consultation with the Secretary of Homeland Security, promote the stability and resilience of critical supply chains and critical and emerging technologies that strengthen the national security of the United States.
+
+
+(2) Lead the Working Group established pursuant to section 3 and consult covered nongovernmental representatives, industry, institutions of higher education, and State and local governments in order to—
+
+
+(A) promote resilient critical supply chains; and
+
+
+(B) identify, prepare for, and respond to supply chain shocks to—
+
+
+(i) critical industries;
+
+
+(ii) critical supply chains; and
+
+
+(iii) critical and emerging technologies.
+
+
+(3) Encourage the growth and competitiveness of United States production and manufacturing in the United States of emerging technologies.
+
+
+(4) Assess In consultation with the Secretary of Homeland Security, assess the resilience, diversity, and strength of critical supply chains and critical and emerging technologies.
+
+
+(5) In consultation with the Secretary of State and the United States Trade Representative, support the availability of critical goods from domestic manufacturers, domestic enterprises, and manufacturing operations in countries that are allies or key international partner nations.
+
+
+(6) Assist the Federal Government in preparing for and responding to supply chain shocks to critical supply chains, including by improving flexible manufacturing capacities and capabilities in the United States.
+
+
+(7) Consistent with United States obligations under international agreements, encourage and incentivize the reduced reliance of domestic enterprises and domestic manufacturers on critical goods from countries that are described in section 7(2)(B).
+
+
+(8) Encourage the relocation of manufacturing facilities that manufacture critical goods from countries that are described in section 7(2)(B) to the United States and countries that are allies or key international partner nations to strengthen the resilience, diversity, and strength of critical supply chains.
+
+
+
+
+SEC. 3. Critical supply chain resilience and crisis response working group.
+(a) Establishment.—Not later than 120 days after the date of the enactment of this Act, the Assistant Secretary shall establish a working group to be known as the “Supply Chain Resilience Working Group” (in this Act referred to as the “Working Group”) composed of the Federal agencies that rely upon the Industry and Analysis Business unit analysis, including agencies enumerated in subsection (c).
+
+
+(b) Activities.—Not later than 1 year after the date of the enactment of this Act, the Assistant Secretary shall carry out the following activities—
+
+
+(1) in consultation with the Working Group—
+
+
+(A) assessing, mapping, and modeling critical supply chains, including for critical and emerging technologies, which may include—
+
+
+(i) modeling the impact of supply chain shocks on critical industries (including for critical and emerging technologies), and critical supply chains;
+
+
+(ii) assessing the demand for and supply of critical goods, production equipment, and manufacturing technology needed for critical supply chains, including critical goods, production equipment, and manufacturing technology obtained by or purchased from a person outside of the United States or imported into the United States; and
+
+
+(iii) assessing manufacturing, warehousing, transportation, and distribution related to critical supply chains;
+
+
+(B) identifying high priority gaps and vulnerabilities in critical supply chains and critical industries (including critical industries for critical and emerging technologies) that—
+
+
+(i) exist as of the date of the enactment of this Act; or
+
+
+(ii) are anticipated to occur after the date of the enactment of this Act;
+
+
+(C) identifying potential supply chain shocks to a critical supply chain that may disrupt, strain, or eliminate the critical supply chain;
+
+
+(D) evaluating the capability and capacity of domestic manufacturers or manufacturers located in countries that are allies or key international partner nations to serve as sources for critical goods, production equipment, or manufacturing technology needed in critical supply chains;
+
+
+(E) evaluating the effect on market stability that may result from the disruption, strain, or elimination of a critical supply chain;
+
+
+(F) evaluating the state of the manufacturing workforce, including by—
+
+
+(i) identifying the needs of domestic manufacturers; and
+
+
+(ii) identifying opportunities to create high-quality manufacturing jobs; and
+
+
+(G) identifying and describing necessary tools, including commercially available risk assessment tools, that leverage data and industry expertise to provide insights into critical supply chain vulnerabilities, including how such tools fulfill the requirements described in subparagraphs (A) through (E); and
+
+
+(2) in consultation with State and local governments, the Working Group, and (as appropriate) countries that are allies or key international partner nations—
+
+
+(A) identifying opportunities to reduce gaps and vulnerabilities in critical supply chains and critical industries;
+
+
+(B) encouraging consultation between the Federal Government, industry, covered nongovernmental representatives, institutions of higher education, and State and local governments to—
+
+
+(i) better respond to supply chain shocks to critical supply chains and critical industries (including critical industries for emerging technologies); and
+
+
+(ii) coordinate response efforts to supply chain shocks;
+
+
+(C) encouraging consultation between the Federal Government and the governments of countries that are allies or key international partner nations;
+
+
+(D) identifying opportunities to build the capacity of the United States in critical supply chains, critical industries, and emerging technologies;
+
+
+(E) identifying opportunities to build the capacity of countries that are allies or key international partner nations in critical industries (including critical industries for emerging technologies) and critical supply chains; and
+
+
+(F) developing and assessing contingency plans and coordination mechanisms to improve the response of critical supply chains and critical industries to supply chain shocks.
+
+
+(c) Working Group membership.—The Working Group shall include a representative from each Federal agency that relies on the analysis of the Industry and Analysis business unit, including—
+
+
+(1) the Department of State;
+
+
+(2) the Department of Defense;
+
+
+(3) the Department of Homeland Security;
+
+
+(4) the Department of Transportation;
+
+
+(5) the Department of Energy;
+
+
+(6) the Department of Agriculture;
+
+
+(7) the Department of the Interior;
+
+
+(8) the Department of Health and Human Services;
+
+
+(9) the Office of the Director of National Intelligence; and
+
+
+(10) the Small Business Administration.
+
+
+(d) Designations.—The Assistant Secretary shall—
+
+
+(1) not later than 120 days after the date of the enactment of this Act, designate—
+
+
+(A) critical industries;
+
+
+(B) critical supply chains; and
+
+
+(C) critical goods;
+
+
+(2) provide for a period of public comment and review in carrying out paragraph (1); and
+
+
+(3) update the designations made pursuant to paragraph (1) not less frequently than once every 4 years, including designations for technologies that are not described in section 7(12)(B) that the Assistant Secretary considers necessary.
+
+
+(e) Implementation report.—Not later than 1 year after the date of the enactment of this Act, the Assistant Secretary shall submit to the appropriate committees of Congress a report that—
+
+
+(1) details supply chain activities, including applicable activities described in subsection (b) and responsibilities described in section 2, that the Assistant Secretary has conducted over the past year;
+
+
+(2) describes supply chain data collected, retained, and analyzed by the Assistant Secretary over the past year;
+
+
+(3) identifies and describes necessary tools, including commercially available risk assessment tools, that leverage data and industry expertise to provide insights into critical supply chain vulnerabilities, including how such tools fulfill each responsibility described in subsection (b);
+
+
+(4) identifies and describes all Federal agencies with authorities or responsibilities described in subsection (b); and
+
+
+(5) identifies Federal agencies, programs, and bureaus with duplicative purposes to fulfill any of the authorities or responsibilities described in subsection (b).
+
+
+(f) National strategy and review on critical supply chain resiliency and manufacturing in the United States.—
+
+
+(1) IN GENERAL.—Not later than 18 months after the date of the enactment of this Act, and annually thereafter, the Assistant Secretary, in consultation with the Working Group, covered nongovernmental representatives, industries, institutions of higher education, and State and local governments, shall submit to the relevant committees of Congress a report that—
+
+
+(A) identifies—
+(i) critical infrastructure that may assist in fulfilling the responsibilities described in section 2;
+(ii) critical and emerging technologies that may assist in fulfilling the responsibilities described in section 2, including such technologies that may be critical to addressing preparedness, weaknesses, and vulnerabilities relating to critical supply chains;
+(iii) critical industries, critical supply chains, and critical goods designated pursuant to subsection (d);
+(iv) other supplies and services that are critical to the crisis preparedness of the United States;
+(v) substitutes for critical goods, production equipment, and manufacturing technology;
+(vi) methods and technologies, including blockchain technology, distributed ledger technology, and other critical and emerging technologies, as appropriate, for the authentication and traceability of critical goods; and
+(vii) countries that are allies or key international partner nations;
+
+
+(B) describes the matters identified and evaluated under subsection (b)(1), including—
+(i) the manufacturing base, critical supply chains, and emerging technologies in the United States, including the manufacturing base and critical supply chains for—
+(I) critical goods;
+(II) production equipment; and
+(III) manufacturing technology; and
+(ii) the ability of the United States to—
+(I) maintain readiness with respect to preparing for and responding to supply chain shocks; and
+(II) in response to a supply chain shock—
+(aa) surge production in critical industries;
+(bb) surge production of critical goods and production equipment; and
+(cc) maintain access to critical goods, production equipment, and manufacturing technology;
+
+
+(C) assesses and describes—
+
+
+(i) the demand and supply of critical goods, production equipment, and manufacturing technology;
+
+
+(ii) the production of critical goods, production equipment, and manufacturing technology by domestic manufacturers;
+
+
+(iii) the capability and capacity of domestic manufacturers and manufacturers in countries that are allies or key international partner nations to manufacture critical goods, production equipment, and manufacturing technology; and
+
+
+(iv) how supply chain shocks could affect rural, Tribal, and underserved communities;
+
+
+(D) identifies threats and supply chain shocks that may disrupt, strain, or eliminate critical supply chains, critical goods, and critical industries (including critical industries for emerging technologies);
+
+
+(E) with regard to any threat identified under subparagraph (D), lists any threat or supply chain shock that may originate from a country, or a company or individual from a country, that is described in section 7(2)(B);
+
+
+(F) assesses—
+
+
+(i) the resilience and capacity of the manufacturing base, critical supply chains, and workforce of the United States and countries that are allies or key international partner nations that can sustain critical industries (including critical industries for emerging technologies) through a supply chain shock; and
+
+
+(ii) the effect innovation has on domestic manufacturers;
+
+
+(G) assesses the flexible manufacturing capacity and capability available in the United States in the case of a supply chain shock; and
+
+
+(H) develops a strategy for the Department of Commerce to support the resilience, diversity, and strength of critical supply chains and critical and emerging technologies to—
+
+
+(i) support sufficient access to critical goods by mitigating vulnerabilities in critical supply chains, including critical supply chains concentrated in countries that are described in section 7(2)(B);
+
+
+(ii) consult with other relevant agencies to assist countries that are allies or key international partner nations in building capacity for manufacturing critical goods;
+
+
+(iii) recover from supply chain shocks;
+
+
+(iv) identify, in consultation with the Working Group and other relevant agencies, actions relating to critical supply chains or emerging technologies that the United States may take to improve responses to supply chain shocks;
+
+
+(v) protect against supply chain shocks relating to critical supply chains from countries that are described in section 7(2)(B); and
+
+
+(vi) make specific recommendations to implement the strategy under this section and improve the security and resiliency of manufacturing capacity and supply chains for critical industries (including critical industries for emerging technologies) by—
+
+
+(I) developing long-term strategies;
+
+
+(II) increasing visibility into the networks and capabilities of domestic manufacturers and suppliers of domestic manufacturers;
+
+
+(III) identifying and mitigating risks, including—
+
+
+(aa) significant vulnerabilities to supply chain shocks; and
+
+
+(bb) exposure to gaps and vulnerabilities in domestic capacity or capabilities and sources of imports needed to sustain critical industries (including critical industries for emerging technologies) or critical supply chains;
+
+
+(IV) identifying opportunities to reuse and recycle critical goods, including raw materials, to increase resilient critical supply chains;
+
+
+(V) consulting with countries that are allies or key international partner nations on—
+
+
+(aa) sourcing critical goods, production equipment, and manufacturing technology; and
+
+
+(bb) developing, sustaining, and expanding production and availability of critical goods, production equipment, and manufacturing technology during a supply chain shock; and
+
+
+(VI) providing guidance to other relevant agencies with respect to critical goods, supply chains, and critical industries (including critical industries for emerging technologies) that should be prioritized to support United States leadership in the deployment of such technologies.
+
+
+(2) PROHIBITION.—The report submitted pursuant to paragraph (1) may not include—
+
+
+(A) critical supply chain information that is not aggregated;
+
+
+(B) confidential business information of a private sector entity; or
+
+
+(C) classified information.
+
+
+(3) FORM.—The report submitted pursuant to paragraph (1), and any update submitted thereafter, shall be submitted to the relevant committees of Congress in unclassified form and may include a classified annex.
+
+
+(4) PUBLIC COMMENT.—The Assistant Secretary shall provide for a period of public comment and review in developing the report submitted pursuant to paragraph (1).
+
+
+(g) Consultation.—Not later than 1 year after the date of the enactment of this Act, the Assistant Secretary shall enter into an agreement with the head of any relevant agency to obtain any information, data, or assistance that the Assistant Secretary determines necessary to conduct the activities described in subsection (b).
+
+
+(h) Rule of construction.—Nothing in this section may be construed to require any private entity—
+
+
+(1) to share information with the Secretary or Assistant Secretary;
+
+
+(2) to request assistance from the Secretary or Assistant Secretary; or
+
+
+(3) to implement any measure or recommendation suggested by the Secretary or Assistant Secretary in response to a request by the private entity.
+
+
+(i) Protection of voluntarily shared critical supply chain information.—
+
+
+(1) PROTECTION.—
+
+
+(A) IN GENERAL.—Notwithstanding any other provision of law, critical supply chain information (including the identity of the submitting person or entity) that is voluntarily submitted under this section to the Department of Commerce for use by the Department for purposes of this section, when accompanied by an express statement described in subparagraph (B)—
+
+
+(i) shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code (commonly referred to as the “Freedom of Information Act”);
+
+
+(ii) is not subject to any agency rules or judicial doctrine regarding ex parte communications with a decision-making official;
+
+
+(iii) may not, without the written consent of the person or entity submitting such information, be used directly by the Department of Commerce, any other Federal, State, or local authority, or any third party, in any civil action arising under Federal or State law if such information is submitted in good faith;
+
+
+(iv) may not, without the written consent of the person or entity submitting such information, be used or disclosed by any officer or employee of the United States for purposes other than the purposes of this section, except—
+
+
+(I) in furtherance of an investigation or the prosecution of a criminal act; or
+
+
+(II) when disclosure of the information would be—
+
+
+(aa) to either House of Congress, or to the extent of matter within its jurisdiction, any committee or subcommittee thereof, any joint committee thereof, or any subcommittee of any such joint committee; or
+
+
+(bb) to the Comptroller General of the United States, or any authorized representative of the Comptroller General, in the course of the performance of the duties of the Government Accountability Office;
+
+
+(v) may not, if provided to a State or local government or government agency—
+
+
+(I) be made available pursuant to any State or local law requiring disclosure of information or records;
+
+
+(II) otherwise be disclosed or distributed to any party by such State or local government or government agency without the written consent of the person or entity submitting such information; or
+
+
+(III) be used other than for the purpose of carrying out this section, or in furtherance of an investigation or the prosecution of a criminal act; and
+
+
+(vi) does not constitute a waiver of any applicable privilege or protection provided under law, such as trade secret protection.
+
+
+(B) EXPRESS STATEMENT.—The express statement described in this subparagraph, with respect to information or records, is—
+
+
+(i) in the case of written information or records, a written marking on the information or records substantially similar to the following: “This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of the Promoting Resilient Supply Chains Act of 2024.”; or
+
+
+(ii) in the case of oral information, a written statement similar to the statement described in clause (i) submitted within a reasonable period following the oral communication.
+
+
+(2) LIMITATION.—No communication of critical supply chain information to the Department of Commerce made pursuant to this section may be considered to be an action subject to the requirements of chapter 10 of title 5, United States Code.
+
+
+(3) INDEPENDENTLY OBTAINED INFORMATION.—Nothing in this subsection may be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law to obtain critical supply chain information in a manner not covered by paragraph (1), including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law. For purposes of this subsection, a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5, United States Code.
+
+
+(4) TREATMENT OF VOLUNTARY SUBMITTAL OF INFORMATION.—The voluntary submittal to the Department of Commerce of information or records that are protected from disclosure by this section may not be construed to constitute compliance with any requirement to submit such information to an agency under any other provision of law.
+(5) INAPPLICABILITY TO SEMICONDUCTOR INCENTIVE PROGRAM.—This subsection does not apply to the voluntary submission of critical supply chain information in an application for Federal financial assistance under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).
+
+
+SEC. 4. Department of Commerce capability assessment.
+(a) Report required.—The Secretary shall produce a report—
+
+
+(1) identifying the duties, responsibilities, resources, programs, and expertise within the offices and bureaus of the Department of Commerce relevant to critical supply chain resilience and manufacturing innovation;
+
+
+(2) identifying and assessing the purpose, legal authority, effectiveness, efficiency, and limitations of each office or bureau identified under paragraph (1); and
+
+
+(3) providing recommendations to enhance the activities related to critical supply chain resilience and manufacturing innovation of the Department of Commerce, including—
+
+
+(A) improving the effectiveness, efficiency, and impact of the offices and bureaus identified under paragraph (1);
+
+
+(B) coordinating across offices and bureaus identified under paragraph (1); and
+
+
+(C) consulting with agencies implementing similar activities related to critical supply chain resilience and manufacturing innovation.
+
+
+(b) Submission of report.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall submit to the relevant committees of Congress the report required by subsection (a), along with a strategy to implement, as appropriate and as determined by the Secretary, the recommendations contained in the report.
+
+
+SEC. 5. No additional funds.
+No additional funds are authorized to be appropriated to carry out this Act.
+
+
+
+
+SEC. 6. Sunset.
+This Act and all requirements, responsibilities, and obligations under this Act shall terminate on the date that is 10 years after the date of the enactment of this Act.
+
+
+
+
+SEC. 7. Definitions.
+In this Act:
+
+
+(1) AGENCY.—The term “agency” has the meaning given that term in section 551 of title 5, United States Code.
+
+
+(2) ALLY OR KEY INTERNATIONAL PARTNER NATION.—The term “ally or key international partner nation”—
+
+
+(A) means a country that is critical to addressing critical supply chain weaknesses and vulnerabilities; and
+
+
+(B) does not include—
+
+
+(i) a country that poses a significant risk to the national security or economic security of the United States; or
+
+
+(ii) a country that is described in section 503(b) of the RANSOMWARE Act (title V of division BB of the Consolidated Appropriations Act, 2023; Public Law 117–328; 136 Stat. 5564).
+
+
+(3) ASSISTANT SECRETARY.—The term “Assistant Secretary” means the Assistant Secretary of Commerce assigned by the Secretary to direct the office of Industry and Analysis.
+
+
+(4) COVERED NONGOVERNMENTAL REPRESENTATIVE.—The term “covered nongovernmental representative” means a representative as specified in the second sentence of section 135(b)(1) of the Trade Act of 1974 (19 U.S.C. 2155(b)(1)), except that such term does not include a representative of a non-Federal Government.
+
+
+(5) CRITICAL GOOD.—The term “critical good” means any raw, in process, or manufactured material (including any mineral, metal, or advanced processed material), article, commodity, supply, product, or item for which an absence of supply would have a debilitating impact on—
+
+
+(A) the national security or economic security of the United States; and
+
+
+(B) either—
+
+
+(i) critical infrastructure; or
+
+
+(ii) an emerging technology.
+
+
+(6) CRITICAL INDUSTRY.—The term “critical industry” means an industry that—
+
+
+(A) is critical for the national security or economic security of the United States; and
+
+
+(B) produces or procures a critical good.
+
+
+(7) CRITICAL INFRASTRUCTURE.—The term “critical infrastructure” has the meaning given that term in section 1016 of the Critical Infrastructures Protection Act of 2001 (42 U.S.C. 5195c).
+
+
+(8) CRITICAL SUPPLY CHAIN.—The term “critical supply chain” means a supply chain for a critical good.
+
+
+(9) CRITICAL SUPPLY CHAIN INFORMATION.—The term “critical supply chain information” means information that is not customarily in the public domain and relates to—
+
+
+(A) sustaining and adapting a critical supply chain during a supply chain shock;
+
+
+(B) critical supply chain risk mitigation and recovery planning with respect to a supply chain shock, including any planned or past assessment, projection, or estimate of a vulnerability within the critical supply chain, including testing, supplier network assessments, production flexibility, supply chain risk evaluations, supply chain risk management planning, or risk audits; or
+
+
+(C) operational best practices, planning, and supplier partnerships that enable enhanced resilience of a critical supply chain during a supply chain shock, including response, repair, recovery, reconstruction, insurance, or continuity.
+
+
+(10) DOMESTIC ENTERPRISE.—The term “domestic enterprise” means an enterprise that conducts business in the United States and procures a critical good.
+
+
+(11) DOMESTIC MANUFACTURER.—The term “domestic manufacturer” means a business that conducts in the United States the research and development, engineering, or production activities necessary for manufacturing a critical good.
+
+
+(12) EMERGING TECHNOLOGY.—The term “emerging technology” means a technology that is critical for the national security or economic security of the United States, including the following:
+
+
+(A) Technologies included in the American COMPETE Act (title XV of division FF of the Consolidated Appropriations Act, 2021; Public Law 116–260; 134 Stat. 3276).
+
+
+(B) The following technologies:
+
+
+(i) Artificial intelligence.
+
+
+(ii) Automated vehicles and unmanned delivery systems.
+
+
+(iii) Blockchain and other distributed ledger, data storage, data management, and cybersecurity technologies.
+
+
+(iv) Quantum computing and quantum sensing.
+
+
+(v) Additive manufacturing.
+
+
+(vi) Advanced manufacturing and the Internet of Things.
+
+
+(vii) Nano technology.
+
+
+(viii) Robotics.
+
+
+(ix) Microelectronics, optical fiber ray, and high performance and advanced computer hardware and software.
+
+
+(x) Semiconductors.
+
+
+(xi) Advanced materials science, including composition 2D, other next generation materials, and related manufacturing technologies.
+
+
+(13) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+
+(14) MANUFACTURE.—The term “manufacture”—
+
+
+(A) means any activity that is necessary for the development, production, processing, distribution, or delivery of any raw, in process, or manufactured material (including any mineral, metal, and advanced processed material), article, commodity, supply, product, critical good, or item of supply; and
+
+
+(B) does not include software unrelated to the manufacturing process.
+
+
+(15) MANUFACTURING TECHNOLOGY.—The term “manufacturing technology” means a technology that is necessary for the manufacturing of a critical good.
+
+
+(16) PRODUCTION EQUIPMENT.—The term “production equipment” means any component, subsystem, system, equipment, tooling, accessory, part, or assembly necessary for the manufacturing of a critical good.
+
+
+(17) PROGRAM.—The term “program” means the critical supply chain resiliency and crisis response program established pursuant to section 103(a).
+
+
+(18) RELEVANT COMMITTEES OF CONGRESS.—The term “relevant committees of Congress” means the following:
+
+
+(A) The Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+
+(B) The Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives.
+
+
+(19) RESILIENT CRITICAL SUPPLY CHAIN.—The term “resilient critical supply chain” means a critical supply chain that—
+
+
+(A) ensures that the United States can sustain critical industry, including emerging technologies, production, critical supply chains, services, and access to critical goods, production equipment, and manufacturing technology during a supply chain shock; and
+
+
+(B) has key components of resilience that include—
+
+
+(i) effective private sector risk management and mitigation planning to sustain critical supply chains and supplier networks during a supply chain shock; and
+
+
+(ii) minimized or managed exposure to a supply chain shock.
+
+
+(20) SECRETARY.—The term “Secretary” means the Secretary of Commerce.
+
+
+(21) STATE.—The term “State” means each of the several States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
+
+
+(22) SUPPLY CHAIN SHOCK.—The term “supply chain shock”—
+
+
+(A) means an event causing severe or serious disruption to normal operations or capacity in a supply chain; and
+
+
+(B) includes—
+
+
+(i) a natural disaster;
+
+
+(ii) a pandemic;
+
+
+(iii) a biological threat;
+
+
+(iv) a cyber attack;
+
+
+(v) a geopolitical conflict;
+
+
+(vi) a terrorist or geopolitical attack;
+
+
+(vii) a trade disruption caused by—
+
+
+(I) a country described in paragraph (2)(B); or
+
+
+(II) an entity or an individual subject to the jurisdiction of such a country; and
+
+
+(viii) an event for which the President declares a major disaster or an emergency under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170; 42 U.S.C. 5191).

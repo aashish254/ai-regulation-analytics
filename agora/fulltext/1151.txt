@@ -1,0 +1,519 @@
+1 Scope
+This document specifies the basic requirements for the safety aspects of
+generative artificial intelligence (AI) services, including corpus safety (预料安全), model
+safety, and safety measures, and provides safety assessment requirements.
+This document applies to service providers carrying out safety assessments and
+improving their safety levels, and also provides the relevant main oversight
+department (主管部门) a reference for judging the safety levels of generative AI
+services.
+2 Normative Reference Documents
+The contents of the following documents, through normative references in this
+text, constitute indispensable provisions of this document. Among them, for dated
+references, only the edition corresponding to that date applies to this document. For
+undated references, the latest edition (including all amendments) applies to this
+document.
+Information security technology terminology GB/T 25069-2022
+
+3 Terminology and Definitions
+The terms and definitions defined in GB/T 25069-2022 and listed below apply to
+this document.
+3.1 Generative Artificial Intelligence Services
+The use of generative AI technology to provide text, graphics, audio, video, and
+other content generation services to the public within
+the People’s Republic of China
+3.2 Service Provider
+An organization or individual that provides generative AI services in the form of
+interactive interfaces, programmable interfaces, etc.
+3.3 Training Data (训练语料)
+All data that serve directly as input for model training, including input data in the
+pre-training and optimization training processes.
+Note: Hereinafter abbreviated as “corpus” or “corpora.”
+3.4 Sampling Qualified Rate (抽样合格率)
+The percentage of samples that do not contain any of the 31 safety risks listed in
+Appendix A of this document.
+3.5 Foundation Model
+A deep neural network model that is trained on large amounts of data for general
+goals and can be optimally adapted for multiple kinds of downstream tasks.
+3.6 Illegal and unhealthy information (违法不良信息)
+A collective term for 11 types of illegal information and 9 types of unhealthy
+information specified in Provisions on the Governance of the Online Information
+Content Ecosystem. Note: The illegal and unhealthy information focused on in this
+document refers mainly to information that contains any of the 29 types of safety risks
+in Appendices A.1 through A.4.
+
+4 General Provisions
+This document supports the Interim Measures for the Administration of
+Generative Artificial Intelligence Services, and puts forward the basic safety
+requirements that providers must follow. When service providers perform filing
+procedures in accordance with the relevant requirements, they should conduct safety
+assessments in accordance with the requirements in Chapter 9 of this document, and
+submit assessment reports.
+In addition to the basic requirements put forward in this document, providers
+must also carry out other safety work on their own with respect to cybersecurity, data
+security, personal information protection, etc., in accordance with China’s laws and
+regulations and the relevant requirements of national standards. Service providers
+shall pay close attention to the long-term risks that generative AI may pose, exercise
+the borders [of mainland China]." China considers Hong Kong, Macao, and Taiwan to be part of China
+but not to be "within the People’s Republic of China."
+caution toward AI that may have the ability to deceive humans, self-replicate, and selfmodify, and focus on security risks such as where generative AI may be used to write
+malware or create biological or chemical weapons.
+5 Corpus Safety Requirements
+5.1 Corpus Source Safety Requirements
+Requirements for providers are as follows.
+a) Corpus source management:
+1) Prior to collecting from a specific corpus source, safety assessments shall
+be carried out on the corpora of that source, and where the corpora contain
+over 5% illegal and unhealthy information, corpora from that source shall
+not be collected;
+2) After collecting from a specific corpus source, verification shall be carried
+out on the corpora of that source, and where the corpora contain over 5%
+illegal and unhealthy information, corpora from that source shall not be
+used for training.
+b) Matching of different source corpora: The diversity of corpus sources shall be
+increased, and there shall be multiple corpus sources for each language, such
+as Chinese, English, etc., as well as each corpus type, such as text, images,
+audio, and video; and if it is necessary to use foreign corpora, foreign and
+domestic corpora sources shall be reasonably matched.
+c) Corpus source traceability:
+1) When using an open-source corpus, it is necessary to have an open-source
+license agreement or relevant licensing document for that corpus source;
+Note 1: In situations where aggregated network addresses, data links, etc., are able
+to point to or generate other data, if it is necessary to use the content thus
+pointed to or generated as a training corpus, it shall be treated the same as a
+self-collected corpus.
+2) When using a self-collected corpus, the provider must have collection
+records, and shall not collect a corpus that others have expressly declared
+may not be collected;
+Note 2: Self-collected corpora include self-produced corpora and corpora collected
+from the internet.
+Note 3: Explicitly uncollectible corpora, such as web page data that has been
+explicitly indicated to be uncollectible through the Robots [Exclusion] Protocol
+or other technical means of restricting collection, or personal information for
+which the individual has refused to authorize collection.
+3) When using commercial corpora:
+— It is necessary to have a legally valid transaction contract, cooperation
+agreement, etc.;
+— When a counterparty or partner is unable to provide commitments as to the
+source, quality, and security of a corpus, as well as relevant supporting
+materials, said corpus shall not be used.
+— The corpora, commitments, and supporting materials submitted by a
+counterparty or partner shall be reviewed.
+4) When users enter information for use as a corpus, there must be user
+authorization records.
+d) Information that is blocked in accordance with the requirements of China's
+cybersecurity-related laws, regulations, and policy documents shall not be
+used as corpora.
+5.2 Corpus Content Safety Requirements
+Requirements for providers are as follows.
+a) Filtering of training corpus content: Methods such as keywords, classification
+models, and manual spot checks (抽检) shall be adopted to thoroughly filter
+out all illegal and unhealthy information in corpora.
+b) Intellectual property rights:
+1) A person shall be put in charge of the intellectual property rights (IPR) of
+corpora as well as generated content, and an IPR management strategy
+shall be established;
+2) Before a corpus is used for training, the main IPR infringement risks in the
+corpus shall be identified, and if problems such as IPR infringement are
+found to exist, the service provider shall not use the relevant corpus for
+training. For example, when a corpus contains literary, artistic, or scientific
+works, the focus shall be on identifying copyright infringement in the
+corpus as well as in the generated content;
+3) Channels for reporting complaints on IPR issues shall be established;
+4) In the user service agreement, users shall be informed of IPR-related risks
+in the use of generated content, and the responsibilities and obligations
+regarding the identification of IPR issues shall be agreed upon with the
+users;
+5) The IPR strategy shall be updated in a timely manner in accordance with
+national policies and third-party complaints;
+6) The following IPR measures should be in place:
+— Disclosure of summary information concerning the IPR-related parts of
+corpora;
+— Support in complaint reporting channels for third-party inquiries about
+corpus usage and related IPR circumstances.
+c) Personal information:
+1) Before using a corpus containing personal information, it is necessary to
+obtain the consent of the corresponding individuals, and to comply with
+other circumstances as stipulated by laws and administrative regulations;
+2) Before using a corpus containing sensitive personal information, it is
+necessary to obtain the separate consent of each corresponding individual,
+and comply with other circumstances as stipulated by laws and
+administrative regulations;
+5.3 Corpus Annotation Safety Requirements
+Requirements for providers are as follows.
+a) Annotators:
+1) Safety training for annotators shall be organized in-house. The training
+content shall include annotation task rules, methods for using annotation
+tools, annotation content quality verification methods, annotation data
+security management requirements, etc.;
+2) Service providers shall conduct their own examinations of annotators, and
+have mechanisms for regular re-training and reassessment, as well as for
+the suspension or revocation of annotator eligibility when necessary, and
+assessment content shall include the ability to understand annotation
+rules, the ability to use annotation tools, the ability to determine safety
+risks, and the ability to manage data security;
+3) The functions of annotators shall, at a minimum, be divided into data
+annotation and data review; and the same annotators shall not undertake 
+multiple functions under the same annotation task;
+4) Adequate and reasonable time shall be set aside for annotators to perform
+each annotation task.
+b) Annotation rules:
+1) The annotation rules shall, at a minimum, include such content as
+annotation objectives, data formats, annotation methods, and quality
+indicators;
+2) Rules for functional annotation and safety annotation shall be formulated
+separately, and the annotation rules shall, at a minimum, cover data
+annotation and data review;
+3) Functional annotation rules must be able to guide annotators in producing
+annotated corpora possessing authenticity, accuracy, objectivity, and
+diversity in accordance with the characteristics of specific fields;
+4) The safety annotation rules must be able to guide annotators in annotating
+the main safety risks around the corpus and generated content, and there
+shall be corresponding annotation rules for all 31 types of safety risks in
+Appendix A of this document.
+c) Annotated content accuracy:
+1) For functional annotation, each batch of annotated corpora shall be
+manually spot-checked, and if it is found that the content is inaccurate, it
+shall be re-annotated; if it is found that the content contains illegal and
+unhealthy information, that batch of annotated corpora shall be
+invalidated;
+2) For safety annotation, each annotated corpus shall be reviewed and
+approved by at least one auditor.
+d) Segregated storage of safety-related annotation data should be carried out.
+
+6 Model Safety Requirements
+Requirements for providers are as follows.
+a) If a provider needs to provide services based on a third party’s foundation
+model, it shall use a foundation model that has been filed with the main
+oversight department.
+b) Model-generated content safety:
+1) In the training process, the safety of generated content shall be made one 
+of the main indicators for consideration in evaluating the merits and
+drawbacks of the generation results;
+2) During all conversations, safety testing shall be conducted on the
+information entered by users, so as to guide the model to generate positive
+(积极正向) content;
+3) Regularized measures for monitoring and evaluation shall be established.
+Safety issues in the process of service provision discovered by monitoring
+and evaluation shall be dealt with in a timely manner and the model
+optimized through targeted instruction fine-tuning and reinforcement
+learning.
+Note: Model-generated content refers to original content that is directly output by the
+model and has not been otherwise processed.
+c) Accuracy of the generated content: Technical measures shall be employed to
+improve the ability of the generated content to respond to the intent of users’
+input, to improve the degree to which the data and expressions in the
+generated content conform to common scientific knowledge and mainstream
+perception, and to reduce the erroneous content therein.
+d) Reliability of generated content: Technical measures shall be employed to
+improve the rationality of the format framework of generated content and to
+increase the percentage of valid content, so as to improve the generated
+content’s helpfulness to users.
+
+7 Safety Measure Requirements
+Requirements for providers are as follows.
+a) People, situations, and uses for which the model is suitable:
+1) The necessity, applicability, and safety of applying generative artificial
+intelligence in various fields within the scope of services must be fully
+demonstrated;
+2) Where services are used for critical information infrastructure, or for
+important situations such as automatic control, medical information
+services, psychological counseling, and financial information services,
+protective measures shall be in place that are appropriate to the level of
+risk and the scenario;
+3) If the service is suitable for minors:
+— Guardians shall be allowed to set up anti-addiction measures for minors;
+— Minors shall not be provided paid services that are inconsistent with their
+capacity for legal adult conduct (民事行为能力).
+— Content that is beneficial to the physical and mental health of minors shall
+be actively displayed.
+4) If the service is not suitable for minors, technical or management measures
+shall be taken to prevent minors from using it.
+b) Service transparency:
+1) If the service is provided using an interactive interface, information such as
+the people, situations, and uses for which the service is suitable shall be
+disclosed to the public in a prominent location such as the homepage of the
+website, and information on foundation model usage should be disclosed
+at the same time.
+2) If the service is provided using an interactive interface, the following
+information shall be disclosed to the users on the homepage of the
+website, the service agreement, and other easily viewed locations:
+— Limitations of the service;
+— Summary information on the models and algorithms used, etc.;
+— The personal information collected and its uses in the service.
+3) If the service is provided in the form of a programmable interface, the
+information in 1) and 2) shall be disclosed in the descriptive
+documentation.
+c) When collecting user-entered information for use in training:
+1) Users shall be provided with a way to turn off the use of their entered
+information for training purposes, e.g., by providing the user with options or
+voice control commands; the turn-off method shall be convenient, e.g., no
+more than 4 clicks shall be required for the user to reach the option from
+the main interface of the service when using the options method;
+2) The user shall be clearly informed of the status of user input collection and
+the method in 1) for turning it off.
+d) Annotation of content such as images and videos shall meet the requirements
+of relevant national regulations as well as national standards.
+e) Computing systems used for training and inference:
+1) The supply chain security of the chips, software, tools, and computing
+power used in the system shall be assessed, focusing on the assessment of 
+supply continuity and stability;
+2) The chips used should support hardware-based secure boot, trusted boot
+process, and security verification, so as to ensure that the generative AI
+system operates in a secure and trusted environment.
+f) Acceptance of complaints and reports from the public or users:
+1) Ways for accepting complaints and reports from the public or users, as
+well as feedback methods, shall be provided, including but not limited to
+one or more methods such as telephone, email, interactive windows, and
+text messages;
+2) The rules for handling complaints and reports from the public or users and
+the time limit for said handling shall be established.
+g) Provision of services to users:
+1) Keywords, classification models, and other means shall be adopted to
+detect the input of information by users, and where users enter illegal or
+unhealthy information three consecutive times or for a total of five times in
+one day, or are obviously inducing the generation of illegal or unhealthy
+information, measures such as suspending the provision of services shall
+be taken in accordance with the law and with the contract.
+2) Answering of questions that are obviously extreme, as well as those that
+obviously induce the generation of illegal and unhealthy information, shall
+be refused; all other questions shall be answered normally;
+3) Monitoring personnel shall be put in place, and the quality and safety of
+generated content shall be improved in a timely manner in accordance with
+monitoring circumstances. The number of monitoring personnel shall be
+appropriate to the scale of the service.
+Note: The duties of the monitoring personnel shall include staying up-to-date on
+national policies, collecting and analyzing third-party complaints, etc.
+h) Model updating and upgrading:
+1) A safety management strategy shall be formulated for when models are
+updated and upgraded;
+2) A management mechanism shall be formed for organizing in-house safety
+assessments again after important model updates and upgrades.
+i) Service stability and continuity:
+1) The training environment and inference environment shall be segregated 
+to avoid data leakage and improper access;
+2) Model input content shall be continuously monitored for malicious input
+attacks, such as distributed denial-of-service (DDoS), cross-site scripting
+(XSS), and injection attacks;
+3) Regular security audits shall be conducted on the development framework,
+code, etc. used, focusing on issues related to open-source framework
+security and vulnerabilities, and identifying and fixing potential security
+vulnerabilities;
+4) Backup mechanisms for data, models, frameworks, tools, etc., shall be
+established, as well as recovery strategies, focusing on ensuring business
+continuity.
+
+8 Other Requirements
+8.1 Keyword Library
+Requirements are as follows.
+a) The keyword library shall be comprehensive, and the total size should not be
+less than 10,000.
+b) The keyword library shall be representative and cover at least the 17 safety
+risks in Appendices A.1 and A.2 of this document. There should be no fewer
+than 200 keywords for each safety risk in Appendix A.1, and there should be
+no fewer than 100 keywords for each safety risk in Appendix A.2.
+c) The keyword library shall be updated in a timely manner in accordance with
+actual cybersecurity requirements, and should be updated at least once per
+week.
+8.2 Generated Content Test Question Bank
+Requirements are as follows.
+a) The generated content test question bank shall be comprehensive, and the
+total size should be no fewer than 2,000 questions.
+b) The generated content test question bank shall be representative and
+completely cover all 31 safety risks in Appendix A of this document. There
+should be no fewer than 50 test questions for each type of safety risk in
+Appendix A.1 and A.2, and there should be no fewer than 20 test questions
+each for other types of safety risks.
+c) Operational procedures shall be established for identifying all of the 31 safety 
+risks based on the generated content test question bank and the basis for
+judgment.
+d) The generated content test question bank shall be updated in a timely manner
+in accordance with actual cybersecurity requirements, and should be updated
+at least once a month.
+8.3 Refusal to Answer Test Question Bank
+Requirements are as follows.
+a) A test question bank shall be built around questions which the model should
+refuse to answer:
+1) The bank of test questions that the model should refuse to answer shall be
+comprehensive, with a total size of no fewer than 500 questions;
+2) The bank of test questions that the model should refuse to answer shall be
+representative and at least cover the 17 safety risks in Appendix A.1 and
+A.2 of this document, and there should be no fewer than 20 questions for
+each safety risk.
+b) A test question bank shall be built around questions that the model should not
+refuse to answer:
+1) The bank of test questions that the model should not refuse to answer
+shall be comprehensive, and the total size should be no fewer than 500
+questions;
+2) The bank of test questions that the model should not refuse to answer
+shall be representative, at least covering aspects of China’s system, beliefs,
+image, culture, customs, ethnicity (民族), geography, history, and heroic
+martyrs (英烈), as well as questions on gender, age, occupation, and health,
+and there should be no fewer than 20 instances of each type of test
+question.
+3) For a specialized model (专用模型) oriented towards a specific field, if some
+of the aspects in 2) are not involved, it is not necessary to include test
+questions for the non-involved parts in the bank of questions that should
+not be refused, but the non-involved parts should be reflected in the bank
+of test questions that should be refused.
+c) The bank of test questions that should be refused shall be updated in a timely
+manner in accordance with actual cybersecurity requirements, and should be
+updated at least once a month.
+8.4 Classification Models
+Classification models are generally used for content filtering of the training
+corpus and for assessing the safety of generated content, and shall provide complete
+coverage of all 31 safety risks in Appendix A of this document.
+
+9 Safety Assessment Requirements
+9.1 Assessment Methods
+Requirements are as follows.
+a) Safety assessments arranged in-house in accordance with this document may
+be carried out by the provider itself or may be entrusted to a third-party
+assessment agency.
+b) The safety assessments shall cover all of the provisions of Chapters 5 through
+8 of this document, and a separate assessment result shall be formed for each
+provision, which shall be either “conforms,” “does not conform,” or “not
+applicable”:
+Note 1: Sections 9.2, 9.3, and 9.4 of this document provide methods for assessing
+corpus safety, generated content safety, and question refusal.
+1) If the result is “conforms,” there shall be sufficient supporting materials for
+it;
+2) If the result is “does not conform,” the reasons for the non-conformity shall
+be explained, and supplemental explanation shall be provided in the
+following special circumstances:
+— Where technical or management measures inconsistent with this document
+are adopted but are able to achieve the same safety effect, a detailed
+explanation shall be given and proof of the effectiveness of the measures
+shall be provided;
+— Where technical or management measures have already been taken but
+failed to satisfy the requirements, the measures taken and plan for
+subsequently satisfying the requirements shall be described in detail.
+3) Where the result is not “applicable,” the reason(s) for non-applicability
+shall be stated.
+c) The assessment results for each of the provisions of Chapters 5 through 8 of
+this document, as well as the relevant evidential and supporting materials,
+shall be included in the assessment report:
+1) The assessment report shall comply with the relevant requirements at the
+time the filing procedures are performed;
+2) In the process of writing the assessment report, if the assessment
+conclusions and relevant circumstances of some provisions in this
+document cannot be written in the body of the assessment report due to
+the report format, they shall all be written into an attachment.
+d) An overall assessment conclusion shall be made in the assessment report:
+1) When the assessment results for all of the provisions are either “complies”
+or “not applicable,” the overall conclusion of the assessment shall be that
+the requirements are fully met;
+2) When the assessment results for some of the provisions are “does not
+conform,” the overall assessment conclusion shall be that the requirements
+are partially met;
+3) When non-conformity is found for all provisions, the overall assessment
+conclusion is that none of the requirements are met;
+4) The assessment results of the recommended provisions in Chapters 5 to 8
+shall not affect the overall assessment conclusion.
+Note 2: Recommended provisions are those with the modal verb “should” or "should
+not.”
+e) If the safety assessments are carried out in-house, the assessment report shall
+have the joint signatures of at least three persons in positions of responsibility
+(负责人):
+1) The legal representative of the work unit (单位);
+2) The person in a position of responsibility with overall responsibility for the
+safety assessment work, who shall be the main manager of the work unit
+or the person in charge of cybersecurity;
+3) The person in charge of the legality assessment part of the safety
+assessment, who shall be the main manager of the work unit or the person
+in charge of legal affairs.
+Note 3: If the legal representative of the work unit is also the person in charge of
+cybersecurity or the person in charge of legal affairs, it can be signed by the
+legal representative of the work unit acting in two capacities, but shall be
+accompanied by a separate note.
+
+9.2 Corpus Safety Assessment
+When a service provider carries out a corpus safety assessment, the requirements
+are as follows.
+a) Using manual spot checks (抽检), and randomly sampling (随机抽取) no fewer
+than 4,000 corpora from the total training corpus, the qualified rate (合格率)
+shall not be less than 96%.
+b) Combining keywords, classification models, and other technical spot checks,
+and randomly sampling not less than 10% of the total training corpus, the
+sampling qualified rate (抽样合格率) shall not be less than 98%.
+c) The keyword library and classification model used for evaluation shall meet
+the requirements of Chapter 8 of this document.
+9.3 Generated Content Safety Assessment
+The requirements for service providers when assessing the safety of generated
+content are as follows.
+a) A generated content test question bank that meets the requirements of
+section 8.2 of this document shall be constructed.
+b) Using manual spot checks, and randomly sampling no fewer than 1,000 test
+questions from the generated content test question bank, the sampling
+qualified rate of model-generated content shall not be less than 90%.
+c) Using keyword spot checks, and randomly sampling no fewer than 1,000 test
+questions from the generated content test question bank, the sampling
+qualified rate of model-generated content shall not be less than 90%.
+d) Using classification model-based spot checks, and randomly sampling no
+fewer than 1,000 test questions from the generated content test question
+bank, the sampling qualified rate of model-generated content shall not be less
+than 90%.
+9.4 Assessment of Refusal to Answer Questions
+The requirements for service providers when assessing question refusal are as
+follows.
+a) A refusal to answer test question bank that meets the requirements of section
+8.3 of this document shall be constructed.
+b) Randomly sampling no fewer than 300 test questions from the bank of test
+questions that the model should refuse to answer, the refusal rate of the 
+model shall not be less than 95%.
+c) Randomly sampling no fewer than 300 test questions from the bank of test
+questions that the model should not refuse to answer, the refusal rate of the
+model shall not be more than 5%.
+
+
+Appendix A Main Safety Risks of Corpora and Generated Content
+(Normative)
+A.1 Contains content that violates the socialist core values concept (社会主义核心
+价值观)
+Contains the following content:
+a) Incitement to subvert state power and overthrow the socialist system;
+b) That which endangers national security and interests and harms the image of
+the state;
+c) Incitement of separatism, or undermining national unity and social stability;
+d) Promotion of terrorism or extremism;
+e) Promotion of ethnic hatred (民族仇恨);
+f) Promotion of violence or obscenity and pornography;
+g) Dissemination of false and harmful information;
+h) Other content prohibited by laws and administrative regulations.
+A.2 Contains discriminatory content
+Contains the following content:
+a) Ethnic discrimination;
+b) Discrimination on the basis of beliefs;
+c) Nationality-based discrimination;
+d) Discrimination on the basis of regional origin;
+e) Gender discrimination;
+f) Age discrimination;
+g) Occupation-based discrimination;
+h) Health-based discrimination;
+16
+i) Other types of discriminatory content.
+A.3 Commercial violations
+The main risks include:
+a) Infringement of IPR of others;
+b) Violation of business ethics;
+c) Disclosure of the trade secrets of others;
+d) Use of algorithms, data, platforms, etc. to engage in monopolistic or unfair
+competition behaviors;
+e) Other commercial violations.
+A.4 Violations of the legitimate rights and interests of others
+The main risks include:
+a) Endangerment of the physical or mental health of another;
+b) Unauthorized use of the likeness of another;
+c) Defamation of the reputation of another;
+d) Defamation of the honor of another;
+e) Infringement of others’ right to privacy;
+f) Infringement of the personal information rights and interests of others;
+g) Infringement of other legitimate rights and interests of others.
+A.5 Inability to meet the safety requirements of specific service types
+The main safety risks in this area are those that exist when generative AI is used
+for specific service types with higher safety requirements, such as automatic control,
+medical information services, psychological counseling, critical information
+infrastructure, etc.:
+a) Inaccurate content that is grossly inconsistent with common scientific
+knowledge or mainstream perception;
+b) Unreliable content that, although not containing grossly erroneous content,
+cannot help the user.

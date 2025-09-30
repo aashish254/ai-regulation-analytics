@@ -1,0 +1,184 @@
+A BILL
+To improve the passenger experience during aviation checkpoint security screening, without reducing security effectiveness, by encouraging the deployment of technological and other solutions, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Supporting Passengers with Efficient and Effective Detection through Screening Act” or the “SPEED through Screening Act”.
+
+SEC. 2. Strategies to reduce patdowns and the need to divest items during screening without reducing security effectiveness.
+
+(a) Strategy To reduce patdowns without reducing security effectiveness.—
+
+(1) IN GENERAL.—Not later than one year after the date of the enactment of this Act, the Administrator shall submit to the appropriate congressional committees a strategy for the following five years to reduce the rate at which Administration personnel are required to conduct patdowns during passenger screening carried out pursuant to section 44901 of title 49, United States Code, to the extent practicable, without reducing overall security effectiveness.
+
+(2) CONSIDERATIONS.—In producing the strategy required under paragraph (1), the Administrator shall consider the following:
+
+(A) The effects of improvements made to screening activities within the immediately preceding five years, including refinements to advanced imaging technology detection algorithms, and an estimation of the extent to which such improvements have already reduced the rate of patdowns and enhanced security.
+
+(B) The potential to make further improvements to existing security technologies, including through enhanced detection algorithms, to further reduce the rate of patdowns during passenger screening without reducing overall security effectiveness.
+
+(C) The availability of next-generation or new screening technologies, such as detection at range technology or handheld screening equipment, that could help reduce the rate of patdowns during passenger screening without reducing overall security effectiveness.
+
+(D) The extent to which certain passenger populations, including the categories of individuals protected from discrimination under paragraph (a)(1) of section 60307 of the Infrastructure Investment and Jobs Act (Public Law 117–58; 47 U.S.C. 1726), may undergo patdowns at a higher rate than the general passenger population during passenger screening, and methods for reducing the rate of patdowns among such passenger populations during passenger screening without reducing overall security effectiveness.
+
+(E) The factors contributing to any higher rate of patdowns for particular passenger populations during passenger screening, as described in subparagraph (D).
+
+(F) Methods for developing screening technologies and processes to address any higher rate of patdowns among particular passenger populations during passenger screening, as described in subparagraph (D), without reducing overall security effectiveness.
+
+(G) Projected costs and timelines for implementation of the strategy.
+
+(H) Any other considerations determined appropriate by the Administrator.
+
+(b) Strategy To reduce the need To divest items during screening without reducing security effectiveness.—
+
+(1) IN GENERAL.—Not later than one year after the date of the enactment of this Act, the Administrator shall submit to the appropriate congressional committees a strategy for the following five years to reduce the need for passengers to divest items from their person or property during passenger screening carried out pursuant to section 44901 of title 49, United States Code, to the extent practicable, without reducing overall security effectiveness.
+
+(2) CONSIDERATIONS.—In producing the strategy required under paragraph (1), the Administrator shall consider the following:
+
+(A) The feasibility of reducing the need for passengers to divest each of the following items:
+
+(i) Shoes.
+
+(ii) Belts.
+
+(iii) Loose fitting or bulky clothing.
+
+(iv) Hats, wigs, head coverings, and other headwear, including religious headwear.
+
+(v) Articles of faith.
+
+(vi) Prosthetics, assistive devices, and other medical or special needs items.
+
+(vii) Liquids, aerosols, gels, creams, pastes, and powders.
+
+(viii) Laptops and other large electronic devices.
+
+(ix) Any other items determined appropriate by the Administrator;
+
+(B) The effects of improvements made to screening activities within the immediately preceding five years, including deployments of computed tomography machines for screening carry-on baggage, and a description of the extent to which such improvements have already reduced the need for passengers to divest items specified in subparagraph (A).
+
+(C) The potential to make further improvements to existing security technologies, including through enhanced detection algorithms, to further reduce the need for passengers to divest such items without reducing overall security effectiveness.
+
+(D) The availability of next-generation or new screening technologies that could help reduce the need for passengers to divest such items without reducing overall security effectiveness.
+
+(E) The extent to which efforts to reduce the need for passengers to divest such items complicates any efforts to reduce the rate of patdowns during security screening, and options to ameliorate any such complications.
+
+(F) Projected costs and timelines for implementation of the strategy.
+
+(G) Any other considerations determined appropriate by the Administrator.
+
+(c) Feasibility study on allowance of liquids, aerosols, gels, and powders.—
+
+(1) IN GENERAL.—Not later than one year after the date of the enactment of this Act, the Administrator shall submit to the appropriate congressional committees a report on the findings of a feasibility study regarding allowing passengers to board commercial aircraft carrying increased volumes of liquids, aerosols, gels, creams, pastes, powders, or any other substance currently subject to volume-based carriage limitations, to the extent practicable, without reducing overall security effectiveness.
+
+(2) CONSIDERATIONS.—In carrying out the feasibility study required under paragraph (1), the Administrator shall consider the following:
+
+(A) The effects of improvements made to screening activities within the immediately preceding five years, including deployments of computed tomography machines and bottle liquid scanners for screening carry-on baggage.
+
+(B) The potential to make further improvements to existing security technologies, including through enhanced detection algorithms, to reduce the need for volume-based carriage limitations.
+
+(C) The availability of next-generation or new screening technologies that could help reduce the need for volume-based carriage limitations.
+
+(D) The effectiveness of security screening practices used by counterparts in foreign countries that allow carriage of increased volumes of substances referred to in such paragraph.
+
+(E) Current intelligence regarding threats posed by the carriage of substances referred to in such paragraph, and other risk considerations determined appropriate by the Administrator.
+
+(F) Any actions directed by the Administrator as a result of such feasibility study and projected costs and timelines for implementation of such actions.
+
+(G) Any other considerations determined appropriate by the Administrator.
+
+(d) Classification and publication.—The Administrator shall post on a publicly available webpage of the Administration unclassified versions of the strategies required under subsections (a) and (b) and the report required under subsection (c). If the Administrator determines such is appropriate, such strategies and report may contain classified or sensitive annexes, and the Administrator shall submit to the appropriate congressional committees any such annex at the time of submission of the strategy or report, as the case may be, to which such annex relates.
+
+(e) Deployment of detection at range technology.—
+
+(1) IN GENERAL.—The Administrator may deploy detection at range technology for the screening of passengers carried out pursuant to section 44901 of title 49, United States Code, subject to standards for testing and evaluation of such technology as determined appropriate by the Administrator.
+
+(2) ALLOWING FOR USE OF DETECTION AT RANGE TECHNOLOGY.—Subparagraph (C) of section 44901(l)(1) of title 49, United States Code, is amended by inserting “or a live image of the individual being screened that does not look meaningfully different from the individual’s public presentation” before the period.
+
+(3) FEASIBILITY ASSESSMENT.—Not later than 180 days after the date of the enactment of this Act, the Administrator shall assess the feasibility of using detection at range technology for the following:
+
+(A) Resolving alarms from other screening technologies, including advanced imaging technology machines, without the need for a patdown.
+
+(B) Augmenting screening of nontrusted traveler populations that may not otherwise be screened for nonmetallic prohibited items.
+
+(C) Improving the screening experience for—
+
+(i) passengers with disabilities, personal medical devices, or medical conditions; and
+
+(ii) other passengers who may require additional assistance.
+
+(D) Primary screening of passengers, including to allow passengers who opt out of being screened by an advanced imaging technology to be screened without the need for a patdown except to resolve alarms.
+
+(4) BRIEFING.—Not later than 30 days after completing the feasibility assessment required under paragraph (3), the Administrator shall brief the appropriate congressional committees regarding the results of such assessment.
+
+(5) PRIORITIZATION.—In deploying detection at range technology pursuant to paragraph (1), the Administrator shall, to the extent determined feasible pursuant to paragraph (3), prioritize deployments of such technology that—
+
+(A) reduce the need for patdowns during passenger screening without reducing overall security effectiveness;
+
+(B) enhance security effectiveness, including by augmenting screening of nontrusted traveler populations that may not otherwise be screened for nonmetallic prohibited items;
+
+(C) improve the screening experience for—
+
+(i) passengers with disabilities, personal medical devices, or medical conditions; and
+
+(ii) other passengers who may require additional assistance.
+
+(D) provide primary screening of passengers, including to allow passengers who opt out of being screened by an advanced imaging technology to be screened without the need for a patdown except to resolve alarms.
+
+(f) Screening statistics.—
+
+(1) IN GENERAL.—The Administrator shall seek to collect anonymized statistics regarding the screening of passengers carried out by Administration personnel pursuant to section 44901 of title 49, United States Code. Such statistics shall, to the extent practicable, be disaggregated by airport and date and include the numbers of passengers who undergo any of the following:
+
+(A) Screening in TSA PreCheck lanes.
+
+(B) Screening out of TSA PreCheck lanes.
+
+(C) Enhanced screening based on vetting status.
+
+(D) Patdowns, including patdowns of sensitive body areas.
+
+(E) Screening by advanced imaging technology machines.
+
+(F) Screening by canines.
+
+(G) Screening by walk-through metal detectors out of TSA PreCheck lanes without additional screening for non-metallic prohibited items.
+
+(H) Any other category of screening determined appropriate by the Administrator.
+
+(2) CONSIDERATIONS.—In seeking to collect statistics pursuant to paragraph (1), the Administrator shall consider the following:
+
+(A) The need to protect the civil rights, civil liberties, and privacy of passengers.
+
+(B) The potential for noninvasive technologies, such as cameras and artificial intelligence, to provide information regarding passenger screening.
+
+(C) Methods to collect statistics requiring minimal input by Administration personnel, including new technologies or enhancements to existing technologies, such as by installing software allowing personnel to easily specify how an alarm was cleared.
+
+(D) If collecting statistics regarding the screening of all passengers is not practicable, methods to collect statistics regarding the screening of a sample set of passengers sufficient to extrapolate estimated statistics for all passengers.
+
+(E) Any other considerations determined appropriate by the Administrator.
+
+(3) ANNUAL BRIEFING.—Not later than one year after the date of the enactment of this Act and annually thereafter, the Administrator shall brief the appropriate congressional committees regarding the statistics collected pursuant to paragraph (1). Each such briefing shall include monthly totals disaggregated by airport.
+
+(4) PUBLICATION.—The Administrator shall publish annually on a publicly available website of the Administration the statistics collected pursuant to paragraph (1), to the extent practicable, while protecting classified or sensitive information.
+
+(g) Rule of construction.—Nothing in this section may be construed to prevent the Administration from conducting patdowns, requiring divestiture of items for screening, or carrying out other forms of permissible modes of screening to ensure overall security effectiveness.
+
+(h) Authorization of appropriations.—There are authorized to be appropriated to the Administration $20,000,000 for fiscal year 2024 to research, test, evaluate, procure, and deploy screening processes or technologies that may reduce the need for patdowns or item divestiture or assist in the collection of statistics in furtherance of the requirements of subsections (a) and (f).
+
+(i) Comptroller General review.—Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the implementation of this Act.
+
+(j) Definitions.—In this section:
+
+(1) ADMINISTRATION.—The term “Administration” means the Transportation Security Administration.
+
+(2) ADMINISTRATOR.—The term “Administrator” means the Administrator of the Transportation Security Administration.
+
+(3) ADVANCED IMAGING TECHNOLOGY.—The term “advanced imaging technology” has the meaning given such term in section 44901(l)(1)(A) of title 49, United States Code.
+
+(4) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means the Committee on Homeland Security of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate.
+
+(5) DETECTION AT RANGE TECHNOLOGY.—The term “detection at range technology” means any technology using passive, noninvasive means, such as thermal imaging, to screen passengers for potential threat items without requiring physical contact with such passengers.
+
+(6) PATDOWN.—The term “patdown” means a physical inspection that includes direct physical contact with or without gloves of any part of a person’s body, including the head, hair, torso, breasts, groin, buttocks, limbs, extremities, or other body parts.

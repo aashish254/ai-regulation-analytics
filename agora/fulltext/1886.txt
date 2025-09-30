@@ -1,0 +1,33 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. GAO study and report on use of commercial-off-the-shelf products and artificial intelligence technologies by IRS.
+
+(a) In general.—Not later than 12 months after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a study and submit to Congress a report on the use of commercial-off-the-shelf products and artificial intelligence technologies by the Internal Revenue Service.
+
+(b) Factors considered.—The study described in subsection (a) shall identify how the Internal Revenue Service—
+
+(1) uses commercial-off-the-shelf products and artificial intelligence technologies to—
+
+(A) improve efficiency across Internal Revenue Service operations,
+
+(B) improve taxpayer services,
+
+(C) generate cost savings for the Internal Revenue Service,
+
+(D) increase fairness in enforcement, and
+
+(E) improve enforcement activities to reduce the disparity between tax liabilities owed to the United States and those liabilities actually collected by the Internal Revenue Service, and
+
+(2) manages risks associated with the use of artificial intelligence technologies, including technology errors, bias in audit selection, and data security.
+
+(c) Additional information.—The study described in subsection (a) shall include the following information with respect to projects relating to information technology modernization and software development for the Internal Revenue Service:
+
+(1) The name of each contractor and subcontractor that the Internal Revenue Service uses for such projects.
+
+(2) The scope and cost of work being performed in each task order or contract.
+
+(3) The contracting approach employed by the Internal Revenue Service, including whether the services are being purchased using procurement authorities intended for commercial services such as information technology.
+
+(4) The allocation of modernization expenses, including how work is divided between contractors and Internal Revenue Service employees.
+
+(5) In the case of customized projects, the cost differential between such project and commercial-off-the-shelf product alternatives.

@@ -1,0 +1,136 @@
+AN ACT CONCERNING AUTONOMOUS VEHICLES.
+
+
+Be it enacted by the Senate and House of Representatives in General Assembly convened:
+
+
+Section 1. (NEW) (Effective from passage) (a) For the purposes of this section:
+
+
+(1) "Fully autonomous vehicle" means a motor vehicle that is equipped with an automated driving system, designed to function without an operator and classified as level four or level five by SAE J3016;
+
+
+(2) "Automated driving system" means the hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether the automated driving system is limited to a specific operational design domain;
+
+
+(3) "Dynamic driving task" means the real-time operational and tactical functions required to operate a motor vehicle on highways, excluding the strategic functions such as trip scheduling and selection of destinations and waypoints;
+
+
+(4) "Operational design domain" means a description of the operating domains in which an automated driving system is designed to function, including, but not limited to, geographic, roadway, environmental and speed limitations;
+
+
+(5) "SAE J3016" means the "Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles" published by SAE International in September 2016;
+
+
+(6) "Operator" means the person seated in the driver's seat of a fully autonomous vehicle;
+
+
+(7) "Autonomous vehicle tester" means an autonomous vehicle manufacturer, institution of higher education, fleet service provider or automotive equipment or technology provider;
+
+
+(8) "Fleet service provider" means a person or entity that owns or leases a fully autonomous vehicle and operates such fully autonomous vehicle for commercial or public use;
+
+
+(9) "Autonomous vehicle manufacturer" means: (A) A person or entity that builds or sells fully autonomous vehicles; (B) a person or entity that installs automated driving systems in motor vehicles that are not originally built as fully autonomous vehicles; or (C) a person or entity that develops automated driving systems in fully autonomous vehicles or motor vehicles that are not originally built as fully autonomous vehicles;
+
+
+(10) "Secretary" means the Secretary of the Office of Policy and Management; and
+
+
+(11) "Highway", "limited access highway" and "operator's license" have the same meanings as defined in section 14-1 of the general statutes.
+
+
+(b) The Office of Policy and Management, in consultation with the Departments of Motor Vehicles, Transportation and Emergency Services and Public Protection, shall establish a pilot program for not more than four municipalities to allow autonomous vehicle testers to test fully autonomous vehicles on the highways of such municipalities. Municipalities shall apply to the Secretary of the Office of Policy Management in the manner and form directed by the secretary for inclusion in the pilot program. The secretary shall select at least one municipality with a population of at least one hundred twenty thousand, but not more than one hundred twenty-four thousand, and one municipality with a population of at least one hundred thousand, as enumerated in the 2010 federal decennial census.
+
+
+(c) The chief elected official or chief executive officer of a municipality selected by the secretary shall select and enter into a written agreement with an autonomous vehicle tester or autonomous vehicle testers to test fully autonomous vehicles on the highways of the municipality. Such agreement shall, at a minimum: (1) Specify the locations and routes where such fully autonomous vehicles may operate; (2) prohibit the operation of such fully autonomous vehicles outside such locations and routes except in the case of an emergency; (3) identify each fully autonomous vehicle to be tested by vehicle identification number, make, year and model; and (4) specify the hours of operation of such fully autonomous vehicles.
+
+
+(d) An autonomous vehicle tester shall not test a fully autonomous vehicle in a municipality unless:
+
+
+(1) The operator is: (A) Seated in the driver's seat of the fully autonomous vehicle; (B) monitoring the operation of such fully autonomous vehicle; (C) capable of taking immediate manual control of such fully autonomous vehicle; (D) an employee, independent contractor or other person designated and trained by the autonomous vehicle tester concerning the capabilities and limitations of such fully autonomous vehicle; and (E) a holder of an operator's license;
+
+
+(2) The autonomous vehicle tester: (A) Registers each fully autonomous vehicle to be tested with the Commissioner of Motor Vehicles pursuant to section 14-12 of the general statutes; and (B) submits to the commissioner, in a manner and form directed by the commissioner, proof of liability insurance, self-insurance or a surety bond of at least five million dollars for damages by reason of bodily injury, death or property damage caused by a fully autonomous vehicle; and
+
+
+(3) The operator and autonomous vehicle tester: (A) Comply with any provision of the general statutes or any ordinance of a municipality concerning the operation of motor vehicles; (B) comply with standards established by the National Highway Traffic Safety Administration regarding fully autonomous vehicles; and (C) satisfy any other requirement as determined by the secretary, in consultation with the Commissioners of Motor Vehicles, Transportation and Emergency Services and Public Protection, as necessary to ensure the safe operation of such fully autonomous vehicle.
+
+
+(e) No autonomous vehicle tester shall test a fully autonomous vehicle on any limited access highway.
+
+
+(f) The secretary may immediately prohibit an operator or autonomous vehicle tester from testing a fully autonomous vehicle if the secretary, in consultation with the Commissioners of Motor Vehicles, Transportation and Emergency Services and Public Protection, determines that such testing poses a risk to public safety or that such operator or autonomous vehicle tester fails to comply with the provisions of this section or with the requirements of the pilot program.
+
+
+(g) An autonomous vehicle tester that participates in the pilot program shall provide information to the secretary and the task force established pursuant to section 2 of this act that the secretary and task force deem to be appropriate for measuring the performance of the pilot program. The autonomous vehicle tester may withhold any commercially valuable, confidential or proprietary information.
+
+
+(h) Not later than January 1, 2019, and annually thereafter, the secretary shall submit a report to the joint standing committee of the General Assembly having cognizance of matters relating to transportation, in accordance with section 11-4a of the general statutes, concerning the implementation and progress of the pilot program.
+
+
+Sec. 2. (Effective from passage) (a) There is established a task force to study fully autonomous vehicles. Such study shall include, but need not be limited to, (1) an evaluation of the standards established by the National Highway Traffic Safety Administration regarding state responsibilities for regulating fully autonomous vehicles, (2) an evaluation of laws, legislation and regulations proposed or enacted by other states to regulate fully autonomous vehicles, (3) recommendations on how the state should regulate fully autonomous vehicles through legislation and regulation, and (4) an evaluation of the pilot program established pursuant to section 1 of this act.
+
+
+(b) The task force shall consist of the following members:
+
+
+(1) One appointed by the speaker of the House of Representatives;
+
+
+(2) One appointed by the president pro tempore of the Senate;
+
+
+(3) One appointed by the majority leader of the House of Representatives;
+
+
+(4) One appointed by the majority leader of the Senate;
+
+
+(5) One appointed by the minority leader of the House of Representatives;
+
+
+(6) One appointed by the minority leader of the Senate;
+
+
+(7) One appointed by the Senate chairperson of the joint standing committee of the General Assembly having cognizance of matters relating to transportation;
+
+
+(8) One appointed by the Senate ranking member of the joint standing committee of the General Assembly having cognizance of matters relating to transportation;
+
+
+(9) One appointed by the House chairperson of the joint standing committee of the General Assembly having cognizance of matters relating to transportation;
+
+
+(10) Two appointed by the Governor, one of whom has expertise in autonomous vehicles and one of whom has expertise in insurance;
+
+
+(11) The Secretary of the Office of Policy and Management, or the secretary's designee;
+
+
+(12) The Commissioner of Motor Vehicles, or the commissioner's designee;
+
+
+(13) The Commissioner of Transportation, or the commissioner's designee; and
+
+
+(14) The Commissioner of Emergency Services and Public Protection, or the commissioner's designee.
+
+
+(c) Any member of the task force appointed under subdivisions (1) to (10), inclusive, of subsection (b) of this section may be a member of the General Assembly.
+
+
+(d) All appointments to the task force shall be made not later than thirty days after the effective date of this section. Any vacancy shall be filled by the appointing authority.
+
+
+(e) The speaker of the House of Representatives and the president pro tempore of the Senate shall select the chairpersons of the task force from among the members of the task force. Such chairpersons shall schedule the first meeting of the task force, which shall be held not later than sixty days after the effective date of this section.
+
+
+(f) The administrative staff of the joint standing committee of the General Assembly having cognizance of matters relating to transportation shall serve as administrative staff of the task force.
+
+
+(g) The task force shall submit, in accordance with section 11-4a of the general statutes, the following reports regarding its findings and any recommendations for proposed legislation to the joint standing committee of the General Assembly having cognizance of matters relating to transportation: (1) An interim report not later than January 1, 2018; (2) an interim report not later than July 1, 2018; and (3) a final report not later than January 1, 2019. The task force shall terminate on the date that it submits the final report or January 1, 2019, whichever is later.
+
+
+Approved June 27, 2017

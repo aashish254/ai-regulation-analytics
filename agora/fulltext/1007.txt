@@ -1,0 +1,130 @@
+SEC. 7. RESPONSIBILITIES OF PROGRAM AGENCIES.
+(a) National Institute Of Standards And Technology.—The responsibilities of the Director of the National Institute of Standards and Technology with respect to the Program are as follows:
+(1) RESEARCH AND DEVELOPMENT ACTIVITIES.—The Director of the National Institute of Standards and Technology shall—
+(A) carry out research on the impact of wildland fires on communities, buildings, and other infrastructure, including structure-to-structure transmission of fire and spread within communities;
+(B) carry out research on the generation of firebrands from wildland fires and on methods and materials to prevent or reduce firebrand ignition of communities, buildings, and other infrastructure;
+(C) carry out research on novel materials, systems, structures, and construction designs to harden structures, parcels, and communities to the impact of wildland fires;
+(D) carry out research on the impact of environmental factors on wildland fire behavior, including wind, terrain, and moisture; and
+(E) support the development of performance-based tools to mitigate the impact of wildland fires, and work with appropriate groups to promote and assist in the use of such tools, including through model building codes and fire codes, standard test methods, voluntary consensus standards, and construction and retrofit best practices.
+(2) WILDLAND-URBAN INTERFACE FIRE POST-INVESTIGATIONS.—The Director of the National Institute of Standards and Technology shall—
+(A) coordinate Federal post-wildland fire investigations of fires at the wildland-urban interface; and
+(B) develop methodologies, in collaboration with the Administrator of FEMA and in consultation with relevant stakeholders, to characterize the impact of wildland fires on communities and the impact of changes in building and fire codes, including methodologies—
+(i) for collecting, inventorying, and analyzing information on the performance of communities, buildings, and other infrastructure in wildland fires; and
+(ii) for improved collection of pertinent information from different sources, including first responders, the design and construction industry, insurance companies, and building officials.(b) National Science Foundation.—As a part of the Program, the Director of the National Science Foundation shall support—
+(1) research, including large-scale convergent research, to improve the understanding and prediction of wildland fire risks, including the conditions that increase the likelihood of a wildland fire, the behavior of wildland fires, and their impacts on buildings, communities, infrastructure, ecosystems and living systems;
+(2) development and improvement of tools and technologies, including databases and computational models, to enable and accelerate the understanding and prediction of wildland fires and their impacts;
+(3) development of research infrastructure, as appropriate, to enable and accelerate the understanding and prediction of wildland fires and their impacts, including upgrades or additions to the National Hazards Engineering Research Infrastructure;
+(4) research to improve the understanding of—
+(A) the response to wildland fire risk and response messages by individuals, communities, and policymakers;
+(B) social and economic factors influencing the implementation and adoption of wildland fire risk reduction and response measures by individuals, communities, and policymakers; and
+(C) decision making and emergency response to wildland fires;
+(5) undergraduate and graduate research opportunities and graduate and postdoctoral fellowships and traineeships in fields of study relevant to wildland fires and their impacts; and
+(6) research to improve the understanding of the impacts of climate change and climate variability on wildland fires, including wildland fire risk, frequency, and severity, and wildland fire prediction, mitigation, and resilience strategies.(c) National Oceanic And Atmospheric Administration.—
+(1) IN GENERAL.—The Administrator of the National Oceanic and Atmospheric Administration (in this subsection referred to as the “Administrator”) shall conduct research, observations, modeling, forecasting, prediction, and historical analysis of wildland fires to improve understanding of wildland fires, and associated fire weather and smoke, for the protection of life and property and for the enhancement of the national economy.
+(2) WEATHER FORECASTING AND DECISION SUPPORT FOR WILDLAND FIRES.—The Administrator shall—
+(A) develop and provide in consultation with the relevant Federal Agencies, as the Administrator determines appropriate, accurate, timely, and effective warnings and forecasts of wildland fires and fire weather events that endanger life and property, which may include red flag warnings, operational fire weather alerts, and any other warnings or alerts the Administrator deems appropriate;
+(B) provide stakeholders and the public with impact-based decision support services, seasonal climate predictions, air quality products, and smoke forecasts; and
+(C) provide on-site weather forecasts, seasonal climate predictions, and other decision support to wildland fire incident command posts, including by deploying incident meteorologists for the duration of an extreme event.
+(3) WILDLAND FIRE DATA.—The Administrator shall contribute to and support the centralized, integrated data collaboration environment per section 3(2) and any other relevant Federal data systems by ensuring—
+(A) interoperability, usability, and accessibility of National Oceanic and Atmospheric Administration data and tools related to wildland fires, associated smoke, and their impacts;
+(B) inclusion of historical wildland fire incident and fire weather data, and identifying potential gaps in such data; and
+(C) the acquisition or collection of additional data that is needed to advance wildland fire science.
+(4) WILDLAND FIRE AND FIRE WEATHER SURVEILLANCE AND OBSERVATIONS.—The Administrator, in coordination with Administrator of the National Aeronautics and Space Administration and in consultation with relevant stakeholders—
+(A) shall leverage existing observations, technologies and assets and develop or acquire new technologies and data to sustain and enhance environmental observations used for wildland fire prediction and detection, fire weather and smoke forecasting and monitoring, and post-wildland fire recovery, with a focus on—
+(i) collecting data for pre-ignition analysis, such as drought, fuel and vegetation conditions, and soil moisture, that will help predict severe wildland fire conditions on subseasonal to decadal timescales;
+(ii) supporting identification and classification of fire environments at the smallest practical scale to determine vulnerability to wildland fires and rapid wildland fire growth;
+(iii) detecting, observing, and monitoring wildland fires and smoke;
+(iv) supporting research on the interaction of weather and wildland fire behavior; and
+(v) supporting post-fire assessments conducted by Program agencies and relevant stakeholders;
+(B) shall prioritize the ability to detect, observe, and monitor wildland fire and smoke in its requirements for its current and future observing systems and commercial data purchases; and
+(C) not later than 12 months after the date of enactment of this Act—
+(i) may offer to enter into contracts with one or more entities to obtain additional airborne and space-based data and observations that may enhance or supplement the understanding, monitoring, prediction, and mitigation of wildland fire risks, and the relevant Program activities under section 3; and
+(ii) in carrying out clause (i), shall consult with private sector entities through an advisory committee to identify needed tools and data that can be best provided by NOAA satellites and are most beneficial to wildfire and smoke detection and monitoring.
+(5) FIRE WEATHER TESTBED.—In collaboration with Program agencies and other relevant stakeholders, the Administrator shall establish a Fire Weather Testbed to evaluate physical and social science, technology, and other research to develop fire weather products and services for implementation by relevant stakeholders.
+(6) WILDLAND FIRE AND FIRE WEATHER RESEARCH AND DEVELOPMENT.—The Administrator shall support a wildland fire and smoke research and development program that includes both physical and social science with the goals of—
+(A) improving the understanding, prediction, detection, forecasting, monitoring, and assessments of wildland fires and associated fire weather and smoke;
+(B) developing products and services to meet stakeholder needs;
+(C) transitioning physical and social science research into operations;
+(D) improving modeling and technology, including coupled fire-atmosphere fire behavior modeling, in consultation with relevant Federal agencies;
+(E) better understanding of links between fire weather events and subseasonal-to-climate impacts; and
+(F) pursuing high-priority fire science research needs applicable to the National Oceanic and Atmospheric Administration as identified by any other relevant Federal program.
+(7) EXTRAMURAL RESEARCH.—The Administrator shall collaborate with and support the non-Federal wildland fire research community, which includes institutions of higher education, private entities, nongovernmental organizations, and other relevant stakeholders, by making funds available through competitive grants, contracts, and cooperative agreements. In carrying out the program under this paragraph, the Administrator, in collaboration with other relevant Federal agencies, may establish one or more national centers for prescribed fire and wildfire sciences that leverage Federal research and development with university and nongovernmental partnerships.
+(8) HIGH PERFORMANCE COMPUTING.—The Administrator, in consultation with the Secretary of Energy, shall acquire high performance computing technologies and supercomputing technologies, leveraging existing resources, as practicable, to conduct research and development activities, support research to operations under this subsection, and host operational fire and smoke forecast models.(d) Federal Emergency Management Agency.—The Administrator of the Federal Emergency Management Agency, acting through the United States Fire Administration, shall—
+(1) support—
+(A) the development of community risk assessment tools and effective mitigation techniques for preventing and responding to wildland fires, including at the wildland-urban interface;
+(B) wildland and wildland-urban interface fire and operational response-related data collection and analysis;
+(C) public outreach, education, and information dissemination related to wildland fires and wildland fire risk; and
+(D) promotion of wildland and wildland-urban interface fire preparedness and community risk reduction, to include hardening the wildland-urban interface through proper construction materials, land use practices, sprinklers, assessment of State and local emergency response capacity and capabilities, and other tools and approaches as appropriate;
+(2) in collaboration with the National Institute of Standards and Technology, and other program agencies, as appropriate, promote and assist in the implementation of research results and promote fire-resistant buildings, retrofit, and land use practices within the design and construction industry, including architects, engineers, contractors, builders, planners, code officials, and inspectors;
+(3) establish and operate a wildland fire preparedness and mitigation technical assistance program to assist State, local, Tribal and territorial governments in using wildland fire mitigation strategies, including through the adoption and implementation of wildland and wildland-urban interface fire resistant codes, standards, and land use;
+(4) incorporate wildland and wildland-urban interface fire risk mitigation and loss avoidance data into the Agency’s existing risk, mitigation, and loss avoidance analyses;
+(5) incorporate data on the adoption and implementation of wildland and wildland-urban interface fire resistant codes and standards into the Agency’s hazard resistant code tracking resources;
+(6) translate new information and research findings into best practices to improve firefighter, fire service, and allied professions training and education in wildland fire response, crew deployment, prevention, mitigation, resilience, and firefighting;
+(7) conduct outreach and information dissemination to fire departments regarding best practices for wildland and wildland-urban interface firefighting, training, and fireground deployment;
+(8) in collaboration with other relevant Program agencies and stakeholders, develop a national level, interactive and publicly accessible wildland fire hazard severity map that includes community and parcel level data and that can readily integrate with risk gradations within wildland and wildland-urban interface fire resistant codes and standards; and
+(9) develop resources regarding best practices for establishing or enhancing peer-support programs within wildland fire firefighting units.(e) National Aeronautics And Space Administration.—The responsibilities of the Administrator of the National Aeronautics and Space Administration (in this subsection referred to as the “Administrator”) with respect to the Program are as follows:
+(1) IN GENERAL.—The Administrator shall, with respect to the Program—
+(A) support relevant basic and applied scientific research and modeling;
+(B) ensure the use in the Program of all relevant National Aeronautics and Space Administration Earth observations data for maximum utility;
+(C) explore and apply novel tools and technologies in the activities of the Program;
+(D) support the translation of research to operations, including to Program agencies and relevant stakeholders;
+(E) facilitate the communication of wildland fire research, knowledge, and tools to relevant stakeholders; and
+(F) use commercial data where such data is available and accessible through existing Federal Government commercial contracts, agreements, or other means, and purchase data that is deemed necessary based on consultation with other Program agencies.
+(2) WILDLAND FIRE RESEARCH AND APPLICATIONS.—The Administrator shall support basic and applied wildland fire research and modeling activities, including competitively selected research, to—
+(A) improve the understanding and prediction of fire environments, wildland fires, associated smoke, and their impacts;
+(B) improve the understanding of the impacts of climate change and variability on wildland fire risk, frequency, and severity;
+(C) characterize the pre-fire phase and fire-inducing conditions, such as soil moisture and vegetative fuel availability;
+(D) characterize the active fire phase, such as fire and smoke plume mapping, fire behavior and spread modeling, and domestic and global fire activity;
+(E) characterize the post-fire phase, such as landscape changes, air quality, erosion, landslides, and impacts on carbon distributions in forest biomass;
+(F) contribute to advancing predictive wildland fire models;
+(G) address other relevant investigations and measurements prioritized by the National Academies of Sciences, Engineering, and Medicine Decadal Survey on Earth Science and Applications from Space;
+(H) improve the translation of research knowledge into actionable information;
+(I) develop research and data products, including maps, decision-support information, and tools, and support related training as appropriate and practicable;
+(J) collaborate with other Program agencies and relevant stakeholders, as appropriate, on joint research and development projects, including research grant solicitations and field campaigns; and
+(K) transition research advances to operations, including to Program agencies and relevant stakeholders, as practicable.
+(3) WILDLAND FIRE DATA SYSTEMS AND COMPUTATIONAL TOOLS.—The Administrator shall—
+(A) identify, from the National Aeronautics and Space Administration’s Earth science data systems, data, including combined data products and relevant commercial data sets, that can contribute to improving the understanding, monitoring, prediction, and mitigation of wildland fires and their impacts, including data related to fire weather, plume dynamics, smoke and fire behavior, impacts of climate change and variability, land and property burned, wildlife and ecosystem destruction, among other areas;
+(B) prioritize the dissemination of data identified or obtained under this subparagraph to the widest extent practicable to support relevant research and operational stakeholders;
+(C) consider opportunities to support the Program under section 2 and the Program activities under section 3 when planning and developing Earth observation satellites, instruments, and airborne measurement platforms;
+(D) identify opportunities, in collaboration with Program agencies and relevant stakeholders, to obtain additional airborne and space-based data and observations that may enhance or supplement the understanding, monitoring, prediction, and mitigation of wildland fire risks, and the relevant Program activities under section 3, and consider such options as commercial solutions, including commercial data purchases, prize authority, academic partnerships, and ground-based or space-based instruments, as practicable and appropriate; and
+(E) contribute to and support, to the maximum extent practicable, the centralized, integrated data collaboration environment per section 3(2) and any other relevant interagency data systems, by collecting, organizing, and integrating the National Aeronautics and Space Administration’s scientific data, data systems, and computational tools related to wildland fires, associated smoke, and their impacts, and by enhancing the interoperability, useability, and accessibility of National Aeronautics and Space Administration’s scientific data, data systems, and computational tools, including—
+(i) observations and available real-time and near-real-time measurements;
+(ii) derived science and data products, such as fuel conditions, risk and spread maps, and data products to represent the wildland-urban interface;
+(iii) relevant historical and archival observations, measurements, and derived science and data products; and
+(iv) other relevant decision support and information tools.
+(4) NOVEL TOOLS FOR ACTIVE WILDLAND FIRE MONITORING AND RISK MITIGATION.—The Administrator, in collaboration with other Program agencies and relevant stakeholders shall apply novel tools and technologies to support active wildland fire research, monitoring, mitigation, and risk reduction, as practicable and appropriate. In particular, the Administrator shall:
+(A) Establish, in collaboration with the heads of other relevant Federal agencies, a program to develop and demonstrate a unified concept of operations for the safe and effective deployment of diverse air capabilities in active wildland fire monitoring, mitigation, and risk reduction. The objectives of the Program shall be to—
+(i) develop and demonstrate a wildland fire airspace operations system accounting for piloted aircraft, uncrewed aerial systems, and other new and emerging capabilities such as autonomous and high-altitude assets;
+(ii) develop an interoperable communications strategy;
+(iii) develop a roadmap for the on-ramping of new technologies, capabilities, or entities;
+(iv) identify additional development, testing, and demonstration that would be required to expand the scale of operations;
+(v) identify actions that would be required to transition the unified concept of operations in subparagraph (A) into ongoing, operational use; and
+(vi) other objectives, as deemed appropriate by the Administrator.
+(B) Develop and demonstrate affordable and deployable sensing technologies, in consultation with other Program agencies and relevant stakeholders, to improve the monitoring of fire fuel and active wildland fires, wildland fire behavior models and forecast, mapping efforts, and the prediction and mitigation of wildland fires and their impacts. The Administrator shall—
+(i) test and demonstrate technologies such as infrared, microwave, and active sensors suitable for deployment on spacecraft, aircraft, uncrewed aerial systems, and ground-based and in situ platforms, as appropriate and practicable;
+(ii) develop and demonstrate affordable and deployable sensing technologies that can be transitioned to operations for collection of near-real-time localized measurements;
+(iii) develop and demonstrate near-real-time data processing, availability, interoperability, and visualization, as practicable;
+(iv) identify opportunities and actions required, in collaboration with Program agencies and relevant stakeholders, to transition relevant technologies, techniques, and data to science operations, upon successful demonstration of the feasibility and scientific utility of the sensors and data;
+(v) transition demonstrated technologies, techniques, and data into ongoing, operational use, including to Program agencies and relevant stakeholders;
+(vi) prioritize and facilitate, to the greatest extent practicable, the dissemination of these science data to operations, including to Program agencies and relevant stakeholders; and
+(vii) consider opportunities for potential partnerships, including commercial data purchases, among industry, government, academic institutions, and non-profit organizations and other relevant stakeholders in carrying out clauses (i) through (vi), as appropriate and practicable.(f) Environmental Protection Agency.—The Administrator of the Environmental Protection Agency shall support environmental research and development activities to—
+(1) improve the understanding of—
+(A) wildland fire smoke plume characteristics, chemical transformation, chemical composition, and transport;
+(B) wildland fire and smoke impacts to contaminant containment and remediation;
+(C) the contribution of wildland fire emissions to climate forcing emissions;
+(D) differences between the impacts of prescribed fires compared to other wildland fires on communities and air and water quality; and
+(E) climate change and variability on wildland fires and smoke plumes, including on smoke exposure;
+(2) develop and improve tools, sensors, and technologies including databases and computational models, to accelerate the understanding, monitoring, and prediction of wildland fires and smoke exposure;
+(3) better integrate observational data into wildland fire and smoke characterization models to improve modeling at finer temporal and spatial resolution; and
+(4) improve communication of wildland fire and smoke risk reduction strategies to the public in coordination with relevant stakeholders and other Federal agencies.(g) Department Of Energy.—The Secretary of Energy shall carry out research and development activities to—
+(1) create tools, techniques, and technologies for—
+(A) withstanding and addressing the current and projected impact of wildland fires on energy sector infrastructure;
+(B) providing real-time or near-time awareness of the risks posed by wildland fires to the operation of energy infrastructure in affected and potentially affected areas, including by leveraging the Department’s high-performance computing capabilities and climate and ecosystem models;
+(C) enabling early detection of, and assessment of competing technologies and strategies for addressing, malfunctioning electrical equipment on the transmission and distribution grid, including spark ignition causing wildland fires;
+(D) assisting with the planning, safe execution of, and safe and timely restoration of power after emergency power shut offs following wildland fires started by grid infrastructure;
+(E) improving electric grid and energy sector safety and resilience in the event of multiple simultaneous or co-located weather or climate events leading to extreme conditions, such as extreme wind, wildland fires, extreme cold, and extreme heat; and
+(F) improving coordination between utilities and relevant Federal agencies to enable communication, information-sharing, and situational awareness in the event of wildland fires that impact the electric grid;
+(2) coordinate data and computational resources across relevant entities to improve our understanding of wildland fires and to promote resilience and wildland fire prevention in the planning, design, construction, operation, and maintenance of transmission infrastructure;
+(3) consider optimal building energy efficiency and weatherization practices, as practicable, in wildland fire research;
+(4) utilize the Department of Energy’s National Laboratory capabilities, including user facilities, earth and environmental systems modeling resources, and high-performance computing and data analytics capabilities, to improve the accuracy of efforts to understand and predict wildland fire behavior and occurrence and mitigate wildland fire impacts; and
+(5) foster engagement between the National Laboratories and practitioners, researchers, policy organizations, utilities, and other entities the Secretary determines to be appropriate to understand the economic and social implications of power disruptions caused by wildland fires, particularly within disadvantaged communities and regions vulnerable to wildland fires, including rural areas.

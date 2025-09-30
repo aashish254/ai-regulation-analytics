@@ -1,0 +1,59 @@
+SEC. 227. LIMITATION ON CONTRACT AWARDS FOR CERTAIN UNMANNED VESSELS. 
+
+(a) LIMITATION.—Not less than 30 days before awarding a contract using any funds from the Research, Development, Test, and Evaluation, Navy account for the purchase of a covered vessel, the Secretary of the Navy shall submit to the congressional defense committees a report and certification described in subsection (c) for such contract and covered vessel. 
+
+(b) COVERED VESSELS.—For purposes of this section, a covered vessel is one of the following: 
+(1) A large unmanned surface vessel (LUSV). 
+(2) A medium unmanned surface vehicle (MUSV). 
+(c) REPORT AND CERTIFICATION DESCRIBED.—A report and certification described in this subsection regarding a contract for a covered vessel is— 
+(1) a report— 
+(A) submitted to the congressional defense committees not later than 60 days after the date of the completion of an independent technical risk assessment for such covered vessel; 
+(B) on the findings and recommendations of the Senior Technical Authority for the class of naval vessels that includes the covered vessel with respect to such assessment; and 
+(C) that includes such assessment; and 
+(2) a certification, submitted to the congressional defense committees with the report described in paragraph (1), that certifies that— 
+(A) the Secretary has determined, in conjunction with the Senior Technical Authority for the class of naval vessels that includes the covered vessel, that the critical mission, hull, mechanical, and electrical subsystems of the covered vessel— 
+(i) have been demonstrated in vessel-representa.tive form, fit, and function; and 
+(ii) have achieved performance levels equal to or greater than applicable Department of Defense threshold requirements for such class of vessels or have maturation plans in place to achieve such performance levels prior to transition to a program of record, including a detailed description of such achieved performance or maturation plans; and 
+(B) such contract is necessary to meet Department research, development, test, and evaluation objectives for such covered vessel that cannot otherwise be met through further land-based subsystem prototyping or other demonstration approaches. 
+(d) LIMITATION ON WEAPON INTEGRATION.— 
+(1) IN GENERAL.—The Secretary may not integrate any offensive weapon system into a covered vessel until the date that is 30 days after the date on which the Secretary of the Defense certifies to the congressional defense committees that such covered vessel— 
+(A) will comply with applicable laws, including the law of armed conflict, with a detailed explanation of how such compliance will be achieved; and 
+(B) has been determined to be the most appropriate surface vessel to meet applicable offensive military requirements. 
+(2) COMPLETION OF ANALYSIS OF ALTERNATIVES REQUIRED.— A determination under paragraph (1)(B) shall be made only after the completion of an analysis of alternatives that— 
+(A) is described in subsection (e)(1); and 
+(B) supports such determination. 
+(e) SUBMITTAL OF ANALYSIS OF ALTERNATIVES TO CONGRESS.— 
+(1) ANALYSIS OF ALTERNATIVES REQUIRED.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees an analysis of alternatives regarding covered vessels with an integrated offensive weapon system and the most appropriate surface vessels to meet applicable offensive military requirements. 
+(2) CONTENTS.—The analysis submitted under paragraph 
+(1) shall include, at a minimum, the following elements: 
+(A) Identification of capability needs applicable to such covered vessels, including offensive strike capability and capacity from the Mark–41 vertical launch system. 
+(B) Projected threats. 
+(C) Projected operational environments. 
+(D) Projected operational concepts. 
+(E) Projected operational requirements. 
+(F) Status quo (baseline) and surface vessel alternatives able to meet the capability needs identified in subparagraph (A), including— 
+(i) modified naval vessel designs, including amphibious ships, expeditionary fast transports, and expeditionary sea bases; 
+(ii) modified commercial vessel designs, including container ships and bulk carriers; 
+(iii) new naval vessel designs; and 
+(iv) new commercial vessel designs. 
+(G) Vessel design, performance, and measures of effectiveness of the baseline and each alternative, including a description of critical mission, hull, mechanical, and electrical subsystems. 
+(H) Estimated research, development, test, and evaluation cost of baseline and each alternative. 
+(I) Estimated lead vessel and average follow-on vessel procurement costs of baseline and each alternative. 
+(J) Life-cycle costs of baseline and each alternative. 
+(K) Life-cycle cost per baseline vessel and each alternative vessel. 
+(L) Life-cycle cost per specified quantity of baseline vessels and alternative vessels. 
+(M) Technology readiness assessment of baseline and each alternative. 
+(N) Analysis of alternatives, including relative cost and capability performance of baseline and alternative vessels. 
+(O) Trade-off analysis. 
+(P) Sensitivity analysis. 
+(Q) Conclusions and recommendations, which if the Secretary of Defense deems it appropriate, shall include the determination required under subsection (d)(1)(B). 
+(f) DEFINITIONS.—In this section: 
+(1) The term ‘‘critical mission, hull, mechanical, and electrical subsystems’’, with respect to a covered vessel, includes the following subsystems: 
+(A) Command, control, communications, computers, intelligence, surveillance, and reconnaissance. 
+(B) Autonomous vessel navigation, vessel control, contact management, and contact avoidance. 
+(C) Communications security, including cryptopgraphy, encryption, and decryption. 
+(D) Main engines, including the lube oil, fuel oil, and other supporting systems. 
+(E) Electrical generation and distribution, including supporting systems. 
+(F) Military payloads. 
+(G) Any other subsystem identified as critical by the Senior Technical Authority for the class of naval vessels that includes the covered vessel. 
+(2) The term ‘‘Senior Technical Authority’’ means, with respect to a class of naval vessels, the Senior Technical Authority designated for that class of naval vessels under section 8669b of title 10, United States Code.

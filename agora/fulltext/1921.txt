@@ -1,0 +1,172 @@
+A BILL
+To require the financial regulators to carry out studies on the realized and potential benefits of artificial intelligence, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Analysis and Improvement Act of 2024” or the “AI Act of 2024”.
+
+
+SEC. 2. Study on AI benefits and risks by banking regulators.
+
+
+(a) Report required.—Not later than 180 days after the date of the enactment of this Act, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation Board, the Comptroller of the Currency, the Director of the Bureau of Consumer Financial Protection, and the National Credit Union Administration Board shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and publish publicly, a report that examines—
+
+
+(1) realized and potential benefits and risks of AI technology, including—
+(A) banking institutions’ use of AI for customer service;
+(B) banking institutions’ use of AI in loan underwriting and servicing;
+(C) banking institutions’ use of AI in home valuation;
+(D) banking institutions’ use of AI to detect and deter fraud, money laundering, cybercrime, and other illicit activity;
+(E) the use of AI in debt collection, including foreclosures;
+(F) banking institutions’ use of AI for internal processes and compliance procedures, including for compliance with Federal fair lending laws;
+(G) how a variety of smaller banking institutions, including community banks, credit unions, rural depository institutions, minority depository institutions, and community development financial institutions, can leverage the benefits of AI technology;
+(H) banking institutions’ use of AI to mitigate bias and discrimination and increase banking services to historically underserved and underbanked consumers;
+(I) banking institutions’ use of AI to enhance cybersecurity risk management;
+(J) the use of AI to enhance competitiveness among banking institutions of all sizes;
+(K) the use of AI, including for the purposes described in subparagraphs (A) through (J), by nonbank financial technology firms; and
+(L) any other use cases such agency heads determine appropriate;
+
+
+(2) statues, regulations, and agency guidance, or the lack thereof, impacting the development and the use of AI by entities regulated by such agencies;
+
+
+(3) current use cases of AI by such agencies for supervision, and other areas where AI applications would be uniquely suited but are not currently being deployed; and
+
+
+(4) any challenges such agencies have in leveraging AI and hiring and retaining staff with expertise in AI technology and potential solutions to overcome such challenges.
+
+
+(b) Recommendations.—The report required under subsection (a) shall include regulatory proposals and legislative recommendations that facilitate the responsible adoption of AI within the financial services industry.
+
+
+(c) Public input.—The agency heads described under subsection (a) shall publish a request for information to collect public input to inform the drafting of the report required under subsection (a).
+
+
+(d) Banking institution defined.—In this section, the term “banking institution” means a depository institution (as defined in section 3 of the Federal Deposit Insurance Act) and a State credit union or a Federal credit union (as such terms are defined, respectively, under section 101 of the Federal Credit Union Act).
+
+
+SEC. 3. Study on AI benefits and risks by the Securities and Exchange Commission.
+
+
+(a) Report required.—Not later than 180 days after the date of the enactment of this Act, the Securities and Exchange Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and publish publicly, a report that examines—
+
+
+(1) realized and potential benefits and risks of AI technology, including—
+(A) market participants’ use of AI for market research, examining the difference between public and private markets;
+(B) market participants’ use of AI for portfolio management;
+(C) exchanges’ use of AI for market surveillance, fraud detection, and order placements; and
+(D) any other use cases the Commission determines appropriate;
+
+
+(2) statues, regulations, and agency guidance, or the lack thereof, impacting development and use of AI;
+
+
+(3) current use cases of AI by the Commission in supervision and other areas where AI applications would be uniquely suited but are not currently being deployed; and
+
+
+(4) any challenges the Commission has in leveraging AI and in hiring or retaining staff with expertise in AI technology and potential solutions to overcome such challenges.
+
+
+(b) Recommendations.—The report required under subsection (a) shall include regulatory proposals and legislative recommendations that facilitate the responsible adoption of AI within the financial services industry.
+
+
+(c) Public input.—The Commission shall—
+
+
+(1) publish a request for information to collect public input to inform the drafting of the report required under subsection (a); and
+
+
+(2) consult with self-regulatory organizations to inform the drafting of the report under subsection (a).
+
+
+SEC. 4. Study on AI benefits and risks by housing and mortgage regulators.
+
+
+(a) Report required.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Housing and Urban Development, the Administrator of the Rural Housing Service of the Department of Agriculture, the Director of the Federal Housing Finance Agency, and the Director of the Bureau of Consumer Financial Protection shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and publish publicly, a report that examines—
+
+
+(1) realized and potential benefits and risks of AI technology, including—
+(A) the use of AI to create efficiencies for homebuyers in evaluating, comparing, and obtaining a mortgage loan and in sustaining their homeownership over time;
+(B) the use of AI to enhance the accuracy, efficiency, and fairness of credit decisions, particularly for homebuyers in underserved communities;
+(C) the use of AI to enhance the effectiveness of risk management and compliance within the housing finance system, including for compliance with Federal fair lending laws;
+(D) the use of AI by real estate agents;
+(E) the use of AI in the marketing and outreach to retail customers regarding housing products;
+(F) the use of AI in property management;
+(G) the use of AI by landlords;
+(H) the use of AI by online housing platforms;
+(I) the use of AI by mortgage servicers;
+(J) the use of AI in mortgage underwriting and servicing; and
+(K) any other use cases such agency heads determine appropriate;
+
+
+(2) statues, regulations, and agency guidance, or the lack thereof, impacting development and implementation of AI;
+
+
+(3) current use cases of AI by such agencies in supervision and other areas where AI applications would be uniquely suited but are not currently being deployed; and
+
+
+(4) any challenges such agencies have in leveraging AI and hiring or retaining staff with expertise in AI technology and potential solutions to overcome such challenges.
+
+
+(b) Recommendations.—The report required under subsection (a) shall include regulatory proposals and legislative recommendations that facilitate the responsible adoption of AI within the housing industry and the housing finance industry.
+
+
+(c) Public input.—The agency heads described under subsection (a) shall publish a request for information to collect public input to inform the drafting of the report required under subsection (a).
+
+
+SEC. 5. Study on AI benefits and risks in securing the U.S. financial system from national security threats.
+
+
+(a) Report required.—Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and publish publicly, a report that examines—
+
+
+(1) realized and potential benefits and risks of AI technology, including—
+(A) the use of AI by financial institutions (as defined in section 5312(a) of title 31, United States Code) to meet the institutions’ obligations under the Bank Secrecy Act and sanctions laws; and
+(B) the use of AI by financial institutions to protect against cybersecurity threats and to respond to cybersecurity attacks;
+
+
+(2) statues, regulations, and agency guidance impacting development and use of AI by financial institutions to comply with the Bank Secrecy Act and sanctions laws;
+
+
+(3) current use cases of AI by the Department of the Treasury and areas where AI applications would be uniquely suited but are not currently being deployed; and
+
+
+(4) any challenges the Department of Treasury has in leveraging AI and hiring or retaining staff with expertise in AI technology and potential solutions to overcome such challenges.
+
+
+(b) Recommendations.—The report required under subsection (a) shall include regulatory proposals and legislative recommendations that facilitate the responsible adoption of AI within the financial services industry.
+
+
+(c) Public input.—
+
+
+(1) The Secretary shall publish a request for information to collect public input to inform the drafting of the report required under subsection (a).
+
+
+(2) The Secretary shall consult with the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation Board, the Comptroller of the Currency, the Director of the Bureau of Consumer Financial Protection, and the National Credit Union Administration Board to inform the drafting of the report required under subsection (a).
+
+
+SEC. 6. Definitions.
+
+
+In this Act:
+
+
+(1) AI.—The term “AI” has the meaning given the term “artificial intelligence” under section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+
+
+(2) BANK SECRECY ACT.—The term “Bank Secrecy Act” means—
+
+
+(A) section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b);
+
+
+(B) chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951 et seq.); and
+
+
+(C) subchapter II of chapter 53 of title 31, United States Code.

@@ -1,0 +1,30 @@
+An act relating to artificial intelligence use in political advertising; creating s. 106.145, F.S.; providing a definition; requiring certain political advertisements, electioneering communications, or other miscellaneous advertisements to include a specified disclaimer; specifying requirements for the disclaimer; providing for criminal and civil penalties; authorizing any person to file certain complaints; providing for expedited hearings; providing an effective date.
+
+
+Be It Enacted by the Legislature of the State of Florida:
+
+
+Section 1. Section 106.145, Florida Statutes, is created to read:
+106.145 Use of artificial intelligence.—
+
+
+(1) As used in this section, the term "generative artificial intelligence" means a machine-based system that can, for a given set of human-defined objectives, emulate the structure and characteristics of input data in order to generate derived synthetic content including images, videos, audio, text, and other digital content.
+
+
+(2) If a political advertisement, an electioneering communication, or other miscellaneous advertisement of a political nature contains images, video, audio, graphics, or other digital content created in whole or in part with the use of generative artificial intelligence, if the generated content appears to depict a real person performing an action that did not actually occur, and if the generated content was created with intent to injure a candidate or to deceive regarding a ballot issue, the political advertisement, electioneering communication, or other miscellaneous advertisement must prominently state the following disclaimer: "Created in whole or in part with the use of generative artificial intelligence (AI)." The disclaimer required in this section is in addition to any other disclaimer required under this chapter.
+
+
+(3) The disclaimer must:
+(a) For a printed communication, be stated in bold font with a font size of at least 12 points.
+(b) For a television or video communication, be clearly readable throughout the communication and occupy at least 4 percent of the vertical picture height.
+(c) For an Internet public communication that includes text or graphic components, be viewable without the user taking any action and be large enough to be clearly readable.
+(d) For any audio component of a communication, be at least 3 seconds in length and spoken in a clearly audible and intelligible manner at either the beginning or the end of the audio component of the communication.
+(e) For a graphic communication, be large enough to be clearly readable but no less than 4 percent of the vertical height of the communication.
+
+
+(4)(a) In addition to any civil penalties provided by law, a person identified pursuant to another disclaimer required under this chapter as paying for, sponsoring, or approving a political advertisement, an electioneering communication, or other miscellaneous advertisement of a political nature which is required to contain the disclaimer prescribed in this section and who fails to include the required disclaimer commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(b) Any person may file a complaint with the Florida Elections Commission pursuant to s. 106.25 alleging a violation of this section. The commission shall adopt rules to provide an
+66 expedited hearing of complaints filed under this section, or, in cases referred to the Division of Administrative Hearings pursuant to s. 106.25(5), the director shall assign an administrative law judge to provide an expedited hearing.
+
+
+Section 2. This act shall take effect July 1, 2024.

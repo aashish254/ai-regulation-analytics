@@ -1,0 +1,125 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Act of 2025”.
+
+SEC. 2. Findings.
+
+Congress finds the following:
+
+(1) On January 1, 2025, a devastating vehicular terrorist attack occurred on Bourbon Street in New Orleans, Louisiana, when an assailant inspired by the Islamic State drove a vehicle into a crowd and engaged in a shootout with law enforcement. This tragic incident resulted in the loss of fifteen lives and injuries to at least thirty-five others, including two police officers.
+
+(2) Vehicle-ramming attacks and other vehicular terrorist incidents represent an enduring and evolving threat to public safety in the United States and around the world, targeting innocent civilians and first responders.
+
+(3) These attacks, carried out by both organized terrorist groups and individual actors, often aim to exploit high-density public gatherings, critical infrastructure, and key transportation hubs, causing mass casualties and widespread disruption.
+
+(4) Emerging automotive technologies, such as autonomous vehicles, Advanced Driver Assistance System (ADAS) capabilities, and ride-sharing platforms, create new vulnerabilities that could be leveraged by malicious actors to conduct sophisticated vehicle-based attacks.
+
+(5) The Department of Homeland Security, through agencies like the Transportation Security Administration and the Cybersecurity and Infrastructure Security Agency, plays a vital role in detecting, assessing, and mitigating the risks associated with vehicle-based threats.
+
+(6) Strengthened coordination between Federal, State, local, Tribal, territorial, and private sector stakeholders is essential to enhance prevention, preparedness, and response efforts, ensuring the safety of communities across the nation.
+
+SEC. 3. Report on emerging threats and countermeasures related to vehicular terrorism.
+
+(a) Report.—
+
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, in coordination with the Administrator of the Transportation Security Administration and the Director of the Cybersecurity and Infrastructure Security Agency, shall submit to the appropriate congressional committees a report on the Department of Homeland Security’s efforts to prevent, deter, and respond to vehicular terrorism.
+
+(2) ELEMENTS.—The report under paragraph (1) shall include the following:
+
+(A) An assessment of the current and emerging threats posed by vehicular terrorism, as well as the following:
+
+(i) An analysis of the methods, tactics, and motivations used by perpetrators of vehicular terrorism.
+
+(ii) An evaluation of domestic and international trends in vehicular terrorism.
+
+(iii) An identification of potential future threats related to the misuse of connected or autonomous vehicles, Advanced Driver Assistance System (ADAS) -equipped vehicles, ride-sharing services, and advancements in automotive technologies, including cybersecurity threats to underlying software technologies (including artificial intelligence-enabled technologies) powering autonomous vehicles.
+
+(B) A review of higher-risk locations and events that may be vulnerable to vehicular terrorism, including the following:
+
+(i) Critical infrastructure sites such as the following:
+
+(I) Airports.
+
+(II) Seaports.
+
+(III) Federal, State, local, Tribal, and territorial government facilities.
+
+(IV) Power plants.
+
+(V) Substations.
+
+(VI) Oil refineries.
+
+(VII) Public transportation hubs.
+
+(VIII) Healthcare facilities.
+
+(ii) Soft-targets and crowded spaces, including mass gatherings and widely attended events such as parades, concerts, sporting events, political rallies, holiday markets, places of worship, authorized protests, and ceremonial events.
+
+(iii) High-density urban areas with limited physical security measures such as pedestrianized city centers, commercial districts, residential neighborhoods, public parks, recreational areas, educational institutions, and tourist destinations.
+
+(C) A comprehensive summary of actions taken by the Department of Homeland Security, the Transportation Security Administration, and the Cybersecurity and Infrastructure Security Agency to research measures that prevent, deter, and respond to vehicular terrorism, including the following:
+
+(i) The identification and coordination with State, local, Tribal, and territorial governments and industry partners for the strategic placement of physical barriers, bollards, and other protective infrastructure at higher-risk locations.
+
+(ii) The research, testing, and deployment of geofencing, surveillance systems, cybersecurity measures, and other technologies designed to monitor, restrict, and manage vehicle access to such higher-risk locations.
+
+(iii) The creation of real-time response strategies and operational plans to neutralize vehicular terrorism, including ongoing research into best practices for threat detection, incident management, and threat containment.
+
+(D) An evaluation of the Department’s engagement with private and public sector stakeholders to address risks of vehicular terrorism, including the following:
+
+(i) Collaboration with vehicle rental companies, ride-sharing platforms, vendors of connected, autonomous, and ADAS technologies, freight operators, and automotive manufacturers.
+
+(ii) Development of industry-specific best practices to prevent the misuse of vehicles.
+
+(iii) Protocols for sharing threat intelligence and security guidance with private sector partners.
+
+(E) A description of the Department’s coordination efforts with Federal, State, local, Tribal, and territorial law enforcement agencies to prevent vehicular terrorism, including the following:
+
+(i) Mechanisms for sharing threat intelligence and situational awareness.
+
+(ii) Guidance provided to such law enforcement agencies regarding implementing countermeasures, such as traffic control measures and rapid vehicle containment protocols.
+
+(iii) Joint exercises and training programs to enhance interagency preparedness and response.
+
+(iv) Efforts to equip law enforcement, first responders, and private sector partners with the knowledge and skills to recognize and respond to vehicular terrorism, including the development of specialized curricula addressing emerging threats, such as connected or autonomous vehicles and other advanced technologies.
+
+(v) Outreach efforts to ensure that smaller jurisdictions have access to necessary training resources and public safety awareness tools.
+
+(F) Recommendations for the research, development, and deployment of technologies to detect, deter, and mitigate vehicular terrorism, including the following:
+
+(i) Vehicle immobilization systems and remote disablement technologies.
+
+(ii) Predictive analytics and threat detection software that incorporate artificial intelligence and machine learning algorithms to identify and flag in real time anomalous or suspicious vehicle behavior, as well as associated technologies to disable or divert a vehicle before it becomes a threat.
+
+(iii) Innovations in cybersecurity to prevent the hacking or misuse of connected, autonomous, or ADAS-equipped vehicles.
+
+(G) A description of the Department’s engagement with privacy, civil rights, and civil liberties stakeholders to ensure all countermeasures and technologies, including artificial-intelligence and machine learning algorithms, deployed to prevent vehicular terrorism are implemented in a manner that respects individual rights and freedoms.
+
+(H) A review of the Department’s public awareness initiatives focused on the following:
+
+(i) Educating the public on recognizing suspicious vehicle-related behavior and reporting potential threats.
+
+(ii) Building trust and fostering collaboration between communities and law enforcement agencies.
+
+(iii) Enhancing resilience by encouraging community-based security measures.
+
+(I) Such other elements as the Secretary of Homeland Security considers appropriate.
+
+(3) FORM.—The report under paragraph (1) shall be submitted in classified form, but may include an unclassified executive summary.
+
+(4) PUBLICATION.—The unclassified executive summary of the report required under paragraph (1) shall be published on a publicly accessible website of the Department of Homeland Security.
+
+(b) Annual briefings.—Not later than 30 days after the submission of the report under subsection (a), the Secretary of Homeland Security shall provide to the appropriate congressional committees a briefing on the findings, conclusions, and recommendations of such report.
+
+(c) Definitions.—In this section:
+
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+
+(A) the Committee on Homeland Security of the House of Representatives; and
+
+(B) the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+(2) VEHICULAR TERRORISM.—The term “vehicular terrorism” means an action that utilizes automotive transportation to commit terrorism (as such term is defined in section 2(18) of the Homeland Security Act of 2002 (6 U.S.C. 101(18))).

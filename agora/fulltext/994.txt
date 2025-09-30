@@ -1,0 +1,320 @@
+ SEC. 615. DETERRING AMERICA’S TECHNOLOGICAL ADVERSARIES.
+
+
+(a) Short Title.—This section may be cited as the “Deterring America’s Technological Adversaries Act” or the “DATA Act”.
+
+
+(b) Findings.—Congress finds the following:
+
+
+(1) On December 2, 2022, the Director of the Federal Bureau of Investigation, Christopher Wray, stated, “We … do have national security concerns about the app TikTok. Its parent company is controlled by the Chinese government. And it gives them the potential to leverage the app in ways that I think should concern us … One, it gives them the ability to control the recommendation algorithm which allows them to manipulate content and if they want to, to use it for influence operations which are a lot more worrisome in the hands of the Chinese Communist Party than whether or not you’re steering somebody as an influencer to one product or another. They also have the ability to collect data through it on users which can be used for traditional espionage operations, for example. They also have the ability on it to get access, they have essentially access to the software to devices. So you’re talking about millions of devices and that gives them the ability to engage in different kinds of malicious cyber activity through that. And so all of these things are in the hands of a government that doesn’t share our values and that has a mission that’s very much at odds with what’s in the best interest of the United States that that should concern us.”.
+
+
+(2) On December 3, 2022, the Director of National Intelligence, Avril Haines, “It is extraordinary the degree to which China, in particular, but they’re not the only ones, obviously, are developing just frameworks for collecting foreign data and pulling it in and their capacity to then turn that around and use it to target audiences for information campaigns or for other things, but also to have it for the future so that they can use it for a variety of means that they’re interested in.”.
+
+
+(3) On December 16, 2022, the Director of Central Intelligence, Bill Burns, stated, “I think it’s a genuine concern … for the U.S. government, in the sense that, because the parent company of TikTok is a Chinese company, the Chinese government is able to insist upon extracting the private data of a lot of TikTok users in this country, and also to shape the content of what goes on to TikTok as well to suit the interests of the Chinese leadership … What I would underscore, though, is that it’s genuinely troubling to see what the Chinese government could do to manipulate TikTok.”.
+
+
+(4) On December 23, 2022, both chambers of Congress passed a bipartisan spending bill that included a ban on using TikTok from Government devices.
+
+ (c) Authorization Of Appropriations.—No additional amounts are authorized to be made available to carry out this section.
+
+
+(d) Severability.—If any provision of this section or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this section that can be given effect without the invalid provision or application, and to this end the provisions of this section are severable.
+
+ (e) Definitions.—In this section:
+
+
+(1) AGENCY OR INSTRUMENTALITY OF A FOREIGN STATE.—The term “agency or instrumentality of a foreign state” has the meaning given such term under section 1603(b) of title 28, United States Code.
+
+
+(2) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+
+
+(A) the Committee on Foreign Affairs, Committee on Ways and Means, and the Committee on Financial Services of the House of Representatives; and
+
+
+(B) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+
+(3) CHINA.—The term “China” means—
+
+
+(A) when used in the geographic sense, the country of the People’s Republic of China; and
+
+
+(B) otherwise, the Government of the country of the People’s Republic of China, including any entity acting on behalf of, or the benefit of—
+
+
+(i) the country of the People’s Republic of China; or
+
+
+(ii) the Government of the country of the People’s Republic of China.
+
+
+(4) CONNECTED SOFTWARE APPLICATION.—The term “connected software application” has the meaning given such term in Executive Order 14034 (86 Fed. Reg. 31423; relating to protecting Americans’ sensitive data from foreign adversaries).
+
+
+(5) ELECTION INTERFERENCE IN OR AGAINST A FOREIGN COUNTRY THAT IS A TREATY ALLY OF THE UNITED STATES OR A DEMOCRATIC OR EMERGING DEMOCRATIC PARTNER OF THE UNITED STATES.—The term “election interference in or against a foreign country that is a treaty ally of the United States or a democratic or emerging democratic partner of the United States” means actions to engage in, directly or indirectly, activities originating from, or directed by, persons located, in whole or in substantial part, outside the territory of a treaty ally of the United States or a democratic or emerging democratic partner of the United States that have the purpose or effect of tampering with, altering, unlawfully accessing, or causing a misappropriation of information with the purpose or effect of interfering with or undermining election processes or institutions.
+
+
+(6) ELECTION INTERFERENCE IN OR AGAINST THE UNITED STATES.—The term “election interference in or against the United States” includes actions to engage in, directly or indirectly, activities originating from, or directed by persons located, in whole or in substantial part, outside the United States that—
+
+
+(A) have the purpose or effect of tampering with, altering, unlawfully accessing, or causing a misappropriation of information with the purpose or effect of undermining election processes or institutions;
+
+
+(B) deny access, block, degrade, or alter election and campaign infrastructure, or related systems or data related to political parties, candidates in elections for public office, the administration of elections for public office, or any public election activity; or
+
+
+(C) consist of the making of contributions or donations, or any other activity prohibited under section 319 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121), with the purpose or effect of undermining election processes or institutions.
+
+
+(7) FOREIGN PERSON.—The term “foreign person”—
+
+
+(A) means a person that is not a United States person; and
+
+
+(B) includes a nonresident alien individual, foreign corporation, foreign partnership, foreign trust, or foreign estate.
+
+
+(8) KNOWINGLY.—The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+
+(9) SENSITIVE PERSONAL DATA.—The term “sensitive personal data” has the meaning given such term in section 7.2 of title 15, Code of Federal Regulations (or any successor regulation).
+
+
+(10) TREATY ALLY OF THE UNITED STATES.—The term “treaty ally of the United States” means a foreign country that is a party to any of the following:
+
+
+(A) The North Atlantic Treaty, signed at Washington, April 4, 1949.
+
+
+(B) The Security Treaty Between Australia, New Zealand, and the United States of America, signed at San Francisco, September 1, 1951.
+
+
+(C) The Mutual Defense Treaty Between the United States of America and the Republic of the Philippines, signed at Washington, August 30, 1951.
+
+
+(D) The Southeast Asia Collective Defense Treaty, signed at Manila, September 8, 1954.
+
+
+(E) The Treaty of Mutual Cooperation and Security Between the United States of America and Japan, signed at Washington, January 19, 1960.
+
+
+(F) The Mutual Defense Treaty Between the United States of America and the Republic of Korea, signed at Washington, October 1, 1953.
+
+
+(11) UNITED STATES PERSON.—The term “United States person” means—
+
+
+(A) a United States citizen;
+
+
+(B) a permanent resident alien;
+
+
+(C) an entity organized under the laws of the United States (including foreign branches); or
+
+
+(D) any person in the United States.
+
+ (f) Clarification Of Non-Applicability For Regulation And Prohibition Relating To Sensitive Personal Data Under International Emergency Economic Powers Act.—
+
+
+(1) CLARIFICATION.—
+
+
+(A) IN GENERAL.—The importation to a country, or the exportation from a country, of sensitive personal data shall not constitute the importation from a country, or the exportation to a country, of information or informational materials for purposes of paragraph (1) or (3) of section 203(b) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)).
+
+
+(B) RULE OF CONSTRUCTION.—Nothing in paragraph (1), and nothing in the International Emergency Economic Powers Act, may be construed to provide for the application of paragraph (1) or (3) of section 203(b) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)) to the importation to China, or the exportation from China, directly or indirectly, of sensitive personal data.
+
+
+(2) DIRECTIVE.—Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall issue a directive prohibiting United States persons from engaging in any transaction with a person that the Secretary of the Treasury determines knowingly provides or may transfer sensitive personal data of persons subject to United States jurisdiction to any foreign person that—
+
+
+(A) is subject to the jurisdiction or direction of, or directly or indirectly operating on behalf of, China; or
+
+
+(B) is owned by, directly or indirectly controlled by, or is otherwise subject to the influence of China.
+
+ (g) Imposition Of Sanctions On Certain Transactions Relating To Connected Software Applications.—
+
+
+(1) IMPOSITION OF SANCTIONS.—
+
+
+(A) IN GENERAL.—The President shall impose the sanction described in paragraph (2) with respect to any foreign person that, on or after the date of the enactment of this Act, knowingly—
+
+
+(i) operates, directs, or otherwise deals in a connected software application that—
+
+
+(I) is subject to the jurisdiction or direction of, or directly or indirectly operating on behalf of China, or is owned by, directly or indirectly controlled by, or otherwise subject to the influence of China; and
+
+
+(II) is reasonably believed to have facilitated or may be facilitating or contributing to China’s—
+
+
+(aa) military, intelligence, espionage, or weapons proliferation activities;
+
+
+(bb) censorship activities;
+
+
+(cc) surveillance activities;
+
+
+(dd) control or use of recommendation algorithms that are capable of manipulating content;
+
+
+(ee) malicious cyber activities; or
+
+
+(ff) use of data to target audiences for information campaigns;
+
+
+(ii) directly or indirectly orders, controls, directs, engages in, or otherwise facilitates an act of election interference against the United States;
+
+
+(iii) directly or indirectly orders, controls, directs, engages in, or otherwise facilitates an act of election interference in or against a foreign country that is—
+
+
+(I) a treaty ally of the United States; or
+
+
+(II) a democratic or emerging democratic partner of the United States;
+
+
+(iv) directly or indirectly orders, controls, directs, engages in, or otherwise facilitates an act of steering United States policy and regulatory decisions in favor of China’s strategic objectives, to the detriment of the economic or national security of the United States;
+
+
+(v) knowingly facilitates a transaction or transactions for or on behalf of a person described, or a person that has engaged in the activity described, as the case may be, in clause (i), (ii), (iii), (iv);
+
+
+(vi) knowingly assists, sponsors, or provides financial, material, or technological support for a person described, or a person that has engaged in the activity described, as the case may be, in clause (i), (ii), (iii), (iv);
+
+
+(vii) is owned or controlled by, or has acted for or on behalf of, directly or indirectly, a person described, or a person that has engaged in the activity described, as the case may be, in clause (i), (ii), (iii), (iv).
+
+
+(B) LIST OF FOREIGN COUNTRIES THAT ARE DEMOCRATIC OR EMERGING DEMOCRATIC PARTNERS OF THE UNITED STATES.—
+
+
+(i) IN GENERAL.—Not later than 90 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees—
+
+
+(I) a definition of the term “democratic or emerging democratic partner of the United States”; and
+
+
+(II) a list of foreign countries that are designated as a democratic or emerging democratic partner of the United States for purposes of subparagraph (A)(iii) that includes the countries listed in clause (ii).
+
+
+(ii) INITIAL DESIGNATIONS.—Sweden, Switzerland, Israel, India, and Taiwan shall be deemed to have been so designated as a democratic or emerging democratic partner of the United States for purposes of subparagraph (A)(iii).
+
+
+(iii) UPDATES.—The President shall submit to the appropriate congressional committees an updated list under subclause (I) on a periodic basis.
+
+
+(2) SANCTION DESCRIBED.—
+
+
+(A) IN GENERAL.—The sanction described in this paragraph is the exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50 U.S.C. 1701) shall not apply) to the extent necessary to block and prohibit all transactions in all property and interests in property of any foreign person or an agency or instrumentality of a foreign state, as the case may be, if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+
+(B) IMPLEMENTATION.—The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+
+
+(C) REGULATIONS.—
+
+
+(i) IN GENERAL.—The President shall prescribe such regulations as may be necessary for the implementation of this section.
+
+
+(ii) PRIOR BRIEFING REQUIRED.—Not later than 10 days before the prescription of regulations under clause (i), the President shall brief the appropriate congressional committees regarding the proposed regulations and the provisions of this section that such regulations are implementing.
+
+
+(D) PENALTIES.—A person that violates, attempts to violate, or causes a violation of any sanction authorized by this section, or any regulation, license, or order issued to carry out such sanctions, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+
+(E) EXCEPTIONS.—The following activities shall not be subject to the imposition of sanctions under this section:
+
+
+(i) Any authorized intelligence, law enforcement, or national security activities of the United States.
+
+
+(ii) Any transaction necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United States, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, or the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or any other United States international agreement.
+
+
+(F) WAIVER.—The President may, on a case-by-case basis and for periods not to exceed 180 days each, waive the application of sanctions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees, not later than 15 days before such waiver is to take effect, that the waiver is vital to the national security interests of the United States.
+
+
+(3) SUNSET.—This section, and the authorities provided by this section, shall terminate on the date that is 5 years after the date of the enactment of this Act.
+
+ (h) Specific Determinations With Respect To The Imposition Of Sanctions.—
+
+
+(1) DETERMINATION RELATING TO BYTEDANCE, LTD., TIKTOK, AND RELATED ENTITIES.—
+
+
+(A) IN GENERAL.—Not later than 90 days after the date of the enactment of this Act, and every 180 days thereafter for 3 years, the President shall transmit to the appropriate congressional committees a determination of whether reasonable grounds exist for concluding that any of the entities described in subparagraph (B)—
+
+
+(i) meets the criteria described in subparagraph (A) or (B) of subsection (f)(2) for purposes of applying a directive described in such section with respect to the entity; or
+
+
+(ii) have engaged in any conduct described in subsection (g)(1).
+
+
+(B) ENTITIES DESCRIBED.—The entities described in this subsection are—
+
+
+(i) Bytedance, Ltd.;
+
+
+(ii) TikTok;
+
+
+(iii) any subsidiary of or a successor to an entity described in clause (i) or (ii); and
+
+
+(iv) any entity owned or controlled directly or indirectly by an entity described in clause (i), (ii), or (iii).
+
+
+(C) FORM.—The determination described in subparagraph (A) shall be transmitted in unclassified form, and any supporting documentation may be transmitted in a classified annex.
+
+
+(D) APPLICATION OF SANCTIONS.—If the President makes an affirmative decision under subparagraph (A) with respect to any entity described in subparagraph (B), the President shall impose the sanction described in subsection (g)(2) with respect to the entity, as appropriate.
+
+
+(2) REQUESTS BY APPROPRIATE CONGRESSIONAL COMMITTEES.—
+
+
+(A) IN GENERAL.—Not later than 120 days after receiving a request from the chairperson or ranking member of one or more of the appropriate congressional committees with respect to whether a foreign person meets the criteria described in subparagraph (A) or of subsection (f)(2) for purposes of applying a directive described in such section with respect to the person, or have engaged in any conduct described in section 201 for the imposition of the sanction described in subsection (g)(2), the President shall—
+
+
+(i) determine if that person meets the requirements described in the applicable section; and
+
+
+(ii) submit to the chairperson and ranking member of the committee or committees a report that includes—
+
+
+(I) a statement of whether or not the President imposed or intends to impose such sanction with respect to the person; and
+
+
+(II) if applicable, a description of the sanction so imposed or intended to be imposed.
+
+
+(B) AVAILABILITY OF INFORMATION.—
+
+
+(i) IN GENERAL.—Any information obtained at any time with respect to the President making a determination with respect to a foreign person under subparagraph (A), or under any review of the foreign person through other United States Government national security review processes, shall be made available to a committee or subcommittee of Congress of appropriate jurisdiction, upon the request of the chairman or ranking minority member of such committee or subcommittee.
+
+
+(ii) PROHIBITION ON DISCLOSURE.—No such committee or subcommittee, or member thereof, may disclose any information made available under clause (i), that is submitted on a confidential basis unless the full committee determines that the withholding of that information is contrary to the national interest.
+
+
+(C) FORM.—Each determination described in subparagraph (A)(i), and each report under subparagraph (A)(ii), may be submitted in classified or unclassified form, and any supporting documentation to such determination or report may contain a classified annex.

@@ -1,0 +1,57 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Know Your App Act”.SEC. 2. FINDINGS; SENSE OF CONGRESS.
+(a) Findings.—Congress finds the following:
+(1) Minors engaging with internet-linked applications face heightened susceptibility to privacy risks and potential exploitation through those applications. It is crucial for parents and guardians to possess comprehensive knowledge about the applications being accessed so that they can make informed decisions to protect their children.
+(2) Many users are unaware of the country of origin of the applications they download and use, as well as the data handling practices of the developers behind those applications. This lack of transparency can lead to potential risks for users, including exposure to foreign government surveillance, data breaches, and privacy violations. Users have a right to know baseline information on the country of origin so that they can personally make decisions to mitigate the threat to their personal and biometric information.
+(3) The potential for foreign governments to access user data through internet-linked applications presents national security risks. These risks may include the collection of sensitive information, espionage, and potential influence over critical infrastructure.
+(4) Increasing transparency and providing users with the necessary information to make informed decisions about the applications they download can help protect consumer privacy and security.
+(b) Sense Of Congress.—It is the sense of Congress that covered companies and developers already posses the information necessary to provide adequate transparency to consumers.SEC. 3. PUBLIC LISTING OF COUNTRY OF ORIGIN OF APPLICATIONS.
+(a) Definitions.—In this section:
+(1) APPLICATION.—The term “application” means a software application or electronic service that may be run or directed by a user on a computer, a mobile device, or any other general purpose computing device.
+(2) APPLICATION STORE.—The term “application store” means a publicly available website, software application, electronic service, or platform provided by a device manufacturer that—
+(A) distributes applications from third-party developers to users of a computer, a mobile device, or any other general purpose computing device; and
+(B) has more than 20,000,000 users in the United States.
+(3) APPLICATION STORE PAGE.—The term “application store page” means the individual, dedicated listing page within an application store that serves as the primary source of information on a specific application and provides detailed information about the application, including the name of the application, the developer, a description, user ratings and reviews, screenshots or previews, pricing, and system requirements.
+(4) ASSISTANT SECRETARY.—The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.(5) BENEFICIAL OWNER.—The term “beneficial owner”—
+(A) means, with respect to a developer of an application, an individual who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise—
+(i) exercises substantial control over the developer; or
+(ii) owns or controls not less than 25 percent of the ownership interests of the developer; and
+(B) does not include—
+(i) a minor child, as defined in the State in which the entity is formed, if the information of the parent or guardian of the minor child is reported in accordance with this section;
+(ii) an individual acting as a nominee, intermediary, custodian, or agent on behalf of another individual;
+(iii) an individual acting solely as an employee of a corporation, limited liability company, or other similar entity and whose control over or economic benefits from such entity is derived solely from the employment status of the individual;
+(iv) an individual whose only interest in a corporation, limited liability company, or other similar entity is through a right of inheritance; or
+(v) a creditor of a corporation, limited liability company, or other similar entity, unless the creditor meets the requirements of subparagraph (A).(6) COUNTRY OF CONCERN.—The term “country of concern” means a country that is on the list described in section 4.
+(7) COUNTRY OF ORIGIN.—The term “country of origin”—
+(A) with respect to the developer of an application, means the country in which the developer is headquartered or principally operates; and
+(B) with respect to the beneficial owner of the developer of an application—
+(i) except as provided in clause (ii), means the country from which the beneficial owner principally exercises control over the developer; and
+(ii) if the beneficial owner exercises any control over the developer from a country of concern, means that country.
+(8) COVERED COMPANY.—The term “covered company” means any person, entity, or organization that owns, controls, or operates an application store that serves customers in the United States.
+(9) DEVELOPER.—The term “developer” means a person that creates, owns, or controls an application and is responsible for the design, development, maintenance, and distribution of the application to end users through an application store.
+(10) PRIMARY COUNTRY OF ORIGIN.—The term “primary country of origin”, with respect to an application—
+(A) except as provided in subparagraph (B), means the country of origin of the developer of the application; and
+(B) if the country of origin of the beneficial owner of the developer of the application is a country of concern, means that country.
+(11) PROMINENT DISPLAY.—The term “prominent display”, with respect to an application store page, means a banner that is immediately and clearly visible when the application store page is accessed.(b) Requirements.—
+(1) PUBLIC LISTING.—The Assistant Secretary shall require a covered company to publicly list, in a prominent display on the application store page, the primary country of origin of each application distributed through an application store owned, controlled, or operated by the covered company.
+(2) PROTECTIONS REGARDING CERTAIN FOREIGN COUNTRIES.—
+(A) FILTER FOR CERTAIN APPLICATIONS.—The Assistant Secretary shall require a covered company to provide users of the covered company's application store with the option to filter out applications whose primary country of origin is a country of concern.
+(B) DISCLAIMER FOR CERTAIN APPLICATIONS.—The Assistant Secretary shall require that if the primary country of origin of an application is a country of concern, a covered company that distributes the application through an application store shall provide a disclaimer, in a prominent display on the application store page, that data from the application could be accessed by a foreign government.(3) UPDATE OF INFORMATION.—
+(A) IN GENERAL.—The Assistant Secretary shall require a developer to notify a covered company whose application store distributes the developer’s application of any change in—
+(i) the country of origin of the developer;
+(ii) the beneficial owner of the developer; or
+(iii) the country of origin of the beneficial owner of the developer.(B) DEVELOPER CERTIFICATION.—
+(i) IN GENERAL.—The Assistant Secretary shall require a developer to certify to each covered company that owns, controls, or operates an application store through which the developer's application is distributed, not less frequently than annually, that the information displayed on the application store page with respect to the application, including primary country of origin and beneficial ownership, is up-to-date.
+(ii) VIOLATIONS.—If a developer violates clause (i)—
+(I) the covered company shall issue the developer a series of not fewer than 3 warnings over a period of not more than 90 days; and
+(II) if the developer does not correct the violation by the date that is 90 days after the date on which the first warning is issued under subclause (I), the covered company shall remove the application of the developer from the application store.
+(4) REPORTING MECHANISM.—The Assistant Secretary shall require a covered company to establish a mechanism that—
+(A) allows a user of the covered company's application store, an employee of a developer whose application is distributed through the covered company's application store, or an associated third party to report a potential violation of this subsection by a developer, including incorrect information displayed on the application store page; and
+(B) allows a report under subparagraph (A) to be made anonymously.
+(5) WRITTEN POLICY FOR APPEALS OF REMOVALS.—The Assistant Secretary shall require a covered company to establish, for any application store owned, controlled, or operated by the covered company, a clear written policy for how a developer can appeal the removal of an application from the application store and have the application be reinstated.SEC. 4. LIST OF FOREIGN COUNTRIES WITH NATIONAL LAWS RESULTING IN GOVERNMENT CONTROL OVER APPLICATIONS.
+(a) In General.—Not later than 180 days after the date of enactment of this Act, and annually thereafter, the Secretary of the Treasury and the Secretary of Commerce shall jointly develop and submit to Congress a list of each foreign country that has in effect a national law that may subject a developer or application to control by the government of the country over content moderation, algorithm design, or user data transfers.
+(b) Publication.—With respect to the list developed under subsection (a)—
+(1) the Secretary of the Treasury shall make the list publicly available on the website of the Department of the Treasury; and
+(2) the Secretary of Commerce shall make the list publicly available on the website of the Department of Commerce.SEC. 5. LIMITATION OF ENFORCEMENT AND REGULATION.
+The Assistant Secretary may not exercise any enforcement authority or regulatory authority over a covered company or developer that is not provided under this Act, including through rulemaking.SEC. 6. ENFORCEMENT.
+The Attorney General may bring a civil action in an appropriate district court of the United States against any covered company that violates this Act.

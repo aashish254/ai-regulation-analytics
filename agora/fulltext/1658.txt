@@ -1,0 +1,51 @@
+AN ACT Relating to the establishment of an autonomous vehicle  work group; adding a new section to chapter 47.01 RCW; creating a new section; and providing an expiration date.3
+
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:
+
+
+NEW SECTION. Sec. 1. A new section is added to chapter 47.01 RCW to read as follows:
+
+
+The commission must convene an executive and legislative work group to develop policy recommendations to address the operation of autonomous vehicles on public roadways in the state, subject to the availability of amounts appropriated for this specific purpose.
+
+
+(1)(a)(i) Executive branch membership of the work group must include, but is not limited to: The governor or his or her designee or designees, the insurance commissioner or his or her designee or designees, the director of the department of licensing or his or her designee or designees, the secretary or his or her designee or designees, the chief of the Washington state patrol or his or her designee or designees, and the director of the traffic safety
+commission or his or her designee or designees.
+(ii) Executive branch membership of the work group may also include: The assistant secretary of the department of social and health services aging and long-term support administration or his or her designee or designees and the deputy director of the department of enterprise services who oversees fleet operations or his or her designee or designees.
+
+
+(b) The president of the senate shall appoint two interested members from each of the two largest caucuses of the senate. The speaker of the house of representatives shall appoint two interested members from each of the two largest caucuses of the house of
+representatives.
+
+
+(c) The commission may invite additional participation on an ongoing, recurring, or one-time basis from individuals representing additional state agencies, local and regional governments, local law enforcement agencies, transit authorities, state colleges and universities, autonomous vehicle technology developers, motor vehicle manufacturers, insurance associations, network providers, software development companies, and other relevant stakeholders as
+appropriate.
+
+
+(2) To prepare for the use of autonomous vehicle technology in the state, the work group, while taking into account the transportation system policy goals established in RCW 47.04.280(1),
+must:
+(a) Follow developments in autonomous vehicle technology, autonomous vehicle deployment, and federal, state, and local policies that relate to the operation of autonomous vehicles, including the federal government's recommendations related to vehicle performance guidance for autonomous vehicles, model state policy, and current and possible federal regulatory tools for the regulation of autonomous vehicles. The scope of the work must include autonomous commercial vehicles, in addition to autonomous passenger vehicles;
+
+
+(b) Explore approaches to the modification of state policy, rules, and laws to further public safety and prepare the state for the emergence and deployment of autonomous vehicle technology. Areas for consideration may include, but are not limited to, manufacturer vehicle testing, vehicle registration and titling requirements, driver's license requirements, rules of the road, criminal law, roadway infrastructure, traffic management, transit, vehicle insurance, tort liability, cybersecurity, privacy, advertising, impacts to social services, and impacts to labor and small
+businesses;
+
+
+(c) Disseminate information, as appropriate, to all interested stakeholders; and
+
+
+(d) At the direction of the legislature, engage the public through surveys, focus groups, and other such means, in order to inform policymakers for the purposes of policy development.
+
+
+(3)(a) The commission must develop and update recommendations annually based on the input provided by the work group. By November 15th of each year, the commission must provide a report to the governor and the relevant committees of the legislature that describes the progress made by the work group and the commission's
+recommendations.
+
+
+(b) The recommendations made by the commission may include proposed modifications to state law and rules to address the emergence and deployment of autonomous vehicle technology in the state.
+
+
+NEW SECTION. Sec. 2. Sections 1 and 3 of this act expire December 31, 2023.
+
+
+NEW SECTION. Sec. 3. The legislature finds that autonomous vehicle technology is rapidly evolving and that the testing and deployment of this technology is advancing at a rapid pace. Washington state's policies, laws, and rules predate autonomous vehicle technology and largely have not been developed in consideration of the operation of this technology on roadways in the state. At both the federal and state level, efforts are underway to begin to establish a framework of policy guidance, laws, and rules that will organize and govern the use of autonomous vehicle technology in the United States. The legislature finds that establishing an autonomous vehicle work group, to be convened by the transportation commission, will facilitate state efforts to address the emergence of autonomous vehicle technology. It is the intent of the legislature for the transportation commission to develop recommendations for policy, laws, and rules for the operation of autonomous vehicles, with input from the autonomous vehicle work group, that enable Washington state to address the public policy changes necessitated by the emergence of this technology in an informed, thorough, and deliberate manner. This effort is required because robot cars are coming, but robot policy makers are not.

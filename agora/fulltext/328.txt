@@ -1,0 +1,30 @@
+SEC. 2501. Corporate citizenship and ownership.
+
+“(a) Definition.—In this section, the term ‘foreign adversary’ has the meaning given the term in section 8(c) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1607(c)).
+
+“(b) Corporate citizenship.—
+
+“(1) IN GENERAL.—An operator of a dominant platform shall—
+
+“(A) be a citizen of the United States; or
+
+“(B) own a subsidiary corporation—
+
+“(i) that is a citizen of the United States; and
+
+“(ii) the number of directors of which who are noncitizens is less than half of the number of directors necessary to constitute a quorum.
+
+“(2) DIRECTORS.—No director of a subsidiary corporation described in paragraph (1)(B) may be a citizen of a foreign adversary.
+“(c) Ownership.—If more than 10 percent of the owners of an operator of a dominant platform are citizens of a foreign adversary, the operator of the dominant platform shall sequester any back-end data, algorithm, or information about United States users on the dominant platform so that the back-end data, algorithm, or information is inaccessible to any subsidiary, affiliate, director, employee, or agent of the operator of the dominant platform that is based outside of the United States.
+
+“(d) Review by Committee on Foreign Investment in the United States.—
+
+“(1) IN GENERAL.—The Committee on Foreign Investment in the United States shall—
+
+“(A) treat the application of a foreign person (as defined in section 800.224 of title 31, Code of Federal Regulations (or a successor regulation)) for a license under title VI as a covered transaction, as defined in subsection (a) of section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565); and
+
+“(B) review and, as appropriate, investigate the application in accordance with the procedures set forth in such section 721.
+
+“(2) DENIAL OF LICENSE.—If the Committee determines pursuant to paragraph (1) that providing a license under title VI to a foreign person threatens to impair the national security of the United States, the Office of Licensing for Dominant Platforms shall deny the application for the license.
+
+“(3) CONSULTATION WITH DEPARTMENT OF JUSTICE.—The Committee may, in its discretion, consult with the National Security Division of the Department of Justice in making a determination under paragraph (1).

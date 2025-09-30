@@ -1,0 +1,24 @@
+SEC. 2412. Duty of care.
+
+“(a) In general.—A covered entity may not design or employ services or algorithms, or process, collect, store, or transfer personal data, in a manner that causes or is likely to cause any of the following:
+
+“(1) Physical, economic, relational, or reputational injury to a person.
+
+“(2) Psychological injuries that would be highly offensive to a reasonable person.
+
+“(3) Discrimination on the basis of a person’s or class of persons’ actual or perceived race, color, ethnicity, sex (including sexual orientation, gender identity, and sex characteristics), religion, national origin, familial status, biometric information, or disability status.
+
+“(4) Discrimination regarding a decision that produces a legal effect or similarly significant effect concerning a person.
+“(b) Definition.—For purposes of subsection (a)(4), the term ‘decision that produces a legal effect or similarly significant effect concerning a person’ includes denial or degradation of consequential services or support, such as financial or lending services, housing, insurance, educational enrollment, criminal justice, employment opportunities, health care services, and access to basic necessities, such as food and water.
+
+“(c) Exceptions.—Subsection (a) shall not apply to—
+
+“(1) the design or employment of services or algorithms, or the processing, collecting, storing, or transferring of personal data, for the purpose of—
+
+“(A) a covered entity’s self-testing to prevent or mitigate unlawful discrimination;
+
+“(B) diversifying an applicant, participant, or customer pool; or
+
+“(C) providing resources for the prevention of harm, consistent with evidence-based medical information; or
+
+“(2) any private club or group not open to the public, as described in section 201(e) of the Civil Rights Act of 1964 (42 U.S.C. 2000a(e)).

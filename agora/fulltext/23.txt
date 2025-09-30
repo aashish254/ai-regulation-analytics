@@ -1,0 +1,43 @@
+SEC. 808. ACQUISITION AUTHORITY OF THE DIRECTOR OF THE JOINT ARTIFICIAL INTELLIGENCE CENTER. 
+
+(a) AUTHORITY.— The Secretary of Defense shall delegate to the Director of the Joint Artificial Intelligence Center the acquisition authority to exercise the functions of a head of an agency (as defined in section 2302 of title 10, United States Code) with respect to appropriate acquisition activities of the Center.
+ (b) JAIC ACQUISITION EXECUTIVE.— 
+(1) IN GENERAL.—The staff of the Director shall include an acquisition executive who shall be responsible for the supervision of appropriate acquisition activities under subsection (a). Subject to the authority, direction, and control of the Director of the Center, the acquisition executive shall have the authority— 
+(A) to negotiate memoranda of agreement with any element of the Department of Defense to carry out the acquisition of technologies, services, and capabilities developed or identified by the Center; 
+(B) to supervise the acquisition of technologies, services, and capabilities to support the mission of the Center; 
+(C) to represent the Center in discussions with the Secretaries concerned regarding acquisition programs relating to such appropriate acquisition activities for which the Center is involved; and 
+(D) to work with the Secretaries concerned to ensure that the Center is appropriately represented in any joint working group or integrated product team regarding acquisition programs relating to such appropriate activities for which the Center is involved. 
+(2) DELIVERY OF ACQUISITION SOLUTIONS.— The acquisition executive of the Center shall be— 
+(A) responsible to the Director for rapidly delivering capabilities to meet validated requirements; 
+(B) subordinate to the Under Secretary of Defense for Acquisition and Sustainment in matters of acquisition; and 
+(C) included on the distribution list for acquisition directives and instructions of the Department of Defense. 
+(c) ACQUISITION PERSONNEL.— 
+(1) IN GENERAL.—The Secretary of Defense shall provide the Center with at least 10 full-time employees to support the Director in carrying out the requirements of this section, including personnel with experience in— 
+(A) acquisition practices and processes; 
+(B) the Joint Capabilities Integration and Development System process; 
+(C) program management; 
+(D) software development and systems engineering; and 
+(E) cost analysis. 
+(2) EXISTING PERSONNEL.—The personnel provided under this subsection shall be provided from among the existing personnel of the Department of Defense. 
+
+(d) FUNDING.—In exercising the acquisition authority granted in subsection (a), the Director may not obligate or expend more than $75,000,000 out of the funds made available in each of fiscal years 2021, 2022, 2023, 2024, and 2025 to enter into new contracts to support appropriate acquisition activities carried out under this section. 
+(e) IMPLEMENTATION PLAN AND DEMONSTRATION REQUIRED.— 
+(1) IN GENERAL.—The Secretary of Defense— 
+(A) may use the acquisition authority granted under subsection (a) on or after 30 days after the date on which the Secretary provides to the congressional defense committees a plan for implementation of such authority; and 
+(B) by March 15, 2022, shall provide a demonstration of operational capability delivered under such authority. 
+(2) IMPLEMENTATION PLAN.—The plan shall include the fol.lowing: 
+(A) Description of the types of activities to be undertaken using the acquisition authority provided under subsection (a). 
+(B) Plan for the negotiation and approval of any such memorandum of agreement with an element of the Department of Defense to support Center missions and transition of artificial intelligence capabilities into appropriate acquisition programs or into operational use. 
+(C) Plan for oversight of the position of acquisition executive established in subsection (b). 
+(D) Assessment of the acquisition workforce, tools, and infrastructure needs of the Center to support the authority under subsection (a) until September 30, 2025. 
+(E) Other matters as appropriate. 
+(3) DEMONSTRATION.—The capability demonstration shall include a description of how the acquisition authority enabled the capability, how requirements were established and agreed upon, how testing was conducted, and how the capability was transitioned to the user, as well as any other matters deemed appropriate by the Center. 
+(4) RELATIONSHIP TO OTHER AUTHORITIES.—The requirement to submit a plan under this subsection is in addition to the requirements under section 260 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1293). 
+
+(f) SUNSET.—Effective October 1, 2025, the Director may not exercise the authority under subsection (a) and may not enter into any new contracts under this section. The performance on any contract entered into before such date may continue according to the terms of such contract. 
+
+(g) DEFINITIONS.—In this section: 
+(1) CENTER.—The term ‘‘Center’’ has the meaning given the term ‘‘Joint Artificial Intelligence Center’’ in section 260(c) of National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1294). 
+(3) DIRECTOR.—The term ‘‘Director’’ means the Director of the Center. 
+(4) ELEMENT.—The term ‘‘element’’ means an element described under section 111(b) of title 10, United States Code. 
+(5) SECRETARY CONCERNED.—The term ‘‘Secretary concerned’’ has the meaning given in section 101(9) of title 10, United States Code.

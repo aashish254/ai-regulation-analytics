@@ -1,0 +1,677 @@
+AN ACT
+ 	relating to the regulation of the use of artificial intelligence
+ 	systems in this state; providing civil penalties.
+ 	       BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+ 	       SECTION 1.  This Act may be cited as the Texas Responsible
+ 	Artificial Intelligence Governance Act
+ 	       SECTION 2.  Title 11, Business & Commerce Code, is amended by
+ 	adding Subtitle D to read as follows:
+ 	SUBTITLE D. ARTIFICIAL INTELLIGENCE PROTECTION
+ 	CHAPTER 551. ARTIFICIAL INTELLIGENCE PROTECTION
+ 	SUBCHAPTER A. GENERAL PROVISIONS
+ 	       Sec. 551.001.  DEFINITIONS. In this chapter:
+ 	             (1)  "Artificial intelligence system" means the use of
+ 	machine learning and related technologies that use data to train
+ 	statistical models for the purpose of enabling computer systems to
+ 	perform tasks normally associated with human intelligence or
+ 	perception, such as computer vision, speech or natural language
+ 	processing, and content generation.
+ 	             (2)  "Biometric identifier" means a retina or iris
+ 	scan, fingerprint, voiceprint, or record of hand or face geometry.
+ 	             (3)  "Council" means the Artificial Intelligence
+ 	Council established under Chapter 553.
+ 	             (4)  "Consumer" means an individual who is a resident
+ 	of this state acting only in an individual or household context.
+ 	The term does not include an individual acting in a commercial or
+ 	employment context.
+ 	             (5)  "Deploy" means to put into effect or
+ 	commercialize.
+ 	             (6)  "Deployer" means a person doing business in this
+ 	state that deploys an artificial intelligence system.
+ 	             (7)  "Developer" means a person doing business in this
+ 	state that develops an artificial intelligence system.
+ 	             (8)  "Distributor" means a person, other than the
+ 	Developer or Deployer, that makes an artificial intelligence system
+ 	available in the market for a commercial purpose.
+ 	             (9)  "Health care service or treatment" means a health
+ 	care treatment, service, or procedure designed to maintain, treat,
+ 	diagnose, prevent, alleviate, cure, or heal a patient's physical or
+ 	mental condition, illness, injury, or disease, including
+ 	preventative care.
+ 	             (10)  "Interactive computer service" has the meaning
+ 	assigned by Section 323.001, Business and Commerce Code.
+ 	             (11)  "Personal data" has the meaning assigned to it by
+ 	Section 541.001, Business and Commerce Code.
+ 	             (12)  "Personal data" has the meaning assigned to it by
+ 	Section 541.001, Business and Commerce Code.
+ 	             (13)  "Political viewpoint discrimination" means the
+ 	intentional limitation of a person's ability to express or receive
+ 	the expression of another person based solely on the person's
+ 	political beliefs, opinions, or affiliation.
+ 	             (14)  "Sensitive personal attribute" means race,
+ 	political opinions, religious or philosophical beliefs, ethnic
+ 	orientation, mental health diagnosis, or sex. The term does not
+ 	include conduct that would be classified as an offense under
+ 	Chapter 21, Penal Code.
+ 	       Sec. 551.002.  APPLICABILITY OF CHAPTER.  This chapter
+ 	applies to a person that:
+ 	             (1)  conducts business, promotes, or advertises in this
+ 	state or produces a product or service consumed by residents of this
+ 	state; or
+ 	             (2)  engages in the development, distribution, or
+ 	deployment of an artificial intelligence system in this state; and
+ 	       Sec. 551.003.  SANDBOX PROGRAM EXCEPTION. Excluding
+ 	violations of Subchapter B, this chapter does not apply to the
+ 	development of an artificial intelligence system that is used
+ 	exclusively for research, training, testing, or other
+ 	pre-deployment activities performed by active participants of the
+ 	sandbox program in compliance with Chapter 552.
+ 	       Sec. 551.004.  DISCLOSURE OF AN ARTIFICIAL INTELLIGENCE
+ 	SYSTEM TO CONSUMERS. (a) A government agency that makes available
+ 	an artificial intelligence system that is intended to interact with
+ 	consumers shall disclose to each consumer, before or at the time of
+ 	interaction:
+ 	             (1)  that the consumer is interacting with an
+ 	artificial intelligence system;
+ 	       (b)  Disclosure is required under subsection (a) of this
+ 	section regardless of whether it would be obvious to a reasonable
+ 	person that the person is interacting with an artificial
+ 	intelligence system.
+ 	       (c)  All disclosures under subsection (a) shall be clear and
+ 	conspicuous and written in plain language, and avoid the use of a
+ 	dark pattern as defined by 541.001, Business & Commerce Code.
+ 	       (d)  All disclosures under subsection (a) may be linked to a
+ 	separate webpage of the developer or deployer.
+ 	       (e)  Any requirement in this section that may conflict with
+ 	state or federal law may be exempt.
+ 	       (f)  Any disclosure in a Health care service or treatment may
+ 	be prescribed to a consumer through entry waiver forms.
+ 	SUBCHAPTER B. PROHIBITED USES
+Sec. 551.051.  MANIPULATION OF HUMAN BEHAVIOR TO INCITE HARM
+ 	OR CRIMINALITY. An artificial intelligence system shall not be
+ 	intentionally developed or deployed to incite or encourage a person
+ 	to:
+ 	             (1)  commit physical self-harm, including suicide;
+ 	             (2)  harm another person; or
+ 	             (3)  engage in criminal activity.
+ 	       Sec. 551.052.  MANIPULATION OF HUMAN BEHAVIOR TO CIRCUMVENT
+ 	INFORMED DECISION-MAKING. An artificial intelligence system shall
+ 	not intentionally use Deceptive Trade Practices, as defined by
+ 	Chapter 17 of the Texas Business and Commerce Code
+Sec.551.053.  SOCIAL SCORING. (a) The use by a government
+ 	entity of AI systems for the evaluation or classification of
+ 	natural persons or groups of persons over a certain period of time
+ 	based on their social behavior or known, inferred or predicted
+ 	personal or personality characteristics, with the social score
+ 	leading to all of the following shall be prohibited:
+ 	             (i)  detrimental or unfavorable treatment of certain
+ 	natural persons or groups of persons in social contexts that are
+ 	unrelated to the contexts in which the data was originally
+ 	generated or collected;
+ 	             (ii)  detrimental or unfavorable treatment of certain
+ 	natural persons or groups of persons that is unjustified or
+ 	disproportionate to their social behavior or its gravity; and
+ 	             (iii)  infringement, constraining, or otherwise
+ 	chilling of any right guaranteed under the United States
+ 	Constitution, the Texas Constitution, federal law, or Texas law.
+ 	       (b)  This section applies to government entities using
+ 	artificial intelligence systems to constrain civil liberties, not
+ 	any artificial intelligence system developed or deployed for
+ 	commercial purposes.
+Sec. 551.054.  CAPTURE OF BIOMETRIC IDENTIFIERS USING
+ 	ARTIFICIAL INTELLIGENCE. (a) A government entity in this state
+ 	shall not develop or deploy an artificial intelligence system
+ 	developed with biometric identifiers of individuals and the
+ 	targeted or untargeted gathering of images or other media from the
+ 	internet or any other publicly available source shall not be
+ 	deployed for the purpose of uniquely identifying a specific
+ 	individual, if it would infringe, constrain, or otherwise chill any
+ 	right guaranteed under the United States Constitution, the Texas
+ 	Constitution, federal law, or Texas law.
+ 	       (b)  An individual is not considered to be informed nor to
+ 	have provided consent for such purpose pursuant to Section 503.001,
+ 	Business and Commerce Code, based solely upon the existence on the
+ 	internet, or other publicly available source, of an image or other
+ 	media containing one or more biometric identifiers.
+ 	       (c)  This section applies to systems designed for government
+ 	entities to constrain civil liberties, not any artificial
+ 	intelligence system developed or deployed for commercial purposes
+ 	or any other government entity purpose.
+Sec. 551.056.  POLITICAL VIEWPOINT DISCRIMINATION. (a) An
+ 	artificial intelligence system shall not be developed or deployed
+ 	in a manner that intentionally results in political viewpoint
+ 	discrimination or otherwise intentionally infringes upon a
+ 	person's freedom of association or ability to freely express the
+ 	person's beliefs or opinions.
+ 	       (b)  An interactive computer service may not, through the use
+ 	of an artificial intelligence system:
+ 	             (1)  block, ban, remove, de-platform, demonetize,
+ 	debank, de-boost, restrict, or otherwise discriminate against a
+ 	user based on the user's political speech; or
+ 	             (2)  modify or manipulate a user's content or posting
+ 	for the purpose of censoring the user's political speech.
+ 	       (c)  The prohibitions in subsection (b) apply regardless of
+ 	whether the actions of the interactive computer service are
+ 	automated or conducted with human oversight.
+ 	       (d)  This section does not apply to speech that:
+ 	             (1)  is illegal under federal or state law;
+ 	             (2)  constitutes a credible threat of violence or
+ 	incitement to imminent lawless action;
+ 	             (3)  contains obscene material as defined by Section
+ 	43.21, Penal Code;
+ 	             (4)  Contains unlawful deep fake video or image in
+ 	violation of Section 21.165, Penal Code; or
+ 	             (5)  violates intellectual property rights under
+ 	applicable law.
+ 	       (e)  This section shall be construed to be consistent with
+ 	applicable federal law, including 47 U.S.C. Section 230, and the
+ 	United States Constitution.
+Sec. 551.058.  UNLAWFUL DISCRIMINATION. An artificial
+ 	intelligence system shall not be developed or deployed with the
+ 	intent to unlawfully discriminate against a protected class in
+ 	violation of the laws of this state or federal law. Disparate impact
+ 	alone is not sufficient to show intent to discriminate.
+Sec. 551.061.  CERTAIN SEXUALLY EXPLICIT VIDEOS, IMAGES, AND
+ 	CHILD PORNOGRAPHY.  An artificial intelligence system shall not be
+ 	developed or deployed with the sole intent of producing, assisting
+ 	or aiding in producing, or distributing unlawful visual material in
+ 	violation of Section 43.26, Penal Code or an unlawful deep fake
+ 	video or image in violation of Section 21.165, Penal Code. Factors
+ 	to be considered in evaluating the primary purpose or function of an
+ 	artificial intelligence system shall include marketing materials
+ 	and terms of use associated with the system.
+SUBCHAPTER C.  ENFORCEMENT AND CONSUMER PROTECTIONS
+ 	       Sec. 551.101.  CONSTRUCTION AND APPLICATION. (a) This
+ 	chapter shall be broadly construed and applied to promote its
+ 	underlying purposes, which are:
+ 	             (1)  to facilitate and advance the responsible
+ 	development and use of artificial intelligence systems;
+ 	             (2)  to protect individuals and groups of individuals
+ 	from known, and unknown but reasonably foreseeable, risks
+ 	associated with artificial intelligence;
+ 	             (3)  to provide transparency regarding those risks in
+ 	the development, deployment, or use of artificial intelligence
+ 	systems; and
+ 	             (4)  to provide reasonable notice regarding the use of
+ 	artificial intelligence systems by state agencies.
+Sec. 551.102.  ENFORCEMENT AUTHORITY. The attorney general
+ 	has authority to enforce this chapter. Excluding, researching,
+ 	training, testing, or the conducting of other pre-deployment or
+ 	post-deployment activities by active participants of the sandbox
+ 	program, in compliance with Chapter 552, does not subject a
+ 	developer or deployer to penalties or actions.
+ 	       Sec. 551.103.  INTERNET WEBSITE AND COMPLAINT MECHANISM.
+ 	The attorney general shall post on the attorney general's Internet
+ 	website an online mechanism through which a consumer may submit a
+ 	complaint under this chapter to the attorney general.
+Sec. 551.104.  INVESTIGATIVE AUTHORITY. (a) If the
+ 	attorney general receives a complaint alleging a violation of this
+ 	chapter through the online mechanism established under Section
+ 	551.103, the attorney general may issue a civil investigative
+ 	demand.  The attorney general shall issue such demands in
+ 	accordance with and under the procedures established under Section
+ 	15.10.
+ 	       (b)  The attorney general may request from the associated
+ 	party, pursuant to a civil investigative demand issued under
+ 	Subsection (a), any one of the following;
+ 	             (1)  A High Level Statement disclosing the purpose,
+ 	intended use cases, and deployment context of, and benefits
+ 	afforded by, the artificial intelligence system;
+ 	             (2)  a High Level description of the categories of data
+ 	the artificial intelligence system processes as inputs and the
+ 	outputs the artificial intelligence system produces;
+ 	             (3)  any metrics used to evaluate the performance and
+ 	known limitations of the artificial intelligence system;
+ 	             (4)  a High Level description of the post-deployment
+ 	monitoring and user safeguards provided concerning the artificial
+ 	intelligence system, including the oversight, use, and learning
+ 	process established by the deployer to address issues arising from
+ 	the deployment of the artificial intelligence system;
+ 	             (5)  a high-level summary of the type of data used to
+ 	program or train the artificial intelligence system; or
+ 	             (6)  Any other relevant documentation reasonably
+ 	necessary for the attorney general to conduct an investigation and
+ 	determine liability or fault of the offender.
+ 	       (c)  The attorney general may not institute an action for a
+ 	civil penalty against a developer or deployer for artificial
+ 	intelligence systems that remain isolated from customer
+ 	interaction in a pre-deployment environment.
+Sec. 551.105.  NOTICE OF VIOLATION OF CHAPTER; OPPORTUNITY
+ 	TO CURE. (a) Before bringing an action under Section 551.106, the
+ 	attorney general shall notify a developer, distributor, or deployer
+ 	in writing, not later than the 60th day before bringing the action,
+ 	identifying the specific provisions of this chapter the attorney
+ 	general alleges have been or are being violated. The attorney
+ 	general may not bring an action against the developer or deployer
+ 	if:
+ 	             (1)  within the 60-day period, the developer or
+ 	deployer cures the identified violation; and
+ 	             (2)  the developer or deployer provides the attorney
+ 	general a written statement that the developer or deployer:
+ 	                   (A)  cured the alleged violation;
+ 	                   (B)  notified the consumer, if technically
+ 	feasible, and the council that the developer or deployer's
+ 	violation was addressed, if the consumer's contact information has
+ 	been made available to the developer or deployer and the attorney
+ 	general;
+ 	                   (C)  provided supportive documentation to show
+ 	how the violation was cured; and
+ 	                   (D)  made changes to internal policies, if
+ 	necessary, to reasonably ensure that no such further violations are
+ 	likely to occur.
+ 	       (b)  In any action brought forward by the attorney general or
+ 	any violation of this chapter, it shall be an affirmative defense
+ 	that the developer, deployer, or other person:
+ 	             (1)  discovers and cures an identified violation under
+ 	Subchapter B through:
+ 	                   (A)  feedback that the developer, deployer, or
+ 	other person encourages deployers or users to provide to such
+ 	developer, deployer, or other person;
+ 	                   (B)  testing, such as adversarial testing or
+ 	red-teaming;
+ 	                   (C)  an internal review process; and is otherwise
+ 	in compliance with the latest version of the Artificial
+ 	Intelligence Risk Management Framework published by the National
+ 	Institute of Standards and Technology, ISO/IEC 42001, or another
+ 	nationally or internationally recognized risk management framework
+ 	for artificial intelligence systems; or
+ 	                   (D)  following guidelines set by state agencies as
+ 	appropriate.
+Sec. 551.106.  CIVIL PENALTY; INJUNCTION. (a) The attorney
+ 	general may bring an action in the name of this state to restrain or
+ 	enjoin the person from violating this chapter and seek injunctive
+ 	relief.
+ 	       (b)  The attorney general may recover reasonable attorney's
+ 	fees and other reasonable expenses incurred in investigating and
+ 	bringing an action under this section.
+ 	       (c)  The attorney general may assess and collect an
+ 	administrative fine against a developer or deployer who fails to
+ 	timely cure a violation or who breaches a written statement
+ 	provided to the attorney general, of not less than $10,000 and not
+ 	more than $12,000 per uncured violation.
+ 	       (d)  The attorney general may assess and collect an
+ 	administrative fine against a developer or deployer who fails to
+ 	timely cure a violation that is determined to be uncurable, of not
+ 	less than $80,000 and not more than $200,000 per violation after
+ 	conviction of such violation.
+ 	       (e)  A developer or deployer who was found in violation of
+ 	and continues to operate with the provisions of this chapter shall
+ 	be assessed an administrative fine of not less than $2,000 and not
+ 	more than $40,000 per day.
+ 	       (f)  There is a rebuttable presumption that a developer,
+ 	distributor, or deployer used reasonable care as required under
+ 	this chapter if the developer, distributor, or deployer complied
+ 	with their duties in preventing violations under Subchapter B.
+ 	       (g)  A developer, distributor, or deployer may seek an
+ 	expedited hearing or other process, including a request for
+ 	declaratory judgment, if the developer, distributor, or deployer
+ 	believes its actions have not violated this chapter.
+Sec. 551.107.  ENFORCEMENT ACTIONS BY STATE AGENCIES. (a) A
+ 	state agency may sanction an individual licensed, registered, or
+ 	certified by that agency for violations of Subchapter B, including:
+ 	             (1)  the suspension, probation, or revocation of a
+ 	license, registration, certificate, or other form of permission to
+ 	engage in an activity; and
+ 	             (2)  monetary penalties up to $100,000.
+ 	       (b)  a state agency may not sanction an individual that is
+ 	licensed, registered, or certified by that agency for violations of
+ 	Subchapter B until individuals or entities have been sentenced for
+ 	violations of this chapter, and received recommendations from the
+ 	attorney general for subsequent enforcement.
+ 	       Sec. 551.108.  CONSUMER RIGHTS AND REMEDIES. A consumer may
+ 	appeal decision made by an artificial intelligence system which has
+ 	an adverse impact on their health, welfare, safety, or fundamental
+ 	rights, and shall have the right to obtain from the deployer clear
+ 	and meaningful explanations of the role of the artificial
+ 	intelligence system in the decision-making procedure and the main
+ 	elements of the decision taken.
+SUBCHAPTER D. CONSTRUCTION OF CHAPTER; LOCAL PREEMPTION
+ 	       Sec. 551.151.  CONSTRUCTION OF CHAPTER. This chapter may
+ 	not be construed as imposing a requirement on a developer, a
+ 	deployer, or other person that adversely affects the rights or
+ 	freedoms of any person, including the right of free speech.
+ 	       Sec. 551.152.  LOCAL PREEMPTION. This chapter supersedes
+ 	and preempts any ordinance, resolution, rule, or other regulation
+ 	adopted by a political subdivision regarding the use of artificial
+ 	intelligence systems.
+CHAPTER 552. ARTIFICIAL INTELLIGENCE REGULATORY SANDBOX PROGRAM
+ 	SUBCHAPTER A. GENERAL PROVISIONS
+ 	       Sec. 552.001.  DEFINITIONS. In this chapter:
+ 	             (1)  "Applicable agency" means a state agency
+ 	responsible for regulating a specific sector impacted by an
+ 	artificial intelligence system.
+ 	             (2)  "Consumer" means a person who engages in
+ 	transactions involving an artificial intelligence system or is
+ 	directly affected by the use of such a system.
+ 	             (3)  "Council" means the Artificial Intelligence
+ 	Council established by Chapter 553.
+ 	             (4)  "Department" means the Texas Department of
+ 	Information Resources
+ 	             (5)  "Program participant" means a person or business
+ 	entity approved to participate in the sandbox program.
+ 	             (6)  "Sandbox program" means the regulatory framework
+ 	established under this chapter that allows temporary testing of
+ 	artificial intelligence systems in a controlled, limited manner
+ 	without full regulatory compliance.
+SUBCHAPTER B. SANDBOX PROGRAM FRAMEWORK
+Sec. 552.051.  ESTABLISHMENT OF SANDBOX PROGRAM. (a) The
+ 	department, in coordination with the council, shall administer the
+ 	Artificial Intelligence Regulatory Sandbox Program to facilitate
+ 	the development, testing, and deployment of innovative artificial
+ 	intelligence systems in Texas.
+ 	       (b)  The sandbox program is designed to:
+ 	             (1)  promote the safe and innovative use of artificial
+ 	intelligence across various sectors including healthcare, finance,
+ 	education, and public services;
+ 	             (2)  encourage the responsible deployment of
+ 	artificial intelligence systems while balancing the need for
+ 	consumer protection, privacy, and public safety; and
+ 	             (3)  provide clear guidelines for artificial
+ 	intelligence developers to test systems while temporarily exempt
+ 	from certain regulatory requirements.
+Sec. 552.052.  APPLICATION PROCESS. (a) A person or
+ 	business entity seeking to participate in the sandbox program must
+ 	submit an application to the council.
+ 	       (b)  The application must include:
+ 	             (1)  a detailed description of the artificial
+ 	intelligence system and its intended use;
+ 	             (2)  a benefit assessment that addresses potential
+ 	impacts on consumers, privacy, or public safety;
+ 	             (3)  a plan for mitigating any adverse consequences
+ 	during the testing phase; and
+ 	             (4)  proof of compliance with federal artificial
+ 	intelligence laws and regulations, where applicable.
+Sec. 552.053.  DURATION AND SCOPE OF PARTICIPATION. A
+ 	participant may test and deploy an artificial intelligence system
+ 	under the sandbox program for a period of up to 36 months, unless
+ 	extended by the department for good cause.
+SUBCHAPTER C. OVERSIGHT AND COMPLIANCE
+ 	       Sec. 552.101.  AGENCY COORDINATION. (a) The department
+ 	shall coordinate with all relevant state regulatory agencies to
+ 	oversee the operations of the sandbox participants.
+ 	       (b)  The council or a relevant agency may recommend to the
+ 	department that a participant's sandbox privileges be revoked if
+ 	the artificial intelligence system:
+ 	             (1)  poses undue risk to public safety or welfare;
+ 	             (2)  violates any federal or state laws that the
+ 	sandbox program cannot override.
+Sec. 552.102.  REPORTING REQUIREMENTS. (a) Each sandbox
+ 	participant must submit quarterly reports to the department, which
+ 	shall include:
+ 	             (1)  system performance metrics;
+ 	             (2)  updates on how the system mitigates any risks
+ 	associated with its operation; and
+ 	             (3)  feedback from consumers and affected stakeholders
+ 	that are using a product that has been deployed from this section.
+ 	       (b)  The department must submit an annual report to the
+ 	legislature detailing:
+ 	             (1)  the number of participants in the sandbox program;
+ 	             (2)  the overall performance and impact of artificial
+ 	intelligence systems tested within the program; and
+ 	             (3)  recommendations for future legislative or
+ 	regulatory reforms.
+ 	       (c)  The council shall maintain the confidentiality of the
+ 	intellectual property, trade secrets, and other sensitive
+ 	information of the sandbox.
+CHAPTER 553. TEXAS ARTIFICIAL INTELLIGENCE COUNCIL
+ 	SUBCHAPTER A. CREATION AND ORGANIZATION OF COUNCIL
+ 	       Sec. 553.001.  CREATION OF COUNCIL. (a) The Artificial
+ 	Intelligence Council is administratively attached to the Texas
+ 	Department of Information Resources, and the office shall provide
+ 	administrative support to the council as provided by this section.
+ 	       (b)  The office and the council shall enter into a memorandum
+ 	of understanding detailing:
+ 	             (1)  the administrative support the council requires
+ 	from the office to fulfill the purposes of this chapter;
+ 	             (2)  the reimbursement of administrative expenses to
+ 	the office; and
+ 	             (3)  any other provisions available by law to ensure
+ 	the efficient operation of the council as attached to the office.
+ 	       (c)  The purpose of the council is to:
+ 	             (1)  ensure artificial intelligence systems are
+ 	ethical and in the public's best interest and do not harm public
+ 	safety or undermine individual freedoms by finding gaps in the
+ 	Penal Code and Chapter 82, Civil Practice and Remedies Code and
+ 	making recommendations to the Legislature.
+ 	             (2)  identify existing laws and regulations that impede
+ 	innovation in artificial intelligence development and recommend
+ 	appropriate reforms;
+ 	             (3)  analyze opportunities to improve the efficiency
+ 	and effectiveness of state government operations through the use of
+ 	artificial intelligence systems and make recommendations to
+ 	applicable state agencies regarding the use of artificial
+ 	intelligence to improve the efficiency and effectiveness of agency
+ 	operations;
+ 	             (4)  investigate and evaluate potential instances of
+ 	regulatory capture, including undue influence by technology
+ 	companies or disproportionate burdens on smaller innovators
+ 	through the use of artificial intelligence systems;
+ 	             (5)  investigate and evaluate the influence of
+ 	technology companies on other companies and determine the existence
+ 	or use of tools or processes designed to censor competitors or users
+ 	through the use of artificial intelligence systems;
+ 	             (6)  offer guidance and recommendations to the state
+ 	legislature on the ethical and legal use of artificial
+ 	intelligence;
+ 	             (7)  conduct and publish a study of the current
+ 	artificial intelligence regulatory environment; and
+ 	             (8)  in coordination with the Department of Information
+ 	Resources, monitor the Artificial Intelligence Regulatory Sandbox
+ 	Program established under Chapter 552 and make recommendations for
+ 	improvements to the program.
+Sec. 553.002.  COUNCIL MEMBERSHIP. (a) The council is
+ 	composed of 10 members as follows:
+ 	             (1)  four members of the public appointed by the
+ 	governor;
+ 	             (2)  two members of the public appointed by the
+ 	lieutenant governor;
+ 	             (3)  two members of the public appointed by the speaker
+ 	of the house of representatives;
+ 	             (4)  one senator appointed by the lieutenant governor
+ 	as a nonvoting member; and
+ 	             (5)  one member of the house of representatives
+ 	appointed by the speaker of the house of representatives as a
+ 	nonvoting member.
+ 	       (b)  Voting members of the council serve staggered four-year
+ 	terms, with the terms of four members expiring every two years.
+ 	       (c)  The governor shall appoint a chair from among the
+ 	members, and the council shall elect a vice chair from its
+ 	membership.
+ 	       (d)  The council may establish an advisory board composed of
+ 	individuals from the public who possess expertise directly related
+ 	to the council's functions, including technical, ethical,
+ 	regulatory, and other relevant areas.
+Sec. 553.003.  QUALIFICATIONS. (a) Members of the council
+ 	must be Texas residents and have knowledge or expertise in one or
+ 	more of the following areas:
+ 	             (1)  artificial intelligence technologies;
+ 	             (2)  data privacy and security;
+ 	             (3)  ethics in technology or law;
+ 	             (4)  public policy and regulation;
+ 	             (5)  risk management related to artificial
+ 	intelligence systems;
+ 	             (6)  expertise in improving the efficiency and
+ 	effectiveness of government operations; or
+ 	             (7)  expertise in anti-competitive practices and
+ 	market fairness.
+ 	       Sec. 553.004.  STAFF AND ADMINISTRATION. (a) The council
+ 	may employ an executive director and other personnel as necessary
+ 	to perform its duties.
+ 	       (b)  The council, its administration, and its staff must not
+ 	account for more than 4% of the budget of the department of
+ 	information resources.
+SUBCHAPTER B. POWERS AND DUTIES OF THE COUNCIL
+Sec. 553.101.  ISSUANCE OF ADVISORY REPORTS. (a) The
+ 	council may issue reports to the state legislature regarding the
+ 	use of artificial intelligence systems in the state.
+ 	       (b)  The council may issue reports on state use of artificial
+ 	intelligence systems regarding:
+ 	             (1)  the compliance of artificial intelligence systems
+ 	with Texas law;
+ 	             (2)  the ethical implications of artificial
+ 	intelligence deployments in the state;
+ 	             (3)  data privacy and security concerns related to
+ 	artificial intelligence systems; or
+ 	             (4)  potential liability or legal risks associated with
+ 	the use of AI.
+ 	       Sec. 553.102.  TRAINING AND EDUCATIONAL OUTREACH. The
+ 	council shall conduct training programs for state agencies and
+ 	local governments on the use of artificial intelligence systems.
+Sec. 553.103.  LIMITATION OF AUTHORITY. (a) The council may
+ 	not:
+ 	       (1)  Promulgate rules, regulations, binding guidance, or
+ 	anything construed as regulations or guidance on any entity or
+ 	agency; or
+ 	       (2)  Interfere with or override state agency operations.
+ 	(b)  The council's duties are limited to providing evaluations,
+ 	       SECTION 3.  Section 503.001, Business & Commerce Code is
+ 	amended by adding Subsection (c-3) to read as follows:
+ 	       (c-3)  This section does not apply to the training,
+ 	processing, or storage of biometric identifiers involved in
+ 	artificial intelligence systems, as defined by Section 551.001,
+ 	unless performed for the purpose of uniquely identifying a specific
+ 	individual.  If a biometric identifier captured for the purpose of
+ 	training an artificial intelligence system is subsequently used for
+ 	a commercial purpose, the person possessing the biometric
+ 	identifier is subject to this section's provisions for the
+ 	possession and destruction of a biometric identifier and the
+ 	associated penalties.
+SECTION 4.  Sec.541.104(a), Business & Commerce Code is
+ 	amended to read as follows:
+ 	       Sec. 541.104.  DUTIES OF PROCESSOR. (a) A processor shall
+ 	adhere to the instructions of a controller and shall assist the
+ 	controller in meeting or complying with the controller's duties or
+ 	requirements under this chapter, including:
+ 	             (1)  assisting the controller in responding to consumer
+ 	rights requests submitted under Section 541.051 by using
+ 	appropriate technical and organizational measures, as reasonably
+ 	practicable, taking into account the nature of processing and the
+ 	information available to the processor;
+ 	             (2)  assisting the controller with regard to complying
+ 	with the [requirement]requirements relating to the security of
+ 	processing personal data, and if applicable, the data collected,
+ 	stored, and processed by artificial intelligence systems and to the
+ 	notification of a breach of security of the processor's system
+ 	under Chapter 521, taking into account the nature of processing and
+ 	the information available to the processor; and
+ 	             (3)  providing necessary information to enable the
+ 	controller to conduct and document data protection assessments
+ 	under Section 541.105.
+SECTION 5.  Section 325.011, Government Code, is amended to
+ 	read as follows:
+ 	       Sec. 325.011.  CRITERIA FOR REVIEW. The commission and its
+ 	staff shall consider the following criteria in determining whether
+ 	a public need exists for the continuation of a state agency or its
+ 	advisory committees or for the performance of the functions of the
+ 	agency or its advisory committees:
+ 	             (1)  the efficiency and effectiveness with which the
+ 	agency or the advisory committee operates;
+ 	             (2)(A)  an identification of the mission, goals, and
+ 	objectives intended for the agency or advisory committee and of the
+ 	problem or need that the agency or advisory committee was intended
+ 	to address; and
+ 	                   (B)  the extent to which the mission, goals, and
+ 	objectives have been achieved and the problem or need has been
+ 	addressed;
+ 	             (3)(A)  an identification of any activities of the
+ 	agency in addition to those granted by statute and of the authority
+ 	for those activities; and
+ 	                   (B)  the extent to which those activities are
+ 	needed;
+ 	             (4)  an assessment of authority of the agency relating
+ 	to fees, inspections, enforcement, and penalties;
+ 	             (5)  whether less restrictive or alternative methods of
+ 	performing any function that the agency performs could adequately
+ 	protect or provide service to the public;
+ 	             (6)  the extent to which the jurisdiction of the agency
+ 	and the programs administered by the agency overlap or duplicate
+ 	those of other agencies, the extent to which the agency coordinates
+ 	with those agencies, and the extent to which the programs
+ 	administered by the agency can be consolidated with the programs of
+ 	other state agencies;
+ 	             (7)  the promptness and effectiveness with which the
+ 	agency addresses complaints concerning entities or other persons
+ 	affected by the agency, including an assessment of the agency's
+ 	administrative hearings process;
+ 	             (8)  an assessment of the agency's rulemaking process
+ 	and the extent to which the agency has encouraged participation by
+ 	the public in making its rules and decisions and the extent to which
+ 	the public participation has resulted in rules that benefit the
+ 	public;
+ 	             (9)  the extent to which the agency has complied with:
+ 	                   (A)  federal and state laws and applicable rules
+ 	regarding equality of employment opportunity and the rights and
+ 	privacy of individuals; and
+ 	                   (B)  state law and applicable rules of any state
+ 	agency regarding purchasing guidelines and programs for
+ 	historically underutilized businesses;
+ 	             (10)  the extent to which the agency issues and
+ 	enforces rules relating to potential conflicts of interest of its
+ 	employees;
+ 	             (11)  the extent to which the agency complies with
+ 	Chapters 551 and 552 and follows records management practices that
+ 	enable the agency to respond efficiently to requests for public
+ 	information;
+ 	             (12)  the effect of federal intervention or loss of
+ 	federal funds if the agency is abolished;
+ 	             (13)  the extent to which the purpose and effectiveness
+ 	of reporting requirements imposed on the agency justifies the
+ 	continuation of the requirement; [and]
+ 	             (14)  an assessment of the agency's cybersecurity
+ 	practices using confidential information available from the
+ 	Department of Information Resources or any other appropriate state
+ 	agency; and
+ 	             (15)  an assessment, using information available from
+ 	the Department of Information Resources, the Attorney General, or
+ 	any other appropriate state agency, of the agency's use of
+ 	artificial intelligence systems in its operations and its oversight
+ 	of the use of artificial intelligence systems by entities or
+ 	persons under the agency's jurisdiction, and any related impact on
+ 	the agency's ability to achieve its mission, goals, and objectives.
+SECTION 6.  Section 2054.068(b), Government Code, is amended
+ 	to read as follows:
+ 	       (b)  The department shall collect from each state agency
+ 	information on the status and condition of the agency's information
+ 	technology infrastructure, including information regarding:
+ 	             (1)  the agency's information security program;
+ 	             (2)  an inventory of the agency's servers, mainframes,
+ 	cloud services, and other information technology equipment;
+ 	             (3)  identification of vendors that operate and manage
+ 	the agency's information technology infrastructure; [and]
+ 	             (4)  any additional related information requested by
+ 	the department; and
+ 	             (5)  an evaluation of the use, or considered use, of
+ 	artificial intelligence systems by each state agency.
+SECTION 7.  Section 2054.0965(b), Government Code, is
+ 	amended to read as follows:
+ 	       Sec. 2054.0965.  INFORMATION RESOURCES DEPLOYMENT REVIEW.
+ 	       (b)  Except as otherwise modified by rules adopted by the
+ 	department, the review must include:
+ 	             (1)  an inventory of the agency's major information
+ 	systems, as defined by Section 2054.008, and other operational or
+ 	logistical components related to deployment of information
+ 	resources as prescribed by the department;
+ 	             (2)  an inventory of the agency's major databases,
+ 	artificial intelligence systems, and applications;
+ 	             (3)  a description of the agency's existing and planned
+ 	telecommunications network configuration;
+ 	             (4)  an analysis of how information systems,
+ 	components, databases, applications, and other information
+ 	resources have been deployed by the agency in support of:
+ 	                   (A)  applicable achievement goals established
+ 	under Section 2056.006 and the state strategic plan adopted under
+ 	Section 2056.009;
+ 	                   (B)  the state strategic plan for information
+ 	resources; and
+ 	                   (C)  the agency's business objectives, mission,
+ 	and goals;
+ 	             (5)  agency information necessary to support the state
+ 	goals for interoperability and reuse; and
+ 	             (6)  confirmation by the agency of compliance with
+ 	state statutes, rules, and standards relating to information
+ 	resources.
+SECTION 8.  Not later than September 1, 2026, the attorney
+ 	general shall post on the attorney general's Internet website the
+ 	online mechanism required by Section 551.041, Business & Commerce
+ 	Code, as added by this Act.
+ 	       SECTION 9.  This Act takes effect January 1, 2026.

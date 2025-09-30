@@ -1,0 +1,1321 @@
+S. 1671
+
+
+To establish a new Federal body to provide reasonable oversight and regulation of digital platforms.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+May 18, 2023
+
+
+Mr. Bennet (for himself and Mr. Welch) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To establish a new Federal body to provide reasonable oversight and regulation of digital platforms.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+
+(a) Short Title.—This Act may be cited as the “Digital Platform Commission Act of 2023”.
+
+
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings; sense of Congress.
+Sec. 3. Definitions.
+Sec. 4. Establishment of Federal Digital Platform Commission.
+Sec. 5. Jurisdiction.
+Sec. 6. Organization and general powers.
+Sec. 7. Organization and functioning of the Commission.
+Sec. 8. Code Council.
+Sec. 9. Rulemaking authority, requirements, and considerations.
+Sec. 10. Systemically important digital platforms.
+Sec. 11. Inter-agency support.
+Sec. 12. Petitions.
+Sec. 13. Research.
+Sec. 14. Investigative authority.
+Sec. 15. HSR filings.
+Sec. 16. Enforcement by private persons and governmental entities.
+Sec. 17. Enforcement by Commission and Department of Justice.
+Sec. 18. Proceedings to enjoin, set aside, annul, or suspend orders of the Commission.
+Sec. 19. Report to Congress.
+Sec. 20. Authorization of appropriations.SEC. 2. FINDINGS; SENSE OF CONGRESS.
+
+
+(a) Findings.—Congress finds the following:
+
+
+(1) In the United States and around the world, digital platforms and online services play a central role in modern life by providing new tools for communication, commerce, entrepreneurship, and debate.
+
+
+(2) The United States takes pride in the success of its technology sector, which leads the world in innovation and dynamism, provides valuable services to the people of the United States, and supports thousands of good-paying jobs in the United States.
+
+
+(3) In recent years, a few digital platforms have benefitted from the combination of economies of scale, network effects, and unique characteristics of the digital marketplace to achieve vast power over the economy, society, and democracy of the United States.
+
+
+(4) The last time Congress enacted legislation to meaningfully regulate the technology or telecommunications sector was the Telecommunications Act of 1996 (Public Law 104–104; 110 Stat 56.), years before many of today’s largest digital platforms even existed.
+
+
+(5) Digital platforms remain largely unregulated and are left to write their own rules without meaningful democratic input or accountability.
+
+
+(6) The unregulated policies and operations of some of the most powerful digital platforms have at times produced demonstrable harm, including—
+
+
+(A) undercutting small businesses;
+
+
+(B) abetting the collapse of trusted local journalism;
+
+
+(C) enabling addiction and other harms to the mental health of the people of the United States, especially minors;
+
+
+(D) disseminating disinformation and hate speech;
+
+
+(E) undermining privacy and monetizing the personal data of individuals in the United States without their informed consent;
+
+
+(F) in some cases, radicalizing individuals to violence; and
+
+
+(G) perpetuating discriminatory treatment of communities of color and underserved populations.
+
+
+(7) The development of increasingly powerful algorithmic processes for communication, research, content generation, and decision making, such as generative artificial intelligence, threatens to magnify the harms identified in paragraph (6) without mechanisms for proper oversight and regulation to protect the public interest.
+
+
+(8) The failure of the United States Government to establish appropriate regulations for digital platforms cedes to foreign competitors the historic role played by the United States in setting reasonable rules of the road and technical standards for emerging technologies.
+
+
+(9) Throughout the history of the United States, Congress has often responded to the emergence of powerful and complex new sectors of the economy by empowering sector-specific expert Federal regulators.
+
+
+(10) Throughout the history of the United States, the Federal Government has established reasonable regulation, consistent with the First Amendment to the Constitution of the United States, to promote a diversity of viewpoints, support civic engagement, and preserve the right of citizens to communicate with each other, which is foundational to self-governance.
+
+
+(11) The unique power and complexity of several digital platforms, combined with the absence of modern Federal regulations, reinforces the need for a new Federal body equipped with the authorities, tools, and expertise to regulate digital platforms to ensure their operations remain consistent, where appropriate, with the public interest.
+
+
+(b) Sense Of Congress.—It is the sense of Congress that the Federal agency established under this Act should—
+
+
+(1) develop appropriate regulations and policies grounded in the common law principles of the duty of care and the duty to deal, insofar as those principles are relevant and practical; and
+
+
+(2) adopt, where relevant and practical, a risk management regulatory approach that prioritizes anticipating, limiting, and balancing against other interests the broad economic, societal, and political risks of harm posed by the activities and operations of a person or class of persons.SEC. 3. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) ALGORITHMIC PROCESS.—The term “algorithmic process” means a computational process, including one derived from machine learning or other artificial intelligence techniques, that processes personal information or other data for the purpose of—
+
+
+(A) making a decision;
+
+
+(B) generating content; or
+
+
+(C) determining the order or manner in which a set of information is provided, recommended to, or withheld from a user of a digital platform, including—
+
+
+(i) the provision of commercial content;
+
+
+(ii) the display of social media posts;
+
+
+(iii) the display of search results or rankings; or
+
+
+(iv) any other method of automated decision making, content selection, or content amplification.
+
+
+(2) CODE COUNCIL; COUNCIL.—The term “Code Council” or “Council” means the Code Council established under section 8(a).
+
+
+(3) COMMISSION.—The term “Commission” means the Federal Digital Platform Commission established under section 4.
+
+
+(4) DIGITAL PLATFORM.—
+
+
+(A) IN GENERAL.—The term “digital platform” means an online service that serves as an intermediary facilitating interactions—
+
+
+(i) between users; and
+
+
+(ii) between users and—
+
+
+(I) entities offering goods and services through the online service; or
+
+
+(II) the online service with respect to goods and services offered directly by the online service, including content primarily generated by algorithmic processes.
+
+
+(B) DE MINIMIS EXCEPTION.—
+
+
+(i) IN GENERAL.—Notwithstanding subparagraph (A)(ii)(II), the term “digital platform” does not include an entity that offers goods and services to the public online if the offering of goods and services online is a de minimis part of the entity's overall business.
+
+
+(ii) ONLINE SERVICES THAT DO NOT QUALIFY FOR DE MINIMIS EXCEPTION.—Notwithstanding clause (i), if an online service described in subparagraph (A)(ii)(II) is owned by an entity but is offered through an affiliate, partnership, or joint venture of, or is otherwise segregable from, the entity—
+
+
+(I) the online service shall be considered a digital platform; and
+
+
+(II) the entity shall not be considered a digital platform.
+
+
+(C) SMALL DIGITAL PLATFORM BUSINESSES.—
+
+
+(i) IN GENERAL.—The term “digital platform” does not include a small digital platform business, except as provided in clause (iii).
+
+
+(ii) SBA RULEMAKING.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall by regulation define the term “small digital platform business” for purposes of clause (i).
+
+
+(iii) NON-APPLICABILITY TO SYSTEMICALLY IMPORTANT DIGITAL PLATFORMS.—Clause (i) shall not apply to a systemically important digital platform.
+
+
+(D) NEWS ORGANIZATIONS.—The term “digital platform” does not include an entity whose primary purpose is the delivery to the public of news that the entity writes, edits, and reports.
+
+
+(5) IMMEDIATE FAMILY MEMBER.—The term “immediate family member”, with respect to an individual, means a spouse, parent, sibling, or child of the individual.
+
+
+(6) ONLINE SERVICE.—The term “online service” includes a consumer-facing website, back-end online-support system, or other facilitator of online transactions and activities.
+
+
+(7) SYSTEMICALLY IMPORTANT DIGITAL PLATFORM.—The term “systemically important digital platform” means a digital platform that the Commission has designated as a systemically important digital platform under section 10.SEC. 4. ESTABLISHMENT OF FEDERAL DIGITAL PLATFORM COMMISSION.
+
+
+(a) Establishment.—There is established a commission to be known as the “Federal Digital Platform Commission”, which shall—
+
+
+(1) be constituted as provided in this Act; and
+
+
+(2) execute and enforce the provisions of this Act.
+
+
+(b) Purposes Of Commission.—The purpose of the Commission is to regulate digital platforms, consistent with the public interest, convenience, and necessity, to promote to all the people of the United States, so far as possible, the following:
+
+
+(1) Access to digital platforms for civic engagement and economic and educational opportunities.
+
+
+(2) Access to government services and public safety.
+
+
+(3) Competition to encourage the creation of new online services and innovation, and to provide to consumers benefits such as lower prices and better quality of service.
+
+
+(4) Prevention of harmful levels of concentration of private power over critical digital infrastructure.
+
+
+(5) A robust and competitive marketplace of ideas with a diversity of views at the local, State, and national levels.
+
+
+(6) Protection for consumers, including those in communities of color and underserved populations, from deceptive, unfair, unjust, unreasonable, or abusive practices committed by digital platforms.
+
+
+(7) Assurance that the algorithmic processes of digital platforms are fair, transparent, and safe.
+
+
+(c) Rule Of Construction.—Nothing in this Act, or any amendment made by this Act, shall be construed to modify, impair, or supersede the applicability of any antitrust laws.SEC. 5. JURISDICTION.
+
+
+(a) Plenary Jurisdiction.—The Commission shall have jurisdiction over any digital platform, the services of which—
+
+
+(1) originate or are received within the United States; and
+
+
+(2) affect interstate or foreign commerce.
+
+
+(b) Provisions Relative To Systemically Important Digital Platforms.—Not later than 180 days after the earliest date as of which not fewer than 3 Commissioners have been confirmed, the Commission shall determine whether to promulgate rules, with input from the Code Council as appropriate, to establish for systemically important digital platforms—
+
+
+(1) commercial and technical standards for—
+
+
+(A) data portability; and
+
+
+(B) interoperability, which shall be defined as the functionality of information systems to—
+
+
+(i) exchange data; and
+
+
+(ii) enable sharing of information;
+
+
+(2) requirements—
+
+
+(A) for recommendation systems and other algorithmic processes of systemically important digital platforms to ensure that the algorithmic processes are fair, transparent, and without harmful, abusive, anticompetitive, or deceptive bias; and
+
+
+(B) for auditing, accountability, and explainability of algorithmic processes;
+
+
+(3) transparency requirements for terms of service, including content moderation policies;
+
+
+(4) requirements for regular public risk assessments of the distribution of harmful content on a systemically important digital platform and steps the systemically important digital platform has taken, or plans to take, to mitigate those harms, including harms arising from algorithmic processes;
+
+
+(5) transparency and disclosure obligations to enable—
+
+
+(A) oversight by the Commission;
+
+
+(B) third-party audits to ensure the accuracy of any public risk assessments required under paragraph (4); and
+
+
+(C) trusted third-party research in the public interest; and
+
+
+(6) commercial and technical standards to ensure accessibility to individuals with a disability, as defined in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102), including to provide the ability for an individual who has a hearing impairment, speech impairment, or vision impairment to engage with systemically important digital platforms in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment, speech impairment, or vision impairment to engage with systemically important digital platforms.(c) Specific Codes And Standards.—
+
+
+(1) AGE-APPROPRIATE DESIGN CODE.—
+
+
+(A) ESTABLISHMENT.—Not later than 180 days after the earliest date as of which not fewer than 3 Commissioners have been confirmed, the Commission shall, with input from the Code Council as appropriate, establish by rule an age-appropriate design code.
+
+
+(B) CONTENTS.—The age-appropriate design code established under subparagraph (A) shall include—
+
+
+(i) requirements governing the design and data privacy standards for the entities that the Commission designates as being subject to the code; and
+
+
+(ii) prohibited design features and data practices for the entities described in clause (i).
+
+
+(2) AGE VERIFICATION STANDARDS.—Not later than 180 days after the earliest date as of which not fewer than 3 Commissioners have been confirmed, the Commission shall, with input from the Code Council as appropriate, begin the process of developing age verification standards.
+
+
+(3) PROCEDURE.—
+
+
+(A) PUBLIC REVIEW; COMMISSION EXAMINATION AND VOTE.—In establishing an age-appropriate design code and age verification standards under paragraphs (1) and (2), the Commission shall first develop a proposed code and standards, respectively, and comply with the requirements under paragraph (4) of section 8(e) in the same manner as with respect to a proposed behavioral code, technical standard, or other policy submitted to the Commission by the Code Council under paragraph (3) of that section.
+
+
+(B) UPDATES.—Paragraph (5) of section 8(e) shall apply to the age-appropriate design code and age verification standards established under paragraphs (1) and (2) of this subsection in the same manner as it applies to a behavioral code, technical standard, or other policy established by rule under paragraph (4) of that section.
+
+
+(d) Forbearance.—
+
+
+(1) IN GENERAL.—The Commission may forbear from exercising jurisdiction over a digital platform or class of digital platforms based on size, revenue, market share, or other attributes the Commission determines appropriate.
+
+
+(2) FLEXIBILITY.—The Commission may reassert jurisdiction over a digital platform or class of digital platform over which the Commission forbore from exercising jurisdiction under paragraph (1).SEC. 6. ORGANIZATION AND GENERAL POWERS.
+
+
+(a) In General.—The Commission shall be composed of 5 Commissioners appointed by the President, by and with the advice and consent of the Senate, one of whom the President shall designate as chair.
+
+
+(b) Qualifications.—
+
+
+(1) CITIZENSHIP.—Each member of the Commission shall be a citizen of the United States.
+
+
+(2) CONFLICTS OF INTEREST.—
+
+
+(A) IN GENERAL.—Subject to subparagraphs (B) and (C), no member of the Commission or person employed by the Commission, and no immediate family member thereof, shall—
+
+
+(i) be financially interested in—
+
+
+(I) any person significantly regulated by the Commission under this Act; or
+
+
+(II) a third party in direct and substantial competition with a person described in subclause (I); or
+
+
+(ii) be employed by, hold any official relation to, or own any stocks, bonds, or other securities of, any person or third party described in clause (i).
+
+
+(B) SIGNIFICANT INTEREST.—The prohibitions under subparagraph (A) shall apply only to financial interests in any company or other entity that has a significant interest in activities subject to regulation by the Commission.
+
+
+(C) WAIVER.—
+
+
+(i) IN GENERAL.—Subject to section 208 of title 18, United States Code, the Commission may waive, from time to time, the application of the prohibitions under subparagraph (A) to persons employed by the Commission, or immediate family members thereof, if the Commission determines that the financial interests of a person that are involved in a particular case are minimal.
+
+
+(ii) NO WAIVER FOR COMMISSIONERS.—The waiver authority under clause (i) shall not apply with respect to members of the Commission.
+
+
+(iii) PUBLICATION.—If the Commission exercises the waiver authority under clause (i), the Commission shall publish notice of that action in the Federal Register.
+
+
+(3) DETERMINATION OF SIGNIFICANT INTEREST.—The Commission, in determining for purposes of paragraph (2) whether a company or other entity has a significant interest in activities that are subject to regulation by the Commission, shall consider, without excluding other relevant factors—
+
+
+(A) the revenues, investments, profits, and managerial efforts directed to the related activities of the company or other entity, as compared to the other aspects of the business of the company or other entity;
+
+
+(B) the extent to which the Commission regulates and oversees the activities of the company or other entity;
+
+
+(C) the degree to which the economic interests of the company or other entity may be affected by any action of the Commission; and
+
+
+(D) the perceptions held by the public regarding the business activities of the company or other entity.
+
+
+(4) NO OTHER EMPLOYMENT.—A member of the Commission may not engage in any other business, vocation, profession, or employment while serving as a member of the Commission.
+
+
+(5) POLITICAL PARTIES.—The maximum number of commissioners who may be members of the same political party shall be a number equal to the least number of commissioners that constitutes a majority of the full membership of the Commission.
+
+
+(c) Term.—
+
+
+(1) IN GENERAL.—A commissioner—
+
+
+(A) shall be appointed for a term of 5 years; and
+
+
+(B) may continue to serve after the expiration of the fixed term of office of the commissioner until a successor is appointed and has been confirmed and taken the oath of office.
+
+
+(2) FILLING OF VACANCIES.—Any person chosen to fill a vacancy in the Commission—
+
+
+(A) shall be appointed for the unexpired term of the commissioner that the person succeeds;
+
+
+(B) except as provided in subparagraph (C), may continue to serve after the expiration of the fixed term of office of the commissioner that the person succeeds until a successor is appointed and has been confirmed and taken the oath of office; and
+
+
+(C) may not continue to serve after the expiration of the session of Congress that begins after the expiration of the fixed term of office of the commissioner that the person succeeds.
+
+
+(3) EFFECT OF VACANCY ON POWERS OF COMMISSION.—Except as provided in section 9(e) (relating to repeal of prior rules), no vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission.
+
+
+(d) Salary Of Commissioners.—
+
+
+(1) IN GENERAL.—Each Commissioner shall receive an annual salary at the annual rate payable from time to time for grade 16 of the pay scale of the Securities and Exchange Commission, payable in monthly installments.
+
+
+(2) CHAIR.—The Chair of the Commission, during the period of service as Chair, shall receive an annual salary at the annual rate payable from time to time for grade 17 of the pay scale of the Securities and Exchange Commission.
+
+
+(e) Principal Office.—
+
+
+(1) GENERAL SESSIONS.—The principal office of the Commission shall be in the District of Columbia, where its general sessions shall be held.
+
+
+(2) SPECIAL SESSIONS.—Whenever the convenience of the public or of the parties may be promoted or delay or expense prevented thereby, the Commission may hold special sessions in any part of the United States.
+
+
+(f) Employees.—
+
+
+(1) IN GENERAL.—The Commission may, subject to the civil service laws and the Classification Act of 1949, as amended, appoint such officers, engineers, accountants, attorneys, inspectors, examiners, and other employees as are necessary in the exercise of its functions.
+
+
+(2) ASSISTANTS.—
+
+
+(A) PROFESSIONAL ASSISTANTS; SECRETARY.—Without regard to the civil-service laws, but subject to the Classification Act of 1949, each commissioner may appoint professional assistants and a secretary, each of whom shall perform such duties as the commissioner shall direct.
+
+
+(B) ADMINISTRATIVE ASSISTANT TO CHAIR.—In addition to the authority under subparagraph (A), the Chair of the Commission may appoint, without regard to the civil-service laws, but subject to the Classification Act of 1949, an administrative assistant who shall perform such duties as the Chair shall direct.
+
+
+(3) USE OF VOLUNTEERS TO MONITOR VIOLATIONS RELATING TO ONLINE SERVICES.—
+
+
+(A) RECRUITMENT AND TRAINING OF VOLUNTEERS.—The Commission, for purposes of monitoring violations of any provision of this Act (and of any regulation prescribed by the Commission under this Act), may—
+
+
+(i) recruit and train any software engineer, computer scientist, data scientist, or other individual with skills or expertise relevant to the responsibilities of the Commission; and
+
+
+(ii) accept and employ the voluntary and uncompensated services of individuals described in clause (i).
+
+
+(B) NO LIMITATIONS ON VOLUNTARY SERVICES.—The authority of the Commission under subparagraph (A) shall not be subject to or affected by—
+
+
+(i) part III of title 5, United States Code; or
+
+
+(ii) section 1342 of title 31, United States Code.
+
+
+(C) NO FEDERAL EMPLOYMENT.—Any individual who provides services under this paragraph or who provides goods in connection with such services shall not be considered a Federal or special government employee.
+
+
+(D) BROAD REPRESENTATION.—The Commission, in accepting and employing services of individuals under subparagraph (A), shall seek to achieve a broad representation of individuals and organizations.
+
+
+(E) RULES OF CONDUCT.—The Commission may establish rules of conduct and other regulations governing the service of individuals under this paragraph.
+
+
+(F) REGULATIONS FOR PERSONNEL PRACTICES.—The Commission may prescribe regulations to select, oversee, sanction, and dismiss any individual authorized under this paragraph to be employed by the Commission.
+
+
+(g) Expenditures.—
+
+
+(1) IN GENERAL.—The Commission may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for office supplies, online subscriptions, electronics, law books, periodicals, subscriptions, and books of reference), as may be necessary for the execution of the functions vested in the Commission and as may be appropriated for by Congress in accordance with the authorizations of appropriations under section 20.
+
+
+(2) REIMBURSEMENT.—All expenditures of the Commission, including all necessary expenses for transportation incurred by the commissioners or by their employees, under their orders, in making any investigation or upon any official business in any other places than in the city of Washington, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the Chair of the Commission or by such other members or officer thereof as may be designated by the Commission for that purpose.
+
+
+(3) GIFTS.—
+
+
+(A) IN GENERAL.—Notwithstanding any other provision of law, in furtherance of its functions the Commission is authorized to accept, hold, administer, and use unconditional gifts, donations, and bequests of real, personal, and other property (including voluntary and uncompensated services, as authorized by section 3109 of title 5, United States Code).
+
+
+(B) TAXES.—For the purpose of Federal law on income taxes, estate taxes, and gift taxes, property or services accepted under the authority of subparagraph (A) shall be deemed to be a gift, bequest, or devise to the United States.
+
+
+(C) REGULATIONS.—
+
+
+(i) IN GENERAL.—The Commission shall promulgate regulations to carry out this paragraph.
+
+
+(ii) CONFLICTS OF INTEREST.—The regulations promulgated under clause (i) shall include provisions to preclude the acceptance of any gift, bequest, or donation that would create a conflict of interest or the appearance of a conflict of interest.
+
+
+(h) Quorum; Seal.—
+
+
+(1) QUORUM.—Three members of the Commission shall constitute a quorum thereof.
+
+
+(2) SEAL.—The Commission shall have an official seal which shall be judicially noticed.
+
+
+(i) Duties And Powers.—The Commission may perform any and all acts, including collection of any information from digital platforms under the jurisdiction of the Commission as the Commission determines necessary, without regard to any final determination of the Office on Management and Budget under chapter 35 of title 44, United States Code (commonly referred to as the “Paperwork Reduction Act”), make such rules and regulations, and issue such orders, not inconsistent with this Act, as may be necessary in the execution of its functions.
+
+
+(j) Conduct Of Proceedings; Hearings.—
+
+
+(1) IN GENERAL.—The Commission may conduct its proceedings in such manner as will best conduce to the proper dispatch of business and to the ends of justice.
+
+
+(2) CONFLICT OF INTEREST.—No commissioner shall participate in any hearing or proceeding in which he has a pecuniary interest.
+
+
+(3) OPEN TO ALL PARTIES.—Any party may appear before the Commission and be heard in person or by attorney.
+
+
+(4) RECORD OF PROCEEDINGS.—
+
+
+(A) IN GENERAL.—Subject to subparagraph (B)—
+
+
+(i) every vote and official act of the Commission shall be entered of record; and
+
+
+(ii) the Commission shall endeavor to make each proceeding public, while recognizing the occasional need for private convening and deliberation.
+
+
+(B) DEFENSE INFORMATION.—The Commission may withhold publication of records or proceedings containing secret information affecting the national defense.
+
+
+(k) Record Of Reports.—All reports of investigations made by the Commission shall be entered of record, and a copy thereof shall be furnished to the party who may have complained, and to any digital platform or licensee that may have been complained of.
+
+
+(l) Publication Of Reports; Admissibility As Evidence.—The Commission shall provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and such authorized publications shall be competent evidence of the reports and decisions of the Commission therein contained in all courts of the United States and of the several States without any further proof or authentication thereof.
+
+
+(m) Compensation Of Appointees.—Rates of compensation of persons appointed under this section shall be subject to the reduction applicable to officers and employees of the Federal Government generally.
+
+
+(n) Memoranda Of Understanding.—The Commission shall enter into memoranda of understanding with the Federal Communications Commission, the Federal Trade Commission, and the Department of Justice to ensure, to the greatest extent possible, coordination, collaboration, and the effective use of Federal resources concerning areas of overlapping jurisdiction.SEC. 7. ORGANIZATION AND FUNCTIONING OF THE COMMISSION.
+
+
+(a) Chair; Duties; Vacancy.—
+
+
+(1) IN GENERAL.—The member of the Commission designated by the President as Chair shall be the chief executive officer of the Commission.
+
+
+(2) DUTIES.—The Chair of the Commission shall—
+
+
+(A) preside at all meetings and sessions of the Commission;
+
+
+(B) represent the Commission in all matters relating to legislation and legislative reports, except that any commissioner may present the commissioner's own or minority views or supplemental reports;
+
+
+(C) represent the Commission in all matters requiring conferences or communications with other governmental officers, departments, or agencies; and
+
+
+(D) generally coordinate and organize the work of the Commission in such manner as to promote prompt and efficient disposition of all matters within the jurisdiction of the Commission.
+
+
+(3) VACANCY.—In the case of a vacancy in the office of the Chair of the Commission, or the absence or inability of the Chair to serve, the Commission may temporarily designate a member of the Commission to act as Chair until the cause or circumstance requiring the designation is eliminated or corrected.
+
+
+(b) Organization Of Staff.—
+
+
+(1) IN GENERAL.—From time to time as the Commission may find necessary, the Commission shall organize its staff into—
+
+
+(A) bureaus, to function on the basis of the Commission’s principal workload operations; and
+
+
+(B) such other divisional organizations as the Commission may determine necessary.
+
+
+(2) INTEGRATION.—The Commission, to the extent practicable, shall organize the bureaus and other divisions of the Commission to—
+
+
+(A) promote collaboration and cross-cutting subject matter and technical expertise; and
+
+
+(B) avoid organization silos.
+
+
+(3) PERSONNEL.—Each bureau established under paragraph (1)(A) shall include such legal, engineering, accounting, administrative, clerical, and other personnel as the Commission may determine to be necessary to perform its functions.
+
+
+(4) EXPERT PERSONNEL.—The Commission shall prioritize, to the extent practicable, the hiring of staff with a demonstrated academic or professional background in computer science, data science, application development, technology policy, and other areas the Commission may determine necessary to perform its functions.
+
+
+(c) Delegation Of Functions; Exceptions To Initial Orders; Force, Effect, And Enforcement Of Orders; Administrative And Judicial Review; Qualifications And Compensation Of Delegates; Assignment Of Cases; Separation Of Review And Investigative Or Prosecuting Functions; Secretary; Seal.—
+
+
+(1) DELEGATION OF FUNCTIONS.—
+
+
+(A) IN GENERAL.—When necessary to the proper functioning of the Commission and the prompt and orderly conduct of its business, the Commission may, by published rule or by order, delegate any of its functions to a panel of commissioners, an individual commissioner, an employee board, or an individual employee, including functions with respect to hearing, determining, ordering, certifying, reporting, or otherwise acting as to any work, business, or matter; except that in delegating review functions to employees in cases of adjudication (as defined in section 551 of title 5, United States Code), the delegation in any such case may be made only to an employee board consisting of 2 or more employees referred to in paragraph (7).
+
+
+(B) MINIMUM VOTE.—Any rule or order described in subparagraph (A) may be adopted, amended, or rescinded only by a vote of a majority of the members of the Commission then holding office.
+
+
+(2) FORCE, EFFECT, AND ENFORCEMENT OF ORDERS.—Any order, decision, report, or action made or taken pursuant to a delegation under paragraph (1), unless reviewed as provided in paragraph (3), shall have the same force and effect, and shall be made, evidenced, and enforced in the same manner, as orders, decisions, reports, or other actions of the Commission.
+
+
+(3) ADMINISTRATIVE AND JUDICIAL REVIEW.—
+
+
+(A) AGGRIEVED PERSONS.—Any person aggrieved by an order, decision, report, or action described in paragraph (1) may file an application for review by the Commission within such time and in such manner as the Commission shall prescribe, and every such application shall be passed upon by the Commission.
+
+
+(B) INITIATIVE OF COMMISSION.—The Commission, on its own initiative, may review in whole or in part, at such time and in such manner as it shall determine, any order, decision, report, or action made or taken pursuant to any delegation under paragraph (1).
+
+
+(4) REVIEW.—
+
+
+(A) IN GENERAL.—In passing upon an application for review filed under paragraph (3), the Commission may grant, in whole or in part, or deny the application without specifying any reasons therefor.
+
+
+(B) QUESTIONS OF FACT OR LAW.—No application for review filed under paragraph (3)(A) shall rely on questions of fact or law upon which the panel of commissioners, individual commissioner, employee board, or individual employee has been afforded no opportunity to pass.
+
+
+(5) GRANT OF APPLICATION.—If the Commission grants an application for review filed under paragraph (3)(A), the Commission may—
+
+
+(A) affirm, modify, or set aside the order, decision, report, or action; or
+
+
+(B) order a rehearing upon the order, decision, report, or action.
+
+
+(6) APPLICATION REQUIRED FOR JUDICIAL REVIEW.—The filing of an application for review under paragraph (3)(A) shall be a condition precedent to judicial review of any order, decision, report, or action made or taken pursuant to a delegation under paragraph (1).
+
+
+(7) QUALIFICATIONS AND COMPENSATION OF DELEGATES; ASSIGNMENT OF CASES; SEPARATION OF REVIEW AND INVESTIGATIVE OR PROSECUTING FUNCTIONS.—
+
+
+(A) QUALIFICATIONS OF DELEGATES.—The employees to whom the Commission may delegate review functions in any case of adjudication (as defined in the Administrative Procedure Act)—
+
+
+(i) shall be qualified, by reason of their training, experience, and competence, to perform such review functions; and
+
+
+(ii) shall perform no duties inconsistent with such review functions.
+
+
+(B) COMPENSATION.—An employee described in subparagraph (A) shall be in a grade classification or salary level commensurate with the important duties of the employee, and in no event less than the grade classification or salary level of the employee or employees whose actions are to be reviewed.
+
+
+(C) SEPARATION.—In the performance of review functions described in subparagraph (A), employees described in that subparagraph—
+
+
+(i) shall be assigned to cases in rotation so far as practicable; and
+
+
+(ii) shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent engaged in the performance of investigative or prosecuting functions for any agency.
+
+
+(8) SECRETARY; SEAL.—The secretary and seal of the Commission shall be the secretary and seal of each panel of the Commission, each individual commissioner, and each employee board or individual employee exercising functions delegated pursuant to paragraph (1) of this subsection.
+
+
+(d) Meetings.—Meetings of the Commission shall be held at regular intervals, not less frequently than once each calendar month, at which times the functioning of the Commission and the handling of its workload shall be reviewed and such orders shall be entered and other action taken as may be necessary or appropriate to expedite the prompt and orderly conduct of the business of the Commission with the objective of rendering a final decision in a timely fashion.
+
+
+(e) Managing Director.—
+
+
+(1) IN GENERAL.—The Commission shall have a Managing Director who shall be appointed by the Chair subject to the approval of the Commission.
+
+
+(2) FUNCTIONS.—The Managing Director, under the supervision and direction of the Chair, shall perform such administrative and executive functions as the Chair shall delegate.
+
+
+(3) PAY.—The Managing Director shall be paid at a rate equal to the rate then payable for grade 15 of the pay scale of the Securities and Exchange Commission.SEC. 8. CODE COUNCIL.
+
+
+(a) Establishment.—The Commission shall establish a Code Council that shall develop proposed voluntary or enforceable behavioral codes, technical standards, or other policies for digital platforms through the code process under subsection (e), including with respect to transparency and accountability for algorithmic processes.
+
+
+(b) Membership.—
+
+
+(1) IN GENERAL.—The Council shall consist of 18 members, of whom—
+
+
+(A) 6 shall be representatives of digital platforms or associations of digital platforms, not fewer than 3 of whom shall be representatives of systemically important digital platforms or associations that include systemically important digital platforms;
+
+
+(B) 6 shall be representatives of nonprofit public interest groups, academics, and other experts not affiliated with commercial enterprises, with demonstrated expertise in technology policy, law, consumer protection, privacy, competition, disinformation, or another area the Chair determines relevant; and
+
+
+(C) 6 shall be technical experts in engineering, application development, computer science, data science, machine learning, communications, media studies, and any other discipline the Chair determines relevant.
+
+
+(2) APPOINTMENT.—The Chair shall appoint each member of the Council, subject to approval by the Commission.
+
+
+(3) TERMS.—
+
+
+(A) IN GENERAL.—A member of the Council shall be appointed for a term of 3 years.
+
+
+(B) STAGGERED TERMS.—The terms of members of the Council shall be staggered such that one-third of the membership of the Council changes each year.
+
+
+(c) Meetings.—The Council shall meet publicly not less frequently than once a month.
+
+
+(d) Chair And Vice Chair.—
+
+
+(1) IN GENERAL.—There shall be a Chair and Vice Chair of the Council—
+
+
+(A) one of whom shall be a member described in subparagraph (A) of subsection (b)(1); and
+
+
+(B) one of whom shall be a member described in subparagraph (B) of subsection (b)(1).
+
+
+(2) ANNUAL ROTATION.—The Chair or Vice Chair for a calendar year shall be a member described in a different subparagraph of subsection (b)(1) than the member who served as Chair or Vice Chair, respectively, for the preceding calendar year.
+
+
+(e) Code Process.—
+
+
+(1) IN GENERAL.—The Commission may, at any time, initiate a process to develop a voluntary or enforceable behavioral code, technical standard, or other policy for digital platforms or a class of digital platforms.
+
+
+(2) INITIATION BASED ON PETITION OR COUNCIL VOTE.—The Commission may initiate the process described in paragraph (1) if—
+
+
+(A) the Commission receives a petition from the public, including from a digital platform or an association of digital platforms; or
+
+
+(B) the Council votes to initiate the process.
+
+
+(3) COUNCIL EXAMINATION AND VOTE.—If the process described in paragraph (1) is initiated, the Council—
+
+
+(A) shall consider and develop, if appropriate, a proposed behavioral code, technical standard, or other policy for digital platforms or a class of digital platforms;
+
+
+(B) in considering and developing a proposed code, standard, or policy under subparagraph (A), shall—
+
+
+(i) allow for submission of feedback by any interested party; and
+
+
+(ii) make available to the public a factual record, developed during the consideration and development of the proposed code, standard, or policy, that includes any submission received under clause (i);
+
+
+(C) not earlier than 180 days and not later than 360 days after the date on which the process is initiated, shall vote on whether to submit a recommendation for the proposed code, standard, or policy to the Commission; and
+
+
+(D) may submit minority views along with a recommendation under subparagraph (C), as appropriate.
+
+
+(4) PUBLIC REVIEW; COMMISSION EXAMINATION AND VOTE.—Upon receipt of a recommendation for a proposed behavioral code, technical standard, or other policy from the Council under paragraph (3), the Commission shall—
+
+
+(A) allow for submission of comments on the proposed code, standard, or policy by any interested party for a period of not fewer than 45 days and not more than 90 days, and publicly disclose any comments received;
+
+
+(B) examine the proposed code, standard, or policy, along with comments received under subparagraph (A);
+
+
+(C) determine whether to adopt, reject, or adopt with modifications the proposed code, standard, or policy;
+
+
+(D) provide a public rationale for the determination under subparagraph (C); and
+
+
+(E) promulgate rules to carry out the determination under subparagraph (C) in accordance with section 553 of title 5, United States Code.
+
+
+(5) UPDATES.—Not less frequently than once every 5 years, the Commission shall review and update, as necessary, any behavioral code, technical standard, or other policy established by rule under paragraph (4).
+
+
+(6) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to affect the authority of the Commission to promulgate rules under section 9.
+
+
+(f) Qualifications.—
+
+
+(1) CITIZENSHIP.—Each member of the Council shall be a United States citizen or an alien lawfully admitted for permanent residence to the United States.
+
+
+(2) CONFLICTS OF INTEREST.—
+
+
+(A) IN GENERAL.—Subject to subparagraphs (B) and (C), no member of the Council other than a member appointed under subsection (b)(1)(A) shall—
+
+
+(i) be financially interested in any company or other entity engaged in the business of providing online services;
+
+
+(ii) be financially interested in any company or other entity that controls any company or other entity specified in clause (i), or that derives a significant portion of its total income from ownership of stocks, bonds, or other securities of any such company or other entity; or
+
+
+(iii) be employed by, hold any official relation to, or own any stocks, bonds, or other securities of, any person significantly regulated by the Commission under this Act.
+
+
+(B) SIGNIFICANT INTEREST.—The prohibitions under subparagraph (A) shall apply only to financial interests in any company or other entity that has a significant interest in activities subject to regulation by the Commission.
+
+
+(C) WAIVER.—
+
+
+(i) IN GENERAL.—Subject to section 208 of title 18, United States Code, the Commission may waive, from time to time, the application of the prohibitions under subparagraph (A) to a member of the Council if the Commission determines that the financial interests of the member that are involved in a particular case are minimal.
+
+
+(ii) PUBLICATION.—If the Commission exercises the waiver authority under clause (i), the Commission shall publish notice of that action in the Federal Register.
+
+
+(3) DETERMINATION OF SIGNIFICANT INTEREST.—The Commission, in determining for purposes of paragraph (2) whether a company or other entity has a significant interest in activities that are subject to regulation by the Commission, shall consider, without excluding other relevant factors—
+
+
+(A) the revenues, investments, profits, and managerial efforts directed to the related activities of the company or other entity, as compared to the other aspects of the business of the company or other entity;
+
+
+(B) the extent to which the Commission regulates and oversees the activities of the company or other entity;
+
+
+(C) the degree to which the economic interests of the company or other entity may be affected by any action of the Commission; and
+
+
+(D) the perceptions held by the public regarding the business activities of the company or other entity.
+
+
+(g) Rule Of Construction.—Nothing in this section shall be construed to authorize the Council to promulgate rules.SEC. 9. RULEMAKING AUTHORITY, REQUIREMENTS, AND CONSIDERATIONS.
+
+
+The Commission—
+
+
+(1) may promulgate rules to carry out this Act in accordance with section 553 of title 5, United States Code; and
+
+
+(2) shall tailor the rules promulgated under paragraph (1), as appropriate, based on the size, dominance, and other attributes of particular digital platforms.SEC. 10. SYSTEMICALLY IMPORTANT DIGITAL PLATFORMS.
+
+
+(a) Designation Of SIDPs; Rulemaking Authority.—The Commission may—
+
+
+(1) designate systemically important digital platforms in accordance with this section; and
+
+
+(2) promulgate rules specific to systemically important digital platforms, consistent with the purposes of the Commission under section 4(b).
+
+
+(b) Mandatory Criteria.—The Commission shall designate a digital platform a systemically important digital platform if the platform—
+
+
+(1) is open to the public on one side;
+
+
+(2) has significant engagement among users, which may take the form of private groups, public groups, and the sharing of posts visible to some or all users;
+
+
+(3) conducts business primarily at the interstate or international level, as opposed to the intrastate level; and
+
+
+(4) has operations with significant nationwide economic, social, or political impacts, as defined by the Commission for purposes of this paragraph through notice-and-comment rulemaking under section 553 of title 5, United States Code, which may include—
+
+
+(A) the ability of the platform to significantly shape the national dissemination of news;
+
+
+(B) the ability of the platform to cause a person significant, immediate, and demonstrable economic, social, or political harm by exclusion from the platform;
+
+
+(C) the market power of the platform;
+
+
+(D) the number of unique daily users of the platform; and
+
+
+(E) the dependence of business users, especially small business users (including entrepreneurs from communities of color and underserved populations), on the platform to reach customers.
+
+
+(c) Annual And Other Reports.—
+
+
+(1) AUTHORITY TO REQUIRE REPORTS.—The Commission may—
+
+
+(A) require annual reports from systemically important digital platforms subject to this Act, and from persons directly or indirectly controlling or controlled by, or under direct or indirect control with, any such platform;
+
+
+(B) prescribe the content expected in such reports;
+
+
+(C) prescribe the manner in which such reports shall be made; and
+
+
+(D) require from such persons specific answers to all questions upon which the Commission may need information.
+
+
+(2) ADMINISTRATION.—
+
+
+(A) TIME PERIOD COVERED; FILING.—A report under paragraph (1)—
+
+
+(i) shall be for such 12 months’ period as the Commission shall designate; and
+
+
+(ii) shall be filed with the Commission at its office in Washington not later than 3 months after the close of the year for which the report is made, unless additional time is granted in any case by the Commission.
+
+
+(B) FAILURE TO MEET DEADLINE.—If a person subject to this subsection fails to make and file an annual report within the time specified under subparagraph (A), or within the time extended by the Commission, for making and filing the report, or fails to make specific answer to any question authorized by this subsection within 30 days after the time the person is lawfully required so to do, the person shall forfeit to the United States—
+
+
+(i) $10,000 for each day the person continues to be in default with respect thereto, for the first 30 days of such default; and
+
+
+(ii) an amount determined appropriate by the Commission for each subsequent day that the person continues to be in default with respect thereto, which may not exceed 1 percent of the total global revenue of the person during the preceding year.SEC. 11. INTER-AGENCY SUPPORT.
+
+
+(a) Expert Support.—Upon request from any other Federal agency for expertise, technical assistance, or other support from the Commission, the Commission shall provide that support.
+
+
+(b) Required Consultation By Other Federal Agencies.—Any Federal agency, including the Federal Trade Commission and the Antitrust Division of the Department of Justice, engaged in investigation, regulation, or oversight with respect to the impact of digital platforms on consumer protection, competition, civic engagement, or democratic values and institutions shall consult with the Commission in carrying out that investigation, regulation, or oversight.
+
+
+(c) Required Consultation With Other Federal Agencies.—The Commission, in carrying out investigation, regulation, or oversight with respect to the impact of digital platforms on consumer protection, competition, civic engagement, or democratic values and institutions, shall consult with each other Federal agency, including the Federal Trade Commission and the Antitrust Division of the Department of Justice, that is engaged in investigation, regulation, or oversight with respect to the impact of digital platforms on consumer protection, competition, civic engagement, or democratic values and institutions.SEC. 12. PETITIONS.
+
+
+(a) Petition For Forbearance.—
+
+
+(1) SUBMISSION.—
+
+
+(A) IN GENERAL.—Any digital platform or association of digital platforms may submit a petition to the Commission requesting that the Commission forbear the application and enforcement of a rule promulgated under this Act, including a behavioral code of conduct, technical standard, or other policy established by rule under section 8.
+
+
+(B) PUBLICATION.—
+
+
+(i) IN GENERAL.—Subject to clause (ii), the Commission shall make a petition submitted under subparagraph (A) available to the public.
+
+
+(ii) WAIVER.—The Commission may waive the requirement under clause (i) if the Commission makes the rationale for the waiver available to the public.
+
+
+(2) DISMISSAL WITHOUT PREJUDICE.—
+
+
+(A) IN GENERAL.—Any petition submitted under paragraph (1) shall be deemed dismissed without prejudice if the Commission does not grant the petition within 18 months after the date on which the Commission receives the petition, unless the Commission extends the 18-month period under subparagraph (B) of this paragraph.
+
+
+(B) EXTENSION.—The Commission may extend the initial 18-month period under subparagraph (A) by an additional 3 months.
+
+
+(3) SCOPE OF GRANT AUTHORITY; WRITTEN EXPLANATION.—The Commission may grant or deny a petition submitted under paragraph (1) in whole or in part and shall explain its decision in writing.
+
+
+(4) NOTICE AND COMMENT REQUIREMENTS.—Section 553 of title 5, United States Code, shall apply to any determination of the Commission to forbear the application and enforcement of a rule under paragraph (1) of this subsection.
+
+
+(b) State Enforcement After Commission Forbearance.—A State commission may not continue to apply or enforce any rule, including any behavioral code, technical standard, or other policy established by rule, that the Commission has determined to forbear from applying under subsection (a).SEC. 13. RESEARCH.
+
+
+(a) Research Office.—In order to carry out the purposes of this Act, the Commission shall establish an office with not fewer than 20 dedicated employees to conduct internal research, and collaborate with outside academics and experts, as appropriate, to further the purposes of the Commission under section 4(b).
+
+
+(b) Research Grants.—
+
+
+(1) IN GENERAL.—The office established under subsection (a) may competitively award grants to academic institutions and experts to conduct research consistent with the purposes of the Commission under section 4(b).
+
+
+(2) PUBLIC AVAILABILITY.—A recipient of a grant awarded under paragraph (1) shall make the findings of the research conducted using the grant publicly available.
+
+
+(c) Pilot Research Program For Sensitive Data.—The Commission shall by rule establish a pilot program that allows vetted, nonprofit, financially disinterested academic institutions and experts to access data and other information collected from a digital platform by the Commission for the purposes of research and analysis consistent with the public interest, while—
+
+
+(1) ensuring that no personally identifiable information of any user of the digital platform is publicly available; and
+
+
+(2) making every effort to—
+
+
+(A) avoid harm to the business interests of the digital platform; and
+
+
+(B) ensure the safety and security of the private data and other information of the digital platform.SEC. 14. INVESTIGATIVE AUTHORITY.
+
+
+(a) In General.—The Commission may inquire into the management of the business of digital platforms subject to this Act, and shall keep itself informed as to the manner and method in which that management is conducted and as to technical and business developments in the provision of online services.
+
+
+(b) Information.—The Commission may obtain from digital platforms subject to this Act and from persons directly or indirectly controlling or controlled by, or under direct or indirect control with, those platforms full and complete information necessary, including data flows, to enable the Commission to perform the duties and carry out the objects for which it was created.SEC. 15. HSR FILINGS.
+
+
+Section 7A of the Clayton Act (15 U.S.C. 18a) is amended by adding at the end the following:
+
+
+“(l) (1) In this subsection—
+
+
+“(A) the terms ‘Commission’ and ‘systemically important digital platform’ have the meanings given the terms in section 3 of the Digital Platform Commission Act of 2023; and
+
+
+“(B) the term ‘covered acquisition’ means an acquisition—
+
+
+“(i) subject to this section; and
+
+
+“(ii) in which the acquiring person or the person whose voting securities or assets are being acquired is a systemically important digital platform.
+
+
+“(2) Any notification required under subsection (a) for a covered acquisition shall be submitted to the Commission.
+
+
+“(3) The Commission may request the submission of additional information or documentary material relevant to a covered acquisition.
+
+
+“(4) The Commission may submit a recommendation to the Federal Trade Commission and the Assistant Attorney General on whether the covered acquisition violates any of the purposes of the Commission under section 4(b) of the Digital Platform Commission Act of 2023.
+
+
+“(5) The Federal Trade Commission and the Assistant Attorney General—
+
+
+“(A) shall cooperate with the Commission in determining whether a covered acquisition, if consummated, would violate the antitrust laws or the purposes of the Commission under section 4(b) of the Digital Platform Commission Act of 2023;
+
+
+“(B) may use the recommendation of the Commission as a basis for rejecting the covered acquisition, or for imposing additional requirements to consummate the acquisition, even if the covered acquisition does not violate the antitrust laws but violates other purposes of the Commission under section 4(b) of the Digital Platform Commission Act of 2023; and
+
+
+“(C) in making a determination described in subparagraphs (A), shall give substantial weight to the recommendation of the Commission.”.SEC. 16. ENFORCEMENT BY PRIVATE PERSONS AND GOVERNMENTAL ENTITIES.
+
+
+(a) Recovery Of Damages.—Any person claiming to be damaged by any digital platform subject to this Act may—
+
+
+(1) make complaint to the Commission under subsection (b); or
+
+
+(2) bring a civil action for enforcement of this Act, including the rules promulgated under this Act, in any district court of the United States of competent jurisdiction.
+
+
+(b) Complaints To The Commission.—
+
+
+(1) IN GENERAL.—
+
+
+(A) APPLICATION.—Any person, any body politic or municipal organization, or any State attorney general or State commission, complaining of anything done or omitted to be done by any digital platform subject to this Act, in contravention of the provisions thereof, may apply to the Commission by petition which shall briefly state the facts, whereupon a statement of the complaint thus made shall be forwarded by the Commission to the digital platform, which shall be called upon to satisfy the complaint or to answer the complaint in writing within a reasonable time to be specified by the Commission.
+
+
+(B) RELIEF OF LIABILITY.—If a digital platform described in subparagraph (A) within the time specified makes reparation for the injury alleged to have been caused, the platform shall be relieved of liability to the complainant only for the particular violation of law thus complained of.
+
+
+(C) INVESTIGATION.—If a digital platform described in subparagraph (A) does not satisfy the complaint within the time specified or there shall appear to be any reasonable ground for investigating the complaint, the Commission shall investigate the matters complained of in such manner and by such means as the Commission determines proper.
+
+
+(D) DIRECT DAMAGE NOT REQUIRED.—No complaint shall at any time be dismissed because of the absence of direct damage to the complainant.
+
+
+(2) ORDER.—
+
+
+(A) IN GENERAL.—The Commission shall, with respect to any investigation under this subsection of the lawfulness of a charge, classification, regulation, or practice, issue an order concluding the investigation not later than 180 days after the date on which the complaint was filed.
+
+
+(B) FINAL ORDER.—Any order concluding an investigation under subparagraph (A) shall be a final order and may be appealed under section 18.
+
+
+(3) ORDERS FOR PAYMENT OF MONEY.—If, after hearing on a complaint under this paragraph, the Commission determines that any party complainant is entitled to an award of damages under this Act, the Commission shall make an order directing the digital platform to pay to the complainant the sum to which the complainant is entitled on or before a day named.
+
+
+(c) Enforcement By State Attorneys General.—If the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by any person who violates this Act or a rule promulgated under this Act, the attorney general of the State, as parens patrie, may bring a civil action on behalf of the residents of the State in any district court of the United States of competent jurisdiction for enforcement of this Act, including the rules promulgated under this Act.
+
+
+(d) Liability Of Digital Platform For Acts And Omissions Of Agents.—In construing and enforcing the provisions of this Act, the act, omission, or failure of any officer, agent, or other person acting for or employed by any digital platform or user, acting within the scope of his employment, shall in every case be also deemed to be the act, omission, or failure of the platform or user as well as that of the person.SEC. 17. ENFORCEMENT BY COMMISSION AND DEPARTMENT OF JUSTICE.
+
+
+(a) Orders.—
+
+
+(1) ADMINISTRATIVE ORDER.—If the Commission believes that a person has violated or will violate this Act, the Commission may issue and cause to be served on the person an order requiring the person, as applicable—
+
+
+(A) to cease and desist, or refrain, from the violation; or
+
+
+(B) to pay restitution to any victim of the violation.
+
+
+(2) CIVIL ACTION TO ENFORCE ORDER.—The Commission or the Attorney General may bring a civil action in an appropriate district court of the United States to enforce an order issued under paragraph (1).
+
+
+(b) Civil Penalty.—
+
+
+(1) IN GENERAL.—Any digital platform that knowingly violates this Act shall be liable to the United States for a civil penalty.
+
+
+(2) SEPARATE OFFENSES.—Each distinct violation described in paragraph (1) shall be a separate offense, and in case of continuing violation each day shall be deemed a separate offense.
+
+
+(3) DETERRENCE.—The Commission shall establish a civil penalty for a violation of this Act in an amount that the Commission determines appropriate to deter future violations of this Act.
+
+
+(4) ANNUAL CAP.—The total amount of civil penalties imposed on a digital platform during a year under paragraph (1) may not exceed 15 percent of the total global revenue of the digital platform during the preceding year.SEC. 18. PROCEEDINGS TO ENJOIN, SET ASIDE, ANNUL, OR SUSPEND ORDERS OF THE COMMISSION.
+
+
+(a) Right To Appeal.—An appeal may be taken from any decision or order of the Commission, by any person who is aggrieved or whose interests are adversely affected by the decision or order, to the United States Court of Appeals for the District of Columbia or the United States court of appeals for the circuit in which the person resides.
+
+
+(b) Filing Notice Of Appeal; Contents; Jurisdiction; Temporary Orders.—
+
+
+(1) FILING NOTICE OF APPEAL.—An appeal described in subsection (a) shall be taken by filing a notice of appeal with the appropriate United States court of appeals not later than 30 days after the date on which public notice is given of the decision or order complained of.
+
+
+(2) CONTENTS.—A notice of appeal filed under paragraph (1) shall contain—
+
+
+(A) a concise statement of the nature of the proceedings as to which the appeal is taken;
+
+
+(B) a concise statement of the reasons on which the appellant intends to rely, separately stated and numbered; and
+
+
+(C) proof of service of a true copy of the notice and statements upon the Commission.
+
+
+(3) JURISDICTION.—Upon the filing of a notice of appeal with a United States court of appeals under paragraph (1), the court—
+
+
+(A) shall have jurisdiction of the proceedings and of the questions determined therein; and
+
+
+(B) shall have power, by order, directed to the Commission or any other party to the appeal, to grant such temporary relief as the court may deem just and proper.
+
+
+(4) TEMPORARY ORDERS.—An order granting temporary relief issued by the court under paragraph (3)—
+
+
+(A) may be affirmative or negative in scope and application so as to permit—
+
+
+(i) the maintenance of the status quo in the matter in which the appeal is taken; or
+
+
+(ii) the restoration of a position or status terminated or adversely affected by the order appealed from; and
+
+
+(B) shall, unless otherwise ordered by the court, be effective pending hearing and determination of the appeal and compliance by the Commission with the final judgment of the court rendered in the appeal.
+
+
+(c) Notice To Interested Parties; Filing Of Record.—
+
+
+(1) NOTICE TO INTERESTED PARTIES.—Not later than 5 days after filing a notice of appeal under subsection (b), the appellant shall provide, to each person shown by the records of the Commission to be interested in the appeal, notice of—
+
+
+(A) the filing; and
+
+
+(B) the pendency of the appeal.
+
+
+(2) FILING OF RECORD.—The Commission shall file with the court the record upon which the order complained of was entered, as provided in section 2112 of title 28, United States Code.
+
+
+(d) Intervention.—
+
+
+(1) RIGHT TO INTERVENE.—Not later than 30 days after the filing of an appeal described in subsection (a), any interested party may intervene and participate in the proceedings had upon the appeal by filing with the court—
+
+
+(A) a notice of intention to intervene and a verified statement showing the nature of the interest of the person; and
+
+
+(B) proof of service of true copies of the notice and statement described in subparagraph (A) upon—
+
+
+(i) the appellant; and
+
+
+(ii) the Commission.
+
+
+(2) INTERESTED PARTY.—For purposes of paragraph (1), any person who would be aggrieved or whose interest would be adversely affected by a reversal or modification of the order of the Commission complained of shall be considered an interested party.
+
+
+(e) Record And Briefs.—The record and briefs upon which an appeal described in subsection (a) shall be heard and determined by the court shall contain such information and material, and shall be prepared within such time and in such manner, as the court may by rule prescribe.
+
+
+(f) Time Of Hearing; Procedure.—The court shall hear and determine an appeal described in subsection (a) upon the record before it in the manner prescribed by section 706 of title 5, United States Code.
+
+
+(g) Remand.—If the court renders a decision and enters an order reversing the order of the Commission—
+
+
+(1) the court shall remand the case to the Commission to carry out the judgment of the court; and
+
+
+(2) the Commission, in the absence of proceedings to review the judgment under paragraph (1) or (2) of subsection (i), shall forthwith give effect to the judgment, and unless otherwise ordered by the court, shall do so upon the basis of—
+
+
+(A) the proceedings already had; and
+
+
+(B) the record upon which the appeal was heard and determined.
+
+
+(h) Judgment For Costs.—The court may, in its discretion, enter judgment for costs in favor of or against an appellant, or other interested parties intervening in the appeal, but not against the Commission, depending upon the nature of the issues involved in the appeal and the outcome of the appeal.
+
+
+(i) Finality Of Decision; Review By Supreme Court.—The judgment of a court of appeals under this section shall be final, subject to review by the Supreme Court of the United States—
+
+
+(1) upon writ of certiorari on petition therefor under section 1254 of title 28, United States Code, by—
+
+
+(A) the appellant;
+
+
+(B) the Commission; or
+
+
+(C) any interested party intervening in the appeal; or
+
+
+(2) by certification by the court of appeals under such section 1254.SEC. 19. REPORT TO CONGRESS.
+
+
+(a) In General.—Not earlier than 5 years after the date of enactment of this Act, the President shall establish an independent panel to—
+
+
+(1) comprehensively study the policies, operations, and regulations of the Commission; and
+
+
+(2) submit an in-depth report to the congressional committees of jurisdiction, including the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, that includes—
+
+
+(A) an evaluation of the effectiveness of the Commission in achieving the purposes under section 4(b);
+
+
+(B) recommended reforms to strengthen the Commission; and
+
+
+(C) a recommendation regarding whether the Commission should continue in effect.
+
+
+(b) Membership.—The independent panel established under subsection (a) shall consist of 10 members, of whom—
+
+
+(1) 2 shall be appointed by the President;
+
+
+(2) 2 shall be appointed by the majority leader of the Senate;
+
+
+(3) 2 shall be appointed by the minority leader of the Senate;
+
+
+(4) 2 shall be appointed by the Speaker of the House of Representatives; and
+
+
+(5) 2 shall be appointed by the minority leader of the House of Representatives.
+
+
+SEC. 20. AUTHORIZATION OF APPROPRIATIONS.
+There are authorized to be appropriated to the Commission to carry out the functions of the Commission—
+
+
+(1) $100,000,000 for fiscal year 2023;
+
+
+(2) $200,000,000 for fiscal year 2024;
+
+
+(3) $300,000,000 for fiscal year 2025;
+
+
+(4) $450,000,000 for fiscal year 2026; and
+
+
+(5) $500,000,000 for each of fiscal years 2027 through 2032.

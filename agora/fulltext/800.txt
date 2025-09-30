@@ -1,0 +1,78 @@
+ SEC. 304. DATA ASSIMILATION, MANAGEMENT, AND SHARING PRACTICES.
+
+
+Title III of the Weather Research and Forecasting Innovation Act of 2017, as amended by section 303 of this Act, is further amended by adding at the end the following new section:
+
+
+“SEC. 305. DATA ASSIMILATION, MANAGEMENT, AND SHARING PRACTICES.
+
+
+“(a) Data Standards.—The Under Secretary, in collaboration with the weather enterprise, shall seek to establish consistent and open data and metadata standards to support open science, including simple cloud-optimized data formats and application programming interfaces that support findability, accessibility, usability, and preservability.
+
+ “(b) Data Infrastructure.—
+
+
+“(1) IN GENERAL.—The Under Secretary, in consultation with the Chief Information Officer and appropriate program heads, shall consolidate and arrange data infrastructure needs to ensure efficient and effective data transfer between National Oceanic and Atmospheric Administration offices by considering the use of commercial cloud technologies, or similar hybrid structures, to host and transmit data and metadata.
+
+
+“(2) FEDERAL PARTNERSHIPS.—In carrying out paragraph (1), the Under Secretary may partner with the heads of other Federal departments and agencies, including the National Aeronautics and Space Administration, the Department of Energy, the United States Space Force, the United States Coast Guard, the United States Navy, the Federal Aviation Administration, the United States Forest Service, the Environmental Protection Agency, the National Science Foundation, and the United States Geological Survey, to collocate data with joint utility and support a transition to cloud architectures, including commercial cloud networks.
+
+
+“(3) LONG TERM DATA ARCHIVE.—The Under Secretary shall ensure the long-term management, maintenance, and stewardship of archival data and metadata acquired through the Commercial Data Program under section 302 is conducted within the National Centers for Environmental Information.
+
+ “(c) Data Sharing With The Weather Enterprise.—To the greatest extent practicable, the Under Secretary shall make accessible to members of the weather enterprise that are United States persons data not subject to redistribution contract permissions and purchased through the Commercial Data Program under section 302 or shared through international government partners. If purchased data must be assimilated into numerical weather prediction models or automated forecast guidance to satisfy redistribution contract permissions, the Under Secretary shall make accessible without delay to members of the weather enterprise that are United States persons the numerical weather prediction model or automated forecast guidance output, as the case may be.
+
+ “(d) Data Assimilation.—
+
+
+“(1) IN GENERAL.—The Under Secretary, in coordination with the Commercial Data Program under section 302, the National Centers for Environmental Information, and any other offices within the Administration, shall establish a program to test, advance, and implement data assimilation methods, which may include artificial intelligence, machine learning, data pre- and post-processing, efficient input and output, and next-generation algorithms.
+
+
+“(2) DATA ASSIMILATION UNIVERSITY CONSORTIUM.—Through the program established pursuant to paragraph (1), the Under Secretary shall establish a consortium consisting of institutions of higher education (as such term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) to address critical research challenges for data assimilation and foster a growing data assimilation workforce. The consortium shall seek to—
+
+
+“(A) solve critical research issues for data assimilation through innovative research;
+
+
+“(B) increase significantly the number of students, including graduate level and Ph.D. candidates, in data assimilation;
+
+
+“(C) utilize modern software and frameworks, such as the Joint Effort for Data Assimilation Integration, to conduct data assimilation research and development and facilitate research to operations efforts;
+
+
+“(D) identify and prioritize critical research areas in data assimilation and facilitate operations to research efforts;
+
+
+“(E) establish and enable an effective collaboration infrastructure between National Oceanic and Atmospheric Administration facilities, such as labs, centers, or joint agency institutes, and the research community, including a mechanism for external partners to host Administration employees; and
+
+
+“(F) establish mechanisms to enable all members of the consortium to archive and access data required to support the work under this subsection.
+
+
+“(3) COORDINATION.—In carrying out this subsection, the Under Secretary shall ensure the National Oceanic and Atmospheric Administration and its associated activities focus on research to operations and operations to research, including by coordinating and collaborating with the Joint Center for Satellite Data Assimilation.
+
+
+“(4) DATA ASSIMILATION, MANAGEMENT, AND SHARING PRACTICES SECURITY.—The activities authorized under this subsection shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167; 42 U.S.C. 19231 et seq.).
+
+ “(e) Study On Data Management.—
+
+
+“(1) IN GENERAL.—Not later than 90 days after the data of the enactment of this section, the Under Secretary shall seek to enter into an agreement with a non-Federal entity to conduct a study on matters concerning data practices and management needs at the National Oceanic and Atmospheric Administration. In conducting the study, the outside entity shall—
+
+
+“(A) assess the costs and benefits of current data management needs for observational and operational mission requirements;
+
+
+“(B) develop recommendations regarding how to make more robust and cost-effective the data portfolio of the Administration;
+
+
+“(C) identify data infrastructure technologies and needs that are essential to the performance of modeling systems of the Administration;
+
+
+“(D) assess the sharing needs and practices of the Administration for both internal and external sharing dissemination; and
+
+
+“(E) develop recommendations for methods of data infrastructure sharing, including data purchased from the commercial sector.
+
+
+“(2) AUTHORIZATION OF APPROPRIATIONS.—From amounts authorized to be appropriated to the Commercial Data Program under section 302, there are authorized to be appropriated to carry out the study under paragraph (1) $1,000,000, to remain available until expended.”.

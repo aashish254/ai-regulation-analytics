@@ -1,0 +1,21 @@
+SEC. 232. PILOT PROGRAM ON DATA REPOSITORIES TO FACILITATE THE DEVELOPMENT OF ARTIFICIAL INTELLIGENCE CAPABILITIES FOR THE DEPARTMENT OF DEFENSE.
+
+(a) Establishment of Data Repositories.--
+The Secretary of Defense, acting through the Chief Data Officer of the Department of Defense and the Director of the Joint Artificial Intelligence Center (and such other officials as the Secretary determines appropriate), may carry out a pilot program under which the Secretary--
+	(1) establishes data repositories containing Department of Defense data sets relevant to the development of artificial intelligence software and technology; and
+	(2) allows appropriate public and private sector organizations to access such data repositories for the purpose of developing improved artificial intelligence and machine learning software capabilities that may, as determined appropriate by the Secretary, be procured by the Department to satisfy Department requirements and technology development goals.
+
+(b) Elements.--If the Secretary of Defense carries out the pilot program under subsection (a), the data repositories established under the program--
+	(1) may include unclassified training quality data sets and associated labels representative of diverse types of information, representing Department of Defense missions, business processes, and activities; and
+	(2) shall--
+		(A) be categorized and annotated to support development of a common evaluation framework for artificial intelligence models and other technical software solutions;
+		(B) be made available to appropriate public and private sector organizations to support rapid development of software and artificial intelligence capabilities;
+		(C) include capabilities and tool sets to detect, evaluate, and correct errors in data annotation, identify gaps in training data used in model development that would require additional data labeling, and evaluate model performance across the life cycle of the data repositories; and
+		(D) be developed to support other missions and activities as determined by the Secretary.
+
+(c) Briefing.--Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees a briefing on--
+	(1) whether the Secretary intends to carry out the pilot program under this section;
+	(2) if the Secretary does not intend to carry out the pilot program, an explanation of the reasons for such decision;
+	(3) if the Secretary does intend to carry out the pilot program, or if the Secretary has already initiated the pilot program as of the date of the briefing--
+		(A) the types of information the Secretary determines are feasible and advisable to include in the data repositories described in subsection (a); and
+		(B) the progress of the Secretary in carrying out the program.

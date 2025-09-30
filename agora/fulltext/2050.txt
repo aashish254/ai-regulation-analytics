@@ -1,0 +1,126 @@
+WHEREAS the State of Alabama is a pioneer in the development and use of
+advanced technologies, from manufacturing nanotechnology to empowering
+mankind to walk on the moon;
+WHEREAS Generative Artificial Intelligence (“GenAI”) represents a
+significant step forward in technology that will transform the way that the State
+and the world conduct business and serve the public;
+WHEREAS GenAI has the potential to catalyze innovation and the rapid
+development of a wide range of benefits for Alabamians, but must be deployed
+carefully to mitigate and guard against a new generation of risks;
+WHEREAS responsible and ethical use of GenAI should be conducted within
+a governance structure that ensures transparency, tests for bias, addresses
+privacy concerns, and safeguards our values;
+WHEREAS the State of Alabama seeks to realize the potential benefits of
+GenAI for the good of all Alabamians, through the development and
+deployment of GenAI tools that improve the delivery of services, while
+balancing the benefits and risks of these new technologies;
+WHEREAS the people of Alabama demand and expect that their state
+government operate in the most efficient way possible; and
+WHEREAS the Alabama state workforce is vital to Alabama’s continued
+prosperity and the State seeks to harness the potential of GenAI for the benefit
+of the state government workforce;
+
+NOW, THEREFORE, I, Kay Ivey, Governor of the State of Alabama, by virtue
+of the authority vested in me by the Constitution and laws of the State of
+Alabama do hereby promulgate this executive order, effective immediately: 
+1. Task Force. The Governor’s Task Force on Generative Artificial
+Intelligence is hereby established. The purpose of this Task Force is to
+understand current uses of GenAI in state executive-branch agencies,
+encourage the responsible and effective use of GenAI in state executivebranch agencies, and recommend policies and procedures related to the
+use of GenAI in state executive-branch agencies going forward.
+a. Chair. The chair of the Task Force shall be appointed by, and serve
+at the pleasure of, the Governor. The chair of the Task Force may
+oversee implementation of the order and the work of the Task
+Force; convene and preside at meetings; and request assistance
+from the Governor’s Office as needed.
+b. Membership. The members of the Task Force shall be appointed
+by, and serve at the pleasure of, the Governor.
+c. Meetings. The Task Force shall hold its first meeting at the call of
+the chair. It shall meet periodically thereafter as deemed necessary
+by the chair. To the greatest extent practicable, the Task Force
+shall receive presentations by experts from the private and
+nonprofit sectors as well as experienced state employees.
+d. Compensation and expenses. Members of the Task Force shall
+serve without compensation but may elect to receive the per diem
+and transportation allowance authorized by state law for persons
+traveling on official state business.
+e. State-agency cooperation. State agencies and other state-funded
+entities shall cooperate with the Task Force and provide
+information requested by the Task Force.
+f. Technical assistance. The Office of Information Technology will
+supply clerical, administrative, and other technical assistance as
+deemed appropriate by the Secretary of Information Technology.
+g. Duration. The Task Force shall be dissolved upon the submission
+of its report.
+2. Report. By November 30, 2024, the Task Force shall submit a final report
+to the Governor as follows:
+a. Findings. The report shall contain a detailed and accurate
+description of the current use of GenAI in executive-branch 
+agencies. Without disclosing legally protected or otherwise
+sensitive security information, these findings should include a
+description of the risk, if any, posed by any current and ongoing
+uses of GenAI within the executive branch.
+b. Recommendations. The Task Force shall study, evaluate, and
+develop policy and administrative recommendations related to
+the responsible deployment of GenAI in state government.
+Specific areas of inquiry should include each of the following:
+i. Developing a set of principles and values that will guide
+the development and use of GenAI within state
+government.
+ii. Developing a governance framework that outlines the
+policies, procedures, and processes for the development,
+deployment, and use GenAI, with special attention paid to:
+(1) data management (outlining how AI data will be
+collected, stored, used, and shared); (2) model
+development (outlining the process for developing, testing,
+and deploying AI models); (3) model monitoring (outlining
+how AI models will be monitored for performance, bias,
+and security vulnerabilities; and (4) human oversight
+(outlining the role of humans in the oversight and control
+of AI systems).
+iii. Determining how to educate and train current and future
+workers in the use of GenAI as the technology matures and
+as worker knowledge increases.
+iv. Improving government services and government
+efficiency.
+v. Any other recommendations for further executive action or
+legislation.
+3. GenAI Inventory. By May 1, 2024, each state executive-branch agency
+shall submit to the Task Force an inventory report of all instances of
+GenAI being developed, employed, or procured by the agency. The
+report shall be provided on a form to be prescribed by the chair of the 
+Task Force. For each instance, the inventory report shall include a
+description of:
+a. The name and vendor of the GenAI, if any;
+b. The GenAI’s general capabilities;
+c. The purpose and proposed use of the GenAI;
+d. Any steps taken to ensure any use of GenAI occurs safely and
+responsibly.
+Each state executive-branch agency shall appoint a senior level
+management personnel who will be responsible for conducting and
+reporting the results of the inventory to the Task Force. 
+4. Facilitating responsible development of GenAI applications. The
+Office of Information Technology shall establish the cloud infrastructure
+to allow state agencies to safely and responsibly conduct GenAI pilot
+projects. Such infrastructure shall include OIT-approved environments,
+or “sandboxes,” to test such projects. These environments will be
+available to state agencies and departments to help evaluate GenAI tools
+and services, to further safe, ethical, and responsible implementations,
+and to inform decisions to use GenAI. Each agency using these
+environments will be responsible for their own data and usage charges.
+5. Promoting productive and efficient use of GenAI. All state executive branch agencies shall consider pilot projects of GenAI applications in
+consultation with experts from state government, academia, and
+industry. In a controlled setting, such pilot projects should measure (1)
+how GenAI can improve Alabamians’ experience with and access to
+government services and (2) how GenAI can support state employees in
+the performance of their duties. Each state executive-branch agency (and
+any other agency that conducts GenAI pilot projects via OIT-approved
+sandboxes) shall report the results of any such pilot project to the
+Secretary of Information Technology or his designee.
+6. Applicability. For purposes of this order, “state executive-branch
+agency” means any agency, department, board, office, commission, or
+other entity within the executive branch of state government. 
+7. Implementation. This order shall be implemented to the maximum extent possible consistent with applicable law and subject to the availability of appropriations. Nothing in this order shall be construed as impairing or otherwise affecting the authority granted by law to a executive branch agency, or the head thereof, including the Governor of the State of Alabama, except to the extent expressly set forth in this order. 
+8. No private right of action. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any private party against the State of Alabama, its departments, agencies, or entities, its officers, employees, or agents, or any other person. 
+9. Effect on prior related orders. Any previously issued executive order is hereby rescinded to the extent it conflicts with this executive order. 
+DONE AND ORDERED this 8th day of February 2024. 

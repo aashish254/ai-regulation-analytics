@@ -1,0 +1,27 @@
+SEC. 1601. SPACE DEVELOPMENT AGENCY DEVELOPMENT REQUIREMENTS AND TRANSFER TO SPACE FORCE. 
+
+(a) IN GENERAL.—Chapter 908 of title 10, United States Code, is amended by adding at the end the following new section: 
+‘‘§ 9084. Space Development Agency 10 USC 9084. 
+‘‘(a) IN GENERAL.—
+(1) There is a Space Development Agency of the Department of Defense (in this section referred to as the ‘Agency’). The Director of the Space Development Agency shall be the head of the Agency.
+‘‘(2) Effective on October 1, 2022—
+‘‘(A) the Agency shall be an element of the Space Force; and
+‘‘(B) the Director shall report—
+‘‘(i) pursuant to section 9016(b)(6)(B)(iv)(III) of this title, to the Assistant Secretary of the Air Force for Space Acquisition and Integration with respect to acquisition decisions; and
+‘‘(ii) directly to the Chief of Space Operations with respect to requirements decisions, personnel decisions, and any other matter not covered by clause (i).‘‘(b) DEVELOPMENT AND INTEGRATION AUTHORITIES.—The Director shall lead— 
+‘(1) the development and demonstration of a resilient military space-based sensing, tracking, and data transport architecture that uses proliferated low-Earth orbit systems and services;
+‘‘(2) the integration of next-generation space capabilities, such as novel sensors (including with respect to alternate navigation, and autonomous battle management features), and sensor and tracking components (including a hypersonic and ballistic missile tracking space sensor payload pursuant to section 1645 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021), into the architecture specified in paragraph (1) to address the requirements and needs of the armed forces and combatant commands for such capabilities;
+‘‘(3) the procurement of commercial capabilities and services, including—
+‘‘(A) options for integrating payloads on commercial buses and spacecraft into existing commercial architectures; and 
+‘‘(B) innovative commercial capabilities and services, such as on-orbit servicing or in-space transportation systems, that could extend the life of space systems, rapidly respond to threats, or contribute to resilience; and ‘‘(4) the rapid introduction, acquisition, and iteration of cost-effective, resilient solutions that leverage planned and existing commercial low-Earth orbit capabilities or innovative capabilities. ‘‘(c) BUDGET MATERIALS AND PROGRAM ELEMENTS.—Beginning not later than with respect to fiscal year 2023 and each fiscal 
+year thereafter—
+‘‘(1) in the budget justification materials submitted to Congress in support of the Department of Defense budget for a fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for the activities of the Agency shall be separate from the other activities of the Space Force; and
+‘‘(2) the Secretary of Defense shall ensure that the programs of the Agency are assigned program elements different from other program elements of the Space Force.’’. 
+(b) CLERICAL AMENDMENT.—The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 9083 the following new item: 
+‘‘9084. Space Development Agency.’’. 
+
+(c) CONFORMING AMENDMENT.—Section 9016(b)(6)(B)(iv)(III) of such title is amended by inserting before the period at the end the following: ‘‘with respect to acquisition decisions’’. 
+
+(d) TRANSITION.— 
+(1) TRANSFER.—Effective on October 1, 2022, the Secretary of Defense shall transfer the Space Development Agency from the Office of the Secretary of Defense to the Space Force. 
+(2) FUNDING, DUTIES, RESPONSIBILITIES, AND PERSONNEL.— Except as provided by section 9084 of title 10, United States Code, the transfer under paragraph (1) of the Space Development Agency from the Office of the Secretary of Defense to the Space Force shall include the transfer of the funding, duties, responsibilities, and personnel of the Agency as of the day before the date of the transfer.

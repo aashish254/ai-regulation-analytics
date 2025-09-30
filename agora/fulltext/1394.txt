@@ -1,0 +1,438 @@
+Artificial Intelligence and Data Act
+
+
+Enactment of Act
+39 The Artificial Intelligence and Data Act is enacted as follows:
+
+
+An Act respecting artificial intelligence systems and data used in artificial intelligence systems
+Short Title
+
+
+Short title
+1 This Act may be cited as the Artificial Intelligence and Data Act.
+
+
+Definitions and Application
+
+
+Definitions
+2 The following definitions apply in this Act.
+
+
+artificial intelligence system means a technological system that, autonomously or partly autonomously, processes data related to human activities through the use of a genetic algorithm, a neural network, machine learning or another technique in order to generate content or make decisions, recommendations or predictions. (système d’intelligence artificielle)
+
+
+person includes a trust, a joint venture, a partnership, an unincorporated association and any other legal entity. (personne)
+
+
+personal information has the meaning assigned by subsections 2(1) and (3) of the Consumer Privacy Protection Act. (renseignement personnel)
+
+
+Non-application
+3 (1) This Act does not apply with respect to a government institution as defined in section 3 of the Privacy Act.
+
+
+Product, service or activity
+(2) This Act does not apply with respect to a product, service or activity that is under the direction or control of
+(a) the Minister of National Defence;
+(b) the Director of the Canadian Security Intelligence Service;
+(c) the Chief of the Communications Security Establishment; or
+(d) any other person who is responsible for a federal or provincial department or agency and who is prescribed by regulation.
+
+
+Regulations
+(3) The Governor in Council may make regulations prescribing persons for the purpose of paragraph (2)‍(d).
+
+
+Purposes of Act
+
+
+Purposes
+4 The purposes of this Act are
+(a) to regulate international and interprovincial trade and commerce in artificial intelligence systems by establishing common requirements, applicable across Canada, for the design, development and use of those systems; and
+(b) to prohibit certain conduct in relation to artificial intelligence systems that may result in serious harm to individuals or harm to their interests.
+
+
+PART 1 
+Regulation of Artificial Intelligence Systems in the Private Sector 
+
+
+Interpretation
+
+
+Definitions
+5 (1) The following definitions apply in this Part.
+
+
+biased output means content that is generated, or a decision, recommendation or prediction that is made, by an artificial intelligence system and that adversely differentiates, directly or indirectly and without justification, in relation to an individual on one or more of the prohibited grounds of discrimination set out in section 3 of the Canadian Human Rights Act, or on a combination of such prohibited grounds. It does not include content, or a decision, recommendation or prediction, the purpose and effect of which are to prevent disadvantages that are likely to be suffered by, or to eliminate or reduce disadvantages that are suffered by, any group of individuals when those disadvantages would be based on or related to the prohibited grounds. (résultat biaisé)
+
+
+confidential business information, in respect of a person to whose business or affairs the information relates, means business information
+(a) that is not publicly available;
+(b) in respect of which the person has taken measures that are reasonable in the circumstances to ensure that it remains not publicly available; and
+(c) that has actual or potential economic value to the person or their competitors because it is not publicly available and its disclosure would result in a material financial loss to the person or a material financial gain to their competitors. (renseignements commerciaux confidentiels)
+
+
+harm means
+(a) physical or psychological harm to an individual;
+(b) damage to an individual’s property; or
+(c) economic loss to an individual. (préjudice)
+
+
+high-impact system means an artificial intelligence system that meets the criteria for a high-impact system that are established in regulations. (système à incidence élevée)
+
+
+Minister means the member of the Queen’s Privy Council for Canada designated under section 31 or, if no member is so designated, the Minister of Industry. (ministre)
+
+
+regulated activity means any of the following activities carried out in the course of international or interprovincial trade and commerce:
+(a) processing or making available for use any data relating to human activities for the purpose of designing, developing or using an artificial intelligence system;
+(b) designing, developing or making available for use an artificial intelligence system or managing its operations. (activité réglementée)
+
+
+Person responsible
+(2) For the purposes of this Part, a person is responsible for an artificial intelligence system, including a high-impact system, if, in the course of international or interprovincial trade and commerce, they design, develop or make available for use the artificial intelligence system or manage its operation.
+
+
+Requirements
+
+
+Anonymized data
+6 A person who carries out any regulated activity and who processes or makes available for use anonymized data in the course of that activity must, in accordance with the regulations, establish measures with respect to
+(a) the manner in which data is anonymized; and
+(b) the use or management of anonymized data.
+
+
+Assessment — high-impact system
+7 A person who is responsible for an artificial intelligence system must, in accordance with the regulations, assess whether it is a high-impact system.
+
+
+Measures related to risks
+8 A person who is responsible for a high-impact system must, in accordance with the regulations, establish measures to identify, assess and mitigate the risks of harm or biased output that could result from the use of the system.
+
+
+Monitoring of mitigation measures
+9 A person who is responsible for a high-impact system must, in accordance with the regulations, establish measures to monitor compliance with the mitigation measures they are required to establish under section 8 and the effectiveness of those mitigation measures.
+
+
+Keeping general records
+10 (1) A person who carries out any regulated activity must, in accordance with the regulations, keep records describing in general terms, as the case may be,
+(a) the measures they establish under sections 6, 8 and 9; and
+(b) the reasons supporting their assessment under section 7.
+
+
+Additional records
+(2) The person must, in accordance with the regulations, keep any other records in respect of the requirements under sections 6 to 9 that apply to them.
+
+
+Publication of description — making system available for use
+11 (1) A person who makes available for use a high-impact system must, in the time and manner that may be prescribed by regulation, publish on a publicly available website a plain-language description of the system that includes an explanation of
+(a) how the system is intended to be used;
+(b) the types of content that it is intended to generate and the decisions, recommendations or predictions that it is intended to make;
+(c) the mitigation measures established under section 8 in respect of it; and
+(d) any other information that may be prescribed by regulation.
+
+
+Publication of description — managing operation of system
+(2) A person who manages the operation of a high-impact system must, in the time and manner that may be prescribed by regulation, publish on a publicly available website a plain-language description of the system that includes an explanation of
+(a) how the system is used;
+(b) the types of content that it generates and the decisions, recommendations or predictions that it makes;
+(c) the mitigation measures established under section 8 in respect of it; and
+(d) any other information that may be prescribed by regulation.
+
+
+Notification of material harm
+12 A person who is responsible for a high-impact system must, in accordance with the regulations and as soon as feasible, notify the Minister if the use of the system results or is likely to result in material harm.
+
+
+Ministerial Orders
+
+
+Provision of subsection 10(1) records
+13 The Minister may, by order, require that a person referred to in subsection 10(1) provide the Minister with any of the records referred to in that subsection.
+
+
+Provision of subsection 10(2) records
+14 If the Minister has reasonable grounds to believe that the use of a high-impact system could result in harm or biased output, the Minister may, by order, require that a person referred to in subsection 10(2) provide the Minister, in the form specified in the order, with any of the records referred to in that subsection that relate to that system.
+
+
+Audit
+15 (1) If the Minister has reasonable grounds to believe that a person has contravened any of sections 6 to 12 or an order made under section 13 or 14, the Minister may, by order, require that the person
+(a) conduct an audit with respect to the possible contravention; or
+(b) engage the services of an independent auditor to conduct the audit.
+
+
+Qualifications
+(2) The audit must be conducted by a person who meets the qualifications that are prescribed by regulation.
+
+
+Assistance
+(3) If the audit is conducted by an independent auditor, the person who is audited must give all assistance that is reasonably required to enable the auditor to conduct the audit, including by providing any records or other information specified by the auditor.
+
+
+Report
+(4) The person who is audited must provide the Minister with the audit report.
+
+
+Cost
+(5) In all cases, the cost of the audit is payable by the person who is audited.
+
+
+Implementation of measures
+16 The Minister may, by order, require that a person who has been audited implement any measure specified in the order to address anything referred to in the audit report.
+
+
+Cessation
+17 (1) The Minister may, by order, require that any person who is responsible for a high-impact system cease using it or making it available for use if the Minister has reasonable grounds to believe that the use of the system gives rise to a serious risk of imminent harm.
+
+
+Statutory Instruments Act
+(2) The order is exempt from the application of sections 3 and 9 of the Statutory Instruments Act.
+
+
+Publication
+18 (1) The Minister may, by order, require that a person referred to in any of sections 6 to 12, 15 and 16 publish, on a publicly available website, any information related to any of those sections. However, the Minister is not permitted to require that the person disclose confidential business information.
+
+
+Regulations
+(2) The person must publish the information under subsection (1) in accordance with any regulations.
+
+
+Compliance
+19 A person who is the subject of an order made by the Minister under this Part must comply with the order.
+
+
+Filing — Federal Court
+20 The Minister may file a certified copy of an order made under any of sections 13 to 18 in the Federal Court and, on the certified copy being filed, the order becomes and may be enforced as an order of the Federal Court.
+
+
+Statutory Instruments Act
+21 An order made under any of sections 13 to 16 and 18 is not a statutory instrument as defined in subsection 2(1) of the Statutory Instruments Act.
+
+
+Information
+
+
+Confidential nature maintained
+22 For greater certainty, confidential business information that is obtained by the Minister under this Part does not lose its confidential nature by the mere fact that it is so obtained or that it has been disclosed by the Minister under section 25 or 26.
+
+
+Obligation of Minister
+23 Subject to sections 24 to 26, the Minister must take measures to maintain the confidentiality of any confidential business information that the Minister obtains under this Part.
+
+
+Disclosure of confidential business information — subpoena, warrant, etc.
+24 The Minister may disclose confidential business information for the purpose of complying with a subpoena or warrant issued or order made by a court, person or body with jurisdiction to compel the production of information or for the purpose of complying with rules of court relating to the production of information.
+
+
+Disclosure of information — analyst
+25 (1) The Minister may disclose any information that is obtained under this Part to an analyst designated under section 34.
+
+
+Conditions — confidentiality
+(2) The Minister may impose any condition on the analyst in order to protect the confidentiality of information that the Minister discloses.
+
+
+Duty and restriction
+(3) An analyst must maintain the confidentiality of information disclosed to them under subsection (1) and may use the information only for the administration and enforcement of this Part.
+
+
+Disclosure of information — others
+26 (1) The Minister may disclose any information obtained under this Part to any of the following recipients, if the Minister has reasonable grounds to believe that a person who carries out any regulated activity has contravened, or is likely to contravene, another Act of Parliament or a provincial legislature that is administered or enforced by the intended recipient of the information and if the information is relevant to the intended recipient’s powers, duties or functions under that Act:
+(a) the Privacy Commissioner;
+(b) the Canadian Human Rights Commission;
+(c) the Commissioner of Competition;
+(d) the Canadian Radio-television and Telecommunications Commission;
+(e) any person appointed by the government of a province, or any provincial entity, with powers, duties and functions that are similar to those of the Privacy Commissioner or the Canadian Human Rights Commission;
+(f) any other person or entity prescribed by regulation.
+
+
+Restriction
+(2) The Minister may disclose personal information or confidential business information under subsection (1) only if
+(a) the Minister is satisfied that the disclosure is necessary for the purposes of enabling the recipient to administer or enforce the Act in question; and
+(b) the recipient agrees in writing to maintain the confidentiality of the information except as necessary for any of those purposes.
+
+
+Restriction — use
+(3) The recipient may use the disclosed information only for the purpose of the administration and enforcement of the Act in question.
+
+
+Publication of information — contravention
+27 (1) If the Minister considers that it is in the public interest to do so, the Minister may, for the purpose of encouraging compliance with this Part, publish information about any contravention of this Part on a publicly available website.
+
+
+Restriction
+(2) However, the Minister is not permitted to publish confidential business information under subsection (1).
+
+
+Publication of information — harm
+28 (1) Without the consent of the person to whom the information relates and without notifying that person, the Minister may publish, on a publicly available website, information that relates to an artificial intelligence system and that is obtained under this Part if the Minister has reasonable grounds to believe that
+(a) the use of the system gives rise to a serious risk of imminent harm; and
+(b) the publication of the information is essential to prevent the harm.
+
+
+Restriction
+(2) However, the Minister is not permitted to publish personal information or confidential business information under subsection (1).
+
+
+Administrative Monetary Penalties
+
+
+Administrative monetary penalties
+29 (1) A person who is found under the regulations to have committed a violation is liable to the administrative monetary penalty established by the regulations.
+
+
+Purpose of penalty
+(2) The purpose of an administrative monetary penalty is to promote compliance with this Part and not to punish.
+
+
+Violation or offence
+(3) If an act or omission may be proceeded with as a violation or as an offence, proceeding with it in one manner precludes proceeding with it in the other.
+
+
+Regulations
+(4) The Governor in Council may make regulations respecting an administrative monetary penalties scheme, including regulations
+(a) designating the provisions of this Part or of the regulations the contravention of which constitutes a violation, including those provisions the contravention of which, if continued on more than one day, constitutes a separate violation in respect of each day during which the violation is continued;
+(b) classifying each violation as a minor violation, a serious violation or a very serious violation;
+(c) respecting the proceedings in respect of a violation, including in relation to
+(i) commencing the proceedings,
+(ii) maintaining the confidentiality of confidential business information in the proceedings,
+(iii) the defences that may be available in respect of a violation, and
+(iv) the circumstances in which the proceedings may be brought to an end;
+(d) respecting the administrative monetary penalties that may be imposed for a violation, including in relation to
+(i) the amount, or range of amounts, of the administrative monetary penalties that may be imposed on persons or classes of persons,
+(ii) the factors to be taken into account in imposing an administrative monetary penalty,
+(iii) the payment of administrative monetary penalties that have been imposed, and
+(iv) the recovery, as a debt, of unpaid administrative monetary penalties;
+(e) respecting reviews or appeals of findings that a violation has been committed and of the imposition of administrative monetary penalties;
+(f) respecting compliance agreements; and
+(g) respecting the persons or classes of persons who may exercise any power, or perform any duty or function, in relation to the scheme, including the designation of such persons or classes of persons by the Minister.
+
+
+Offences
+
+
+Contravention — sections 6 to 12
+30 (1) Every person who contravenes any of sections 6 to 12 is guilty of an offence.
+
+
+Obstruction or providing false or misleading information
+(2) Every person who carries out a regulated activity is guilty of an offence if the person obstructs — or provides false or misleading information to — the Minister, anyone acting on behalf of the Minister or an independent auditor in the exercise of their powers or performance of their duties or functions under this Part.
+
+
+Punishment
+(3) A person who commits an offence under subsection (1) or (2)
+(a) is liable, on conviction on indictment,
+(i) to a fine of not more than the greater of $10,000,000 and 3% of the person’s gross global revenues in its financial year before the one in which the person is sentenced, in the case of a person who is not an individual, and
+(ii) to a fine at the discretion of the court, in the case of an individual; or
+(b) is liable, on summary conviction,
+(i) to a fine of not more than the greater of $5,000,000 and 2% of the person’s gross global revenues in its financial year before the one in which the person is sentenced, in the case of a person who is not an individual, and
+(ii) to a fine of not more than $50,000, in the case of an individual.
+
+
+Defence of due diligence
+(4) A person is not to be found guilty of an offence under subsection (1) or (2) if they establish that they exercised due diligence to prevent the commission of the offence.
+
+
+Employee, agent or mandatary
+(5) It is sufficient proof of an offence under subsection (1) or (2) to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence, unless the accused establishes that the offence was committed without the knowledge or consent of the accused.
+
+
+Administration
+
+
+Designation
+31 The Governor in Council may, by order, designate any member of the Queen’s Privy Council for Canada to be the Minister for the purposes of this Part.
+
+
+General powers of Minister
+32 The Minister may
+(a) promote public awareness of this Act and provide education with respect to it;
+(b) make recommendations and cause to be prepared reports on the establishment of measures to facilitate compliance with this Part; and
+(c) establish guidelines with respect to compliance with this Part.
+
+
+Artificial Intelligence and Data Commissioner
+33 (1) The Minister may designate a senior official of the department over which the Minister presides to be called the Artificial Intelligence and Data Commissioner, whose role is to assist the Minister in the administration and enforcement of this Part.
+
+
+Delegation
+(2) The Minister may delegate to the Commissioner any power, duty or function conferred on the Minister under this Part, except the power to make regulations under section 37.
+
+
+Analysts
+34 The Minister may designate any individual or class of individuals as analysts for the administration and enforcement of this Part.
+
+
+Advisory committee
+35 (1) The Minister may establish a committee to provide the Minister with advice on any matters related to this Part.
+
+
+Advice available to public
+(2) The Minister may cause the advice that the committee provides to the Minister to be published on a publicly available website.
+
+
+Remuneration and expenses
+(3) Each committee member is to be paid the remuneration fixed by the Governor in Council and is entitled to the reasonable travel and living expenses that they incur while performing their duties away from their ordinary place of residence.
+
+
+Regulations — Governor in Council
+36 The Governor in Council may make regulations for the purposes of this Part, including regulations
+(a) respecting what constitutes or does not constitute justification for the purpose of the definition biased output in subsection 5(1);
+(b) establishing criteria for the purpose of the definition high-impact system in subsection 5(1);
+(c) respecting the establishment of measures for the purposes of sections 6, 8 and 9;
+(d) respecting the assessment for the purposes of section 7;
+(e) respecting what constitutes or does not constitute material harm for the purpose of section 12;
+(f) prescribing qualifications for the purposes of subsection 15(2); and
+(g) prescribing persons and entities for the purpose of paragraph 26(1)‍(f).
+
+
+Regulations — Minister
+37 The Minister may make regulations
+(a) respecting the records required to be kept under section 10;
+(b) prescribing, for the purposes of subsections 11(1) and (2), the time and the manner in which descriptions are to be published and the information to be included in the descriptions;
+(c) respecting the notice required to be provided under section 12; and
+(d) respecting the publication of information under section 18.
+
+
+PART 2 
+General Offences Related to Artificial Intelligence Systems
+
+
+Possession or use of personal information
+38 Every person commits an offence if, for the purpose of designing, developing, using or making available for use an artificial intelligence system, the person possesses — within the meaning of subsection 4(3) of the Criminal Code — or uses personal information, knowing or believing that the information is obtained or derived, directly or indirectly, as a result of
+(a) the commission in Canada of an offence under an Act of Parliament or a provincial legislature; or
+(b) an act or omission anywhere that, if it had occurred in Canada, would have constituted such an offence.
+
+
+Making system available for use
+39 Every person commits an offence if the person
+(a) without lawful excuse and knowing that or being reckless as to whether the use of an artificial intelligence system is likely to cause serious physical or psychological harm to an individual or substantial damage to an individual’s property, makes the artificial intelligence system available for use and the use of the system causes such harm or damage; or
+(b) with intent to defraud the public and to cause substantial economic loss to an individual, makes an artificial intelligence system available for use and its use causes that loss.
+
+
+Punishment
+40 Every person who commits an offence under section 38 or 39
+(a) is liable, on conviction on indictment,
+(i) to a fine of not more than the greater of $25,000,000 and 5% of the person’s gross global revenues in its financial year before the one in which the person is sentenced, in the case of a person who is not an individual, and
+(ii) to a fine in the discretion of the court or to a term of imprisonment of up to five years less a day, or to both, in the case of an individual; or
+(b) is liable, on summary conviction,
+(i) to a fine of not more than the greater of $20,000,000 and 4% of the person’s gross global revenues in its financial year before the one in which the person is sentenced, in the case of a person who is not an individual, and
+(ii) to a fine of not more than $100,000 or to a term of imprisonment of up to two years less a day, or to both, in the case of an individual.
+
+
+PART 3 
+Coming into Force
+
+
+Order in council
+41 The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+PART 4 
+Coming into Force
+
+
+Order in council
+40 This Act, other than sections 2, 35, 36 and 39, comes into force on a day to be fixed by order of the Governor in Council.

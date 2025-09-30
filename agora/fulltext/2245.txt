@@ -1,0 +1,248 @@
+NEW SECTION. Sec. 151. FOR THE CONSOLIDATED TECHNOLOGY SERVICES AGENCY
+
+
+General Fund – State Appropriation (FY 2022)        $581,000
+General Fund – State Appropriation (FY 2023)        $531,000
+Consolidated Technology Services Revolving Account – State Appropriation        $53,030,000
+TOTAL APPROPRIATION        $54,142,000
+The appropriations in this section are subject to the following conditions and limitations:
+
+
+(1) $11,623,000 of the consolidated technology services revolving account – state appropriation is provided solely for the office of the chief information officer. Of this amount:
+
+
+(a) $2,000,000 of the consolidated technology services revolving account – state appropriation is provided solely for experienced information technology project managers to provide critical support to agency IT projects that are under oversight from the office of the chief information officer. The staff or vendors will:
+
+
+(i) Provide master level project management guidance to agency IT stakeholders;
+
+
+(ii) Consider statewide best practices from the public and private sectors, independent review and analysis, vendor management, budget and timing quality assurance and other support of current or past IT projects in at least Washington state and share these with agency IT stakeholders and legislative fiscal staff at least quarterly and post these to the statewide IT dashboard; and
+
+
+(iii) Provide independent recommendations to legislative fiscal committees by December of each calendar year on oversight of IT projects to include opportunities for accountability and performance metrics.
+
+
+(b) $2,960,000 of the consolidated technology services revolving account – state appropriation is provided solely for the office of privacy and data protection.
+
+
+(2) $12,393,000 of the consolidated technology services revolving account – state appropriation is provided solely for the office of cyber security.
+
+
+(3) The consolidated technology services agency shall work with customer agencies using the Washington state electronic records vault (WASERV) to identify opportunities to:
+
+
+(a) Reduce storage volumes and costs associated with vault records stored beyond the agencies' record retention schedules; and
+
+
+(b) Assess a customized service charge as defined in chapter 304, Laws of 2017 for costs of using WASERV to prepare data compilations in response to public records requests.
+
+
+(4)(a) In conjunction with the office of the chief information officer's prioritization of proposed information technology expenditures, agency budget requests for proposed information technology expenditures must include the following:
+
+
+(i) The agency's priority ranking of each information technology request;
+
+
+(ii) The estimated cost by fiscal year and by fund for the current biennium;
+
+
+(iii) The estimated cost by fiscal year and by fund for the ensuing biennium;
+
+
+(iv) The estimated total cost for the current and ensuing biennium;
+
+
+(v) The total cost by fiscal year, by fund, and in total, of the information technology project since it began;
+
+
+(vi) The estimated cost by fiscal year and by fund over all biennia through implementation and close out and into maintenance and operations;
+
+
+(vii) The estimated cost by fiscal year and by fund for service level agreements once the project is implemented;
+
+
+(viii) The estimated cost by fiscal year and by fund for agency staffing for maintenance and operations once the project is implemented; and
+
+
+(ix) The expected fiscal year when the agency expects to complete the request.
+
+
+(b) The office of the chief information officer and the office of financial management may request agencies to include additional information on proposed information technology expenditure requests.
+
+
+(5) The consolidated technology services agency must not increase fees charged for existing services without prior approval by the office of financial management. The agency may develop fees to recover the actual cost of new infrastructure to support increased use of cloud technologies.
+
+
+(6) Within existing resources, the agency must provide oversight of state procurement and contracting for information technology goods and services by the department of enterprise services.
+
+
+(7) Within existing resources, the agency must host, administer, and support the state employee directory in an online format to provide public employee contact information.
+
+
+(8) The health care authority, the health benefit exchange, the department of social and health services, the department of health, and the department of children, youth, and families shall work together within existing resources to establish the health and human services enterprise coalition (the coalition). The coalition, led by the health care authority, must be a multi-organization collaborative that provides strategic direction and federal funding guidance for projects that have cross-organizational or enterprise impact, including information technology projects that affect organizations within the coalition. The office of the chief information officer shall maintain a statewide perspective when collaborating with the coalition to ensure that the development of projects identified in this report are planned for in a manner that ensures the efficient use of state resources and maximizes federal financial participation. The work of the coalition and any project identified as a coalition project is subject to the conditions, limitations, and review provided in section 701 of this act.
+
+
+(9) $4,303,000 of the consolidated technology services revolving account – state appropriation is provided solely for the creation and ongoing delivery of information technology services tailored to the needs of small agencies. The scope of services must include, at a minimum, full-service desktop support, service assistance, security, and consultation.
+
+
+(10) $23,150,000 of the consolidated technology services revolving account – state appropriation is provided solely for the procurement and distribution of Microsoft 365 licenses which must include advanced security features and cloud-based private branch exchange capabilities for state agencies. The office must report annually to fiscal committees of the legislature beginning December 31, 2021, and each December 31 thereafter, on the count and type of licenses distributed by consolidated technology services to each state agency. The report must also separately report on the count and type of Microsoft 365 licenses that state agencies have in addition to those that are distributed by consolidated technology services so that the total count, type of license, and cost is known for statewide Microsoft 365 licenses.
+
+
+(11)(a) The statewide information technology dashboard elements must include, at a minimum, the:
+
+
+(i) Start date of the project;
+
+
+(ii) End date of the project, when the project will close out and implementation will commence;
+
+
+(iii) Term of the project in state fiscal years across all biennia to reflect the start of the project through the end of the project;
+
+
+(iv) Total project cost from start date through the end date of the project in total dollars, and a subtotal of near general fund outlook;
+
+
+(v) Near general fund outlook budget and actual spending in total dollars and by fiscal month for central service agencies that bill out project costs;
+
+
+(vi) Start date of maintenance and operations;
+
+
+(vii) Estimated annual state fiscal year cost of maintenance and operations after implementation and close out;
+
+
+(viii) Actual spending by state fiscal year and in total for state fiscal years that have closed;
+
+
+(ix) Date a feasibility study was completed; and
+
+
+(x) A list of funding received by fiscal year by enacted session law, and how much was received citing chapter law as a list of funding provided by fiscal year.
+
+
+(b) The office of the chief information officer may recommend additional elements to include but must have agreement with legislative fiscal committees and the office of financial management prior to including additional elements.
+
+
+(c) The agency must ensure timely posting of project data on the statewide information technology dashboard for at least each project funded in the budget and under oversight to include, at a minimum, posting on the dashboard:
+
+
+(i) The budget funded level by project for each project under oversight within 30 calendar days of the budget being signed into law;
+
+
+(ii) The project historical expenditures through fiscal year 2021, by December 31, 2021, for all projects that started prior to July 1, 2021;
+
+
+(iii) The project historical expenditures through fiscal year 2022, by December 31, 2022, for all projects that started prior to July 1, 2022; and
+
+
+(iv) Whether each project has completed a feasibility study.
+
+
+(12) Within existing resources, consolidated technology services must collaborate with the department of enterprise services on the annual contract report that provides information technology contract information. Consolidated technology services will:
+
+
+(a) Provide Apptio data to the department of enterprise services annually beginning September 1, 2021, and each September 1 of each year; and
+
+
+(b) Provide analysis on contract information for all agencies comparing spending across state fiscal years by, at least, the contract spending towers.
+
+
+(13) $129,000 of the consolidated technology services revolving account – state appropriation is provided solely for implementation of Second Substitute Senate Bill No. 5062 (data). If the bill is not enacted by June 30, 2021, the amount provided in this subsection shall lapse.
+
+
+(14) $12,000 of the general fund – state appropriation for fiscal year 2022 is provided solely for the office of the chief information officer who must convene a work group to examine how automated decision making systems can best be reviewed before adoption and while in operation and be periodically audited to ensure that such systems are fair, transparent, accountable and do not improperly advantage or disadvantage Washington residents.
+
+
+(a) The work group must be composed of:
+
+
+(i) A representative of the department of children, youth, and families;
+
+
+(ii) A representative of the department of corrections;
+
+
+(iii) A representative of the department of social and health services;
+
+
+(iv) A representative of the department of enterprise services;
+
+
+(v) At least two representatives from universities or research institutions who are experts in the design and effect of an algorithmic system; and
+
+
+(vi) At least five representatives from advocacy organizations that represent communities that are disproportionately vulnerable to being harmed by algorithmic bias, including but not limited to, African American, Hispanic American, Native American, and Asian American communities, religious minorities, people with disabilities, and other vulnerable communities.
+
+
+(b) The purpose of the work group is to develop recommendations for changes in state law and policy regarding the development, procurement, and use of automated decision systems by public agencies. The work group must examine:
+
+
+(i) When state agency use of automated decision making systems should be prohibited;
+
+
+(ii) When state agency use of artificial intelligence-enabled profiling systems should be prohibited;
+
+
+(iii) Changes in the procurement of automated decision systems, including when the procurement must receive prior approval by the office of chief information officer;
+
+
+(iv) How to review, identify, and audit systems to ensure that the system prior to procurement and after placed into service does not discriminate against an individual, or treat an individual less favorably than another, in whole or in part, on the basis of one or more factors enumerated in RCW 49.60.010;
+
+
+(v) How to provide public notice when an automated decision system is in use and how to appeal such decisions;
+
+
+(vi) How automated decision system data should be stored and whether such data should be shared outside the system; and
+
+
+(vii) Other issues determined by the office of chief information officer or the department of enterprise services that are necessary to govern state agency procurement and use of automated decision systems.
+
+
+(c) To demonstrate the impacts of its recommendations, the work group must select one of following automated decision making systems and describe how their implementation would affect the procurement of a new system and the use the existing system:
+
+
+(i) The department of children, youth, and families system used to determine risk in the family child welfare system;
+
+
+(ii) The department of corrections system used to determine risk for purposes of evaluating early release and/or sentencing; or
+
+
+(iii) The department of social and health services system used for hospital admissions.
+
+
+(d) The work group shall meet at least four times, or more frequently to accomplish its work. The office of the chief information officer must lead the work group. Each of the state agencies identified in (a) of this subsection must provide staff support to the work group and its activities.
+
+
+(e) The work group must submit a report to the fiscal committees of the legislature and the governor no later than December 1, 2021.
+
+
+(f) For purposes of this subsection, "automated decision system" or "system" means any algorithm, including one incorporating machine learning or other artificial intelligence techniques, that uses data-based analysis or calculations to make or support government decisions, judgments, or conclusions that cause a Washington resident to be treated differently than another Washington resident in the nature or amount of governmental interaction with that individual including, without limitation, benefits, protections, required payments, penalties, regulations, timing, application, or process requirements.
+
+
+(15) $81,000 of the consolidated technology services revolving account – state appropriation is provided solely for implementation of Engrossed Second Substitute House Bill No. 1274 (cloud computing solutions). If the bill is not enacted by June 30, 2021, the amount provided in this subsection shall lapse.
+
+
+(16)(a) $381,000 of the general fund – state appropriation for fiscal year 2022 and $343,000 of the general fund – state appropriation for fiscal year 2023 are provided solely for the office of the chief information officer to provide a common platform for hosting existing state data on natural hazards risks into a comprehensive, multihazard, statewide, geospatial data portal to assist with state hazard risk and resilience mapping and analysis. In performing this work, the office of the chief information officer will:
+
+
+(i) Coordinate with the state emergency management division, office of the insurance commissioner, University of Washington climate impacts group and Washington sea grant, Washington State University water research center, and the state departments of ecology, health, natural resources, and transportation on the project scope, user needs, and deliverables;
+
+
+(ii) Organize data in standardized and compatible formats including temporal data, where able; and
+
+
+(iii) Address credentialing for secure access to protect sensitive data needed for risk analyses.
+
+
+(b) By December 1, 2022, in consultation with the governor's office and the other agencies listed above, the office of the chief information officer will provide a progress report to the relevant legislative committees on the development of the platform and data sharing agreements.
+
+
+(c) By June 1, 2023, in consultation with the governor's office and the other agencies listed above, the office of the chief information officer will provide a final report with recommendations for further enhancing natural hazards resiliency by using data to inform the development of a statewide resilience strategy.
+
+
+(d) This subsection is subject to the conditions, limitations, and review of section 701 of this act.
+
+
+(17) $1,493,000 of the consolidated technology services revolving account – state appropriation is provided solely for implementation of Engrossed Substitute Senate Bill No. 5432 (cybersecurity/state gov.). If the bill is not enacted by June 30, 2021, the amount provided in this subsection shall lapse.

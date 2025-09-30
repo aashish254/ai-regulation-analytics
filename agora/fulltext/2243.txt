@@ -1,0 +1,127 @@
+Sec. 2. AS 44.99 is amended by adding new sections to read:                                                      
+    Article 7. Use by State Agencies of Artificial Intelligence and Data about Individuals.                            
+ Sec. 44.99.700. Inventory. (a) Every two years, the department shall conduct                                          
+ an inventory of all systems used by state agencies that employ artificial intelligence                                  
+ for consequential decisions. Each state agency shall assist the department as necessary.                                
+       An inventory must include, at a minimum, the following information for each system:                               
+                 (1)  the name of the system;                                                                            
+                 (2)  the vendor that provides the system, if any;                                                       
+                 (3)  a description of the general capabilities and uses of the system; and                              
+ (4)  whether the state agency completed an impact assessment of the                                                     
+       system under AS 44.99.710 before the system's implementation.                                                     
+ (b)  Upon completion, the department shall publish each inventory on the                                                
+       department's Internet website.                                                                                    
+ Sec. 44.99.710. Impact assessments. (a) At least once every two years, the                                            
+ head of a state agency that uses a system that employs artificial intelligence for                                      
+ consequential decisions shall conduct an impact assessment of the system. An impact                                     
+       assessment must include, at a minimum, an analysis of                                                             
+                 (1)  the efficacy of the system;                                                                        
+                 (2)  the human oversight involved in the system;                                                        
+                 (3)  the accountability mechanisms in place for the system;                                            
+                 (4)  the process by which an individual may appeal a decision made or                                   
+       facilitated by the system;                                                                                        
+                 (5)  the current and potential benefits, liability, and risks to the state                              
+       from the system, including risks related to cybersecurity and intellectual property and                           
+       any measures used to mitigate liability and risks;                                                                
+                 (6)  the current and potential effects of the system on the liberty,                                    
+       finances, livelihood, and privacy interests of individuals in the state, including effects                        
+       from any use of geolocation data by the system;                                                                   
+                 (7)  any unlawful discrimination against or unlawful disparate impact                                   
+ on an individual or a group of individuals that has resulted or may result from the                                     
+       system; and                                                                                                       
+ (8)  the policies and procedures that govern the process of using the                                                   
+       system for consequential decisions.                                                                               
+ (b)  Upon completion, the state agency that conducts the impact assessment                                              
+ shall provide the assessment to the department. Upon receiving an assessment, the                                       
+       department shall publish the assessment on the department's Internet website.                                     
+ Sec. 44.99.720. Requirements for use of artificial intelligence by state                                              
+ agencies. (a) A state agency that uses a system that employs artificial intelligence for                              
+       consequential decisions shall                                                                                     
+ (1)  notify each individual who may be legally or significantly affected                                                
+       by the use of the system;                                                                                         
+ (2)  obtain an individual's consent before soliciting or acquiring                                                      
+       sensitive personal data about the individual that will be used by the system;                                     
+ (3)  provide an appeals process that includes manual human review for                                                   
+       an individual who is legally or significantly affected by the use of the system; and                              
+ (4)  inform a prospective employee of the state agency about any video                                                  
+ interview that involves the use of artificial intelligence and obtain the prospective                                   
+       employee's consent before employing artificial intelligence.                                                      
+ (b)  A state agency may not use a system that employs artificial intelligence for                                       
+       consequential decisions if the system involves                                                                    
+                 (1)  biometric identification, including facial recognition;                                            
+
+
+                 (2)  emotion recognition;                                                                               
+                 (3)  cognitive behavioral manipulation of individuals or groups; or                                     
+                 (4)  social scoring.                                                                                    
+            (c)  A state agency may not use a system that employs artificial intelligence for                            
+       consequential decisions if the system uses data hosted in                                                         
+                 (1)  the People's Republic of China, including the Hong Kong Special                                    
+       Administrative Region and Macao Special Administrative Region;                                                    
+                 (2)  the Republic of Cuba;                                                                              
+                 (3)  the Islamic Republic of Iran;                                                                      
+                 (4)  the Democratic People's Republic of Korea;                                                         
+                 (5)  the Russian Federation; or                                                                         
+ (6)  the Bolivarian Republic of Venezuela under the regime of Nicolás                                                   
+       Maduro Moros.                                                                                                     
+ (d)  A state agency may contract with a person for a system that employs                                                
+ artificial intelligence for consequential decisions only if the person has implemented                                  
+       multi-factor authentication to secure the system and data stored by the system.                                   
+ Sec. 44.99.730. Transfer of data between state agencies. Unless required by                                           
+ law, a state agency may not transfer data about an individual to another state agency                                   
+       without the individual's consent.                                                                                 
+ Sec. 44.99.740. Regulations. (a) The department shall adopt regulations under                                         
+ AS 44.62 (Administrative Procedure Act) concerning the development, procurement,                                        
+ implementation, use, and ongoing assessment of systems that employ artificial                                           
+ intelligence by state agencies for consequential decisions. The regulations must                                        
+       include, at a minimum, provisions that                                                                            
+ (1)  govern the procurement, implementation, and ongoing assessment                                                     
+       of each system;                                                                                                   
+ (2)  require a state agency to conduct an impact assessment of each                                                     
+       system under AS 44.99.710 before its implementation;                                                              
+ (3)  ensure that a system does not result in unlawful discrimination or                                                 
+       an unlawful disparate impact on an individual or a group of individuals; and                                      
+                 (4)  provide for the ongoing assessment of each system.                                                 
+
+
+ (b)  The department may adopt additional regulations under AS 44.62                                                     
+       (Administrative Procedure Act) necessary to implement AS 44.99.700 - 44.99.730.                                   
+ Sec. 44.99.750. Civil liability for harm. (a) An individual who suffers harm                                          
+ as a result of a violation of AS 44.99.700 - 44.99.730, a violation of a regulation                                     
+ adopted under AS 44.99.740, or gross negligence or reckless or intentional misconduct                                   
+ relating to the use of artificial intelligence by a state agency or state employee may                                  
+       bring a civil action in the superior court against the state or state employee.                                   
+ (b)  An individual who suffers harm under (a) of this section may recover                                               
+ damages for the harm to the individual, punitive damages under AS 09.17.020, and                                        
+       full reasonable attorney fees and costs in a civil action brought under this section.                             
+            Sec. 44.99.760. Definitions. In AS 44.99.700 - 44.99.760,                                                  
+ (1)  "artificial intelligence" means an automated system that uses data                                                 
+ input, human-defined objectives, and machine learning, natural language processing,                                     
+ or other computational processing techniques of similar or greater complexity to make                                   
+       a decision or facilitate human decision making;                                                                   
+ (2)  "biometric identification" means the analysis of an individual's                                                   
+       physical or behavioral characteristics to uniquely identify the individual;                                       
+ (3)  "cognitive behavioral manipulation" means the use of a subliminal                                                  
+ technique for the purpose of influencing an individual's behavior to achieve a desired                                  
+       outcome;                                                                                                          
+ (4)  "consequential decision" means a conclusion, decision, or                                                          
+       judgment by a state agency that can have a legal or significant effect on an individual;                          
+                 (5)  "department" means the Department of Administration;                                               
+ (6)  "emotion recognition" means the analysis of an individual's bodily                                                 
+ expressions, including facial and verbal expressions, to identify or predict the                                        
+       individual's emotions;                                                                                            
+                 (7)  "individual" means a natural person;                                                               
+                 (8)  "sensitive personal data" means                                                                    
+ (A)  data that reveals an individual's racial or ethnic origin,                                                         
+            political opinions, or religious or philosophical beliefs;                                                   
+                      (B)  an individual's genetic data;                                                                 
+                      (C)  an individual's biometric data when used for biometric                                        
+            identification; or                                                                                           
+                      (D)  an individual's geolocation data;                                                             
+                 (9)  "social scoring" means evaluating, classifying, rating, or scoring                                 
+       the trustworthiness or social standing of an individual based on behavior or                                      
+       socioeconomic, political, or religious status;                                                                    
+ (10)  "state agency" means the University of Alaska, a public                                                           
+ corporation of the state, or a department, institution, board, commission, division,                                    
+ authority, committee, or other administrative unit of the executive branch of state                                     
+       government.  

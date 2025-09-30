@@ -1,0 +1,891 @@
+PART 850—PROVISIONS PERTAINING TO U.S. INVESTMENTS IN CERTAIN NATIONAL SECURITY TECHNOLOGIES AND PRODUCTS IN COUNTRIES OF CONCERN
+
+Subpart A—General
+
+§ 850.101
+
+Scope.
+
+(a) This part implements Executive Order 14105 of August 9, 2023, “Addressing United States Investments in Certain National Security Technologies and Products in Countries of Concern” (the Order), directing the Secretary of the Treasury (the Secretary), in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant executive departments and agencies, to issue, subject to public notice and comment, regulations that require U.S. persons to provide notification of information relative to certain transactions involving covered foreign persons and that prohibit U.S. persons from engaging in certain other transactions involving covered foreign persons.
+
+(b) The regulations identify certain types of transactions that are covered transactions—that is, transactions that are either notifiable or prohibited. Additionally, the regulations identify other instances where a U.S. person has obligations with respect to certain transactions. The regulations prescribe exceptions to the definition of covered transaction. A transaction that meets an exception is not a covered transaction and is referred to as an excepted transaction. Finally, the regulations prescribe a process for the Secretary to exempt certain covered transactions from the rules otherwise prohibiting or requiring notification of covered transactions on a case-by-case basis.
+
+(c) The regulations identify categories of covered transactions that are notifiable transactions. A notifiable transaction is a transaction by a U.S. person or its controlled foreign entity with or resulting in the establishment of a covered foreign person that engages in a covered activity that the Secretary, in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant agencies, has determined may contribute to the threat to the national security of the United States identified in the Order, or the engagement of a person of a country of concern in a covered activity that the Secretary, in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant agencies, has determined may contribute to the threat to the national security of the United States identified in the Order. The regulations require a U.S. person to notify the Department of the Treasury of each such notifiable transaction by such U.S. person or its controlled foreign entity. The regulations also require a U.S. person to provide prompt notice to the Department of the Treasury upon acquiring actual knowledge after the completion date of a transaction of facts or circumstances that would have caused the transaction to be a covered transaction if the U.S. person had had such knowledge on the completion date. Additionally, any person who makes a representation, statement, or certification under this part is required to promptly notify the Department of the Treasury upon learning of a material omission or inaccuracy in such representation, statement, or certification.
+
+(d) The regulations identify categories of covered transactions that are prohibited transactions. A prohibited transaction is a transaction by a U.S. person with or resulting in the establishment of a covered foreign person that engages in a covered activity that the Secretary, in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant agencies, has determined poses a particularly acute national security threat because of its potential to significantly advance the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern, or engagement of a person of a country of concern in a covered activity that the Secretary, in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant agencies, has determined poses a particularly acute national security threat because of its potential to significantly advance the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern. The regulations prohibit a U.S. person from engaging in a prohibited transaction and also prohibit a U.S. person from knowingly directing a transaction that the U.S. person knows would be a prohibited transaction if engaged in by a U.S. person. The regulations also require a U.S. person to take all reasonable steps to prohibit and prevent any transaction by its controlled foreign entity that would be a prohibited transaction if undertaken by a U.S. person. (e) Pursuant to the Order, the Secretary shall, as appropriate:
+
+(1) Communicate with the Congress and the public with respect to the implementation of the Order;
+
+(2) Consult with the Secretary of Commerce on industry engagement and analysis of notifiable transactions;
+
+(3) Consult with the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, and the Director of National Intelligence on the implications for military, intelligence, surveillance, or cyber-enabled capabilities of covered national security technologies and products in the Order and potential covered national security technologies and products;
+
+(4) Engage, together with the Secretary of State and the Secretary of Commerce, with allies and partners regarding the national security risks posed by countries of concern advancing covered national security technologies and products;
+
+(5) Consult with the Secretary of State on foreign policy considerations related to the implementation of the Order, including but not limited to the issuance and amendment of regulations; and
+
+(6) Investigate, in consultation with the heads of relevant agencies, as appropriate, violations of the Order or the regulations in this part and pursue available civil penalties for such violations.
+
+§ 850.102
+
+Relation of this part to other laws and regulations.
+
+Nothing in this part shall be construed as altering or affecting any other authority, process, regulation, investigation, enforcement measure, license, authorization, or review provided by or established under any other provision of Federal law, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), or any other authority of the President or the Congress under the Constitution of the United States. This part is separate from, and independent of, the other parts of this subtitle. Differing foreign policy and national security circumstances may result in differing interpretations of the same or similar language among the parts of this subtitle. No action taken pursuant to any other provision of law or regulation, including the other parts of this subtitle, authorizes any transaction prohibited by this part or alters any other obligation under this part. No action taken pursuant to this part relieves the involved parties from complying with any other applicable laws or regulations.
+
+§ 850.103
+
+Rules of construction and interpretation.
+
+(a) As used in this part, the term “including” (or variations such as “include”) means “including but not limited to.”
+
+(b) Any term in the singular includes the plural, and the plural includes the singular, if such use would be appropriate.
+
+(c) Section headings are included for convenience of reference only and shall not affect the interpretation of this part.
+
+§ 850.104
+
+Knowledge standard.
+
+(a) Certain provisions of this part apply only if a U.S. person knows of a fact or circumstance. The term knowledge is defined in § 850.216. In determining whether a U.S. person is complying with this part or has violated any obligation under this part, the Department of the Treasury will assess whether such person has or had knowledge of the relevant facts and circumstances at the specified time.
+
+(b) Such assessment as to whether, at the time of a given transaction, a U.S. person has or had knowledge of a given fact or circumstance will be made based on information a U.S. person had or could have had through a reasonable and diligent inquiry. A U.S. person that has failed to conduct a reasonable and diligent inquiry by the time of a given transaction may be assessed to have had reason to know of a given fact or circumstance, including facts or circumstances that would cause the transaction to be a covered transaction.
+
+(c) In assessing whether a U.S. person has undertaken such a reasonable and diligent inquiry, the Department of the Treasury's considerations will include the following, as applicable, among others that the Department of the Treasury deems relevant, with respect to a particular transaction:
+
+(1) The inquiry a U.S. person has made regarding an investment target or other relevant transaction counterparty (such as a joint venture partner), including questions asked of the investment target or relevant counterparty, as of the time of the transaction;
+
+(2) The contractual representations or warranties the U.S. person has obtained or attempted to obtain from the investment target or other relevant transaction counterparty (such as a joint venture partner) with respect to the determination of a transaction's status as a covered transaction and status of an investment target or other relevant transaction counterparty (such as a joint venture partner) as a covered foreign person;
+
+(3) The efforts by the U.S. person as of the time of the transaction to obtain and consider available non-public information relevant to the determination of a transaction's status as a covered transaction and the status of an investment target or other relevant transaction counterparty (such as a joint venture partner) as a covered foreign person;
+
+(4) Available public information, the efforts undertaken by the U.S. person to obtain and consider such information, and the degree to which other information available to the U.S. person as of the time of the transaction is consistent or inconsistent with such publicly available information;
+
+(5) Whether the U.S. person purposefully avoided learning or seeking relevant information;
+
+(6) The presence or absence of warning signs, which may include evasive responses or non-responses from an investment target or other relevant transaction counterparty (such as a joint venture partner) to questions or a refusal to provide information, contractual representations, or warranties; and
+
+(7) The use of available public and commercial databases to identify and verify relevant information of an investment target or other relevant transaction counterparty (such as a joint venture partner).
+
+(d) An assessment of whether a U.S. person has undertaken a reasonable and diligent inquiry shall be based on a consideration of the totality of relevant facts and circumstances.
+
+Subpart B—Definitions
+
+§ 850.201
+
+Advanced packaging.
+
+The term advanced packaging means to package integrated circuits in a manner that supports the two-and-one-half-dimensional (2.5D) or three-dimensional (3D) assembly of integrated circuits, such as by directly attaching one or more die or wafer using through-silicon vias, die or wafer bonding, heterogeneous integration, or other advanced methods and materials.
+
+§ 850.202
+
+AI system.
+
+The term AI system means:
+
+(a) A machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments—i.e., a system that:
+
+(1) Uses data inputs to perceive real and virtual environments;
+
+(2) Abstracts such perceptions into models through automated or algorithmic statistical analysis; and
+
+(3) Uses model inference to make a classification, prediction, recommendation, or decision.
+
+(b) Any data system, software, hardware, application, tool, or utility that operates in whole or in part using a system described in paragraph (a) of this section.
+
+§ 850.203
+
+Certification.
+
+(a) The term certification means a written statement signed by the chief executive officer or other duly authorized designee of the person filing a notification or providing other information that certifies under the penalties provided in the False Statements Accountability Act of 1996, as amended (18 U.S.C. 1001) that the notification or other information filed or provided:
+
+(1) Fully complies with the regulations in this part; and
+
+(2) Is accurate and complete in all material respects to the best knowledge of the person filing a notification or other information.
+
+(b) For purposes of this section, a duly authorized designee is:
+
+(1) In the case of a partnership, any general partner thereof;
+
+(2) In the case of a corporation, any officer thereof; and
+
+(3) In the case of any entity lacking partners and officers, any individual within the organization exercising executive functions similar to those of a general partner of a partnership or an officer of a corporation or otherwise authorized by the board of directors or equivalent to provide such certification.
+
+(c) In each case described in paragraphs (b)(1) through (3) of this section, such designee must possess actual authority to make the certification on behalf of the person filing a notification or other information.
+
+Note 1 to § 850.203:
+
+A template for certifications may be found at the Outbound Investment Security Program section of the Department of the Treasury website.
+
+§ 850.204
+
+Completion date.
+
+The term completion date means:
+
+(a) With respect to a covered transaction other than under § 850.210(a)(6), the earliest date upon which any interest, asset, property, or right is conveyed, assigned, delivered, or otherwise transferred to a U.S. person, or as applicable, its controlled foreign entity; or
+
+(b) With respect to a covered transaction under § 850.210(a)(6), the earliest date upon which any interest, asset, property, or right in the relevant covered foreign person is conveyed, assigned, delivered, or otherwise transferred to the applicable fund.
+
+§ 850.205
+
+Contingent equity interest.
+
+The term contingent equity interest means a financial interest (including debt) that currently does not constitute an equity interest but is convertible into, or provides the right to acquire, an equity interest upon the occurrence of a contingency or defined event or at the discretion of the U.S. person that holds the financial interest.
+
+§ 850.206
+
+Controlled foreign entity.
+
+(a) The term controlled foreign entity means any entity incorporated in, or otherwise organized under the laws of, a country other than the United States of which a U.S. person is a parent.
+
+(b) For purposes of this term, the following rules shall apply in determining whether an entity is a parent of another entity in a tiered ownership structure:
+
+(1) Where the relationship between an entity and another entity is that of parent and subsidiary, the holdings of voting interest or voting power of the board, as applicable, of a subsidiary shall be fully attributed to the parent.
+
+(2) Where the relationship between an entity and another entity is not that of parent and subsidiary (i.e., because the holdings of voting interest or voting power of the board, as applicable, of the first entity in the second entity is 50 percent or less), then the indirect downstream holdings of voting interest or voting power of the board, as applicable, attributed to the first entity shall be determined proportionately.
+
+(3) Where the circumstances in paragraphs (b)(1) and (2) of this section apply (i.e., because a U.S. person holds both direct and indirect downstream holdings in the same entity), any holdings of voting interest shall be aggregated for the purposes of applying this definition, and any holdings of voting power of the board shall be aggregated for the purposes of applying this definition. Voting interest shall not be aggregated with voting power of the board for the purposes of applying this definition.
+
+§ 850.207
+
+Country of concern.
+
+The term country of concern has the meaning given to it in the Annex to the Order.
+
+§ 850.208
+
+Covered activity.
+
+The term covered activity means, in the context of a particular transaction, any of the activities referred to in the definition of notifiable transaction in § 850.217 or prohibited transaction in § 850.224.
+
+§ 850.209
+
+Covered foreign person.
+
+(a) The term covered foreign person means:
+
+(1) A person of a country of concern that engages in a covered activity; or
+
+(2) A person that directly or indirectly holds a board seat on, a voting or equity interest (other than through securities or interests that would satisfy the conditions in § 850.501(a) if held by a U.S. person) in, or any contractual power to direct or cause the direction of the management or policies of any person or persons described in paragraph (a)(1) of this section from or through which it:
+
+(i) Derives more than 50 percent of its revenue individually, or as aggregated across such persons from each of which it derives at least $50,000 (or equivalent) of its revenue, on an annual basis;
+
+(ii) Derives more than 50 percent of its net income individually, or as aggregated across such persons from each of which it derives at least $50,000 (or equivalent) of its net income, on an annual basis;
+
+(iii) Incurs more than 50 percent of its capital expenditure individually, or as aggregated across such persons from each of which it incurs at least $50,000 (or equivalent) of its capital expenditure, on an annual basis; or
+
+(iv) Incurs more than 50 percent of its operating expenses individually, or as aggregated across such persons from each of which it incurs at least $50,000 (or equivalent) of its operating expenses, on an annual basis.
+
+(3) With respect to a covered transaction described in § 850.210(a)(5), the person of a country of concern that participates in the joint venture is deemed to be a covered foreign person by virtue of its participation in the joint venture.
+
+(b) For purposes of paragraph (a)(2) of this section:
+
+(1) Calculations shall be based on an audited financial statement from the most recent year. If an audited financial statement is not available, the most recent unaudited financial statement shall be used instead. If no financial statement is available, an independent appraisal shall be used instead. If no independent appraisal is available, a good-faith estimate shall be used instead.
+
+(2) Where an amount is not denominated in U.S. dollars, the U.S. dollar equivalent shall be determined based on the most recent published rate of exchange available on the Department of the Treasury's website.
+
+Note 1 to § 850.209: 
+
+References in this section to revenue, net income, capital expenditure, or operating expenses refer to overall revenue, net income, capital expenditure, or operating expenses, as applicable, without subtracting amounts attributable to persons described in paragraph (a)(1) of this section of less than $50,000 (or equivalent). 
+
+§ 850.210
+
+Covered transaction.
+
+(a) The term covered transaction means a U.S. person's direct or indirect:
+
+(1) Acquisition of an equity interest or contingent equity interest in a person that the U.S. person knows at the time of the acquisition is a covered foreign person;
+
+(2) Provision of a loan or a similar debt financing arrangement to a person that the U.S. person knows at the time of the provision is a covered foreign person, where such debt financing affords or will afford the U.S. person an interest in profits of the covered foreign person, the right to appoint members of the board of directors (or equivalent) of the covered foreign person, or other comparable financial or governance rights characteristic of an equity investment but not typical of a loan;
+
+(3) Conversion of a contingent equity interest into an equity interest in a person that the U.S. person knows at the time of the conversion is a covered foreign person, where the contingent equity interest was acquired by the U.S. person on or after January 2, 2025;
+
+(4) Acquisition, leasing, or other development of operations, land, property, or other assets in a country of concern that the U.S. person knows at the time of such acquisition, leasing, or other development will result in, or that the U.S. person plans to result in:
+
+(i) The establishment of a covered foreign person; or
+
+(ii) The engagement of a person of a country of concern in a covered activity;
+
+(5) Entrance into a joint venture, wherever located, that is formed with a person of a country of concern, and that the subject U.S. person knows at the time of entrance into the joint venture that the joint venture will engage, or plans to engage, in a covered activity; or
+
+(6) Acquisition of a limited partner or equivalent interest in a venture capital fund, private equity fund, fund of funds, or other pooled investment fund (in each case where the fund is not a U.S. person) that a U.S. person knows at the time of the acquisition likely will invest in a person of a country of concern that is in the semiconductors and microelectronics, quantum information technologies, or artificial intelligence sectors, and such fund undertakes a transaction that would be a covered transaction if undertaken by a U.S. person.
+
+(b) Notwithstanding paragraph (a) of this section, a transaction is not a covered transaction if it is:
+
+(1) An excepted transaction as set forth in § 850.501; or
+
+(2) For the conduct of the official business of the United States Government by employees, grantees, or contractors thereof.
+
+(c) The acquisition of a contingent interest described in paragraph (a)(1) of this section may constitute a covered transaction, and the subsequent occurrence of a conversion event described in paragraph (a)(3) of this section may constitute a separate covered transaction. A U.S. person should assess each of the acquisition and the conversion to determine the applicability of this part.
+
+Note 1 to § 850.210:
+
+An indirect covered transaction includes a U.S. person's use of an intermediary to engage in a transaction that would be a covered transaction if engaged in directly by a U.S. person. However, for purposes of paragraph (a)(1) of this section, a U.S. person is not considered to have acquired an indirect equity interest or contingent equity interest in a covered foreign person when the U.S. person acquires a limited partner or equivalent interest in a venture capital fund, private equity fund, fund of funds, or other pooled investment fund and that fund then acquires an equity interest or contingent equity interest in a covered foreign person. (A U.S. person's acquisition of a limited partner or equivalent interest in a non-U.S. person venture capital fund, private equity fund, fund of funds, or other pooled investment fund may, however, be a covered transaction under paragraph (a)(6) of this section.) 
+
+Note 2 to § 850.210: 
+
+Neither the issuance of a secured loan or similar debt financing for which equity is pledged as collateral, nor the acquisition of such secured debt on the secondary market, is an acquisition of an equity interest. However, foreclosure on collateral where the debtholder takes possession of the pledged equity is an acquisition of an equity interest; provided that such an acquisition is not a covered transaction where the equity was pledged prior to January 2, 2025, or where the U.S. person did not know at the time of issuing or acquiring the debt that the pledged equity was in a covered foreign person.
+
+§ 850.211
+
+Develop.
+
+Except as used in § 850.210(a)(4), the term develop means to engage in any stages prior to serial production, such as design or substantive modification, design research, design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, and layouts.
+
+§ 850.212
+
+Entity.
+
+The term entity means any branch, partnership, association, estate, joint venture, trust, corporation or division of a corporation, group, sub-group, or other organization (whether or not organized under the laws of any State or foreign state).
+
+§ 850.213
+
+Excepted transaction.
+
+The term excepted transaction means a transaction that meets the criteria in § 850.501.
+
+§ 850.214
+
+Fabricate.
+
+The term fabricate means to form devices such as transistors, poly capacitors, non-metal resistors, and diodes on a wafer of semiconductor material.
+
+§ 850.215
+
+Knowingly directing.
+
+The term knowingly directing has the definition set forth in § 850.303.
+
+§ 850.216
+
+Knowledge.
+
+Knowledge of a fact or circumstance (the term may be a variant, such as “know”) means:
+
+(a) Actual knowledge that a fact or circumstance exists or is substantially certain to occur;
+
+(b) An awareness of a high probability of a fact or circumstance's existence or future occurrence; or
+
+(c) Reason to know of a fact or circumstance's existence.
+
+Note 1 to § 850.216: 
+
+See the discussion of the knowledge standard in § 850.104 for more information about how this term is applied in this part.
+
+§ 850.217
+
+Notifiable transaction.
+
+The term notifiable transaction means a covered transaction (that is not a prohibited transaction) in which the relevant covered foreign person or, with respect to a covered transaction described in § 850.210(a)(5), the relevant joint venture:
+
+(a) Designs any integrated circuit that is not described in § 850.224(c);
+
+(b) Fabricates any integrated circuit that is not described in § 850.224(d);
+
+(c) Packages any integrated circuit that is not described in § 850.224(e);
+
+(d) Develops any AI system that is not described in § 850.224(j) or (k) and that is:
+
+(1) Designed to be used for any military end use (e.g., for weapons targeting, target identification, combat simulation, military vehicle or weapons control, military decision-making, weapons design (including chemical, biological, radiological, or nuclear weapons), or combat system logistics and maintenance); or government intelligence or mass-surveillance end use (e.g., through incorporation of features such as mining text, audio, or video; image recognition; location tracking; or surreptitious listening devices);
+
+(2) Intended by the covered foreign person or joint venture to be used for any of the following:
+
+(i) Cybersecurity applications;
+
+(ii) Digital forensics tools;
+
+(iii) Penetration testing tools; or
+
+(iv) The control of robotic systems; or
+
+(3) Trained using a quantity of computing power greater than 10^23 computational operations (e.g., integer or floating-point operations).
+
+Note 1 to § 850.217:
+
+Consistent with section 3 of the Order, the Secretary, in consultation with the Secretary of Commerce, and, as appropriate, the heads of other relevant agencies, shall periodically assess whether the criterion described in paragraph (d)(3) of this section is serving to effectively address threats to the national security of the United States described in the Order and make updates, as appropriate, through public notice. 
+
+Note 2 to § 850.217:
+
+Consistent with the definition for develop at § 850.211, to develop an AI system defined at § 850.202(b) in a manner subject to these notification requirements, the relevant covered foreign person or joint venture must engage in the activities enumerated in § 850.211, such as design or substantive modification, with respect to the third-party AI model or machine-based system that is being used by a data system, software, hardware, application, tool, or utility to operate in whole or in part. 
+
+Note 3 to § 850.217:
+
+For purposes of paragraph (d) of this section, a person customizing, configuring, or fine-tuning a third-party AI model or machine-based system strictly for its own internal, non-commercial use (e.g., not for sale or licensing) would not implicate the notification requirements for related transactions solely on that basis unless the person's internal, non-commercial use is for government intelligence, mass-surveillance, or military end use, or for digital forensics tools, penetration testing tools, or the control of robotic systems. 
+
+§ 850.218
+
+Package.
+
+The term package means to assemble various components, such as the integrated circuit die, lead frames, interconnects, and substrate materials to safeguard the semiconductor device and provide electrical connections between different parts of the die.
+
+§ 850.219
+
+Parent.
+
+The term parent means, with respect to an entity:
+
+(a) A person who or which directly or indirectly holds more than 50 percent of:
+
+(1) The outstanding voting interest in the entity; or
+
+(2) The voting power of the board of the entity;
+
+(b) The general partner, managing member, or equivalent of the entity; or
+
+(c) The investment adviser to any entity that is a pooled investment fund, with “investment adviser” as defined in the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(11)).
+
+Note 1 to § 850.219:
+
+Any entity that meets the conditions of paragraph (a), (b), or (c) of this section with respect to another entity is the parent, even if the parent entity is an intermediate entity and not the ultimate parent. 
+
+§ 850.220
+
+Person.
+
+The term person means any individual or entity.
+
+§ 850.221
+
+Person of a country of concern.
+
+The term person of a country of concern means:
+
+(a) Any individual that:
+
+(1) Is a citizen or permanent resident of a country of concern;
+
+(2) Is not a U.S. citizen; and
+
+(3) Is not a permanent resident of the United States;
+
+(b) An entity with a principal place of business in, headquartered in, or incorporated in or otherwise organized under the laws of, a country of concern;
+
+(c) The government of a country of concern, including any political subdivision, political party, agency, or instrumentality thereof; any person acting for or on behalf of the government of a country of concern; or any entity with respect to which the government of a country of concern holds individually or in the aggregate, directly or indirectly, 50 percent or more of the entity's outstanding voting interest, voting power of the board, or equity interest, or otherwise possesses the power to direct or cause the direction of the management and policies of such entity (whether through the ownership of voting securities, by contract, or otherwise);
+
+(d) Any entity in which one or more persons identified in paragraph (a), (b), or (c) of this section, individually or in the aggregate, directly or indirectly, 
+
+holds at least 50 percent of any of the following interests of such entity: outstanding voting interest, voting power of the board, or equity interest; or
+
+(e) Any entity in which one or more persons identified in paragraph (d) of this section, individually or in the aggregate, directly or indirectly, holds at least 50 percent of any of the following interests of such entity: outstanding voting interest, voting power of the board, or equity interest.
+
+§ 850.222
+
+Principal place of business.
+
+The term principal place of business means the primary location where an entity's management directs, controls, or coordinates the entity's activities, or, in the case of an investment fund, where the fund's activities are primarily directed, controlled, or coordinated by or on behalf of the general partner, managing member, or equivalent.
+
+§ 850.223
+
+Produce.
+
+The term produce means to engage in any of the post-development stages of realizing the relevant technology or product, such as engineering, manufacture, integration, assembly, inspection, testing, and quality assurance.
+
+§ 850.224
+
+Prohibited transaction.
+
+The term prohibited transaction means a covered transaction in which the relevant covered foreign person or, with respect to a covered transaction described in § 850.210(a)(5), the relevant joint venture:
+
+(a) Develops or produces any electronic design automation software for the design of integrated circuits or advanced packaging;
+
+(b) Develops or produces any:
+
+(1) Front-end semiconductor fabrication equipment designed for performing the volume fabrication of integrated circuits, including equipment used in the production stages from a blank wafer or substrate to a completed wafer or substrate (i.e., the integrated circuits are processed but they are still on the wafer or substrate);
+
+(2) Equipment for performing volume advanced packaging; or
+
+(3) Commodity, material, software, or technology designed exclusively for use in or with extreme ultraviolet lithography fabrication equipment.
+
+(c) Designs any integrated circuit that meets or exceeds the performance parameters in Export Control Classification Number 3A090.a in supplement No. 1 to 15 CFR part 774, or integrated circuits designed for operation at or below 4.5 Kelvin;
+
+(d) Fabricates any of the following:
+
+(1) Logic integrated circuits using a non-planar transistor architecture or with a production technology node of 16/14 nanometers or less, including fully depleted silicon-on-insulator (FDSOI) integrated circuits;
+
+(2) NOT-AND (NAND) memory integrated circuits with 128 layers or more;
+
+(3) Dynamic random-access memory (DRAM) integrated circuits using a technology node of 18 nanometer half-pitch or less;
+
+(4) Integrated circuits manufactured from a gallium-based compound semiconductor;
+
+(5) Integrated circuits using graphene transistors or carbon nanotubes; or
+
+(6) Integrated circuits designed for operation at or below 4.5 Kelvin;
+
+(e) Packages any integrated circuit using advanced packaging techniques;
+
+(f) Develops, installs, sells, or produces any supercomputer enabled by advanced integrated circuits that can provide a theoretical compute capacity of 100 or more double-precision (64-bit) petaflops or 200 or more single-precision (32-bit) petaflops of processing power within a 41,600 cubic foot or smaller envelope;
+
+(g) Develops a quantum computer or produces any of the critical components required to produce a quantum computer such as a dilution refrigerator or two-stage pulse tube cryocooler;
+
+(h) Develops or produces any quantum sensing platform designed for, or which the relevant covered foreign person intends to be used for, any military, government intelligence, or mass-surveillance end use;
+
+(i) Develops or produces any quantum network or quantum communication system designed for, or which the relevant covered foreign person intends to be used for:
+
+(1) Networking to scale up the capabilities of quantum computers, such as for the purposes of breaking or compromising encryption;
+
+(2) Secure communications, such as quantum key distribution; or
+
+(3) Any other application that has any military, government intelligence, or mass-surveillance end use;
+
+(j) Develops any AI system that is designed to be exclusively used for, or which the relevant covered foreign person intends to be used for, any:
+
+(1) Military end use (e.g., for weapons targeting, target identification, combat simulation, military vehicle or weapon control, military decision-making, weapons design (including chemical, biological, radiological, or nuclear weapons), or combat system logistics and maintenance); or
+
+(2) Government intelligence or mass-surveillance end use (e.g., through incorporation of features such as mining text, audio, or video; image recognition; location tracking; or surreptitious listening devices);
+
+(k) Develops any AI system that is trained using a quantity of computing power greater than:
+
+(1) 10^25 computational operations (e.g., integer or floating-point operations); or
+
+(2) 10^24 computational operations (e.g., integer or floating-point operations) using primarily biological sequence data;
+
+(l) Meets the conditions set forth in § 850.209(a)(2) because of its relationship to one or more covered foreign persons engaged in any covered activity described in any of paragraphs (a) through (k) of this section; or
+
+(m) Engages in a covered activity, whether referenced in this section or § 850.217 and is:
+
+(1) Included on the Bureau of Industry and Security's Entity List (15 CFR part 744, supplement no. 4);
+
+(2) Included on the Bureau of Industry and Security's Military End User List (15 CFR part 744, supplement no. 7);
+
+(3) Meets the definition of “Military Intelligence End-User” by the Bureau of Industry and Security in 15 CFR 744.22(f)(2);
+
+(4) Included on the Department of the Treasury's list of Specially Designated Nationals and Blocked Persons (SDN List), or is an entity in which one or more individuals or entities included on the SDN List, individually or in the aggregate, directly or indirectly, own a 50 percent or greater interest;
+
+(5) Included on the Department of the Treasury's list of Non-SDN Chinese Military-Industrial Complex Companies (NS-CMIC List); or
+
+(6) Designated as a foreign terrorist organization by the Secretary of State under 8 U.S.C. 1189.
+
+Note 1 to § 850.224:
+
+Consistent with section 3 of the Order, the Secretary, in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant agencies, shall periodically assess whether the criterion described in paragraph (k) of this section is serving to effectively address threats to the national security of the United States described in the Order and make updates, as appropriate, through public notice. 
+
+Note 2 to § 850.224: 
+
+Consistent with the definition for develop at § 850.211, to develop an AI system defined at § 850.202(b) in a manner subject to these prohibition requirements, the relevant covered foreign person or joint venture must engage in the activities enumerated in § 850.211, such as design or substantive modification, with respect to the third-party AI model or machine-based system that is being used by a data system, software, hardware, application, tool, or utility to operate in whole or in part. 
+
+Note 3 to § 850.224:
+
+For purposes of paragraphs (j) and (k) of this section, a person customizing, configuring, or fine-tuning a third-party AI model or machine-based system strictly for its own internal, non-commercial use (e.g., not for sale or licensing) would not implicate a prohibition for related transactions solely on that basis unless the person's internal, non-commercial use is for government intelligence, mass-surveillance, or military end use, or for digital forensics tools, penetration testing tools, or the control of robotic systems. 
+
+§ 850.225
+
+Quantum computer.
+
+The term quantum computer means a computer that performs computations that harness the collective properties of quantum states, such as superposition, interference, or entanglement.
+
+§ 850.226
+
+Relevant agencies.
+
+The term relevant agencies means the Departments of State, Defense, Justice, Commerce, Energy, and Homeland Security, the Office of the United States Trade Representative, the Office of Science and Technology Policy, the Office of the Director of National Intelligence, the Office of the National Cyber Director, and any other department, agency, or office the Secretary determines appropriate.
+
+§ 850.227
+
+Subsidiary.
+
+The term subsidiary means, with respect to a person, an entity of which such person is a parent.
+
+§ 850.228
+
+United States.
+
+The term United States or U.S. means the United States of America, the States of the United States of America, the District of Columbia, and any commonwealth, territory, dependency, or possession of the United States of America, or any subdivision of the foregoing, and includes the territorial sea of the United States of America. For purposes of this part, an entity organized under the laws of the United States of America, one of the States, the District of Columbia, or a commonwealth, territory, dependency, or possession of the United States is an entity organized “in the United States.”
+
+§ 850.229U.S. person. The term U.S. person means any United States citizen, lawful permanent resident, entity organized under the laws of the United States or any jurisdiction within the United States, including any foreign branch of any such entity, or any person in the United States.
+
+Subpart C—Prohibited Transactions and Other Prohibited Activities
+
+§ 850.301
+
+Undertaking a prohibited transaction.
+
+A U.S. person may not engage in a prohibited transaction unless an exemption for that transaction has been granted under § 850.502.
+
+§ 850.302
+
+Actions of a controlled foreign entity.
+
+(a) A U.S. person shall take all reasonable steps to prohibit and prevent any transaction by its controlled foreign entity that would be a prohibited transaction if engaged in by a U.S. person.
+
+(b) If a controlled foreign entity engages in a transaction that would be a prohibited transaction if engaged in by a U.S. person, in determining whether the relevant U.S. person took all reasonable steps to prohibit and prevent such transaction, the Department of the Treasury will consider, among other factors, any of the following with respect to a U.S. person and its controlled foreign entity:
+
+(1) The execution of agreements with respect to compliance with this part between the subject U.S. person and its controlled foreign entity;
+
+(2) The existence and exercise of governance or shareholder rights by the U.S. person with respect to the controlled foreign entity, where applicable;
+
+(3) The existence and implementation of periodic training and internal reporting requirements by the U.S. person and its controlled foreign entity with respect to compliance with this part;
+
+(4) The implementation of appropriate and documented internal controls, including internal policies, procedures, or guidelines that are periodically reviewed internally, by the U.S. person and its controlled foreign entity; and
+
+(5) Implementation of a documented testing and/or auditing process of internal policies, procedures, or guidelines.
+
+Note 1 to § 850.302:
+
+Findings of violations of this section and decisions related to enforcement and penalties will be made based on a consideration of the totality of relevant facts and circumstances, including whether the U.S. person has taken the steps described in paragraph (b) of this section and whether such steps were reasonable in light of the relevant facts and circumstances. 
+
+§ 850.303
+
+Knowingly directing an otherwise prohibited transaction.
+
+(a) A U.S. person is prohibited from knowingly directing a transaction by a non-U.S. person that the U.S. person knows at the time of the transaction would be a prohibited transaction if engaged in by a U.S. person. For purposes of this section, a U.S. person “knowingly directs” a transaction when the U.S. person has authority, individually or as part of a group, to make or substantially participate in decisions on behalf of a non-U.S. person, and exercises that authority to direct, order, decide upon, or approve a transaction. Such authority exists when a U.S. person is an officer, director, or otherwise possesses executive responsibilities at a non-U.S. person.
+
+(b) A U.S. person that has the authority described in paragraph (a) of this section and recuses themself from each of the following activities will not be considered to have exercised their authority to direct, order, decide upon, or approve a transaction:
+
+(1) Participating in formal approval and decision-making processes related to the transaction, including making a recommendation;
+
+(2) Reviewing, editing, commenting on, approving, and signing relevant transaction documents; and
+
+(3) Engaging in negotiations with the investment target (or, as applicable, the relevant transaction counterparty, such as a joint venture partner).
+
+Subpart D—Notifiable Transactions and Other Notifiable Activities
+
+§ 850.401
+
+Undertaking a notifiable transaction.
+
+A U.S. person that undertakes a notifiable transaction shall file a notification of that transaction with the Department of the Treasury pursuant to § 850.404.
+
+§ 850.402
+
+Notification of actions of a controlled foreign entity.
+
+A U.S. person shall file a notification with the Department of the Treasury pursuant to § 850.404 with respect to any transaction by a controlled foreign entity of that U.S. person that would be a notifiable transaction if engaged in by a U.S. person.
+
+§ 850.403 
+
+Notification of post-transaction knowledge.
+
+A U.S. person that acquires actual knowledge after the completion date of a transaction of a fact or circumstance such that the transaction would have been a covered transaction if such knowledge had been possessed by the relevant U.S. person at the time of the transaction shall promptly, and in no event later than 30 calendar days following the acquisition of such knowledge, submit a notification pursuant to § 850.404. This requirement applies regardless of whether the transaction would have been a notifiable transaction or a prohibited transaction.
+
+Note 1 to § 850.403:
+
+A U.S. person's submission of a notification pursuant to this section shall not preclude a finding by the Department of the Treasury that as a factual matter the U.S. person had relevant knowledge of the transaction's status at the time of the transaction.
+
+§ 850.404 
+
+Procedures for notifications.
+
+(a) A U.S. person that has an obligation under § 850.401, § 850.402, or § 850.403 shall file an electronic copy of the notification of the transaction with the Department of the Treasury including the information set out in § 850.405 and the certification referred to in § 850.203. The U.S. person shall follow the electronic filing instructions posted on the Department of the Treasury's Outbound Investment Security Program website. No communications or submissions other than those described in this section shall constitute the filing of a notification for purposes of this part.
+
+(b) The Department of the Treasury may contact a U.S. person that has filed a notification with questions or document requests related to the transaction or compliance with this part. The U.S. person shall respond to any such questions or requests within the time frame and in the manner specified by the Department of the Treasury. Information and other documents provided by the U.S. person to the Department of the Treasury after the filing of the notification under this section shall be deemed part of the notification and shall be subject to the certification referred to in § 850.203.
+
+(c) A U.S. person shall file a notification under § 850.401 or § 850.402 with the Department of the Treasury no later than 30 calendar days following the completion date of a notifiable transaction. A U.S. person shall file a notification required under § 850.403 with the Department of the Treasury no later than 30 calendar days after it acquires the knowledge referred to in § 850.403.
+
+(d) If a U.S. person files a notification prior to the completion date of the notifiable transaction, the U.S. person shall update such notification no later than 30 calendar days following the completion date of the notifiable transaction if information in the original filing has materially changed.
+
+(e) A U.S. person shall inform the Department of the Treasury in writing no later than 30 calendar days following the acquisition of previously unavailable information required under § 850.405.
+
+Note 1 to § 850.404: 
+
+While the Department of the Treasury may engage with the U.S. person following notification, it is also possible the U.S. person will receive no communication from the Department of the Treasury other than an electronic acknowledgment of receipt after notification is submitted.
+
+§ 850.405 
+
+Content of notifications.
+
+(a) A U.S. person that has an obligation under this part to file a notification shall provide the information set forth in this section, which must be accurate and complete in all material respects, subject to paragraph (d) of this section.
+
+(b) A notification shall provide, as applicable:
+
+(1) The contact information of a representative of the U.S. person filing the notification who is available to communicate with the Department of the Treasury about the notification including such representative's name, title, email address, mailing address, phone number, and employer;
+
+(2) A description of the U.S. person, including name, and as applicable, principal place of business and place of incorporation or legal organization, company address, website, and, if the U.S. person is an entity, such U.S. person's ultimate owner;
+
+(3) A post-transaction organizational chart of the U.S. person that includes the name and principal place of business and place of incorporation or legal organization of the intermediate and ultimate parent entities of the U.S. person, identifies the U.S. person's relationship with any controlled foreign entity or entities of the U.S. person, and identifies the covered foreign person and other relevant persons involved in the transaction;
+
+(4) A brief description of the commercial rationale for the transaction;
+
+(5) A brief description of why the U.S. person has determined the transaction is a covered transaction that includes a discussion of the nature of the transaction, its structure, reference to the paragraph of § 850.210(a) that best describes the transaction type, and whether the notification is being submitted pursuant to § 850.401, § 850.402, or § 850.403.
+
+(6) The status of the transaction, including the actual or expected completion date of the transaction;
+
+(7) The total transaction value in U.S. dollars or U.S. dollar equivalent, an explanation of how the transaction value was determined, and a description of the consideration for the transaction (including cash, securities, other assets, and debt forgiveness);
+
+(8) The aggregate equity interest, voting interest, board seats (or equivalent holdings) of the U.S. person and its affiliates in the covered foreign person (or in the joint venture, as applicable) following the completion date of the transaction, including a description of any agreements or commitments for future investment or options to make future investments in the covered foreign person (or joint venture);
+
+(9) Information about the covered foreign person, including its name, and as applicable, principal place of business and place of incorporation or legal organization, company address, website, and if the covered foreign person is an entity, such covered foreign person's ultimate owner, and the full legal names and titles of each officer, director, and other member of management of the covered foreign person, and a post-transaction organizational chart of the covered foreign person that includes the name and principal place of business and place of incorporation or legal organization of the intermediate and ultimate parent entities of the covered foreign person;
+
+(10) Identification and description of each of the covered activity or activities undertaken by the covered foreign person that makes the transaction a covered transaction, as well as a brief description of the known end use(s) and end user(s) of the covered foreign person's technology, products, or services;
+
+(11) A statement describing the attributes that cause the entity to be a covered foreign person, and any other relevant information regarding the covered foreign person and covered activity or activities;
+
+(12) If a transaction involves a covered activity identified in § 850.217(a), (b), or (c), identification of the technology node(s) at which any applicable product is produced; and
+
+(13) If the notification is required under § 850.403:
+
+(i) Identification of the fact or circumstance of which the U.S. person acquired knowledge post-transaction;
+
+(ii) The date upon which the U.S. person acquired such knowledge;
+
+(iii) A statement explaining why the U.S. person did not possess or obtain such knowledge at the time of the transaction; and
+
+(iv) A description of any pre-transaction diligence undertaken by the U.S. person, including, as applicable, any steps described in § 850.104(c).
+
+(c) The U.S. person shall maintain a copy of the notification filed and supporting documentation for a period of ten years from the date of the filing. Such supporting documentation shall include, as applicable, any pitch decks, marketing letters, and offering memorandums; transaction documents including side letters and investment agreements; and due diligence materials related to the transaction. The U.S. person shall make all supporting documentation available upon request by the Department of the Treasury.
+
+(d) If the U.S. person does not provide responses to the information required in paragraph (b) of this section, the U.S. person shall provide sufficient explanation for why the information is unavailable or otherwise cannot be obtained and explain the U.S. person's efforts to obtain such information. If such information subsequently becomes available, the U.S. person shall provide such information to the Department of the Treasury promptly, and no later than 30 calendar days following the availability of such information.
+
+§ 850.406 
+
+Notice of material omission or inaccuracy.
+
+A person who has made any representation, statement, or certification subject to this part shall inform the Department of the Treasury in writing promptly, and in no event later than 30 calendar days after learning of a material omission or inaccuracy in such representation, statement, or certification.
+
+Subpart E—Exceptions and Exemptions
+
+§ 850.501 
+
+Excepted transaction.
+
+A transaction that would be either a prohibited transaction or a notifiable transaction if engaged in by a U.S. person but for this section is not a prohibited transaction or a notifiable transaction, as applicable, if the conditions set forth in this section are met. In that case, the transaction is an excepted transaction. The following transactions are excepted transactions:
+
+(a)(1) An investment by a U.S. person:
+
+(i) In any publicly traded security, with “security” as defined in section 3(a)(10) of the Securities Exchange Act of 1934, as amended, at 15 U.S.C. 78c(a)(10), denominated in any currency, and that trades on a securities exchange or through the method of trading that is commonly referred to as “over-the-counter,” in any jurisdiction;
+
+(ii) In a security issued by:
+
+(A) Any “investment company” as defined in section 3(a)(1) of the Investment Company Act of 1940, as amended, at 15 U.S.C. 80a-3(a)(1), that is registered with the U.S. Securities and Exchange Commission, such as index funds, mutual funds, or exchange traded funds; or
+
+(B) Any company that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940, as amended, at 15 U.S.C. 80a-53;
+
+(iii) Made as a limited partner or equivalent in a venture capital fund, private equity fund, fund of funds, or other pooled investment fund other than as described in paragraph (a)(1)(ii) of this section where:
+
+(A) The limited partner or equivalent's committed capital is not more than $2,000,000, aggregated across any investment and co-investment vehicles of the fund; or
+
+(B) The limited partner or equivalent has secured a binding contractual assurance that its capital in the fund will not be used to engage in a transaction that would be a prohibited transaction or notifiable transaction, as applicable, if engaged in by a U.S. person; or
+
+(iv) In a derivative, so long as such derivative does not confer the right to acquire equity, any rights associated with equity, or any assets in or of a covered foreign person.
+
+(2) Notwithstanding paragraph (a)(1) of this section, an investment is not an excepted transaction if it affords the U.S. person rights beyond standard minority shareholder protections with respect to the covered foreign person. Such standard minority shareholder protections include:
+
+(i) The power to prevent the sale or pledge of all or substantially all of the assets of an entity or a voluntary filing for bankruptcy or liquidation;
+
+(ii) The power to prevent an entity from entering into contracts with majority investors or their affiliates;
+
+(iii) The power to prevent an entity from guaranteeing the obligations of majority investors or their affiliates;
+
+(iv) The right to purchase an additional interest in an entity to prevent the dilution of an investor's pro rata interest in that entity in the event that the entity issues additional instruments conveying interests in the entity;
+
+(v) The power to prevent the change of existing legal rights or preferences of the particular class of stock held by minority investors, as provided in the relevant corporate documents governing such stock; and
+
+(vi) The power to prevent the amendment of the Articles of Incorporation, constituent agreement, or other organizational documents of an entity with respect to the matters described in paragraphs (a)(2)(i) through (v) of this section;
+
+(b) The acquisition by a U.S. person of equity or other interests in an entity held by one or more persons of a country of concern; provided that: (1) The U.S. person is acquiring all equity or other interests in such entity held by all persons of a country of concern; and
+
+(2) Following such acquisition, the entity does not constitute a covered foreign person;
+
+(c) A transaction that, but for this paragraph, would be a covered transaction between a U.S. person and its controlled foreign entity that supports operations that are not covered activities or that maintains covered activities that the controlled foreign entity was engaged in prior to January 2, 2025;
+
+(d) A transaction made after January 2, 2025, pursuant to a binding, uncalled capital commitment entered into before January 2, 2025;
+
+(e) The acquisition of a voting interest in a covered foreign person by a U.S. person upon default or other condition involving a loan or a similar financing arrangement, where the loan was made by a syndicate of banks in a loan participation where the U.S. person lender(s) in the syndicate:
+
+(1) Cannot on its own initiate any action vis-à-vis the debtor; and
+
+(2) Is not the syndication agent;
+
+(f) The receipt of employment compensation by an individual in the form of an award of equity or the grant of an option to purchase equity in a covered foreign person, or the exercise of such option; or
+
+(g)(1) A transaction that is:
+
+(i) With or involving a person of a country or territory outside of the United States designated by the Secretary, after taking into account whether the country or territory is addressing national security risks substantially similar to those described in the Order and related to outbound investment; and
+
+(ii) Of a type for which the Secretary has determined that the related national security concerns are likely to be adequately addressed by measures taken or that may be taken by the government of the relevant country or territory.
+
+(2) Prior to making a designation or determination under this paragraph (g), the Secretary shall consult with the Secretary of State, the Secretary of Commerce, and, as appropriate, the heads of other relevant agencies.
+
+(3) The Secretary's designations and determinations under paragraph (g)(1) of this section shall be made available through public notice.
+
+(4) The Secretary may rescind a designation or determination under 
+
+paragraph (g)(1) of this section if the Secretary, in consultation with the Secretary of State, Secretary of Commerce, and, as appropriate, the heads of other relevant agencies, determines that such a rescission is appropriate. Any rescission shall be made available through public notice.
+
+§ 850.502 
+
+National interest exemption.
+
+(a) The Secretary, in consultation with the Secretary of Commerce, the Secretary of State, and the heads of relevant agencies, as appropriate, may determine that a covered transaction is in the national interest of the United States and therefore is exempt from applicable provisions in subparts C and D of this part (excluding §§ 850.406, 850.603, and 850.604). Such a determination may be made following a request by a U.S. person on its own behalf or on behalf of its controlled foreign entity.
+
+(b) Any determination pursuant to paragraph (a) of this section will be based on a consideration of the totality of the relevant facts and circumstances and may be informed by, among other considerations, the transaction's effect on critical U.S. supply chain needs; domestic production needs in the United States for projected national defense requirements; United States' technological leadership globally in areas affecting U.S. national security; and impact on U.S. national security if the U.S. person is prohibited from undertaking the transaction.
+
+(c) A U.S. person seeking a national interest exemption shall submit relevant information to the Department of the Treasury regarding the transaction and shall articulate the basis for the request, including the U.S. person's analysis of the transaction's potential impact on the national interest of the United States and the certification referred to in § 850.203. Information and other documents submitted by the U.S. person to the Department of the Treasury under this section shall be deemed part of the national interest exemption request. The U.S. person shall follow the instructions posted on the Department of the Treasury's Outbound Investment Security Program website. No communications or submissions other than those described in this section shall constitute a request for a national interest exemption. The Department of the Treasury may request additional information that may include some or all of the information required under § 850.405.
+
+(d) A determination that a covered transaction is exempt under this section may be subject to binding conditions.
+
+(e) No determination pursuant to paragraph (a) of this section will be valid unless provided to the subject U.S. person in writing and signed by the Assistant Secretary or Deputy Assistant Secretary of the Treasury for Investment Security.
+
+Note 1 to § 850.502:
+
+A process and related information for exemption requests will be made available on the Department of the Treasury's Outbound Investment Security Program website.
+
+§ 850.503 
+
+IEEPA statutory exception.
+
+Conduct referred to in 50 U.S.C. 1702(b) shall not be regulated or prohibited, directly or indirectly, by this part.
+
+Subpart F—Violations
+
+§ 850.601 
+
+Taking actions prohibited by this part.
+
+The taking of any action prohibited by this part is a violation of this part.
+
+§ 850.602 
+
+Failure to fulfill requirements.
+
+Failure to take any action required by this part, and within the time frame and in the manner specified by this part, as applicable, is a violation of this part.
+
+§ 850.603 
+
+Misrepresentation, concealment, and omission of facts.
+
+With respect to any information submission to or communication with the Department of the Treasury pursuant to any provision of this part, the making of any materially false or misleading representation, statement, or certification, or falsifying, concealing or omitting any material fact is a violation of this part.
+
+§ 850.604 
+
+Evasions; attempts; causing violations; conspiracies.
+
+(a) Any action on or after the effective date of this part that evades or avoids, has the purpose of evading or avoiding, causes a violation of, or attempts to violate any of the prohibitions set forth in this part is prohibited.
+
+(b) Any conspiracy formed to violate the prohibitions set forth in this part is prohibited.
+
+Subpart G—Penalties and Disclosures
+
+§ 850.701 
+
+Penalties.
+
+(a) Section 206 of IEEPA applies to any person subject to the jurisdiction of the United States who violates, attempts to violate, conspires to violate, or causes a violation of any order, regulation, or prohibition issued by or pursuant to the direction or authorization of the Secretary pursuant to this part or otherwise under IEEPA.
+
+(1) A civil penalty may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any order, regulation, or prohibition issued under IEEPA, including any provision of this part in an amount not to exceed the greater of:
+
+(i) $250,000, as such amount is adjusted pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (Pub. L. 101-410, 28 U.S.C. 2461 note); or
+
+(ii) An amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+
+(2) A person who willfully commits, willfully attempts to commit, willfully conspires to commit, or aids or abets in the commission of a violation, attempt to violate, conspiracy to violate, or causing of a violation of any order, regulation, or prohibition issued under IEEPA, including any provision of this part, shall, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
+
+(b) The Secretary may refer potential criminal violations of the Order, or of this part, to the Attorney General.
+
+(c) The civil penalties provided for in IEEPA are subject to adjustment pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (Pub. L. 101-410, 28 U.S.C. 2461 note). Notice of the maximum penalty which may be assessed under this section will be published in the 
+
+Federal Register
+
+and on Treasury's Outbound Investment Security Program website on an annual basis on or before January 15 of each calendar year.
+
+(d) The criminal penalties provided for in IEEPA are subject to adjustment pursuant to 18 U.S.C. 3571.
+
+(e) The penalties available under this section are without prejudice to other penalties, civil or criminal, and forfeiture of property, available under other applicable law.
+
+(f) Pursuant to 18 U.S.C. 1001, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact; makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry shall be fined under title 18, United States Code, or imprisoned not more than 5 years, or both.
+
+§ 850.702 
+
+Administrative collection; referral to United States Department of Justice.
+
+The imposition of a monetary penalty under this part creates a debt due to the U.S. Government. The Department of the Treasury may take action to collect the penalty assessed if not paid. In addition or instead, the matter may be referred to the Department of Justice for appropriate action to recover the penalty.
+
+§ 850.703 
+
+Divestment.
+
+(a) The Secretary, in consultation with the heads of relevant agencies, as appropriate, may take any action authorized under IEEPA to nullify, void, or otherwise compel the divestment of any prohibited transaction entered into after the effective date of this part.
+
+(b) The Secretary may refer any action taken under paragraph (a) of this section to the Attorney General to seek appropriate relief to enforce such action.
+
+§ 850.704 
+
+Voluntary self-disclosure.
+
+(a) Any person who has engaged in conduct that may constitute a violation of this part may submit a voluntary self-disclosure of that conduct to the Department of the Treasury.
+
+(b) In determining the appropriate response to any violation, the Department of the Treasury will consider the submission and the timeliness of any voluntary self-disclosure.
+
+(c) In assessing the timeliness of a voluntary self-disclosure, the Department of the Treasury will consider whether it has learned of the conduct prior to the voluntary self-disclosure. The Department of the Treasury may consider disclosure of a violation to another government agency other than the Department of the Treasury as a voluntary self-disclosure based on a case-by-case assessment.
+
+(d) Notwithstanding the foregoing, identification to the Department of the Treasury of conduct that may constitute a violation of this part may not be assessed to be a voluntary self-disclosure in one or more of the following circumstances:
+
+(1) A third party has provided a prior disclosure to the Department of the Treasury of the conduct or similar conduct related to the same pattern or practice, regardless of whether the disclosing person knew of the third party's prior disclosure;
+
+(2) The disclosure includes materially false or misleading information;
+
+(3) The disclosure, when considered along with supplemental information timely provided by the disclosing person, is materially incomplete;
+
+(4) The disclosure is not self-initiated, including when the disclosure results from a suggestion or order of a Federal or state agency or official;
+
+(5) The disclosure is a response to an administrative subpoena or other inquiry from the Department of the Treasury or another government agency;
+
+(6) The disclosure is made about the conduct of an entity by an individual in such entity without the authorization of such entity's senior management; or
+
+(7) The filing is made pursuant to a required notification under this part, including § 850.403 or § 850.406.
+
+(e) A voluntary self-disclosure to the Department of the Treasury must take the form of a written notice describing the conduct that may constitute a violation and each of the persons involved. A voluntary self-disclosure must include, or be followed within a reasonable period of time by, a report of sufficient detail to afford a complete understanding of the conduct that may constitute the violation. A person making a voluntary self-disclosure must respond in a timely manner to any follow-up inquiries by the Department of the Treasury.
+
+Subpart H—Provision and Handling of Information
+
+§ 850.801 
+
+Confidentiality.
+
+(a) Except to the extent required by law or otherwise provided in paragraphs (b) through (d) of this section, information or documentary materials not otherwise publicly available that are submitted to the Department of the Treasury under this part shall not be disclosed to the public.
+
+(b) Notwithstanding paragraph (a) of this section, except to the extent prohibited by law, the Department of the Treasury may disclose information or documentary materials that are not otherwise publicly available, subject to appropriate confidentiality and classification requirements, when such information or documentary materials are:
+
+(1) Relevant to any judicial or administrative action or proceeding;
+
+(2) Provided to Congress or to any duly authorized committee or subcommittee of Congress; or
+
+(3) Provided to any domestic governmental entity, or to any foreign governmental entity of a United States partner or ally, where the information or documentary materials are important to the national security analysis or actions of such governmental entity or the Department of the Treasury.
+
+(c) Notwithstanding paragraph (a) of this section, the Department of the Treasury may disclose to third parties information or documentary materials that are not otherwise publicly available when the person who submitted or filed the information or documentary materials has consented to its disclosure to such third parties.
+
+(d) Notwithstanding paragraph (a) of this section, the Department of the Treasury may disclose information that is not already publicly available, when such disclosure of information is determined by the Secretary to be in the national interest. Any determination under this paragraph (d) may not be delegated below the level of the Assistant Secretary of the Treasury.
+
+(e) The Department of the Treasury may use the information gathered pursuant to this part to fulfill its obligations under the Order, which may include publication of anonymized data.
+
+§ 850.802 
+
+Language of information.
+
+All materials or information filed with the Department of the Treasury under this part shall be submitted in English. If supplementary or additional materials were originally written in a foreign language, they shall be submitted in their original language. Where English versions of those documents exist, they shall also be submitted.
+
+Subpart I—Other Provisions
+
+§ 850.901 
+
+Delegation of authorities of the Secretary of the Treasury.
+
+Any action that the Secretary is authorized to take pursuant to the Order and any further executive orders relating to the national emergency declared in the Order may be taken by the Assistant Secretary of the Treasury for Investment Security or their designee or by any other person to whom the Secretary has delegated the authority so to act, as appropriate.
+
+§ 850.902 
+
+Amendment, modification, or revocation.
+
+(a) Except as otherwise provided by law, and in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant agencies, the Secretary may amend, modify, or revoke provisions of this part at any time.
+
+(b) Except as otherwise provided by law, any instructions, orders, forms, regulations, or rulings issued pursuant to this part may be amended, modified, or revoked at any time.
+
+(c) Unless otherwise specifically provided, any amendment, modification, or revocation of any provision in or appendix to this part does not affect any act done or omitted, or any civil or criminal proceeding commenced or pending, prior to such amendment, modification, or 
+
+revocation. All penalties, forfeitures, and liabilities under any such instructions, orders, forms, regulations, or rulings pursuant to this part continue and may be enforced as if such amendment, modification, or revocation had not been made.
+
+§ 850.903 
+
+Severability.
+
+The provisions of this part are separate and severable from one another. If any of the provisions of this part, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.
+
+§ 850.904 
+
+Reports to be furnished on demand.
+
+(a) Any person is required to furnish under oath, in the form of reports or otherwise, at any time as may be required by the Department of the Treasury, complete information regarding any act or transaction subject to the provisions of this part, regardless of whether such act or transaction is effected pursuant to a national interest exemption under § 850.502. Except as provided otherwise, the Department of the Treasury may, through any person or agency, conduct investigations, hold hearings, administer oaths, examine witnesses, receive evidence, take depositions, and require by subpoena the attendance and testimony of witnesses and the production of any books, contracts, letters, papers, and other hard copy or electronic documents relating to any matter under investigation, regardless of whether any report has been required or filed under this section.
+
+(b) For purposes of paragraph (a) of this section, the term document includes any written, recorded, or graphic matter or other means of preserving thought or expression (including in electronic format), and all tangible things stored in any medium from which information can be processed, transcribed, or obtained directly or indirectly.
+
+(c) Persons providing documents to the Department of the Treasury pursuant to this section must do so in a usable format agreed upon by the Department of the Treasury.

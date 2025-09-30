@@ -1,0 +1,64 @@
+ 	PRINTER'S NO.  1077
+
+THE GENERAL ASSEMBLY OF PENNSYLVANIA
+
+HOUSE BILL
+No.	1063	Session of
+2023
+
+
+
+INTRODUCED BY R. MACKENZIE, FLICK, KAUFFMAN, KENYATTA, LEADBETER, M. MACKENZIE, PICKETT, SCIALABBA, SHUSTERMAN AND STAATS, APRIL 28, 2023
+
+
+REFERRED TO COMMITTEE ON JUDICIARY, APRIL 28, 2023
+
+
+
+ 
+AN ACT
+ 
+
+Amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, providing for the offense of unlawful dissemination of artificially generated depiction; and, in minors, further providing for the offense of sexual abuse of children and for the offense of transmission of sexually explicit images by minor.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:Section 1.  Title 18 of the Pennsylvania Consolidated Statutes is amended by adding a section to read:
+§ 3131.1.  Unlawful dissemination of artificially generated depiction.
+(a)  Offense defined.--Except as provided in sections 5903 (relating to obscene and other sexual materials and performances), 6312 (relating to sexual abuse of children) and 6321 (relating to transmission of sexually explicit images by minor), a person commits the offense of unlawful dissemination of an artificially generated depiction if, with intent to harass, annoy or alarm an individual, the person disseminates an artificially generated depiction of the individual.(b)  Defense.--It is a defense to a prosecution under this section that the actor disseminated the artificially generated depiction with the consent of the individual depicted.(c)  Grading.--An offense under subsection (a) shall be:
+(1)  A misdemeanor of the first degree, when the individual depicted is a minor.
+(2)  A misdemeanor of the second degree, when the individual depicted is not a minor.(d)  Territorial applicability.--A person may be convicted under the provisions of this section if the victim or the offender is located within this Commonwealth.(e)  Nonapplicability.--Nothing in this section shall be construed to apply to a law enforcement officer engaged in the performance of the law enforcement officer's official duties.(f)  Concurrent jurisdiction to prosecute.--In addition to the authority conferred upon the Attorney General by the act of October 15, 1980 (P.L.950, No.164), known as the Commonwealth Attorneys Act, the Attorney General shall have the authority to investigate and institute criminal proceedings for any violation of this section or any series of violations involving more than one county of this Commonwealth or another state. No person charged with a violation of this section by the Attorney General shall have standing to challenge the authority of the Attorney General to investigate or prosecute the case, and, if a challenge is made, the challenge shall be dismissed, and no relief shall be made available in the courts of this Commonwealth to the person making the challenge.(g)  Definitions.--As used in this section, the following words and phrases shall have the meanings given to them in this subsection unless the context clearly indicates otherwise:
+"Artificially generated depiction."  A visual depiction:
+(1)  that appears to authentically depict an individual in a state of nudity or engaged in sexual conduct that did not occur in reality; and
+(2)  the production of which was substantially dependent upon technical means, including artificial intelligence and photoshop software, rather than the ability of another person to physically impersonate the other person.
+"Artificial intelligence."  As defined in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232, 132 Stat. 1636).
+"Law enforcement officer."  As defined in section 3131 (relating to unlawful dissemination of intimate image).
+"Minor."  As defined in section 3131.
+"Nudity."  As defined in section 5903(e).
+"Photoshop."  A software used primarily for editing photographs, films or computer depictions that contains a variety of filters, effects and tools that can be used to manipulate photographs, films or computer depictions.
+"Sexual conduct."  As defined in section 5903(e).
+"Visual depiction."  As defined in section 6321.Section 2.  Section 6312(c), (d) and (f)(3) of Title 18 are amended, the definition of "intentionally views" in subsection (g) is amended and subsection (g) is amended by adding definitions to read:
+§ 6312.  Sexual abuse of children.
+-  
+(c)  Dissemination of photographs, videotapes, computer depictions and films.--Any person who knowingly sells, distributes, delivers, disseminates, transfers, displays or exhibits to others, or who possesses for the purpose of sale, distribution, delivery, dissemination, transfer, display or exhibition to others, any artificially generated depiction or book, magazine, pamphlet, slide, photograph, film, videotape, computer depiction or other material depicting a child under the age of 18 years engaging in a prohibited sexual act or in the simulation of such act commits an offense.(d)  Child pornography.--Any person who intentionally views or knowingly possesses or controls any artificially generated depiction or book, magazine, pamphlet, slide, photograph, film, videotape, computer depiction or other material depicting a child under the age of 18 years engaging in a prohibited sexual act or in the simulation of such act commits an offense.
+-  (f)  Exceptions.--This section does not apply to any of the following:
+-  
+(3)  An individual under 18 years of age who knowingly views, photographs, videotapes, depicts on a computer or films or possesses or intentionally views a visual depiction as defined in section 6321 or an artificially generated depiction of himself alone in a state of nudity as defined in section 6321.
+-  (g)  Definitions.--As used in this section, the following words and phrases shall have the meanings given to them in this subsection:
+"Artificial intelligence."  As defined in section 3131.1 (relating to unlawful dissemination of artificially generated depiction).
+"Artificially generated depiction."  A book, magazine, pamphlet, slide, photograph, videotape, film or computer depiction:
+(1)  that appears to authentically depict a child under 18 years of age engaging in a prohibited sexual act or in the simulation of such act that did not occur in reality; and
+(2)  the production of which was substantially dependent upon technical means, including artificial intelligence and photoshop software, rather than the ability of another person to physically impersonate the child.
+"Intentionally views."  The deliberate, purposeful, voluntary viewing of material containing an artificially generated depiction or depicting a child under 18 years of age engaging in a prohibited sexual act or in the simulation of such act. The term shall not include the accidental or inadvertent viewing of such material.
+"Photoshop."  As defined in section 3131.1.
+-  Section 3.  The definition of "sexually explicit image" in section 6321(g) of Title 18 is amended and the subsection is amended by adding definitions to read:
+§ 6321.  Transmission of sexually explicit images by minor.
+-  
+(g)  Definitions.--As used in this section, the following words and phrases shall have the meanings given to them in this subsection unless the context clearly indicates otherwise:
+"Artificial intelligence."  As defined in section 3131.1 (relating to unlawful dissemination of artificially generated depiction).
+"Artificially generated depiction."  Any visual depiction:
+(1)  that appears to authentically depict a child under 18 years of age engaged in conduct or an action or state of nudity that did not occur in reality; and
+(2)  the production of which was substantially dependent upon technical means, including artificial intelligence and photoshop software, rather than the ability of another person to physically impersonate the child.
+-  
+"Photoshop."  As defined in section 3131.1.
+-  
+"Sexually explicit image."  A lewd or lascivious visual depiction or artificially generated depiction of a minor's genitals, pubic area, breast or buttocks or nudity, if such nudity is depicted for the purpose of sexual stimulation or gratification of any person who might view such nudity.
+-  
+Section 4.  This act shall take effect in 60 days.

@@ -1,0 +1,403 @@
+    Section 30. The Managed Care Reform and Patient Rights Act
+is amended by changing Sections 10, 45, and 85 as follows:
+ 
+    (215 ILCS 134/10)
+    Sec. 10. Definitions. In this Act:
+    For a health care plan under Section 45 or for a
+utilization review program under Section 85, "adverse
+determination" has the meaning given to that term in Section
+10 of the Health Carrier External Review Act.
+    "Clinical peer" means a health care professional who is in
+the same profession and the same or similar specialty as the
+health care provider who typically manages the medical
+condition, procedures, or treatment under review.
+    "Department" means the Department of Insurance.
+    "Emergency medical condition" means a medical condition
+manifesting itself by acute symptoms of sufficient severity,
+regardless of the final diagnosis given, such that a prudent
+layperson, who possesses an average knowledge of health and
+medicine, could reasonably expect the absence of immediate
+medical attention to result in:
+        (1) placing the health of the individual (or, with
+    respect to a pregnant woman, the health of the woman or her
+    unborn child) in serious jeopardy;
+        (2) serious impairment to bodily functions;
+        (3) serious dysfunction of any bodily organ or part;
+        (4) inadequately controlled pain; or
+        (5) with respect to a pregnant woman who is having
+    contractions:
+            (A) inadequate time to complete a safe transfer to
+        another hospital before delivery; or
+            (B) a transfer to another hospital may pose a
+        threat to the health or safety of the woman or unborn
+        child.
+    "Emergency medical screening examination" means a medical
+screening examination and evaluation by a physician licensed
+to practice medicine in all its branches, or to the extent
+permitted by applicable laws, by other appropriately licensed
+personnel under the supervision of or in collaboration with a
+physician licensed to practice medicine in all its branches to
+determine whether the need for emergency services exists.
+    "Emergency services" means, with respect to an enrollee of
+a health care plan, transportation services, including but not
+limited to ambulance services, and covered inpatient and
+outpatient hospital services furnished by a provider qualified
+to furnish those services that are needed to evaluate or
+stabilize an emergency medical condition. "Emergency services"
+does not refer to post-stabilization medical services.
+    "Enrollee" means any person and his or her dependents
+enrolled in or covered by a health care plan.
+    "Health care plan" means a plan, including, but not
+limited to, a health maintenance organization, a managed care
+community network as defined in the Illinois Public Aid Code,
+or an accountable care entity as defined in the Illinois
+Public Aid Code that receives capitated payments to cover
+medical services from the Department of Healthcare and Family
+Services, that establishes, operates, or maintains a network
+of health care providers that has entered into an agreement
+with the plan to provide health care services to enrollees to
+whom the plan has the ultimate obligation to arrange for the
+provision of or payment for services through organizational
+arrangements for ongoing quality assurance, utilization review
+programs, or dispute resolution. Nothing in this definition
+shall be construed to mean that an independent practice
+association or a physician hospital organization that
+subcontracts with a health care plan is, for purposes of that
+subcontract, a health care plan.
+    For purposes of this definition, "health care plan" shall
+not include the following:
+        (1) indemnity health insurance policies including
+    those using a contracted provider network;
+        (2) health care plans that offer only dental or only
+    vision coverage;
+        (3) preferred provider administrators, as defined in
+    Section 370g(g) of the Illinois Insurance Code;
+        (4) employee or employer self-insured health benefit
+    plans under the federal Employee Retirement Income
+    Security Act of 1974;
+        (5) health care provided pursuant to the Workers'
+    Compensation Act or the Workers' Occupational Diseases
+    Act; and
+        (6) except with respect to subsections (a) and (b) of
+    Section 65 and subsection (a-5) of Section 70,
+    not-for-profit voluntary health services plans with health
+    maintenance organization authority in existence as of
+    January 1, 1999 that are affiliated with a union and that
+    only extend coverage to union members and their
+    dependents.
+    "Health care professional" means a physician, a registered
+professional nurse, or other individual appropriately licensed
+or registered to provide health care services.
+    "Health care provider" means any physician, hospital
+facility, facility licensed under the Nursing Home Care Act,
+long-term care facility as defined in Section 1-113 of the
+Nursing Home Care Act, or other person that is licensed or
+otherwise authorized to deliver health care services. Nothing
+in this Act shall be construed to define Independent Practice
+Associations or Physician-Hospital Organizations as health
+care providers.
+    "Health care services" means any services included in the
+furnishing to any individual of medical care, or the
+hospitalization incident to the furnishing of such care, as
+well as the furnishing to any person of any and all other
+services for the purpose of preventing, alleviating, curing,
+or healing human illness or injury including behavioral
+health, mental health, home health, and pharmaceutical
+services and products.
+    "Medical director" means a physician licensed in any state
+to practice medicine in all its branches appointed by a health
+care plan.
+    "Person" means a corporation, association, partnership,
+limited liability company, sole proprietorship, or any other
+legal entity.
+    "Physician" means a person licensed under the Medical
+Practice Act of 1987.
+    "Post-stabilization medical services" means health care
+services provided to an enrollee that are furnished in a
+licensed hospital by a provider that is qualified to furnish
+such services, and determined to be medically necessary and
+directly related to the emergency medical condition following
+stabilization.
+    "Stabilization" means, with respect to an emergency
+medical condition, to provide such medical treatment of the
+condition as may be necessary to assure, within reasonable
+medical probability, that no material deterioration of the
+condition is likely to result.
+    "Utilization review" means the evaluation, including any
+evaluation based on an algorithmic automated process, of the
+medical necessity, appropriateness, and efficiency of the use
+of health care services, procedures, and facilities.
+    "Utilization review program" means a program established
+by a person to perform utilization review.
+(Source: P.A. 102-409, eff. 1-1-22; 103-426, eff. 8-4-23.)
+ 
+    (215 ILCS 134/45)
+    Sec. 45. Health care services appeals, complaints, and
+external independent reviews.
+    (a) A health care plan shall establish and maintain an
+appeals procedure as outlined in this Act. Compliance with
+this Act's appeals procedures shall satisfy a health care
+plan's obligation to provide appeal procedures under any other
+State law or rules. All appeals of a health care plan's
+administrative determinations and complaints regarding its
+administrative decisions shall be handled as required under
+Section 50.
+    (b) When an appeal concerns a decision or action by a
+health care plan, its employees, or its subcontractors that
+relates to (i) health care services, including, but not
+limited to, procedures or treatments, for an enrollee with an
+ongoing course of treatment ordered by a health care provider,
+the denial of which could significantly increase the risk to
+an enrollee's health, or (ii) a treatment referral, service,
+procedure, or other health care service, the denial of which
+could significantly increase the risk to an enrollee's health,
+the health care plan must allow for the filing of an appeal
+either orally or in writing. Upon submission of the appeal, a
+health care plan must notify the party filing the appeal, as
+soon as possible, but in no event more than 24 hours after the
+submission of the appeal, of all information that the plan
+requires to evaluate the appeal. The health care plan shall
+render a decision on the appeal within 24 hours after receipt
+of the required information. The health care plan shall notify
+the party filing the appeal and the enrollee, enrollee's
+primary care physician, and any health care provider who
+recommended the health care service involved in the appeal of
+its decision orally followed-up by a written notice of the
+determination.
+    (c) For all appeals related to health care services
+including, but not limited to, procedures or treatments for an
+enrollee and not covered by subsection (b) above, the health
+care plan shall establish a procedure for the filing of such
+appeals. Upon submission of an appeal under this subsection, a
+health care plan must notify the party filing an appeal,
+within 3 business days, of all information that the plan
+requires to evaluate the appeal. The health care plan shall
+render a decision on the appeal within 15 business days after
+receipt of the required information. The health care plan
+shall notify the party filing the appeal, the enrollee, the
+enrollee's primary care physician, and any health care
+provider who recommended the health care service involved in
+the appeal orally of its decision followed-up by a written
+notice of the determination.
+    (d) An appeal under subsection (b) or (c) may be filed by
+the enrollee, the enrollee's designee or guardian, the
+enrollee's primary care physician, or the enrollee's health
+care provider. A health care plan shall designate a clinical
+peer to review appeals, because these appeals pertain to
+medical or clinical matters and such an appeal must be
+reviewed by an appropriate health care professional. No one
+reviewing an appeal may have had any involvement in the
+initial determination that is the subject of the appeal. The
+written notice of determination required under subsections (b)
+and (c) shall include (i) clear and detailed reasons for the
+determination, (ii) the medical or clinical criteria for the
+determination, which shall be based upon sound clinical
+evidence and reviewed on a periodic basis, and (iii) in the
+case of an adverse determination, the procedures for
+requesting an external independent review as provided by the
+Illinois Health Carrier External Review Act.
+    (e) If an appeal filed under subsection (b) or (c) is
+denied for a reason including, but not limited to, the
+service, procedure, or treatment is not viewed as medically
+necessary, denial of specific tests or procedures, denial of
+referral to specialist physicians or denial of hospitalization
+requests or length of stay requests, any involved party may
+request an external independent review as provided by the
+Illinois Health Carrier External Review Act.
+    (f) Until July 1, 2013, if an external independent review
+decision made pursuant to the Illinois Health Carrier External
+Review Act upholds a determination adverse to the covered
+person, the covered person has the right to appeal the final
+decision to the Department; if the external review decision is
+found by the Director to have been arbitrary and capricious,
+then the Director, with consultation from a licensed medical
+professional, may overturn the external review decision and
+require the health carrier to pay for the health care service
+or treatment; such decision, if any, shall be made solely on
+the legal or medical merits of the claim. If an external review
+decision is overturned by the Director pursuant to this
+Section and the health carrier so requests, then the Director
+shall assign a new independent review organization to
+reconsider the overturned decision. The new independent review
+organization shall follow subsection (d) of Section 40 of the
+Health Carrier External Review Act in rendering a decision.
+    (g) Future contractual or employment action by the health
+care plan regarding the patient's physician or other health
+care provider shall not be based solely on the physician's or
+other health care provider's participation in health care
+services appeals, complaints, or external independent reviews
+under the Illinois Health Carrier External Review Act.
+    (h) Nothing in this Section shall be construed to require
+a health care plan to pay for a health care service not covered
+under the enrollee's certificate of coverage or policy.
+    (i) Even if a health care plan or other utilization review
+program uses an algorithmic automated process in the course of
+utilization review for medical necessity, the health care plan
+or other utilization review program shall ensure that only a
+clinical peer makes any adverse determination based on medical
+necessity and that any subsequent appeal is processed as
+required by this Section, including the restriction that only
+a clinical peer may review an appeal. A health care plan or
+other utilization review program using an automated process
+shall have the accreditation and the policies and procedures
+required by subsection (b-10) of Section 85 of this Act.
+(Source: P.A. 96-857, eff. 7-1-10.)
+ 
+    (215 ILCS 134/85)
+    Sec. 85. Utilization review program registration.
+    (a) No person may conduct a utilization review program in
+this State unless once every 2 years the person registers the
+utilization review program with the Department and provides
+proof of current accreditation for itself and its
+subcontractors with the Health
+Utilization Management Standards of the Utilization Review
+Accreditation Commission, the National Committee for Quality
+Assurance, or another accreditation entity authorized under
+this Section.
+    (b) In addition, the Director of the Department, in
+consultation with the Director of the Department of Public
+Health, may certify alternative utilization review standards
+of national accreditation organizations or entities in order
+for plans to comply with this Section. Any alternative
+utilization review standards shall meet or exceed those
+standards required under subsection (a).
+    (b-5) The Department shall recognize the Accreditation
+Association for Ambulatory Health Care among the list of
+accreditors from which utilization organizations may receive
+accreditation and qualify for reduced registration and renewal
+fees.
+    (b-10) Utilization review programs that use algorithmic
+automated processes to decide whether to render adverse
+determinations based on medical necessity in the course of
+utilization review shall use objective, evidence-based
+criteria compliant with the accreditation requirements of the
+Health Utilization Management Standards of the Utilization
+Review Accreditation Commission or the National Committee for
+Quality Assurance (NCQA) and shall provide proof of such
+compliance to the Department with the registration required
+under subsection (a), including any renewal registrations.
+Nothing in this subsection supersedes paragraph (2) of
+subsection (e). The utilization review program shall include,
+with its registration materials, attachments that contain
+policies and procedures:
+        (1) to ensure that licensed physicians with relevant
+    board certifications establish all criteria that the
+    algorithmic automated process uses for utilization review;
+    and
+        (2) for a program integrity system that, both before
+    new or revised criteria are used for utilization review
+    and when implementation errors in the algorithmic
+    automated process are identified after new or revised
+    criteria go into effect, requires licensed physicians with
+    relevant board certifications to verify that the
+    algorithmic automated process and corrections to it yield
+    results consistent with the criteria for their certified
+    field.
+    (c) The provisions of this Section do not apply to:
+        (1) persons providing utilization review program
+    services only to the federal government;
+        (2) self-insured health plans under the federal
+    Employee Retirement Income Security Act of 1974, however,
+    this Section does apply to persons conducting a
+    utilization review program on behalf of these health
+    plans;
+        (3) hospitals and medical groups performing
+    utilization review activities for internal purposes unless
+    the utilization review program is conducted for another
+    person.
+    Nothing in this Act prohibits a health care plan or other
+entity from contractually requiring an entity designated in
+item (3) of this subsection to adhere to the utilization
+review program requirements of this Act.
+    (d) This registration shall include submission of all of
+the following information regarding utilization review program
+activities:
+        (1) The name, address, and telephone number of the
+    utilization review programs.
+        (2) The organization and governing structure of the
+    utilization review programs.
+        (3) The number of lives for which utilization review
+    is conducted by each utilization review program.
+        (4) Hours of operation of each utilization review
+    program.
+        (5) Description of the grievance process for each
+    utilization review program.
+        (6) Number of covered lives for which utilization
+    review was conducted for the previous calendar year for
+    each utilization review program.
+        (7) Written policies and procedures for protecting
+    confidential information according to applicable State and
+    federal laws for each utilization review program.
+    (e) (1) A utilization review program shall have written
+procedures for assuring that patient-specific information
+obtained during the process of utilization review will be:
+        (A) kept confidential in accordance with applicable
+    State and federal laws; and
+        (B) shared only with the enrollee, the enrollee's
+    designee, the enrollee's health care provider, and those
+    who are authorized by law to receive the information.
+    Summary data shall not be considered confidential if it
+does not provide information to allow identification of
+individual patients or health care providers.
+        (2) Only a clinical peer may
+    make adverse determinations regarding the medical
+    necessity of health care services during the course of
+    utilization review. Either a health care professional or
+    an accredited algorithmic automated process, or both in
+    combination, may certify the medical necessity of a health
+    care service in accordance with accreditation standards.
+    Nothing in this subsection prohibits an accredited
+    algorithmic automated process from being used to refer a
+    case to a clinical peer for a potential adverse
+    determination.
+        (3) When making retrospective reviews, utilization
+    review programs shall base reviews solely on the medical
+    information available to the attending physician or
+    ordering provider at the time the health care services
+    were provided. This paragraph includes billing records and
+    diagnosis or procedure codes that substantively contain
+    the same medical information to an equal or lesser degree
+    of specificity as the records the attending physician or
+    ordering provider directly consulted at the time health
+    care services were provided.
+        (4) When making prospective, concurrent, and
+    retrospective determinations, utilization review programs
+    shall collect only information that is necessary to make
+    the determination and shall not routinely require health
+    care providers to numerically code diagnoses or procedures
+    to be considered for certification, unless required under
+    State or federal Medicare or Medicaid rules or
+    regulations, but may request such code if available, or
+    routinely request copies of medical records of all
+    enrollees reviewed. During prospective or concurrent
+    review, copies of medical records shall only be required
+    when necessary to verify that the health care services
+    subject to review are medically necessary. In these cases,
+    only the necessary or relevant sections of the medical
+    record shall be required.
+    (f) If the Department finds that a utilization review
+program is not in compliance with this Section, the Department
+shall issue a corrective action plan and allow a reasonable
+amount of time for compliance with the plan. If the
+utilization review program does not come into compliance, the
+Department may issue a cease and desist order. Before issuing
+a cease and desist order under this Section, the Department
+shall provide the utilization review program with a written
+notice of the reasons for the order and allow a reasonable
+amount of time to supply additional information demonstrating
+compliance with requirements of this Section and to request a
+hearing. The hearing notice shall be sent by certified mail,
+return receipt requested, and the hearing shall be conducted
+in accordance with the Illinois Administrative Procedure Act.
+    (g) A utilization review program subject to a corrective
+action may continue to conduct business until a final decision
+has been issued by the Department.
+    (h) Any adverse determination made by a health care plan
+or its subcontractors may be appealed in accordance with
+subsection (f) of Section 45.
+    (i) The Director may by rule establish a registration fee
+for each person conducting a utilization review program. All
+fees paid to and collected by the Director under this Section
+shall be deposited into the Insurance Producer Administration
+Fund.
+(Source: P.A. 99-111, eff. 1-1-16.)

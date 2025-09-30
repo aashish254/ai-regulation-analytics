@@ -1,0 +1,238 @@
+SEC. 10221. ENGINEERING BIOLOGY AND BIOMETROLOGY.
+
+(a) In General.--The Director, in coordination with the National Engineering Biology Research and Development Initiative established pursuant to title IV, shall--
+	(1) support basic measurement science and technology research for engineering biology, biomanufacturing, and biometrology to advance--
+		(A) measurement technologies to support foundational understanding of the mechanisms of conversion of DNA information into cellular function;
+		(B) technologies for measurement of such biomolecular components and related systems;
+		(C) new data tools, techniques, and processes to improve engineering biology, biomanufacturing, and biometrology research; and
+		(D) other areas of measurement science and technology research determined by the Director to be critical to the development and deployment of engineering biology, biomanufacturing and biometrology;
+	(2) support activities to inform and expand the development of measurements infrastructure needed to develop technical standards to establish interoperability and facilitate commercial development of biomolecular measurement technology and engineering biology applications;
+	(3) convene industry, institutions of higher education, nonprofit organizations, Federal laboratories, and other Federal agencies engaged in engineering biology research and development to develop coordinated technical roadmaps for authoritative measurement of the molecular components of the cell;
+	(4) provide access to user facilities with advanced or unique equipment, services, materials, and other resources to industry, institutions of higher education, nonprofit organizations, and government agencies to perform research and testing;
+	(5) establish or expand collaborative partnerships or consortia with other Federal agencies engaged in engineering biology research and development, institutions of higher education, Federal laboratories, and industry to advance engineering biology applications; and
+	(6) support graduate and postgraduate research and training in biometrology, biomanufacturing, and engineering biology.
+
+(b) Rule of Construction.--Nothing in this section may be construed to alter the policies, processes, or practices of individual Federal agencies in effect on the day before the date of the enactment of this Act relating to the conduct or support of biomedical research and advanced development, including the solicitation and review of extramural research proposals.
+(c) Controls.--In carrying out activities authorized by this section, the Secretary shall ensure proper security controls are in place to protect sensitive information, as appropriate.
+SEC. 10222. GREENHOUSE GAS MEASUREMENT RESEARCH.
+
+(a) In General.--The Director, in consultation with the Administrator of the National Oceanic and Atmospheric Administration, the Administrator of the Environmental Protection Agency, the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Secretary of Energy, and the heads of other Federal agencies, as appropriate, shall carry out a measurement research program to inform the development or improvement of best practices, benchmarks, methodologies, procedures, and technical standards for the measurement of greenhouse gas emissions and to assess and improve the performance of greenhouse gas emissions measurement systems placed in situ and on space-based platforms.
+(b) Activities.--In carrying out such a program, the Director may--
+	(1) conduct research and testing to improve the accuracy, efficacy, and reliability of the measurement of greenhouse gas emissions at a range of scales that covers direct measurement at the component or process level through atmospheric observations;
+	(2) conduct research to create novel measurement technologies and techniques for the measurement of greenhouse gas emissions;
+	(3) convene and engage with relevant Federal agencies and stakeholders to establish common definitions and
+characterizations for the measurement of greenhouse gas emissions, taking into account any existing United States and international technical standards and guidance;
+	(4) conduct outreach and coordination to share technical expertise with relevant industry and nonindustry stakeholders and standards development organizations to--
+		(A) assist such entities in the development and adoption of best practices and technical standards for greenhouse gas emissions measurements; and
+		(B) promote consistency and traceability in international reference standards and central calibration laboratories;
+	(5) in coordination with the Administrator of the National Oceanic and Atmospheric Administration, the Administrator of the Environmental Protection Agency, and the Secretary of Energy, develop such standard reference materials as the Director determines is necessary to further the development of such technical standards, taking into account any existing United States or international standards;
+	(6) coordinate with the National Oceanic and Atmospheric Administration to ensure data are managed, stewarded, and archived at all levels and promote full and open exchange at Federal and State levels, and with academia, industry, and other users; and
+	(7) coordinate with international partners, including international standards organizations, to maintain global greenhouse gas measurement technical standards.(c) Testbeds.--In coordination with the private sector, institutions of higher education, State and local governments, the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, the Department of Energy, and other Federal agencies, as appropriate, the Director may continue to develop and manage testbeds to advance research and standards development for greenhouse gas emissions measurements from in situ and space-based platforms.
+(d) Center for Greenhouse Gas Measurements, Standards, and Information.--
+	(1) In general.--The Director, in collaboration with the Administrator of the National Oceanic and Atmospheric Administration, the Administrator of the Environmental Protection Agency, and the heads of other Federal agencies, as appropriate, shall establish a Center for Greenhouse Gas Measurements, Standards, and Information (in this subsection referred to as the ``Center'').
+	(2) Collaborations.--The Director shall require that the activities of the Center include collaboration among public and private organizations, including institutions of higher education, nonprofit organizations, private sector entities, and State, Tribal, territorial, and local officials.
+	(3) Purpose.--The purpose of the Center shall be to--
+		(A) advance measurement science, data analytics, and modeling at a range of scales that covers direct measurement and estimation at the component or process level through atmospheric observations and at the analysis level to improve the accuracy of spatially and temporally
+resolved greenhouse gas emissions measurement, validation, and attribution to specific underlying activities and processes;
+		(B) test and evaluate the performance of existing capabilities, and inform and improve best practices, benchmarks, methodologies, procedures, and technical standards, for the measurement and validation of greenhouse gas emissions at scales noted in subparagraph (A);
+		(C) educate and train students in measurement science, computational science, and systems engineering research relevant to greenhouse gas emissions measurements;
+		(D) foster collaboration among academic researchers, private sector stakeholders, and State, Tribal, territorial, and local officials in the use of Institute testbeds as described in subsection (c);
+		(E) conduct activities with research institutions, industry partners, and State and local officials to identify research, testing, and technical standards needs relevant to greenhouse gas emissions; and
+		(F) collaborate with other Federal agencies to conduct outreach and coordination to share and promote technical data, tools, and expertise with relevant public and private sector stakeholders, including State, Tribal, territorial, and local officials, to assist such in the accurate measurement of greenhouse gas emissions.
+SEC. 10223. NIST AUTHORITY FOR CYBERSECURITY AND PRIVACY ACTIVITIES.
+
+Subsection (c) of section 2 of the National Institute of Standards and Technology Act (15 U.S.C. 272) is amended--
+	(1) in paragraph (16), by striking the period at the end and inserting a semicolon;
+	(2) by redesignating paragraphs (16) through (27) as paragraphs (21) through (32), respectively; and
+	(3) by inserting after paragraph (15) the following:
+``(16) support information security measures for the development and lifecycle of software and the software supply chain, including development of voluntary, consensus-based technical standards, best practices, frameworks, methodologies, procedures, processes, and software engineering toolkits and configurations;
+``(17) support information security measures, including voluntary, consensus-based technical standards, best practices, and guidelines, for the design, adoption, and deployment of cloud computing services;
+``(18) support research, development, and practical application to improve the usability of cybersecurity processes and technologies;
+``(19) facilitate and support the development of a voluntary, consensus-based set of technical standards, guidelines, best practices, methodologies, procedures, and processes to improve privacy protections in systems, technologies, and processes used by both the public and private sector;
+``(20) support privacy measures, including voluntary, consensus-based technical standards, best practices, guidelines, metrology, and testbeds for the design, adoption, and deployment of privacy enhancing technologies;''.
+SEC. 10224. SOFTWARE SECURITY AND AUTHENTICATION.
+
+(a) Vulnerabilities in Open Source Software.--The Director shall assign severity metrics to identified vulnerabilities with open source software and produce voluntary guidance to assist the entities that maintain open source software repositories to discover and mitigate vulnerabilities.
+(b) Artificial Intelligence-enabled Defenses.--The Director shall carry out research and testing to improve the effectiveness of artificial intelligence-enabled cybersecurity, including by generating optimized data sets to train artificial intelligence defense systems and evaluating the performance of varying network architectures at strengthening network security.
+
+(c) Authentication of Institute Software.--The Director shall ensure all software released by the Institute is digitally signed and maintained to enable stakeholders to verify its authenticity and integrity upon installation and execution.
+(d) Assistance to Inspectors General.--Subject to available funding, the Director shall provide technical assistance to improve the education and training of individual Federal agency Inspectors General and staff who are responsible for the annual independent evaluation they are required to perform of the information security program and practices of Federal agencies under section 3555 of title 44, United States Code.
+(e) Software Supply Chain Security Practices.--
+	(1) In general.--The Director shall, in coordination with industry, academia, and other Federal agencies, as appropriate, develop a set of security outcomes and practices, including security controls, control enhancements, supplemental guidance, or other supporting information to enable software developers and operators to identify, assess, and manage cybersecurity risks over the full lifecycle of software products.
+	(2) Outreach.--The Director shall conduct outreach and coordination activities to share technical expertise with Federal agencies, relevant industry stakeholders, and standards development organizations, as appropriate, to encourage the voluntary adoption of the software lifecycle security practices by Federal agencies and industry stakeholders.
+SEC. 10225. DIGITAL IDENTITY MANAGEMENT RESEARCH.
+
+Section 504 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7464) is amended to read as follows:
+``SEC. 504. IDENTITY MANAGEMENT RESEARCH AND DEVELOPMENT.
+
+``(a) In General.--The Director shall carry out a program of research to support the development of voluntary, consensus-based technical standards, best practices, benchmarks, methodologies, metrology, testbeds, and conformance criteria for identity management, taking into account appropriate user concerns to--
+``(1) improve interoperability and portability among identity management technologies;
+``(2) strengthen identity proofing and verification methods used in identity management systems commensurate with the level of risk, including identity and attribute validation services provided by Federal, State, and local governments;
+``(3) improve privacy protection in identity management systems; and
+``(4) improve the accuracy, usability, and inclusivity of identity management systems.
+
+``(b) Digital Identity Technical Roadmap.--
+The Director, in consultation with other relevant Federal agencies and stakeholders from the private sector, shall develop and maintain a technical roadmap for digital identity management research and development focused on enabling the voluntary use and adoption of modern digital identity solutions that align with the four criteria in subsection (a).
+
+``(c) Digital Identity Management Guidance.--
+``(1) In general.--The Director shall develop, and periodically update, in collaboration with other public and private sector organizations, common definitions and voluntary guidance for digital identity management systems, including identity and attribute validation services provided by Federal, State, and local governments.
+``(2) Guidance.--The Guidance shall--
+``(A) align with the four criteria in subsection (a), as practicable;
+``(B) provide case studies of implementation of guidance;
+``(C) incorporate voluntary technical standards and industry best practices; and
+``(D) not prescribe or otherwise require the use of specific technology products or services.
+``(3) Consultation.--In carrying out this subsection, the Director shall consult with--
+``(A) Federal and State agencies;
+``(B) industry;
+(C) potential end-users and individuals that will use services related to digital identity verification; and(D) experts with relevant experience in the systems that enable digital identity verification, as determined by the Director.''.
+SEC. 10226. BIOMETRICS RESEARCH AND TESTING.
+
+(a) In General.--The Secretary, acting through the Director, shall establish a program to support measurement research to inform the development of best practices, benchmarks, methodologies, procedures, and voluntary, consensus-based technical standards for biometric identification systems, including facial recognition systems, to assess and improve the performance of such systems. In carrying out such program, the Director may--
+	(1) conduct measurement research to support efforts to improve the performance of biometric identification systems, including in areas related to conformity assessment, image quality and interoperability, contactless biometric capture technologies, and human-in-the-loop biometric identification systems and processes;
+	(2) convene and engage with relevant stakeholders to establish common definitions and characterizations for biometric identification systems, which may include accuracy, fairness, bias, privacy, consent, and other properties, taking into account definitions in relevant international technical standards and other publications;
+	(3) carry out measurement research and testing on a range of biometric modalities, such as fingerprints, voice, iris, face,
+vein, behavioral biometrics, genetics, multimodal biometrics, and emerging applications of biometric identification technology;
+	(4) study the use of privacy-enhancing technologies and other technical protective controls to facilitate access, as appropriate, to public data sets for biometric research;
+	(5) conduct outreach and coordination to share technical expertise with relevant industry and nonindustry stakeholders and standards development organizations to assist such entities in the development of best practices and voluntary technical standards; and
+	(6) develop such standard reference artifacts as the Director determines is necessary to further the development of such voluntary technical standards.
+
+(b) Biometrics Test Program.--
+	(1) In general.--The Secretary, acting through the Director, shall carry out a test program to provide biometrics vendors the opportunity to test biometric identification technologies across a range of modalities.
+	(2) Activities.--In carrying out the program under this subsection, the Director shall--
+		(A) conduct research and regular testing to improve and benchmark the accuracy, efficacy, and bias of biometric identification technologies, which may include research and testing on demographic variations, capture devices, presentation attack detection, partially occluded or computer generated images, privacy and security designs and controls, template protection, de-
+identification, and comparison of algorithm, human, and combined algorithm-human recognition capability;
+		(B) develop an approach for testing software and cloud-based biometrics applications, including remote systems, in Institute test facilities;
+		(C) establish reference use cases for biometric identification technologies and performance criteria for assessing each use case, including accuracy, efficacy, and bias metrics;
+		(D) produce public-facing reports of the findings from such testing for a general audience;
+		(E) develop policies and procedures accounting for the legal and social implications of activities under this paragraph when working with a foreign entity of concern (as such term is defined in section 10612);
+		(F) establish procedures to prioritize testing of biometrics identification technologies developed by entities headquartered in the United States; and
+		(G) conduct such other activities as determined necessary by the Director.
+
+(c) GAO Report to Congress.--Not later than 18 months after the date of the enactment of this Act, the Comptroller General of the United States shall submit a detailed report to Congress on the impact of biometric identification technologies on historically marginalized communities, including low-income communities and minority religious, racial, and ethnic groups. Such report should be made publicly available on an internet website.
+SEC. 10227. FEDERAL BIOMETRIC PERFORMANCE STANDARDS.
+
+Subsection (b) of section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g-3) is amended--
+	(1) in paragraph (2), by striking ``and'' after the semicolon;
+	(2) in paragraph (3), by striking the period and inserting ``; and''; and
+	(3) by adding at the end the following:
+``(4) performance standards and guidelines for high risk biometric identification systems, including facial recognition systems, accounting for various use cases, types of biometric identification systems, and relevant operational conditions.''.
+
+SEC. 10228. PROTECTING RESEARCH FROM CYBERSECURITY THEFT.
+
+Subparagraph (A) of section 2(e)(1) of the National Institute of Standards and Technology Act (15 U.S.C. 272(e)(1)) is amended--
+	(1) in clause (viii), by striking ``and'' after the semicolon;
+	(2) by redesignating clause (ix) as clause (x); and
+	(3) by inserting after clause (viii) the following:
+``(ix) consider institutions of higher education (as such term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)); and''.
+SEC. 10229. DISSEMINATION OF RESOURCES FOR RESEARCH INSTITUTIONS.
+
+(a) Dissemination of Resources for Research Institutions.--
+	(1) In general.--
+Not later than one year after the date of the enactment of this Act, the Director shall, using the authorities of the Director under subsections (c)(15) and (e)(1)(A)(ix) of section 2 of the National Institute of Standards and Technology Act (15 U.S.C. 272), disseminate and make publicly available tailored resources to help qualifying institutions identify, assess, manage, and reduce their cybersecurity risk related to conducting research.
+	(2) Requirements.--The Director shall ensure that the resources disseminated pursuant to paragraph (1)--
+		(A) are generally applicable and usable by a wide range of qualifying institutions;
+		(B) vary with the nature and size of the qualifying institutions, and the nature and sensitivity of the data collected or stored on the information systems or devices of the qualifying institutions;
+		(C) include elements that promote awareness of simple, basic controls, a workplace cybersecurity culture, and third-party stakeholder relationships, to assist qualifying institutions in mitigating common cybersecurity risks;
+		(D) include case studies, examples, and scenarios of practical application;
+		(E) are outcomes-based and can be implemented using a variety of technologies that are commercial and off-
+the-shelf; and
+		(F) to the extent practicable, are based on international technical standards.
+	(3) National cybersecurity awareness and education program.--The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the
+efforts of the Director under section 303 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7443).
+	(4) Updates.--The Director shall review periodically and update the resources under paragraph (1) as the Director determines appropriate.
+	(5) Voluntary resources.--The use of the resources disseminated under paragraph (1) shall be considered voluntary.
+
+(b) Other Federal Cybersecurity Requirements.--Nothing in this section may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.
+(c) Definitions.--In this section:
+	(1) Qualifying institutions.--The term ``qualifying institutions'' means institutions of higher education that are awarded in excess of $50,000,000 per year in total Federal research funding.
+	(2) Resources.--The term ``resources'' means guidelines, tools, best practices, technical standards, methodologies, and other ways of providing information.
+SEC. 10230. ADVANCED COMMUNICATIONS RESEARCH.
+
+The National Institute of Standards and Technology Act (15 U.S.C. 271 et seq.) is amended--
+	(1) by redesignating section 35 as section 36; and
+	(2) by inserting after section 34 the following:
+``SEC. 35. ADVANCED COMMUNICATIONS RESEARCH ACTIVITIES.
+
+``(a) Advanced Communications Research.--
+``(1) In general.--The Director, in consultation with the Assistant Secretary for Communications and Information, the Director of the National Science Foundation, and heads of other Federal agencies, as appropriate, shall carry out a program of measurement research for advanced communications technologies.
+``(2) Research areas.--Research areas may include--
+``(A) radio frequency emissions and interference, including technologies and techniques to mitigate such emissions and interference;
+``(B) advanced antenna arrays and artificial intelligence systems capable of operating advanced antenna arrays;
+``(C) artificial intelligence systems to enable internet of things networks, immersive technology, and other advanced communications technologies;
+``(D) network sensing and monitoring technologies;
+``(E) technologies to enable spectrum flexibility and agility;
+``(F) optical and quantum communications technologies;
+``(G) security of advanced communications systems;
+``(H) public safety communications;
+``(I) resilient internet of things applications for advanced manufacturing; and
+``(J) other research areas determined necessary by the Director.
+``(3) Testbeds.--In coordination with the Assistant Secretary for Communications and Information, the private sector, and other Federal agencies as appropriate, the Director may develop and manage testbeds for research and development
+of advanced communications technologies, avoiding duplication of existing testbeds run by other agencies or the private sector.
+``(4) Outreach.--In carrying out the activities under this subsection, the Director shall seek input from other Federal agencies and from private sector stakeholders, on an ongoing basis, to help inform research and development priorities, including through workshops and other multistakeholder activities.
+``(5) Technical roadmaps.--In carrying out the activities under this subsection, the Director shall convene industry, institutions of higher education, nonprofit organizations, Federal laboratories, and other Federal agencies engaged in advanced communications research and development to develop, and periodically update, coordinated technical roadmaps for advanced communications research in priority areas, such as those described in paragraph (2).
+(b) National Advanced Spectrum and Communications Test Network.-- (1) In general.--The Director, in coordination with the Administrator of the National Telecommunications and Information Administration and heads of other Federal agencies, as appropriate, shall operate a national network of government, academic, and commercial test capabilities and facilities to be known as the National Advanced Spectrum and Communications Test Network (referred to in this section as `NASCTN').
+``(2) Purposes.--NASCTN shall be for the purposes of facilitating and coordinating the use of intellectual capacity, modeling and simulation, laboratory facilities, and test facilities to meet national spectrum interests and challenges, including--
+``(A) measurements and analyses of electromagnetic propagation, radio systems characteristics, and operating techniques affecting the utilization of the electromagnetic spectrum in coordination with specialized, related research and analysis performed by other Federal agencies in their areas of responsibility;
+``(B) conducting research and analysis in the general field of telecommunications sciences in support of the Institute's mission and in support of other Government agencies;
+``(C) developing methodologies for testing, measuring, and setting guidelines for interference;
+``(D) conducting interference tests to better understand the impact of current and proposed Federal and commercial spectrum activities;
+``(E) conducting research and testing to improve spectrum interference tolerance, flexibility, agility, and interference mitigation methods; and
+``(F) other activities as determined necessary by the Director.''.
+SEC. 10231. NEUTRON SCATTERING.
+
+(a) Strategic Plan for the Institute Neutron Reactor.--The Director shall develop a strategic plan for the future of the NIST Center for Neutron Research after the current neutron reactor is decommissioned, including--
+	(1) a succession plan for the reactor, including a roadmap with timeline and milestones;
+	(2) conceptual design of a new reactor and accompanying facilities, as appropriate; and
+	(3) a plan to minimize disruptions to the user community during the transition.
+
+(b) Coordination With the Department of Energy.--The Secretary, acting through the Director, shall coordinate with the Secretary of Energy on issues related to Federal support for neutron science, including estimation of long-term needs for research using neutron sources, and planning efforts for future facilities to meet such needs.
+(c) Report to Congress.--Not later than 30 months after the date of enactment of this Act, the Director shall submit to Congress the plan required under subsection (a), and shall notify Congress of any substantial updates to such plan in subsequent years.
+SEC. 10232. ARTIFICIAL INTELLIGENCE.
+
+(a) In General.--The Director shall continue to support the development of artificial intelligence and data science, and carry out the activities of the National Artificial Intelligence Initiative Act of 2020 authorized in division E of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116-
+283), including through--
+	(1) expanding the Institute's capabilities, including scientific staff and research infrastructure;
+	(2) supporting measurement research and development for advanced computer chips and hardware designed for artificial intelligence systems;
+	(3) supporting the development of technical standards and guidelines that promote safe and trustworthy artificial intelligence systems, such as enhancing the accuracy, explainability, privacy, reliability, robustness, safety, security, and mitigation of harmful bias in artificial intelligence systems;
+	(4) creating a framework for managing risks associated with artificial intelligence systems; and
+	(5) developing and publishing cybersecurity tools, encryption methods, and best practices for artificial intelligence and data science.
+(b) AI Testbeds.--Section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h-1) is amended--
+	(1) by redesignating subsection (g) as subsection (h); and
+	(2) by inserting after subsection (f) the following:
+
+``(g) Testbeds.--In coordination with other Federal agencies as appropriate, the private sector, and institutions of higher education (as such term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)), the Director may establish testbeds, including in virtual environments, to support the development of robust and trustworthy artificial intelligence and machine learning systems, including testbeds that examine the vulnerabilities and conditions that may lead to failure in, malfunction of, or attacks on such systems.''.
+
+SEC. 10233. SUSTAINABLE CHEMISTRY RESEARCH AND EDUCATION.
+
+In accordance with section 263 of the National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9303), the Director shall carry out activities in support of sustainable chemistry,
+including coordinating and partnering with academia, industry, nonprofit organizations, and other entities in activities to support clean, safe, and economic alternatives, technologies, and methodologies to traditional chemical products and processes.
+SEC. 10234. PREMISE PLUMBING RESEARCH.
+
+(a) In General.--The Secretary, acting through the Director, shall create a program, in consultation with the Environmental Protection Agency, for premise plumbing research, including to--
+	(1) conduct metrology research on premise plumbing in relation to water safety, security, efficiency, sustainability, and resilience; and
+	(2) coordinate research activities with academia, the private sector, nonprofit organizations, and other Federal agencies.
+
+(b) Definitions.--For purposes of this section, the term ``premise plumbing'' means the water distribution system located within the property lines of a property, including all buildings and permanent structures on such property. Such term includes building supply and distribution pipes, fixtures, fittings, water heaters, water-treating and water-using equipment, and all respective joints, connections, devices, and appurtenances.
+SEC. 10235. DR. DAVID SATCHER CYBERSECURITY EDUCATION GRANT PROGRAM.
+
+(a) Authorization of Grants.--
+	(1) In general.--Subject to the availability of appropriations, the Director shall carry out the Dr. David Satcher Cybersecurity Education Grant Program by--
+		(A) awarding grants to assist institutions of higher education that have an enrollment of needy students, historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, to establish or expand cybersecurity programs, to build and upgrade institutional capacity to better support new or existing cybersecurity programs, including cybersecurity partnerships with public and private entities, and to support such institutions on the path to producing qualified entrants in the cybersecurity workforce or becoming a National Center of Academic Excellence in Cybersecurity; and
+		(B) awarding grants to build capacity at institutions of higher education that have an enrollment of needy students, historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, to expand cybersecurity education opportunities, cybersecurity programs, cybersecurity research, and cybersecurity partnerships with public and private entities.
+	(2) Reservation.--The Director shall award not less than 50 percent of the amount available for grants under this section to historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions.
+	(3) Coordination.--The Director shall carry out this section in coordination with appropriate Federal agencies, including the Departments of Homeland Security, Education, and Labor.
+	(4) Sunset.--The Director's authority to award grants under paragraph (1) shall terminate on the date that is 5
+years after the date the Director first awards a grant under paragraph (1).
+(b) Applications.--An eligible institution seeking a grant under subsection (a) shall submit an application to the Director at such time, in such manner, and containing such information as the Director may reasonably require, including a statement of how the institution will use the funds awarded through the grant to expand cybersecurity education opportunities at the eligible institution.
+(c) Activities.--An eligible institution that receives a grant under this section may use the funds awarded through such grant for increasing research, education, technical, partnership, and innovation capacity, including for--
+	(1) building and upgrading institutional capacity to better support new or existing cybersecurity programs, including cybersecurity partnerships with public and private entities;
+	(2) building and upgrading institutional capacity to provide hands-on research and training experiences for undergraduate and graduate students; and
+	(3) outreach and recruitment to ensure students are aware of such new or existing cybersecurity programs, including cybersecurity partnerships with public and private entities.
+
+(d) Reporting Requirements.--Not later than--
+	(1) one year after the effective date of this section, as provided in subsection (f), and annually thereafter until the Director submits the report under paragraph (2), the Director shall prepare and submit to Congress a report on the status and progress of implementation of the grant program under this section, including on the number and demographics of institutions participating, the number and nature of students served by cybersecurity programs at institutions receiving grants, as well as the number of certificates or degrees awarded through such cybersecurity programs, the level of funding provided to grant recipients, the types of activities being funded by the grants program, and plans for future implementation and development; and
+	(2) five years after the effective date of this section, as provided in subsection (f), the Director shall prepare and submit to Congress a report on the status of cybersecurity education programming and capacity-building at institutions receiving grants under this section, including changes in the scale and scope of these programs, associated facilities, or in accreditation status, and on the educational and employment outcomes of students participating in cybersecurity programs that have received support under this section.
+
+(e) Performance Metrics.--The Director shall establish performance metrics for grants awarded under this section.
+
+(f) Effective Date.--This section shall take effect 1 year after the date of enactment of this Act.

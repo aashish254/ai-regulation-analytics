@@ -1,0 +1,111 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Unleashing AI Innovation in Financial Services Act”.
+SEC. 2. USE OF ARTIFICIAL INTELLIGENCE BY REGULATED FINANCIAL ENTITIES.
+(a) Definitions.—In this section:
+(1) AI TEST PROJECT.—The term “AI test project” means a financial product or service that falls under the jurisdiction of a financial regulatory agency and—
+(A) substantially uses artificial intelligence; and
+(B) is or may be subject to a Federal regulation or Federal statute.
+(2) APPROPRIATE FINANCIAL REGULATORY AGENCY.—The term “appropriate financial regulatory agency” means—
+(A) the appropriate Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+(B) the Securities and Exchange Commission, with respect to—
+(i) any broker or dealer that is registered with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), with respect to the activities of the broker or dealer that require the broker or dealer to be registered under that Act;
+(ii) any investment company that is registered with the Commission under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), with respect to the activities of the investment company that require the investment company to be registered under that Act;
+(iii) any investment adviser that is registered with the Commission under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.), with respect to the investment advisory activities of such company and activities that are incidental to such advisory activities;
+(iv) any clearing agency registered with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), with respect to the activities of the clearing agency that require the agency to be registered under such Act;
+(v) any nationally recognized statistical rating organization registered with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+(vi) any transfer agent registered with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+(vii) any exchange registered as a national securities exchange with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+(viii) any national securities association registered with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+(ix) any securities information processor registered with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+(x) the Municipal Securities Rulemaking Board established under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+(xi) the Public Company Accounting Oversight Board established under the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211 et seq.);
+(xii) the Securities Investor Protection Corporation established under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.); and
+(xiii) any security-based swap execution facility, security-based swap data repository, security-based swap dealer or major security-based swap participant registered with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), with respect to the security-based swap activities of the person that require such person to be registered under such Act;
+(C) the Bureau of Consumer Financial Protection, with respect to a covered person, as defined in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481), that is not described in subparagraph (A), (B), (D), or (E);
+(D) the National Credit Union Administration, with respect to an insured credit union; and
+(E) the Federal Housing Finance Agency, with respect to Federal Home Loan Banks or the Federal Home Loan Bank System, and with respect to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
+(3) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(4) COMMISSION.—The term “Commission” means the Securities and Exchange Commission.
+(5) FEDERAL SECURITIES LAWS.—The term “Federal securities laws” means—
+(A) the Securities Act of 1933 (15 U.S.C. 77a et seq.);
+(B) the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+(C) the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.);
+(D) the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.);
+(E) the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.);
+(F) the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.); and
+(G) the Jumpstart Our Business Startup Act (Public Law 112–106; 126 Stat. 306).
+(6) FINANCIAL PRODUCT OR SERVICE.—The term “financial product or service”—
+(A) has the meaning given the term in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481);
+(B) includes—
+(i) activities that are financial in nature, as defined in section 4(k)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(4));
+(ii) any financial product or service provided by a person regulated by the Commission, as defined in 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481); and
+(iii) includes the offer or sale of any security subject to the Federal securities laws; and
+(C) does not include the business of insurance.
+(7) FINANCIAL REGULATORY AGENCY.—The term “financial regulatory agency” means—
+(A) the Board of Governors of the Federal Reserve System;
+(B) the Federal Deposit Insurance Corporation;
+(C) the Office of the Comptroller of the Currency;
+(D) the Securities and Exchange Commission;
+(E) the Bureau of Consumer Financial Protection;
+(F) the National Credit Union Administration; and
+(G) the Federal Housing Finance Agency.
+(8) REGULATED ENTITY.—The term “regulated entity” means an entity regulated by any financial regulatory agency.(b) Regulatory Sandboxes.—
+(1) ESTABLISHMENT.—Each financial regulatory agency shall establish a regulatory sandbox that allows regulated entities to experiment with AI test projects without unnecessary or unduly burdensome regulation or expectation of retroactive enforcement actions.
+(2) APPLICATIONS.—
+(A) SUBMISSION.—
+(i) IN GENERAL.—A regulated entity may submit to the appropriate financial regulatory agency an application, on a form determined by the appropriate financial regulatory agency, to engage in an AI test project.
+(ii) CONTENTS.—An application submitted under clause (i) shall include—
+(I) a description of the AI test project proposed to be carried out by the regulated entity;
+(II) an alternative compliance strategy that—
+(aa) identifies a regulation issued by the appropriate financial regulatory agency or a Federal statute enforced by the appropriate financial regulatory agency that the regulated entity requests to be waived or modified; and
+(bb) proposes an alternative method for the regulated entity to comply with the regulation or statute, including an explanation as to why the alternative method is essential to the operation of the entity;
+(III) a demonstration that, under the strategy described in subclause (I), the AI test project—
+(aa) would serve the public interest, improve consumer access to a financial product or service, or promote consumer protection;
+(bb) would enhance efficiency or operations, foster innovation or competitiveness, improve risk management and security, or enhance regulatory compliance;
+(cc) would not present a systemic risk to the financial system of the United States;
+(dd) is consistent with the purposes of the anti-money laundering and countering the financing of terrorism obligations under subchapter II of chapter 53 of title 31, United States Code; and
+(ee) would not present a national security risk to the United States;
+(IV) a proposed date on which the AI test project would terminate and an explanation of why such termination date would be appropriate;
+(V) proposed limitations on the size, scope, and growth of the AI test project; and
+(VI) an estimate of the economic impact of the AI test project if approved.
+(iii) JOINT APPLICATIONS.—Two or more regulated entities may submit a joint application to the same financial regulatory agency under clause (i).
+(iv) REGULATIONS AND STATUTES OF OTHER AGENCIES.—
+(I) IN GENERAL.—A regulated entity may submit an application under this subparagraph that includes an alternative compliance strategy for a regulation issued by or a Federal statute enforced by a financial regulatory agency that is not the appropriate financial regulatory agency for the regulated entity.
+(II) REQUIREMENTS.—An application described in subclause (I) shall be subject to the same requirements as an application described in clause (ii), except that—
+(aa) the regulated entity shall submit the application to the appropriate financial regulatory agency and the financial regulatory agency that issued the regulation or enforces the statute or regulation that is the subject of the alternative compliance strategy; and
+(bb) the AI test project may not take effect unless the appropriate financial regulatory agency and any other financial regulatory agency that issued the regulation or enforces the statute that is the subject of the alternative compliance strategy jointly approve the application using the process described in subparagraph (B).
+(v) NOTICE.—A regulated entity that is regulated or supervised by more than 1 financial regulatory agency shall provide notice of any application submitted to the appropriate financial regulatory agency under this section to each financial regulatory agency by which it is regulated or supervised not later than 5 business days after the entity submits the application to the appropriate financial regulatory agency.(B) AGENCY REVIEW.—
+(i) IN GENERAL.—Except as provided in clause (v), not later than 90 days after the date on which an application is submitted to the appropriate financial regulatory agency under subparagraph (A), the appropriate financial regulatory agency shall—
+(I) review the application; and
+(II) submit to the applicant in writing a determination of the agency.
+(ii) APPROVAL.—
+(I) IN GENERAL.—If the applicant shows that it is more likely than not that the application meets the requirements for establishing an alternative compliance strategy and meets the requirements described in subparagraph (A)(ii)(II), the agency shall approve the application and notify the applicant in writing of—
+(aa) the regulation or Federal statute that is the subject of the alternative compliance strategy;
+(bb) the terms of the alternative compliance strategy for the AI test project;
+(cc) the date on which the AI test project will terminate;
+(dd) any limitations on the size, scope, or growth of the AI test project; and
+(ee) any additional limitations or conditions on the AI test project, as determined by the appropriate financial regulatory agency.
+(II) EFFECT OF APPROVAL.—Except as provided in subclause (III), beginning on the date on which an application submitted under subparagraph (A) is approved and ending on the date described in subclause (I)(cc)—
+(aa) the appropriate financial regulatory agency may enforce a regulation or Federal statute described in subclause (I)(aa) only in the manner set out in the alternative compliance strategy described in subclause (I)(bb); and
+(bb) a financial regulatory agency that is not the appropriate financial regulatory agency may not enforce a regulation or Federal statute described in subclause (I)(aa) with respect to the conduct of the AI test project by the regulated entity.
+(III) ENFORCEMENT BY ANOTHER FINANCIAL REGULATORY AGENCY.—A financial regulatory agency other than the appropriate financial regulatory agency that approves an application under subparagraph (A)(iv) may enforce a regulation or Federal statute described in subclause (I)(aa) if the alternative compliance strategy described in subclause (I)(bb) provides for enforcement by such financial regulatory agency.
+(IV) RULE OF CONSTRUCTION.—Nothing in this clause may be construed to limit the authority of a financial regulatory agency to take an enforcement action against a regulatory entity with respect to fraud relating to an AI test project.
+(iii) DENIAL.—
+(I) IN GENERAL.—If an agency denies an application submitted under subparagraph (A), the agency—
+(aa) shall submit to the applicant a written notice explaining the reason for denial, including evidence that the applicant did not satisfy the requirements for establishing an alternative compliance strategy and the baseline used by the agency to measure the likely economic consequences of rejecting the application; and
+(bb) may not take an enforcement action against the applicant earlier than the date that is 30 days after the date on which the agency submits the written notice described in item (aa).
+(II) RESUBMITTALS.—Each time an application submitted under subparagraph (A) is denied, the regulated entity may submit another application if the application is not substantially similar to the one denied.
+(III) INJUNCTIVE RELIEF.—If a financial regulatory agency determines an AI test project presents an immediate danger to consumers or presents a risk to financial markets, the agency may file a civil action in an appropriate court seeking to enjoin such project.
+(IV) RULE OF CONSTRUCTION.—Nothing in this clause may be construed to limit the authority of a financial regulatory agency to take an enforcement action against an applicant with respect to fraud relating to the AI test project.
+(iv) EXTENSION.—If the financial regulatory agency needs additional time, the agency may vote to extend the application deadline by 90 days. After the expiration of the 90-day period, if the agency has not made a determination on the application, the application will automatically be deemed approved and effective.
+(C) DATA SECURITY.—All data supplied by sponsors of AI test projects submitted under this section shall be stored in a secure manner.
+(D) REGULATIONS.—Not later than 180 days after the date of enactment of this Act, each financial regulatory agency shall promulgate regulations that—
+(i) shall be published in the Federal Register and provide a 45-day period for public notice and comment; and
+(ii) include—
+(I) procedures for modifying the AI test projects that are approved by the agency;
+(II) consequences for failure to comply with set terms;
+(III) termination dates not earlier than 1 year after the date on which AI test projects are approved;
+(IV) procedures to extend the termination date described in subclause (III);
+(V) procedures for confidentiality; and
+(VI) procedures for coordinating decisions relating to applications submitted jointly by multiple regulated entities or applications submitted to more than one financial regulatory agency.(c) Report.—Each financial regulatory agency shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report on the outcomes of AI test projects.
+(d) Regulations.—After approving not fewer than 1 AI test project, a financial regulatory agency may promulgate regulations, after providing a notice and an opportunity for public comment, establishing other AI activities or products that qualify as AI test projects.

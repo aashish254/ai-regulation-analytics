@@ -1,0 +1,52 @@
+(a) In General.--Part E of title XVIII of the Social Security Act 
+(42 U.S.C. 1395x et seq.), as amended by the preceding provisions of 
+this Act, is amended by adding at the end the following new section:
+
+``SEC. 1899D. IMPLEMENTING ARTIFICIAL INTELLIGENCE TOOLS FOR PURPOSES 
+              OF REDUCING AND RECOUPING IMPROPER PAYMENTS.
+
+    ``(a) In General.--Not later than January 1, 2027, the Secretary 
+shall implement such artificial intelligence tools determined 
+appropriate by the Secretary for purposes of--
+            ``(1) reducing improper payments made under parts A and B; 
+        and
+            ``(2) identifying any such improper payments so made.
+    ``(b) Contracts.--The Secretary shall seek to contract with a 
+vendor of artificial intelligence tools and with data scientists for 
+purposes of implementing the artificial intelligence tools required 
+under subsection (a).
+    ``(c) Recoupment.--The Secretary shall, to the extent practicable, 
+recoup payments identified using the artificial intelligence tools 
+implemented under subsection (a).
+    ``(d) Report.--Not later than January 1, 2029, and not less 
+frequently than annually thereafter, the Secretary shall report to 
+Congress on the implementation of artificial intelligence tools under 
+subsection (a) and the recoupment of improper payments under subsection 
+(c). Such report shall include--
+            ``(1) a description of any opportunities for further 
+        reducing rates of improper payments described in subsection 
+        (a)(1) or further increasing rates of recoupment of such 
+        payments;
+            ``(2) the total dollar amount of improper payments recouped 
+        in the most recent year for which data is available; and
+            ``(3) in the case that the Secretary fails to reduce the 
+        rate of improper payments by 50 percent in such most recent 
+        year as compared to the year prior to such most recent year, a 
+        description of the reasons for such failure.''.
+    (b) Implementation Funding.--
+            (1) Federal hospital insurance trust fund.--The Secretary 
+        of Health and Human Services shall provide for the transfer 
+        from the Federal Hospital Insurance Trust Fund established 
+        under section 1817 of the Social Security Act (42 U.S.C. 1395i) 
+        to the Centers for Medicare & Medicaid Services Program 
+        Management Account of $12,500,000 for fiscal year 2025 for 
+        purposes of carrying out the amendment made by this section, to 
+        remain available until expended.
+            (2) Federal supplementary medical insurance trust fund.--
+        The Secretary of Health and Human Services shall provide for 
+        the transfer, from the Federal Supplementary Medical Insurance 
+        Trust Fund established under section 1841 of the Social 
+        Security Act (42 U.S.C. 1395t) to the Centers for Medicare & 
+        Medicaid Services Program Management Account of $12,500,000 for 
+        fiscal year 2025 for purposes of carrying out the amendment 
+        made by this section, to remain available until expended.

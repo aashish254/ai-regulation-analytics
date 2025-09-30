@@ -1,0 +1,249 @@
+ SEC. 2. TRANSPARENCY REQUIREMENTS.
+
+
+(a) In General.—Chapter 47 of title 18, United States Code, is amended by adding at the end the following:
+
+ “§ 1041. Advanced technological false personation record
+
+
+“(a) In General.—Except as provided in subsection (j), any person who, using any means or facility of interstate or foreign commerce, produces an advanced technological false personation record with the intent to distribute such record over the internet or knowledge that such record shall be so distributed, shall ensure such record, complies with—
+
+
+“(1) the requirement under subsection (b); and
+
+
+“(2) (A) in the case of an audiovisual record, the disclosure requirements under subsection (c);
+
+
+“(B) in the case of a visual record, the disclosure requirements under subsection (d); or
+
+
+“(C) in the case of an audio record, the disclosure requirements under subsection (e).
+
+ “(b) Content Provenance.—Any advanced technological false personation record which contains a moving visual element shall contain technologies, such as content provenance technologies, that clearly identify such record as containing altered audio or visual elements, or as having been entirely created through generative artificial intelligence or similar technologies.
+
+ “(c) Audiovisual Disclosure.—Any advanced technological false personation records containing both an audio and a visual element shall include—
+
+
+“(1) not less than 1 clearly articulated verbal statement that identifies the record as containing altered audio and visual elements, and a concise description of the extent of such alteration;
+
+
+“(2) an unobscured written statement in clearly readable text appearing at the bottom of the image throughout the duration of the visual element that identifies the record as containing altered audio and visual elements, and a concise description of the extent of such alteration; and
+
+
+“(3) a link, icon, or similar tool to signal that the content has been altered by, or is product of, generative artificial intelligence or similar technology.
+
+ “(d) Visual Disclosure.—Any advanced technological false personation records exclusively containing a visual element shall include an unobscured written statement in clearly readable text appearing at the bottom of the image throughout the duration of the visual element that identifies the record as containing altered visual elements, and either—
+
+
+“(1) a concise description of the extent of such alteration; or
+
+
+“(2) a clearly visible link, icon, or similar tool to signal that the content has been altered by, or is the product of, generative artificial intelligence or similar technology.
+
+ “(e) Audio Disclosure.—Any advanced technological false personation records exclusively containing an audio element shall include, at the beginning of such record, a clearly articulated verbal statement that identifies the record as containing altered audio elements and a concise description of the extent of such alteration, and in the event such record exceeds two minutes in length, not less than 1 additional clearly articulated verbal statement and additional concise description at some interval during each two-minute period thereafter.
+
+ “(f) Penalty.—
+
+
+“(1) CRIMINAL PENALTY.—
+
+
+“(A) FAILURE TO DISCLOSE.—Whoever knowingly fails to comply with the requirements under subsection (a)—
+
+
+“(i) with the intent to humiliate or otherwise harass the person falsely exhibited, provided the advanced technological false personation record contains sexual content of a visual nature and appears to feature such person engaging in such sexual acts or in a state of nudity;
+
+
+“(ii) with the intent to cause violence or physical harm, incite armed or diplomatic conflict, or interfere in an official proceeding, including an election, provided the advanced technological false personation record did in fact pose a credible threat of instigating or advancing such;
+
+
+“(iii) in the course of criminal conduct related to fraud, including securities fraud and wire fraud, false personation, or identity theft; or
+
+
+“(iv) by a foreign power, or an agent thereof, with the intent of influencing a domestic public policy debate, interfering in a Federal, State, local, or territorial election, or engaging in other acts which such power may not lawfully undertake;
+
+
+shall be fined under this title, imprisoned for not more than 5 years, or both.
+
+
+“(B) ALTERING DISCLOSURES.—Whoever knowingly alters an advanced technological false personation record to remove or meaningfully obscure the disclosures required under subsection (a) with the intent to distribute such altered record and—
+
+
+“(i) with the intent to humiliate or otherwise harass the person falsely exhibited, provided the advanced technological false personation record contains sexual content of a visual nature and appears to feature such person engaging in such sexual acts or in a state of nudity;
+
+
+“(ii) with the intent to cause violence or physical harm, incite armed or diplomatic conflict, or interfere in an official proceeding, including an election, provided the advanced technological false personation record did in fact pose a credible threat of instigating or advancing such;
+
+
+“(iii) in the course of criminal conduct related to fraud, including securities fraud and wire fraud, false personation, or identity theft; or
+
+
+“(iv) by a foreign power, or an agent thereof, with the intent of influencing a domestic public policy debate, interfering in a Federal, State, local, or territorial election, or engaging in other acts which such power may not lawfully undertake;
+
+
+shall be fined under this title, imprisoned for not more than 5 years, or both.
+
+
+“(2) CIVIL PENALTY.—
+
+
+“(A) FAILURE TO DISCLOSE.—Any person who violates subsection (a) shall be subject to a civil penalty of up to $150,000 per record or alteration, as well as appropriate injunctive relief.
+
+
+“(B) ALTERING DISCLOSURES.—Any person who alters an advanced technological false personation record to remove or meaningfully obscure the disclosures required under subsection (a) with the intent to distribute such altered record shall be subject to a civil penalty of up to $150,000 per record or alteration, as well as appropriate injunctive relief.
+
+ “(g) Private Right Of Action.—
+
+
+“(1) IN GENERAL.—Any person who has been exhibited as engaging in falsified material activity in an advanced technological false personation record may bring a civil action before the appropriate Federal district court for damages under paragraph (2) and injunctive relief under paragraph (3) against a person who violates subsection (a) or alters an advanced technological false personation record to remove or meaningfully obscure the disclosures required under subsection (a).
+
+
+“(2) DAMAGES.—Damages shall consist of the greater of—
+
+
+“(A) actual damages suffered by the living person or the affiliated corporation or entity, and any additional substantially derivative profits of the person who violated subsection (a) or altered an advanced technological false personation record to remove or meaningfully obscure the disclosures required under subsection (a);
+
+
+“(B) $50,000 per record, if the living person or affiliated corporation or entity experienced a perceptible individual harm or faced a tangible risk of experiencing such harm;
+
+
+“(C) $100,000 per record, if the living person or affiliated corporation or entity experienced a perceptible individual harm or faced a tangible risk of experiencing such harm and the record purported to depict extreme or outrageous conduct by the living person; or
+
+
+“(D) $150,000 per record, if the advanced technological false personation record contains explicit sexual content of a visual nature intended to humiliate or otherwise harass the person falsely depicted as engaging in such sexual acts or in a state of nudity.
+
+
+“(3) INJUNCTIVE RELIEF.—Injunctive relief under this subsection shall include a requirement to comply with subsection (a).
+
+ “(h) Privacy Protections.—
+
+
+“(1) FEDERAL ACTIONS.—In enforcing this section, the Attorney General shall, to the extent practicable, consult with living persons exhibited as engaging in falsified material activity in advanced technological false personation records regarding measures the Attorney General can reasonably undertake to protect the privacy of such persons and minimize additional public viewings of such records.
+
+
+“(2) PRIVATE ACTIONS.—A court in which a private action is brought under subsection (g) shall permit the plaintiff, upon petition, to file the claim under seal if the plaintiff can demonstrate a reasonable likelihood that the creation of public records regarding the advanced technological false personation record would result in embarrassing or otherwise harmful publicization of the falsified material activity in an advanced technological false personation record.
+
+ “(i) Rules Of Construction.—
+
+
+“(1) Nothing in this section shall be interpreted as authorizing the production of an advanced technological false personation record which includes disclosures if such record is otherwise prohibited by law or regulation.
+
+
+“(2) The word ‘advanced’ within the term ‘advanced technological false personation record’ shall not be interpreted as narrowing the definition of such term.
+
+
+“(3) Nothing in this section shall be interpreted as a defense against, or as preempting or limiting, any Federal, State, local, or territorial laws, regulations, or policies that prohibit, impose more stringent standards in relation to, or provide additional or alternative remedies or damages in relation to, the production or distribution of advanced technological false personation records, deepfakes, or related content, including criminal and civil laws relating to copyright, tortious conduct, and false personation.
+
+ “(j) Exceptions.—
+
+
+“(1) DISCLOSURE.—The requirements under subsections (c), (d), and (e) shall not apply with respect to any advanced technological false personation record—
+
+
+“(A) containing alternative disclosures regarding the falsity of the exhibited material activities which a reasonable person would deem to be more prominent than those required under subsection (c), (d), or (e), as the case may be;
+
+
+“(B) during the process of producing such record, provided the ultimately distributed record is in compliance with such requirements;
+
+
+“(C) which primarily contains images or sound recordings of actual persons, such as performing artists, and have not been substantially digitally modified;
+
+
+“(D) created in connection with editing a motion picture, television, music, or similar production or creating a derivative production thereof, the original content of which was created prior to the enactment of this section, in which the person appearing provided consent to their original appearance;
+
+
+“(E) appearing in a context such that a reasonable person would not mistake the falsified material activity for actual material activity of the exhibited living person, such as parody shows or publications, historical reenactments, or fictionalized radio, television, or motion picture programming; or
+
+
+“(F) produced by an officer or employee of the United States, or under the authority thereof, in furtherance of public safety or national security.
+
+
+“(2) DIGITAL CONTENT PROVENANCE.—The digital content provenance requirement under subsection (b) shall not apply with respect to any class of advanced technological false personation records which the Attorney General determines by regulation should be excluded from such requirement.
+
+ “(k) Advisory Opinions, Waiver, And Standards.—
+
+
+“(1) ADVISORY OPINIONS.—The Attorney General shall—
+
+
+“(A) establish a process by which any producer of audio, visual, or audiovisual content may seek an advisory opinion from the Attorney General regarding whether their proposed production is required to comply with the requirements under this section;
+
+
+“(B) respond to a request described in subparagraph (A) not later than 30 days after the date of submission; and
+
+
+“(C) not pursue enforcement action under this section against any producer who relied in good faith on such an advisory opinion.
+
+
+“(2) WAIVER.—The Attorney General is authorized to grant, and shall establish and publish procedures to govern the issuance of, waivers from any requirements under this section to additional categories of advanced technological false personation records upon petition of any producer thereof if such producer can demonstrate that compliance with this section would impede their ability to engage in lawful activities protected by the First Amendment of the Constitution.
+
+
+“(3) DIGITAL CONTENT PROVENANCE STANDARDS.—Not later than 1 year after the date of enactment of this section, the Attorney General shall issue rules governing the technical specifications of the digital content provenance required under subsection (b) which stall include, if such is determined appropriate, a requirement for such digital content provenance to contain embedded or linked metadata.
+
+
+“(l) Venue.—Any action under this section may be brought, in addition to in any district otherwise described in section 1391 of title 28, in the district where or the person falsely depicted in the advanced technological false personation record resides.
+
+
+“(m) Extraterritoriality.—There is extraterritorial Federal jurisdiction over an offense under this section if the defendant or the depicted person is a citizen or permanent resident of the United States.
+
+ “(n) Definitions.—
+
+
+“(1) ADVANCED TECHNOLOGICAL FALSE PERSONATION RECORD.—The term ‘advanced technological false personation record’ means any deepfake, which—
+
+
+“(A) a reasonable person, having considered the visual or audio qualities of the record and the nature of the distribution channel in which the record appears, would believe accurately exhibits—
+
+
+“(i) any material activity of a living person which such living person did not in fact undertake; or
+
+
+“(ii) any material activity of a deceased person which such deceased person did not in fact undertake, and the exhibition of which is substantially likely to either further a criminal act or result in improper interference in an official proceeding, a public policy debate, or an election; and
+
+
+“(B) was produced without the consent of such living person, or in the case of a deceased person, such person or the heirs thereof.
+
+
+“(2) MATERIAL ACTIVITY.—The term ‘material activity’ means any speech, conduct, or depiction which causes, or a reasonable person would recognize has a tendency to cause perceptible individual or societal harm, including misrepresentation, reputational damage, embarrassment, harassment, financial losses, the incitement of violence, the alteration of a public policy debate or election, or the furtherance of any unlawful act.
+
+
+“(3) DEEPFAKE.—The term ‘deepfake’ means any video recording, motion-picture film, sound recording, electronic image, or photograph, or any technological representation of speech or conduct substantially derivative thereof—
+
+
+“(A) which appears to authentically depict any speech or conduct of a person who did not in fact engage in such speech or conduct; and
+
+
+“(B) the production of which was substantially dependent upon technical means, rather than the ability of another person to physically or verbally impersonate such person.
+
+ “(o) Reports.—The Attorney General, in coordination with other relevant Federal agencies, shall submit a report to Congress 5 years after the date of enactment of this section, and 5 years thereafter, describing trends related to prosecutions and civil penalties pursued under this section.
+
+ “§ 1042. Deepfakes victim assistance
+
+
+“(a) Coordinator For Violations Directed By Foreign Nation-States.—The Attorney General shall designate a coordinator in each United States Attorney’s Office to receive reports from the public regarding potential violations of section 1041 relating to deepfake depictions produced or distributed by any foreign nation-state, or any agent acting on its behalf, and coordinate prosecutions for any such violation.
+
+
+“(b) Coordinator For False Intimate Depictions.—The Attorney General shall designate a coordinator in each United States Attorney’s Office to receive reports from the public regarding potential violations of section 1041 relating to deepfake depictions of an intimate and sexual nature, and coordinate prosecutions for any such violation.
+
+
+“(c) Plan And Guidance.—On the effective date of this section, the Attorney General shall publish a report containing—
+
+
+“(1) a plan to effectuate and enforce section 1041;
+
+
+“(2) a description of the efforts of the Russian Federation and the People’s Republic of China, and such other states or groups as the Attorney General determines appropriate, to use deepfake technology to impact elections or public policy debates in the United States or other democracies;
+
+
+“(3) a description of the impact of intimate and sexual deepfakes on women and marginalized communities; and
+
+
+“(4) in order to increase the likelihood of such prosecutions, official guidance to Federal prosecutors regarding any potential legal concerns that may impede such prosecutions absent clarification.”.
+
+
+(b) Clerical Amendment.—The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following:
+
+
+“1041. Advanced technological false personation record.
+“1042. Deepfakes victim assistance.”.

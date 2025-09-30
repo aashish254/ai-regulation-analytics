@@ -1,0 +1,173 @@
+A BILL
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+
+To prohibit users of algorithmic decision-making from utilizing algorithmic eligibility determinations in a discriminatory manner, to require corresponding notices to individuals whose personal information is used, and to provide for appropriate means of civil enforcement.
+
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA,
+
+That this act may be cited as the “Stop Discrimination by Algorithms Act of 2023”.
+
+Sec. 2. Findings and declaration of policy.  The Council of the District of Columbia makes the following findings:
+ 
+(a) It is the sense of the Council that technological advancements should support the dignity and well-being of the people of the District. 
+
+(b) Computers and data-derived decision-making tools play ever larger roles in modern life. As of 2019, 90 percent of U.S. adults regularly used the internet. Approximately 76 percent of households in the District of Columbia have a broadband internet subscription, and many who lack a home internet connection use smartphones to go online.  
+
+(c) When District residents engage in online activities like posting on social media, searching web-based listings for an apartment, or submitting electronic job applications, they generate personalized information that is harvested by data collectors. Data collectors can track hundreds of categories of data about specific individuals including age, gender, employment status and place of employment, income level, sexual orientation, national origin, and religion. 
+
+(d) Companies often use data from both online and offline sources to create algorithms, which are tools that use machine learning and personal data to make educated guesses about an individual’s preferences, abilities, and future behavior. These algorithms are then incorporated into decision-making processes that affect many aspects of life. 
+
+(e) Increasingly, algorithms determine an individual’s opportunities to secure employment, insurance, credit, housing, and public accommodations, as well as access to information about those opportunities. 
+
+(f) Algorithms often rely on personal traits protected under the D.C. Human Rights Act. And algorithmic decision-making can amplify discrimination based on race, gender, sexual orientation, disability, age, source of income, credit information, and other protected traits when algorithmic models replicate existing societal inequalities. Algorithmic decision-making systems that fail to account for bias disproportionately harm marginalized communities. 
+
+(g) Despite their prevalence and the potential problems they pose, algorithms are poorly understood by most individuals, in part because of the many entities involved and the lack of accountability among those entities. 
+
+(h) This act seeks to protect individuals and classes of individuals from the harm that results when algorithmic decision-making processes operate without transparency, rely on protected traits and other personal data that are correlated with those traits, or disproportionately limit access to and information about important life opportunities. The act combats these challenges by:
+(1) Encouraging transparency and accountability by requiring covered entities to provide notice to individuals about how the covered entity uses personal information in algorithmic decisions, including additional information when the algorithmic decision results in an adverse action, audit its algorithmic determination practices for discriminatory processing or impact, and report this information to the Office of the Attorney General;
+(2) Prohibiting adverse algorithmic decision-making based on protected traits, or that have the effect of making decisions based on such traits; and
+(3) Creating public investigatory and enforcement authority, and an individual right of action.
+
+Sec. 3. Definitions.  
+
+The following words and terms when used in this act have the following meanings: 
+
+(1) “Adverse action” means a denial, cancellation, or other adverse change or assessment regarding an individual’s eligibility for, opportunity to access, or terms of access to important life opportunities. 
+
+(2) “Algorithmic eligibility determination” means a determination based in whole or in significant part on an algorithmic process that utilizes machine learning, artificial intelligence, or similar techniques to determine an individual’s eligibility for, or opportunity to access, important life opportunities. 
+
+(3) “Algorithmic information availability determination” means a determination based in whole or in significant part on an algorithmic process that utilizes machine learning, artificial intelligence, or similar techniques to determine an individual’s receipt of advertising, marketing, solicitations, or offers for an important life opportunity. 
+
+(4) “Covered entity” means any individual, firm, corporation, partnership, cooperative, association, or any other organization, legal entity, or group of individuals however organized, including entities related by common ownership or corporate control, that either makes algorithmic eligibility determinations or algorithmic information availability determinations, or relies on algorithmic eligibility determinations or algorithmic information availability determinations supplied by a service provider, and that meets one of the following criteria:
+(A) Possesses or controls personal information on more than 25,000 District residents;
+(B) Has greater than $15 million in average annualized gross receipts for the 3 years preceding the most recent fiscal year;
+(C) Is a data broker, or other entity, that derives 50 percent or more of its annual revenue by collecting, assembling, selling, distributing, providing access to, or maintaining personal information, and some proportion of the personal information concerns a District resident who is not a customer or an employee of that entity; or
+(D) Is a service provider. 
+
+(5) “Important life opportunities” means access to, approval for, or offer of credit, education, employment, housing, a place of public accommodation as defined in section 102(24) of the Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1401.02(24)), or insurance.  
+
+(6)(A) “Personal information” means any information held by a covered entity – regardless of how the information is collected, inferred, derived, created, or obtained – that is linked or reasonably linkable to an individual, household, or a personal device.
+(B) Information is reasonably linkable to an individual, household, or personal device if it can be used on its own or in combination with other information reasonably available to the covered entity, regardless of whether such other information is held by the covered entity, to identify an individual, household, or personal device.
+(C) Examples of personal information include:
+(i) Individually identifiable information such as a real name, alias, signature, date of birth, union membership number, postal address, unique personal identifier, online identifier, internet protocol address, media access control (MAC) address, unique device identifier, email address, phone number, account name, social security number, military identification number, driver’s license number, vehicle identification number, passport number, or other similar identifiers;
+(ii) A person’s race, national origin, religious affiliation, gender identity, sexual orientation, marital status, or disability;
+(iii) Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies;
+(iv) Real-time or historical geolocation data more specific than a 50-mile radius;
+(v) Education records, as defined in 34 C.F.R. § 99.3 or any successor regulation;
+(vi) Biometric data, including voice signatures, facial geometry, fingerprints, and retina/iris scans;
+(vii) Inferences drawn from any of the information identified in sub- subparagraphs (i)-(vi) to create a profile about an individual reflecting the individual’s predispositions, behavior, habits, attitudes, intelligence, abilities, and aptitudes. 
+
+(7) “Service provider” means any entity that performs algorithmic eligibility determinations or algorithmic information availability determinations on behalf of another entity.  
+
+Sec. 4. Prohibited practices. 
+
+(a) In general. 
+(1) A covered entity shall not make an algorithmic eligibility determination or an algorithmic information availability determination on the basis of an individual’s or class of individuals’ actual or perceived race, color, religion, national origin, sex, gender identity or expression, sexual orientation, familial status, source of income, or disability in a manner that segregates, discriminates against, or otherwise makes important life opportunities unavailable to an individual or class of individuals. 
+(2) Any practice that has the effect or consequence of violating paragraph (1) of this subsection shall be deemed to be an unlawful discriminatory practice. 
+
+(b) Exemptions.
+(1) Nothing in subsection (a) shall limit the availability of the exemptions in section 103 of the Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1401.03).  
+(2) Nothing in this act shall prohibit covered entities from using individuals’ personal information to a part of an affirmative action plan, adopted pursuant to District or federal law
+(C) make algorithmic eligibility determinations or algorithmic information availability determinations Sec. 5. Relationships with service providers. Any covered entity that relies in whole or in part on a service provider to conduct an algorithmic eligibility determination or an algorithmic information availability determination shall require by written agreement that the service provider implement and maintain measures reasonably designed to ensure that the service provider complies with this act.
+
+Sec. 6. Right to notice and disclosure.
+
+(a) Notice requirement. A covered entity shall:
+(1) Develop a notice about how the covered entity uses personal information in algorithmic eligibility determinations and algorithmic information availability determinations, including:
+(A) What personal information the covered entity collects, generates, infers, uses, and retains;
+(B) What sources the covered entity uses to collect, generate, or infer personal information;
+(C) Whether the personal information is shared, sold, leased, or exchanged with any service providers for any kind of consideration, and if so, the names of those service providers, including subsidiaries of the service providers;  
+(D) A brief description of the relationship between the personal information and the algorithmic information availability or algorithmic eligibility determinations;
+(E) How long the covered entity will hold the personal information; and
+(F) The rights provided under this act;
+(2) Ensure that the notice developed and made available under paragraph (1) of this subsection:
+(A) Is clear, concise, and complete;
+(B) Does not contain unrelated, confusing, or contradictory materials; and
+(C) Is in a format that is:
+(i) Prominent and easily accessible;
+(ii) Capable of fitting on one printed page; and
+(iii) Provided in English, as well as in any non-English language spoken by at least 500 individuals in the District of Columbia population.
+(3) Within 30 days after changing its collection or use practices or policies in a way that affects the content of the notice required by paragraph (1) of this subsection, update that notice;
+(4) Make the notice required under paragraph (1) of this subsection continuously and conspicuously available:
+(A) On the covered entity’s website or mobile application, if the covered entity maintains a website or mobile application;
+(B) At the physical place of business or any offline equivalent the covered entity maintains; and  
+(5) Send the notice required under paragraph (1) of this subsection to an individual before the first algorithmic information availability determination it makes about the individual, by:
+(A) Mail, if the personal information was gathered through the individual contacting or contracting with the covered entity through mail;
+(B) Email, if the personal information was gathered through the individual contacting or contracting with the covered entity through email, or if the covered entity has the individual’s email address for another reason;
+(C) Informing individuals through a “pop-up” notification upon navigation to the covered entity’s website or within the covered entity’s mobile application; or
+(D) Providing a clear and conspicuous link on the covered entity’s website’s homepage, or the home screen of its mobile application, leading to the notice.
+
+(b) A covered entity need not provide the notice described under subsection (a) of this section if another covered entity has provided notice to the same individual for the same action as part of a contracted arrangement with the covered entity.
+
+(c) Prohibited acts. A covered entity that is subject to paragraph (a)(1), with respect to any individual whose personal information the covered entity holds as described in that paragraph, may not use any personal information of the individual in an algorithmic eligibility determination unless the covered entity has provided the individual with notice consistent with that paragraph.
+
+(d) Adverse action disclosure requirements.   If a covered entity takes any adverse action with respect to any individual that is based in whole or in part on the results of an algorithmic eligibility determination, the covered entity shall provide the individual a written or electronic disclosure that includes:
+(1) The covered entity’s name, address, email address, and telephone number;
+(2) The factors the determination depended on; and
+(3) An explanation that the individual may:
+(A) Access any personal information described in section 3(6)(A)-(C), pertaining to that individual, that the covered entity used to make the determination;
+(B) Submit corrections to that information; and
+(C) If the individual submits corrections, request that the covered entity conduct a reasoned reevaluation of the relevant algorithmic eligibility determination, conducted by a human, based on the corrected data.
+
+Sec. 7. Auditing for Discriminatory Processing and Reporting Requirement.
+
+(a) Auditing requirement. A covered entity shall annually audit its algorithmic eligibility determination and algorithmic information availability determination practices to:
+(1) Determine whether the processing practices discriminate in a manner prohibited by section 4 of this act;
+(2) Analyze disparate-impact risks of algorithmic eligibility determinations and algorithmic information availability determinations based on actual or perceived race, color, religion, national origin, sex, gender identity or expression, sexual orientation, familial status, genetic information, source of income, or disability;  
+(3) Create and retain for at least 5 years an audit trail that records, for each algorithmic eligibility determination:
+(A) The type of algorithmic eligibility determination made;
+(B) The data used in the determination, including the source of any such data;
+(C) The methodology used by the entity to establish the algorithm;
+(D) The algorithm used to make the determination;
+(E) Any data or sets of data used to train the algorithm;
+(F) Any testing and results for model performance across different subgroups or for discriminatory effects;
+(G) The methodology used to render the determination; and
+(H) The ultimate decision rendered;
+(4) Conduct annual impact assessments of:
+(A) Existing systems that render algorithmic eligibility determinations and algorithmic information availability determinations; and
+(B) Prior to implementation, new systems that render algorithmic eligibility determinations and algorithmic information availability determinations;
+(5) Conduct the audits under paragraphs (1), (2), and (3) of this subsection in consultation with third parties who have substantial information about or participated in the covered entity’s algorithmic eligibility determinations and algorithmic information availability determinations, including service providers; and
+(6) Identify and implement reasonable measures to address risks of an unlawful disparate impact identified in the audits and impact assessments conducted under paragraphs (1),  
+(2), and (3) of this subsection, including the risks posed by determinations made by the covered entity’s service providers.
+
+(b)(1) Report. A covered entity shall annually submit a report containing the results of the audit mandated under this section to the Office of the Attorney General for the District of Columbia on a form provided by the Office of the Attorney General. The report shall contain the following information:
+(A) The types of algorithmic eligibility determination and algorithmic information availability determination that the covered entity makes;
+(B) The data and methodologies that the covered entity uses to establish the algorithms;
+(C) The optimization criteria of the algorithms used to make the determinations;
+(D) Any data or sets of data used to train the algorithms, and the source or sources of that data;
+(E) The methodologies the covered entity uses to render the determinations;
+(F) Any performance metrics the entity uses to gauge the accuracy of the assessments, including accuracy, confidence intervals, and how those assessments are obtained;
+(G) The frequency, methodology, and results of the impact assessments or risk assessments that the entity has conducted;
+(H) Within the description of each of the above decisions, the rationale for each of these decisions;  
+(I) Whether the covered entity has received complaints from individuals regarding the algorithmic eligibility determinations and algorithmic information availability determinations it has made; and
+(J) If the covered entity has determined that one or more of the exemptions referred to in section 4(b) apply to practices that would otherwise violate section 4(a), a declaration and explanation of the covered entity’s reliance on those exemptions.
+(2) To the extent consistent with federal law or other District law, a covered entity may, in place of the report required by paragraph (1) of this subsection, submit to the Office of the Attorney General a report previously submitted to a federal, District, or other government entity, if that report contains the required information or is supplemented with the missing information.
+(3) Nothing in this section shall affect Freedom of Information Act exemptions that protect trade secrets and other information from public disclosure, as provided by section 204 of the District of Columbia Administrative Procedure Act, approved March 29, 1977 (D.C. Law 1-96; D.C. Official Code § 2-534).
+(d) The Attorney General for the District of Columbia, pursuant to the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may issue rules to implement the reporting provisions of this section.
+
+Sec. 8. Enforcement.
+
+(a) Enforcement by Attorney General. In any case in which the Attorney General for the District of Columbia has reason to believe that any person has used, is using, or intends to use any method, act, or practice in   violation of this act or a regulation promulgated under this act, or has failed to provide a notice, a disclosure, or a report required by this act, the Attorney General for the District of Columbia may commence appropriate civil action in the Superior Court of the District of Columbia for:
+(1) A temporary or permanent injunction;
+(2) Penalties as described in subsection (c)(1) of this section;
+(3) Damages or restitution; or
+(4) Any other relief that the court considers appropriate.
+
+(b) Investigatory powers of Attorney General. In the course of an investigation to determine whether to seek relief, the Attorney General for the District of Columbia may subpoena witnesses, administer oaths, examine an individual under oath, require sworn written responses to written questions, and compel production of records, books, papers, contracts, and other documents. A subpoena issued pursuant to this subsection shall be issued in compliance with the procedures specified in section 110a(b)-(e) of the Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 1-301.88d(b)-
+(e)).
+
+(c) Attorney General actions for violations.
+(1) Any covered entity or service provider that violates any provision of this act shall be liable for a civil penalty of not more than $10,000 for each violation, which may be recovered in a civil action brought in the name of the District of Columbia by the Attorney General.
+(2) Any civil penalty assessed for a violation under any provision of this act, and the proceeds of any settlement of an action brought pursuant to this subsection, shall be   deposited in the Litigation Support Fund established in section 106b of the Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 1-301.86b).
+
+(d) Civil actions for violations. Any person aggrieved by a violation of this act may bring a civil action in any court of competent jurisdiction, and the court may award an amount not less than $100 and not greater than $10,000 per violation or actual damages, whichever is greater.
+
+(e) Relief. In a civil action brought under either subsection (c) or (d) of this section in which the plaintiff prevails, the court may also award:
+(1) Punitive damages;
+(2) Reasonable attorney’s fees and litigation costs; and
+(3) Any other relief, including equitable or declaratory relief, that the court determines appropriate.
+
+(f) Injury in fact. In a civil action brought under subsection (d) of this section, a violation of this act or a regulation promulgated under this act with respect to an individual constitutes a concrete and particularized injury to that individual. Sec. 9. Fiscal impact statement. The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+
+Sec. 10. Effective date.  
+This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register. 

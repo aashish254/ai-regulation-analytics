@@ -1,0 +1,70 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Decreasing Overlapping Grants Efficiently Act” or the “DOGE Act”.
+
+SEC. 2. Prohibition on award of Federal grants to applicants submitting duplicative or fraudulent applications.
+
+(a) No award on basis of duplicative application.—
+
+(1) PROHIBITION.—
+
+(A) IN GENERAL.—Except as provided for under subparagraph (B), the head of an executive agency may not award a grant to an applicant determined by the head of the agency or the Inspector General of the agency to have received another grant from the head of another executive agency for the same or identical purpose.
+
+(B) EXCEPTION.—The prohibition under subparagraph (A) related to the award of grants for the same or identical purposes shall not apply to an applicant that is an institution of higher education.
+
+(2) DETERMINATION.—In the case that the head of an executive agency or the Inspector General of the agency determines that an applicant for a grant has submitted an application for another grant from another executive agency for the same or identical purpose, the heads of such agencies shall jointly determine which agency is the appropriate agency to award the grant, if such grant is to be awarded to such applicant.
+
+(b) No award on basis of fraudulent application.—The head of an executive agency may not award a grant to an applicant determined by the head of the agency or the Inspector General of the agency to have submitted a fraudulent application for such grant.
+
+SEC. 3. Tracking and deconfliction system for Federal grant applications.
+
+(a) Establishment.—Not later than 1 year after the date of the enactment of this Act, the Director of the Office of Management and Budget shall make available to the heads of executive agencies, including the Inspectors General of such agencies, an electronic system through which the head of an executive agency may determine before awarding a grant, or through which an Inspector General of an executive agency may determine in conducting an audit or investigation, whether any applicant for such grant has received, or submitted an application to the head of another executive agency for, another grant for the same or identical purpose.
+
+(b) Contents of system.—The system shall contain at a minimum, the name of the awardee, the principal investigator, the award period, agency point of contact, and an abstract.
+
+(c) Essentially equivalent work.—The Director of the Office of Management and Budget shall establish an electronic system which contains information for all federal research awards through which the head of an executive agency may determine before awarding a grant, or through which an Inspector General of an executive agency may determine in conducting an audit or investigation, whether any applicant for such award has received, or submitted an application to the head of another executive agency for, another award for essentially equivalent work.
+
+SEC. 4. Report on feasibility of leveraging artificial intelligence to identify duplicative Federal grant applications.
+
+The Director of the Office of Management and Budget, in consultation with the Secretary of Energy, the Director of the National Science Foundation, and the Director of the National Institute of Standards and Technology, shall submit to the appropriate Congressional committees a report on the feasibility of leveraging artificial intelligence to rapidly identify, with respect to an application for a grant submitted to the head of an executive agency—
+
+(1) whether an applicant for such grant has received, or submitted an application to the head of another executive agency for, another grant for the same or identical purpose; and
+
+(2) waste, fraud, and abuse.
+
+SEC. 5. Definitions.
+
+In this Act:
+
+(1) APPLICABLE TIME PERIOD.—The term “applicable time period” means—
+
+(A) with respect to a covered application for a grant awarded after the date on which system is established under section 2(a), during the period—
+
+(i) beginning on the date on which such application is submitted; and
+
+(ii) ending on the date on which amounts under the grant are no longer being expended; and
+
+(B) with respect to a covered application for a grant awarded before the date on which the system is established under section 2(a), during the period—
+
+(i) beginning on that date; and
+
+(ii) ending on the date on which amounts under the grant are no longer being expended.
+
+(2) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+
+(A) the Committee on Oversight and Accountability and the Committee on Appropriations of the House of Representatives; and
+
+(B) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate.
+
+(3) COVERED APPLICATION.—The term “covered application” means an application for a grant submitted to the head of an executive agency—
+
+(A) after the date on which the system is established under section 2(a); and
+
+(B) before that date, if amounts under the grant are still being expended on such date.
+
+(4) EXECUTIVE AGENCY.—The term “executive agency” means an agency in the executive branch of the Federal Government.
+
+(5) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given such term in section 102 of the Higher Education Act of 1965 (20 U.S.C.1002).
+

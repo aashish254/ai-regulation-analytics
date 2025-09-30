@@ -1,0 +1,234 @@
+Chapter 70. ARTIFICIAL INTELLIGENCE POLICY ACT
+
+
+Part 1. General Provisions
+
+
+Section 4, Section 13-70-101 is enacted to read:
+
+
+13-70-101. Definitions.  As used in this chapter:
+
+
+(1) "Applicant" means a person that applies for participation in the regulatory learning laboratory.
+
+
+(2) "Artificial intelligence" means a machine-based system that makes predictions, recommendations, or decisions influencing real or virtual environments.
+
+
+(3) "Artificial intelligence technology" means a computer system, application, or other product that uses or incorporates one or more forms of artificial intelligence.
+
+
+(4) "Department" means the Department of Commerce.
+
+
+(5) "Director" means the director of the office.
+
+
+(6) "Executive director" means the executive director of the Department of Commerce.
+
+
+(7) "Learning agenda" means the areas of artificial intelligence applications, risks, and policy considerations selected by the office for focus by the learning laboratory.
+
+
+(8) "Learning laboratory" means the artificial intelligence analysis and research program created in Section 13-70-301.
+
+
+(9) "Office" means the Office of Artificial Intelligence Policy created in Section 13-70-201.
+
+
+(10) "Participant" means a person that is accepted to participate in the learning laboratory.
+
+
+(11) "Regulatory mitigation agreement" means an agreement between a participant, the office, and relevant state agencies described in Section 13-70-302.
+
+
+(12) "Regulatory mitigation" means:
+(a) when restitution to users may be required;
+(b) terms and conditions related to any cure period before penalties may be assessed;
+(c) any reduced civil fines during the participation term; and
+(d) other terms tailored to identified issues of the artificial intelligence technology.
+
+
+Part 2. Office of Artificial Intelligence Policy
+
+
+Section 5, Section 13-70-201 is enacted to read:
+
+
+13-70-201. Creation of Office of Artificial Intelligence Policy -- Director appointed -- Duties and authority.
+
+
+(1) There is created in the department the Office of Artificial Intelligence Policy.
+
+
+(2) The executive director of the department shall appoint a director to oversee the management and operations of the office.
+
+
+(3) The office shall:
+(a) create and administer an artificial intelligence learning laboratory program;
+(b) consult with businesses and other stakeholders in the state about potential regulatory proposals;
+(c) make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, establishing:
+(i) procedures, requirements, and fees to apply to participate in the learning laboratory program;
+(ii) criteria for invitation, acceptance, denial, or removal of participants;
+(iii) data usage limitations and cybersecurity criteria for participants;
+(iv) required participant disclosures to consumers;
+(v) reporting requirements for participants to the office;
+(vi) criteria for limited extension of the participation period; and
+(vii) other requirements necessary to administer the learning laboratory; and
+(d) report annually, before November 30, to the Business and Labor Interim Committee regarding:
+(i) the proposed learning agenda for the learning laboratory;
+(ii) the findings, participation, and outcomes of the learning laboratory; and
+(iii) recommended legislation from findings from the learning laboratory.
+
+
+Part 3. Artificial Intelligence Learning Laboratory Program
+
+
+Section 6, Section 13-70-301 is enacted to read:
+
+
+13-70-301. Artificial Intelligence Learning Laboratory Program.
+
+
+(1) There is established the Artificial Intelligence Learning Laboratory Program, to be administered by the office.
+
+
+(2) The purpose of the learning laboratory is to:
+(a) analyze and research the risks, benefits, impacts, and policy implications of artificial intelligence technologies to inform the state regulatory framework;
+(b) encourage development of artificial intelligence technologies in the state;
+(c) evaluate the effectiveness and viability of current, potential, or proposed regulation on artificial intelligence technologies with artificial intelligence companies; and
+(d) produce findings and recommendations for legislation and regulation of artificial intelligence.
+
+
+(3) (a) The office shall periodically set a learning agenda for the learning laboratory that establishes the specific areas of artificial intelligence policy the office intends to study.
+(b) In establishing the learning agenda, the office may consult with:
+(i) relevant agencies;
+(ii) industry leaders;
+(iii) academic institutions in the state; and
+(iv) key stakeholders with relevant knowledge, experience, or expertise in the area.
+
+
+(4) The office may invite and receive an application from a person to participate in the learning laboratory.
+
+
+(5) The office shall establish the procedures and requirements for sending an invitation and receiving requests to participate in the learning laboratory in accordance with the purposes of the learning laboratory.
+
+
+(6) In selecting participants for the learning laboratory, the office shall consider:
+(a) the relevance and utility of an invitee or applicant's artificial intelligence technology to the learning agenda;
+(b) the invitee or applicant's expertise and knowledge specific to the learning agenda; and
+(c) other factors identified by the office as relevant to participation in the learning laboratory.
+
+
+(7) The office shall work with participants to establish benchmarks and assess outcomes of participation in the learning laboratory.
+
+
+Section 7, Section 13-70-302 is enacted to read:
+
+
+13-70-302. Regulatory mitigation agreements.
+
+
+(1) A participant who uses or wants to utilize an artificial intelligence technology in the state may apply for regulatory mitigation according to criteria and procedures outlined by the office by rule made under Section 13-70-201.
+
+
+(2) The office may grant, on a temporary basis, regulatory mitigation to a participant by entering into a regulatory mitigation agreement with the office and relevant agencies.
+
+
+(3) To receive regulatory mitigation, a participant must demonstrate that the applicant meets eligibility criteria established in Section 13-70-303.
+
+
+(4) A regulatory mitigation agreement between a participant and the office and relevant agencies shall specify:
+(a) limitations on scope of the use of the participant's artificial intelligence technology,
+including:
+(i) the number and types of users;
+(ii) geographic limitations; and
+(iii) other limitations to implementation;
+(b) safeguards to be implemented; and
+(c) any regulatory mitigation granted to the applicant.
+
+
+(5) The office shall consult with relevant agencies regarding appropriate terms in a regulatory mitigation agreement.
+
+
+(6) A participant remains subject to all legal and regulatory requirements not expressly waived or modified by the terms of the regulatory mitigation agreement.
+
+
+(7) (a) The office may remove a participant at any time and for any reason, and the participant does not have an expectation of a property right or license to participate in the learning laboratory.
+(b) A participant demonstrating an artificial intelligence technology that violates legal or regulatory requirements or the terms of the participation agreement may be immediately removed from further participation and subject to all applicable civil and criminal penalties.
+
+
+(8) Participation in the learning laboratory does not constitute an endorsement or approval from the state.
+
+
+(9) The state shall not be responsible for any claims, liabilities, damages, losses, or expenses arising out of a participant's involvement in the learning laboratory.
+
+
+Section 8, Section 13-70-303 is enacted to read:
+
+
+13-70-303. Regulatory mitigation eligibility requirements -- Application evaluation and admission.
+
+
+(1) To be eligible for regulatory mitigation, a participant shall demonstrate to the office that:
+(a) the participant has the technical expertise and capability to responsibly develop and test the proposed artificial intelligence technology;
+(b) the participant has sufficient financial resources to meet obligations during testing;
+(c) the artificial intelligence technology provides potential substantial consumer benefits that may outweigh identified risks from mitigated enforcement of regulations;
+(d) the participant has an effective plan to monitor and minimize identified risks from testing; and
+(e) the scale, scope, and duration of proposed testing is appropriately limited based on risk assessments.
+
+
+(2) To evaluate whether an applicant meets eligibility criteria to receive regulatory mitigation, the office may consult with relevant agencies and outside experts regarding the application.
+
+
+Section 9, Section 13-70-304 is enacted to read:
+
+
+13-70-304. Participation in Artificial Intelligence Learning Laboratory.
+(1) (a) The office may approve an applicant to participate in the program.
+(b) An approved applicant becomes a participant by entering into a participation agreement with the office and relevant state agencies.
+
+
+(2) A participant shall:
+(a) provide required information to state agencies in accordance with the terms of the participation agreement; and
+(b) report to the office as required in the participation agreement.
+(3) The office may establish additional cybersecurity auditing procedures applicable to participants demonstrating artificial intelligence technologies that the office considers higher risk.
+(4) A participant shall retain records as required by office rule or the participation agreement.
+(5) A participant shall immediately report to the office any incidents resulting in consumer harm, privacy breach, or unauthorized data usage, which may result in removal of the participant from the learning laboratory.
+
+
+Section 10, Section 13-70-305 is enacted to read:
+
+
+13-70-305. Program extension.
+(1) An initial regulatory mitigation agreement shall be in force for no longer than 12 months.
+(2) A participant may request a single 12-month extension for participation in the learning laboratory period no later than 30 days before the end of the initial 12-month period.
+(3) The office shall grant or deny an extension request before expiration of the initial demonstration period.
+
+
+
+
+Section 11, Section 63I-2-213 is amended to read:
+
+
+63I-2-213. Repeal dates: Title 13.
+(1)Section 13-1-16 is repealed on July 1, 2024.
+(2)Title 13, Chapter 47, Private Employer Verification Act, is repealed on the program start date, as defined in Section 63G-12-102.
+(3) Title 13, Chapter 70, Artificial Intelligence Act, is repealed on May 1, 2025.
+
+
+
+
+Section 12, Section 76-2-107 is enacted to read:
+
+
+76-2-107. Commission of offense with aid of generative artificial intelligence.
+(1) As used in this section, "generative artificial intelligence" means the same as that term is defined in Section 13-2-12.
+(2) An actor may be found guilty of an offense if:
+(a) the actor commits the offense with the aid of a generative artificial intelligence; or
+(b) the actor intentionally prompts or otherwise causes a generative artificial intelligence to commit the offense.
+
+
+Section 13. Effective date.
+This bill takes effect on May 1, 2024.

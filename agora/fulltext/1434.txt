@@ -1,0 +1,290 @@
+An Act concerning the development of artificial intelligence innovations, ventures, and facilities, and amending and supplementing P.L.2020, c.156.
+
+ 
+     Be It Enacted by the Senate and General Assembly of the State of New Jersey:
+ 
+
+C.34:1B-394  Short title.
+
+     1.    P.L.2024, c.49 (C.34:1B-394 et al.) shall be known and may be cited as the �Next New Jersey Program Act.�
+
+
+C.34:1B-395  Definitions.
+
+     2.    As used in P.L.2024, c.49 (C.34:1B-394 et al.):
+
+     �Affiliate� means an entity that directly or indirectly controls, is under common control with, or is controlled by an eligible business. Control exists in all cases in which the entity is a member of a controlled group of corporations as defined pursuant to section 1563 of the federal Internal Revenue Code (26 U.S.C. s.1563) or the entity is an organization in a group of organizations under common control that is subject to the regulations applicable to organizations pursuant to subsection (b) or (c) of section 414 of the federal Internal Revenue Code (26 U.S.C. s.414).  An eligible business may establish by clear and convincing evidence, as determined by the authority, that control exists in situations involving lesser percentages of ownership than required by the above referenced federal statutes if the eligible business shall have control, at a minimum, of all aspects of compliance with this program.  An affiliate of an eligible business may contribute towards the capital investment requirement and may satisfy the requirement for site control during construction and the eligibility period, but in no event shall the tax credit certificate be issued to any affiliate.
+
+     �AI data center� means a facility specifically to handle the demanding computational needs of artificial intelligence applications, designed for tasks like machine learning training, deep learning algorithms, and complex data analysis, whose services are the storage, management, and processing of digital data; that is used to house: computer and network systems, including associated components such as servers, network equipment and appliances, telecommunications, and data storage systems; systems for monitoring and managing infrastructure performance; Internet-related equipment and services; data communications connections; environmental controls; fire protection systems; and security systems and services specifically for artificial intelligence applications.
+
+     �Artificial intelligence� or �AI� means the development of software and hardware and the end-use application of technologies that are able to perform tasks normally requiring human intelligence, including, but not limited to, visual perception, speech recognition, decision-making, translation between languages, and generative artificial intelligence, which generates new content in response to user inputs of data.
+
+     �Authority� means the New Jersey Economic Development Authority established by section 4 of P.L.1974, c.80 (C.34:1B-4).
+
+     �Board� means the Board of the New Jersey Economic Development Authority, established by section 4 of P.L.1974, c.80 (C.34:1B-4).
+
+     �Building services� means any cleaning or routine building maintenance work, including, but not limited to, sweeping, vacuuming, floor cleaning, cleaning of rest rooms, collecting refuse or trash, window cleaning, securing, patrolling, or other work in connection with the care or securing of an existing building, including services typically provided by a door-attendant or concierge.  "Building services" shall not include any skilled maintenance work, professional services, or other public work for which a contractor is required to pay the "prevailing wage" as defined in section 2 of P.L.1963, c.150 (C.34:11-56.26).
+
+     �Business� means an applicant proposing to own or lease premises in a qualified business facility that is: a corporation that is subject to the tax imposed pursuant to section 5 of P.L.1945, c.162 (C.54:10A-5), sections 2 and 3 of P.L.1945, c.132 (C.54:18A-2 and C.54:18A-3), section 1 of P.L.1950, c.231 (C.17:32-15), or N.J.S.17B:23-5, or is a partnership, S corporation, limited liability company, or non-profit corporation.  A business shall include an affiliate of the business if that business applies for a credit based upon any capital investment made by or full-time employees of an affiliate. If the business or tenant is a cooperative or part of a cooperative, then the cooperative may qualify for credits by counting the full-time employees and capital investments of its member organizations and the cooperative may distribute credits to its member organizations. If the business or tenant is a cooperative that leases to its member organizations, the lease shall be treated as a lease to an affiliate or affiliates.
+
+     �Capital investment� means expenses that a business or an affiliate of the business incurs, or is incurred on behalf of the business or affiliate by its landlord, following its submission of an application to the authority pursuant to section 5 of P.L.2024, c.49 (C.34:1B-398), but prior to the project completion date, as shall be defined in the project agreement, for: site preparation and construction, repair, renovation, improvement, equipping, or furnishing on real property or of a building, structure, facility, or improvement to real property; obtaining and installing furnishings and machinery, apparatus, or equipment, including, but not limited to, computer systems, hardware, software, and equipment and material goods subject to bonus depreciation under sections 168 and 179 of the federal Internal Revenue Code (26 U.S.C. ss.168 and 179), for the operation of a business on real property or in a building, structure, facility, or improvement to real property; or any combination of the foregoing.
+
+     �Commitment period� means a period that is no less than two times the eligibility period specified in the project agreement entered into pursuant to section 6 of P.L.2024, c.49 (C.34:1B-399).
+
+     �Eligibility period� means the period in which an eligible business may claim a tax credit under the program, beginning with the tax period in which the authority accepts certification of the eligible business that it has met the capital investment and employment requirements of the program and extending thereafter for a term of five years.
+
+     �Eligible business� means any business that satisfies the criteria set forth in section 4 of P.L.2024, c.49 (C.34:1B-397) at the time of application for tax credits under the program.
+
+     �Eligible position� or �full-time job� means a full-time position in a business in this State which a business has filled with a full-time employee who is paid no less than 120 percent of the median salary for the county in which the project is located and for which the business provides employee health benefits under a group health plan as defined under section 14 of P.L.1997, c.146 (C.17B:27-54), a health benefits plan as defined under section 1 of P.L.1992, c.162 (C.17B:27A-17), or a policy or contract of health insurance covering more than one person issued pursuant to Article 2 of Chapter 27 of Title 17B of the New Jersey Statutes, provided, however, the requirement that employee health benefits are to be provided shall be deemed to be satisfied if the benefits are provided by the business or pursuant to a collective bargaining agreement, no later than 90 days of employee start date, under a health benefits plan authorized pursuant to State or federal law.  An eligible position shall not include an independent contractor or a consultant.
+
+     �Full-time employee� means a person:
+
+     who is employed by a business for consideration for at least 35 hours a week, or who renders any other standard of service generally accepted by custom or practice as full-time employment, and whose wages are subject to withholding as provided in the "New Jersey Gross Income Tax Act," N.J.S.54A:1-1 et seq.;
+
+     who is employed by a professional employer organization pursuant to an employee leasing agreement between the business and the professional employer organization, pursuant to P.L.2001, c.260 (C.34:8-67 et seq.) for at least 35 hours a week, or who renders any other standard of service generally accepted by custom or practice as full-time employment, and whose wages are subject to withholding as provided in the "New Jersey Gross Income Tax Act," N.J.S.54A:1-1 et seq.; or
+
+     who is a resident of another State, but whose income is not subject to the "New Jersey Gross Income Tax Act," N.J.S.54A:1-1 et seq., due to a reciprocity agreement with the other state, or who is a partner of a business who works for the partnership for at least 35 hours a week, or who renders any other standard of service generally accepted by custom or practice as full-time employment, and whose distributive share of income, gain, loss, or deduction, or whose guaranteed payments, or any combination thereof, is subject to the payment of estimated taxes, as provided in the "New Jersey Gross Income Tax Act," N.J.S.54A:1-1 et seq., due to a reciprocity agreement with the other state.
+
+     A �full-time employee� shall include, but shall not be limited to, an employee that has been hired by way of a labor union hiring hall or its equivalent. 35 hours of employment per week in the State shall constitute one "full-time employee," regardless of whether or not the hours of work were performed by one or more persons.
+
+     �Full-time employee� shall not include any person who works as an independent contractor or on a consulting basis for the business or a contract worker.
+
+     �Minimum environmental and sustainability standards� means standards established by the authority in accordance with the green building manual prepared by the Commissioner of Community Affairs pursuant to section 1 of P.L.2007, c.132 (C.52:27D-130.6), regarding the use of renewable energy, energy-efficient technology, and non-renewable resources to reduce environmental degradation and encourage long-term cost reduction.
+
+     �New full-time job� means an eligible position created by a business, following approval of such business's application by the board, that did not previously exist in this State.  For the purposes of determining the number of new full-time jobs, the eligible positions of an affiliate shall be considered eligible positions of the business.
+
+     �Partnership� means an entity classified as a partnership for federal income tax purposes.
+
+     �Professional employer organization� means an employee leasing company registered with the Department of Labor and Workforce Development pursuant to P.L.2001, c.260 (C.34:8-67 et seq.).
+
+     �Program� means the Next New Jersey Program established by section 3 of P.L.2024, c.49 (C.34:1B-396).
+
+     �Project� means the capital investment at a qualified business facility and the employment commitment pursuant to the project agreement.
+
+     �Project agreement� means the contract executed between an eligible business and the authority pursuant to section 6 P.L.2024, c.49 (C.34:1B-399), which sets forth the terms and conditions under which the eligible business may receive the tax credits authorized pursuant to the program.
+
+     �Qualified business facility� means any building, complex of buildings, or structural components of buildings, and all machinery and equipment located therein, used in connection with the operation of an eligible business.
+
+     �Technology startup company� means a for-profit business located in the State that has been in operation fewer than seven years and is developing or possesses a proprietary technology or business method of a high technology or life science-related product, process, or service, which proprietary technology or business method the business intends to move to commercialization.  The business shall be deemed to have begun operation on the date that the business first hired at least one employee in a full-time position.
+
+ 
+
+C.34:1B-396  "Next New Jersey Program" established.
+
+     3. a. The Next New Jersey Program is hereby established as a program under the jurisdiction of the New Jersey Economic Development Authority.  The authority shall administer the program to attract new investment to New Jersey in key industries, create new jobs and economic opportunities, and position New Jersey as a leader in the innovation economy.  The board may approve the award of tax credits to an eligible business upon application of the chief executive officer, or equivalent officer, of the eligible business and following the payment of fees, subject to the limitations set forth in subsection b. of this section.
+
+     b.    The value of all tax credits approved by the authority for businesses eligible pursuant to section 4 of P.L.2024, c.49 (C.34:1B-397) shall be subject to the limitations set forth in section 98 of P.L.2020, c.156 (C.34:1B-362).
+
+ 
+
+C.34:1B-397  Tax credit eligibility requirements, artificial intelligence.
+
+     4. a. Beginning on the effective date of P.L.2024, c.49 (C.34:1B-394 et al.), but prior to March 1, 2029, to be eligible for tax credits under the program, a business's chief executive officer, or equivalent officer, shall demonstrate to the authority at the time of application that:
+
+     (1)   the business will make, acquire, or lease a capital investment at the qualified business facility equal to or greater than the applicable amount set forth in subsection b. of this section;
+
+     (2)   the business will create new full-time jobs in the State in an amount equal to or greater than the applicable number set forth in subsection c. of this section;
+
+     (3)   the business or its division is primarily engaged in the artificial intelligence industry or the large-scale artificial intelligence data center industry.  A business or its division shall be considered to be primarily engaged in an industry set forth herein if more than 50 percent of the business's employees are engaged in AI-related activities or more than 50 percent of the business's revenue is generated from AI-related activities, or both, provided, however, the use of AI applications in the furtherance of a business's own operations shall not be considered in determining whether a business or division is primarily engaged in artificial intelligence or large-scale artificial intelligence data centers.  AI-related activities include, but are not limited to:  developing new AI algorithms and techniques, such as machine learning, natural language processing, and computer vision; creating AI-powered software and hardware products for various applications; medical AI modelling or programing; development of AI chatbots for customer service; AI development for vehicles; and collecting, storing, and managing the vast amount of data needed to train and use AI models;
+
+     (4)   the business will enter into a collaborative relationship, evidenced by the provision of price concessions, artificial intelligence support services, or other measures determined appropriate by the authority, with New Jersey-based public or private research universities or technology startup companies, or both;
+
+     (5)   the qualified business facility shall be in compliance with minimum environmental and sustainability standards;
+
+     (6)   for construction contracts valued in excess of $2,000, the project shall comply with the authority's affirmative action requirements, adopted pursuant to section 4 of P.L.1979, c.303 (C.34:1B-5.4); and
+
+     (7)   each worker employed to perform construction work in connection with a capital improvement or building services work at the qualified business facility shall be paid not less than the prevailing wage rate for the worker's craft or trade, as determined by the Commissioner of Labor and Workforce Development pursuant to P.L.1963, c.150 (C.34:11-56.25 et seq.) and P.L.2005, c.379 (C.34:11-56.58 et seq.).
+
+     b.    The minimum capital investment at the qualified business facility required to be eligible under the program shall be $100,000,000.
+
+     c.     The minimum number of new full-time jobs in the State required to be eligible under the program shall be 100 new full-time jobs.
+
+     d.    The chief executive officer of the business, or an equivalent officer, shall certify that all factual representations made by the business to the authority pursuant to subsection a. of this section are true under the penalty of perjury.
+
+     e.     A business shall not be awarded a tax credit pursuant to the program if the business receives a tax credit pursuant to the �Emerge Program Act,� sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), or section 6 of P.L.2010, c.57 (C.34:1B-209.4), relating to the same capital investment and employees that qualify the business for a tax credit under the program.
+
+     f.     A business eligible pursuant to this section may submit an application to the authority in accordance with the provisions of section 5 of P.L.2024, c.49 (C.34:1B-398) on or after the effective date of P.L.2024, c.49 (C.34:1B-394 et al.) but prior to March 1, 2029.
+
+ 
+
+C.34:1B-398  Tax credit eligibility, application, artificial intelligence.
+
+     5. a. A business that meets the eligibility criteria in section 4 of P.L.2024, c.49 (C.34:1B-397) and is seeking tax credits for a project under the program shall submit an application for approval of the project to the authority in a form and manner prescribed by the authority.
+
+     b. (1) Before the board may consider an eligible business's application for tax credits, the authority shall confirm with the Department of Labor and Workforce Development, the Department of Environmental Protection, and the Department of the Treasury whether the eligible business is in substantial good standing with the respective department, or, if necessary, has entered into an agreement with the respective department that includes a practical corrective action plan for the eligible business.  The business entity shall certify that contractors or subcontractors that will perform work at the qualified business facility:  are registered as required by "The Public Works Contractor Registration Act," P.L.1999, c.238 (C.34:11-56.48 et seq.); have not been debarred by the Department of Labor and Workforce Development from engaging in or bidding on Public Works Contracts in the State; and possess a tax clearance certificate issued by the Division of Taxation in the Department of the Treasury.  The authority may also contract with an independent third party to perform a background check on the eligible business.
+
+     c.     An eligible business shall pay to the authority the full amount of the direct costs of an analysis concerning the eligible business's application for a tax credit, which a third party retained by the authority performs, if the authority deems such retention to be necessary.  The authority shall have the discretion to waive all or a portion of the costs of application for a small business.
+
+     d.    If at any time during the eligibility period the authority determines that the eligible business made a material misrepresentation on the eligible business's application, the eligible business shall forfeit all tax credits awarded under the program, which shall be in addition to any other criminal or civil penalties to which the business and the officer may be subject.
+
+     e.     If circumstances require an eligible business to amend its application to the authority, then the chief executive officer of the eligible business, or an equivalent officer, shall certify to the authority that the information provided in its amended application is true under the penalty of perjury.
+
+     f.     Nothing shall preclude a business from applying for tax credits under the program for more than one project pursuant to one or more applications.
+
+ 
+
+C.34:1B-399  Eligible business, tax credits, site plan approval, committed financing, control, facility.
+
+     6. a. Following board approval, within a time established by the authority and prior to the authority and an eligible business executing a project agreement, the eligible business shall demonstrate that it has obtained site plan approval and has committed financing for, and established site control of, the qualified business facility.  The chief executive officer of the business, or an equivalent officer, shall certify that all factual representations made by the business to the authority pursuant to this subsection are true under the penalty of perjury.
+
+     b.    Following approval by the board and compliance with the provisions of subsection a. of this section, but before the issuance of tax credits, the authority shall require an eligible business to enter into a project agreement.  The terms of the project agreement shall be consistent with the eligibility requirements of section 4 of P.L.2024, c.49 (C.34:1B-397), and shall include, but not be limited to, the following:
+
+     (1)   a detailed description of the proposed project that will result in job creation, and the number of new full-time jobs that are approved for tax credits;
+
+     (2)   any personnel information that will enable the authority to administer the program;
+
+     (3)   a requirement that the eligible business maintain the project at a location in New Jersey for the commitment period and a provision to permit the authority to recapture all or part of any tax credits awarded, at its discretion, if the eligible business does not maintain the project at a location in New Jersey for the commitment period;
+
+     (4)   a requirement that the eligible business maintain the number of new full-time jobs, or the salaries thereof, to which the eligible business certified at the commencement of the eligibility period and a provision to permit the authority to proportionally reduce the tax credit award in any tax period in which the number of new full-time jobs, or the salaries thereof, is reduced below the new full-time jobs to which the eligible business certified at the commencement of the eligibility period;
+
+     (5)   a method for the eligible business to certify that it has met the capital investment and employment requirements of the program set forth in subsections b. and c. of section 4 of P.L.2024, c.49 (C.34:1B-397) and to report annually to the authority the number of new full-time jobs, and the salaries thereof, for which the tax credits are to be allowed;
+
+     (6)   representations that the eligible business is in substantial good standing with the Department of Environmental Protection, the Department of Labor and Workforce Development, and the Department of the Treasury or has entered into an agreement with the departments that includes a practical corrective action plan, the project complies with all applicable laws, and, specifically, that the project does not violate any environmental law;
+
+     (7)   a provision permitting an audit of the payroll records of the business from time to time, as the authority deems necessary;
+
+     (8)   a provision that the chief executive officer of the authority receives annual reports from the eligible business and that allows the authority to confirm that the eligible business is in substantial good standing with the Department of Environmental Protection, the Department of Labor and Workforce Development, and the Department of the Treasury or has entered into an agreement with the respective department that includes a practical corrective action plan.  As part of the annual reports required by this paragraph, the eligible business shall confirm that each contractor or subcontractor performing work at the qualified business facility:  is registered as required by "The Public Works Contractor Registration Act," P.L.1999, c.238 (C.34:11-56.48 et seq.); has not been debarred by the Department of Labor and Workforce Development from engaging in or bidding on Public Works Contracts in the State; and possesses a tax clearance certificate issued by the Division of Taxation in the Department of the Treasury.  If the eligible business does not submit the report required under this paragraph, if the Department of Environmental Protection, the Department of Labor and Workforce Development, and the Department of the Treasury advise that the eligible business is neither in substantial good standing nor has entered into a practical corrective action plan, or if the eligible business fails to confirm that each contractor or subcontractor is in compliance with this paragraph, then the eligible business may forfeit the issuance of tax credits, pending resolution of the underlying violations or other issues;
+
+     (9)   a requirement for the eligible business to engage in on-site consultations with the Division of Workplace Safety and Health in the Department of Health;
+
+     (10)  a provision permitting the authority to amend the agreement; and
+
+     (11)  a provision establishing the conditions under which the authority, the eligible business, or both, may terminate the agreement.
+
+     c. (1) The authority may recapture all or part of a tax credit awarded if an eligible business does not remain in compliance with the requirements of a project agreement for the duration of the commitment period.  A recapture pursuant to this subsection may include interest on the recapture amount, at a rate equal to the statutory rate for corporate business or insurance premiums tax deficiencies, plus any statutory penalties, and all costs incurred by the authority and the Division of Taxation in the Department of the Treasury in connection with the pursuit of the recapture, including, but not limited to, counsel fees, court costs, and other costs of collection.  Failure of the eligible business to meet any program criteria shall constitute a default and shall result in the recapture of all or part of the tax credit awarded.
+
+     (2)   If all or part of a tax credit sold or assigned pursuant to section 8 of P.L.2024, c.49 (C.34:1B-401) is subject to recapture, then the authority shall pursue recapture from the eligible business and not from the purchaser or assignee of the tax credit transfer certificate.  The purchaser or assignee of a tax credit transfer certificate shall be subject to any limitations and conditions that apply to the use of the tax credits by the eligible business.
+
+     (3)   Any funds recaptured pursuant to this subsection, including penalties and interest, shall be deposited into the General Fund.
+
+     d.    A business may include an affiliate for any period, provided that the business provides a valid tax clearance certificate for the affiliate and a verification of the nature of the affiliate relationship during the relevant period and provided further that the affiliate provides acceptable responses to the authority's legal disclosures inquiries, as determined by the authority.  A formal modification of the authority's approval of the project agreement shall not be necessary to add or remove an affiliate after approval or execution of the project agreement.
+
+     e.     A business may change its name filed with the authority by providing a copy of the filed amendment to the certificate of incorporation or formation, as the case may be, of the business and a valid tax clearance certificate with the business's new name.  A formal modification of the authority's approval shall not be necessary to change a business's name after approval or execution of the project agreement.
+
+C.34:1B-400  Tax credit eligibility, certifications, capital investment, employment requirements.
+
+     7. a. Upon completion of the capital investment and employment requirements of the program, an eligible business shall submit to the authority certifications evidencing that the eligible business has satisfied the conditions relating to the capital investment and employment requirements of the project agreement with supporting evidence satisfactory to the authority.  The chief executive officer of the business, or an equivalent officer, shall certify that all factual representations made by the business to the authority pursuant to this subsection are true under the penalty of perjury.
+
+     b. (1) In accordance with the project agreement, beginning upon the receipt of occupancy permits for any portion of the project, or upon any other event evidencing project completion as set forth in the project agreement, an eligible business shall be allowed a tax credit in an amount determined pursuant to paragraph (2) of this subsection.  No more than the amount of tax credits equal to the total credit amount awarded under the program divided by the duration of the eligibility period in years may be taken in any tax period.
+
+     (2)   The amount of the tax credit allowed under the program to an eligible business shall be the lesser of:
+
+     (a)   the product of 0.1 percent of the eligible business's total capital investment multiplied by the number of new full-time jobs;
+
+     (b)   25 percent of the eligible business's total capital investment; or
+
+     (c)   $250,000,000.
+
+     c. (1) An eligible business which is awarded tax credits under the program shall submit annually, no later than the date indicated in the project agreement, commencing in the year in which the grant of tax credits is issued and for the remainder of the commitment period, a report that indicates that the eligible business continues to maintain the number of new full-time jobs, and the salaries thereof, specified in the project agreement.  As part of the annual report required pursuant to this subsection, an eligible business shall provide to the authority a copy of its applicable New Jersey tax return showing business income and withholdings as a condition of its continuation in the program, and the quarterly wage report required under R.S.43:21-14 submitted to the Department of Labor and Workforce Development, together with an annual payroll report showing:  the new full-time jobs which were created in accordance with the project agreement and the new full-time jobs created during each subsequent year of the commitment period.  The failure of an eligible business to submit to the authority a copy of its annual payroll report or submit the quarterly wage report in accordance with the provisions of this subsection during the eligibility period shall result in the forfeiture of the award for that year.  An eligible business shall explain, in the reports required by this subsection, the reason for any discrepancies between the annual payroll report submitted by the eligible business and the quarterly wage report.  The chief executive officer of the eligible business, or an equivalent officer, shall certify that the information provided pursuant to this paragraph is true under the penalty of perjury.  Claims, records, or statements submitted by an eligible business to the authority in order to receive tax credits shall not be considered claims, records, or statements made in connection with State tax laws.
+
+     (2)   Upon receipt and review of each report submitted during the eligibility period, the authority shall provide to the eligible business and the director a certificate of compliance indicating the amount of tax credits that the eligible business may apply against its tax liability. The authority shall pro rate the tax credit for the first and last years of the eligibility period based on the number of full months the project was certified in the year the eligible business first certifies.
+
+     d. (1) Upon receipt by the director of the certificate of compliance, the director shall allow the eligible business a tax credit.  The eligible business may apply the credit allowed by the director against the eligible business's tax liability for the tax period in which the director allowed the tax credit, or may carry forward the credit for use by the eligible business in any of the next 10 successive tax periods, which credit shall expire thereafter.
+
+     (2)   The amount of credit allowed may be applied against the tax liability otherwise due pursuant to section 5 of P.L.1945, c.162 (C.54:10A-5), sections 2 and 3 of P.L.1945, c.132 (C.54:18A-2 and C.54:18A-3), section 1 of P.L.1950, c.231 (C.17:32-15), or N.J.S.17B:23-5.
+
+     (3)   The director shall prescribe the order of priority of the application of the credit allowed under this section and any other credits allowed by law against the tax imposed under section 5 of P.L.1945, c.162 (C.54:10A-5).  The amount of a credit applied under this section against the tax imposed pursuant to section 5 of P.L.1945, c.162 (C.54:10A-5) for a privilege period, together with any other credits allowed by law, shall not reduce the tax liability to an amount less than the statutory minimum provided in subsection (e) of section 5 of P.L.1945, c.162 (C.54:10A-5).
+
+     e.     An eligible business shall forfeit the credit amount for any tax period for which the eligible business's documentation remains uncertified as of the date for certification indicated in the project agreement, although credit amounts for the remainder of the years of the eligibility period shall remain available to the eligible business.
+
+     f.     If, in any tax period, the number of new employees in eligible positions, or the salaries thereof, drops below 80 percent of the number of new employees in eligible positions specified in the project agreement or required as a condition of program eligibility pursuant to section 4 of P.L.2024, c.49 (C.34:1B-397), whichever is greater, then the eligible business shall forfeit its tax credit amount for that tax period and each subsequent tax period, until the first tax period for which documentation demonstrating the restoration of the number of new employees in eligible positions, or the salaries thereof, to 80 percent of the number specified in the project agreement or required as a condition of program eligibility pursuant to section 4 of P.L.2024, c.49 (C.34:1B-397), whichever is greater, is reviewed and approved by the authority.
+
+ 
+
+C.34:1B-401  Eligible business, tax credit transfer certificate.
+
+     8. a. An eligible business may apply to the director and the chief executive officer of the authority for a tax credit transfer certificate, within three years of the tax period in which the director allows the eligible business a tax credit, in lieu of any amount of the tax credit against the eligible business's State tax liability.  The tax credit transfer certificate, upon receipt thereof by the eligible business from the director and the chief executive officer of the authority, may be sold or assigned, in an amount not less than $25,000, within three years of the tax period in which the eligible business receives the tax credit transfer certificate from the director, to another person that may have a tax liability pursuant to section 5 of P.L.1945, c.162 (C.54:10A-5), sections 2 and 3 of P.L.1945, c.132 (C.54:18A-2 and 54:18A-3), section 1 of P.L.1950, c.231 (C.17:32-15), or N.J.S.17B:23-5.  A purchaser or assignee of a tax credit transfer certificate pursuant to this section shall apply the transferred credit against the same tax for which the eligible business was approved a tax credit under the program.  The tax credit transfer certificate provided to the eligible business shall include a statement waiving the eligible business's right to claim the credit that the eligible business has elected to sell or assign.
+
+     b.    The eligible business shall not sell or assign a tax credit transfer certificate allowed under this section for consideration received by the eligible business of less than 85 percent of the transferred credit amount before considering any further discounting to present value which shall be permitted.  The tax credit transfer certificate issued to the eligible business by the director shall be subject to any limitations and conditions imposed on the application of State tax credits pursuant to P.L.2024, c.49 (C.34:1B-394 et al.) and any other terms and conditions that the director may prescribe.
+
+     c.     A purchaser or assignee of a tax credit transfer certificate pursuant to this section shall not make any subsequent transfers, assignments, or sales of the tax credit transfer certificate.
+
+     d.    The authority shall publish on its Internet website the following information concerning each tax credit transfer certificate approved by the authority and the director pursuant to this section:
+
+     (1)   the name of the transferrer;
+
+     (2)   the name of the transferee;
+
+     (3)   the value of the tax credit transfer certificate;
+
+     (4)   the State tax against which the transferee may apply the tax credit; and
+
+     (5)   the consideration received by the transferrer.
+
+ 
+
+C.34:1B-402  Rules, regulations.
+
+     9.    Notwithstanding the provisions of the "Administrative Procedure Act," P.L.1968, c.410 (C.52:14B-1 et seq.) to the contrary, the chief executive officer of the authority shall adopt, immediately, upon filing with the Office of Administrative Law, such rules and regulations as the chief executive officer deems necessary to implement the provisions of sections P.L.2024, c.49 (C.34:1B-394 et al.), which rules and regulations shall be effective for a period not to exceed 365 days after the date of the filing.  Before the expiration of the rules and regulations, the chief executive officer shall amend, adopt, or readopt the rules and regulations in accordance with the requirements of the "Administrative Procedure Act," P.L.1968, c.410 (C.52:14B-1 et seq.).
+
+ 
+
+     10.  Section 98 of P.L.2020, c.156 (C.34:1B-362) is amended to read as follows:
+
+ 
+
+C.34:1B-362  Combined value, all tax credits.
+
+     98. a. The combined value of all tax credits awarded under the "Historic Property Reinvestment Act," sections 2 through 8 of P.L.2020, c.156 (C.34:1B-270 through 34:1B-276); the "Brownfields Redevelopment Incentive Program Act," sections 9 through 19 of P.L.2020, c.156 (C.34:1B-277 through 34:1B-287); the "New Jersey Innovation Evergreen Act," sections 20 through 34 of P.L.2020, c.156 (C.34:1B-288 through 34:1B-302); the "Food Desert Relief Act," sections 35 through 42 of P.L.2020, c.156 (C.34:1B-303 through 34:1B-310); the "New Jersey Community-Anchored Development Act," sections 43 through 53 of P.L.2020, c.156 (C.34:1B-311 through 34:1B-321); the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335); the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.); section 6 of P.L.2010, c.57 (C.34:1B-209.4); the "Cultural Arts Incentives Program Act," P.L.2023, c.197 (C.34:1B-383 et al.); and the "Next New Jersey Program Act," P.L.2024, c.49 (C.34:1B-362 et seq.) shall not exceed an overall cap of $11.5 billion over a nine-year period, subject to the conditions and limitations set forth in this section.  Of this $11.5 billion, $2.5 billion shall be reserved for transformative projects approved under the Aspire Program.
+
+     b. (1) The total value of tax credits awarded under any constituent program of the "New Jersey Economic Recovery Act of 2020," P.L.2020, c.156 (C.34:1B-269 et al.), the "Cultural Arts Incentives Program Act," P.L.2023, c.197 (C.34:1B-383 et al.), and the "Next New Jersey Program Act," P.L.2024, c.49 (C.34:1B-362 et seq.), shall be subject to the following limitations, except as otherwise provided in subsection c. of this section:
+
+     (a)   for tax credits awarded under the "Historic Property Reinvestment Act," sections 2 through 8 of P.L.2020, c.156 (C.34:1B-270 through 34:1B-276), the total value of tax credits annually awarded during each of the first six years of the nine-year period shall not exceed $50 million;
+
+     (b)   for tax credits awarded under the "Brownfields Redevelopment Incentive Program Act," sections 9 through 19 of P.L.2020, c.156 (C.34:1B-277 through 34:1B-287), the total value of tax credits annually awarded during each of the first six years of the nine-year period shall not exceed $50 million;
+
+     (c)   for tax credits awarded under the "New Jersey Innovation Evergreen Act," sections 20 through 34 of P.L.2020, c.156 (C.34:1B-288 through 34:1B-302), the total value of tax credits annually awarded during each of the first six years of the nine-year period shall not exceed $60 million and the total value of tax credits awarded over the entirety of the nine-year period shall not exceed $300,000,000;
+
+     (d)   for tax credits awarded under the "Food Desert Relief Act," sections 35 through 42 of P.L.2020, c.156 (C.34:1B-303 through 34:1B-310), the total value of tax credits annually awarded during each of the first six years of the nine-year period shall not exceed $40 million;
+
+     (e)   for tax credits awarded under the "New Jersey Community-Anchored Development Act," sections 43 through 53 of P.L.2020, c.156 (C.34:1B-311 through 34:1B-321), and the "Cultural Arts Incentives Program Act," P.L.2023, c.197 (C.34:1B-383 et al.), the total value of tax credits awarded during the nine-year period shall not exceed $1,200,000,000; provided, however, tax credits shall not be available under the "New Jersey Community-Anchored Development Act," sections 43 through 53 of P.L.2020, c.156 (C.34:1B-311 through 34:1B-321), until January 1, 2026.  Beginning January 1, 2026, the authority shall annually award tax credits under the "New Jersey Community-Anchored Development Act," sections 43 through 53 of P.L.2020, c.156 (C.34:1B-311 through 34:1B-321), valuing no greater than $130 million for projects located in the 13 northern counties of the State, and the authority shall annually award tax credits valuing no greater than $70 million for projects located in the eight southern counties of the State.  If during any year of operation of the "New Jersey Community-Anchored Development Act," sections 43 through 53 of P.L.2020, c.156 (C.34:1B-311 through 34:1B-321), the authority awards tax credits pursuant to the program in an amount less than the annual limitation for projects located in northern counties or southern counties, as applicable, the uncommitted portion of the annual limitation shall be available to be deployed by the authority in a subsequent year without consideration to the county in which a project is located;
+
+     (f)   for tax credits awarded under the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335), and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), not including tax credits awarded for transformative projects, the total value of tax credits annually awarded during each of the first six years of the nine-year period shall not exceed $1.1 billion.  If the authority awards tax credits in an amount less than the annual limitation, then the uncommitted portion of the annual limitation shall be made available for qualified offshore wind projects awarded under section 6 of P.L.2010, c.57 (C.34:1B-209.4), pursuant to subparagraph (h) of this paragraph, projects awarded a tax credit pursuant to the "Next New Jersey Program Act," P.L.2024, c.49 (C.34:1B-362 et seq.), pursuant to subparagraph (k) of this paragraph, or New Jersey studio partners, New Jersey film-lease production companies, and taxpayers, other than New Jersey studio partners and New Jersey film-lease production companies awarded under sections 1 and 2 of P.L.2018, c.56 (C.54:10A-5.39b and C.54A:4-12b), pursuant to subparagraph (i) of this paragraph and subsection d. of this section.  During each of the first six years of the nine-year period, the authority shall annually award tax credits valuing no greater than $715 million for projects located in the northern counties of the State, and the authority shall annually award tax credits valuing no greater than $385 million for projects located in the southern counties of the State under the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335), and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.).  If during any of the first six years of the nine-year period, the authority awards tax credits under the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335), and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), in an amount less than the annual limitation for projects located in northern counties or southern counties, as applicable, the uncommitted portion of the annual limitation shall be available to be deployed by the authority in a subsequent year, provided that the uncommitted portion of tax credits shall be awarded for projects located in the applicable geographic area, except that (i) after the completion of the third year of the nine-year period, the authority may deploy 50 percent of the uncommitted portion of tax credits for any previous year without consideration to the county in which a project is located; and (ii) after the completion of the sixth year of the nine-year period, the authority may deploy all available tax credits, including the uncommitted portion of the annual limitation for any previous year, without consideration to the county in which a project is located;
+
+     (g)   except as provided in subparagraph (j) of this paragraph, for tax credits awarded for transformative projects under the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335), the total value of tax credits awarded during the nine-year period shall not exceed $2.5 billion.  The total value of tax credits awarded for transformative projects in a given year shall not be subject to an annual limitation, except that the total value of tax credits awarded to any transformative project shall not exceed $400 million;
+
+     (h)   from the tax credits made available, pursuant to subparagraph (f) of this paragraph, to the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335), and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), not including tax credits awarded for transformative projects, an amount not to exceed $350,000,000 shall be made available for qualified offshore wind projects awarded a credit pursuant to section 6 of P.L.2010, c.57 (C.34:1B-209.4) during the first three years of the nine-year period;
+
+     (i)    beginning in fiscal year 2023, from the tax credits made available, pursuant to subparagraph (f) of this paragraph, to the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335), and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), not including tax credits awarded for transformative projects, additional amounts shall be made available for New Jersey studio partners, New Jersey film-lease production companies, and taxpayers, other than New Jersey studio partners and New Jersey film-lease production companies pursuant to sections 1 and 2 of P.L.2018, c.56 (C.54:10A-5.39b and C.54A:4-12b);
+
+     (j)    beginning in fiscal year 2024, from the tax credits made available, pursuant to subparagraph (f) of this paragraph, to the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335) and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), not including tax credits awarded for transformative projects, an amount not to exceed $500,000,000 may be annually transferred for the award to transformative projects under the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335), provided that: (i) the remaining allocation of tax credits otherwise available for transformative projects, pursuant to subparagraph (g) of this paragraph, is less than $1,000,000,000; and (ii) the authority board determines that the transfer of tax credits is warranted based on such criteria as the authority deems appropriate, which may include the criteria set forth in paragraph (2) of this subsection.  If a transfer of tax credits is made pursuant to this subparagraph, the authority shall award no greater than 65 percent of the tax credits transferred pursuant to this subparagraph to transformative projects located in the northern counties of the State and no greater than 35 percent of the tax credits transferred pursuant to this subparagraph to transformative projects located in the southern counties of the State; and
+
+     (k) beginning in fiscal year 2025, from the tax credits made available, pursuant to subparagraph (f) of this paragraph, to the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 through 34:1B-335) and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), but not including tax credits awarded for transformative projects, an amount not to exceed $500,000,000 shall be made available for projects awarded a tax credit pursuant to the "Next New Jersey Program Act," P.L.2024, c.49 (C.34:1B-362 et seq.).
+
+     (2)   The authority may in any given year determine that it is in the State's interest to approve an amount of tax credits in excess of the annual limitations set forth in paragraph (1) of this subsection, but in no event more than $200,000,000 in excess of the annual limitation, upon a determination by the authority board that such increase is warranted based on specific criteria that may include:
+
+     (i)    the increased demand for opportunities to create or retain employment and investment in the State as indicated by the volume of project applications and the amount of tax credits being sought by those applications;
+
+     (ii)   the need to protect the State's economic position in the event of an economic downturn;
+
+     (iii)  the quality of project applications and the net economic benefit to the State and municipalities associated with those applications;
+
+     (iv)  opportunities for project applications to strengthen or protect the competitiveness of the State under the prevailing market conditions;
+
+     (v)   enhanced access to employment and investment for underserved populations in distressed municipalities and qualified incentives tracts;
+
+     (vi)  increased investment and employment in high-growth technology sectors and in projects that entail collaboration with education institutions in the State;
+
+     (vii)  increased development proximate to mass transit facilities;
+
+     (viii)  any other factor deemed relevant by the authority.
+
+     c.     In the event that the authority in any year approves projects for tax credits in an amount less than the annual limitations set forth in paragraph (1) of subsection b. of this section, then the uncommitted portion of the annual limitation shall be available to be deployed by the authority in future years for projects under the same program; provided however, that in no event shall the aggregate amount of tax credits approved be in excess of the overall cap of $11.5 billion, and in no event shall the uncommitted portion of the annual limitation for any previous year be deployed after the conclusion of the nine-year period.
+
+     d.    Notwithstanding the provisions of any other law to the contrary, the uncommitted balance of the total value of tax credits authorized for award by the authority pursuant to subparagraph (f) of paragraph (1) of subsection b. of this section to the "New Jersey Aspire Program Act," sections 54 through 67 of P.L.2020, c.156 (C.34:1B-322 et seq.), and the "Emerge Program Act," sections 68 through 81 of P.L.2020, c.156 (C.34:1B-336 et al.), shall be made available for tax credits allowed to New Jersey studio partners, New Jersey film-lease production companies, and taxpayers, other than New Jersey studio partners and New Jersey film-lease production companies pursuant to sections 1 and 2 of P.L.2018, c.56 (C.54:10A-5.39b and C.54A:4-12b).  The value of tax credits, including tax credits allowed through the granting of tax credit transfer certificates, made available to New Jersey studio partners, New Jersey film-lease production companies, and taxpayers, other than New Jersey studio partners and New Jersey film-lease production companies pursuant to this subsection shall be as follows:
+
+     (1)   in fiscal year 2023, $250,000,000 for New Jersey studio partners and $250,000,000 for New Jersey film-lease production companies;
+
+     (2)   in fiscal year 2024, $250,000,000 for New Jersey studio partners and $250,000,000 for New Jersey film-lease production companies; and
+
+     (3)   in fiscal year 2025, $250,000,000 for New Jersey studio partners, $250,000,000 for New Jersey film-lease production companies, and $300,000,000 for taxpayers, other than New Jersey studio partners and New Jersey film-lease production companies.
+
+     If the value of tax credits, including tax credits allowed through the granting of tax credit transfer certificates, approved to New Jersey studio partners and New Jersey film-lease production companies in any fiscal year pursuant to this subsection is less than the cumulative total amount of tax credits permitted to be approved in that fiscal year, the authority shall certify the amount of the remaining tax credits available for approval to each such category in that fiscal year, and shall increase the cumulative total amount of tax credits permitted to be approved for New Jersey studio partners and New Jersey film-lease production companies in the subsequent fiscal year by the certified amount remaining for each such category from the prior fiscal year.
+
+ 
+
+     11.  This act shall take effect immediately.
+
+ 
+
+     Approved July 25, 2024.

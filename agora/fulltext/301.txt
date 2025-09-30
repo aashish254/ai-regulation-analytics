@@ -1,0 +1,27 @@
+A bill
+
+TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 63-5-380 SO AS TO PROHIBIT OPERATORS OF INTERNET-BASED APPLICATIONS FROM USING "AUTOMATED DECISION SYSTEMS" TO PLACE CONTENT ON SOCIAL MEDIA PLATFORMS FOR USERS UNDER THE AGE OF EIGHTEEN WHO ARE RESIDENTS OF THE STATE OF SOUTH CAROLINA, TO REQUIRE OPERATORS TO PERFORM AGE-VERIFICATION PRACTICES FOR CERTAIN USERS, TO ESTABLISH THAT A VIOLATION IS AN UNFAIR OR DECEPTIVE ACT OR PRACTICE UNDER THE SOUTH CAROLINA UNFAIR TRADE PRACTICES ACT, AND FOR OTHER PURPOSES.
+
+Be it enacted by the General Assembly of the State of South Carolina:
+SECTION 1.   Article 3, Chapter 5, Title 63 of the S.C. Code is amended by adding:
+
+   Section 63-5-380.   (A)(1) It is unlawful for any operator of a website, an online service, or an online or mobile application, including any social media platform, to utilize an automated decision system for content placement, including feeds, posts, advertisements, or product offerings, for a user under the age of eighteen who is a resident of the State of South Carolina.
+
+      (2) An operator that utilizes an automated decision system for content placement for residents of South Carolina who are eighteen years or older shall perform an age verification through an independent, third-party age-verification service that compares information available from public records to the personal information entered by the user to create an account to establish the individual is eighteen years of age or older, unless the operator employs the following protections to ensure age verification:
+
+         (a) the user creates an online profile or account with personal information including, but not limited to, name, address, and a valid phone number, and that personal information is verified through publicly available records; or
+
+         (b) the user is required to upload a copy of his or her government-issued identification in addition to a current photograph of the user.
+
+Age verification that is required, is shown, and reasonably is relied upon for the user's proof of age pursuant to this item is a defense to an action initiated pursuant to this section.
+
+      (3) Failure of an operator to perform age verification as required by item (2) is prima facie evidence of violation of this section.
+   (B)(1) A violation of subsection (A) is considered an unfair or deceptive act or practice under the South Carolina Unfair Trade Practices Act, pursuant to Section 39-5-20, and is enforceable by the Attorney General through an action for an injunction or for civil penalties, or both, pursuant to Sections 39-5-50 and 39-5-110.
+
+      (2) A user who suffers damages as a result of a violation of subsection (A) may bring an action individually to recover actual damages from the operator pursuant to Section 39-5-140.
+
+      (3) For purposes of calculating civil penalties pursuant to Section 39-5-110, each time an operator utilizes an automated decision system in violation of this section is considered a separate violation for each user under the age of eighteen who is a resident of this State.
+
+   (C) For purposes of this section, "automated decision system" means a computational process, including one derived from machine learning, statistics, or other data processing or artificial intelligence techniques, that makes a decision or facilitates human decision making and that impacts consumers.
+
+SECTION 2.   This act takes effect upon approval by the Governor.

@@ -1,0 +1,200 @@
+ SEC. 13. FILTER BUBBLE TRANSPARENCY REQUIREMENTS.
+
+
+(a) Definitions.—In this section:
+
+
+(1) ALGORITHMIC RANKING SYSTEM.—The term “algorithmic ranking system” means a computational process, including one derived from algorithmic decision-making, machine learning, statistical analysis, or other data processing or artificial intelligence techniques, used to determine the selection, order, relative prioritization, or relative prominence of content from a set of information that is provided to a user on a covered internet platform, including the ranking of search results, the provision of content recommendations, the display of social media posts, or any other method of automated content selection.
+
+
+(2) APPROXIMATE GEOLOCATION INFORMATION.—The term “approximate geolocation information” means information that identifies the location of an individual, but with a precision of less than 5 miles.
+
+
+(3) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+
+
+(4) CONNECTED DEVICE.—The term “connected device” means an electronic device that—
+
+
+(A) is capable of connecting to the internet, either directly or indirectly through a network, to communicate information at the direction of an individual;
+
+
+(B) has computer processing capabilities for collecting, sending, receiving, or analyzing data; and
+
+
+(C) is primarily designed for or marketed to consumers.
+
+
+(5) COVERED INTERNET PLATFORM.—
+
+
+(A) IN GENERAL.—The term “covered internet platform” means any public-facing website, internet application, or mobile application, including a social network site, video sharing service, search engine, or content aggregation service.
+
+
+(B) EXCLUSIONS.—Such term shall not include a platform that—
+
+
+(i) is wholly owned, controlled, and operated by a person that—
+
+
+(I) for the most recent 6-month period, did not employ more than 500 employees;
+
+
+(II) for the most recent 3-year period, averaged less than $50,000,000 in annual gross revenue; and
+
+
+(III) collects or processes on an annual basis the user-specific data of less than 1,000,000 users; or
+
+
+(ii) is operated for the sole purpose of conducting research that is not made for profit either directly or indirectly.
+
+
+(6) INPUT-TRANSPARENT ALGORITHM.—
+
+
+(A) IN GENERAL.—The term “input-transparent algorithm” means an algorithmic ranking system that does not use the user-specific data of a user to determine the selection, order, relative prioritization, or relative prominence of information that is furnished to such user on a covered internet platform, unless the user-specific data is expressly provided to the platform by the user for such purpose.
+
+
+(B) DATA PROVIDED FOR EXPRESS PURPOSE OF INTERACTION WITH PLATFORM.—For purposes of subparagraph (A), user-specific data that is provided by a user for the express purpose of determining the selection, order, relative prioritization, or relative prominence of information that is furnished to such user on a covered internet platform—
+
+
+(i) shall include user-supplied search terms, filters, speech patterns (if provided for the purpose of enabling the platform to accept spoken input or selecting the language in which the user interacts with the platform), saved preferences, and the current precise geolocation information that is supplied by the user;
+
+
+(ii) shall include the user's current approximate geolocation information;
+
+
+(iii) shall include data affirmatively supplied to the platform by the user that expresses the user's desire to receive particular information, such as the social media profiles the user follows, the video channels the user subscribes to, or other content or sources of content on the platform the user has selected;
+
+
+(iv) shall not include the history of the user's connected device, including the user's history of web searches and browsing, previous geographical locations, physical activity, device interaction, and financial transactions; and
+
+
+(v) shall not include inferences about the user or the user's connected device, without regard to whether such inferences are based on data described in clause (i) or (iii).
+
+
+(7) OPAQUE ALGORITHM.—
+
+
+(A) IN GENERAL.—The term “opaque algorithm” means an algorithmic ranking system that determines the selection, order, relative prioritization, or relative prominence of information that is furnished to such user on a covered internet platform based, in whole or part, on user-specific data that was not expressly provided by the user to the platform for such purpose.
+
+
+(B) EXCEPTION FOR AGE-APPROPRIATE CONTENT FILTERS.—Such term shall not include an algorithmic ranking system used by a covered internet platform if—
+
+
+(i) the only user-specific data (including inferences about the user) that the system uses is information relating to the age of the user; and
+
+
+(ii) such information is only used to restrict a user's access to content on the basis that the individual is not old enough to access such content.
+
+
+(8) PRECISE GEOLOCATION INFORMATION.—The term “precise geolocation information” means geolocation information that identifies an individual’s location to within a range of 5 miles or less.
+
+
+(9) SEARCH SYNDICATION CONTRACT; UPSTREAM PROVIDER; DOWNSTREAM PROVIDER.—
+
+
+(A) SEARCH SYNDICATION CONTRACT.—The term “search syndication contract” means a contract or subcontract for the sale of, license of, or other right to access an index of web pages or search results on the internet for the purpose of operating an internet search engine.
+
+
+(B) UPSTREAM PROVIDER.—The term “upstream provider” means, with respect to a search syndication contract, the person that grants access to an index of web pages or search results on the internet to a downstream provider pursuant to the contract.
+
+
+(C) DOWNSTREAM PROVIDER.—The term “downstream provider” means, with respect to a search syndication contract, the person that receives access to an index of web pages on the internet from an upstream provider under such contract.
+
+
+(10) USER-SPECIFIC DATA.—The term “user-specific data” means information relating to an individual or a specific connected device that would not necessarily be true of every individual or device.
+
+ (b) Requirement To Allow Users To See Unmanipulated Content On Internet Platforms.—
+
+
+(1) IN GENERAL.—Beginning on the date that is 1 year after the date of enactment of this Act, it shall be unlawful—
+
+
+(A) for any person to operate a covered internet platform that uses an opaque algorithm unless the person complies with the requirements of paragraph (2); or
+
+
+(B) for any upstream provider to grant access to an index of web pages on the internet under a search syndication contract that does not comply with the requirements of paragraph (3).
+
+
+(2) OPAQUE ALGORITHM REQUIREMENTS.—
+
+
+(A) IN GENERAL.—The requirements of this paragraph with respect to a person that operates a covered internet platform that uses an opaque algorithm are the following:
+
+
+(i) The person provides notice to users of the platform—
+
+
+(I) that the platform uses an opaque algorithm that uses user-specific data to select the content the user sees. Such notice shall be presented in a clear, conspicuous manner on the platform whenever the user interacts with an opaque algorithm for the first time, and may be a one-time notice that can be dismissed by the user; and
+
+
+(II) in the terms and conditions of the covered internet platform, in a clear, accessible, and easily comprehensible manner to be updated no less frequently than once every 6 months—
+
+
+(aa) the most salient features, inputs, and parameters used by the algorithm;
+
+
+(bb) how any user-specific data used by the algorithm is collected or inferred about a user of the platform, and the categories of such data;
+
+
+(cc) any options that the covered internet platform makes available for a user of the platform to opt out or exercise options under clause (ii), modify the profile of the user or to influence the features, inputs, or parameters used by the algorithm; and
+
+
+(dd) any quantities, such as time spent using a product or specific measures of engagement or social interaction, that the algorithm is designed to optimize, as well as a general description of the relative importance of each quantity for such ranking.
+
+
+(ii) The person makes available a version of the platform that uses an input-transparent algorithm and enables users to easily switch between the version of the platform that uses an opaque algorithm and the version of the platform that uses the input-transparent algorithm.
+
+
+(B) NONAPPLICATION TO CERTAIN DOWNSTREAM PROVIDERS.—Subparagraph (A) shall not apply with respect to an internet search engine if—
+
+
+(i) the search engine is operated by a downstream provider with fewer than 1,000 employees; and
+
+
+(ii) the search engine uses an index of web pages on the internet to which such provider received access under a search syndication contract.
+
+
+(3) SEARCH SYNDICATION CONTRACT REQUIREMENT.—The requirements of this paragraph with respect to a search syndication contract are that—
+
+
+(A) as part of the contract, the upstream provider makes available to the downstream provider the same input-transparent algorithm used by the upstream provider for purposes of complying with paragraph (2)(A)(ii); and
+
+
+(B) the upstream provider does not impose any additional costs, degraded quality, reduced speed, or other constraint on the functioning of such algorithm when used by the downstream provider to operate an internet search engine relative to the performance of such algorithm when used by the upstream provider to operate an internet search engine.
+
+
+(4) PROHIBITION ON DIFFERENTIAL PRICING.—A covered internet platform shall not deny, charge different prices or rates for, or condition the provision of a service or product to an individual based on the individual’s election to use a version of the platform that uses an input-transparent algorithm as provided under paragraph (2)(A)(ii).
+
+ (c) Enforcement By Federal Trade Commission.—
+
+
+(1) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.—A violation of this section by an operator of a covered internet platform shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+
+(2) POWERS OF COMMISSION.—
+
+
+(A) IN GENERAL.—Except as provided in subparagraph (C), the Federal Trade Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this section.
+
+
+(B) PRIVILEGES AND IMMUNITIES.—Except as provided in subparagraph (C), any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+
+
+(C) COMMON CARRIERS AND NONPROFIT ORGANIZATIONS.—Notwithstanding section 4, 5(a)(2), or 6 of the Federal Trade Commission Act (15 U.S.C. 44, 45(a)(2), 46) or any jurisdictional limitation of the Commission, the Commission shall also enforce this Act, in the same manner provided in subparagraphs (A) and (B) of this paragraph, with respect to—
+
+
+(i) common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and Acts amendatory thereof and supplementary thereto; and
+
+
+(ii) organizations not organized to carry on business for their own profit or that of their members.
+
+
+(D) AUTHORITY PRESERVED.—Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.
+
+
+(3) RULE OF APPLICATION.—Section 11 shall not apply to this section.
+
+
+(d) Rule Of Construction To Preserve Personalized Blocks.—Nothing in this section shall be construed to limit or prohibit a covered internet platform’s ability to, at the direction of an individual user or group of users, restrict another user from searching for, finding, accessing, or interacting with such user’s or group’s account, content, data, or online community.

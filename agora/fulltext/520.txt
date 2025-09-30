@@ -1,0 +1,101 @@
+ H. R. 6391
+
+
+To require the Department of Homeland Security to develop a comprehensive plan to identify, deploy, and integrate emerging technologies to achieve greater situational awareness along the northern and southern borders of the United States.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+November 13, 2023
+
+
+Ms. Slotkin (for herself, Ms. Spanberger, Mr. Garbarino, and Mr. Duarte) introduced the following bill; which was referred to the Committee on Homeland Security
+
+
+A BILL
+To require the Department of Homeland Security to develop a comprehensive plan to identify, deploy, and integrate emerging technologies to achieve greater situational awareness along the northern and southern borders of the United States.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Integrating New Technologies to Empower Law Enforcement at Our Borders Act”.
+
+
+SEC. 2. FINDINGS.
+
+
+Congress finds the following:
+
+
+(1) Our border security is directly tied to our national security.
+
+
+(2) U.S. Customs and Border Protection faces a daunting challenge in maintaining situational awareness along the United States northern and southern borders.
+
+
+(3) The United States northern border is the longest common non-militarized border between two countries.
+
+
+(4) The United States southern border is nearly 2,000 miles long, stretching across rugged and varied terrain.
+
+
+(5) Emerging technologies present an opportunity to reduce current strains on manpower while improving situational awareness along the northern and southern borders.
+
+
+(6) U.S. Customs and Border Protection is currently testing a number of emerging technology programs that will help improve situational awareness along the northern and southern borders.
+
+
+(7) Successfully integrating these technologies into a layered border defense requires a strategic plan for transitioning new programs from the testing and development stage to wide-scale implementation along both the northern and southern borders.
+
+ SEC. 3. COMPREHENSIVE PLAN TO ACHIEVE GREATER SITUATIONAL AWARENESS ALONG THE NORTHERN AND SOUTHERN BORDERS OF THE UNITED STATES.
+
+
+(a) In General.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall develop and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a plan to identify, deploy, and integrate emerging and advanced technologies, such as artificial intelligence, machine-learning, automation, fiber-optic sensing technology, nanotechnology, optical and cognitive radar, modeling and simulation technology, hyperspectral and LIDAR sensors, imaging, identification, and categorization systems, and other similar emerging and advanced technologies, to achieve greater situational awareness along the northern and southern borders of the United States between ports of entry.
+
+ (b) Contents.—The plan required under subsection (a) shall include the following:
+
+
+(1) An assessment of how U.S. Customs and Border Protection (CBP) is currently utilizing emerging and advanced technologies referred to in such subsection to achieve situational awareness along the northern and southern borders of the United States.
+
+
+(2) An assessment of how border security capability gaps can be addressed through the integration and deployment of such technologies.
+
+
+(3) Cost estimates for the acquisition and maintenance, as the case may be, of technologies referred to in such subsection.
+
+
+(4) Metrics to measure how technologies referred to in such subsection will assist in supporting CBP’s mission.
+
+
+(5) An assessment of how metrics referred to in paragraph (4) can be used to facilitate improvements in situational awareness at the northern and southern borders of the United States.
+
+
+(6) An assessment of how the integration of such technologies will support the improvement of multi-domain awareness capabilities.
+
+
+(7) An analysis of technologies used by other Federal departments and agencies not in use by CBP that could assist in improving situational awareness, and how such technologies would be utilized.
+
+
+(8) An analysis of authorities CBP can use to procure technologies referred to in such subsection, and whether additional or alternative authorities are needed.
+
+
+(9) An explanation of how CBP plans to scale existing programs related to emerging and advanced technologies and efficiently transition new technology systems into programs of record.
+
+
+(10) An assessment of CBP legacy technology programs that could be phased out and replaced by technologies referred to in such subsection and cost estimates relating to phasing out and replacing such programs.
+
+
+(11) Information relating to how CBP is coordinating with the Department of Homeland Security’s Science and Technology Directorate to—
+
+
+(A) research and develop new technologies to meet mission needs and address gaps in situational awareness; and
+
+
+(B) incentivize the private sector to develop technologies that will help meet mission needs to address gaps in situational awareness.
+
+
+(c) Definition.—In this section, the term “situational awareness” has the meaning given such term in section 1092(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 6 U.S.C. 223).

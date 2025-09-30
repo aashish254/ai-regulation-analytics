@@ -1,0 +1,87 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Improving Atmospheric River Forecasts Act”.
+
+SEC. 2. Atmospheric rivers forecast improvement program.
+
+(a) In general.—The Under Secretary, in collaboration with the weather enterprise in the United States and institutions of higher education, shall establish an atmospheric river forecast improvement program (in this section referred to as the “program”).
+
+(b) Program elements.—In carrying out the program, the Under Secretary shall seek to reduce the loss of life and property and economic losses from atmospheric rivers through the development and extension of, and research on, accurate, effective, and actionable forecasts and warnings, including by—
+
+(1) establishing quantitative atmospheric river forecast skill metrics that include the benefits of dynamical modeling, data assimilation, and machine learning improvements in the probabilistic forecasts of landfall location, extreme wind and precipitation, and cascading impacts;
+
+(2) developing an atmospheric river forecast system within a unified forecast system, and advancing next-generation coupled modeling systems, with the capability of providing seasonal to short-range atmospheric river forecasts that include forecast of snow accumulation and other hydrologic components;
+
+(3) advancing scientific understanding of the roles of atmospheric rivers in subseasonal to seasonal precipitation and probabilistic predictions at subseasonal and seasonal scales;
+
+(4) developing tools and improved forecast products to predict periods of active or inactive atmospheric river landfalls and inland penetration over the United States with a focus on addressing stakeholder and public needs related to perceiving, comprehending, and responding to atmospheric river forecast improvements;
+
+(5) enhancing the transition of research to operations through the testbeds of the National Oceanic and Atmospheric Administration, including the evaluation of physical and social science, technology, and other research to develop products and services for implementation and use by relevant stakeholders; and
+
+(6) incorporating social, behavioral, risk, communication, and economic sciences, including by collecting voluntary data regarding hazardous weather or water events.
+
+(c) Innovative observations, data assimilation, and modeling.—The Under Secretary shall ensure the program periodically examines, tests, and evaluates the value of incorporating innovative observations, such as observations from radar, observations from crewed or uncrewed aircraft, novel airborne and satellite-based measurements, data from ocean buoys, data from soil moisture monitoring systems, reservoir storage data, observations from mesonets, or any observations, measurements, or data from other emerging technologies, with respect to the improvement of atmospheric river analysis, modeling, forecasts, predictions, and warnings.
+
+(d) Improved modeling.—
+
+(1) IN GENERAL.—Under the program, the Under Secretary may improve modeling for precipitation forecasts, with an emphasis on forecasting for complex terrain.
+
+(2) IMPROVED PRECIPITATION FORECASTS.—Improved precipitation forecasts pursuant to improved modeling under paragraph (1) should support improved water resource management and resilience to extreme water-related events, from floods to drought, which may include the use of enhanced streamflow prediction.
+
+(3) ELEMENTS.—In improving modeling under paragraph (1), the Under Secretary may—
+
+(A) develop, test, and operationalize prototype high-resolution Atmospheric River Analysis and Forecasting System models through a research and operations partnership with partners outside the National Oceanic and Atmospheric Administration;
+
+(B) enhance data assimilation of current and new satellite and ocean observations;
+
+(C) improve data processing techniques;
+
+(D) use artificial intelligence and machine learning methods as applicable;
+
+(E) ensure the surface and subsurface observations of the ocean meet the needs of atmospheric river analysis and forecasting predictions on time scales from days, to weeks, to months, to seasons; and
+
+(F) improve or establish baseline weather monitoring service in areas that have historically experienced, or are predicted to experience, atmospheric rivers.
+
+(e) Atmospheric river reconnaissance.—
+
+(1) IN GENERAL.—The Under Secretary shall acquire and sustain adequate crewed and uncrewed aircraft, scientific equipment, and personnel necessary to meet mission requirements annually from November 1 through March 31 to—
+
+(A) ensure atmospheric river air reconnaissance observations are available throughout the expected seasons of atmospheric rivers;
+
+(B) meet air reconnaissance and research mission requirements of the National Oceanic and Atmospheric Administration, including with respect to tropical cyclones, high-impact weather, sea ice, atmospheric chemistry, climate, air quality for public health, fire weather research and operations, and other missions, including marine animal surveys, post-damage surveys, and coastal erosion reconnaissance;
+
+(C) ensure data and information collected by the aircraft are made available to all users for research and operations purposes;
+
+(D) participate in the research and operations partnership that guides flight planning and uses research methods to improve and expand the capabilities and effectiveness of atmospheric river reconnaissance over time;
+
+(E) develop data management strategies to ensure that data and metadata are adequately stewarded, maintained, and archived in accordance with collective benefit, authority to control, responsibility, and ethics principles (commonly known as “CARE” principles), findable, accessible, interoperable, and reusable principles (commonly known as “FAIR” principles), and the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435; 132 Stat. 5529) and the amendments made by that Act, and preserve and curate such data and metadata in accordance with chapter 31 of title 44, United States Code (commonly known as the “Federal Records Act of 1950”);
+
+(F) maintain or establish within the Office of Oceanic and Atmospheric Research not fewer than one atmospheric river observatory, which shall include water vapor flux analyses and forecasts, radar and disdrometer precipitation analyses, and snow level radars in all States along the West Coast of the United States, including Alaska, to ensure equal and comprehensive coverage of that region; and
+
+(G) undertake such other additional activities as the Under Secretary, in consultation with the Secretary of the Air Force, considers appropriate to improve and grow the atmospheric river reconnaissance mission.
+
+(f) Improved atmospheric river hazard communication.—Under the program, the Under Secretary shall consider research and development activities to—
+
+(1) as appropriate, develop and refine methods to categorize the intensity of atmospheric rivers on a quantitative scale and the impacts of such a scale in hazard communication;
+
+(2) develop best practices for communication of atmospheric river events and hazards across regions of the United States;
+
+(3) gather information from areas prone to atmospheric rivers regarding levels of knowledge and preparedness, including responses to early forecasts and warnings by the National Oceanic and Atmospheric Administration; and
+
+(4) explore strategies and effectiveness of communicating that atmospheric river events are beneficial at lower intensities versus hazardous at higher intensities.
+
+(g) Program plan.—Not later than 270 days after the date of the enactment of this Act, the Under Secretary, in consultation with the Secretary of the Air Force or the Commander of the 53rd Weather Reconnaissance Squadron of the Air Force Reserve Command, shall—
+
+(1) develop a plan that details the specific research, development, data acquisition, partnerships with institutions of higher education, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the goals of the program under subsection (b);
+
+(2) submit that plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives; and
+
+(3) make that plan available to the public.
+
+(h) Definitions.—In this section:
+
+(1) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+
+(2) SEASONAL; SUBSEASONAL; UNDER SECRETARY; WEATHER ENTERPRISE.—The terms “seasonal”, “subseasonal”, “Under Secretary”, and “weather enterprise” have the meanings given those terms in section 2 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501).

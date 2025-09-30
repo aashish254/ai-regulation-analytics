@@ -1,0 +1,87 @@
+Directive on Automated Decision-Making
+1. Effective date
+1.1 This directive takes effect on April 1, 2019, with compliance required by no later than April 1, 2020.
+1.2 This directive applies to all automated decision systems developed or procured after April 1, 2020. However,
+1.2.1 existing systems developed or procured prior to April 25, 2023 will have until April 25, 2024 to fully transition to the requirements in subsections 6.2.3, 6.3.1, 6.3.4, 6.3.5 and 6.3.6 in this directive;
+1.2.2 new systems developed or procured after April 25, 2023 will have until October 25, 2023 to meet the requirements in this directive.
+1.3 This directive will be reviewed every two years, and as determined by the Chief Information Officer of Canada.
+1. Authorities
+	2.1 This directive is issued pursuant to the same authority indicated in section 2 of the Policy on Service and Digital.
+1. Definitions
+	3.1 Definitions to be used in the interpretation of this directive are listed in Appendix A.
+1. Objectives and expected results
+4.1 The objective of this directive is to ensure that automated decision systems are deployed in a manner that reduces risks to clients, federal institutions and Canadian society, and leads to more efficient, accurate, consistent and interpretable decisions made pursuant to Canadian law.
+4.2 The expected results of this directive are as follows:
+4.2.1 Decisions made by federal institutions are data-driven, responsible and comply with procedural fairness and due process requirements.
+4.2.2 Impacts of algorithms on administrative decisions are assessed and negative outcomes are reduced, when encountered.
+4.2.3 Data and information on the use of automated decision systems in federal institutions are made available to the public, where appropriate.
+1. Scope
+5.1 This directive applies to any system, tool, or statistical model used to make an administrative decision or a related assessment about a client.
+5.2 This directive applies only to automated decision systems in production and excludes systems operating in test environments.1. Requirements
+The Assistant Deputy Minister responsible for the program using the automated decision system, or any other person named by the Deputy Head, is responsible for:
+6.1 Algorithmic Impact Assessment
+	6.1.1 Completing and releasing the final results of an Algorithmic Impact Assessment prior to the production of any automated decision system.
+	6.1.2 Applying the relevant requirements prescribed in Appendix C as determined by the Algorithmic Impact Assessment.
+	6.1.3 Reviewing and updating the Algorithmic Impact Assessment on a scheduled basis, including when the functionality or scope of the automated decision system changes.
+	6.1.4 Releasing the final results of the Algorithmic Impact Assessment in an accessible format via Government of Canada websites and any other services designated by the Treasury Board of Canada Secretariat pursuant to the Directive on Open Government.6.2 Transparency
+Providing notice before decisions
+	6.2.1 Providing notice through all service delivery channels in use that the decision rendered will be undertaken in whole or in part by an automated decision system, as prescribed in Appendix C.
+	6.2.2 Providing notices prominently and in plain language, pursuant to the Canada.ca Content Style Guide.
+Providing explanations after decisions
+6.2.3 Providing a meaningful explanation to affected individuals of how and why the decision was made, as prescribed in Appendix C.
+Access to components
+	6.2.4 Determining the appropriate licence for software components, including consideration of open source software in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework.
+	6.2.5 If using a proprietary licence, ensuring that:
+	6.2.5.1 All released versions of proprietary software components used for automated decision systems are delivered to, and safeguarded by, the department.
+	6.2.5.2 The Government of Canada retains the right to access and test automated decision systems, including all released versions of proprietary software components, in case it is necessary for a specific audit, investigation, inspection, examination, enforcement action, or judicial proceeding, subject to safeguards against unauthorized disclosure.
+	6.2.5.3 As part of this access, the Government of Canada retains the right to authorize external parties to review and audit these components as necessary.
+Release of source code
+	6.2.6 Releasing custom source code owned by the Government of Canada in accordance with the measures specified in the Government of Canada Enterprise Architecture Framework, unless:
+	6.2.6.1 the source code is processing data classified as Secret, Top Secret or Protected C; or
+	6.2.6.2 disclosure would otherwise be exempted or excluded under the Access to Information Act, if the Access to Information Act were to apply.
+	6.2.7 Determining the appropriate access restrictions to the released source code.
+Documenting decisions
+	6.2.8 Documenting the decisions of automated decision systems in accordance with the Directive on Service and Digital, and in support of the monitoring (6.3.2), data governance (6.3.4) and reporting requirements (6.5.1).6.3 Quality assurance
+Testing and monitoring outcomes
+6.3.1 Before launching into production, developing processes so that the data and information used by the automated decision system, as well as the system’s underlying model, are tested for unintended biases and other factors that may unfairly impact the outcomes.
+6.3.2 Developing processes to monitor the outcomes of the automated decision system to safeguard against unintentional outcomes and to verify compliance with institutional and program legislation, as well as this directive, on a scheduled basis.
+Data quality
+	6.3.3 Validating that the data collected for, and used by, the automated decision system is relevant, accurate, up-to-date, and in accordance with the Policy on Service and Digital and the Privacy Act.
+Data governance
+	6.3.4 Establishing measures to ensure that data used and generated by the automated decision system are traceable, protected and accessed appropriately, and lawfully collected, used, retained and disposed of in accordance with the Directive on Service and Digital, Directive on Privacy Practices, and Directive on Security Management.
+Peer review
+6.3.5 Consulting the appropriate qualified experts to review the automated decision system and publishing the complete review or a plain language summary of the findings prior to the system’s production, as prescribed in Appendix C.
+Gender-based Analysis Plus
+6.3.6 Completing a Gender-based Analysis Plus during the development or modification of the automated decision system, as prescribed in Appendix C.
+Employee training
+6.3.7 Providing adequate employee training in the design, function, and implementation of the automated decision system to be able to review, explain and oversee its operations, as prescribed in Appendix C.
+IT and business continuity management
+	6.3.8 Establishing strategies, plans and/or measures to support IT and business continuity management, as prescribed in Appendix C and in accordance with the Directive on Security Management.
+Security
+	6.3.9 Conducting risk assessments during the development of the automated decision system and establishing appropriate safeguards, in accordance with the Policy on Government Security.
+Legal
+6.3.10 Consulting with the institution’s legal services from the concept stage of an automation project to ensure that the use of the automated decision system is compliant with applicable legal requirements.
+Ensuring human intervention
+6.3.11 Ensuring that the automated decision system allows for human intervention, when appropriate, as prescribed in Appendix C.
+6.3.12 Obtaining the appropriate level of approvals prior to the production of an automated decision system, as prescribed in Appendix C.6.4 Recourse
+6.4.1 Providing clients with any applicable recourse options that are available to them to challenge the administrative decision.
+6.5 Reporting
+6.5.1 Publishing information on the effectiveness and efficiency of the automated decision system in meeting program objectives on a website or service designated by the Treasury Board of Canada Secretariat.7. Consequences
+	7.1 Consequences of non-compliance with this directive can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances.
+	7.2 For an outline of the consequences of non‑compliance, refer to the Framework for the Management of Compliance, Appendix C: Consequences for Institutions and Appendix D: Consequences for Individuals.8. Roles and responsibilities of Treasury Board of Canada Secretariat
+Subject to the necessary delegations, the Chief Information Officer of Canada is responsible for:
+8.1  Providing government-wide guidance on the use of automated decision systems.
+8.2  Developing and maintaining the Algorithmic Impact Assessment and any supporting documentation.
+8.3  Communicating and engaging government-wide and with partners in other jurisdictions and sectors to develop common strategies, approaches, and processes to support the responsible use of automated decision systems.9. Application
+	9.1 This directive applies to all institutions subject to the Policy on Service and Digital, unless excluded by specific acts, regulations or Orders-in-Council;
+	9.1.1 Agents of Parliament are excluded from this directive, including the:
+	Office of the Auditor General of Canada,
+	Office of the Chief Electoral Officer,
+	Office of the Commissioner of Lobbying of Canada,
+	Office of the Commissioner of Official Languages,
+	Office of the Information Commissioner of Canada,
+	Office of the Privacy Commissioner of Canada, and
+	Office of the Public Sector Integrity Commissioner of Canada.
+	9.2 Agencies, Crown Corporations, or Agents of Parliament may enter into Specific Agreements with the Treasury Board of Canada Secretariat to adopt the requirements of this directive and apply them to their organization, as required.
+
+[Concluding material omitted.]

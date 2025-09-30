@@ -1,0 +1,464 @@
+ H. R. 6349
+
+
+To prohibit or require notification with respect to certain activities of United States persons involving countries of concern, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+November 9, 2023
+Mr. McCaul (for himself and Mr. Meeks) introduced the following bill; which was referred to the Committee on Foreign Affairs
+
+
+A BILL
+To prohibit or require notification with respect to certain activities of United States persons involving countries of concern, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Preventing Adversaries from Developing Critical Capabilities Act”.
+
+ SEC. 2. EXERCISE OF AUTHORITIES UNDER THE INTERNATIONAL EMERGENCY ECONOMIC POWERS ACT.
+
+
+(a) In General.—The President may exercise all authorities provided under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) necessary to carry out the provisions of this Act, including authorities to impose penalties under section 206 of such Act.
+
+
+(b) Delegation.—The President may delegate the authorities described in subsection (a) to the head of any Federal agency the President determines appropriate in order to carry out the provisions of this Act.
+
+ SEC. 3. PROHIBITION ON COVERED ACTIVITIES IN COVERED SECTORS THAT POSE PARTICULARLY ACUTE THREATS TO UNITED STATES NATIONAL SECURITY.
+
+
+(a) Identification Of Categories Of Technologies And Products.—
+
+
+(1) IN GENERAL.—Not later than one year after the date of the enactment of this Act, and annually thereafter as described in paragraph (2), the President—
+
+
+(A) shall identify categories of technologies and products in covered sectors that may pose a particularly acute threat to the national security of the United States if developed or acquired by a country of concern; and
+
+
+(B) publish a list of the categories of technologies and products identified under paragraph (1) in the Federal Register.
+
+
+(2) UPDATES.—The President shall annually review and update the list of the categories of technologies and products identified under paragraph (1)(A) and update the Federal Register under paragraph (1)(B) as appropriate.
+
+
+(b) Prohibition On Covered Activities.—The President shall, on or after the date on which the initial list of categories of technologies and products is published in the Federal Register pursuant to subsection (a)(1)(B), prescribe, subject to public notice and comment, regulations to prohibit a United States person from engaging, directly or indirectly, in a covered activity involving a category of technologies and products on such list of categories of technologies and products in a covered sector. Such regulations should—
+
+
+(1) require that a United States person take all reasonable steps to prohibit and prevent any transaction by a foreign entity under the control of the United States person that would be a prohibited transaction if engaged in by a United States person; and
+
+
+(2) exclude any transaction consisting of the acquisition of an equity or other interest in an entity located outside a country of concern, where the President has determined that the government of the country in which that entity is established or has its principal place of business has in place a program for the restriction of certain activities involving countries of concern that is comparable to the provisions provided for in this Act.
+
+
+(c) Sense Of Congress.—It is the sense of Congress that the covered sectors include certain categories of technologies and products that would pose a particularly acute threat to the national security of the United States if developed or acquired by a country of concern, and that the President should identify certain technologies and products in the covered sectors as categories of technologies and products in covered sectors for purposes of subsection (a)(1).
+
+ SEC. 4. MANDATORY NOTIFICATION OF COVERED ACTIVITIES IN COVERED SECTORS THAT MAY POSE THREATS TO UNITED STATES NATIONAL SECURITY.
+
+
+(a) Identification Of Categories Of Technologies And Products.—Not later than one year after the date of the enactment of this Act, the President shall—
+
+
+(1) identify categories of technologies and products in covered sectors that may pose a threat to the national security of the United States if developed or acquired by a country of concern;
+
+
+(2) publish a list of the categories of technologies and products identified under paragraph (1) in the Federal Register; and
+
+
+(3) annually thereafter, review the categories of technologies and products identified under paragraph (1) and publish an updated list of the categories of technologies and products in the Federal Register under paragraph (2) if the list identified in paragraph (2) has changed.
+
+
+(b) Mandatory Notification.—
+
+
+(1) IN GENERAL.—Beginning on the date that is 90 days after the date on which the initial list of categories of technologies and products is published in the Federal Register pursuant to subsection (a)(2), a United States person engaging in a covered activity involving a category identified in subsection (a)(1), or controlling a foreign entity engaging in an activity that would be a covered activity if engaged in by a United States person, shall submit to the President a complete written notification of the activity not later than 14 days after the completion date of the activity.
+
+
+(2) CIRCULATION OF NOTIFICATION.—
+
+
+(A) IN GENERAL.—The President shall, upon receipt of a notification under paragraph (1), promptly inspect the notification for completeness.
+
+
+(B) INCOMPLETE NOTIFICATION.—If a notification submitted under paragraph (1) is incomplete, the President shall promptly inform the United States person that submits the notification that the notification is not complete and provide an explanation for relevant material respect in which the notification is not complete.
+
+
+(3) IDENTIFICATION OF NON-NOTIFIED ACTIVITY.—The President shall establish a process to identify a covered activity involving a category identified under subsection (a)(1) for which—
+
+
+(A) a notification is not submitted to the President under paragraph (1); and
+
+
+(B) information is reasonably available.
+
+
+(c) Confidentiality Of Information.—
+
+
+(1) IN GENERAL.—Except as provided in paragraph (2), any information or documentary material filed with the President pursuant to this section shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code, and no such information or documentary material may be made public by any government agency or Member of Congress.
+
+
+(2) EXCEPTIONS.—Subject to appropriate confidentiality and classification requirements, the exemption from disclosure provided by paragraph (1) shall not prevent the disclosure of the following:
+
+
+(A) Information relevant to any administrative or judicial action or proceeding.
+
+
+(B) Information provided to Congress or any of the appropriate congressional committees.
+
+
+(C) Information important to national security analysis or actions of the President to any domestic government entity, or to any foreign governmental entity of an ally or partner of the United States, under the direction and authorization of the President, only to the extent necessary for national security purposes.
+
+
+(D) Information that the parties have consented to be disclosed to third parties.
+
+ SEC. 5. REPORTING REQUIREMENTS.
+
+
+(a) In General.—Not later than one year after the date on which the regulations prescribed under section 6 take effect, and not less frequently than annually thereafter, the President shall submit to the appropriate congressional committees a report that—
+
+
+(1) lists all notifications submitted under section 4(b) during the year preceding submission of the report, disaggregated by—
+
+
+(A) sector;
+
+
+(B) covered activity;
+
+
+(C) covered foreign entity; and
+
+
+(D) country of concern;
+
+
+(2) an assessment of whether to amend the regulations, including whether to amend the definition of “covered sectors” to enhance national security;
+
+
+(3) provides additional context and information regarding trends in the sectors, the types of covered activity, and the countries involved in those notifications, including—
+
+
+(A) the location of the relevant covered foreign entities; and
+
+
+(B) the country in which the United States person or foreign entity controlled by such United States person involved in the relevant covered activity is located; and
+
+
+(4) assesses the overall impact of those notifications, including recommendations for—
+
+
+(A) expanding existing Federal programs to support the production or supply of covered sectors in the United States, including the potential of existing authorities to address any related national security concerns; and
+
+
+(B) the continuation, expansion, or modification of the implementation and administration of this Act.
+
+
+(b) Form.—Each report required by this section shall be submitted in unclassified form, but may include a classified annex.
+
+
+(c) Prohibition On Disclosure.—Information contained in each report required by this section may be withheld from disclosure only to the extent otherwise permitted by statute, except that all information included pursuant to subsection (a)(1) shall be withheld from public disclosure.
+
+ SEC. 6. REQUIREMENT FOR REGULATIONS.
+
+
+(a) In General.—Not later than 180 days after the date on which the initial list of categories of technologies and products have been published in the Federal Register pursuant to sections 3(a)(1)(B) and 4(a)(2), the President shall prescribe and finalize proposed regulations to carry out this Act.
+
+
+(b) Elements.—Regulations prescribed to carry out this Act shall specify—
+
+
+(1) the types of activities that will be considered to be covered activities;
+
+
+(2) the technologies and products in covered sectors with respect to which covered activities are prohibited under section 3(b) or require a notification under section 4(b); and
+
+
+(3) a process by which parties can ask questions and get timely guidance as to whether a covered activity is prohibited under section 3(b) or requires a notification under section 4(b).
+
+
+(c) Requirements For Certain Regulations.—The President shall prescribe regulations further defining the terms used in this Act, including the terms “covered activity”, “covered foreign entity”, and “party”, to maximize the effectiveness of carrying out this Act in accordance with subchapter II of chapter 5 and chapter 7 of title 5 (commonly known as the “Administrative Procedure Act”).
+
+
+(d) Public Notice And Comment.—Regulations issued pursuant to subsection (a) shall be subject to public notice and comment.
+
+
+(e) Low-Burden Regulations.—In prescribing regulations under this section, the President shall, to the extent practicable, structure the regulations—
+
+
+(1) to minimize the cost and complexity of compliance for affected parties;
+
+
+(2) to ensure the benefits of the regulations outweigh their costs;
+
+
+(3) to adopt the least burdensome alternative that achieves regulatory objectives;
+
+
+(4) to prioritize transparency and stakeholder involvement in the process of prescribing the regulations; and
+
+
+(5) to regularly review and streamline existing regulations promulgated pursuant to this Act to reduce redundancy and complexity.
+
+
+(f) Penalties With Respect To Unlawful Acts.—Regulations issued under this section shall, consistent with the authority provided by section 2(a), provide for the imposition of civil penalties for violations of this section, that involve—
+
+
+(1) engaging in a covered activity prohibited under section 3(b) pursuant to the regulations issued under this section;
+
+
+(2) failing to submit a timely notification under section 4(b) with respect to a covered activity or to submit other information as required by the designated agency; or
+
+
+(3) submitting a material misstatement or omitting a material fact in any information submitted in a notification under section 4(b).
+
+
+(g) Enforcement.—Consistent with the authority provided by section 2(a), the President may direct the Attorney General to seek appropriate relief in the district courts of the United States, in order to implement and enforce this Act.
+
+
+(h) Congressional Notification.—The President shall submit to the appropriate congressional committees all regulations prescribed to carry out this Act not later than 30 days before such regulations are to take effect.
+
+ SEC. 7. MULTILATERAL ENGAGEMENT AND COORDINATION.
+
+
+(a) In General.—The President shall delegate the authorities and functions under this section to the Secretary of State.
+
+
+(b) Authorities.—The Secretary of State, in coordination with the heads or other relevant Federal agencies, should—
+
+
+(1) conduct bilateral and multilateral engagement with the governments of countries that are allies and partners of the United States to promote and increase coordination of protocols and procedures to facilitate the effective implementation of and appropriate compliance with the prohibitions and notifications pursuant to this Act;
+
+
+(2) upon adoption of protocols and procedures described in paragraph (1), work with those governments to establish mechanisms for sharing information, including trends, with respect to such activities; and
+
+
+(3) work with and encourage the governments of countries that are allies and partners of the United States to develop similar mechanisms of their own.
+
+
+(c) Strategy For Multilateral Engagement And Coordination.—Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with the heads of other relevant Federal agencies, should—
+
+
+(1) develop a strategy to work with the governments of countries that are allies and partners of the United States to develop mechanisms that are comparable to the prohibitions and notifications pursuant to this Act; and
+
+
+(2) assess opportunities to provide technical assistance to those countries with respect to the development of those mechanisms.
+
+
+(d) Report.—Not later than one year after the date of the enactment of this Act, and annually thereafter for 4 years, the Secretary of State shall submit to the appropriate congressional committees a report that includes—
+
+
+(1) a discussion of any strategy developed pursuant to subsection (c)(1), including key tools and objectives for the development of comparable mechanisms by the governments of allies and partners of the United States;
+
+
+(2) a list of partner and allied countries to target for cooperation in developing their own screening programs;
+
+
+(3) the status of the strategy’s implementation and outcomes; and
+
+
+(4) a description of impediments to the establishment of comparable mechanisms by governments of allies and partners of the United States.
+
+ SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+
+(a) In General.—There is authorized to be appropriated $25,000,000, to be derived from amounts otherwise authorized to be appropriated to the President, for each of the first two fiscal years beginning on or after the date of the enactment of this Act, to carry out this Act, including to provide outreach to industry and persons affected by this Act.
+
+
+(b) Hiring Authority.—
+
+
+(1) PRESIDENT.—The President may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, not more than 15 candidates directly to positions in the competitive service (as defined in section 2102 of that title).
+
+
+(2) AGENCY.—The head of the Federal department or agency designated under section 2(b) to hold primary responsibility for administering this Act may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, not fewer than 25 candidates directly to positions in the competitive service (as defined in section 2102 of that title) of such department or agency.
+
+
+(3) PRIMARY RESPONSIBILITY.—The primary responsibility of individuals in positions authorized to be hired under this subsection shall be to administer this Act.
+
+ SEC. 9. RULE OF CONSTRUCTION.
+
+
+Nothing in this Act may be construed to—
+
+
+(1) restrain or deter United States activities abroad if such activities do not pose a risk to the national security of the United States; or
+
+
+(2) alter or negate the authority of the President under any authority, process, regulation, investigation, enforcement measure, or review provided by or established under any other provision of Federal law, or any other authority of the President or the Congress under the Constitution of the United States.
+
+ SEC. 10. NATIONAL INTEREST WAIVER.
+
+
+(a) In General.—Subject to subsection (b), the President is authorized to exempt from any applicable prohibition or notification requirement any activity determined by the President, in consultation with the heads of relevant Federal agencies, as appropriate, to be in the national interest of the United States.
+
+
+(b) Congressional Notification.—The President shall—
+
+
+(1) notify the appropriate congressional committees not later than 48 hours after issuing a waiver under subsection (a); and
+
+
+(2) include in such notification an identification of the national interest justifying the use of the waiver.
+
+ SEC. 11. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+
+
+(A) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Ways and Means, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+
+(B) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
+
+
+(2) COUNTRY OF CONCERN.—The term “country of concern”—
+
+
+(A) means—
+
+
+(i) the Democratic People’s Republic of North Korea;
+
+
+(ii) the People’s Republic of China, including the Hong Kong Special Administrative Region and the Macau Special Administrative Region;
+
+
+(iii) the Russian Federation; and
+
+
+(iv) the Islamic Republic of Iran; and
+
+
+(B) includes any other country the President determines necessary to ensure a country specified in clause (i), (ii), (iii), or (iv) of subparagraph (A) is unable to circumvent the provisions of this Act and the regulations issued pursuant to this Act.
+
+
+(3) COVERED ACTIVITY.—
+
+
+(A) IN GENERAL.—Subject to such regulations as may be prescribed in accordance with section 7, and except as provided in subparagraph (B), the term “covered activity” means any activity engaged in by a United States person that involves—
+
+
+(i) an acquisition by such United States person of an equity interest or contingent equity interest, or monetary capital contribution, in a covered foreign entity, directly or indirectly, by contractual commitment or otherwise, with the goal of generating income or gain;
+
+
+(ii) an arrangement for an interest held by such United States person in the short- or long-term debt obligations of a covered foreign entity that includes governance rights that are characteristic of an equity investment, management, or other important rights;
+
+
+(iii) the establishment of a wholly owned subsidiary in a country of concern, such as a greenfield investment, for the purpose of production, design, testing, manufacturing, fabrication, or development related to one or more covered sectors;
+
+
+(iv) the establishment by such United States person of a joint venture in a country of concern or with a covered foreign entity for the purpose of production, design, testing, manufacturing, fabrication, or research, or other contractual or other commitments involving a covered foreign entity to jointly research and develop new innovation, including through the transfer of capital or intellectual property or other business proprietary information; or
+
+
+(v) the acquisition by a United States person with a covered foreign entity of—
+
+
+(I) operational cooperation, such as through supply or support arrangements;
+
+
+(II) the right to board representation (as an observer, even if limited, or as a member) or an executive role (as may be defined through regulation) in a covered foreign entity;
+
+
+(III) the ability to direct or influence such operational decisions as may be defined through such regulations;
+
+
+(IV) formal governance representation in any operating affiliate, such as a portfolio company, of a covered foreign entity; or
+
+
+(V) a new relationship to share or provide business services, such as financial services, marketing services, maintenance, or assembly functions; or
+
+
+(vi) knowingly directing transactions by foreign persons that would constitute covered activity if engaged in by a United States person.
+
+
+(B) EXCEPTIONS.—The term “covered activity” does not include—
+
+
+(i) any transaction the value of which the President determines is de minimis, as defined in regulations prescribed in accordance with section 6;
+
+
+(ii) any category of transactions that the President determines is in the national interest of the United States, as may be defined in regulations prescribed in accordance with section 6;
+
+
+(iii) an investment in—
+
+
+(I) a publicly traded security (as such term is defined in section 3(a)(10) of the Securities Exchange Act of 1934); or
+
+
+(II) an index fund, mutual fund, exchange-traded fund, or a similar instrument (including associated derivatives) offered by an investment company (as such term is defined in section 3(a)(1) of the Investment Company Act of 1940), or by a private investment fund;
+
+
+(III) a venture capital fund, private equity fund, fund of funds, or other pooled investment funds, as the limited partner, in each case in which the limited partner’s contribution is solely capital in a limited partnership structure and—
+
+
+(aa) the limited partner cannot make managerial decisions, is not responsible for any debts beyond its investment, and does not have the ability (formally or informally) to influence or participate in the fund’s or a covered foreign entity’s decision making or operations; and
+
+
+(bb) the investment is below a de minimis threshold to be determined by the President;
+
+
+(iv) the acquisition of the equity or other interest owned or held by a covered foreign entity in an entity or assets located outside of a country of concern in which the United States person is acquiring all interests in the entity or assets held by covered foreign entity;
+
+
+(v) an intracompany transfer of funds from a United States parent company to a subsidiary located in a country of concern;
+
+
+(vi) a transaction made pursuant to a binding, uncalled capital commitment entered into before the date on which the regulations prescribed in accordance with section 6 take effect; or
+
+
+(vii) any ordinary or administrative business transaction as may be defined in such regulations.
+
+
+(4) COVERED FOREIGN ENTITY.—Subject to regulations prescribed in accordance with section 6, the term “covered foreign entity” means the following:
+
+
+(A) Any entity that is incorporated in, has a principal place of business in, or is organized under the laws of a country of concern.
+
+
+(B) Any entity the equity securities of which are traded in the ordinary course of business on one or more exchanges in a country of concern.
+
+
+(C) Any agency or instrumentality of the government of a country of concern.
+
+
+(D) Any other entity that is not a United States person and that meets such criteria as may be specified by the President in such regulations prescribed in accordance with section 6.
+
+
+(5) COVERED SECTORS.—Subject to regulations prescribed in accordance with section 6, the term “covered sectors” includes sectors within the following areas:
+
+
+(A) Semiconductors and microelectronics.
+
+
+(B) Artificial intelligence.
+
+
+(C) Quantum information science and technology.
+
+
+(D) Hypersonics.
+
+
+(E) High-performance computing and supercomputing.
+
+
+(6) PARTY.—The term “party”, with respect to an activity, has the meaning given that term in regulations prescribed in accordance with section 7.
+
+
+(7) UNITED STATES PERSON.—The term “United States person” means—
+
+
+(A) an individual who is a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+
+(B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including any foreign branch of such an entity.

@@ -1,0 +1,24 @@
+AN ACT to amend Tennessee Code Annotated, Title 39 and Title 40, relative to the sexual exploitation of children.
+
+
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+
+SECTION 1. Tennessee Code Annotated, Section 39-17-1002, is amended by deleting subdivision (2)(E) and substituting:
+
+
+(E) Any computer image, or computer-generated image, including an image created, adapted, or modified by artificial intelligence, whether made or produced by electronic, mechanical, or other means;
+
+
+SECTION 2. Tennessee Code Annotated, Section 39-17-1002, is amended by adding the following new subdivisions:
+( ) "Artificial intelligence":
+(A) Means a machine-based system that:
+(i) Can, for a given set of human-defined objectives, make predictions, recommendations, or decisions; influence real and virtual environments without significant human oversight; or that can learn from experience in an automated manner and improve such performance when exposed to data sets; or
+(ii) Is developed in any context, including software or physical hardware, and solves tasks requiring human-like perception, cognition, planning, learning, communication, or physical action; and
+(B) Includes generative artificial intelligence;
+
+
+( ) "Generative artificial intelligence" means an artificial intelligence system that is capable of creating new content or data, including text, images, audio, or video, when prompted by an individual;
+
+
+SECTION 3. This act takes effect July 1, 2024, the public welfare requiring it.

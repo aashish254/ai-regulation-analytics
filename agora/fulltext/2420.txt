@@ -1,0 +1,227 @@
+SEC. 2. Department of Energy quantum information science research program.
+
+
+Section 401 of the National Quantum Initiative Act (15 U.S.C. 8851) is amended—
+
+
+(1) by striking subsection (a) and inserting the following:
+“(a) In general.—The Secretary of Energy shall carry out a research, development, and demonstration program on quantum information science, engineering, and technology.”;
+
+
+(2) in subsection (b)—
+(A) in paragraph (1), by inserting “, engineering, and technology” after “science”;
+(B) in paragraph (2), by inserting “, engineering, and technology” after “science”;
+(C) by striking paragraph (3) and inserting the following:
+
+
+“(3) provide research experiences and training for additional undergraduate and graduate students in quantum information science, engineering, and technology, including in the fields specified in paragraph (4);”;
+
+
+(D) by redesignating paragraphs (3) through (5) as paragraphs (5) through (7), respectively;
+
+
+(E) by inserting after paragraph (2) the following:
+
+
+“(3) operate National Quantum Information Science Research Centers under section 402 to accelerate and scale scientific and technical breakthroughs in quantum information science, engineering, and technology, and maintain state-of-the-art infrastructure for quantum researchers and industry partners;
+
+
+“(4) conduct cooperative basic and applied research with industry, National Laboratories, institutions of higher education, and other research institutions to facilitate the development, demonstration, and commercial application of quantum information science, engineering, and technology priorities, as determined by the Secretary of Energy, including in the fields of—
+“(A) quantum information theory;
+“(B) quantum physics;
+“(C) quantum computational science, including hardware and software, machine learning, and data science;
+“(D) applied mathematics and algorithm development;
+“(E) quantum communications and networking, including hardware and software for quantum communications and networking;
+“(F) quantum sensing, imaging, and detection;
+“(G) materials science and engineering;
+“(H) quantum modeling and simulation, including molecular modeling;
+“(I) near- and long-term application development, as determined by the Secretary of Energy;
+“(J) quantum chemistry;
+“(K) quantum biology;
+“(L) superconductive and high-performance microelectronics; and
+“(M) quantum security technologies;”;
+
+
+(F) in paragraph (6) (as so redesignated), in subparagraph (F), by striking “and” at the end;
+
+
+(G) in paragraph (7) (as so redesignated)—
+
+
+(i) by striking “and” before “potential”; and
+
+
+(ii) by striking the period at the end and inserting “, and other relevant stakeholders, as determined by the Secretary of Energy; and”; and
+
+
+(H) by adding at the end the following:
+
+
+“(8) leverage the collective body of knowledge and data, including experience and resources from existing Federal research activities and commercially available quantum computing hardware and software, to the extent practicable.”; and
+
+
+(3) by adding at the end the following:
+
+
+“(c) Industry outreach.—In carrying out the program under subsection (a), the Secretary of Energy shall engage with the quantum technology industry and promote commercialization of applications of quantum technology relevant to the activities of the Department of Energy by—
+
+
+“(1) educating—
+“(A) the energy industry on near-term and commercially available quantum technologies; and
+“(B) the quantum industry on potential energy applications;
+
+
+“(2) accelerating the advancements of United States quantum computing, communications, networking, sensing, and security capabilities to protect and optimize the energy sector;
+
+
+“(3) advancing relevant domestic supply chains, manufacturing capabilities, and associated simulations or modeling capabilities;
+
+
+“(4) facilitating commercialization of quantum technologies from National Laboratories and engaging with the Quantum Economic Development Consortium and other organizations, as applicable, to transition component technologies that advance the development of a quantum supply chain; and
+
+
+“(5) to the extent practicable, ensuring industry partner access, especially for small- and medium-sized businesses, to specialized quantum instrumentation, equipment, testbeds, and other infrastructure to design, prototype, and test novel quantum hardware and streamline user access to reduce costs and other administrative burdens.
+
+
+“(d) High-Performance computing strategic plan.—
+
+
+“(1) IN GENERAL.—Not later than 1 year after the date of enactment of this subsection, the Secretary of Energy shall submit to Congress a 10-year strategic plan to guide Federal programs in designing, expanding, and procuring hybrid, energy-efficient high-performance computing systems capable of integrating with a diverse set of accelerators, including quantum, artificial intelligence, and machine learning accelerators, to enable the computing facilities of the Department of Energy to advance national computing resources.
+
+
+“(2) CONTENTS.—The strategic plan under paragraph (1) shall include the following:
+
+
+“(A) A conceptual plan to leverage capabilities and infrastructure from the exascale computing program, as the Secretary of Energy determines necessary.
+
+
+“(B) A plan to minimize disruptions to the advanced scientific computing workforce.
+
+
+“(C) A consideration of a diversity of quantum computing modalities.
+
+
+“(D) A plan to integrate cloud access of commercially available quantum hardware and software to complement on-premises high-performance computing systems and resources consistent with the QUEST program established under section 404.
+
+
+“(e) Early-Stage quantum high-Performance computing research and development program.—
+
+
+“(1) DEFINITION OF QUANTUM HIGH-PERFORMANCE COMPUTING.—In this subsection, the term ‘quantum high-performance computing’ means the use of classical high-performance computing systems with quantum processing units and hybrid quantum-classical algorithms to leverage the strength of computational architectures and solve complex problems.
+
+
+“(2) PROGRAM.—The Secretary of Energy shall establish an early-stage research and development program in quantum high-performance computing—
+
+
+“(A) to inform the 10-year strategic plan described in subsection (d)(1); and
+
+
+“(B) to build the necessary scientific computing workforce to fulfill the objectives of that plan.
+
+
+“(3) ACTIVITIES.—The program established under paragraph (2) shall—
+
+
+“(A) support early-stage quantum supercomputing testbeds and prototypes; and
+
+
+“(B) connect early-stage quantum high-performance computing projects to the Centers funded under this Act.
+
+
+“(4) FUNDING.—Of funds made available under subsection (i)(1), the Secretary of Energy shall use not more than $20,000,000 for each of fiscal years 2026 through 2030 to carry out the activities under this subsection.
+
+
+“(f) Supply chain study.—Not later than 1 year after the date of enactment of this subsection, the Secretary of Energy, in consultation with the Secretary of Commerce, shall conduct a study on quantum science, engineering, and technology supply chain needs, including—
+
+
+“(1) identifying hurdles to growth in the quantum industry by leveraging the expertise of relevant stakeholders in academia and industry, including the Quantum Economic Development Consortium; and
+
+
+“(2) making recommendations on how to strengthen the domestic supply of materials and technologies necessary for the development of a robust manufacturing base and workforce.
+
+
+“(g) Traineeship program.—
+
+
+“(1) IN GENERAL.—The Secretary of Energy shall establish a university-led traineeship program—
+
+
+“(A) to address workforce development needs in quantum information science, engineering, and technology; and
+
+
+“(B) that will focus on supporting increased participation, workforce development, and research experiences for underrepresented undergraduate and graduate students.
+
+
+“(2) FUNDING.—Of funds made available under subsection (i)(1), the Secretary of Energy shall use not more than $5,000,000 for each of fiscal years 2026 through 2030 to carry out the activities under this subsection.
+
+
+“(h) Coordination of activities.—In carrying out this section, the Secretary of Energy shall, to the maximum extent practicable, coordinate with the Director of the National Science Foundation, the Director of the National Institute of Standards and Technology, the Administrator of the National Aeronautics and Space Administration, the Director of the Defense Advanced Research Projects Agency, and the heads of other relevant Federal departments and agencies to ensure that programs and activities carried out under this section complement and do not duplicate existing efforts across the Federal government.
+
+
+“(i) Funding.—
+
+
+“(1) IN GENERAL.—Of amounts authorized to be appropriated for the Department of Energy, the Secretary of Energy shall use not more than $175,000,000 for each of fiscal years 2026 through 2030 to carry out activities under this section.
+
+
+“(2) RESTRICTIONS.—
+
+
+“(A) CONFUCIUS INSTITUTE.—None of the funds made available under this subsection may be obligated to or expended by an institution of higher education that maintains a contract or other agreement with a Confucius Institute or any successor of a Confucius Institute.
+
+
+“(B) FOREIGN COUNTRIES AND ENTITIES OF CONCERN.—
+
+
+“(i) DEFINITIONS.—In this subparagraph:
+
+
+“(I) FOREIGN COUNTRY OF CONCERN.—The term ‘foreign country of concern’ means—
+
+
+“(aa) a covered nation (as defined in section 4872(d) of title 10, United States Code); and
+
+
+“(bb) any other country that the Secretary of Energy, in consultation with the Secretary of Defense, the Secretary of State, and the Director of National Intelligence, determines to be engaged in conduct that is detrimental to the national security or foreign policy of the United States.
+
+
+“(II) FOREIGN ENTITY OF CONCERN.—The term ‘foreign entity of concern’ means a foreign entity that—
+
+
+“(aa) is designated as a foreign terrorist organization by the Secretary of State under section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a));
+
+
+“(bb) is included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
+
+
+“(cc) is owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation (as defined in section 4872(d) of title 10, United States Code);
+
+
+“(dd) is alleged by the Attorney General to have been involved in activities for which a conviction was obtained under—
+
+
+“(AA) chapter 37 of title 18, United States Code (commonly known as the ‘Espionage Act’);
+
+
+“(BB) section 951 or 1030 of title 18, United States Code;
+
+
+“(CC) chapter 90 of title 18, United States Code (commonly known as the ‘Economic Espionage Act of 1996’);
+
+
+“(DD) the Arms Export Control Act (22 U.S.C. 2751 et seq.);
+
+
+“(EE) section 224, 225, 226, 227, or 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2274, 2275, 2276, 2277, 2284);
+
+
+“(FF) the Export Control Reform Act of 2018 (50 U.S.C. 4801 et seq.); or
+
+
+“(GG) the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.); or
+
+
+“(ee) is determined by the Secretary of Energy, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States.
+
+
+“(ii) RESTRICTION.—None of the funds made available under this subsection may be obligated or expended to promote, establish, or finance quantum research activities between a United States entity and a foreign country of concern or a foreign entity of concern.”.

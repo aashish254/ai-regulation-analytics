@@ -1,0 +1,89 @@
+Introduction
+In recent months, generative AI systems—such as ChatGPT, Dall-E 2, and Midjourney—have captured the world's attention. These AI systems are trained on vast datasets of text, images, or other data. Their distinguishing feature is their ability to generate novel content in a wide variety of different forms and contexts. As a result, a single system may be used to perform many different kinds of tasks. For example, a language-based system can perform tasks such as translating, summarizing text, suggesting edits or revisions to text, answering questions, or generating code.
+
+
+While they have many benefits, generative AI systems are powerful tools that can also be used for malicious or inappropriate purposes. Their generative abilities, combined with the broad scale of deployment, contribute to a distinct and potentially wide risk profile. These features have led to an urgent call to action on generative AI, including amongst leading AI industry experts. In recent months, the international community has taken steps toward helping make these systems safer and more trustworthy. For example, the G7 recently launched the Hiroshima AI Process to coordinate discussions on generative AI risks, and in July 2023, U.S. President Joe Biden announced eight voluntary commitments from large AI companies in support of safety, security, and trust.
+
+
+Canada has already taken significant steps toward ensuring that this technology evolves in a safe manner. Canada is well positioned to address the potential risks of AI systems through the Artificial Intelligence and Data Act (AIDA), which was tabled as part of Bill C-27 in June 2022. AIDA was designed to be adaptable to new developments in AI technologies and provides the legal foundation for the Government of Canada to regulate AI systems, including generative AI systems. The Government has heard and will continue to act on considerable feedback to ensure this bill is fit for purpose in this emerging and evolving reality.
+
+
+Given the urgent need and broad support for guardrails, the Government of Canada intends to prioritize the regulation of generative AI systems should AIDA receive royal assent. In the interim, the Government is committed to developing a code of practice, which would be implemented on a voluntary basis by Canadian firms ahead of the coming into force of AIDA. It is intended that this code will be sufficiently robust to ensure that developers, deployers, and operators of generative AI systems are able to avoid harmful impacts, build trust in their systems, and transition smoothly to compliance with Canada's forthcoming regulatory regime. The code will also serve to reinforce Canada's contributions to active international deliberations on proposals to address the risks of generative AI, including at the G7 and amongst like-minded partners.
+
+
+Code of Practice – Elements
+Since the tabling of Bill C-27 in June 2022, the Government has engaged extensively with stakeholders on AIDA. Based on the inputs received to date from a broad cross-section of stakeholders, the Government is seeking comment on the following potential elements of a code of practice for generative AI systems—for consideration and validation through a summer 2023 engagement process. This process will include a series of virtual and hybrid roundtables, as well as expert review through the Government of Canada's AI Advisory Council.
+
+
+Safety
+Safety must be considered holistically throughout the system's lifecycle, with a broad view of potential impacts, particularly with regard to misuse. Given the wide range of uses of many generative AI systems, their safety risks must be assessed more broadly than those of systems with more specific uses.
+
+
+Developers and deployers of generative AI systems would:
+identify the ways that the system may attract malicious use (e.g., use of the system to impersonate real individuals; use of the system to conduct "spearfishing" attacks) and take steps to prevent this use from occurring.
+
+
+Developers, deployers, and operators of generative AI systems would:
+identify the ways that the system may attract harmful inappropriate use (e.g., use of a large language model for medical or legal advice) and take steps to prevent this from occurring, such as by making the capabilities and limitations of the system clear to users.
+
+
+Fairness and Equity
+Due to the broad datasets on which they are trained and the scale at which they are deployed, generative AI systems can have important adverse impacts on societal fairness and equity through, for example, perpetuation of biases and harmful stereotypes. It will be essential to ensure that models are trained on appropriate and representative data, and provide relevant, accurate, and unbiased outputs.
+
+
+Developers of generative AI systems would:
+assess and curate datasets to avoid low-quality data and non-representative datasets/biases.
+
+
+Developers, deployers, and operators of generative AI systems would:
+implement measures to assess and mitigate risk of biased output (e.g., fine-tuning).
+
+
+Transparency
+Generative AI systems pose a particular challenge for transparency. Their output can be difficult to explain or rationalize, and their training data and source code may not be publicly available. As generative AI systems become more sophisticated, it is important to ensure that individuals realize when they are interacting with an AI system or with AI-generated content.
+
+
+Developers and deployers of generative AI systems would:
+provide a reliable and freely available method to detect content generated by the AI system (e.g., watermarking); and
+provide a meaningful explanation of the process used to develop the system, including provenance of training data, as well as measures taken to identify and address risks.
+
+
+Operators of generative AI systems would:
+ensure that systems that could be mistaken for humans are clearly and prominently identified as AI systems.
+
+
+Human Oversight and Monitoring
+Human oversight and monitoring of AI systems are critical to ensure that these systems are developed, deployed, and used safely. Because of the scale of deployment and the wide range of potential uses and misuses of generative AI systems, developers, deployers, and operators need to take particular care to ensure sufficient human oversight and mechanisms to identify and report adverse impacts before making systems widely available.
+
+
+Deployers and operators of generative AI systems would:
+provide human oversight in the deployment and operations of their system, considering the scale of deployment, the manner in which the system is being made available for use, and its user base.
+
+
+Developers, deployers, and operators of generative AI systems would:
+implement mechanisms to allow adverse impacts to be identified and reported after the system is made available (e.g., maintaining an incident database), and commit to routine updates of models based on findings (e.g., fine-tuning).
+
+
+Validity and Robustness
+Ensuring that AI systems work as intended and are resilient across the range of contexts to which they are likely to be exposed is critical to building trust. This is a particular challenge for widely deployed generative AI systems, since they may be used in a broad range of contexts and thus may have greater exposure to misuse and attacks. This flexibility is a key advantage of the technology, but requires rigorous measures and testing to be put in place to avoid misuse and unintended consequences.
+
+
+Developers of generative AI systems would:
+use a wide variety of testing methods across a spectrum of tasks and contexts, including adversarial testing (e.g., red-teaming), to measure performance and identify vulnerabilities.
+
+
+Developers, deployers, and operators of generative AI systems would:
+employ appropriate cybersecurity measures to prevent or identify adversarial attacks on the system (e.g., data poisoning).
+
+
+Accountability
+Generative AI systems are powerful tools with broad and complex risk profiles. While internal governance mechanisms are important to any organization developing, deploying, or operating AI systems, particular care needs to be taken with generative AI systems to ensure that a comprehensive and multifaceted risk management process is followed, and that employees across the AI value chain understand their role in this process.
+
+
+Developers, deployers, and operators of generative AI systems would:
+ensure that multiple lines of defence are in place to secure the safety of their system, such as ensuring that both internal and external (independent) audits of their system are undertaken before and after the system is put into operation; and
+develop policies, procedures, and training to ensure that roles and responsibilities are clearly defined, and that staff are familiar with their duties and the organization's risk management practices.
+
+
+Conclusion
+We are keen to understand if these are the right core elements of a code, and whether the commitments are sufficient and appropriate for ensuring a baseline of trust and practical implementation in the world of generative AI. We welcome comments on the elements, the measures, and other considerations to be brought to bear to foster widespread AI support and potential implementation in the period prior to binding regulation.

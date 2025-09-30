@@ -1,0 +1,132 @@
+ S. 3986
+
+
+To establish a private right of action against a person who sends unsolicited visual depictions of sexually explicit conduct.
+
+
+IN THE SENATE OF THE UNITED STATES
+March 20, 2024
+Mr. Schatz (for himself and Mr. Daines) introduced the following bill; which was read twice and referred to the Committee on the Judiciary
+
+
+A BILL
+To establish a private right of action against a person who sends unsolicited visual depictions of sexually explicit conduct.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Curbing Online Non-consensual Sexually Explicit Nudity Transfers Act” or the “CONSENT Act”.
+
+ SEC. 2. TRANSMISSION OF UNSOLICITED VISUAL DEPICTIONS OF SEXUALLY EXPLICIT CONDUCT.
+
+
+(a) Definitions.—
+
+
+(1) IN GENERAL.—In this section:
+
+
+(A) CONSENT.—The term “consent” has the meaning given the term in section 1309 of the Violence Against Women Act Reauthorization Act of 2022 (15 U.S.C. 6851).
+
+
+(B) MACHINE-MANIPULATED MEDIA.—The term “machine-manipulated media” means a video, image, or audio recording generated or substantially modified using machine-learning techniques in order to—
+
+
+(i) falsely depict—
+
+
+(I) an event; or
+
+
+(II) the speech or conduct of an individual; or
+
+
+(ii) depict an individual who does not exist.
+
+
+(C) SEXUALLY EXPLICIT CONDUCT.—The term “sexually explicit conduct” has the meaning given the term in section 2256(2)(B) of title 18, United States Code.
+
+
+(D) THIRD-PARTY PROVIDER.—The term “third-party provider” means—
+
+
+(i) a provider of an interactive computer service (as defined in section 230 of the Communications Act of 1934 (47 U.S.C. 230)); or
+
+
+(ii) any other entity that transmits, routes, or provides connections for electronic communications.
+
+
+(E) VISUAL DEPICTION.—The term “visual depiction”—
+
+
+(i) has the meaning given the term in section 1466A of title 18, United States Code; and
+
+
+(ii) includes machine-manipulated media.
+
+
+(2) RULE OF CONSTRUCTION.—Notwithstanding the application of the terms “sexually explicit conduct” and “visual depiction” to only minors in chapter 110 and section 1466A, respectively, of title 18, United States Code, the applicability of those terms shall not be limited to minors for purposes of this section.
+
+ (b) Civil Action.—
+
+
+(1) RIGHT OF ACTION.—
+
+
+(A) IN GENERAL.—If an individual 18 years of age or older, or any person that is not an individual, (referred to in this subparagraph as the “sender”) knowingly sends an individual (referred to in this subparagraph as the “recipient”) a visual depiction of sexually explicit conduct, in or affecting interstate or foreign commerce or using any means or facility of interstate or foreign commerce, without the consent of the recipient, knowing that, or recklessly disregarding whether, the recipient has not provided consent to receive the visual depiction, the recipient may bring a civil action against the sender in an appropriate district court of the United States for relief under paragraph (2).
+
+
+(B) RIGHTS ON BEHALF OF CERTAIN INDIVIDUALS.—If an individual who receives a visual depiction of sexually explicit conduct as described in subparagraph (A) is under 18 years of age, incompetent, or incapacitated, a legal guardian of the individual may bring a civil action under that subparagraph on behalf of the individual.
+
+
+(C) PRIVACY PROTECTION FOR MINORS.—
+
+
+(i) IN GENERAL.—If a civil action is brought under subparagraph (A) on behalf of an individual who is a minor when the complaint is filed or by an individual who was a minor when the acts giving rise to the civil action took place, the plaintiff may elect to use the plaintiff's initials in all filings with the court.
+
+
+(ii) REQUIREMENT.—If a plaintiff elects to proceed using the plaintiff's initials under clause (i), the court and each other party to the action shall use the plaintiff's initials in—
+
+
+(I) any order, filing, or other such document; and
+
+
+(II) any proceeding that is transcribed by a court reporter.
+
+
+(D) EXCEPTIONS.—A civil action under subparagraph (A) may not be brought against—
+
+
+(i) a third-party provider, to the extent that the provider is transmitting, routing, or providing connections of electronic communications initiated by or at the direction of another person;
+
+
+(ii) a person who sends a visual depiction for a good faith medical, educational, or law enforcement purpose; or
+
+
+(iii) a person who lawfully publishes a visual depiction of sexually explicit conduct on a website that requires users to be not less than 18 years of age.
+
+
+(2) RELIEF.—In a civil action brought under paragraph (1), an individual may obtain—
+
+
+(A) either—
+
+
+(i) statutory damages of not more than $500; or
+
+
+(ii) compensatory damages for emotional distress;
+
+
+(B) reasonable attorney fees and costs; and
+
+
+(C) a temporary restraining order, a preliminary injunction, or a permanent injunction ordering the defendant to cease sending visual depictions of sexually explicit conduct to the plaintiff without consent.
+
+
+(3) RELATION TO CRIMINAL LAWS.—Nothing in this subsection shall be construed to modify, impair, or supersede any provision of criminal law.
+
+ (c) Severability.—If any provision of this section, or the application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this section, and the application of the provision to any other person or circumstance, shall not be affected.

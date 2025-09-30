@@ -1,0 +1,555 @@
+ H. R. 1050
+
+
+To direct the Secretary of Education to make grants for the purpose of increasing access to data literacy education, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+February 14, 2023
+
+
+Ms. Stevens (for herself, Mr. Baird, Mr. Beyer, and Mrs. Kim of California) introduced the following bill; which was referred to the Committee on Education and the Workforce
+
+
+A BILL
+To direct the Secretary of Education to make grants for the purpose of increasing access to data literacy education, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+
+(a) Short Title.—This Act may be cited as the “Data Science and Literacy Act of 2023”.
+
+
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+
+
+TITLE I—DATA LITERACY EDUCATION GRANT PROGRAM
+
+
+Sec. 101. Grant program established.
+Sec. 102. Applications.
+Sec. 103. Use of funds.
+Sec. 104. Reporting and evaluation.
+Sec. 105. Definitions.
+Sec. 106. Authorization of appropriations.
+
+
+TITLE II—STATISTICS ON SECONDARY SCHOOL STEM TEACHERS
+
+
+Sec. 201. Amendments to the Education Sciences Reform Act of 2002.
+
+ SEC. 2. FINDINGS.
+
+
+Congress finds the following:
+
+
+(1) Data science and literacy are vital for United States residents in an era of intense global competition and growing reliance on data.
+
+
+(2) The American people constantly interact with and are affected by data. For example, they—
+
+
+(A) regularly consume data, such as educational data, business data, financial data, medical data, sports statistics, and data-based claims in news media;
+
+
+(B) are included in a variety of data sets, such as medical and credit histories, web searches, social media activity, and purchase histories; and
+
+
+(C) interact with products that are the result of data-driven processes. For example, medications and other medical interventions are tested in randomized trials to assess their efficacy and safety. Similarly, data are often used to inform policy decisions that have considerable impact on citizens.
+
+
+(3) Data literacy is increasingly integral in the fields of science, technology, engineering, and mathematics (STEM) and other fields.
+
+
+(4) Data literacy is essential for both effective citizenship and personal well-being. Data literacy is an integral skill for understanding data-driven claims and making personal decisions in the 21st century. This includes the need to—
+
+
+(A) contribute to the digital economy as a productive member of the workforce;
+
+
+(B) interpret and synthesize data displays and summaries, such as polls, surveys, and study outcomes; and
+
+
+(C) critically evaluate claims based on data both in consuming news media, advertising, and social media and in making personal decisions, such as those related to medical care or financial well-being.
+
+
+(5) Access to high-quality data science and literacy education is vital for building the United States STEM workforce and United States competitiveness in the 21st century in the following ways:
+
+
+(A) STEM fields are a well-known driver of the United States economy, job growth, and competitiveness. A 2022 government report from the National Science Foundation underscores this point and also notes growing STEM competition from around the globe.
+
+
+(B) Accessing talent and ideas from across the socioeconomic spectrum and from diverse geography is critical for building a vibrant United States STEM workforce.
+
+
+(C) Concerted efforts to cultivate such talent in the data-driven fields of statistics, data science, mathematical modeling, computer science, machine learning, artificial intelligence, operations research, and analytics are critical to United States competitiveness efforts.
+
+
+(D) Data scientist, statistician, and operations researcher roles are among the fastest growing positions in the United States. However, United States companies often struggle to fill their data scientist, statistician, and operations researcher positions, a situation not expected to change this decade.
+
+
+(E) The STEM workforce is projected to grow at a faster pace than the non-STEM workforce; however, some have expressed concern that the domestic supply of STEM workers will not meet future workforce needs.
+
+
+(F) More and earlier access to quality education that includes data-intense disciplines is necessary to meet industry demands and competitiveness pressures.
+
+
+(G) Access to high-quality data literacy education with ongoing support is critical as an entry point to STEM fields for students from populations traditionally underrepresented in STEM fields, including Native Hawaiians, Alaska Natives, and American Indians.
+
+
+(H) Such accessibility should also include community colleges, which are often more accessible to diverse groups.
+
+
+(6) The expanded focus on data science and literacy would have several benefits, such as—
+
+
+(A) helping the United States compete in the emerging field of data science and growing discipline of statistics;
+
+
+(B) expanding the STEM workforce by accessing talent across the socioeconomic spectrum; and
+
+
+(C) diversifying the STEM workforce by bringing access and support to populations traditionally underrepresented in STEM fields, including female students, students of color, and students from disadvantaged backgrounds. Studies have identified positive associations between diversity and performance for companies.
+
+
+(7) Increased attention to data science and literacy supports the burgeoning emphasis on evidence-based policymaking and data-driven decision, including in government as exemplified by the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435).
+
+
+(8) Effective data science and statistics education at the pre-kindergarten through postsecondary levels would—
+
+
+(A) ensure graduates have the skills and knowledge necessary to compete in the workforce of the 21st century, with its burgeoning growth of and dependence on data, and acquire the self-efficacy and motivation to embrace careers in data science, statistics, and other STEM fields;
+
+
+(B) contribute to student learning and problem-solving skills across multiple disciplines; and
+
+
+(C) equip students with the knowledge needed to be responsible and engaged citizens.
+
+ TITLE I—DATA LITERACY EDUCATION GRANT PROGRAM
+
+
+SEC. 101. GRANT PROGRAM ESTABLISHED.
+From the amounts appropriated under section 106, the Secretary shall award grants, on a competitive basis, to eligible entities to carry out projects—
+
+
+(1) that increase access to data literacy education for students at the pre-kindergarten through postsecondary levels;
+
+
+(2) that improve data reasoning skills in such students;
+
+
+(3) that will serve as models for national data science and data literacy education; and
+
+
+(4) in accordance with section 103.
+
+ SEC. 102. APPLICATIONS.
+
+
+(a) In General.—To be eligible to receive a grant under this title, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, which shall include a description of how the entity plans—
+
+
+(1) to carry out project activities under section 103 for the purposes of—
+
+
+(A) increasing access to and support for data literacy, data science, and statistics education; and
+
+
+(B) expanding access to and support for rigorous classes in STEM fields, including by—
+
+
+(i) using data and statistical literacy to increase student interest in STEM fields; and
+
+
+(ii) reducing enrollment gaps, opportunity gaps, and differentiated success for underrepresented students;
+
+
+(2) for the duration of a grant made to the eligible entity under this title, to continuously assess and evaluate project activities funded by such grant; and
+
+
+(3) to continue project activities after the expiration of the grant (including a statement of the planned duration of such continuation).
+
+
+(b) Duration.—A grant made under this title shall be for a term of not more than 5 years.
+
+ SEC. 103. USE OF FUNDS.
+
+
+(a) In General.—An eligible entity that receives a grant under this title shall use the grant funds for not fewer than 2 of the following activities:
+
+
+(1) Developing curricula in data literacy, data science, and statistics.
+
+
+(2) Expanding student access to learning support and high-quality learning materials in data science and statistics, including online courses and interactive learning platforms.
+
+
+(3) Creating and implementing plans to—
+
+
+(A) increase access to and support for rigorous classes in STEM fields;
+
+
+(B) use data literacy and statistical thinking to increase student interest in STEM fields; and
+
+
+(C) reduce gaps in access to data science and statistics courses for underrepresented students.
+
+
+(4) Providing—
+
+
+(A) evidence-based professional development for data science and statistics educators and specialists; or
+
+
+(B) evidence-based training for educators and specialists transitioning from other subjects to data science and statistics.
+
+
+(5) With respect to data literacy education, collaborating with 1 or more of the following regional entities:
+
+
+(A) Industry.
+
+
+(B) A nonprofit organization.
+
+
+(C) An out-of-school education provider.
+
+
+(D) A two- or four-year institution of higher education.
+
+
+(6) Recruiting and hiring instructional personnel, including specialists in data science and statistics pedagogy and curricula.
+
+
+(7) Preparing to continue project activities after the end of the grant period.
+
+
+(8) Disseminating information about effective practices in data science and statistics education.
+
+
+(b) Additional Allowable Uses Of Grant Funds For Certain Eligible Entities.—In addition to the activities described in subsection (a)—
+
+
+(1) in the case of an eligible entity that is not an institution of higher education, such entity may use the grant funds to—
+
+
+(A) increase access to and support for data literacy education for students at the pre-kindergarten through middle school levels to prepare such students for data literacy education at the high school level;
+
+
+(B) prepare and support teachers to teach students to—
+
+
+(i) understand data; and
+
+
+(ii) use computational, analytical, and statistical thinking to solve problems; and
+
+
+(C) provide support and resources for underrepresented students;
+
+
+(2) in the case of an eligible entity that is an institution of higher education (or an eligible consortium that includes such an institution), such entity may use the grant funds to provide financial support and mentorship to underrepresented students; and
+
+
+(3) in the case of an eligible entity that is a two-year institution of higher education (or an eligible consortium that includes such an institution), such entity may use the grant funds to:
+
+
+(A) Assess relevant local employment opportunities for students in data science, analytics, and statistics.
+
+
+(B) Establish industry partnerships.
+
+
+(C) Maintain up-to-date curricula.
+
+
+(D) Develop programs, partnerships, and articulation agreements to facilitate the timely transition of students from data science, analytics, and statistics programs at the institution to—
+
+
+(i) bachelor’s degree programs in data science, analytics, statistics, or related fields; or
+
+
+(ii) relevant local employment.
+
+
+(c) Limitation.—Not more than 15 percent of the funds of a grant made under this title in a fiscal year may be used to purchase equipment to enable the activities described in this section.
+
+ SEC. 104. REPORTING AND EVALUATION.
+
+
+(a) Recipient Reports.—Not less frequently than twice each year for the duration of a grant made under this title, an eligible entity that receives such a grant shall submit to the Secretary a report on the use of grant funds, including data on the students served through project activities assisted with such funds, disaggregated by—
+
+
+(1) race (for Asian and Native Hawaiian or Pacific Islander students using the same race response categories as the decennial census of the population);
+
+
+(2) ethnicity;
+
+
+(3) gender; and
+
+
+(4) eligibility to receive a free or reduced price lunch under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+
+
+(b) Report By The Secretary.—Not later than 5 years after the date on which the first grant is made under this title, the Secretary shall submit to Congress and make publicly available a report that includes—
+
+
+(1) an analysis of reports received by the Secretary pursuant to subsection (a); and
+
+
+(2) recommendations for expanding the grant program established under this title.
+
+
+(c) Grant Program Evaluation.—Not later than 5 years after the date on which the first grant is made under this title, the Secretary, acting through the Director of the Institute of Education Sciences, shall carry out and make publicly available an evaluation of the effectiveness of the grants made under this title, including an analysis of the following:
+
+
+(1) With respect to a project assisted with a grant made under this title, the effectiveness of such project with respect to—
+
+
+(A) improving access to data science and data literacy curricula and instruction;
+
+
+(B) improving data science and data literacy skills in students at the pre-kindergarten through postsecondary levels; and
+
+
+(C) assisting eligible entities that receive grants under this title in recruiting, preparing, and retaining qualified data science and statistics educators and specialists.
+
+
+(2) The effectiveness of the grants made under this title with respect to improving national equitable student access to data science and data literacy curricula and instruction.
+
+ SEC. 105. DEFINITIONS.
+
+
+In this title:
+
+
+(1) DATA LITERACY.—The term “data literacy” means the ability to understand and communicate claims derived from data, including—
+
+
+(A) what data are;
+
+
+(B) where data come from; and
+
+
+(C) what aspects of the world data represent.
+
+
+(2) DATA SCIENCE.—The term “data science” means the interdisciplinary use of statistics, mathematics, and computer science to analyze data and provide tools to interact with data.
+
+
+(3) DATA SCIENCE EDUCATION.—The term “data science education” includes education in any of the following subjects:
+
+
+(A) Analytics.
+
+
+(B) Applied statistics and data science.
+
+
+(C) Artificial intelligence.
+
+
+(D) Data acquisition and management.
+
+
+(E) Data literacy.
+
+
+(F) Data quality and representation.
+
+
+(G) Data security and privacy.
+
+
+(H) Ethical use of data.
+
+
+(I) Machine learning.
+
+
+(J) Operations research.
+
+
+(K) Social impacts and professional practices of statistics and data science.
+
+
+(L) Statistical methods and modeling.
+
+
+(M) Statistical problem-solving processes.
+
+
+(4) ELIGIBLE CONSORTIUM.—The term “eligible consortium” means a consortium that—
+
+
+(A) includes—
+
+
+(i) an eligible State educational agency;
+
+
+(ii) an eligible local educational agency;
+
+
+(iii) an eligible Tribal school; or
+
+
+(iv) an institution of higher education; and
+
+
+(B) may include a non-profit or for-profit organization.
+
+
+(5) ELIGIBLE ENTITY.—The term “eligible entity” means an eligible State educational agency, eligible local educational agency, eligible Tribal school, institution of higher education, or eligible consortium.
+
+
+(6) ELIGIBLE LOCAL EDUCATIONAL AGENCY.—The term “eligible local educational agency” means a local educational agency described in section 1003(f)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6303(f)(1)).
+
+
+(7) ELIGIBLE STATE EDUCATIONAL AGENCY.—The term “eligible State educational agency” means a State educational agency that serves 1 or more eligible local educational agencies.
+
+
+(8) ELIGIBLE TRIBAL SCHOOL.—The term “eligible Tribal school” means—
+
+
+(A) a school operated by the Bureau of Indian Education;
+
+
+(B) a school operated pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.); or
+
+
+(C) a tribally controlled school (as such term is defined in section 5212 of the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2511)).
+
+
+(9) ESEA TERMS.—The terms “local educational agency” and “State educational agency” have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+
+
+(10) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+
+(11) OPERATIONS RESEARCH.—The term “operations research” means the application of scientific methods to the management and administration of organized military, governmental, commercial, and industrial processes to maximize operational efficiency.
+
+
+(12) SECRETARY.—The term “Secretary” means the Secretary of Education.
+
+
+(13) STATISTICAL PROBLEM-SOLVING PROCESS.—The term “statistical problem-solving process” means a framework for decisionmaking that includes the following components:
+
+
+(A) Formulating statistical investigative questions.
+
+
+(B) Collecting and considering the data.
+
+
+(C) Analyzing the data.
+
+
+(D) Interpreting the results.
+
+
+(14) STATISTICS.—The term “statistics” means the science of learning from data and of measuring and communicating uncertainty.
+
+
+(15) STEM FIELDS.—The term “STEM fields” means the fields of science, technology, engineering, and mathematics and the fields of statistics and computer science.
+
+
+(16) UNDERREPRESENTED STUDENT.—The term “underrepresented student”—
+
+
+(A) means a student from a population that is traditionally underrepresented in STEM fields; and
+
+
+(B) includes—
+
+
+(i) female students;
+
+
+(ii) students of color; and
+
+
+(iii) students from low-income families.
+
+
+
+ SEC. 106. AUTHORIZATION OF APPROPRIATIONS.
+
+
+(a) In General.—There is authorized to be appropriated to carry out this title $10,000,000 for each of fiscal years 2024 through 2028.
+
+
+(b) Limitations.—
+
+
+(1) ADMINISTRATIVE EXPENSES.—Not more than 2.5 percent of the funds made available for a fiscal year under subsection (a) may be used for administrative expenses of the Secretary associated with grants made under this title, including—
+
+
+(A) technical assistance; and
+
+
+(B) the dissemination of—
+
+
+(i) the report required under section 104(b); and
+
+
+(ii) the evaluation required under section 104(c).
+
+
+(2) PROGRAM EVALUATION.—Not more than 1 percent of the funds made available for a fiscal year under subsection (a) may be used to carry out the evaluation required under section 104(c).
+
+ TITLE II—STATISTICS ON SECONDARY SCHOOL STEM TEACHERS
+
+
+SEC. 201. AMENDMENTS TO THE EDUCATION SCIENCES REFORM ACT OF 2002.
+(a) In General.—Section 153 of the Education Sciences Reform Act of 2002 (20 U.S.C. 9543) is amended—
+
+
+(1) in subsection (a)(1)—
+
+
+(A) in subparagraph (N), by striking “and” at the end;
+
+
+(B) in subparagraph (O), by adding “and” at the end; and
+
+
+(C) by inserting after subparagraph (O) the following:
+
+
+“(P) the number of science, technology, engineering, and math (STEM) teachers in secondary schools in each State, including—
+
+
+“(i) the subjects taught by such teachers;
+
+
+“(ii) the educational backgrounds of such teachers; and
+
+
+“(iii) the demographics of such teachers, disaggregated by race, ethnicity, and gender;”; and
+
+
+(2) by adding at the end the following:
+
+
+“(c) STEM Teachers Report Frequency.—The statistical data described in subsection (a)(1)(P) shall be collected and reported not more frequently than once every 5 years.”.
+
+
+(b) Effective Date.—This section and the amendments made by this section shall take effect 1 year after the date of the enactment of this section.

@@ -1,0 +1,152 @@
+EXECUTIVE ORDER 24-01
+ARTIFICIAL INTELLIGENCE
+
+
+WHEREAS, generative Artificial Intelligence (AI) represents a significant leap forward in
+technology, by generating novel text, images, and other content, which has the capacity to
+transform the way that the State conducts business and serves the public; and
+WHEREAS, generative AI has the potential to catalyze innovation and the rapid development of
+a wide range of benefits for Washingtonians; and
+WHEREAS, generative AI can enhance human potential and creativity but must be deployed
+and regulated carefully to mitigate and guard against a new generation of risks, harms, and
+perpetuation of existing inequities; and
+WHEREAS, the state of Washington is committed to accuracy, reliability, and ethical outcomes
+when adopting generative AI technology, engaging and supporting historically vulnerable and
+marginalized communities that are also denied a voice in the data collected about them and how
+it is used, and serving all those who reside, work, or do business in Washington in a transparent,
+engaged, and equitable way; and
+WHEREAS, the state of Washington seeks to realize the potential benefits of generative AI for
+the good of all those who call Washington home, through the development and deployment of
+generative AI tools that improve the equitable and timely delivery of services, while balancing
+the benefits and risks of these new technologies; and
+WHEREAS, the Washington state workforce is vital to Washington's continued prosperity and
+the state seeks to harness the potential of generative AI in an ethical and equitable way for the
+benefit of the state government workforce; and
+WHEREAS, the exponential growth of generative AI technologies should be documented, and
+the potential risks of their use, including but not limited to privacy, cyberattacks, disinformation,
+deception, and discrimination or bias, should be acknowledged, planned for, and mitigated; and
+WHEREAS, Executive Branch agencies across state government have been engaging, and will
+continue to engage, with communities and other industry stakeholders to explore strategies to
+promote the safe, responsible, ethical, and efficient development and use of generative AI
+technologies in Washington; and
+WHEREAS, Washington state should promote the adoption of generative AI technologies in a
+manner that aligns and is consistent with Washington state’s policies, goals, and values for equity
+in government employment, services, education, and contracting as well as for all people who
+call Washington home.
+NOW, THEREFORE, I, Jay Inslee, Governor of the state of Washington, by the power vested
+in me by the Constitution and the statutes of the state of Washington, do hereby order and direct
+all executive and small cabinet agencies as follows:
+1. It is the goal of the state to create a transparent and consistent environment to use generative
+AI technology and to facilitate the adoption of generative AI technology by the State in a
+manner that balances the benefits and risks to Washingtonians. For the purposes of this
+Order:
+a. “Generative AI Technology” is a technology that can create content, including text,
+images, audio, or video, when prompted by a user. Generative AI systems learn
+patterns and relationships from large amounts of data, which enables systems to
+generate new content that may be similar, but not identical, to the underlying training
+data.
+b. “High-Risk Generative AI System” means systems using generative AI technology
+that creates a high risk to natural persons' health and safety or fundamental rights.
+Examples include biometric identification, critical infrastructure, employment, health
+care, law enforcement, and administration of democratic processes.
+2. By September 2024, Consolidated Technology Services, also known as Washington
+Technology Solutions (WaTech), in collaboration with cabinet agencies, shall submit a report
+to the Governor that identifies potential generative AI initiatives pertinent to agency
+operations and objectives. The report shall assess the feasibility, benefits, and challenges of
+integrating generative AI into agency operations and services. The report must also include a
+plan and timeline for WaTech to establish the infrastructure to conduct pilots of projects
+involving generative AI technology, including approved environments to test such projects.
+3. By September 2024, WaTech, in collaboration with the Department of Enterprise Services
+(DES), shall issue initial guidelines for public sector procurement, uses, and ongoing
+monitoring of the use of generative AI technology. The guidelines should build on guidance
+from the White House's Blueprint for an Al Bill of Rights and the National Institute for
+Standards and Technology's Al Risk Management Framework and address safety and
+effectiveness, algorithmic discrimination, data privacy, and cybersecurity. These guidelines
+shall include a requirement that any vendor providing a High-Risk Generative AI System to
+an agency certify that the vendor has implemented an AI governance program consistent with
+the National Institute of Standards and Technology Artificial Intelligence Risk Management
+Framework. WaTech and DES shall make the guidelines publicly available via posting on
+relevant agencies’ websites.
+4. No later than January 2025, DES, in collaboration with WaTech and the Office of Equity,
+shall submit a training plan for state government workers on the use of generative AI
+technology. The training plan shall address, at minimum, the potential benefits to state
+operations and constituent services, risks to citizens related to unfair and discriminatory
+outcomes, privacy and cybersecurity risks, and other potential harms including automation
+bias.
+5. By December 2024, WaTech, in consultation with the Office of Equity, community members,
+Tribal governments, subject matter experts, and other relevant state agencies, shall develop
+guidelines for agencies to analyze the impact that adopting generative AI technology may
+have on vulnerable communities, including criteria to evaluate equitable outcomes in
+deployment and implementation of high-risk use cases. These guidelines and criteria shall
+inform whether and how an agency deploys a particular AI System. WaTech shall
+periodically revise the guidelines and criteria, when appropriate, and establish a consultative
+process with academia, industry experts, and representatives from advocacy organizations
+that represent communities that are disproportionately vulnerable to being harmed by
+algorithmic bias. WaTech and the Office of Equity shall make the guidelines publicly
+available by posting on their respective agency’s website.
+6. By January 2025, DES, in collaboration with WaTech, shall update the state's technology
+procurement and contract term templates, incorporating equity, bias, and algorithmic risk
+assessments as well as analysis and feedback obtained from the initial guidelines issued in (3)
+above and other relevant, community members, academic and industry experts, and the state
+government workforce or organizations from (5).
+7. To ensure algorithmic justice as it relates to digital equity, by September 2024, the Office of
+Equity will oversee the development, implementation, and ongoing support of an overarching
+framework for accountability in the fair, ethical, and equitable use of generative AI by the
+state.
+a. The accountability framework will be created in partnership with WaTech, DES, and
+Workforce Training and Education Coordinating Board to de-silo and remove barriers
+for agencies seeking to test and implement generative AI tools.
+b. The accountability framework must be comprised of a transparent, systematic, and
+continuous monitoring of outcomes and impacts on communities and must include
+the intentional and consistent engagement of communities.
+c. The accountability framework should be informed by subject-matter experts from
+across the Enterprise, community members, Tribal governments, impacted front-line
+state employees, and academic and industry stakeholders whose purpose will be to
+co-create an assessment process and performance measures.
+8. By December 2024, WaTech will produce guidance on the risk assessments for the
+deployment of High-Risk Generative AI Systems. Assessments must leverage existing
+security and privacy assessment processes, and must include the following:
+a. Information about the High-Risk Generative AI System, including whether the HighRisk Generative AI System is provided by a third party, the name and address of the
+third party, and relevant state agency;
+b. The intended uses of the High-Risk Generative AI System;
+c. Assessment of the fitness of the High-Risk AI System for the intended purpose;
+d. Assessment of impacted communities, benefits, harms, and mitigations of the HighRisk AI System;
+e. An evaluation of the potential harms of the High-Risk Generative AI System which
+may include harms to individuals and groups, discriminatory or unfair outcomes,
+deceptive practices, societal risks, privacy and cybersecurity considerations, and
+national security concerns;
+f. An assessment of mitigations including but not limited to consideration of restricted
+uses and limitations on use, policies, deidentified data, and commercial terms; and
+g. Information about the agency approach to generative AI governance that is consistent
+with the AI Risk Management framework published by the National Institute of
+Science and Technology.
+9. By December 2024, the Office of Financial Management (State Human Resources Division)
+in collaboration with WaTech, Washington’s Workforce Training and Education Coordinating
+Board and organizations that represent state government employees, will assess the impact of
+generative AI on the state workforce, develop strategies to mitigate any negative impacts, and
+support programs that help workers develop the skills and knowledge they need to
+successfully use generative AI and report their findings to the Governor.
+10. By January 2025, members of Washington’s Workforce Training and Education Coordinating
+Board must identify and create research opportunities and partnerships with research
+institutes at a state and federal level to power innovation and expansion of generative AI
+technology and education. The goals will be to expose students and researchers to emerging
+opportunities regarding the development of generative AI Systems and accelerate training
+and AI workforce development. The members are encouraged to collaborate and identify
+opportunities to:
+a. Build workforce pathways that ensure a pipeline of talent to the industry that is both
+equitable and robust;
+b. Develop training programs geared towards generative AI workforce development;
+c. Generate basic and applied research to continue leading future generations of
+generative AI technologies; and
+d. Engage national organizations, such as the National AI Research Resource (NAIRR)
+Taskforce, to achieve the goals stated above.
+11. Agencies subject to my authority shall implement the directives in this section consistent
+with current federal and state laws. In anticipation of a harmonized state-federal legal
+landscape, any provisions in this Order inconsistent with federal law shall be superseded by
+federal law.
+12. This Order is not intended to, and does not, create any legal right, entitlement or benefit,
+substantive or procedural, enforceable at law or in equity, against the state, its agencies,
+departments, entities, officers, employees, or any other person.
+This order takes effect immediately.
+Signed and sealed with the official seal of the state of Washington on this 30th day of January,
+AD, Two Thousand and Twenty-Four, at Olympia, Washington.

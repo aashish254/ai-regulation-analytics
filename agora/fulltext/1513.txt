@@ -1,0 +1,100 @@
+AN ACT to amend 1976 PA 388, entitled “An act to regulate political activity; to regulate campaign financing; to restrict campaign contributions and expenditures; to require campaign statements and reports; to regulate anonymous contributions; to regulate campaign advertising and literature; to provide for segregated funds for political purposes; to provide for the use of public funds for political purposes; to create certain funds; to provide for reversion, retention, or refunding of unexpended balances in certain funds; to require other statements and reports; to regulate acceptance of certain gifts, payments, and reimbursements; to prescribe the powers and duties of certain state departments and state and local officials and employees; to provide appropriations; to prescribe penalties and provide remedies; and to repeal certain acts and parts of acts,” by amending section 47 (MCL 169.247), as amended by 2015 PA 269, and by adding section 59
+
+
+The People of the State of Michigan enact:
+
+
+Sec. 47. (1) Except as otherwise provided in this subsection and subject to subsections (3) and (4), a billboard, placard, poster, pamphlet, or other printed matter having reference to an election, a candidate, or a ballot question, must display an identification that contains the name and address of the person paying for the matter. Except as otherwise provided in this subsection and subsection (5) and subject to subsections (3) and (4), if the printed matter relating to a candidate is an independent expenditure that is not authorized in writing by the candidate committee of that candidate, in addition to the identification required under this subsection, the printed matter must contain the following disclaimer: “Not authorized by any candidate committee”. An individual other than a candidate is not subject to this subsection if the individual is acting independently and not acting as an agent for a candidate or any committee. This subsection does not apply to communications between a separate segregated fund established under section 55 and individuals who can be solicited for contributions to that separate segregated fund under section 55.
+
+
+(2) A radio or television paid advertisement having reference to an election, a candidate, or a ballot question must identify the sponsoring person as required by the Federal Communications Commission, bear an identification that contains the name of the person paying for the advertisement, and be in compliance with subsection (3) and, except as otherwise provided by subsection (5), with the following:
+
+
+(a) If the radio or television paid advertisement relates to a candidate and is an independent expenditure, the advertisement must contain the following disclaimer: “Not authorized by any candidate”.
+
+
+(b) If the radio or television paid advertisement relates to a candidate and is not an independent expenditure but is paid for by a person other than the candidate to which it is related, the advertisement must contain the following disclaimer:
+
+
+“Authorized by..................................................................................................”.
+
+
+                             (name of candidate or name of candidate committee)
+
+
+(3) The size and placement of an identification or disclaimer required by this section must be determined by rules promulgated by the secretary of state. The rules may exempt printed matter and certain other items such as campaign buttons or balloons, the size of which makes it unreasonable to add an identification or disclaimer, from the identification or disclaimer required by this section.
+
+
+(4) Except for a communication described in subsection (5) and except for a candidate committee’s printed matter or radio or television paid advertisements, each identification required by this section must also indicate that the printed matter or radio or television paid advertisement is paid for “with regulated funds”. Printed matter or a radio or television paid advertisement that is not subject to this act must not bear the statement required by this subsection.
+
+
+(5) A communication otherwise entirely exempted from this act under section 6(2)(j) is subject to both of the following:
+
+
+(a) Must contain the identification required by subsection (1), (2), or (7) if that communication references a clearly identified candidate or ballot question within 60 days before a general election or 30 days before a primary election in which the candidate or ballot question appears on a ballot and is targeted to the relevant electorate where the candidate or ballot question appears on the ballot by means of radio, television, mass mailing, or prerecorded telephone message.
+
+
+(b) Is not required to contain the disclaimer required under subsection (1) or (2).
+
+
+(6) A person who knowingly violates this section is guilty of a misdemeanor punishable by a fine of not more than $1,000.00 or imprisonment for not more than 93 days, or both.
+
+
+(7) A prerecorded telephone message that in express terms advocates the election or defeat of a clearly identified candidate, or the qualification, passage, or defeat of a ballot question, must bear an identification that contains the name and telephone number, address, or other contact information of the person paying for the prerecorded telephone message, and must be in compliance with subsection (4). Except as otherwise provided in this subsection, a prerecorded telephone message subject to this subsection is not required to contain a disclaimer. If the prerecorded telephone message is generated in whole or substantially by artificial intelligence, the prerecorded telephone message must contain the following disclaimer: “This message was generated in whole or substantially by artificial intelligence.”.
+
+
+Sec. 59. (1) If a person, committee, or other entity creates, originally publishes, or originally distributes a qualified political advertisement, the qualified political advertisement must include, in a clear and conspicuous manner, a statement that meets all of the following requirements, as applicable:
+
+
+(a) State that the qualified political advertisement was generated in whole or substantially by artificial intelligence.
+
+
+(b) If the qualified political advertisement is a graphic communication, appear in letters at least as large as the majority of the text in the graphic communication and be in the same language as the language used in the graphic communication.
+
+
+(c) If the qualified political advertisement is an audio communication, be spoken in a clearly audible and intelligible manner at the beginning or end of the communication, last at least 3 seconds, and be in the same language as the language used in the audio communication.
+
+
+(d) If the qualified political advertisement is a video communication that also includes audio, do all of the following:
+(i) Appear for at least 4 seconds in letters at least as large as the majority of any text communication, or if there is no other text communication, in a size that is easily readable by the average viewer.
+(ii) Be spoken in a clearly audible and intelligible manner at the beginning or end of the communication and last at least 3 seconds.
+(iii) Be in the same language as the language used in the video communication.
+
+
+(2) A person that violates subsection (1) is subject to the following:
+
+
+(a) For a first violation, the person is responsible for a state civil infraction and may be ordered to pay a civil fine of not more than $250.00.
+
+
+(b) For a second or subsequent violation, the person is responsible for a state civil infraction and may be ordered to pay a civil fine of not more than $1,000.00 for each violation.
+
+
+(3) Each qualified political advertisement that is distributed or aired to the public that violates this section is a separate violation under subsection (2).
+
+
+(4) This section does not apply to any of the following:
+
+
+(a) A radio or television broadcasting station, including a cable or satellite television operator, programmer, or producer that broadcasts a qualified political advertisement or a communication generated in whole or substantially by artificial intelligence as part of a bona fide newscast, news interview, news documentary, or on‑the-spot coverage of bona fide news events, if the broadcast clearly acknowledges through content or a disclosure, in a manner that can be easily heard or read by the average listener or viewer, that the qualified political advertisement or communication generated in whole or substantially by artificial intelligence does not accurately represent the speech or conduct of the depicted individual.
+
+
+(b) A radio or television broadcasting station, including a cable or satellite television operator, programmer, or producer, when the station is paid to broadcast qualified political advertisements.
+
+
+(c) A distribution platform, including, but not limited to, a website or a regularly published newspaper, magazine, or other periodical of general circulation, including an internet or electronic publication, that routinely carries news and commentary of general interest and that publishes qualified political advertisements prohibited under this section, if the distribution platform has a clearly stated written policy, provided to any person, committee, or other entity that creates, seeks to publish, or originally distributes a qualified political advertisement, that the qualified political advertisement must include a statement consistent with subsection (1).
+
+
+(d) A qualified political advertisement that constitutes satire or parody.
+
+
+(e) A business or its affiliate if the business or its affiliate is regulated by the Michigan public service commission or the Federal Communications Commission.
+
+
+(5) A distribution platform, as described in subsection (4)(c), is not liable for the lack of disclosure content created in whole or substantially by artificial intelligence in a qualified political advertisement or prerecorded telephone message if the distribution platform can show that the distribution platform provided notice of its prohibitions related to a lack of disclosure of content created in whole or substantially by artificial intelligence in a qualified political advertisement or prerecorded telephone message.
+
+
+(6) As used in this section, “qualified political advertisement” means any paid advertisement, including, but not limited to, search engine marketing, display advertisements, video advertisements, native advertisements, issue advertisements, messaging service advertisements, mobile application advertisements, and sponsorships, relating to a candidate for federal, state, or local office in this state, any election to federal, state, or local office in this state, or a ballot question that contains any image, audio, or video that is generated in whole or substantially with the use of artificial intelligence.
+
+
+Enacting section 1. This amendatory act does not take effect unless House Bill No. 5143 of the 102nd Legislature is enacted into law.

@@ -1,0 +1,108 @@
+ Bill H.64
+
+
+SECTION 1. Chapter 7D of the General Laws, as amended by chapter 64 of the acts of 2017, is hereby further amended by inserting after section 10 the following new section:-
+
+
+Section 11. (a) As used in this section, the following words shall have the following meanings unless the context clearly requires otherwise:
+
+
+“Algorithm”, a specific procedure, set of rules, or order of operations designed to solve a problem or make a calculation, classification, or recommendation.
+
+
+“Artificial intelligence”, computerized methods and tools, including but not limited to machine learning and natural language processing, that act in a way that resembles human cognitive abilities when it comes to solving problems or performing certain tasks.
+
+
+“Automated decision system”, any computer program, method, statistical model, or process that aims to aid or replace human decision-making using algorithms or artificial intelligence. These systems can include analyzing complex datasets about human populations and government services or other activities to generate scores, predictions, classifications, or recommendations used by agencies to make decisions that impact human welfare.
+
+
+“Commonwealth of Massachusetts or “Massachusetts office”, any agency, constitutional office, department, board, commission, bureau, division or authority of the commonwealth, or of any political subdivision thereof, or of any authority established by the general court to serve a public purpose.
+
+
+“Identified group characteristic", age, race, creed, color, religion, national origin, gender, disability, sexual orientation, marital status, veteran status, receipt of public assistance, economic status, location of residence, or citizenship status.
+
+
+“Source code”, the structure of a computer program that can be read and understood by people.
+
+
+“Training data”, the data used to inform the development of an automated decision system and the decisions or recommendations it generates.
+
+ (b) There shall be a commission within the executive office of technology services and security for the purpose of studying and making recommendations relative to the use by the commonwealth of automated decision systems that may affect human welfare, including but not limited to the legal rights and privileges of individuals. The commission shall evaluate government use of automated decision systems in the commonwealth and make recommendations to the legislature regarding appropriate regulations, limits, standards and safeguards. The commission shall:
+
+
+(i) undertake a complete and specific survey of all uses of automated decision systems by the commonwealth of Massachusetts and the purposes for which such systems are used, including but not limited to:
+
+
+(a) the principles, policies, and guidelines adopted by specific Massachusetts offices to inform the procurement, evaluation, and use of automated decision systems, and the procedures by which such principles, policies, and guidelines are adopted;
+
+
+(b) the training specific Massachusetts offices provide to individuals using automated decision systems, and the procedures for enforcing the principles, policies, and guidelines regarding their use;
+
+
+(c) the manner by which Massachusetts offices validate and test the automated decision systems they use, and the manner by which they evaluate those systems on an ongoing basis, specifying the training data, input data, systems analysis, studies, vendor or community engagement, third-parties, or other methods used in such validation, testing, and evaluation;
+
+
+(d) matters related to the transparency, explicability, auditability, and accountability of automated decision systems in use in Massachusetts offices, including information about their structure; the processes guiding their procurement, implementation and review; whether they can be audited externally and independently; and the people who operate such systems and the training they receive;
+
+
+(e) the manner and extent to which Massachusetts offices make the automated decision systems they use available to external review, and any existing policies, laws, procedures, or guidelines that may limit external access to data or technical information that is necessary for audits, evaluation, or validation of such systems; and
+
+
+(f) procedures and policies in place to protect the due process rights of individuals directly affected by Massachusetts offices’ use of automated decision systems, including but not limited to public disclosure and transparency procedures;
+
+
+(ii) consult with experts in the fields of machine learning, algorithmic bias, algorithmic auditing, and civil and human rights;
+
+
+(iii) examine research related to the use of automated decision systems that directly or indirectly result in disparate outcomes for individuals or communities based on an identified group characteristic;
+
+
+(iv) conduct a survey of technical, legal, or policy controls to improve the just and equitable use of automated decision systems and mitigate any disparate impacts deriving from their use, including best practices, policy tools, laws, and regulations developed through research and academia or proposed or implemented in other states and jurisdictions;
+
+
+(v) examine matters related to data sources, data sharing agreements, data security provisions, compliance with data protection laws and regulations, and all other issues related to how data is protected, used, and shared by agencies using automated decision systems, in Massachusetts and in other jurisdictions;
+
+
+(vi) examine matters related to automated decision systems and intellectual property, such as the existence of non-disclosure agreements, trade secrets claims, and other proprietary interests, and the impacts of intellectual property considerations on transparency, explicability, auditability, accountability, and due process; and
+
+
+(vii) examine any other opportunities and risks associated with the use of automated decision systems by Massachusetts offices.
+
+ (c) The commission shall consist of the secretary of technology services and security or the secretary’s designee, who shall serve as chair; 1 member of the Senate, designated by the Senate president; 1 member of the house of representatives, designated by the speaker of the house of representatives; the house and senate chairs of the joint committee on state administration and regulatory oversight; the chief justice of the supreme judicial court or a designee; the attorney general or a designee; the state auditor or a designee; the inspector general or a designee; the secretaries of the Executive Office of Public Safety and Security, and Executive Office of Health and Human Services, or their designees; the Commissioner of the Department of Children and Families, or their designee; the chief counsel of the committee for public counsel services or a designee; the chief legal counsel of the Massachusetts Bar Association or a designee; the executive director of the American Civil Liberties Union of Massachusetts or a designee; 6 representatives from academic institutions in the Commonwealth who shall be experts in (i) artificial intelligence and machine learning, (ii) data science and information policy, (iii) social implications of artificial intelligence and technology; or (iv) technology and the law, 3 to be appointed by the House Chair and 3 to be appointed by the Senate Chair of the joint committee on advanced information technology and cybersecurity; the executive director of the Massachusetts Law Reform Institute or a designee; 1 representative from the National Association of Social Workers; 1 representative from the NAACP; 5 representatives from the Massachusetts Technology Collaborative; and 1 representative from the Massachusetts High Technology Council.
+
+ (d) Members of the commission shall be appointed within 45 days of the effective date of this act. The commission shall meet at the call of the chair based on the commission’s workload but not fewer than 10 times per calendar year. The commission shall hold at least one public hearing to solicit feedback from Massachusetts residents and other interested parties. The commission’s meetings shall be broadcast over the internet.
+
+ (e) The commission shall submit an annual report by December 31 to the governor, the clerks of the house of representatives and the senate, and the joint committee on advanced information technology and cybersecurity. The report will be a public record and it shall include, but not be limited to:
+
+
+(i) a description of the commission’s activities and any community engagement undertaken by the commission;
+
+
+(ii) the commission's findings, including but not limited to the publication of a list of all automated decision systems in use in Massachusetts offices, the policies, procedures, and training guidelines in place to govern their use, and any contracts with third parties pertaining to the acquisition or deployment of such systems; and
+
+
+(iii) any recommendations for regulatory or legislative action, including but not limited to the following:
+
+
+(a) recommendations about areas where Massachusetts offices ought not to use automated decision systems;
+
+
+(b) recommendations about whether and how existing state laws, regulations, programs, policies, and practices related to the use of automated decision systems should be amended to promote racial and economic justice, equity, fairness, accountability, and transparency;
+
+
+(c) recommendations for the development and implementation of policies and procedures that may be used by the state for the following purposes:
+
+
+(i) to allow a person affected by a rule, policy, or action made by, or with the assistance of, an automated decision system, to request and receive an explanation of such rule, policy, or action and the basis therefor;
+
+
+(ii) to determine whether an automated decision system disproportionately or unfairly impacts a person or group based on an identified group characteristic;
+
+
+(iii) to determine prior to or during the procurement or acquisition process whether a proposed agency automated decision system is likely to disproportionately or unfairly impact a person or group based on an identified group characteristic;
+
+
+(iv) to address instances in which a person or group is harmed by an agency automated decision system if any such system is found to disproportionately impact a person or group on the basis of an identified group characteristic; and
+
+
+(v) to make information publicly available that, for each automated decision system, will allow the public to meaningfully assess how such system functions and is used by the state, including making technical information about such system publicly available.

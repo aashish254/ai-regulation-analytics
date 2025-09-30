@@ -1,0 +1,48 @@
+SEC. 504. National security procedures to address certain risks and threats relating to artificial intelligence.
+(a) Findings.—Congress finds the following:
+
+(1) Artificial intelligence systems demonstrate increased capabilities in the generation of synthetic media and computer programming code, as well as areas such as object recognition, natural language processing, and workflow orchestration.
+
+(2) The growing capabilities of artificial intelligence systems in the areas described in paragraph (1), as well as the greater accessibility of large-scale artificial intelligence models and advanced computation capabilities to individuals, businesses, and governments, have dramatically increased the adoption of artificial intelligence products in the United States and globally.
+
+(3) The advanced capabilities of the systems described in paragraph (1), and their accessibility to a wide-range of users, have increased the likelihood and effect of misuse or malfunction of these systems, such as to generate synthetic media for disinformation campaigns, develop or refine malware for computer network exploitation activity, enhance surveillance capabilities in ways that undermine the privacy of citizens of the United States, and increase the risk of exploitation or malfunction of information technology systems incorporating artificial intelligence systems in mission-critical fields such as health care, critical infrastructure, and transportation.
+
+(b) Procedures required.—Not later than 180 days after the date of the enactment of this Act, the President shall develop and issue procedures to facilitate and promote mechanisms by which—
+
+(1) vendors of advanced computation capabilities, vendors and commercial users of artificial intelligence systems, as well as independent researchers and other third parties, may effectively notify appropriate elements of the United States Government of—
+
+(A) information security risks emanating from artificial intelligence systems, such as the use of an artificial intelligence system to develop or refine malicious software;
+
+(B) information security risks such as indications of compromise or other threat information indicating a compromise to the confidentiality, integrity, or availability of an artificial intelligence system, or to the supply chain of an artificial intelligence system, including training or test data, frameworks, computing environments, or other components necessary for the training, management, or maintenance of an artificial intelligence system;
+
+(C) biosecurity risks emanating from artificial intelligence systems, such as the use of an artificial intelligence system to design, develop, or acquire dual-use biological entities such as putatively toxic small molecules, proteins, or pathogenic organisms;
+
+(D) suspected foreign malign influence (as defined by section 119C of the National Security Act of 1947 (50 U.S.C. 3059(f))) activity that appears to be facilitated by an artificial intelligence system; and
+
+(E) any other unlawful activity facilitated by, or directed at, an artificial intelligence system;
+
+(2) elements of the Federal Government may provide threat briefings to vendors of advanced computation capabilities and vendors of artificial intelligence systems, alerting them, as may be appropriate, to potential or confirmed foreign exploitation of their systems, as well as malign foreign plans and intentions.
+
+(c) Briefing required.—
+
+(1) APPROPRIATE COMMITTEES OF CONGRESS.—In this subsection, the term “appropriate committees of Congress” means—
+
+(A) the congressional intelligence committees;
+
+(B) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(C) the Committee on Homeland Security of the House of Representatives.
+
+(2) IN GENERAL.—The President shall provide the appropriate committees of Congress a briefing on procedures developed and issued pursuant to subsection (b).
+
+(3) ELEMENTS.—The briefing provided pursuant to paragraph (2) shall include the following:
+
+(A) A clear specification of which Federal agencies are responsible for leading outreach to affected industry and the public with respect to the matters described in subparagraphs (A) through (E) of paragraph (1) of subsection (b) and paragraph (2) of such subsection.
+
+(B) An outline of a plan for industry outreach and public education regarding risks posed by, and directed at, artificial intelligence systems.
+
+(C) Use of research and development, stakeholder outreach, and risk management frameworks established pursuant to—
+
+(i) provisions of law in effect on the day before the date of the enactment of this Act; or
+
+(ii) Federal agency guidelines.

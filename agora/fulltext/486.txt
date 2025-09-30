@@ -1,0 +1,426 @@
+H. R. 7073
+
+
+To improve public-private partnerships and increase Federal research, development, and demonstration related to the evolution of next generation pipeline systems, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+January 22, 2024
+
+
+Mr. Weber of Texas (for himself, Ms. Caraveo, Mr. Lucas, and Mr. Obernolte) introduced the following bill; which was referred to the Committee on Science, Space, and Technology
+
+
+A BILL
+To improve public-private partnerships and increase Federal research, development, and demonstration related to the evolution of next generation pipeline systems, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Next Generation Pipelines Research and Development Act”.SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) DEPARTMENT.—The term “Department” means the Department of Energy.
+
+
+(2) ELIGIBLE ENTITY.—The term “eligible entity” means—
+
+
+(A) an institution of higher education (as such term is defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))), including historically Black colleges and universities (within the meaning of the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061)), Tribal colleges and universities (as such term is defined in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c)), and minority serving institutions (including the entities described in any of paragraphs (1) through (7) of section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)));
+
+
+(B) a nonprofit research organization;
+
+
+(C) a National Laboratory (as such term is defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801));
+
+
+(D) a private commercial entity;
+
+
+(E) a partnership or consortium of two or more entities described in subparagraphs (A) through (D) that leverages existing Department efforts; or
+
+
+(F) any other entity the Secretary determines appropriate.
+
+
+(3) SECRETARY.—The term “Secretary” means the Secretary of Energy.
+
+
+(4) TECHNICAL STANDARDS.—The term “technical standard” has the meaning given such term in section 12(d)(5) of the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note).SEC. 3. COORDINATION.
+
+
+In carrying out this Act—
+
+
+(1) the Secretary shall avoid unnecessary duplication and achieve shared mission goals by coordinating with the Administrator of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation and across all relevant program offices at the Department of Energy, including—
+
+
+(A) the Office of Science;
+
+
+(B) the Office of Fossil Energy and Carbon Management;
+
+
+(C) the Office of Energy Efficiency and Renewable Energy;
+
+
+(D) the Office of Cybersecurity, Energy Security, and Emergency Response;
+
+
+(E) the Advanced Research Projects Agency–Energy;
+
+
+(F) the Office of Clean Energy Demonstrations; and
+
+
+(G) any other cross-cutting program office determined appropriate;
+
+
+(2) the Secretary of Transportation shall ensure participation of and coordination with the Secretary of Energy of—
+
+
+(A) the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation; and
+
+
+(B) any other program office of the Department of Transportation determined appropriate; and
+
+
+(3) the Secretary shall coordinate with the Director of the National Institute of Standards and Technology, the Secretary of the Interior, and the heads of other relevant Federal agencies, as appropriate.SEC. 4. ADVANCED PIPELINE MATERIALS AND TECHNOLOGIES DEMONSTRATION INITIATIVE.
+
+
+(a) In General.—Subtitle E of title III of division D of the Infrastructure Investment and Jobs Act (Public Law 117–58) is amended by adding at the end the following new section:
+
+
+“SEC. 40344. ADVANCED PIPELINE MATERIALS AND TECHNOLOGIES DEMONSTRATION INITIATIVE.
+
+
+“(a) Establishment Of Initiative.—The Secretary shall establish a demonstration initiative (in this section referred to as the ‘Initiative’) under which the Secretary, through a competitive merit review process, shall award financial assistance to eligible entities to carry out demonstration projects on low- to mid-technology readiness level subjects to achieve deployment of technologies that—
+
+
+“(1) are applicable to pipelines and associated infrastructure, including liquefied natural gas facilities and underground and above ground gas and liquid fuel storage facilities; and
+
+
+“(2) involve the development of next generation pipeline systems, components, and related technologies.
+
+
+“(b) Demonstration Project Focus Areas.—In carrying out the Initiative, the Secretary shall select demonstration projects that best advance research undertaken by the Department and the Department of Transportation and incorporate a range of technology focus areas, which may include the following:
+
+
+“(1) Advanced leak detection and mitigation tools and technologies.
+
+
+“(2) Novel materials, including alloy and nonmetallic materials, to improve integrity for new and existing pipelines, such as pipeline coatings, sleeves, and liners, and corrosion resistant materials, including maximum and minimum flow rates and immunity to electrical discharge processes.
+
+
+“(3) Technologies and methods for retrofitting existing pipelines, resolving material compatibility issues, and minimizing leakage, such as field protective coatings and material treatment.
+
+
+“(4) Advanced manufacturing approaches for producing, fitting, and coupling pipelines, including the fabrication of higher performance pipeline materials and new extrusion technologies or methods to join ultra-high strength and corrosion resistant materials at a scale for distribution.
+
+
+“(5) Advanced sensor technologies and processes that enable real-time or in situ monitoring of pipeline assets to assess and mitigate leaks, both internal and external to the pipeline, which may include the following:
+
+
+“(A) Wireless sensors, such as surface acoustic wave sensors.
+
+
+“(B) Advanced and cost-effective electrochemical sensors.
+
+
+“(C) Distributed fiber optic sensors.
+
+
+“(D) Autonomous sensor systems, including uncrewed aircraft.
+
+
+“(E) Optical methods.
+
+
+“(F) Multi-use platforms for diverse sources.
+
+
+“(G) Hybrid data-analysis platforms.
+
+
+“(6) Advanced computational, data analytics, and machine learning models to achieve the following:
+
+
+“(A) Multiscale modeling, characterization, and optimization of transmission and distribution systems and components to aid in planning for optimized and resilient infrastructure.
+
+
+“(B) Correlation between sensor and emissions data at all operational points and across a variety of scales to assure system integrity spanning large areas.
+
+
+“(C) Accurate material lifecycle predictions and simulation platforms to forecast pipeline health.
+
+
+“(D) Secure real time autonomous monitoring and repair capabilities.
+
+
+“(E) Mapping and monitoring of structural health parameters, such as corrosion.
+
+
+“(7) Self-healing and self-repair functionalities, including by chemical treatment methods.
+
+
+“(8) Autonomous robotic and patch technologies for inspection and repair.
+
+
+“(9) Dynamic compressor technologies, including retrofit kits for existing compressor systems.
+
+
+“(10) Strategies and technologies for integrated cybersecurity considerations and countering cyberattacks.
+
+
+“(11) Technologies and methods to reduce potential environmental impacts, including at the atmospheric and subsurface level, associated with pipelines, liquefied natural gas facilities, and gas and liquid fuel storage facilities, such as equipment failure.
+
+
+“(12) Tools to evaluate geographical pipeline data for the feasibility of repurposing existing infrastructure for safe and effective transport and use of alternative fuels, blends, and carbon dioxide.
+
+
+“(13) Tools and technologies applicable to improving the safety, operation, and efficiency of liquefied natural gas facilities and gas and liquid fuel storage facilities.
+
+
+“(c) Selection Requirements.—In selecting eligible entities for demonstration projects under the Initiative, the Secretary shall, to the maximum extent practicable, take the following actions:
+
+
+“(1) Encourage regional diversity among eligible entities, including participation by such entities located in rural States.
+
+
+“(2) Prioritize technological diversity among eligible entities.
+
+
+“(3) Prioritize a diverse mix of energy, substances, fuel sources, and byproducts, including the following:
+
+
+“(A) Gas and liquid hydrocarbons, including natural gas, renewable natural gas, methane, ethane, and liquefied natural gas.
+
+
+“(B) Carbon dioxide.
+
+
+“(C) Hydrogen.
+
+
+“(D) Biofuels.
+
+
+“(E) Water.
+
+
+“(F) Substances in the hydrogen supply chain, including ammonia and liquid organic hydrogen carriers.
+
+
+“(G) Blends of gases or liquids, including hydrogen blends.
+
+
+“(H) Any other source the Secretary determines appropriate.
+
+
+“(4) Prioritize projects that leverage and are complementary to existing energy infrastructure.
+
+
+“(5) Prioritize projects that leverage matching funds from non-Federal sources.
+
+
+“(6) Ensure that selected projects are coordinated with or expand on the existing technology demonstration programs of the Department.
+
+
+“(7) Evaluate projects and topics for technical performance and economic feasibility as part of lifecycle assessments for return on investment impact.
+
+
+“(d) Location.—To the maximum extent practicable, demonstration projects under the Initiative shall be located on sites with existing research infrastructure or with the ability to coordinate with existing Department user facilities and research centers.
+
+
+“(e) Authorization Of Appropriations.—Out of funds authorized to be appropriated for—
+
+
+“(1) the Office of Energy Efficiency and Renewable Energy, and
+
+
+“(2) the Office of Fossil Energy and Carbon Management,
+
+
+pursuant to paragraphs (1) and (6), respectively, of section 10771 of subtitle O of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167), there is authorized to be appropriated to the Secretary of Energy to carry out this section $45,000,000 for fiscal year 2024, and $50,000,000 for each of fiscal years 2025 through 2028.
+“(f) Sunset.—This section shall terminate five years after the date of the enactment of this section.”.
+
+
+(b) Clerical Amendment.—The table of contents in section 1(b) of the Infrastructure Investment and Jobs Act is amended by inserting after the item relating to section 40343 the following new item:
+
+
+“Sec. 40344. Advanced pipeline materials and technologies demonstration initiative.”.SEC. 5. JOINT RESEARCH AND DEVELOPMENT PROGRAM.
+
+
+(a) In General.—Subject to the availability of appropriations, the Secretary, in consultation with the Secretary of Transportation and the Director of the National Institute of Standards and Technology, and in coordination with the demonstration initiative established pursuant to section 40344 of the Infrastructure Investment and Jobs Act (Public Law 117–58), as added by section 4, shall establish within the Department a joint research and development program (referred to in this Act as the “Joint Program”) to carry out research projects that—
+
+
+(1) develop cost-effective advanced materials and technologies for pipeline transportation systems at different scales;
+
+
+(2) enable the commercialization of innovative materials and technologies for pipeline transportation systems;
+
+
+(3) support the development of technical standards of innovative materials and technologies for pipeline transportation systems; and
+
+
+(4) are at a low technology readiness level and not pursued by the Pipeline Safety Research Program of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation.
+
+
+(b) Memorandum Of Understanding.—Not later than one year after the date of the enactment of this Act, the Secretary shall enter into or update an existing memorandum of understanding with the Secretary of Transportation and the Director of the National Institute of Standards and Technology to administer the Joint Program. Such memorandum shall require each participating agency to—
+
+
+(1) identify unique research capabilities to contribute while avoiding duplication of existing efforts; and
+
+
+(2) include cost sharing and cost reimbursement abilities among participating agencies, including any training or resource outlays that will be required.
+
+
+(c) Infrastructure.—In carrying out the Joint Program, the Secretary, the Secretary of Transportation, and the Director of the National Institute of Standards and Technology shall—
+
+
+(1) use existing research infrastructure at—
+
+
+(A) Department of Energy facilities, including National Laboratories;
+
+
+(B) Department of Transportation initiatives, including any such initiatives carried out through the Pipeline and Hazardous Materials Safety Administration; and
+
+
+(C) the National Institute of Standards and Technology; and
+
+
+(2) develop new infrastructure for potential projects, if appropriate.
+
+
+(d) Goals And Metrics.—The Secretary, the Secretary of Transportation, and the Director of the National Institute of Standards and Technology shall develop goals and metrics for each agency in meeting technological progress under the Joint Program, consistent with existing United States energy safety, resilience, and security policies.
+
+
+(e) Selection Of Projects.—To the maximum extent practicable, the Secretary, the Secretary of Transportation, and the Director of the National Institute of Standards and Technology shall ensure the following with respect to the Joint Program:
+
+
+(1) Projects are carried out under conditions that represent a variety of geographies, physical conditions, and market constraints.
+
+
+(2) Projects represent an appropriate balance of the following:
+
+
+(A) Larger, higher-cost projects.
+
+
+(B) Smaller, lower-cost projects.
+
+
+(3) To the maximum extent practicable, projects are transferred between participating agencies based on the stage of research and capabilities of each agency.
+
+
+(f) Priority.—In carrying out the Joint Program, the Secretary, the Director of the National Institute of Standards and Technology, and the Secretary of Transportation shall, through consultation with the demonstration initiative established pursuant to section 40344 of the Infrastructure Investment and Jobs Act (Public Law 117–58), as added by section 4, to identify and advance areas of research most needed for demonstration projects under such demonstration initiative, give priority to research and demonstration projects that—
+
+
+(1) are likely to be of value to such demonstration initiative; and
+
+
+(2) are done in coordination with, or advance knowledge critical to, the National Pipeline Modernization Center established pursuant to section 6.
+
+
+(g) Relation To Existing Law.—Nothing in this section may be construed to change existing agency roles, responsibilities, or areas of expertise as described in section 12 of the Pipeline Safety Improvement Act of 2002 (Public Law 107–355; 49 U.S.C. 60101 note)
+
+
+(h) Sunset.—This section shall terminate five years after the date of the enactment of this section.SEC. 6. NATIONAL PIPELINE MODERNIZATION CENTER.
+
+
+(a) In General.—In carrying out the demonstration initiative established pursuant to section 40344 of the Infrastructure Investment and Jobs Act (Public Law 117–58), as added by section 4, and the Joint Program and subject to the availability of appropriations, the Secretary shall establish a National Pipeline Modernization Center (referred to in this Act as the “Center”), which shall focus on collaborating with industry and stakeholders to coordinate and carry out research, development, and demonstration projects focused on commercializing cost-effective products and procedures aligned with the goals and priorities set forth by the Department.
+
+
+(b) Selection.—The Secretary shall administer the Center in conjunction with an eligible entity pursuant to an agreement between the Department and such entity. Such entity shall be selected on a competitive, merit-reviewed basis.
+
+
+(c) Existing Centers.—In administering the Center, the Secretary shall prioritize higher education energy-related research centers in existence as of the date of the enactment of this Act.
+
+
+(d) Period Of Performance.—An agreement under subsection (b) shall be for a period of not more than five years, subject to the availability of appropriations.
+
+
+(e) Location.—The Center shall be located in proximity to critical transportation infrastructure connecting to an existing national pipeline transportation system and other Department monitoring assets, as determined by the Secretary.
+
+
+(f) Coordination With Training And Qualifications Center.—In carrying out the functions described in subsection (a), the Center shall coordinate and collaborate with training centers of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation to facilitate knowledge sharing among, and enhanced training opportunities for, Federal and State pipeline safety inspectors and investigators.
+
+
+(g) Duplication.—The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities under this section with the National Center of Excellence for Liquefied Natural Gas Safety established pursuant to section 111 of the Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020 (49 U.S.C. 60103 note; Public Law 116–260, div. R, title I).SEC. 7. NIST PIPELINE METROLOGY.
+
+
+(a) In General.—Subject to the availability of appropriations, the Director of the National Institute of Standards and Technology shall carry out a program of measurement research, development, demonstration, and standardization to—
+
+
+(1) ensure the integrity of pipeline facilities; and
+
+
+(2) support pipeline safety, security, efficiency, sustainability, and resilience.
+
+
+(b) Testing.—The Director of the National Institute of Standards and Technology, in consultation with the private sector and international standards organizations, shall support testing, evaluation, and research infrastructure to support the activities described in subsection (a).
+
+
+(c) Allocation Of Appropriations.—From amounts appropriated or otherwise made available for the National Institute of Standards and Technology, the Director of the National Institute of Standards and Technology shall allocate up to $2,500,000 for each of fiscal years 2024 through 2028 to carry out this section.SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+
+(a) In General.—Out of funds authorized to be appropriated for the Office of Energy Efficiency and Renewable Energy and the Office of Fossil Energy and Carbon Management pursuant to paragraphs (1) and (6), respectively, of section 10771 of subtitle O of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167), there is authorized to be appropriated to the Secretary to carry out—
+
+
+(1) section 5, $20,000,000 for fiscal year 2024, and $30,000,000 for each of fiscal years 2025 through 2028; and
+
+
+(2) section 6, $10,000,000 for fiscal year 2024, and $15,000,000 for each of fiscal years 2025 through 2028.
+
+
+(b) Offset.—Section 10771 of subtitle O of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167) is amended—
+
+
+(1) in paragraph (1)—
+
+
+(A) in the matter preceding subparagraph (A), by striking “2026” and inserting “2028”; and
+
+
+(B) in subparagraph (B), by striking “1,200,000,000” and inserting “$1,100,000,000”; and
+
+
+(2) in subsection (6)—
+
+
+(A) in the matter preceding subparagraph (A), by striking “2026” and inserting “2028”;
+
+
+(B) in subparagraph (A), by striking “600,000,000” and inserting “$445,000,000”;
+
+
+(C) in subparagraph (B)—
+
+
+(i) by striking “200,000,000” and inserting “$100,000,000”; and
+
+
+(ii) by striking “and” after the semicolon;
+
+
+(D) in subparagraph (C)—
+
+
+(i) by striking “1,000,000,000” and inserting “$900,000,000”; and
+
+
+(ii) by striking the period and inserting “; and”; and
+
+
+(E) by adding at the end the following new subparagraph:
+
+
+“(D) $445,000,000 to carry out pipeline research, development, demonstration, and commercial application activities.”.

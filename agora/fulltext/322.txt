@@ -1,0 +1,126 @@
+A BILL
+
+To prohibit certain contractors who have previously consulted for certain foreign entities or who fail to make disclosures relating to conflicts of interest that relate to national security or foreign policy from receiving contracts from the Department of State, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “No CCP Consultants Act”.
+
+SEC. 2. Organizational conflict of interests relating to national security and foreign policy.
+(a) Prohibition related certain contracts or grants.—
+
+(1) IN GENERAL.—The Secretary may not, after the date of the enactment of this Act, enter into, renew, or extend a contract with, or award a grant to, a covered consultancy.
+
+(2) DISCLOSURE.—Any individual or entity that submits an offer or bid for a contract to provide consulting services to the Department of State shall disclose in such offer or bid any information relevant to the individual or entity with respect to the prohibition under paragraph (1), including—
+
+(A) whether the individual or entity has entered into a contract with, or received grants or other financial awards from a covered entity in the five years prior to submitting the offer or bid; and
+
+(B) at the time the contract to provide consulting services to the Department will be entered into, whether—
+
+(i) any contract entered into by the individual or entity with a covered entity will still be in effect; and
+
+(ii) the individual or entity will be receiving funds from, or have any unobligated or unexpended funds received under, any grant or other financial award from a covered entity.
+(3) PENALTIES.—
+
+(A) IN GENERAL.—If the Secretary determines that a contractor of the Department failed to make the disclosure required by paragraph (2), the Secretary shall—
+
+(i) terminate the applicable contract for cause; and
+
+(ii) initiate a suspension and debarment proceeding with respect to the contractor.
+
+(B) MAXIMUM LENGTH OF DEBARMENT.—The maximum length of debarment of a contractor under this paragraph shall be a period of 5 years.
+(b) Certification.—
+
+(1) IN GENERAL.—After a determination by the Secretary that a company is a covered consultancy, such company may submit to the Secretary a written and signed certification that—
+
+(A) the consultancy is no longer—
+
+(i) performing under a contract with a covered entity;
+
+(ii) carrying out activities under a grant received from a covered entity; or
+
+(iii) receiving funds, or have any unobligated or unexpended funds received from a covered entity; and
+
+(B) will not receive or pursue a contract with a covered entity or a grant or other financial award from a covered entity—
+
+(i) during the term of a contract with the Department of State; or
+
+(ii) while receiving funds from the Department of State or obligating or expending any such funds.
+
+(2) STATUS CHANGE.—Upon the approval by the Secretary of a certification submitted under paragraph (1), a company is deemed to not be a covered consultancy until the expiration of the certification under paragraph (3).
+
+(3) EXPIRATION.—A certification submitted by a company under paragraph (1) shall expire on the earlier date on which the company, after submitting such certification enters into, extends, renews, or performs under a contract with a covered entity for consulting services.
+(c) Guidance.—The Secretary, in consultation with the Secretary of Commerce, the Secretary of Homeland Security, the Secretary of the Treasury, the Director of National Intelligence, the Attorney General, the Secretary of Defense, and the heads of such other Executive agencies (as such term is defined in section 105 of title 5, United States Code) as determined appropriate by the Secretary, shall issue procurement policies for the Department of State as follows:
+
+(1) Policies to implement the prohibition under subsection (a)(1).
+
+(2) Best practices to avoid becoming covered consultancies under this section and for covered consultancies to end their status as such.
+
+(3) A policy containing the exact provisions and terms relating to the requirements of paragraphs (2) and (3) of subsection (a) to be included in solicitations, contracts, and grants of the Department.
+
+(d) Revision of department of state acquisition regulation.—Not later than one year after the date of the enactment of this Act, the Secretary shall revise the acquisition regulations of the Department of State to implement this section.
+(e) Definitions.—In this section:
+
+(1) CONSULTING SERVICES.—The term “consulting services” has the meaning given the term “advisory and assistance services” in section 2.101 of the Federal Acquisition Regulation, except that—
+
+(A) the term does not include the services described in paragraph (3) of such section; and
+
+(B) each instance of the term “Federal” is replaced with “client”.
+
+(2) COVERED CONSULTANCY.—The term “covered consultancy” means a company that, itself or any subsidiary or affiliate thereof, in immediately preceding one year period entered into, extended, renewed, or performed under a contract with a covered entity for consulting services.
+
+(3) COVERED ENTITY.—The term “covered entity” means any of the following:
+
+(A) The Government of the People’s Republic of China.
+
+(B) The Chinese Communist Party.
+
+(C) The People’s Liberation Army, the Ministry of State Security, or other security service or intelligence agency of the People’s Republic of China.
+
+(D) Any entity on the Non–SDN Chinese Military-Industrial Complex Companies List (NS–CMIC–List) maintained by the Office of Foreign Assets Control of the Department of the Treasury under Executive Order 14032 (86 Fed. Reg. 30145; relating to addressing the threat from securities investments that finance certain companies of the People’s Republic of China), or any successor order.
+
+(E) Any Chinese military company identified by the Secretary of Defense pursuant to section 1237(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 50 U.S.C. 1701 note).
+
+(F) Any Chinese state-owned entity or other entity under the ownership, or control, directly or indirectly, of the Government of the People’s Republic of China or the Chinese Communist Party that is engaged in one or more national security industries.
+
+(G) The Government of the Russian Federation, any Russian State-owned entity, or any entity sanctioned by the Secretary of the Treasury under Executive Order 13662 titled “Blocking Property of Additional Persons Contributing to the Situation in Ukraine”(79 Fed. 5 Reg. 16169).
+(H) The government or any State-owned entity of any country if the Secretary of State determines that such government has repeatedly provided support for acts of international terrorism pursuant to—
+
+(i) section 1754(c)(1)(A) of the Export Control Reform Act of 2018 (50 U.S.C. 4318(c)(1)(A));
+
+(ii) section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+
+(iii) section 40 of the Arms Export Control Act (22 U.S.C. 2780); or
+
+(iv) any other provision of law.
+
+(I) Any entity included on any of the following lists maintained by the Department of Commerce—
+
+(i) the Entity List set forth in Supplement No. 4 to part 744 of the Export Administration Regulations;
+
+(ii) the Denied Persons List as described in section 764.3(a)(2) of the Export Administration Regulations; and
+
+(iii) the Unverified List set forth in Supplement No. 6 to part 744 of the Export Administration Regulations.
+
+(J) The Military End User List set forth in Supplement No. 7 to part 744 of the Export Administration Regulations.
+
+(4) EXPORT ADMINISTRATION REGULATIONS.—The term “Export Administration Regulations” means the regulations set forth in subchapter C of chapter VII of title 15, Code of Federal Regulations.
+(5) NATIONAL SECURITY INDUSTRY.—The term “national security industry” means—
+
+(A) a military-related industry;
+
+(B) semiconductor production;
+
+(C) researching or commercializing quantum computing;
+
+(D) producing products or services that use artificial intelligence;
+
+(E) the biotechnology industry;
+
+(F) the cybersecurity industry; or
+
+(G) the mining, processing, or refining of critical minerals (as such term is defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a))) for use by a covered entity.
+
+(6) SECRETARY.—The term “Secretary” means the Secretary of State.

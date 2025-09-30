@@ -1,0 +1,56 @@
+A BILL
+
+To direct the Administrator of the Federal Aviation Administration to adopt a performance- and risk-based approach in reviewing requests for certain certificates of waiver, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Drone Safety and Efficiency Act”.
+SEC. 2. 14 CFR part 107 waiver improvements.
+
+(a) In general.—The Administrator of the Federal Aviation Administration shall adopt a performance- and risk-based approach in reviewing requests for certificates of waiver under section 107.200 of title 14, Code of Federal Regulations.
+
+(b) Standardization of waiver application.—
+
+(1) IN GENERAL.—In carrying out subsection (a), the Administrator shall improve the the process established to submit requests for certificates of waiver described in subsection (a).
+
+(2) FORMAT.—In carrying out paragraph (1), the Administrator may not require the use of open-ended descriptive prompts that are required to be filled out by an applicant, except to provide applicants the ability to provide the Administration with information for an unusual or irregular operation.
+(3) DATA.—
+
+(A) IN GENERAL.—In carrying out paragraph (1), the Administrator shall leverage data gathered from previous requests for certificates of waivers.
+
+(B) CONSIDERATIONS.—In carrying out subparagraph (A), the Administrator shall safely use—
+
+(i) big data analytics; and
+
+(ii) machine learning.
+(c) Consideration of property ownership interest.—
+
+(1) IN GENERAL.—In determining whether to issue a certificate of waiver under section 107.200 of title 14, Code of Federal Regulations, the Administrator shall—
+
+(A) consider whether the waiver applicant has control over access to all real property on the ground within the area of operation; and
+
+(B) recognize and account for the safety enhancements of such controlled access.
+
+(2) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to direct the Administrator to consider the lack of control over access to all real property on the ground within an area of operation, or a lack of property interest in such area of operation, as negatively affecting the safety of the operation intended to be conducted under such certificate of waiver.
+(d) Public availability of waivers.—
+
+(1) IN GENERAL.—The Administrator shall publish all certificates of waiver issued under section 107.200 of title 14, Code of Federal Regulations, on the website of the Administration, including, with respect to each issued certificate of waiver—
+
+(A) the terms, conditions, and limitations; and
+
+(B) the class of airspace and any restrictions related to operating near airports or heliports.
+
+(2) PUBLICATION.—In carrying out paragraph (1), the Administrator shall ensure that published information is made available in a manner that prevents inappropriate disclosure of proprietary information.
+(e) Precedential use of previously approved waivers.—
+
+(1) WAIVER APPROVAL PRECEDENT.—Except as provided in paragraph (3), if the Administrator determines, using criteria for a particular waiver, that an application for a certificate of waiver issued under section 107.200 of title 14, Code of Federal Regulations, is substantially similar (or is comprised of elements that are substantially similar) to an application for a certificate of waiver that the Administrator has previously approved, the Administrator may streamline, as appropriate, the approval of applications with substantially similar conditions and limitations as a previously approved application.
+
+(2) RULE OF CONSTRUCTION.—Nothing in paragraph (1) shall be construed to preclude an applicant for a certificate of waiver from applying to modify a condition, or remove a limitation of, such certificate.
+
+(f) Modification of waivers.—
+
+(1) IN GENERAL.—The Administrator shall establish an expedited review process for a request to modify or renew certificates of waiver previously issued under section 107.200 of title 14, Code of Federal Regulations, as appropriate.
+
+(2) USE OF REVIEW PROCESS.—The review process established under paragraph (1) shall be used to review certificates of waiver that cover operations that are substantially similar in all material facts to operations covered under a subsequently issued certificate of waiver.

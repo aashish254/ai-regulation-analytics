@@ -1,0 +1,86 @@
+ S. 3325
+
+
+To support research on privacy enhancing technologies and promote responsible data use, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+November 15, 2023
+
+
+Ms. Cortez Masto (for herself and Mrs. Fischer) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To support research on privacy enhancing technologies and promote responsible data use, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Promoting Digital Privacy Technologies Act”.
+
+ SEC. 2. PROMOTING PRIVACY ENHANCING TECHNOLOGIES.
+
+
+(a) Definition Of Privacy Enhancing Technology.—In this section the term “privacy enhancing technology” means any software or hardware solution, technical processes, or other technological means of protecting an individual’s privacy and the confidentiality of data, which may include—
+
+
+(1) de-identification, anonymization and pseudonymization technologies or techniques, filtering tools, anti-tracking technology, differential privacy tools, synthetic data generation tools, cryptographic techniques (such as secure multi-party computation and homomorphic encryption), and systems for federated learning; and
+
+
+(2) any other software or hardware solution, technical processes, or other technological means that the Director of the National Science Foundation, in consultation with the Director of the National Institute of Standards and Technology, determines to be a technology that enhances privacy.
+
+ (b) National Science Foundation Support Of Research On Privacy Enhancing Technology.—The Director of the National Science Foundation, in consultation with other relevant Federal agencies (as determined by the Director), shall support merit-reviewed and competitively awarded research on privacy enhancing technologies, which may include—
+
+
+(1) fundamental research on technologies for de-identification, pseudonymization, anonymization, or obfuscation to protect individuals’ privacy in data sets;
+
+
+(2) fundamental research on algorithms, machine learning, and other computational processes or tools used to protect individual privacy when collecting, storing, sharing, aggregating, or analyzing data;
+
+
+(3) fundamental research on technologies that promote data minimization principles in data collection, sharing, transfers, retention, and analytics;
+
+
+(4) research awards on privacy enhancing technologies coordinated with other relevant Federal agencies and programs;
+
+
+(5) research on barriers to, and opportunities for, the adoption of privacy enhancing technologies, including studies on effective business models for privacy enhancing technologies; and
+
+
+(6) international cooperative research, awards, challenges, and pilot projects on privacy enhancing technologies with key United States allies and partners.
+
+ (c) Integration Into The Computer And Network Security Program.—Subparagraph (D) of section 4(a)(1) of the Cyber Security Research and Development Act (15 U.S.C. 7403(a)(1)(D)) is amended to read as follows:
+
+
+“(D) privacy enhancing technologies and confidentiality;”.
+
+ (d) Coordination With The National Institute Of Standards And Technology And Other Stakeholders.—
+
+
+(1) IN GENERAL.—The Director of the Office of Science and Technology Policy, acting through the Networking and Information Technology Research and Development Program, shall coordinate with the Director of the National Science Foundation, the Director of the National Institute of Standards and Technology, and the Federal Trade Commission to accelerate the development and use of privacy enhancing technologies.
+
+
+(2) OUTREACH.—The Director of the National Institute of Standards and Technology shall conduct outreach to—
+
+
+(A) receive input from private, public, and academic stakeholders on the development and potential uses of privacy enhancing technologies; and
+
+
+(B) develop ongoing public and private sector engagement to create and disseminate voluntary, consensus-based resources to increase the integration of privacy enhancing technologies in data collection, sharing, transfers, retention, and analytics by the public and private sectors.
+
+ (e) Report On Privacy Enhancing Technology Research.—Not later than 3 years after the date of enactment of this Act, the Director of the Office of Science and Technology Policy, acting through the Networking and Information Technology Research and Development Program, shall, in coordination with the Director of the National Science Foundation, the Director of the National Institute of Standards and Technology, and the Chair of the Federal Trade Commission, submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives, a report containing—
+
+
+(1) the progress of research on privacy enhancing technologies;
+
+
+(2) the progress of the development of voluntary resources described under subsection (d)(2)(B); and
+
+
+(3) any policy recommendations that could facilitate and improve communication and coordination among the private sector, the National Science Foundation, and relevant Federal agencies through the implementation of privacy enhancing technologies.

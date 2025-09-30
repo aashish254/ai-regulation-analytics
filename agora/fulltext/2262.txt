@@ -1,0 +1,63 @@
+§11-13Q-1 Oa. Credit allowed for specified high technology manufacturers.
+(a) High technology manufacturing business defined. - For purposes of this section, the term "high technology manufacturing business" means and is limited to only those businesses engaged in a business enumerated in subdivision (1) of  this subsection: Provided, That for tax years beginning on and after January 1, 2022, the term "high technology manufacturing business" means and is limited to only those businesses engaged in a business enumerated in subdivision (1) or subdivision (2), or both, of this subsection.
+ (1) "High technology manufacturing business" means a manufacturing activity properly classified as having one or more of the following six-digit North American Industry Classification System code numbers.
+
+
+North American Industry Classification System Code        Manufacturing Activity
+Computer & Peripheral Equipment
+334111                                                                Electronic Computers                        334112                                                                Computer Storage Devices
+Electronic Components
+334411                                                         Electron Tubes
+334414                                                         Electronic Capacitors
+Semiconductors
+334413                                                         Semiconductor & Related Devices
+333295                                                         Semiconductor Machinery
+
+
+(2) "High technology manufacturing business" means, in addition to those activities enumerated in subdivision (1) of this subsection:
+(A) The activity of manufacturing drones, target drones, unmanned aircraft or unmanned robotic aircraft,
+(B) The activity of manufacturing autonomous motor vehicles,
+(C) The activity of manufacturing robots, robotic medical machines or equipment or robotic surgical machines or equipment,
+(D) The activity of manufacturing machines, equipment and products predominantly operated by and incorporating artificial intelligence.
+(E) The activity of manufacturing biotechnology products.
+(F) The activity of manufacturing medical devices.
+(3) Definitions - For purposes of this section.
+(A) Artificial Intelligence - For purposes of this section "artificial intelligence" means
+computers and computer systems that, by design and function, perform tasks that would typically require human intelligence, including decision-making, visual perception, speech recognition, or translation of one human language into another human language.
+(B) Autonomous - For purposes of this section "autonomous" means that set of characteristics of a machine which taken as a whole cause the machine to be capable of performing designated tasks without immediate direct or explicit human control or intervention beyond initial programming and preliminary set up and initiation.
+(C) Autonomous Motor Vehicle - For purposes of this section, The term "autonomous biology, cellular biology, biochemistry, or biophysics, or any combination thereof. Biotechnology
+ includes, but is not limited to, recombinant DNA techniques, genetics and genetic engineering, cell fusion techniques, and bioprocesses, using living organisms, or parts of organisms.
+(ii) Biotechnology does not include farming, agriculture, or animal or apiary husbandry, or the production of any crop or agricultural product by traditional growing processes or by hydroponic growing processes, or fish farming, or the raising or growing or production of fish or any aquatic animal or product.
+(iii) Biotechnology does not include zymurgy, wine making, brewing, preparation of yeast used in food production or preparation, or any food or drink preparation or production.
+(E) "Biotechnology product" means any virus, therapeutic serum, antibody, protein, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or analogous product produced through the application of biotechnology that is used in the prevention, treatment, or cure of diseases or injuries to humans, animals, or plants.
+(F) Drone - For purposes of this section "drone" means an unmanned aircraft that may be controlled either remotely or by an autonomous system, which may work with internal systemic sensors or ground positioning satellite systems, or both.
+(G) "Medical device" means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, that is:
+(i) Recognized in the national formulary or any supplement thereof, or the United States pharmacopeia, or any supplement thereof;
+(ii) Intended for use in the diagnosis of disease, or in the cure, mitigation, treatment, or prevention of disease or other conditions in human beings or animals; or
+(iii) Intended to affect the structure or any function of the body of human beings or animals, and which does not achieve any of its primary intended purposes through chemical action or on the body of human beings or animals and which is not dependent upon being metabolized for the achievement of any of its principal intended purposes.
+(H) Program - For purposes of this section "program" means a set of instructions that can be executed by a computer, or other machine or device to perform calculations, processes or operations, or a combination thereof, to execute a specific task or series of tasks.
+(I) Robot- For purposes of this section "robot" means a programmable machine, for which operating instructions are typically derived from computer programming, which machine is: (i) Capable of performing operations and processes involving physical movement; (ii) designed to operate with a degree of autonomy; (iii) capable of processing data and information, including data or information derived from visual perception or other physical perceptions; and (iv) capable of engaging in intelligent behavior derived from artificial intelligence.
+(b) Amount of credit allowed.
+(1) Credit allowed. - An eligible high technology manufacturing business taxpayer is allowed a credit against the portion of taxes imposed by this state that are attributable to and the direct consequence of the eligible high technology manufacturing business taxpayer's qualified investment in a new or expanded high technology manufacturing business in this state which results in the creation of at least 20 new jobs within 12 months after placing qualified investment into service. The amount of this credit is determined as provided in this section.
+(2) Amount of credit. - The annual amount of credit allowable under this subsection is 100 percent of the tax attributable to qualified investment, for each consecutive year of a 20-year credit period.
+(3) Application of credit. - The annual credit allowance shall be taken beginning with the taxable year in which the taxpayer places the qualified investment into service or use in this state, unless the taxpayer elects to delay the beginning of the 20-year credit period until the next succeeding taxable year. This election is made in the annual income tax return filed under this chapter by the taxpayer for the taxable year in which the qualified investment is first placed in service or use. Once made, this election cannot be revoked. The annual credit allowance shall be taken and applied against the taxes enumerated in § 11-13Q-7 of this code. The credit shall offset 100 percent of tax attributable to qualified investment and shall be applied for a period of 20 consecutive years without carryover.
+( c) New jobs. - The term "new jobs" has the meaning ascribed to it in § 11-13Q-3 of this code.
+(1) The term "new employee" has the meaning ascribed to it in §11-13Q-3 of this code: Provided, That this term does not include employees filling new jobs who:
+(A) Are related individuals, as defined in subsection (i), section 51 of the Internal Revenue Code of 1986, or a person who owns 10 percent or more of the business with such ownership interest to be determined under rules set forth in subsection (b), section 267 of the Internal Revenue Code of 1986; or
+(B) Worked for the taxpayer during the six-month period ending on the date the taxpayer's qualified investment is placed in service or use and is rehired by the taxpayer during the six-month period beginning on the date taxpayer's qualified investment is placed in service or use.
+(2) When a job is attributable. - An employee's position is directly attributable to the qualified investment if:
+(A) The employee's service is performed or his or her base of operations is at the new or expanded business facility;
+(B) The position did not exist prior to the construction, renovation, expansion, or acquisition of the business facility and the making of the qualified investment;
+(C) But for the qualified investment, the position would not have existed; and
+(D) The median compensation of the new jobs attributable to the qualified investment is greater than $45,000 per year: Provided, That this median compensation amount shall be adjusted for inflation each year in accordance with the provisions of this section 
+(3) Median compensation adjusted for inflation. - The median compensation requirements applicable to high technology manufacturing business taxpayers for purposes of this section, shall be adjusted for inflation by application of a cost-of-living adjustment. The adjusted median compensation amount shall be applicable, as adjusted, each year throughout the 20-year credit period. Failure of a taxpayer entitled to credit under this section to meet the median compensation requirement for any year will result in forfeiture of the credit for that year. However, if in any succeeding year within the original 20 year credit period, the taxpayer pays a median compensation to its employees which exceeds the inflation adjusted median compensation amount for that year, the taxpayer shall regain entitlement to take the credit for that year only. No credit forfeited in a prior year shall be taken, and the tax year or years to which the forfeited credit would have been applied shall be forfeited and deducted from the remainder of the years over which the credit can be taken.
+(A) Cost-of-living adjustment. - For purposes of this section, the cost-of-living adjustment for any calendar year is the percentage, if any, by which the consumer price index for the preceding calendar year exceeds the consumer price index for the calendar year 2007.
+(8) Consumer price index for any calendar year. - For purposes of this section, the consumer price index for any calendar year is the average of the federal consumer price index as of the close of the 12-month period ending on August 31 of such calendar year.
+(C) Consumer price index. - For purposes of this section, the term "Federal Consumer Price Index" means the last consumer price index for all urban consumers published by the United States Department of Labor.
+(D) Rounding. - If any increase in the median compensation amount under this section is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+(d) Credit exclusion. - 
+( 1) Any taxpayer that has taken the credit against tax authorized under this section shall
+not be eligible for application of the credit allowed under any other section of this article during the twenty year credit period authorized by this section for the same qualified investment on which credit allowed by this article was taken.
+(2) Any taxpayer that has taken the credit against tax authorized under this section may not take the credit authorized under any other provision of this code for the same qualified investment on which credit allowed by this article was taken.
+(e) Rules. - The commissioner may prescribe such rules as he or she determines necessary in order to determine the amount of credit allowed under this section to a taxpayer; to verify a taxpayer's continued entitlement to claim the credit; and to verify proper application of the credit allowed.
+(f) Notices and reports. - The commissioner may require a taxpayer intending to claim credit under this section to file with the commissioner a notice of intent to claim this credit before the taxpayer begins reducing his or her monthly or quarterly installment payments of estimated tax for the credit provided in this section.

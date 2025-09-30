@@ -1,0 +1,40 @@
+AN ACT
+To amend the Homeland Security Act of 2002 to enable secure and trustworthy technology through other transaction contracting authority, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Producing Advanced Technologies for Homeland Security Act” or the “PATHS Act”.
+
+
+SEC. 2. Research and development acquisition pilot program extension.
+
+
+(a) In general.—Section 831 of the Homeland Security Act of 2002 (6 U.S.C. 391) is amended—
+
+
+(1) in subsection (a)—
+
+
+(A) in the matter preceding paragraph (1), by striking “Until September 30, 2024, and subject to subsection (d)” and inserting “Until September 30, 2028, and subject to subsection (c)”; and
+
+
+(B) by adding at the end the following new paragraph:
+
+
+
+
+“(3) OTHER TRANSACTION AUTHORITY INVOLVING ARTIFICIAL INTELLIGENCE.—Not later than 72 hours after the use or extension of the transaction authority authorized under paragraph (1) involving artificial intelligence technology, the Secretary shall notify the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Appropriations and the Committee on Homeland Security of the House of Representatives and offer a briefing explaining the reason for the use or extension.”; and
+
+
+(2) in subsection (c)(1), in the matter preceding subparagraph (A), by striking “September 30, 2024” and inserting “September 30, 2028”.
+
+
+(b) Reduction in amount of covered contract award.—Subparagraph (A) of section 7113(d)(1) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (6 U.S.C. 112 note; Public Law 117–263) is amended by striking “$4,000,000” and inserting “$1,000,000”.
+
+
+Passed the House of Representatives March 11, 2025.

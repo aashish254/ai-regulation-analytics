@@ -1,0 +1,153 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Advanced Aviation Act”.SEC. 2. OFFICE OF ADVANCED AVIATION; ASSOCIATE ADMINISTRATOR FOR ADVANCED AVIATION.
+(a) Establishment.—Not later than 1 year after the date of enactment of this Act, the Secretary shall redesignate the Office of NextGen as the Office of Advanced Aviation.(b) Appointment.—Not later than 1 year after the date of enactment of this Act, the Secretary shall appoint an Associate Administrator for Advanced Aviation to head the Office of Advanced Aviation designated under subsection (a).(c) Responsibilities.—The responsibilities of the Associate Administrator for Advanced Aviation shall include the following:
+(1) Coordinate rulemaking and approval processes on matters relating to the standardization and certification of advanced aviation systems for use in the national airspace system.
+(2) Coordinate rulemaking and approval processes on matters relating to the safe operation and integration of advanced aviation systems in the national airspace system.
+(3) Coordinate activities and establish policies related to the integration of aeronautical radio frequency spectrum designated by the National Telecommunications and Information Administration of the Department of Commerce for use in the national airspace system.
+(4) Coordinate workforce planning across relevant offices of the Administration to—
+(A) hire and recruit personnel to—
+(i) research, develop, test, and evaluate advanced aviation systems; and
+(ii) process applications related to advanced aviation systems in a timely manner;
+(B) develop and submit a quarterly report to the Secretary and the Administrator, including—
+(i) core workforce requirements related to the research, development, testing and evaluation of advanced aviation systems by the Administration;
+(ii) core workforce requirements related to the safety, certification, and operational approval of advanced aviation systems by the Administration; and
+(iii) recommendations on staffing and budgetary resources needed to address areas of concern.
+(5) Coordinate rulemaking related to the international standardization and environmental effects of advanced aviation systems.
+(6) Advise the Administrator during internal and interagency coordination and rulemaking on counter-UAS systems and other matters related to advanced aviation systems.
+(7) Advise the Chief Technology Officer of the Administration on the development of enterprise architecture.
+(8) Validate supporting system requirements proposed by the Chief Technology Officer.
+(9) Consult with the Director of the William J. Hughes Technical Center for Advanced Aviation, as redesignated under section 5, to—
+(A) evaluate technologies related to advanced aviation systems;
+(B) inform processes and rulemaking related to advanced aviation systems;
+(C) identify new technologies that qualify as viable advanced aviation systems; and
+(D) coordinate referral of all technologies to the relevant office of the Administration.
+(10) Lead aviation rulemaking committees relevant to advanced aviation systems.
+(11) Consult with and assign tasks to the Advanced Aviation Advisory Committee.
+(12) Develop and implement a secure password-protected online portal that allows stakeholders with a new or pending certification or approval application to review the status of such application, receive notice of deadlines and major certification milestones, and identify the Administration office reviewing such application.
+(13) Implement pilot programs in partnership with advanced aviation stakeholders to provide data to support rulemaking and approval processes.
+(14) Serve as a representative of the Administration during interagency coordination of policies related to advanced aviation systems.
+(15) Promote the safe and responsible integration of advanced aviation systems into the national airspace system.(d) Notice Of Objection.—
+(1) IN GENERAL.—In carrying out the responsibilities described in subsection (c), the Associate Administrator for Advanced Aviation may submit to the Administrator a notice of objection with respect to—
+(A) a final rule of the Administration related to advanced aviation systems;
+(B) a determination by the Chief Technology Officer related to the establishment of enterprise architecture or supporting system requirements;
+(C) an airworthiness or type certification determination that relates to an advanced aviation system issued in accordance with section 44701 or 44704 of title 49, United States Code, or a modification or reversal of such determination; and
+(D) an waiver determination that relates to the operation of an advanced aviation system in the national airspace system issued in accordance with section 44701 or 44807 of title 49, United States Code, or a modification or reversal of such determination.
+(2) CONTENTS OF NOTICE.—In each notice of objection submitted under this subsection, the Associate Administrator shall include an explanation for the basis of each such objection.
+(3) DETERMINATION BY ADMINISTRATOR.—Not later than 30 days after receiving a notice of objection under this subsection, the Administrator shall—
+(A) determine whether to agree with or overrule such objection; and
+(B) if the Administrator determines that such objection should be overruled, submit to the Secretary a report explaining the reasons for overruling such objection.
+(4) DETERMINATION BY SECRETARY.—Not later than 30 days after receiving a report submitted under paragraph (3)(B), the Secretary may determine whether to allow the rule, determination, modification, or reversal to which the report relates to proceed. If the Secretary fails to make a determination under this paragraph, the determination made by the Administrator under paragraph (3) shall proceed.
+(5) IMPLEMENTATION OF RULE.—Any rule or determination that is the subject of a notice of objection submitted under this subsection shall not take effect during the period beginning on the date on which such notice is submitted and ending on the last day of the 30-day period described in paragraph (4).
+(6) SUBMISSION TO CONGRESS.—The Secretary shall—
+(A) submit to Congress each notice of objection submitted under paragraph (1);
+(B) notify Congress of each determination of the Administrator under paragraph (3), and submit to Congress the report required under subparagraph (B) of such paragraph, if applicable; and
+(C) notify Congress of any determination made by the Secretary pursuant to paragraph (4).SEC. 3. OFFICE OF ADVANCED INTEGRATION.
+(a) Establishment.—The Associate Administrator for Advanced Aviation shall establish an Office of Advanced Integration within the Office of Advanced Aviation.
+(b) Designation.—Not later than 1 year after the date of enactment of this Act, the Associate Administrator, in consultation with the Administrator and Secretary, shall appoint a Director of Advanced Integration to head the Office of Advanced Integration.
+(c) Responsibilities.—The Associate Administrator shall delegate to the Director of Advanced Integration the responsibilities described in paragraphs (1) through (5) of section 2(c).(d) Collaboration.—The Director of Advanced Integration shall collaborate with—
+(1) the Executive Director of the Aircraft Certification Service of the Administration and the Executive Director of the Flight Standards Service of the Administration to carry out the responsibilities described in section 2(c)(1);
+(2) the Director for Air Traffic Services Operations Planning and Integration of the Administration to carry out the responsibilities described in section 2(c)(2);
+(3) the Vice President of Technical Operations of the Air Traffic Organization to carry out the responsibilities described in section 2(c)(3);
+(4) the Assistant Administrator for Finance and Management of the Administration to carry out the responsibilities described in section 2(c)(4); and
+(5) the Director of the Office of International Affairs of the Administration and the Director of the Office of Environment and Energy of the Administration to carry out the responsibilities described in section 2(c)(5).SEC. 4. ADVANCED AVIATION COORDINATION UNIT.
+(a) Establishment.—The Secretary shall establish a coordination unit within the Administration to carry out the responsibilities described in subsection (d), to be known as the Advanced Aviation Coordination Unit.
+(b) Membership.—The Advanced Aviation Coordination Unit shall consist of the head of each relevant office of the Administration, or an employee representing such office, including—
+(1) the Office of Advanced Integration established under section 3;
+(2) the William J. Hughes Technical Center for Advanced Aviation, as redesignated under section 5;
+(3) the Office of Aviation Safety;
+(4) the Aircraft Certification Service;
+(5) the Flight Standards Service;
+(6) Air Traffic Organization;
+(7) the Program Management Organization;
+(8) Technical Operations Services for the Air Traffic Organization;
+(9) the Office of Airports;
+(10) the Office of the Chief Counsel;
+(11) the Office of Commercial Space Transportation;
+(12) the Office of Environment and Energy;
+(13) the office headed by the Chief Technology Officer; and
+(14) the Office of Finance and Management.
+(c) Chair.—
+(1) IN GENERAL.—The Director of Advanced Integration shall serve as the Chair of the Advanced Aviation Coordination Unit, at the discretion of the Associate Administrator for Advanced Aviation.
+(2) AUTHORITY.—The Chair may—
+(A) schedule meetings of the members of the Advanced Aviation Coordination Unit;
+(B) identify items for the members of the Advanced Aviation Coordination Unit to act on in fulfillment of the responsibilities described in subsection (d); and
+(C) submit to the Administrator, the Secretary, and Congress a notice of noncompliance indicating that a member of the Advanced Aviation Coordination Unit failed to participate in the Coordination Unit to the extent necessary to fulfill such responsibilities.
+(3) CONSULTATION.—The Chair shall consult with the Director of the William J. Hughes Technical Center for Advanced Aviation to identify new aviation-related technologies through the aviation innovation program established under section 5(c).(d) Responsibilities.—The members of the Advanced Aviation Coordination Unit shall collaborate to—
+(1) promote the safe and responsible integration of advanced aviation systems into the national airspace system;
+(2) establish or improve processes related to such integration;
+(3) establish or improve processes related to the certification of advanced aviation systems;
+(4) develop clear and consistent standards related to advanced aviation systems;
+(5) ensure that determinations of the Administration related to advanced aviation systems are made in a timely manner;
+(6) proactively identify, discuss, and act on challenges related to the application and impact of radio frequency spectrum use in the national airspace system; and
+(7) identify innovative aviation technologies that may be integrated into the national airspace system.
+(e) Interagency Coordination.—The Secretary may facilitate coordination between interagency partners and the members of the Advanced Aviation Coordination Unit to fulfill the responsibilities described in subsection (d).SEC. 5. WILLIAM J. HUGHES TECHNICAL CENTER FOR ADVANCED AVIATION.
+(a) Establishment.—
+(1) IN GENERAL.—Not later than 1 year after date of enactment of this Act, the Secretary shall redesignate the William J. Hughes Technical Center as the William J. Hughes Technical Center for Advanced Aviation.
+(2) DIRECTOR.—The Director of the William J. Hughes Technical Center shall be known as Director of the William J. Hughes Technical Center for Advanced Aviation.(b) Responsibilities.—The Director of the William J. Hughes Technical Center for Advanced Aviation shall be responsible for—
+(1) assuming all roles and responsibilities previously held by the Director of William J. Hughes Technical Center, including—
+(A) managing the research and development portfolio of the Administration and the Research and Development Advisory Committee;
+(B) preparing congressional reports relevant to such research, including the National Aviation Research Plan and Annual Review;
+(C) developing formal research partnerships with industry, academia, and other government agencies, and promoting the dissemination of federally funded research;
+(D) managing research grants and Centers of Excellence;
+(E) conducting aviation research, development, testing, evaluation activities, and sustainment activities, including field support, for new and existing national airspace system applications and technologies related to—
+(i) aerospace performance and planning, including reducing aviation hazards and aircraft safety assurance;
+(ii) airports;
+(iii) digital systems and technologies, including spectrum management and evolving aerospace operations;
+(iv) safety and health;
+(v) aircraft, weather, or human factors;
+(vi) pre-implementation air traffic management, including NextGen;
+(vii) testing during the development of air traffic control systems to verify performance; and
+(viii) flight testing;
+(F) maintaining and upholding test methods, standards, and policies of the Administration and providing independent test and evaluation to confirm products are operationally suitable and effective for use in the national airspace system;
+(G) developing performance-based standards with industry and domestic or international partners for advanced aviation systems and other global aviation harmonization activities; and
+(H) facilitating interagency engagement through the research team process;
+(2) assisting the Associate Administrator for Advanced Aviation in fulfilling the responsibilities described in paragraphs (7) and (8) of section 2(c);
+(3) managing the campus of the William J. Hughes Technical Center for Advanced Aviation, including—
+(A) conducting operations and maintenance, engineering design and construction, and operational support services for campus facilities owned by the Administration and Administration personnel residing on properties that are owned by the Administration and located on the campus;
+(B) operating, maintaining, and enhancing the support infrastructure of the campus, including buildings, roads, utilities, and land;
+(C) ensuring compliance with environmental laws, policies, directives, and initiatives;
+(D) managing lease agreements and land permits that support the missions of all Federal, State, and local agencies on the campus;
+(E) managing, modernizing, and enhancing the activities of the national airspace system laboratories and supporting the physical and virtual laboratories through configuration management, test bed maintenance and enhancement, laboratory scheduling, computer operations, documentation library services, and systems engineering; and
+(F) providing technical and engineering services for customers of such laboratories in support of research and development system installations and proof-of-concept testing;
+(4) overseeing all research, development, testing, evaluation, and sustainment activities related to advanced aviation systems; and
+(5) hosting domestic and international symposia, conferences, or technical interchange meetings with industry, academia, and other government agencies.(c) Aviation Innovation Program.—
+(1) ESTABLISHMENT.—The Director of the William J. Hughes Technical Center for Advanced Aviation shall establish and manage a program to evaluate new aviation-related technologies proposed to be used in the national airspace system and facilitate the integration of such technologies into the national airspace system.
+(2) COMPONENTS.—
+(A) IN GENERAL.—In carrying out the program established under paragraph (1), the Director shall—
+(i) encourage aviation industry stakeholders, innovators, and entrepreneurs to present to the Director aviation-related technologies for proposed use in the national airspace system;
+(ii) examine the effects of each such technology proposed under the program on the national airspace system and the potential benefits and risks of such technology, including the potential safety, social, economic, and workforce effects, and methods to safely integrate such technology into the national airspace system; and
+(iii) determine whether such technology could feasibly be integrated into the national airspace system.
+(B) RECOMMENDATIONS.—After examining a technology and making the determination required under subparagraph (A), the Director shall submit to the Associate Administrator for Advanced Aviation recommendations on—
+(i) whether such technology could feasibly and safely be integrated into the national airspace system;
+(ii) which office or offices should be responsible for designing and implementing policies, processes, and procedures related to such technology; and
+(iii) whether such technology may be considered an advanced aviation system.
+(C) REFERRAL.—Upon receipt of a recommendation related to an aviation-related technology under subparagraph (B), the Associate Administrator for Advanced Aviation shall—
+(i) submit a summary of such recommendation to the Administrator and the Secretary;
+(ii) refer such technology to the relevant office of the Administration; and
+(iii) in the case of a recommendation by the Director that a technology be considered an advanced aviation system, refer such technology to the Advanced Aviation Coordination Unit established under section 4.
+(3) COLLABORATION.—In examining each technology proposed under the program established under this subsection, the Director shall collaborate with subject matter experts from relevant offices of the Administration in an expeditious and thorough manner to provide an effective pathway for the development, demonstration, and adoption of such technology.
+(4) PARTNERSHIPS.—The Director may enter into partnerships with stakeholders to participate in the program established under this subsection.(d) Authority.—The Director may establish cooperative research and development agreements and make grants to carry out this section.
+(e) Preservation.—The redesignation of the William J. Hughes Technical Center under this section shall not affect any agreement between the William J. Hughes Technical Center and another entity that was in effect on the day before such redesignation occurs.
+(f) Conforming Amendment.—Section 44507 of title 49, United States Code, is amended—
+(1) by striking “(a) Civil Aeromedical Institute” and all that follows through “The Civil Aeromedical Institute established” and inserting “The Civil Aeromedical Institute established”; and
+(2) by striking subsection (b).SEC. 6. DEFINITIONS.
+In this Act:
+(1) ADMINISTRATOR.—The term “Administrator” means the Administrator of the Federal Aviation Administration.
+(2) ADMINISTRATION.—The term “Administration” means the Federal Aviation Administration.
+(3) ADVANCED AVIATION SYSTEM.—The term “advanced aviation system” means—
+(A) an unmanned aircraft system;
+(B) a counter-UAS system;
+(C) a powered lift aircraft;
+(D) a technology related to—
+(i) advanced air mobility;
+(ii) the ability of an aircraft to detect surroundings and avoid impacts;
+(iii) autonomous functioning of aircraft;
+(iv) supersonic aircraft capabilities;
+(v) electric or hydrogen based aircraft propulsion; or
+(vi) evolving aerospace operations including new aircraft, airport, weather, or digital systems;
+(E) a technology that—
+(i) relates to the telecommunication capabilities of aircraft; or
+(ii) functions in the 5G band, 6G band, or other high-frequency spectrum bands as designated by the National Telecommunications and Information Administration for use as aeronautical radio frequency spectrum; or
+(F) any other aviation-related technology that the Associate Administrator for Advanced Aviation determines qualifies as an advanced aviation system that could feasibly be integrated into the national airspace system.
+(4) COUNTER-UAS SYSTEM; UNMANNED AIRCRAFT SYSTEM.—The terms “counter-UAS system” and “unmanned aircraft system” have the meanings given such terms in section 44801 of title 49, United States Code.
+(5) SECRETARY.—The term “Secretary” means the Secretary of Transportation.å

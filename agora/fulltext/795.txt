@@ -1,0 +1,13 @@
+ SEC. 201. TAX GAP PROJECTION.
+
+
+(a) In General.—Not later than 180 days after the date of the enactment of this section, and no later than July 31 annually thereafter, the Commissioner of Internal Revenue shall submit to Congress a projection detailing the tax gap estimate for the most recent taxable year as is practicable using the most recently available data, and including identification and detailed descriptions of the data used for such projection and clear identification of the amount of the projected tax gap associated with nonfiling, underreporting, and underpayment (including identifying the amount subject to collection actions).
+
+
+ (b) Use Of Artificial Intelligence.—To the extent practicable, for purposes of reducing the burden on taxpayers subject to National Research Program audits, the Commissioner shall use artificial intelligence, including neural machine learning, and other available data analysis tools, including commercial analytic data providers, to calculate a projection described in subsection (a).
+
+
+ (c) National Research Program Audits.—In calculating a projection described in subsection (a), the Commissioner of Internal Revenue shall not undertake more National Research Program audits in any one fiscal year than are undertaken in fiscal year 2022.
+
+
+(d) Tax Gap.—For purposes of this section, the term “tax gap” means the difference between tax liabilities owed to the United States under the Internal Revenue Code of 1986 and those liabilities actually collected by the Internal Revenue Service.

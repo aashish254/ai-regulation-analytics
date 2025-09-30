@@ -1,0 +1,22 @@
+SEC. 112. STRATEGY FOR ARMY TACTICAL WHEELED VEHICLE PROGRAM.
+
+(a) Strategy Required.--In the budget justification materials submitted in support of the budget of the Department of Defense (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) for each of fiscal years 2025, 2030, and 2035, the Secretary of the Army shall include a report on the strategy of the Army for tactical wheeled vehicles.
+
+(b) Requirements for Strategy.--Each strategy required by subsection (a) shall--
+	(1) align with the applicable national defense strategy under section 113(g) of title 10, United States Code, and applicable policies;
+	(2) be designed so that the force of tactical wheeled vehicles provided under the strategy supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 3043); and
+	(3) define capabilities and capacity requirements across the entire fleet of tactical wheeled vehicles, including--
+		(A) light, medium, and heavy tactical wheeled vehicles; and
+		(B) associated trailer and support equipment.
+(c) Strategy Elements.--Each strategy required by subsection (a) shall include the following:
+	(1) A detailed program for the construction of light, medium, and heavy tactical wheeled vehicles for the Army over the period of five fiscal years following the date of the strategy.
+	(2) A description of the necessary force structure and capabilities of tactical wheeled vehicles to meet the requirements of the national security strategy described in subsection (b)(2).
+	(3) The estimated levels of annual funding, by vehicle class, in both graphical and tabular form, necessary to carry out the program described in paragraph (1), together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+	(4) The estimated total cost of construction for each vehicle class used to determine the estimated levels of annual funding described in paragraph (3).
+(d) Considerations.--In developing each strategy required by subsection (a), the Secretary of the Army shall consider the following objectives and factors:
+	(1) Objectives relating to protection, fleet operations, mission command, mobility, and the industrial base.
+	(2) Technological advances that are expected to increase efficiency of and reduce demand for tactical wheeled vehicles.
+	(3) Technological advances that allow for the operation of tactical wheeled vehicles in a variety of climate and geographic conditions.
+	(4) Existing commercial technologies such as vehicle electrification, autonomous capabilities, and predictive maintenance, among others.
+	(5) The capabilities of autonomous equivalents to tactical wheeled vehicles.
+(e) Briefing Requirements.--Not later than 15 days after each budget submission described in subsection (a), in conjunction with the submission of each strategy required by such subsection, the Secretary of the Army shall provide to the congressional defense committees a briefing that addresses the investment needed for each platform of tactical wheeled vehicle of the Army across the period covered by the most recent future-years defense program submitted to Congress under section 221 of title 10, United States Code (as of the date of the briefing).

@@ -1,0 +1,186 @@
+Executive Order 2023-19 – Expanding and Governing the Use of
+Generative Artificial Intelligence Technologies Within the
+Commonwealth of Pennsylvania
+Date: September 20, 2023
+By Direction of: Josh Shapiro, Governor
+
+
+WHEREAS, the integration of Generative Artificial Intelligence (AI) into Pennsylvania’s
+economy and the daily lives of Pennsylvanians requires the Commonwealth to
+ensure it is used responsibly and ethically in the Commonwealth’s operations;
+and
+WHEREAS, responsible use of Generative AI can help Commonwealth agencies more
+efficiently communicate with and serve Pennsylvania’s customers, residents,
+visitors, and industry when the technology is made available for the agency’s
+use; and
+WHEREAS, Generative AI cannot and should never replace human creativity, moral
+judgment, or lived experiences of Pennsylvanians; and
+WHEREAS, Generative AI’s full potential can only be achieved by the Commonwealth when
+its use is grounded in a balanced approach prioritizing our employees,
+encouraging the innovative uses of technology to better serve Pennsylvanians,
+and aligning with industry standards on proportionate and adaptive policies;
+and
+WHEREAS, responsible and ethical use of Generative AI by the Commonwealth should be
+conducted within a governance structure that ensures transparency, tests for
+bias, addresses privacy concerns, and safeguards our values.
+
+
+NOW, THEREFORE, I, Josh Shapiro, Governor of the Commonwealth of Pennsylvania, by virtue
+of the authority vested in me by the Constitution of the Commonwealth of Pennsylvania and
+other laws of the Commonwealth, do hereby create the Generative AI Governing Board and
+order and direct the following
+1. Definitions.
+For purposes of this order:
+a. Adaptability refers to the resilience of policy to withstand and keep up with
+the natural advancement of technology.
+b. Agencies refers to Commonwealth agencies under the Governor’s jurisdiction.
+c. Bias refers to erroneous or prejudiced assumptions in artificial intelligence and
+machine learning processes that may affect Generative output.
+d. Generative Artificial Intelligence (Generative AI) refers to technology or
+tools that use predictive algorithms to create new content including audio, code,
+images, text, simulations, and videos.
+e. Proportionality refers to the scope and scale of a policy-making response that
+corresponds to the context-specific needs of the end-user, the persons or
+entities using a tool or process, or the risk inherent in the desired outcome.
+2. Purpose.
+The values, governance structures, and policy in this Executive Order are intended to
+establish responsive and responsible standards for the governance of Generative AI
+when used by Agencies and to ensure that the use of Generative AI does not assist or
+enable activities that violate the laws of the Commonwealth or the United States of
+America.
+3. Core Values Governing the Use of Generative AI Technology in Pennsylvania.
+Agencies shall weigh the design, development, procurement, and deployment of
+Generative AI technology based on the following core values. The Office of
+Administration (OA) shall proactively consider these core values in all its activities,
+policies, and processes that leverage or intersect with technologies that enable
+automated decision-making.
+a. Accuracy – When using Generative AI, Agencies shall confirm that the
+Generative AI produces accurate and verifiable information. OA shall develop
+policies on how best to audit and verify Generative AI outputs to ensure clear
+and accurate information.
+b. Adaptability – The fast-evolving nature of Generative AI and its potential use
+cases require Agencies to establish and maintain an ability and willingness to
+recognize and adapt to shifting risks and opportunities. Moving at the speed of
+business requires the Commonwealth to make investments that promote
+continued research and diligence; engage with external stakeholders and
+subject matter experts; and learn from other government partners.
+c. Employee Empowerment – While using Generative AI, Agencies shall ensure
+their employees are both better serving Pennsylvanians and improving their
+own skillset for a changing economy and professional development. The
+Commonwealth and OA shall create training opportunities for employees to
+grow their skills in utilizing, understanding, and managing Generative AI tools
+or technology.
+d. Equity and Fairness – Agencies shall use Generative AI in a way that does
+not unlawfully discriminate against or disparately impact individuals or
+communities based on or due to ancestry, disability, age, sex, national origin,
+familial status, race, gender, religious creed, color, sexual orientation, gender
+identity, or gender expression. Agencies shall use Generative AI in a humancentered and equitable manner testing for and protecting against Bias so that
+its use does not favor or disadvantage any demographic group over others.
+e. Innovation – The Commonwealth should be a public sector leader in
+harnessing Generative AI to improve the delivery of public services to
+customers, residents, visitors, and industry and to enable Agencies to be more
+effective and efficient in their daily work. Agencies shall proactively and
+iteratively evaluate and present to the AI Governing Board for consideration
+potential salient use cases of Generative AI.
+f. Mission Aligned – When using Generative AI, Agencies shall ensure that it is
+used in service of their core missions to serve customers, residents, visitors,
+and industry and to support Commonwealth employees.
+g. Privacy – The design, development, procurement, and deployment of
+Generative AI by Agencies must not adversely affect the privacy rights of users.
+Agencies shall ensure that training related to the use of Generative AI and the
+input of data into those tools complies with applicable laws, regulations, and
+policies concerning the privacy rights of users.
+h. Proportionality – OA shall develop policies that encourage or control the use
+of Generative AI in a context-specific manner that is consistent with these core
+values, but which does not unnecessarily burden end users or Agencies.
+i. Safety and Security – OA shall lead the development and implementation of
+standards, procedures, and policies to safeguard and secure the data provided
+to the Commonwealth by customers, residents, visitors, and industry against
+unauthorized uses and intrusions.
+j. Transparency – Agencies shall ensure transparency and accountability in the
+design, development, procurement, and deployment of Generative AI in a
+manner that respects and strengthens public trust. When using Generative AI
+tools to create content, Agency external-facing services or dataset inputs or
+outputs shall disclose the use of AI; and what Bias testing was done, if any.
+4. The Generative AI Governing Board.
+a. Responsibilities. The Generative AI Governing Board (“Board”) shall
+recommend to OA employee-centered guidance and direction on the design,
+development, procurement, and deployment of Generative AI in Agencies,
+including policies on the utilization of Generative AI; a mechanism that provides
+for internal and external feedback on policies to the extent that such disclosure
+of such policies would not jeopardize the security of any individual or entity or
+Commonwealth personnel, infrastructure, systems, or data; the receipt of
+updates and training from subject matter experts on the evolving field of
+Generative AI technology; and the establishment of the values set forth in
+Section 3 of this Executive Order. Specifically, the Board shall have the
+responsibility to:
+(1) Make recommendations regarding Agency requests to utilize Generative
+AI technology, based upon a review process that evaluates the
+technology’s Bias and security, and whether the Agency’s requested use
+of Generative AI adheres to the values set forward in Section 3.
+(2) Develop and recommend processes and procedures by which Agencies
+should apply the values expressed in Section 3 to the process of
+procuring and implementing Generative AI tools.
+(3) Encourage Agencies to utilize Generative AI when it improves service
+delivery and service administration and lead the process to identify the
+most efficient use cases for the implementation of Generative AI.
+(4) Collaborate with the Department of General Services (DGS) and OA to
+develop Generative AI government procurement recommendations that
+outline problems and opportunities rather than prescriptive solutions;
+balance the public benefits of using Generative AI against potential
+risks; assess the accessibility, limitations, and potential historical Bias
+of available sources to be used by Generative AI; and ensure the
+procurement process maintains a level playing field for Generative AI
+offerors.
+(5) Provide recommendations on the Agencies’ requested use of Generative
+AI technology.
+(6) Engage experts in Generative AI from the private sector and leading
+education institutions to advise, as needed, on short and long-term
+research goals, industry trends, and ecosystem-wide best practices.
+(7) Provide state labor and workforce organizations and other external
+stakeholders the opportunity to receive feedback or submit input to the
+Board regarding Generative AI and its use.
+5. Composition.
+a. The Board shall consist of twelve members as follows:
+(1) The Governor’s Chief of Staff or the Chief of Staff’s designee,
+(2) The Governor’s Director of Digital Strategy or the Director’s designee,
+(3) The Governor’s Chief Transformation and Opportunity Officer or the
+Officer’s designee,
+(4) The Governor’s Secretary of Policy and Planning or the Secretary’s
+designee,
+(5) The Governor’s General Counsel or the General Counsel’s designee,
+(6) The Secretary of Administration, or the Secretary’s designee,
+(7) The Deputy Secretary for Information Technology (Chief Information
+Officer) or the Deputy Secretary’s designee,
+(8) The Chief Information Security Officer or the Security Officer’s designee,
+(9) The Chief Data Officer or the Officer’s designee,
+(10) The Chief Privacy Officer or the Officer’s designee,
+(11) DGS’s Deputy Secretary for Procurement or the Deputy Secretary’s
+designee, and
+(12) The Department of Labor & Industry’s Deputy Secretary for Workforce
+Development or the Deputy Secretary’s designee.
+b. The Board shall meet monthly and be administratively housed within the
+Governor’s Office. The Board shall be chaired by the Secretary of
+Administration. OA’s Special Assistant for Emerging Technologies will assist in
+establishing an agenda, workplan, timeline, and meeting schedule.
+6. Commonwealth Generative AI Use Policy.
+a. OA shall convene a working group including, but not limited to, members of the
+Board to periodically recommend updates to IT Policies related to Generative
+AI in accordance with the values and guidelines expressed in this Executive
+Order.
+b. Upon request by Agency leadership, the working group shall recommend
+guidelines for the proper use of Generative AI by Agency employees in the
+execution of their work duties.
+c. OA shall provide comprehensive training and instruction to Commonwealth
+employees who utilize Generative AI to ensure the employees are using
+Generative AI tools responsibly and are prepared for the changing skills
+demanded of our workforce due to Generative AI.
+7. Implementation.
+This Executive Order shall be implemented consistent with applicable law. This
+Executive Order is not intended to, and does not create, any right or benefit,
+substantive or procedural, enforceable at law or in equity by any party against the
+Commonwealth, its departments, agencies, or entities, its officers, employees, or
+agents, or any other persons.
+8. Effective Date.
+This Executive Order shall take effect immediately and shall remain in effect until
+amended or rescinded by the Governor.

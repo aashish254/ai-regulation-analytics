@@ -1,0 +1,52 @@
+ SEC. 401. EMERGING TECHNOLOGY.
+
+
+Title VII of the Communications Act of 1934 (42 U.S.C. 601 et seq.) is amended by adding at the end the following:
+
+
+“SEC. 723. EMERGING TECHNOLOGY ACCESSIBILITY.
+
+
+ “(a) Definitions.—In this section:
+
+
+“(1) AUGMENTATIVE AND ALTERNATIVE COMMUNICATION.—The term ‘augmentative and alternative communication’ means any tool, method, technology, strategy, service, training, coaching, or other support used to supplement or replace speech.
+
+
+“(2) DISABILITY.—The term ‘disability’ has the meaning given the term in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
+
+
+ “(b) Reports To Congress.—Not later than 3 years after the date of enactment of this section, and every 5 years thereafter, the Commission shall, in consultation with the United States Access Board, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report assessing—
+
+
+“(1) the extent to which any accessibility barriers exist for individuals with disabilities, including individuals who are blind, deaf, or DeafBlind or have low vision, an auditory processing disorder, a cortical or cerebral visual impairment, a speech disability, including individuals who use augmentative and alternative communication, a mobility disability, or a cognitive disability, with respect to emerging communications and video programming technologies and services, including communication and video programming technologies that use augmented reality, virtual reality, extended reality, dual reality, spatial computing, artificial intelligence, and other advanced machine learning, wireless technologies, including Wi-Fi and Bluetooth, robotics, the Internet of Things, and other forms of advanced computing power; and
+
+
+“(2) solutions needed to ensure that new or emerging communications and video programming technologies and services such as those described in paragraph (1)—
+
+
+“(A) are accessible to individuals with disabilities; and
+
+
+“(B) provide the necessary hardware and software to achieve compatibility with peripheral devices or specialized customer premises equipment commonly used by individuals with disabilities to achieve access.
+
+
+ “(c) Consideration Of Effect On Individuals With Particular Barriers.—In preparing each report required under subsection (b), the Commission shall consider the effect of emerging technologies on individuals with disabilities who use those technologies and have particular barriers to participation and communication with those technologies, including individuals with disabilities using those technologies—
+
+
+“(1) who have limited language or limited English language;
+
+
+“(2) who have significant, targeted, or multiple disabilities, including individuals who have a speech disability, including individuals who use augmentative and alternative communication, individuals who are DeafBlind, and individuals who have mobility disabilities;
+
+
+“(3) who have disabilities limiting communication;
+
+
+“(4) who lack access to broadband services and technology; or
+
+
+“(5) who face heightened barriers due to race, ethnicity, national origin, age, sex, sexual orientation, gender identity, Tribal affiliation, or socioeconomic status.
+
+
+ “(d) Regulations.—Not later than 2 years after the date on which the Commission submits each report required under subsection (b), the Commission shall issue new or update existing regulations for ensuring the accessibility of emerging communications and video programming technologies and services by individuals with disabilities where doing so is necessary to further the goals of the statutory provisions implemented by the regulations of the Commission under parts 6, 7, 14, and 79 of title 47, Code of Federal Regulations, or any successor regulation, intended to fulfill these goals.”.

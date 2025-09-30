@@ -1,0 +1,25 @@
+The people of the State of California do enact as follows:
+
+
+SECTION 1. Section 24011.5 is added to the Vehicle Code, to read:
+
+
+24011.5. (a) A dealer or manufacturer shall not sell any new passenger vehicle that is equipped with any partial driving automation feature, or provide any software update or other vehicle upgrade that adds any partial driving automation feature, without, at the time of delivering or upgrading the vehicle, providing the buyer or owner with a distinct notice that provides the name of the feature and clearly describes the functions and limitations of the feature.
+
+
+(b) A manufacturer or dealer shall not name any partial driving automation feature, or describe any partial driving automation feature in marketing materials, using language that implies or would otherwise lead a reasonable person to believe, that the feature allows the vehicle to function as an autonomous vehicle, as defined in Section 38750, or otherwise has functionality not actually included in the feature. A violation of this subdivision shall be considered a misleading advertisement for the purposes of Section 11713.
+
+
+(c) As used in this section, “partial driving automation feature” has the same meaning as “Level 2 partial driving automation” in the Society of Automotive Engineers (SAE) Standard J3016 (April 2021).
+
+
+(d) Compliance with this section shall not alter any existing duty of care or limit the civil liability of a manufacturer or dealer, including, but not limited to, claims for negligence or product defect.
+
+
+(e) Before delivering a passenger vehicle equipped with a partial driving automation feature to a dealer, a manufacturer shall provide information to enable the dealer to comply with subdivision (a). This information shall include specific language recommended for the notice required in that subdivision. A dealer may reasonably rely on the information provided by the manufacturer and a dealer shall not be held in violation of subdivision (a) if the manufacturer fails to provide this information to the dealer or if the information provided is deemed to be not in compliance with this section.
+
+
+(f) A manufacturer shall not be held in violation of subdivision (a) if the manufacturer provides a dealer with the information required under subdivision (e) and the dealer fails to provide the required notice to the buyer or owner.
+
+
+SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.

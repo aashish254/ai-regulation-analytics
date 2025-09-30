@@ -1,0 +1,169 @@
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Transparent Automated Governance Act” or the “TAG Act”.
+
+
+ SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) AGENCY.—The term “agency” has the meaning given the term in section 3502 of title 44, United States Code.
+
+
+(2) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. note prec. 4061; Public Law 115–232).
+
+
+(3) AUGMENTED CRITICAL DECISION PROCESS.—The term “augmented critical decision process” means the use by an agency, or by a third party on behalf of the agency, of an automated system to determine or substantially influence the outcomes of critical decisions.
+
+
+(4) AUTOMATED SYSTEM.—The term “automated system”—
+
+
+(A) means a set of computational processes derived from statistics or artificial intelligence techniques, or that otherwise rely on data about specific individuals or groups, to substantially influence the outcome of critical decisions, including computational processes that stand alone or are embedded within another process, system, or application, including paper-based processes; and
+
+
+(B) does not include computational processes or infrastructure the function of which is not directly related to influencing or determining the outcome of critical decisions.
+
+
+(5) CRITICAL DECISION.—The term “critical decision” means an agency determination, including the assignment of a score or classification, related to the status, rights, property, or wellbeing of specific individuals or groups, the outcome of which—
+
+
+(A) is likely to meaningfully differ from one individual or group to another; and
+
+
+(B) meaningfully affects access to, or the cost, terms, or availability of—
+
+
+(i) education and vocational training;
+
+
+(ii) employment;
+
+
+(iii) essential utilities, including electricity, heat, water, and internet;
+
+
+(iv) transportation;
+
+
+(v) any benefits or assistance under any Federal public assistance program or under any State or local public assistance program financed in whole or in part with Federal funds;
+
+
+(vi) financial services, including access to credit or insurance;
+
+
+(vii) asylum and immigration services;
+
+
+(viii) healthcare;
+
+
+(ix) housing, lodging, or public accommodations; and
+
+
+(x) any other service, program, or opportunity a determination about which would have a legal, material, or significant effect on the life of an individual, as determined by the Director.
+
+
+(6) DIRECTOR.—The term “Director” means the Director of the Office of Management and Budget.
+
+
+(7) PLAIN LANGUAGE.—The term “plain language” has the meaning given the term in section 1311(e)(3)(B) of the Patient Protection and Affordable Care Act (42 U.S.C. 18031(e)(3)(B)).
+
+
+(8) TRANSPARENT AUTOMATED GOVERNANCE GUIDANCE.—The term “transparent automated governance guidance” means the guidance issued by the Director pursuant to section 3(a).
+
+
+ SEC. 3. TRANSPARENT AUTOMATED GOVERNANCE GUIDANCE.
+
+
+(a) In General.—Not later than 270 days after the date of enactment of this Act, the Director shall issue guidance that—
+
+
+(1) is consistent with relevant legal authorities relating to privacy, civil rights, and civil liberties protections; and
+
+
+(2) requires agencies to provide disclosure and opportunity for appeal when using certain automated systems and augmented critical decision processes.
+
+
+(b) Guidance.—The transparent automated governance guidance issued under subsection (a) shall include—
+
+
+(1) an identification by the Director of any additional services, programs, or opportunities relating to critical decisions described in section 2(5)(B)(x), if appropriate, for use by agencies with respect to the requirements under this Act;
+
+
+(2) a list of automated systems that may be used in augmented critical decision processes, that, as determined by the Director, are not subject to the requirements of this Act;
+
+
+(3) with respect to automated systems that contribute to augmented critical decision processes and interact with the public, guidance for how agencies shall design, develop, procure, or update those automated systems to provide plain language notice to individuals not later than the time and at the place of interaction with such an automated system that they are interacting with such an automated system;
+
+
+(4) the proper contents of the notice described in paragraph (3);
+
+
+(5) examples of what the notice described in paragraph (3) could look like in practice;
+
+
+(6) with respect to augmented critical decision processes, guidance for how agencies shall provide plain language notice to individuals not later than the time a critical decision is issued to an individual that a critical decision concerning the individual was made using an augmented critical decision process;
+
+
+(7) the proper contents of the notice described in paragraph (6);
+
+
+(8) examples of what the notice described in paragraph (6) could look like in practice;
+
+
+(9) guidance for how agencies shall establish an appeals process for critical decisions made by an augmented critical decision process in which an individual is harmed as a direct result of the use of an automated system in the augmented critical decision process;
+
+
+(10) with respect to critical decisions made by an augmented critical decision process, guidance for how agencies should provide individuals with the opportunity for an alternative review, as appropriate, by an individual working for or on behalf of the agency with respect to the critical decision, independent of the augmented critical decision process; and
+
+
+(11) criteria for information that each agency is required to track and collect relating to issues that arise during the use of augmented critical decision processes—
+
+
+(A) to ensure that the information collected can be used to determine whether each automated system and augmented critical decision process covered by this Act is accurate, reliable, and, to the greatest extent practicable, explainable; and
+
+
+(B) that the agency shall make accessible for use by the agency, the Comptroller General of the United States, and Congress.
+
+
+ (c) Public Comment.—Not later than 180 days after the date of enactment of this Act, the Director shall make a preliminary version of the transparent automated governance guidance available for public comment for a period of 30 days.
+
+
+(d) Consultation.—In developing the transparent automated governance guidance, the Director shall consider soliciting input from—
+
+
+(1) the Government Accountability Office;
+
+
+(2) the General Services Administration, including on the topic of user experience;
+
+
+(3) the private sector; and
+
+
+(4) the nonprofit sector, including experts in privacy, civil rights, and civil liberties.
+
+
+(e) Artificial Intelligence Guidance.—The guidance required by section 104 of the AI in Government Act of 2020 (40 U.S.C. 11301 note) may be used to satisfy the requirement for the transparent automated governance guidance with respect to relevant automated systems and augmented critical decision processes, or a subset thereof, if such guidance addresses each requirement under subsection (b) of this section with respect to the automated system or augmented critical decision process.
+
+
+(f) Updates.—Not later than 2 years after the date on which the Director issues the transparent automated governance guidance, and biennially thereafter, the Director shall issue updates to the guidance.
+
+
+ SEC. 4. AGENCY IMPLEMENTATION.
+
+
+(a) Agency Implementation Of Transparent Automated Governance Guidance.—Not later than 270 days after the date on which the Director issues the transparent automated governance guidance, the head of each agency shall implement the transparent automated governance guidance to the extent that implementation does not require rulemaking.
+
+
+(b) Comptroller General Report.—Not later than 2 years after the date of enactment of this Act, and biannually thereafter, the Comptroller General of the United States shall review agency compliance with this Act and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report with findings and recommendations.
+
+
+SEC. 5. SUNSET.
+
+
+Beginning on the date that is 10 years after the date of enactment of this Act, this Act shall have no force or effect.

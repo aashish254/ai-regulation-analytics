@@ -1,0 +1,206 @@
+H.B. No. 2060
+ 
+ 
+ 
+ 	
+AN ACT
+relating to the creation of the artificial intelligence advisory
+council.
+		BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:		SECTION 1.  Chapter 2054, Government Code, is amended by
+adding Subchapter S to read as follows:
+SUBCHAPTER S. ARTIFICIAL INTELLIGENCE ADVISORY COUNCIL
+		Sec. 2054.621.  DEFINITIONS. In this subchapter:
+				(1)  "Algorithm" means a computerized procedure
+consisting of a set of steps used to accomplish a determined task.
+				(2)  "Artificial intelligence systems" means systems
+capable of:
+					(A)  perceiving an environment through data
+acquisition and processing and interpreting the derived
+information to take an action or actions or to imitate intelligent
+behavior given a specific goal; and
+					(B)  learning and adapting behavior by analyzing
+how the environment is affected by prior actions.
+				(3)  "Automated decision system" means an algorithm,
+including an algorithm incorporating machine learning or other
+artificial intelligence techniques, that uses data-based analytics
+to make or support governmental decisions, judgments, or
+conclusions.
+				(4)  "Automated final decision system" means an
+automated decision system that makes final decisions, judgments, or
+conclusions without human intervention.
+				(5)  "Automated support decision system" means an
+automated decision system that provides information to inform the
+final decision, judgment, or conclusion of a human decision maker.
+				(6)  "Council" means the artificial intelligence
+advisory council established under this subchapter.
+				(7)  "Public or private institution of higher
+education" means:
+					(A)  an institution of higher education, as
+defined by Section 61.003, Education Code; or
+					(B)  a private or independent institution of
+higher education, as defined by Section 61.003, Education Code.		Sec. 2054.622.  ARTIFICIAL INTELLIGENCE ADVISORY COUNCIL.
+(a) The council is composed of the following seven members:
+				(1)  one member of the house of representatives
+appointed by the speaker of the house of representatives;
+				(2)  one member of the senate appointed by the
+lieutenant governor;
+				(3)  the executive director or the executive director's
+designee; and
+				(4)  the following four members appointed by the
+governor:
+					(A)  an academic professional specializing in
+ethics who is employed by a public or private institution of higher
+education;
+					(B)  an academic professional specializing in
+artificial intelligence systems who is employed by a public or
+private institution of higher education; 
+					(C)  an expert on law enforcement usage of
+artificial intelligence systems; and
+					(D)  an expert in constitutional and legal rights.
+		(b)  The council members appointed under Subsections (a)(1)
+and (2) shall serve as co-chairs of the council.
+		(c)  A member of the council is not entitled to compensation
+or reimbursement for expenses.
+		(d)  The department shall provide administrative support for
+the council.
+		(e)  The council shall meet at the call of the co-chairs.  The
+council may meet in person or by telephone conference call,
+videoconference, or another similar telecommunication method.  
+Notwithstanding Chapter 551 or any other law, a meeting held by
+telephone conference call, videoconference, or another similar
+telecommunication method is subject to the requirements of Sections
+551.125(c), (d), (e), and (f).		(f)  The council shall study and monitor artificial
+intelligence systems developed, employed, or procured by state
+agencies. In carrying out its duties under this section, the
+council shall:
+				(1)  assess the need for a state code of ethics for
+artificial intelligence systems in state government;
+				(2)  review automated decision systems inventory
+reports submitted by state agencies under Section 2054.623,
+including a review of:
+					(A)  the effect of the automated decision systems
+on the constitutional or legal rights, duties, or privileges of the
+residents of this state; and
+					(B)  the potential benefits, liabilities, or
+risks that this state could incur as a result of implementing the
+automated decision systems; and
+				(3)  recommend administrative actions that state
+agencies may take without further legislative authorization.		(g)  Not later than December 1, 2024, the council shall
+submit a report to the legislature that includes:
+				(1)  a summary of the council's findings after
+reviewing the automated decision systems inventory reports
+submitted under Section 2054.623;
+				(2)  a summary of the recommendations of any relevant
+national bodies on artificial intelligence systems in state
+government;
+				(3)  an assessment of the impact of using artificial
+intelligence systems in state government on the liberty, finances,
+livelihood, and privacy interests of the residents of this state;
+				(4)  recommendations of any policies necessary to:
+					(A)  protect the privacy and interests of the
+residents of this state from any diminution caused by employment of
+artificial intelligence systems by state government;
+					(B)  ensure that the residents of this state are
+free from unfair discrimination caused or compounded by the
+employment of artificial intelligence systems in state government;
+and
+					(C)  promote workforce knowledge of artificial
+intelligence technology and the development of ethical artificial
+intelligence systems in state government; and
+				(5)  any other information that the council considers
+relevant.		Sec. 2054.623.  AUTOMATED DECISION SYSTEMS INVENTORY
+REPORT. (a) Not later than July 1, 2024, each agency in the
+executive and legislative branches of state government, using money
+appropriated to the agency by this state, shall submit an inventory
+report of all automated decision systems that are being developed,
+employed, or procured by the agency. For each automated decision
+system, the inventory report must include a description of: 
+				(1)  the name and vendor of the automated decision
+system, if any;
+				(2)  the automated decision system's general
+capabilities, including:
+					(A)  reasonably foreseeable capabilities outside
+the scope of the agency's proposed use; and
+					(B)  whether the automated decision system is used
+or may be used for independent decision-making powers and the
+impact of those decisions on the residents of this state;
+				(3)  the types of data inputs that the technology uses;
+				(4)  how the data described by Subdivision (3) is
+generated, collected, and processed;
+				(5)  the types of data the automated decision system is
+reasonably likely to generate;
+				(6)  whether the automated decision system has been
+tested by an independent third party, has a known bias, or is
+untested for bias;
+				(7)  the purpose and proposed use of the automated
+decision system, including:
+					(A)  the decisions the automated decision system
+will be used to make or support;
+					(B)  whether the automated decision system is an
+automated final decision system or an automated support decision
+system; and 
+					(C)  the automated decision system's intended
+benefits, including any data or research relevant to the outcome of
+those results;
+				(8)  how automated decision system data is securely
+stored and processed and whether the agency intends to share access
+to the automated decision system or data from that automated
+decision system with any other entity, and why; and
+				(9)  the information technology fiscal impacts of the
+automated decision system, including:
+					(A)  initial acquisition costs and ongoing
+operating costs, such as maintenance, licensing, personnel, legal
+compliance, use auditing, data retention, and security costs;
+					(B)  any cost savings that would be achieved
+through the use of the technology; and
+					(C)  any current or potential sources of funding,
+including any subsidies or free products being offered by vendors
+or governmental entities.
+		(b)  Not later than March 1, 2024, the council, in
+consultation with the department, shall prescribe the form,
+contents, and manner of submission of the automated decision
+systems inventory report required under this section.
+		(c)  Each agency shall submit the report required under this
+section to the:
+				(1)  department;
+				(2)  council; and
+				(3)  standing committees of the senate and house of
+representatives with primary jurisdiction over state agency
+information technology.		Sec. 2054.624.  COUNCIL ABOLISHED; EXPIRATION OF
+SUBCHAPTER. The council is abolished and this subchapter expires
+January 1, 2025.		SECTION 2.  (a) As soon as practicable after the effective
+date of this Act but not later than October 1, 2023, the appropriate
+appointing authorities shall appoint the members to the artificial
+intelligence advisory council as required by Section 2054.622,
+Government Code, as added by this Act.
+		(b)  Not later than November 1, 2023, the advisory council
+established under Subchapter S, Chapter 2054, Government Code, as
+added by this Act, shall hold its initial meeting.		SECTION 3.  This Act takes effect immediately if it receives
+a vote of two-thirds of all the members elected to each house, as
+provided by Section 39, Article III, Texas Constitution.  If this
+Act does not receive the vote necessary for immediate effect, this
+Act takes effect September 1, 2023.
+
+
+__________________________	__________________________
+	President of the Senate	Speaker of the House     
+
+
+		I certify that H.B. No. 2060 was passed by the House on April
+20, 2023, by the following vote:  Yeas 137, Nays 10, 1 present, not
+voting.
+
+______________________________
+Chief Clerk of the House   
+
+
+		I certify that H.B. No. 2060 was passed by the Senate on May
+24, 2023, by the following vote:  Yeas 30, Nays 1.
+
+______________________________
+Secretary of the Senate    
+APPROVED:  _____________________
+					Date          
+	
+			_____________________
+					Governor       

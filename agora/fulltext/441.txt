@@ -1,0 +1,187 @@
+ H. R. 5495
+
+
+To prohibit providers of email services from using filtering algorithms to flag emails from political campaigns that consumers have elected to receive as spam.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+September 14, 2023
+
+
+Mrs. Lesko (for herself, Ms. Van Duyne, Mr. Steube, Mr. Pfluger, Mr. Duncan, Mr. Higgins of Louisiana, Mr. Issa, and Ms. Stefanik) introduced the following bill; which was referred to the Committee on Energy and Commerce
+
+
+A BILL
+To prohibit providers of email services from using filtering algorithms to flag emails from political campaigns that consumers have elected to receive as spam.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Political Bias In Algorithm Sorting Emails Act of 2023” or the “Political BIAS Emails Act of 2023”.
+
+
+SEC. 2. UNFAIR AND DECEPTIVE ACTS AND PRACTICES RELATING TO FILTERING POLITICAL EMAILS THAT A CONSUMER HAS ELECTED TO RECEIVE.
+
+
+(a) Conduct Prohibited.—
+
+
+(1) IN GENERAL.—It shall be unlawful for an operator of an email service to use a filtering algorithm to apply a label to an email sent to an email account from a political campaign unless the owner or user of the account took action to apply such a label.
+
+
+(2) EFFECTIVE DATE.—The prohibition under paragraph (1) shall take effect on the date that is 3 months after the date of enactment of this Act.
+
+
+(b) Quarterly Transparency Report.—
+
+
+(1) IN GENERAL.—Beginning with the first year that begins on or after the date that is 120 days after the date of enactment of this Act, each operator of an email service shall be required to make publicly available, on a quarterly basis, a transparency report that meets the requirements of this subsection.
+
+
+(2) CONTENT OF REPORT.—Each quarterly report by an operator of an email service required under this subsection shall include the following:
+
+
+(A) The total number of instances during the previous quarter in which emails from political campaigns were flagged as spam.
+
+
+(B) The number of instances during the previous quarter in which emails from political campaigns were flagged as spam by a filtering algorithm without direction from the email account owner or user.
+
+
+(C) The total number of instances during the previous quarter when emails from political campaigns of candidates belonging to the Republican Party were flagged as spam.
+
+
+(D) The percentage of emails during the previous quarter of the year flagged as spam from political campaigns of candidates belonging to the Republican party.
+
+
+(E) The number of instances during the previous quarter in which emails from political campaigns of candidates belonging to the Republican Party were flagged as spam by a filtering algorithm without direction from the email account owner or user.
+
+
+(F) The percentage of emails during the previous quarter of the year flagged as spam by a filtering algorithm without direction from the email account owner or user for emails from political campaigns of candidates belonging to the Republican Party.
+
+
+(G) The total number of instances during the previous quarter when emails from political campaigns of candidates belonging to the Democratic Party were flagged as spam.
+
+
+(H) The percentage of emails during the previous quarter of the year flagged as spam from political campaigns of candidates belonging to the Democratic party.
+
+
+(I) The number of instances during the previous quarter in which emails from political campaigns of candidates belonging to the Democratic Party were flagged as spam by a filtering algorithm without direction from the email account owner or user.
+
+
+(J) The percentage of emails during the previous quarter of the year flagged as spam by a filtering algorithm without direction from the email account owner or user for emails from political campaigns of candidates belonging to the Democratic party.
+
+
+(K) A descriptive summary of the kinds of tools, practices, actions, and techniques used by an operator of an email service during the previous quarter in determining which emails from political campaigns to flag as spam.
+
+
+(3) PUBLICATION AND FORMAT.—The operator of an email service shall publish each quarterly report required under this subsection with an open license, in a machine-readable and open format, and in a location that is easily accessible to consumers.
+
+ (c) Disclosure For Political Campaigns.—
+
+
+(1) IN GENERAL.—Beginning 3 months after the date of the enactment of this Act, each operator of an email service shall be required to disclose to a political campaign, upon the request of the campaign and subject to paragraph (3), a report that includes any of the information described in paragraph (2) that is requested by the campaign.
+
+
+(2) CONTENT OF THE DISCLOSURE.—The information described in this paragraph is the following:
+
+
+(A) The number of instances during the previous quarter when emails from the political campaign requesting the information were flagged as spam.
+
+
+(B) The percentage of emails sent from the political campaign requesting the information that were flagged as spam during the previous quarter.
+
+
+(C) The number of instances during the previous calendar quarter when emails from the political campaign requesting the information were flagged as spam by a filtering algorithm.
+
+
+(D) The total number of emails sent from the political campaign requesting the information that reached the intended recipient's primary inbox.
+
+
+(E) The percentage of emails sent from the political campaign requesting the information that reached the intended recipient's primary inbox.
+
+
+(F) A descriptive summary as to why an email from the political campaign requesting the information did not reach the intended recipient's primary inbox.
+
+
+(3) FREQUENCY OF REQUESTS.—A political campaign may not request that an operator of an email service provide a report containing any of the information described in paragraph (2) more than—
+
+
+(A) once per week during election years;
+
+
+(B) twice per month during non-election years; and
+
+
+(C) once a week in the 12 months preceding the date of a special election in which a candidate associated with the political campaign is seeking election.
+
+
+(4) BEST PRACTICES.—An operator of an email service shall provide to a political campaign, upon request, best practices on steps the political campaign should take to increase the number of emails from the political campaign that reach the intended recipient’s primary inbox.
+
+
+(5) DEADLINE FOR PROVIDING DISCLOSURE TO POLITICAL CAMPAIGNS.—An operator of an email service that receives a request from a political campaign for a disclosure report described in paragraph (1) or best practices described in paragraph (4) shall provide such report or best practices to the political campaign not later than 4 days after the operator receives the request.
+
+ (d) Enforcement By The Federal Trade Commission.—
+
+
+(1) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.—A violation of subsection (a), (b), or (c) shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+
+(2) POWERS OF COMMISSION.—
+
+
+(A) IN GENERAL.—The Federal Trade Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this section.
+
+
+(B) PRIVILEGES AND IMMUNITIES.—Any person who violates subsection (a), (b), or (c) shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+
+
+(C) AUTHORITY PRESERVED.—Nothing in this section shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
+
+ SEC. 3. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) FILTERING ALGORITHM.—The term “filtering algorithm” means a computational process, including one derived from algorithmic decision making, machine learning, statistical analysis, or other data processing or artificial intelligence techniques, used by an email service to identify and filter emails sent to an email account.
+
+
+(2) OPERATOR.—
+
+
+(A) IN GENERAL.—The term “operator” means any person who operates an email service and includes any person that wholly owns a subsidiary entity that operates an email service.
+
+
+(B) EXCLUSIONS.—Such term shall not include any person who operates an email service if such service is wholly owned, controlled, and operated by a person that—
+
+
+(i) for the most recent 6-month period, did not employ more than 500 employees; and
+
+
+(ii) for the most recent 12-month period, averaged less than $5,000,000,000 in annual gross receipts.
+
+
+(3) POLITICAL CAMPAIGN.—The term “political campaign” includes—
+
+
+(A) an individual who is a candidate (as such term is defined in section 301(2) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(2)));
+
+
+(B) an authorized committee (as such term is defined in section 301(6) of such Act);
+
+
+(C) a connected organization (as such term is defined in section 301(7) of such Act);
+
+
+(D) a national committee (as such term is defined in section 301(14) of such Act);
+
+
+(E) a State committee (as such term is defined in section 301(15) of such Act); and
+
+
+(F) a joint fundraising committee that includes any entity described in subparagraphs (A) through (E).

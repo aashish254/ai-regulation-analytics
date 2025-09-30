@@ -1,0 +1,388 @@
+Regulations of Shenzhen Special Economic Zone on Promoting the Artificial Intelligence Industry
+
+
+(Adopted at the 11th Session of the Standing Committee of the 7th People’s Congress of Shenzhen Municipality on August 30, 2022)
+
+
+Chapter I General Provisions
+
+
+  Article 1 To promote the high-quality development of the artificial intelligence (AI) industry in Shenzhen Special Economic Zone, advance the in-depth integration and application of AI in economic and social fields, and regulate the orderly development of the AI industry, these Regulations are formulated in accordance with the basic principles of relevant laws and administrative regulations and in light of the actual needs of Shenzhen Special Economic Zone.
+
+
+  Article 2 Artificial intelligence (AI) as mentioned in these Regulations refers to the simulation, extension or expansion of human intelligence by perceiving the environment, acquiring knowledge or deducing with computers or devices controlled by computers.
+
+
+  Article 3 The artificial intelligence (AI) industry as mentioned in these Regulations refers to core industries such as the research, development, production, systematic applications and integrated services of AI-related hardware and software, as well as related industries driven by the integrated application of AI in services for people’s well-being, social governance and economic development.
+
+
+  Article 4 The development of the AI industry in Shenzhen Municipality follows the technology-leading, application-driven, people-oriented, safe and controllable principles.
+
+
+  Article 5 Shenzhen Municipal People’s Government shall establish a coordination mechanism for the development of the AI industry in Shenzhen Municipality to balance AI development and safety, promote the healthy and orderly development of the AI industry and fully drive sustainable economic, social and ecological development with AI.
+
+
+  Article 6 The municipal industry and information technology authorities, as the authorities of the AI industry (“the municipal competent industry authorities”), shall implement, coordinate and supervise the development of the AI industry within the administrative area of Shenzhen Municipality.
+
+
+  The municipal authorities of development and reform, education, scientific and technological innovation, public security, finance, human resources and social security, planning and natural resources, ecological environment, housing and construction, transport, commerce, health, state-owned assets, market supervision, statistics, urban management and comprehensive law enforcement, government service data administration and services for small and medium-sized enterprises (SMEs) as well as the municipal cyberspace authorities shall strive to promote the development of the AI industry within their respective duties.
+
+
+  Article 7 The development of the AI industry shall be incorporated into the national economic and social development plans of Shenzhen Municipality, with the general idea, development goal, main task and policy for the development of the AI industry clearly defined.
+
+
+  The municipal competent industry authorities shall formulate the development plan for the AI industry in Shenzhen Municipality and issue it for implementation after obtaining the approval of Shenzhen Municipal People’s Government.
+
+
+  Article 8 The municipal market supervision authorities shall, together with the municipal competent industry authorities and other relevant authorities, establish and improve local standards for AI.
+
+
+  Higher learning institutions, scientific research institutions, enterprises and other organizations shall be encouraged to join the formulation of international standards, national standards, industry standards, local standards and group standards for AI.
+
+
+  Article 9 The municipal statistics authorities and the municipal competent industry authorities shall, together with other relevant authorities, establish and improve statistical classification standards for the AI industry, formulate and improve the statistical classification catalog for the AI industry and orderly carry out statistical investigation, monitoring and analysis for the AI industry.
+
+
+  Article 10 Relevant authorities of Shenzhen Municipal People’s Government shall, with the goal of encouraging innovation, exercise inclusive and prudent supervision over the AI industry. Corresponding supervision rules and standards shall be formulated. Classified and multi-level supervision shall be implemented in light of the characteristics of new technologies, new industries, new business forms and new models of AI.
+
+
+  Article 11 Higher learning institutions, scientific research institutions, enterprises and other organizations shall be encouraged and supported for international exchanges and cooperation in basic research, basic platforms, technological development and personnel training, so as to promote technological innovation and development.
+
+
+  Article 12 While relevant laws, regulations and ethical safety norms are complied with, AI products and services shall be popularized and applied to improve the awareness and ability of applying AI in the whole society and promote intelligent economic and social development.
+
+
+Chapter II Basic Research and Technological Development
+
+
+  Article 13 Higher learning institutions, scientific research institutions, enterprises and other organizations shall be encouraged to devote themselves to long-term and interdisciplinary basic research on AI, undertake and join major national, provincial and municipal science and technology projects. Shenzhen Municipal People’s Government and its relevant authorities shall support them in this regard.
+
+
+  The municipal scientific and technological innovation authorities shall establish a sound mechanism for major programs of basic research, strengthen the systematic deployment of goal-oriented basic research and make coordinated arrangements for key projects, bases, personnel and funds for AI.
+
+
+  Article 14 The municipal scientific and technological innovation authorities shall focus on key and core AI technologies, establish a mechanism to promote breakthroughs in key and core AI technologies that is led by market demands and features in-depth government-industry-university-research integration, and formulate supporting policies that promote breakthroughs in key and core AI technologies in the whole process.
+
+
+  Article 15 The construction of national, provincial and municipal research platforms shall be sped up to make breakthroughs in strategic, forward-looking and systematic basic research on AI and key and core technologies, promote breakthroughs and innovations in disciplinary theories and cutting-edge technologies, and lead and support innovations.
+
+
+  Article 16 Efforts shall be made to support the construction of innovation platforms, such as key laboratories, characteristic experimental bases, engineering research centers, industrial innovation centers, technological innovation centers, enterprise technology centers and manufacturing innovation centers.
+
+
+  Article 17 New research and development (R&D) institutions with diversified investors, modernized management systems, market-oriented operating mechanisms and flexible employment modes shall be established. They shall be supported in coordinating AI scientific research, technological innovation and R&D services.
+
+
+  Article 18 Higher learning institutions, scientific research institutions, enterprises and other organizations shall be supported in strengthening industry-university-research cooperation, innovating organizational models through the establishment of innovation consortiums and working on basic AI research and technological development.
+
+
+  Article 19 The municipal financial authorities shall increase financial investment in scientific and technological innovation, establish sound investment mechanisms that balance stability and competitiveness, and step up the support for basic AI research and technological development.
+
+
+  Enterprises and private entities shall be encouraged to join basic research and technological development by various means, such as the establishment of funds, joint funding and charitable donations.
+
+
+  Article 20 Higher learning institutions, scientific research institutions, enterprises and other organizations shall be encouraged to open major scientific research infrastructure and large scientific research equipment to the public.
+
+
+  International science and technology information centers, international innovation industry information service platforms and large-scale scientific instrument sharing platforms shall work hard to establish open and shared evaluation, assessment and incentive mechanisms.
+
+
+  Article 21 The municipal scientific and technological innovation authorities shall innovate the administration of AI projects, publicly accept scientific and technological innovation projects and results, and support them through non-cyclical project funding.
+
+
+  The project manager or agency management model shall be explored, where a third-party professional agency or a specific person will be authorized for project management, thus optimizing process management, project supervision and performance evaluation.
+
+
+  Project initiators whose projects have significantly different technical routes may get early approval. Regular assessments will be conducted during the project period. Funds will be granted flexibly according to the competition results. Additional support may also be granted to projects with good implementation results and huge development potential.
+
+
+  Article 22 A project evaluation system based on quality, performance and contribution shall be established to accurately reflect innovative AI scientific and technological outcomes, application results and the actual contribution to economic and social development.
+
+
+  A classified evaluation system for free-exploration and mission-oriented science and technology projects shall be improved and an evaluation mechanism for non-consensus science and technology projects shall be established.
+
+
+  Article 23 The municipal scientific and technological innovation authorities shall establish an incentive mechanism that can promote the deployment of scientific and technological outcomes, to encourage innovation entities to translate scientific and technological outcomes into practical applications.
+
+
+  The municipal scientific and technological innovation authorities shall support the industrial application research in Shenzhen Municipality based on the research results of national major science and technology projects and key R&D programs, to promote the capitalization of intellectual property. AI enterprises shall be encouraged to translate their innovation achievements overseas into practical applications in Shenzhen Municipality and shall get as much support as that for domestic innovation achievements.
+
+
+  Professional technical personnel from higher learning institutions and scientific research institutions shall be encouraged to start off-job businesses or on-job businesses or engage in the deployment of AI scientific and technological outcomes on a part-time basis in accordance with relevant regulations.
+
+
+  Article 24 Efforts shall be made to support and encourage establishing professional service institutions for the deployment of AI scientific and technological outcomes with social capital, so as to provide all-round services for the deployment of AI scientific and technological outcomes, such as transaction brokerage, value assessment, personnel training and business incubation.
+
+
+  Shenzhen Municipal People’s Government and its relevant departments shall follow the principle of market orientation and government guidance, and step up the support for professional service institutions for the deployment of AI scientific and technological outcomes in terms of platform construction, purchase of services and personnel training.
+
+
+  Article 25 AI innovation teams and leading personnel shall be granted the right to make their own decisions independently upon technical issues as well as the right to use funds. Researchers who undertake major science and technology programs shall enjoy flexible remunerations and incentives.
+
+
+Chapter III Construction of Industrial Infrastructure
+
+
+  Article 26 Shenzhen Municipal People’s Government shall make an overall plan for the construction of industrial infrastructure, mainly communication networks, data centers, computing systems and one-stop development platforms, establish a sound market-based construction and operation mechanism and provide public services for the development of the AI industry.
+
+
+  Article 27 Shenzhen Municipal People’s Government shall optimize the coordination mechanism for network infrastructure construction and guarantee electricity supply, land use, approval and access.
+
+
+  Article 28 The municipal competent industry authorities shall improve the system for evaluating AI data centers, set higher energy efficiency standards and build green data centers that can support the development of AI.
+
+
+  Article 29 The municipal authorities of government service data administration shall build a public data resource system for the AI industry according to the overall plan of the public data resource system and relevant systems and norms.
+
+
+  Article 30 The municipal market supervision authorities shall, together with relevant other authorities, establish a standard system for public data and industry data from AI applications to ensure data sharing.
+
+
+  Article 31 Shenzhen Municipal People’s Government shall build an open public data platform, make a catalog and rules of shared public data for AI applications and promote the orderly, classified and multi-level opening of public data.
+
+
+  Article 32 Organizations and individuals engaged in AI research and applications shall be encouraged to develop AI products and services and promote the innovative application of public data in AI based on the open public data platform.
+
+
+  Article 33 The circulation and utilization of AI data, and the capitalized development of data resources shall be advanced.
+
+
+  Organizations and individuals engaged in AI research and applications that provide personal data which they have lawfully obtained shall be anonymous, unless otherwise provided for by laws and regulations.
+
+
+  Article 34 Higher learning institutions, scientific research institutions, enterprises and other organizations shall be encouraged and supported to build AI computing infrastructure, open source development platforms and open source communities, share computing resources through computing platforms such as National Supercomputing Center in Shenzhen and Pengcheng Cloud Brain, reduce corporate development costs, shorten the development cycle and foster an open source governance ecosystem that features sharing and collaboration.
+
+
+  Article 35 Enterprises shall be encouraged and supported to build open and innovative AI platforms for subdivided categories and share key AI generic technologies with upstream and downstream enterprises in the industry.
+
+
+  Article 36 Shenzhen Municipal People’s Government shall promote the construction of AI testing and certification platforms that provide services such as functional testing, safety testing, reliability assessment and ethical safety risk assessment.
+
+
+  Shenzhen Municipal People’s Government shall also support the establishment of testing, certification and experiment platforms for basic electronic components.  Relevant standard systems shall be improved faster to reduce testing and certification costs for key markets such as intelligent terminals, 5G, intelligent vehicles and high-end equipment.
+
+
+Chapter IV Expansion of Application Scenarios
+
+
+  Article 37 Shenzhen Municipal People’s Government shall promote the integration and application of AI in people’s well-being, social governance and economic development, and shall support the application and promotion of new AI technologies, new AI products and new AI models.
+
+
+  Shenzhen Municipal People’s Government shall strive to build a world-class platform for the application and promotion of advanced technologies, which gathers cutting-edge technological innovation outcomes and high-end innovation factors at home and abroad more efficiently.
+
+
+  Article 38 State organs, organizations authorized by laws and regulations to manage public affairs and public enterprises and institutions in Shenzhen Municipality shall proactively use AI products and services, so as to promote digital and intelligent social management.
+
+
+  The application of AI technologies in administrative and judicial fields shall be boosted so as to realize standardized, convenient and informatized government and judicial services.
+
+
+  Article 39 The application of AI technologies in people’s well-being such as healthcare, education, employment, elderly care, culture, transport and housing security shall be boosted so as to distribute public resources to primary sectors and build a high-quality, balanced and intelligent service system for people’s well-being.
+
+
+  Article 40 The application of AI technologies in social governance, legal services, social security and emergency rescue shall be boosted so as to improve government functions.
+
+
+  The application of AI technologies in financial risks, state-owned assets, planning and investment, finance, taxation, audit and statistics shall be boosted so as to provide a reference for Shenzhen Municipality when formulating economic policies and monitoring economic performance.
+
+
+  The application of AI technologies in natural resources, ecological environment, water conservancy, energy conservation and emission reduction shall be boosted so as to help Shenzhen Municipality better prevent and deal with ecological issues.
+
+
+  Article 41 The large-scale application of AI technologies in scientific and technological innovation, industrial development, manufacturing, trade circulation and financial services shall be boosted. Enterprises shall be supported in AI-based intelligent R&D, production and services.
+
+
+  Enterprises shall be encouraged to promote AI-based technical transformation. The municipal competent industry authorities may fund enterprises in intelligent transformation and technical equipment upgrade.
+
+
+  Article 42 AI products and services that protect the rights and interests of children, senior people, people with disabilities and other special populations shall be supported, so as to guarantee their basic services and service experiences.
+
+
+  Article 43 The municipal competent industry authorities shall establish a system for open AI application scenarios, regularly formulate and publish a list of AI scenarios, publicly solicit solutions to such scenarios and attract high-level AI product and service providers at home and abroad.
+
+
+  A market-based operation mechanism for the supply and demand of AI application scenarios shall be explored and established.
+
+
+  Article 44 Except for the fields involving national security, public interests and personal safety, low-risk AI products and services for which national or local standards have not yet been formulated but which meet international standards or norms for advanced products may be piloted through test, trial and pilot.
+
+
+  Article 45 Efforts shall be made to establish a trading platform for electronic components and integrated circuits, with testing standards and evaluation processes for relevant market access. The access threshold for new-generation information technologies and new infrastructure such as 5G and Internet of Things (IoT) in relevant fields shall be lowered to promote demonstrative integration and application.
+
+
+  Article 46 Medical institutions shall be encouraged to establish a mutual recognition mechanism for the ethical review of clinical trials of registered medical devices and improve the clinical trial efficiency of AI medical devices. The medical device registration inspection report issued by a third-party inspection agency whose qualifications have been identified by National Certification and Accreditation Administration and National Medical Products Administration can be adopted.
+
+
+  Medical institutions in Shenzhen Municipality shall be encouraged to use AI products and services such as AI-aided decision-making, image or data processing, medical data analysis and mining, and medical assistant.
+
+
+Chapter V Promotion and Guarantee
+
+
+  Article 47 Shenzhen Municipal People’s Government and its relevant departments shall, according to the actual needs of the AI industry, make overall plans for the layout of the AI industry and support it in terms of capital, industrial land and personnel.
+
+
+  Article 48 Shenzhen Municipal People’s Government shall, in accordance with the development plan for the AI industry, design industrial policies in line with international trade standards, maintain fair market competition and ensure favorable policies for the international development of the AI industry.
+
+
+  Article 49 AI industrial parks shall be built to guide the clustered development of the AI industry. When making construction land supply plans, the municipal planning and natural resources authorities shall reasonably guarantee the land supply for AI parks. A loose and flexible industrial space management mechanism shall be established to reasonably determine the development intensity and supporting functions for qualified enterprises.
+
+
+  Article 50 Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone, Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone and Guangming Science City shall be supported to independently carry out basic research and basic research on AI applications, establish scientific research management systems in line with international standards and implement a more open and convenient registration system for international organizations to attract Hong Kong, Macao, Taiwan and international high-end AI innovation elements.
+
+
+  Article 51 Local higher learning institutions in Shenzhen Municipality shall be encouraged to initiate AI-related programs and interdisciplinary programs. Enterprises can establish research institutions, jointly build laboratories with universities and form a hybrid talent training model for industry-university-research cooperation. Efforts shall also be made to promote basic AI education and applied vocational skills.
+
+
+  Article 52 The municipal human resources authorities shall formulate and implement talent policies in line with international standards, attract international high-end talents and establish an overseas talent pool. Top Chinese and foreign AI talents and high-level teams will be attracted by major projects.
+
+
+  Article 53 An evaluation system for scientific and technological talents based on innovation value, ability and contribution shall be established, which takes economic and social benefits created by the deployment of scientific and technological outcomes as an important factor to evaluate the professional titles of AI talents.
+
+
+  A sound evaluation mechanism for innovative AI talents mainly based on the evaluation of their employers shall be established.
+
+
+  Enterprises shall be encouraged to improve tools and mechanisms for evaluating AI talents through competitions and practical training.
+
+
+  Article 54 Talents introduced by AI enterprises shall, in accordance with relevant regulations, enjoy preferential treatment in light of the talent policy of Shenzhen Municipality in terms of enterprise establishment, project approval, immigration, housing, foreign exchange administration, healthcare and children’s schooling.
+
+
+  Article 55 The investment guidance funds of Shenzhen Municipal People’s Government shall be fully utilized in core fields and key technologies of AI in accordance with the industrial cluster development plan of Shenzhen Municipality.
+
+
+  Social capital shall be encouraged in the development of the AI industry. Financing guarantee funds for micro, small and medium-sized enterprises (MSMEs) shall be fully utilized to enhance credit guarantee for AI startups.
+
+
+  Article 56 A specialized insurance compensation system for AI products and services shall be established and improved so as to guarantee the safety of AI products and services in the whole chain.
+
+
+  Article 57 Private entities shall be supported to offer rewards to individuals and organizations that have made achievements in or contributions to basic AI research, breakthroughs in key and core AI technologies, and the promotion and application of scientific and technological outcomes of AI.
+
+
+  Article 58 Intellectual property of new technologies, new business forms and new models shall be further protected and an intellectual property protection system in the AI industry and its key technologies shall be established.
+
+
+  Article 59 AI standard organizations and industry organizations in Shenzhen Municipality that meet the needs of international development and have market competitiveness shall be established.
+
+
+  Industry organizations shall be encouraged to provide entrepreneurship cultivation and guidance, intellectual property protection, investment, financing, trusted technology R&D, risk analysis and control, and technical support.
+
+
+  Article 60 High-level academic exchanges and industrial cooperation events at home and abroad shall be supported and encouraged. A standard mechanism for the exchange and cooperation with International Organization for Standardization and other influential international academic and industrial organizations shall be established.
+
+
+  Higher learning institutions and scientific research institutions shall be encouraged to join and lead international scientific programs and science projects. Enterprises shall be encouraged to seek membership in influential international organizations and carry out relevant events to promote the demonstrative application of AI products and services at home and abroad.
+
+
+  Article 61 AI ethical safety norms and social values shall be promoted for the publicity, education, training and popularization of AI-related knowledge.
+
+
+  The municipal competent industry authorities and other authorities shall timely publicize the latest development of the AI industry and the results yielded through media outlets such as radio, television, newspapers and the Internet, guide public opinions and help people cope with the changes in lifestyle, employment mode and ethics brought about by the development of AI.
+
+
+  Article 62 The municipal competent industry authorities shall, in the first half of each year, release to the public a report on the implementation of the annual plan for the development of the AI industry in the previous year.
+
+
+Chapter VI Regulation Principles and Measures
+
+
+  Article 63 The governance of the AI industry in Shenzhen Municipality follows the principles of harmony, friendliness, fairness, justice, inclusiveness, sharing, respect for privacy, safety, controllability, shared responsibility, openness, collaboration and agile governance with the goal of promoting sustainable economic, social and ecological development.
+
+
+  Article 64 An AI governance mechanism integrating government norms, industry self-discipline, enterprise autonomy and social supervision shall be established and improved to promote the formation of an AI governance framework and standards with broad consensus, as well as the coordinated co-governance by multiple industrial entities.
+
+
+  Article 65 Shenzhen Municipal People’s Government shall, in accordance with relevant national provisions on AI governance, establish a municipal AI ethics committee, which shall perform the following duties:
+
+
+  1. The committee shall analyze and formulate AI ethical safety norms;
+
+
+  2. The committee shall establish and improve the management system of AI ethical safety norms, to guide and standardize the formulation and implementation of AI ethical safety norms;
+
+
+  3. The committee shall analyze and judge the impact of data and algorithms on the protection of information rights, social ethics, labor and employment;
+
+
+  4. The committee shall publish guidelines for AI ethical safety, a white paper on AI ethical safety, and a collection of excellent cases of ethical safety governance by AI enterprises, so as to guide different types of AI enterprises to establish and improve their ethical safety governance systems;
+
+
+  5. The committee shall evaluate and supervise the implementation of ethical safety norms by AI enterprises in Shenzhen Municipality;
+
+
+  6. The committee shall carry out other activities that it shall carry out.
+
+
+  The municipal competent industry authorities shall take charge of the daily operation of the committee.
+
+
+  Article 66 Shenzhen Municipal People’s Government and its relevant departments shall implement multi-level, classified and differentiated supervision according to the risk, application scenario and scope of influence of AI applications. They shall also improve the AI supervision mechanism.
+
+
+  High-risk AI applications shall be subject to the supervision model featuring pre-process evaluation and risk warning. Medium- and low-risk AI applications shall be subject to pre-process disclosure and post-process tracking.
+
+
+  Measures for the multi-level and classified supervision of AI applications shall be formulated separately by Shenzhen Municipal People’s Government.
+
+
+  Article 67 The municipal scientific and technological innovation authorities shall organize AI social experiments to study the comprehensive impact of the development of AI on the behavior pattern, income and social psychology of individuals and organizations, as well as the employment structure and social equity. They shall continue to collect data and accumulate practical experience.
+
+
+  The municipal competent industry authorities and other authorities shall monitor and evaluate the development of AI, accurately follow the trend of technological and industrial development, conduct research on the comprehensive impact of AI on economy and society and its countermeasures, and timely adjust industrial development policies.
+
+
+  Article 68 Industry organizations shall, in accordance with laws, regulations and articles of association, carry out self-discipline management of the trade, guide and urge the operators in the trade to compete according to the law, and maintain the order of market competition.
+
+
+  Industry organizations shall be encouraged to join the formulation of industry systems and norms related to AI, such as industry standards, technical guidelines, and design guidelines, provide information, technology or training, and promote policies and standards.
+
+
+  Article 69 AI enterprises shall include compliance with ethical safety norms into their professional code and shall include ethical safety risk education, legal and regulatory education in the training of AI workers.
+
+
+  AI enterprises shall be encouraged to prevent possible ethical safety risks and compliance risks of AI products and services by means of technological innovation, or technological confrontation.
+
+
+  Article 70 Organizations and individuals shall be encouraged to engage in AI research, application and supervision, and report violations of laws, regulations and AI ethical safety norms to the municipal competent industry authorities and industry organizations.
+
+
+  Article 71 For the algorithm in public decision-making or in business involving public interests, the organization or individual that provides the AI product or service shall explain the algorithm to the public in a simple way.
+
+
+  Article 72 The organization or individual engaged in AI research or application shall abide by AI ethical safety norms and carry out related activities within a reasonable range. The organization or individual shall conduct ethical safety reviews and risk assessments on the possible adverse effects of the AI product or service on national interests, public security, business order as well as people’s rights and interests.
+
+
+  Any organization or individual engaged in AI research or application shall not conduct any of the following acts:
+
+
+  1. Any organization or individual shall not provide products or services that endanger national security or social public interests;
+
+
+  2. Any organization or individual shall not infringe on people’s privacy or information;
+
+
+  3. Any organization or individual shall not provide products or services that harm physical or mental health;
+
+
+  4. Any organization or individual shall not discriminate against users based on race, gender, nationality, ethnic group or religious beliefs;
+
+
+  5. Any organization or individual shall not resort to any acts that harms consumers’ rights and interests, such as price discrimination and consumption fraud, based on user’s habits, preferences or ability to pay;
+
+
+  6. Any organization or individual shall not use deep synthesis technology for prohibited acts;
+
+
+  7. Any organization or individual shall not be engaged in other acts in violation of relevant laws, regulations or ethical safety norms.
+
+
+  Those who violate the preceding paragraph shall be punished or investigated for corresponding responsibilities in accordance with the Civil Code of the People’s Republic of China and relevant laws and regulations on national security, the protection of personal information and the protection of consumers’ rights and interests.
+
+
+Chapter VII Supplementary Provisions
+
+
+  Article 73 These Regulations shall enter into force on November 1, 2022.

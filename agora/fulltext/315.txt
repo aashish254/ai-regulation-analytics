@@ -1,0 +1,19 @@
+A BILL
+
+To require the Assistant Secretary for Preparedness and Response shall conduct risk assessments and implement strategic initiatives or activities to address threats to public health and national security due to technical advancements in artificial intelligence or other emerging technology fields.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Artificial Intelligence and Biosecurity Risk Assessment Act”.
+
+SEC. 2. Regular assessment of emerging risks.
+
+Section 2811 of the Public Health Service Act (42 U.S.C. 300hh–10) is amended by adding at the end the following:
+
+“(h) Assessment of emerging risks.—In carrying out subsection (b)(4)(I), the Assistant Secretary for Preparedness and Response shall conduct risk assessments and implement strategic initiatives or activities to address whether technical advancements in artificial intelligence, such as open-source artificial intelligence models and large language models, can be used intentionally or unintentionally to develop novel pathogens, viruses, bioweapons, or chemical weapons. Such initiatives and activities may include—
+
+“(1) regularly monitoring and researching potential global biological catastrophic risks in which biological agents could lead to sudden, extraordinary loss of life and sustained damage to national governments, international relationships, economies, societal stability, or global security; and
+
+“(2) including in the National Health Security Strategy under section 2802 a summary of the risk assessment conducted under this subsection.”.

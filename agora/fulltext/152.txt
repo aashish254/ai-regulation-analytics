@@ -1,0 +1,29 @@
+SEC. 589F. STUDY ON CYBEREXPLOITATION AND ONLINE DECEPTION OF MEMBERS OF THE ARMED FORCES AND THEIR FAMILIES. 
+
+(a) STUDY.—Not later than 150 days after the date of the enactment of this Act, the Secretary of Defense shall complete a study on— 
+(1) the cyberexploitation of the personal information and accounts of members of the Armed Forces and their families; and 
+(2) the risks of deceptive online targeting of members and their families. 
+(b) ELEMENTS.—The study under subsection (a) shall include the following: 
+(1) An assessment of predatory loans, other financial products, or educational products being targeted to members of the Armed Forces and their families. 
+(2) An assessment of unproven or unnecessary medical treatments or procedures being targeted to members and their families. 
+(3) An assessment of ethnic or racial violent extremism messages targeting members and their families. 
+(4) An assessment of the ways in which social media algorithms may amplify the targeting described in paragraphs (1) through (3). 
+(5) An intelligence assessment of the threat currently posed by foreign government and non-state actors carrying out the cyberexploitation of members and their families, including generalized assessments as to— 
+(A) whether such cyberexploitation is a substantial threat as compared to other means of information warfare; and 
+(B) whether such cyberexploitation is an increasing threat. 
+(6) A case-study analysis of three known occurrences of attempted cyberexploitation against members and their families, including assessments of the vulnerability and the ultimate consequences of the attempted cyberexploitation. 
+(7) A description of the actions taken by the Department of Defense to educate members and their families, including particularly vulnerable subpopulations, about any actions that can be taken to reduce cyberexploitation threats. 
+(8) An intelligence assessment of the threat posed by foreign government and non-state actors creating or using machine-manipulated media (commonly referred to as ‘‘deep fakes’’) featuring members and their families, including generalized assessments of— 
+(A) the maturity of the technology used in the creation of such media; and 
+(B) how such media has been used or might be used to conduct information warfare. 
+(9) Recommendations for policy changes to reduce the vulnerability of members of the Armed Forces and their families to cyberexploitation and deception, including recommendations for legislative or administrative action. 
+(c) REPORT.— 
+(1) REQUIREMENT.—The Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the findings of the Secretary with respect to the study under subsection (a). 
+(2) FORM.—The report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex. 
+
+(d) DEFINITIONS.—In this section: 
+
+(1) The term ‘‘cyberexploitation’’ means the use of digital means and online platforms— 
+(A) to knowingly access, or conspire to access, without authorization, an individual’s personal information to be employed (or to be used) with malicious intent; or 
+(B) to deceive an individual with misinformation with malicious intent. 
+(2) The term ‘‘machine-manipulated media’’ means video, image, or audio recordings generated or substantially modified using machine learning techniques in order to, with malicious intent, falsely depict the speech or conduct of an individual without that individual’s permission.

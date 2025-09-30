@@ -1,0 +1,59 @@
+AN ACT RELATING TO THE FREEDOM FROM AI-RIGGED (FAIR) ELECTIONS ACT; AMENDING CHAP3 TER 66, TITLE 67, IDAHO CODE, BY THE ADDITION OF A NEW SECTION 67-6628A, IDAHO CODE, TO PROVIDE A SHORT TITLE, TO DEFINE TERMS, TO PROVIDE FOR RELIEF PROHIBITING THE PUBLICATION OF SYNTHETIC MEDIA IN ELECTIONEERING COMMUNICATIONS, TO ESTABLISH PROVISIONS REGARDING AN ACTION PROHIBITING THE PUBLICATION OF SYNTHETIC MEDIA IN ELECTIONEERING COMMUNICATIONS, AND TO PROVIDE EXCEPTIONS; PROVIDING SEVERABILITY; AND DECLARING AN EMERGENCY.
+
+
+Be It Enacted by the Legislature of the State of Idaho:
+
+
+SECTION 1. That Chapter 66, Title 67, Idaho Code, be, and the same is hereby amended by the addition thereto of a NEW SECTION, to be known and designated as Section 67-6628A, Idaho Code, and to read as follows:
+
+
+67-6628A. ELECTIONEERING COMMUNICATIONS -- USE OF SYNTHETIC MEDIA. 
+
+
+(1) This section shall be known and may be cited as the "Freedom From AI-Rigged (FAIR) Elections Act."
+
+
+(2) For purposes of this section:
+(a) "Information content provider" means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the internet or any other interactive computer service.
+
+
+(b) "Interactive computer service" means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the internet and such systems operated or services offered by libraries or educational institutions. 
+
+
+(c) "Synthetic media" means an audio recording or a video recording of an individual's speech or conduct that has been created through the use of generative adversarial network techniques or other digital technology in a manner to create a realistic but false audio or video that:
+(i) To a reasonable individual is of a real event, action, or speech that did not actually occur in reality; and
+(ii) Provides a fundamentally different understanding or impression of the event, action, or speech than a reasonable person would have from the unaltered, original version of the audio recording or video recording.
+
+
+(3) A candidate whose action or speech is deceptively represented through the use of synthetic media in an electioneering communication may seek injunctive or other equitable relief prohibiting the publication of such synthetic media.
+
+
+(4) A candidate whose action or speech is deceptively represented through the use of synthetic media in an electioneering communication may bring an action for general damages, special damages, or both against the information content provider. The court may also award a prevailing party reasonable attorney's fees and costs. The provisions of this subsection do not limit or preclude a plaintiff from securing or recovering any other available remedy.
+
+
+(5) It shall be an affirmative defense for any action brought pursuant to this section that the electioneering communication containing synthetic media includes a disclosure stating, "This (video/audio) has been manipulated" in the following manner:
+(a) If the media is a video, the text of the disclosure must be prominently displayed and appear in a size easily readable by the average viewer, and the disclosure must appear for the duration of the video; or
+(b) If the media consists of audio only, the disclosure must be read in a clearly spoken manner and in a pitch that can be easily heard by the average listener at the beginning of the audio, at the end of the audio, and, if the audio is greater than two (2) minutes in length, interspersed within the audio at intervals of no more than two (2) minutes each.
+
+
+(6) In any action commenced pursuant to this section, the plaintiff bears the burden of establishing the use of synthetic media by clear and convincing evidence.
+
+
+(7) Courts are encouraged to determine matters pursuant to this section expediently.
+
+
+(8) For an action brought pursuant to this section, the information content provider of the electioneering communication may be held liable and not the medium disseminating the electioneering communication, except as provided in subsection (9) of this section.
+
+
+(9) Except when a licensee, programmer, or operator of a federally licensed broadcasting station transmits an electioneering communication that is subject to 47 U.S.C. 315, a medium may be held liable in a cause of action brought pursuant to this section if:
+(a) The medium removes any disclosure described in subsection (5) of this section from the electioneering communication it disseminates; or
+(b) Subject to affirmative defenses described in this section, the medium changes the content of an electioneering communication such that it qualifies as synthetic media.
+
+
+(10) No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider. However, an interactive computer service may be held liable in accordance with subsection (9) of this section.
+
+
+SECTION 2. SEVERABILITY. The provisions of this act are hereby declared to be severable, and if any provision of this act or the application of such provision to any person or circumstance is declared invalid for any reason, such declaration shall not affect the validity of the remaining portions of this act.
+
+
+SECTION 3. An emergency existing therefor, which emergency is hereby declared to exist, this act shall be in full force and effect on and after its passage and approval.

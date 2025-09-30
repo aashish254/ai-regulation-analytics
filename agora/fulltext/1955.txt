@@ -1,0 +1,247 @@
+PART 791—SECURING THE INFORMATION AND COMMUNICATIONS TECHNOLOGY AND SERVICES SUPPLY CHAIN
+1. The authority citation for 15 CFR Part 791 continues to read as follows:
+Authority: 50 U.S.C. 1701 et seq.;50 U.S.C. 1601 et seq.;E.O. 13873, 84 FR 22689; E.O. 14034, 86 FR 31423.
+2. In Part 791, remove the text “initial determination” wherever it appears, and add, in its place, the text “Initial Determination”.
+3. In Part 791, remove the text “final determination” wherever it appears, and add, in its place, the text “Final Determination”.
+4. Amend § 791.1 by revising paragraph (a)(1) to read as follows:
+§ 791.1
+Purpose.
+(a) * * *
+(1) Determine whether any acquisition, importation, transfer, installation, dealing in, or use of any information and communications technology or service, including but not limited to connected software applications, (ICTS Transaction) that has been designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of foreign adversaries poses certain undue or unacceptable risks as identified in the Executive Order 13873. For purposes of these regulations, the Secretary will consider information and communications technology and services (ICTS) to be designed, developed, manufactured, or supplied by a person owned by, controlled by, or subject to the jurisdiction of a foreign adversary where such a person operates, manages, maintains, repairs, updates, or services the ICTS;
+* * * * *
+5. Amend § 791.2 by:
+a. Revising the definition of “Appropriate agency heads”;
+b, Adding in alphabetical order definitions for “Covered ICTS Transaction”, “Dealing in”, and “Importation”;
+c. Revising the definitions of “Party or parties to a Transaction”, “Person owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary”, “Secretary”, and “United States Person”.
+The additions and revisions read as follows:
+§ 791.2
+Definitions.
+Appropriate agency heads means the Secretary of the Treasury, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the United States Trade Representative, the Director of National Intelligence, the Administrator of General Services, the Chairman of the Federal Communications Commission, and the heads of any other executive departments and agencies the Secretary determines is appropriate, or their designees.
+* * * * *
+Covered ICTS Transaction means an ICTS Transaction or a class of ICTS Transactions that meets the criteria set forth in § 791.3.
+Dealing in means the activity of buying, selling, reselling, receiving, licensing, or acquiring ICTS, or otherwise doing or engaging in business involving the conveyance of ICTS.
+* * * * *
+Importation means the process or activity of bringing foreign ICTS to or into the United States, regardless of the means of conveyance, including via electronic transmission.
+* * * * *
+Party or parties to a Transaction means a person or persons engaged in an ICTS Transaction or class of ICTS Transactions, including, but not limited to the following: designer, developer, provider, buyer, purchaser, seller, transferor, licensor, broker, acquiror, intermediary (including consignee), and end user. Party or parties to a Transaction include entities designed, or otherwise used with the intention, to evade or circumvent application of the Executive Order. For purposes of this rule, this definition does not include common carriers, except to the extent that a common carrier knew or should have known (as the term “knowledge” is defined in 15 CFR 772.1) that it was providing transportation services of ICTS to one or more of the parties to a Transaction that has been prohibited in a final written determination made by the Secretary or, if permitted subject to mitigation measures, in violation of such mitigation measures.
+* * * * *
+Person owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary means:
+(1) Any person, wherever located, who acts as an agent, representative, or employee, or any person who acts in any other capacity at the order, request, or under the direction or control, of a foreign adversary or of a person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in majority part by a foreign adversary;
+(2) Any person, wherever located, who is a citizen or resident of a foreign adversary or a country controlled by a foreign adversary, and is not a United States citizen or permanent resident of the United States;
+(3) Any corporation, partnership, association, or other organization with a principal place of business in, headquartered in, incorporated in, or otherwise organized under the laws of a foreign adversary or a country controlled by a foreign adversary; or
+(4) Any corporation, partnership, association, or other organization, wherever organized or doing business, that is owned or controlled by a foreign adversary, to include circumstances in which any person identified in paragraphs (1) through (3) of this definition possesses the power, direct or indirect, whether or not exercised, through the ownership of a majority or a dominant minority of the total outstanding voting interest in an entity, board representation, proxy voting, a special share, contractual arrangements, formal or informal arrangements to act in concert, or other means, to determine, direct, or decide important matters affecting an entity.
+Secretary means the Secretary of Commerce or the Secretary's designee, including for example the Under Secretary of Commerce for Industry and Security or the Executive Director of the Office of Information and Communications Technology and Services.
+* * * * *
+United States person means any United States citizen; any permanent resident alien; any entity organized under the laws of the United States or any jurisdiction within the United States (including such entity's foreign branches); or any person in the United States.
+* * * * *
+6. Amend § 791.3 by revising paragraphs (a)(2), (4) and (b), and removing paragraph (c), to read as follows:
+§ 791.3
+Scope of Covered ICTS Transactions.
+(a) The Secretary may continue review under § 791.103(b) of this part for any ICTS Transaction that:
+* * * * *
+(2) Involves any property in which any foreign country or a national thereof has any interest of any nature whatsoever, whether direct or indirect (including through an interest in a contract for the provision of the technology or service);
+* * * * *
+(4) Involves ICTS and software, hardware, or any other product or service integral to one of the following:
+(i) Information and communications hardware and software, including
+(A) Wireless local area networks;
+(B) Mobile networks;
+(C) Satellite payloads;
+(D) Satellite operations and control;
+(E) internet-enabled sensors, cameras, and any other end-point surveillance or monitoring device, or any device that includes these components such as drones;
+(F) Routers, modems, and any other networking devices;
+(G) Cable access points;
+(H) Wireline access points;
+(I) Core networking systems;
+(J) Long- and short-haul networks;
+(ii) Data hosting, computing or storage, including software, hardware, or any other product or service integral to data hosting or computing services, including software-defined services such as virtual private servers, that uses, processes, or retains, or is expected to use, process, or retain, sensitive personal data of United States persons, including:
+(A) internet hosting services;
+(B) Cloud-based or distributed computing and data storage;
+(C) Managed services; and
+(D) Content delivery services;
+(iii) Connected software applications, including software designed primarily to enable connecting with and communicating via the internet, which is accessible through cable, telephone line, wireless, or satellite or other means, that is in use by United States persons at any point over the twelve (12) months preceding an ICTS Transaction, including connected software applications, such as but not limited to, desktop applications, mobile applications, gaming applications, and web-based applications;
+(iv) Critical infrastructure, including any subsectors of the chemical, commercial facilities, communications, critical manufacturing, dams, defense industrial base, emergency services, energy, financial services, food and agriculture, government services and facilities, health care and public health, information technology, nuclear reactors, materials, and waste, transportation systems, and water and wastewater systems sectors, and
+(v) Critical and emerging technologies, including advanced network sensing and signature management; advanced computing; artificial intelligence; clean energy generation and storage; data privacy, data security, and cybersecurity technologies; highly automated, autonomous, and uncrewed systems and robotics; integrated communication and networking technologies; positioning, navigation, and timing technologies; quantum information and enabling technologies; semiconductors and microelectronics; and biotechnology.
+(b) The Secretary will not continue review of an ICTS Transaction under § 791.103 if the Secretary finds that:
+(1) The ICTS Transaction involves the acquisition of ICTS items by a United States person as a party to a transaction authorized under a U.S. government-industrial security program; or
+(2) The Committee on Foreign Investment in the United States (CFIUS) is conducting a review, investigation, or assessment, or has concluded action on, the specific ICTS Transaction as a covered transaction under section 721(a)(4) of the Defense Production Act of 1950, as amended, and its implementing regulations.
+7. Amend § 791.4 by revising paragraphs (a)(1), (c) introductory text, (c)(2), (c)(3), and (d), and by removing the second parenthetical “(d)” from § 791.4(d) to read as follows:
+§ 791.4
+Determination of foreign adversaries.
+(a) * * *
+(1) The People's Republic of China, including the Hong Kong Special Administrative Region and the Macau Special Administrative Region (China);
+* * * * *
+(c) The Secretary's determination is based on multiple sources, including but not limited to:
+* * * * *
+(2) The Director of National Intelligence's Worldwide Threat Assessments of the U.S. Intelligence Community;
+(3) The National Cyber Strategy of the United States of America; and
+* * * * *
+(d) The Secretary will periodically review this list in consultation with appropriate agency heads and may add to, subtract from, supplement, or otherwise amend this list. Any amendment to this list will apply to any ICTS Transaction that is initiated, pending, or completed on or after the date that the list is amended.
+8. Amend § 791.100 by revising paragraph (a) introductory text, (a)(6), (7), (8), and (9), paragraph (c) introductory text, paragraph (d) introductory text, (d)(5), and (e) to read as follows:
+§ 791.100
+General.
+* * * * *
+(a) Consider any and all relevant information held by, or otherwise made available to, the Federal Government that is not otherwise restricted by law for use for this purpose, including:
+* * * * *
+(6) Information obtained through the authority granted under sections 2(a) and (c) of the Executive Order and IEEPA, as set forth in § 791.101 of this part;
+(7) Information provided by any other U.S. Government national security body, in each case only to the extent necessary for national security purposes, and subject to applicable confidentiality and classification requirements, including the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector and the Federal Acquisitions Security Council and its designated information-sharing bodies;
+(8) Information or referrals provided by any other U.S. Government agency, department, or other regulatory body; and
+(9) Information provided voluntarily by private industry.
+* * * * *
+(c) Determine, in consultation with the appropriate agency heads, whether an ICTS Transaction involves ICTS designed, developed, manufactured, or supplied, by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary, and in making a determination, the Department may consider the following:
+* * * * *
+(d) Determine, in consultation with the appropriate agency heads, whether a Covered ICTS Transaction poses an undue or unacceptable risk, considering the following:
+* * * * *
+(5) Actual or potential threats to execution of a “National Critical Function” identified by the Department of Homeland Security Cybersecurity and Infrastructure Security Agency;
+* * * * *
+(e) In the event the Secretary finds that unusual and extraordinary harm to the national security of the United States is likely to occur if all of the procedures specified herein are followed, deviate from these procedures in a manner tailored to protect against that harm.
+9. Revise paragraphs (a) and (b) of § 791.101 to read as follows:
+§ 791.101
+Information to be furnished on demand.
+(a) Pursuant to the authority granted to the Secretary under sections 2(a), 2(b), and 2(c) of the Executive Order and IEEPA, the Secretary may require any person to furnish under oath, in the form of reports or otherwise, at any time as may be required by the Secretary, complete information relative to any act or transaction, subject to the provisions of this part. The Secretary may require that such reports include the production of any books, contracts, letters, papers, or other hard copy or electronic documents relating to any such act, transaction, or property, in the custody or control of the persons required to make such reports. Reports with respect to transactions may be required from before, during, or after such transactions. The Secretary may, through any person or agency, conduct investigations, hold hearings, administer oaths, examine witnesses, receive evidence, take depositions, and require by subpoena the attendance and testimony of witnesses and the production of any books, contracts, letters, papers, and other hard copy or documents relating to any matter under investigation, regardless of whether any report has been required or filed in connection therewith.
+(b) For purposes of paragraph (a) of this section, the term “document” includes any written, recorded, or graphic matter or other means of preserving thought or expression (including in electronic format), and all tangible things stored in any medium from which information can be processed, transcribed, or obtained directly or indirectly, including correspondence, memoranda, notes, messages, contemporaneous communications such as text and instant messages, letters, emails, spreadsheets, metadata, contracts, bulletins, diaries, chronological data, minutes, books, reports, examinations, charts, ledgers, books of account, invoices, air waybills, bills of lading, worksheets, receipts, printouts, papers, schedules, affidavits, presentations, transcripts, surveys, graphic representations of any kind, drawings, photographs, images, graphs, video or sound recordings, and motion pictures or other media such as film.
+* * * * *
+10. Amend § 791.102 by revising the introductory text of paragraph (b), (b)(4) through (6), and adding (b)(7) to read as follows:
+§ 791.102
+Confidentiality of information.
+* * * * *
+(b) The Secretary may, subject to appropriate confidentiality and classification requirements, disclose information or documentary materials that are not otherwise publicly or commercially available and referenced in paragraph (a) of this section in the following circumstances:
+* * * * *
+(4) Pursuant to a request from any domestic governmental entity or any foreign governmental entity of a United States ally or partner, but only to the extent necessary for national security purposes;
+(5) Where the parties or a party to a transaction have consented, the information or documentary material that is not otherwise publicly or commercially available may be disclosed to third parties;
+(6) Where the Secretary has determined that at least one Covered ICTS Transaction related to the information or documents presents an undue or unacceptable risk, and disclosure to the public or to affected third parties is necessary to prevent or significantly reduce imminent harm to U.S. national security, or the security and safety of United States persons; and
+(7) Any other purpose authorized by law.
+* * * * *
+11. Revise § 791.103 to read as follows:
+§ 791.103
+Review of ICTS Transactions.
+(a) After considering materials described in § 791.100(a), the Secretary may, at the Secretary's discretion, initiate a review of an ICTS Transaction.
+(b) As part of the review, the Secretary will assess whether the transaction:
+(1) Constitutes a Covered ICTS Transaction, as described in § 791.3;
+(2) Involves ICTS designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary, as described in § 791.100(c); and
+(3) Poses an undue or unacceptable risk as described in §§ 791.100(d) and 791.103(c).
+(c) In assessing whether the Covered ICTS Transaction poses an undue or unacceptable risk, the Secretary may evaluate, among other relevant factors, the following criteria:
+(1) The nature and characteristics of the ICTS at issue in the Covered ICTS Transaction, including technical capabilities, applications, and market share considerations;
+(2) The nature and degree of the ownership, control, direction, or jurisdiction exercised by the foreign adversary or foreign adversary persons over the design, development, manufacture, or supply at issue in the Covered ICTS Transaction, to include:
+(i) The ownership, control, or management by persons that support a foreign adversary's military, intelligence, or proliferation activities; and
+(ii) The ownership, control, or management by persons involved in malicious cyber-enabled activities;
+(3) The statements and actions of the foreign adversary at issue in the Covered ICTS Transaction;
+(4) The statements and actions of the persons involved in the design, development, manufacture, or supply of the ICTS at issue in the Covered ICTS Transaction;
+(5) The statements and actions of the parties to the Covered ICTS Transaction;
+(6) Whether the Covered ICTS Transaction poses a discrete or persistent threat;
+(7) The nature and characteristics of the customer base, business relationships, and operating locations of the parties to the Covered ICTS Transaction;
+(8) Whether there is an ability to otherwise mitigate the risks posed by the Covered ICTS Transaction;
+(9) The severity of the harm posed by the Covered ICTS Transaction on at least one of the following:
+(i) Health, safety, and security;
+(ii) Critical infrastructure;
+(iii) Sensitive data;
+(iv) The economy;
+(v) Foreign policy;
+(vi) The natural environment; and
+(vii) National Essential Functions (as defined by Federal Continuity Directive-2 (FCD-2));
+(10) The likelihood that the Covered ICTS Transaction will result in the threatened harm; and
+(11) For ICTS Transactions involving connected software applications:
+(i) the number and sensitivity of the users with access to the connected software application;
+(ii) the scope and sensitivity of any data collected by the connected software application;
+(iii) any use of the connected software application to conduct surveillance that enables espionage, including through a foreign adversary's access to sensitive or confidential government or business information, or sensitive personal data;
+(iv) whether there is regular, thorough, and reliable third-party auditing of the connected software application; and
+(v) the extent to which identified risks have been or can be mitigated using measures that can be verified by independent third parties.
+(d) If the Secretary finds that an ICTS Transaction does not meet the criteria of paragraph (b) of this section:
+(1) The transaction shall no longer be under review; and
+(2) Future review of the transaction shall not be precluded, where additional information becomes available to the Secretary.
+12. Revise § 791.104 to read as follows:
+§ 791.104
+First interagency notification.
+(a) If the Secretary assesses that an ICTS Transaction meets the criteria under § 791.103(b), the Secretary shall memorialize that assessment, provide the assessment to the appropriate agency heads, and offer the appropriate agency heads twenty-one (21) days to comment in writing on the Secretary's assessment.
+(b) If the Secretary does not receive written comments on the assessment from an appropriate agency head within twenty-one (21) days of notification, the Secretary may presume that agency has no comments.
+(c) The Secretary may, at the Secretary's discretion, modify or revise the assessment based on comments received from the appropriate agency heads. The Secretary retains discretion to make an Initial Determination, as provided in § 791.105, regardless of the comments received.
+13. Revise § 791.105 to read as follows:
+§ 791.105
+Initial Determination.
+(a) If, after notifying the appropriate agency heads as required by § 791.104 and considering any comments received, the Secretary determines that the Covered ICTS Transaction does not meet the criteria set forth in § 791.103:
+(1) The transaction shall no longer be under review; and
+(2) Future review of the transaction shall not be precluded, where additional information becomes available to the Secretary.
+(b) If, after notifying the appropriate agency heads as required by § 791.104 and considering any comments received, the Secretary determines that the Covered ICTS Transaction meets the criteria set forth in § 791.103, the Secretary shall:
+(1) Make a written Initial Determination, which shall be dated and signed by the Secretary, that:
+(i) Explains why the ICTS Transaction meets the criteria set forth in § 791.103;
+(ii) Sets forth whether the Secretary proposes to prohibit the Covered ICTS Transaction or to impose mitigation measures, by which the Covered ICTS Transaction may be permitted; and
+(iii) Provides information regarding the factual basis supporting the decision that is set forth pursuant to subparagraph (ii) above;
+(2) Provide at least twenty-one (21) calendar days' notice to the appropriate agency heads of the proposed Initial Determination prior to taking any action under 791.105(b)(3); and
+(3) Notify a party or the parties to the Covered ICTS Transaction by:
+(i) Serving a copy of the Initial Determination to the identified parties to the Covered ICTS Transaction when the Covered ICTS Transaction under review consists of a single transaction or a set of transactions between a limited number of parties (for example, the sale of ICTS by a company with a foreign nexus to an identified United States person); or
+(ii) Serving a copy of the Initial Determination to the person whose ICTS the Secretary determines constitutes the Covered ICTS Transactions under review when the number of U.S. parties or users acquiring, importing, transferring, installing, dealing in, or using the ICTS is unknown or unidentified, or notice to such U.S. parties or users is not feasible or appropriate (for example, when individual consumers purchase the ICTS through an online service or at a retail location).
+(c) Notwithstanding the fact that the Initial Determination to prohibit or propose mitigation measures on an ICTS Transaction may, in whole or in part, rely upon classified national security information, or sensitive but unclassified information, the Initial Determination will contain no classified national security information, nor reference thereto, and, at the Secretary's discretion, may not contain controlled unclassified information.
+(d) Notwithstanding paragraph (b)(3) of this section, the Secretary may, at the Secretary's discretion, determine to publish any notice of an Initial Determination in the Federal Register .
+14. Revise § 791.106 to read as follows:
+§ 791.106
+Recordkeeping requirement.
+Upon notification that an ICTS Transaction is under review, such as, though not limited to, through a demand for information or documents related to an ICTS Transaction under § 791.101 or a notification that an Initial Determination concerning an ICTS Transaction has been made, a notified person must immediately take steps to retain any and all records relating to such Transaction and must retain such records for no less than ten (10) years following a Final Determination made under § 791.109 or as otherwise indicated in the Final Determination. If a notified person receives no notification that an Initial Determination concerning an ICTS Transaction has been made within ten (10) years of notification that an ICTS Transaction is under review, then the recordkeeping obligation will extend for ten (10) years following the initial notification of an ICTS Transaction review unless the notified person is informed otherwise by the Secretary.
+15. Amend § 791.107 by revising the introductory text, paragraphs (c), (e), (f) to read as follows:
+§ 791.107
+Procedures governing response and mitigation.
+Within 30 days of service of the Secretary's Initial Determination pursuant to § 791.105, a party to a transaction may respond to the Initial Determination or assert that the circumstances resulting in the Initial Determination no longer apply, and thus seek to have the Initial Determination rescinded or mitigated pursuant to the following administrative procedures:
+* * * * *
+(c) All submissions under this section must be made in writing.
+(1) The Secretary may, for good cause, extend the time to provide a written submission pursuant to this section.
+(2) Any extensions granted pursuant to this section shall not exceed thirty (30) days.
+(3) A written submission to the Secretary pursuant to this section may not exceed fifty (50) pages without approval from the Secretary prior to the expiration of time for a party's response.
+(4) A written submission to the Secretary may include business confidential information. Any business confidential information must be clearly and specifically demarcated. Publicly available information should not be marked business confidential.
+* * * * *
+(e) This rule creates no right in any person to obtain access to information in the possession of the U.S. Government that was considered in making the Initial Determination, to include classified national security information or sensitive but unclassified information; and
+(f) If the Department receives no response from the parties within 30 days after service of the Initial Determination to the parties, the Secretary may issue a Final Determination without the need to engage in the consultation process provided in section 791.108 of this rule.
+16. Revise § 791.108 to read as follows:
+§ 791.108
+Interagency consultation on the Final Determination.
+(a) Upon receipt of any submission by a party to a transaction under § 791.107, the Secretary shall consider whether and how the information provided—including proposed mitigation measures—affects an Initial Determination.
+(b) After considering the effect of any submission by a party to a transaction under § 791.107 consistent with paragraph (a) of this section, the Secretary shall provide notice in writing of the proposed Final Determination and consult with and seek concurrence from all appropriate agency heads prior to issuing a Final Determination as to whether the Covered ICTS Transaction shall be prohibited, not prohibited, or permitted pursuant to the adoption of negotiated mitigation measures.
+(c) If the appropriate agency heads under paragraph (b) of this section concur, the Secretary shall issue a Final Determination pursuant to § 791.109. If an appropriate agency head provides no response within fourteen (14) days of the agency receiving the notice in writing of the proposed Final Determination, the Secretary may presume concurrence. If an agency objects to the Final Determination, such objection must be submitted by the agency's Deputy Secretary or equivalent or higher level within the 14 days.
+17. Revise § 791.109 to read as follows:
+§ 791.109
+Final Determination.
+(a) For each Covered ICTS Transaction for which the Secretary issues an Initial Determination, the Secretary shall issue a Final Determination as to whether the Covered ICTS Transaction is:
+(1) Prohibited;
+(2) Not prohibited; or
+(3) Permitted, at the Secretary's discretion, pursuant to the adoption of mitigation measures.
+(b) Unless the Secretary, at the Secretary's sole discretion, determines in writing that additional time is necessary, the Secretary shall issue the Final Determination within 180 days of serving the Initial Determination pursuant to § 791.105(b)(3).
+(c) If the Secretary determines that a Covered ICTS Transaction is prohibited, the Secretary shall direct the means that the Secretary assesses to be necessary to address the undue or unacceptable risk posed by the Covered ICTS Transaction.
+(d) The Final Determination shall:
+(1) Be written, signed, and dated;
+(2) Describe the Secretary's determination;
+(3) Be unclassified and contain no reference to classified national security information;
+(4) Consider and address any information received from a party or parties to the transaction;
+(5) Direct, if applicable, the timing and manner of the cessation of the Covered ICTS Transaction;
+(6) Explain, if applicable, that a Final Determination that the Covered ICTS Transaction is not prohibited does not preclude the future review of transactions related in any way to the Covered ICTS Transaction;
+(7) Include, if applicable, a description of the mitigation measures agreed upon by the party or parties to the transaction and the Secretary;
+(8) State the penalties a party will face if it fails to comply fully with any mitigation agreement or direction, including violations of IEEPA, or other violations of law; and
+(9) Include, if applicable, how the Department may transition a mitigation agreement to a prohibition should a party or parties fail to comply with any mitigation agreement or obligations, or violate IEEPA or other law.
+(e) The written, signed, and dated Final Determination shall be sent to:
+(1) The party or parties to the transaction that are identified in the Final Determination via registered U.S. mail and electronic mail; and
+(2) The appropriate agency heads.
+(f) The Secretary shall publish a notice of any Final Determination to prohibit an ICTS Transaction in the Federal Register . The Secretary shall also publish a notice of Final Determination for any ICTS Transaction for which the Secretary published a notice of an Initial Determination. The Secretary may publish a notice of a Final Determination to mitigate an ICTS Transaction in the Federal Register . Any notice of a Final Determination that is published in the Federal Register shall omit any confidential business information.
+18. Revise § 791.200 to read as follows:
+§ 791.200
+Penalties.
+(a) Prohibited activities. (1) No person shall be a party to an ICTS Transaction that is prohibited by a Final Determination issued under this part, unless authorized by the Secretary.
+(2) No person shall aid, abet, counsel, command, induce, facilitate, procure, or otherwise engage in conduct with knowledge that such conduct is prohibited by, or contrary to a Final Determination issued under this part, unless authorized by the Secretary.
+(3) No person shall be a party to an ICTS Transaction in a manner that is contrary to any direction, regulation, or condition published under this part.
+(4) No person shall aid, abet, counsel, command, induce, facilitate, procure, or otherwise engage in conduct with knowledge that such conduct is contrary to the terms of a mitigation agreement under this part.
+(5) Any ICTS Transaction that has the purpose of evading or avoiding, causes a violation of, or attempts to violate, any of the prohibitions set forth in this section is prohibited.
+(6) Any conspiracy formed to violate any of the prohibitions set forth in this section is prohibited.
+(7) Any approval, financing, facilitation, or guarantee by a United States person, wherever located, of an ICTS Transaction by a foreign person where the ICTS Transaction by that foreign person would be prohibited by this order if performed by a United States person or within the United States, is prohibited.
+(8) No person may, whether directly or indirectly through any other person, make any false or misleading representation, statement, or certification, or falsify or conceal any material fact, to the Department:
+(i) In the course of an ICTS Transaction review, in order to secure a benefit or avoid a prohibition, including in proposing and agreeing to mitigation measures; or
+(ii) In connection with the preparation, submission, issuance, use, or maintenance of any report filed or required to be filed pursuant to this part.
+(9) Additional requirements:
+(i) For purposes of paragraph (a)(8), any representation, statement, or certification made by any person shall be deemed to be continuing in effect until the person notifies the Department in accordance with paragraph (a)(9)(ii).
+(ii) Any person who makes a representation, statement, or certification to the Department relating to any ICTS Transaction review shall notify the Department, in writing, of any change of any material fact or intention from that previously represented, stated, or certified, immediately upon receipt of any information that would lead a reasonably prudent person to know that a change of material fact or intention had occurred or may occur in the future.
+(b) Maximum penalties —(1) Civil penalty. A civil penalty not to exceed the amount set forth in Section 206 of IEEPA, 50 U.S.C. 1705, may be imposed on any person who violates, attempts to violate, conspires to violate, or causes any knowing violation of paragraph (a) of this section. IEEPA provides for a maximum civil penalty not to exceed the greater of $250,000 per violation, subject to inflationary adjustment, or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(i) Notice of the penalty, including a written explanation of the penalized conduct specifying the laws and regulations allegedly violated and the amount of the proposed penalty, and notifying the recipient of a right to make a written petition within 30 days as to why a penalty should not be imposed, shall be served on the person.
+(ii) The Secretary shall review any presentation and issue a final administrative decision within 30 days of receipt of the petition.
+(2) Criminal penalty. A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids and abets in the commission of a violation of paragraph (a) of this section shall, upon conviction of a violation of IEEPA, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
+(3) Any civil penalties authorized in this section may be recovered in a civil action brought by the United States in U.S. district court.
+(c) Adjustments to penalty amounts. (1) The civil penalties provided in IEEPA are subject to adjustment pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, as amended, 28 U.S.C. 2461 note).
+(2) The criminal penalties provided in IEEPA are subject to adjustment pursuant to 18 U.S.C. 3571.
+(d) Available penalties. The penalties available under this section are without prejudice to other penalties, civil or criminal, available under law. Attention is directed to 18 U.S.C. 1001, which provides that whoever, in any matter within the jurisdiction of any department or agency in the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined under title 18, United States Code, or imprisoned not more than 5 years, or both.
+Elizabeth L.D. Cannon,
+Executive Director, Office of Information and Communications Technology and Services.
+[FR Doc. 2024-28335 Filed 12-5-24; 8:45 am]
+BILLING CODE 3510-20-P

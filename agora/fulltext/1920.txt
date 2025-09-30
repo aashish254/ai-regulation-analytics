@@ -1,0 +1,59 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Responsible AI Disclosure Act of 2024”.
+
+SEC. 2. Study and report on standardized description for vendor-provided artificial intelligence systems.
+
+(a) Study.—The heads of each covered agency may coordinate with other covered agencies and consult with other relevant Government agencies to carry out a study that—
+
+(1) establishes current and recommended definitions and standards for categorizing artificial intelligence data and methodologies used to train artificial intelligence models that are commonly utilized by regulated entities;
+
+(2) assesses current and recommended practices for regulated entities and vendors to identify data used to train artificial intelligence models that are utilized by regulated entities;
+
+(3) assesses current and recommended standards for the delineation and ratios of synthetic versus genuine data in the training of artificial intelligence models;
+
+(4) identifies the sources of such data;
+
+(5) assesses how such models are designed and function, including how the data submitted to such models are incorporated and other ways in which the data is typically used; and
+
+(6) examines best practices for complying with applicable Federal laws and regulations, including anti-discrimination, consumer protection, and investor protection requirements with respect to internal or vendor-provided artificial intelligence systems utilized by regulated entities.
+
+(b) Report.—Not later than the end of the 6-month period beginning on the date of the enactment of this Act, the heads of each covered agency shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that contains—
+
+(1) all findings and determinations made in carrying out the study required under subsection (a); and
+
+(2) recommendations on whether Federal statutes, regulations, guidance, orders, supervisory practices, or any other administrative actions should be revised with regard to the disclosures and standardized descriptions of vendor-provided artificial intelligence systems.
+
+(c) Existing authority.—After the issuance of the report required under subsection (b), each covered agency shall, if the agency determines it appropriate and determines the agency has the authority to act under another provision of law, require—
+
+(1) regulated entities and vendors providing artificial intelligence systems to regulated entities to—
+
+(A) report to the covered agency—
+
+(i) how the entity or vendor identifies data used to train artificial intelligence models;
+
+(ii) the delineation and ratios of synthetic versus genuine data in the training of artificial intelligence models;
+
+(iii) the sources of such data; or
+
+(iv) how such models are designed and function, including how the data submitted to such models are incorporated and other ways in which the data is typically used; or
+
+(B) disclose all or part of the information described under subparagraph (A) to the public in such form as the covered agency determines appropriate; or
+
+(2) vendors seeking to provide artificial intelligence systems to regulated entities to provide the regulated entities with a standardized disclosure, as determined by the covered agency, with information described in paragraph (1)(A) for each artificial intelligence model the regulated entity seeks to utilize.
+
+(d) Sense of Congress.—It is the sense of the Congress that a covered agency that determines the requirements described under subsection (c) are needed should not wait to implement such requirements until after the issuance of the report under subsection (b).
+
+(e) Definitions.—In this section:
+
+(1) COVERED AGENCY.—The term “covered agency” means the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, the National Credit Union Administration, and the Securities and Exchange Commission.
+
+(2) REGULATED ENTITY.—With respect to a covered agency, the term “regulated entity” means—
+
+(A) an entity with respect to which the covered agency is the primary financial regulatory agency (as defined under section 2 of the Dodd-Frank Wall Street Reform and Consumer Protection Act);
+
+(B) a State credit union or a Federal credit union (as such terms are defined, respectively, under section 101 of the Federal Credit Union Act), with respect to the National Credit Union Administration; and
+
+(C) a covered person (as defined under section 1002 of the Consumer Financial Protection Act of 2010), with respect to the Bureau of Consumer Financial Protection.

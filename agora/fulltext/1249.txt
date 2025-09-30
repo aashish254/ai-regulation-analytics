@@ -1,0 +1,44 @@
+SECTION 1. GOVERNING ETHICAL AI USE AND INNOVATION FOR HEALTH CARE DEVELOPMENT.
+(a) National Institutes Of Health.—Part A of title IV of the Public Health Service Act is amended by inserting after section 403D (42 U.S.C. 283a–3) the following:
+“SEC. 403E. ARTIFICIAL INTELLIGENCE.
+“(a) In General.—The Director of NIH shall—
+“(1) develop computational resources and datasets necessary to use artificial intelligence approaches for health and health care research;
+“(2) provide expertise in biomedical research and the use of artificial intelligence;
+“(3) develop and maintain federated resources that provide unified access to data from fundamental biomedical research and the clinical care environment;
+“(4) provide education and ongoing support to a nationwide user community to foster scientifically sound, ethical, and inclusive research using artificial intelligence that addresses the health needs of all individuals; and
+“(5) extend the clinical research capabilities of the National Institutes of Health to address significant gaps in evidence to guide clinical care and to serve the needs of every community.
+“(b) Authorization Of Appropriations.—There is authorized to be appropriated to the Director of NIH to carry out this section $400,000,000 for fiscal year 2025.”.
+(b) Office Of The National Coordinator For Health Information Technology.—Subtitle C of title XXX of the Public Health Service Act (42 U.S.C. 300jj–51 et seq.) is amended by adding at the end the following:“SEC. 3023. ARTIFICIAL INTELLIGENCE.
+“(a) In General.—The National Coordinator shall—
+“(1) carry out activities to engage in health research by—
+“(A) utilizing the electronic health record as a data collection tool; and
+“(B) requiring that individuals are offered an opportunity to direct the use of their health data for health care research; and
+“(2) establish data and interoperability standards for access, exchange, and use of clinical and administrative data from the clinical care environment through a National Artificial Intelligence Research Resource, in alignment with—
+“(A) the United States Core Data for Interoperability;
+“(B) the Fast Health Interoperability Resources; and
+“(C) the Trusted Exchange Framework and Common Agreement.
+“(b) Authorization Of Appropriations.—There are authorized to be appropriated to the National Coordinator for fiscal year 2025—
+“(1) $10,000,000 to carry out subsection (a)(1); and
+“(2) $50,000,000 to carry out subsection (a)(2).”.
+(c) Medicare Requirement For Hospitals Relating To Use Of Electronic Health Records Data For Biomedical Research Purposes.—Section 1866(a)(1) of the Social Security Act (42 U.S.C. 1395cc(a)(1)) is amended—
+(1) by moving the indentation of subparagraph (W) 2 ems to the left;
+(2) in subparagraph (X)—
+(A) by moving the indentation 2 ems to the left; and
+(B) by striking “and” at the end;
+(3) in subparagraph (Y), by striking the period at the end and inserting “; and”; and
+(4) by inserting after subparagraph (Y) the following new subparagraph:
+“(Z) in the case of a hospital, with respect to each individual who is admitted to the hospital on or after the date that is 1 year after the date of enactment of this subparagraph, to—
+“(i) request permission of the individual to share the health data of the individual for health-related research purposes in accordance with section 3023(a)(1) of the Public Health Service Act; and
+“(ii) in the case where the individual grants permission to the sharing of such data, share the electronic health record of the individual for such purposes in accordance with such section.”.
+(d) Sense Of The Senate.—It is the sense of the Senate that any steering subcommittee (or similar entity) for a National Artificial Intelligence Research Resource established in the Interagency Committee established under section 5103 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9413) shall include an officer or employee of the National Institutes of Health.
+(e) National Library Of Medicine.—
+(1) IN GENERAL.—Section 465(b) of the Public Health Service Act (42 U.S.C. 286(b)) is amended—
+(A) in paragraph (7), by striking “and” after the semicolon;
+(B) by redesignating paragraph (8) as paragraph (10); and
+(C) by inserting after paragraph (7) the following:
+“(8) establish facilities so that the Library serves as the central exchange center of federated data sharing;
+“(9) establish a core data science program to guide and enable a diverse and comprehensive community of health-related research data users; and”.
+(2) AUTHORIZATION OF APPROPRIATIONS.—Subpart 1 of part D of title IV of the Public Health Service Act (42 U.S.C. 286 et seq.) is amended by adding at the end the following:“SEC. 468. AUTHORIZATION OF APPROPRIATIONS.
+“There are authorized to be appropriated to the Secretary for fiscal year 2025—
+“(1) $100,000,000 to carry out section 465(b)(8); and
+“(2) $100,000,000 to carry out section 465(b)(9).”.

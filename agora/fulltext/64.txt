@@ -1,0 +1,18 @@
+SEC. 604. ASSESSMENT OF CRITICAL TECHNOLOGY TRENDS RELATING TO ARTIFICIAL INTELLIGENCE, MICROCHIPS, AND SEMICONDUCTORS AND RELATED SUPPLY CHAINS.
+
+(a) Assessment Required.--Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall complete a detailed assessment of critical technology trends relating to artificial intelligence, microchips, and semiconductors and related supply chains.
+(b) Elements.--The assessment required by subsection (a) shall include the following:
+	(1) Export controls.--
+		(A) In general.--An assessment of efforts by partner countries to enact and implement export controls and other technology transfer measures with respect to artificial intelligence, microchips, advanced manufacturing equipment, and other artificial intelligence enabled technologies critical to United States supply chains.
+		(B) Identification of opportunities for cooperation.--The assessment under subparagraph (A) shall identify opportunities for further cooperation with international partners on a multilateral and bilateral basis to strengthen export control regimes and address technology transfer threats.
+	(2) Semiconductor supply chains.--
+		(A) In general.--An assessment of global semiconductor supply chains, including areas to reduce United States vulnerabilities and maximize points of leverage.
+		(B) Analysis of potential effects.--The assessment under subparagraph (A) shall include an analysis of thepotential effects of significant geopolitical shifts, including those related to Taiwan.
+		(C) Identification of opportunities for diversification.--The assessment under subparagraph (A) shall also identify opportunities for diversification of United States supply chains, including an assessment of cost, challenges, and opportunities to diversify manufacturing capabilities on a multinational basis.
+	(3) Computing power.--An assessment of trends relating to computing power and the effect of such trends on global artificial intelligence development and implementation, in consultation with the Director of the Intelligence Advanced Research Projects Activity, the Director of the Defense Advanced Research Projects Agency, and the Director of the National Institute of Standards and Technology, including forward-looking assessments of how computing resources may affect United States national security, innovation, and implementation relating to artificial intelligence.
+(c) Report.--
+	(1) Definition of appropriate committees of congress.--In this subsection, the term ``appropriate committees of Congress'' means--
+		(A) the Select Committee on Intelligence, the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+		(B) the Permanent Select Committee on Intelligence, the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Homeland Security of the House of Representatives.
+	(2) In general.--Not later than 180 days after the date of the enactment of this Act, the Director shall submit to the appropriate committees of Congress a report on the findings of the Director with respect to the assessment completed under subsection (a).
+	(3) Form.--The report submitted under paragraph (2) shall be submitted in unclassified form, but may include a classified annex.

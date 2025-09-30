@@ -1,0 +1,48 @@
+The people of the State of California do enact as follows:
+
+
+SECTION 1. Section 38756 is added to the Vehicle Code, to read:
+38756. (a) Notwithstanding Section 38750, the Livermore Amador Valley Transit Authority is authorized to conduct a shared autonomous vehicle (SAV) demonstration project for the testing of autonomous vehicles that do not have a driver seated in the driver’s seat and are not equipped with a steering wheel, a brake pedal, or an accelerator, provided the following requirements are met:
+(1) The testing shall be conducted only within the City of Dublin and the vehicles may traverse public roads within the area of the demonstration project.
+
+
+(2) The autonomous vehicle shall operate at speeds of less than 35 miles per hour.
+
+
+(b) Prior to the start of the testing of an autonomous vehicle that does not have a driver seated in the driver’s seat on or across a public road, the Livermore Amador Valley Transit Authority or a private entity, or a combination of the two, shall do both of the following:
+(1) Obtain an instrument of insurance, surety bond, or proof of self-insurance in an amount of five million dollars ($5,000,000), and shall provide evidence of the insurance, surety bond, or proof of self-insurance to the Department of Motor Vehicles in the form and manner required by the department.
+
+
+(2) Submit a detailed description of the testing program to the department. The detailed description shall include all of the following:
+(A) Certification that, prior to testing on public roads, the autonomous vehicle has been tested under controlled conditions that simulate, as closely as practicable, the real-world conditions that the autonomous vehicle will be subject to during this demonstration project, and that the Livermore Amador Valley Transit Authority or a private entity, or a combination of the two, has made a reasonable determination that it is safe to operate the autonomous vehicle on public roads under these conditions.
+(B) Evidence satisfactory to the department that the local authorities with jurisdiction over the public roads in the designated area approve of the geographic area and environmental, traffic, and speed conditions authorized for purposes of this demonstration project.
+(C) Certification that the autonomous vehicle can only operate in autonomous mode in the geographic area and environmental, traffic, and speed conditions authorized in this specific demonstration project.
+(D) Certification that this demonstration project complies, or will comply, with National Highway Traffic Safety Administration guidance, if any, on the safe testing, deployment, and operation of autonomous vehicles.
+(E) Certification that the autonomous vehicle used in the demonstration project complies with all applicable federal Motor Vehicle Safety Standards, or written evidence that the National Highway Traffic Safety Administration either considers the absence of a steering wheel, a brake pedal, or an accelerator permissible under federal Motor Vehicle Safety Standards or has granted the autonomous vehicle an exemption from compliance with the relevant federal Motor Vehicle Safety Standards.
+(F) Identify to the department the autonomous vehicles that are to be tested on public roads during this demonstration project. For each vehicle, the manufacturer shall provide to the department the make, model, and model year of the vehicle, the full vehicle identification number, and the license plate number and the state of issuance.
+(G) Certification that the vehicle is equipped with a communication link between the vehicle and a remote operator to provide information on the vehicle’s location and status and to allow two-way communication between the remote operator and any passengers if the vehicle experiences any failures that would endanger the safety of the vehicle’s passengers or other road users while operating without a driver.
+(H) Certification that the autonomous vehicle is designed to detect and respond to roadway conditions in compliance with all provisions of this code and local regulations applicable to the operation of motor vehicles.
+(I) A copy of a law enforcement interaction plan, which includes information that the Livermore Amador Valley Transit Authority or a private entity, or a combination of the two, will provide to the law enforcement agencies whose jurisdiction covers the designated area to instruct those agencies on how to interact with the vehicle in emergency and traffic enforcement situations.
+
+
+(c) The operator of the autonomous vehicle technology tested pursuant to this section shall disclose to an individual who participates in the demonstration project what personal information, if any, concerning the demonstration project participant is collected by an autonomous vehicle.
+
+
+(d) For the testing of autonomous vehicles within the designated area, the department may require data collection for evaluating the safety of the vehicles, including, but not limited to, both of the following:
+(1) A report to the department of any accident originating from the operation of the autonomous vehicle on a public road that resulted in the damage of property or in bodily injury or death. Accidents shall be reported within 10 days in the form and manner specified by the department pursuant to the regulations adopted by the department under Section 38750.
+(2) The submission to the department of an annual report in the form and manner specified by the department pursuant to the regulations adopted under Section 38750 summarizing information on unplanned technology disengagements that occurred while the autonomous vehicle was being tested on public roads. “Disengagement” means a deactivation of the autonomous mode when a failure of the autonomous technology is detected or when the safe operation of the vehicle required disengagement from the autonomous mode.
+
+
+(e) This section does not limit the authority of the department to promulgate regulations governing the testing and operation of autonomous vehicles on public roads, with or without the presence of a driver inside the vehicle, pursuant to Section 38750.
+
+
+(f) It is the intent of the Legislature, in enacting the act that added this section, to address the specific circumstances of the demonstration project proposed by the Livermore Amador Valley Transit Authority. Pursuant to Section 38750, the Department of Motor Vehicles is developing regulations for the testing and operation of autonomous vehicles, and it is not the intent of the Legislature to influence the content of those statewide regulations through the enactment of this section, which is only intended to govern the establishment of one local demonstration project.
+
+
+(g) The demonstration project authorized by this section shall not be conducted if the department has adopted regulations pursuant to Section 38750 by December 31, 2017, through the proceedings initiated by the department on March 10, 2017, and published in the California Regulatory Notice Register as Notice File No. Z2017-0227-02.
+
+
+(h) The Livermore Amador Valley Transit Authority shall comply with regulations promulgated by the department to allow testing of autonomous vehicles without a driver in the vehicle.
+
+
+(i) This section shall become inoperative on May 1, 2018, and, as of January 1, 2019, is repealed.

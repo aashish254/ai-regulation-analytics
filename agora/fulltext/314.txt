@@ -1,0 +1,20 @@
+ AN ACT concerning employment.
+
+
+   Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+
+
+   Section 5. The Artificial Intelligence Video Interview Act is amended by adding Section 20 as follows:
+
+
+   Sec. 20. Report of demographic data.
+
+   (a) An employer that relies solely upon an artificial intelligence analysis of a video interview to determine whether an applicant will be selected for an in-person interview must collect and report the following demographic data:
+
+       (1) the race and ethnicity of applicants who are and are not afforded the opportunity for an in-person interview after the use of artificial intelligence analysis; and
+
+       (2) the race and ethnicity of applicants who are hired.
+   (b) The demographic data collected under subsection (a) must be reported to the Department of Commerce and Economic Opportunity annually by December 31. The report shall include the data collected in the 12-month period ending on November 30 preceding the filing of the report.
+
+
+   (c) The Department must analyze the data reported and report to the Governor and General Assembly by July 1 of each year whether the data discloses a racial bias in the use of artificial intelligence.

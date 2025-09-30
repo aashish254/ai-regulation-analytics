@@ -1,0 +1,23 @@
+SEC. 8. Section 84514 is added to the Government Code, immediately following Section 84513, to read:
+
+
+84514. (a) (1) If a committee, as defined in Section 82013, creates, originally publishes, or originally distributes a qualified political advertisement, the qualified political advertisement shall include, in a clear and conspicuous manner, the following disclosure: “Ad generated or substantially altered using artificial intelligence.”
+(2) The disclosure required by paragraph (1) shall be displayed or spoken in the manner prescribed in Section 84504, 84504.1, 84504.2, 84504.3, 84504.4, or 84504.5, as applicable.
+
+
+(b) This section does not alter or negate any rights, obligations, or immunities of an interactive service provider under Section 230 of Title 47 of the United States Code.
+
+
+(c) (1) If a committee does not comply with the requirements of subdivision (a), the Commission may take either of the following actions:
+(A) Seek injunctive relief to compel compliance pursuant to Section 90009.
+(B) Pursue any administrative or civil remedies available under Chapter 3 (commencing with Section 83100) or Chapter 11 (commencing with Section 91000).
+(2) A violation of subdivision (a) shall not constitute a misdemeanor under Chapter 11 (commencing with Section 91000).
+
+
+(d) For purposes of this section, the following definitions apply:
+(1) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+(2) (A) Any image, audio, video, or other media is “generated or substantially altered using artificial intelligence” if either of the following conditions are met:
+(i) The visual or audio media is entirely created using artificial intelligence and would falsely appear to a reasonable person to be authentic.
+(ii) The visual or audio media is materially altered by artificial intelligence such that the alteration would cause a reasonable person to have a fundamentally different understanding of the altered media when comparing it to an unaltered version.
+(B) Any image, audio, video, or other media is not “generated or substantially altered using artificial intelligence” if the media is immaterially altered by artificial intelligence, including a cosmetic adjustment, color edit, cropped image, or resized image.
+(3) “Qualified political advertisement” means an advertisement that contains any image, audio, or video that is generated or substantially altered using artificial intelligence.

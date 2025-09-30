@@ -1,0 +1,14 @@
+SEC. 112. Mitigating bias in artificial intelligence use.
+(a) Sense of Congress.—It is the sense of Congress that, with the integration of artificial intelligence into agency work and operations, measures should be taken to address bias in artificial intelligence models to reduce the likelihood of negative results or discriminatory outcomes.
+
+
+(b) Experts and technologists.—The head of each international affairs agency shall employ experts, including technologists, social scientists, and legal experts, and fellows from established programs, to support the development of a risk-mitigation framework that promotes trustworthy artificial intelligence systems, including testing and correcting for racial, ethnic, gender, age, national origin, geographic, and other bias in artificial intelligence training data and applications.
+
+
+(c) Reports.—Not later than 1 year after the date of the enactment of this Act, and every 2 years thereafter for the following 8 years, the head of each agency shall submit a report to the appropriate congressional committees that—
+
+
+(1) describes the agency's efforts to support the safe, secure, and trustworthy development and use of artificial intelligence; and
+
+
+(2) includes agency efforts to test and correct for any bias in artificial intelligence training data and applications, and any resources needed to improve the effectiveness of such efforts.

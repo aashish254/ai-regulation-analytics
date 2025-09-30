@@ -1,0 +1,101 @@
+I. Background
+
+Financial services companies rely on digital marketing providers to target and deliver advertisements across various platforms to consumers on their behalf. By doing so, financial services companies may be able to engage with audiences in ways that they were previously unable to with traditional advertising methods. Many modern digital marketing providers (or “digital marketers”) play a dramatically different role in consumer advertising than did traditional media sources like print newspapers or radio stations. Many digital marketers target and deliver ads to specific consumers  using sophisticated analytical techniques, including machine learning and behavioral analytics, to process large amounts of consumer data. 
+
+In other words, many digital marketers aggregate and analyze immense amounts of granular consumer data, and then use that data to determine what advertisements to provide to specific consumers at what times. Accordingly, digital marketing providers commingle the service of targeting and delivering advertisements with the activities of traditional media sources in providing airtime or physical space.
+
+Digital marketing providers obtain data from a variety of sources, including but not limited to data collected directly from consumers, for example when registering for an account or when conducting a search query into a search bar. Further, digital marketers may harvest a wide variety of consumer data by monitoring and tracking a consumer's web activity, including for example, their browsing history, their activity while online, and their geolocation. (This is sometimes called “surveillance advertising.”) Digital marketers may also obtain data from third-party data brokers or “second-party” partnerships with other companies. 
+
+Using these tools and others, digital marketers collect granular consumer data that they analyze to develop insights about consumers' behavior more broadly. 
+
+The insights that digital marketing providers develop enable them to offer financial services companies targeted advertising services. For example, collected data from individual consumers can be analyzed by these marketers and used to segment consumers across various groupings, such as by age, location, or specific interests (e.g., “concert goers”). After these categories have been developed, firms that use digital marketing providers to acquire customers can select (or exclude) certain types of customers. 
+
+In contrast, digital marketers may also target advertisements at specific times based on context, i.e., the content that a user is currently viewing. Such contextual advertisements more closely resemble traditional ads users might find in other spaces—such as an ad for a sporting goods store aired during a televised basketball match or a print clothing ad placed in a fashion magazine—as they are based on the contents of what is being displayed, not consumer-specific data.
+
+Digital marketers engaged in ad targeting and delivery may operate the websites or platforms on which ads appear, or they may not. In either case, digital marketers serve as an intermediary between the financial services company and consumers.
+
+The ways in which digital marketing providers specifically target ads are varied and evolve over time. Ultimately, the digital marketer may decide which group(s) the consumer belongs in and which financial services companies desire to advertise to that group, and may select the specific ad to display to that consumer and/or when to display the ad based on other factors (e.g., the amount a firm is willing to pay to display the ad). Accordingly, many digital marketing providers are materially involved in the development of “content strategy” by identifying or selecting prospective customers and/or selecting or placing content to affect consumer engagement, including purchasing or adoption behavior. These activities go well beyond the activities of traditional media sources, such as print newspapers or radio, that solely passively provided airtime or physical space for advertisements.
+
+II. Analysis
+
+Service Providers
+
+A person is a “covered person” under the CFPA, and thus subject to that law, including its prohibition on unfair, deceptive, or abusive acts or practices (UDAAPs), if it offers or provides a financial product or service for use by consumers primarily for personal, family, or household purposes. 
+
+“Service provider” to covered persons are also subject to the CFPA, including its UDAAP prohibition. 
+
+The CFPA defines a service provider as “any person that provides a material service to a covered person in connection with the offering or provision by such covered person of a consumer financial product or service.”  
+
+The term “service provider” includes, but is not limited to, a person that “participates in designing, operating, or maintaining the consumer financial product or service” or “processes transactions relating to the consumer financial product or service.”  
+
+The term “service provider,” however, “does not include a person solely by virtue of such person offering or providing to a covered person” either “a support service of a type provided to businesses generally or a similar ministerial service,” or “time or space for an advertisement for a consumer financial product or service through print, newspaper, or electronic media.”  
+
+Material Service
+
+When digital marketing providers are materially involved in the development of content strategy, they typically provide a material service. Unlike most traditional media sources, digital marketing providers engaged in ad targeting and delivery are not solely providing airtime or physical space for ads. Rather, digital marketers commingle the targeting and delivery of advertisements with the provision of “time or space.”
+
+A “material” service is a service that is significant or important. When digital marketers identify or select prospective customers and/or select or place content to affect consumer engagement, including purchasing or adoption behavior, they are providing a significant—and thus “material”—service provided to covered persons. In particular, identifying prospective customers and then attempting to acquire those customers is a significant component of the “offering” of a consumer financial product or service, which is part of the legally relevant test for determining that a firm is a “covered person.”  
+
+Indeed, modern digital ad targeting and content delivery typically consists of many functions—such as lead generation, customer acquisition, or marketing analysis or strategy—that would often be performed by covered persons. For example, a covered person may measure the effectiveness of certain marketing efforts by calculating a “customer acquisition rate.”  
+
+Similarly, a covered person's marketing group may analyze where to purchase advertising across multiple channels to maximize impact. 
+
+The involvement in the development of content strategy by digital marketing providers increasingly resembles these functions and others often performed by covered persons themselves (although the services are often carried out in a more sophisticated way, based on the digital marketers' data and technology). Accordingly, digital marketers that are materially involved in the development of content strategy by identifying or selecting prospective customers and/or selecting or placing content to affect consumer engagement, including purchasing or adoption behavior, typically provide a material service.
+
+“Time or Space” Exception
+
+As noted above, the CFPA provides that the term service provider “does not include a person solely by virtue of such person offering or providing to a covered person” either “a support service of a type provided to businesses generally or a similar ministerial service,” or “time or space for an advertisement for a consumer financial product or service through print, newspaper, or electronic media.”  
+
+The reference to “solely” providing “time or space for an advertisement” means that digital marketers that provide additional services beyond “time or space”—i.e., beyond airtime or physical space for the ad—do not qualify for the exception. Accordingly, when digital marketers are materially involved in the development of content strategy in addition to providing airtime or physical space, they fall outside the exception for “solely” providing “time or space.”
+
+The “service provider” definition should be interpreted as a cohesive whole. 
+
+Thus, the “time or space” exception should be interpreted alongside its inclusion with the exception for “a support service of a type provided to businesses generally or a similar ministerial service.”  
+
+Firms that provide a “ministerial” service to financial institutions are not materially involved in the marketing or distribution of the consumer financial product or service; they are not typically involved in the identification or selection of prospective customers, nor do they select or place content to affect consumer engagement. For example, a firm that furnishes broadband access to a financial institution is not involved in the strategic marketing and distribution of the consumer financial product or service and is generally not providing a material service.
+
+Additionally, the “time or space” exception refers to “electronic media” within the phrase “print, newspaper, or electronic media.”  
+
+This phrasing—especially alongside the other exemption for “a support service of a type provided to businesses generally or a similar ministerial service”—indicates that the “time or space” exception should be interpreted to refer to the offering of advertising in a manner similar to that was generally performed by traditional media sources, such as “print” or “newspaper.”  
+
+A traditional media source typically provided “time or space”—i.e., the airtime or physical space for the ad—with relatively little (i.e., largely “ministerial”) involvement in the development of content strategy. 
+
+To be sure, some traditional media sources may have been involved in the selection of the audience for or content of ads to some degree (such as by allowing businesses to select advertising space in a geographic-specific section of a newspaper to businesses operating in that geographic area or putting advertisements for financial services in the financial section of the newspaper). But traditional media sources were typically not materially involved in the development of content strategy; in the main, their function was solely to provide “time or space” by operating as passive conduits of information provided by their customers.
+
+Indeed, when digital marketers are materially involved in the development of content strategy, the marketers perform functions that would often traditionally be undertaken by the covered person itself, rather than by a traditional media outlet. For example, as noted above, a covered person's marketing group may analyze where or when to purchase advertising across multiple channels to maximize impact. 
+
+Of course, covered persons may sometimes engage third-party vendors for these activities. For example, they may engage an advertising or consulting firm to perform marketing analysis. But this would not typically be a service that was performed by a traditional media source, such as a newspaper or radio station. The enterprises or firms providing these services may be “service providers” under the CFPA, but a media source that merely provided airtime or physical space would fall into the “time or space” exception and would not be a service provider.
+
+Specific Circumstances
+
+The conduct of digital marketers that provide services to covered persons varies widely and, depending on the conduct, may or may not fall within the “time or space” exception. Under the interpretation of the definition of “service provider” described above, the role played by the digital marketing provider—i.e., whether the digital marketing provider is materially involved in the development of content strategy by identifying or selecting prospective customers and/or selecting or placing content to affect consumer engagement—will determine whether the advertiser falls within the “time or space” exception. Increasingly, the role typically played by digital marketers fall outside the exception and the digital marketers are typically service providers under the CFPA.
+
+In certain circumstances, the digital marketing provider is only minimally involved in identifying or selecting prospective customers or selecting or placing content to affect consumer engagement. For instance, digital marketers may offer covered persons the ability to choose to run an advertisement on a particular web page or application of the covered person's choosing, with advertisements seen by any user of that page or application. In these circumstances, the digital marketer would typically fall within the “time or space” exception. The digital marketer in this situation is “solely” providing “time or space” for the ad, in the sense of airtime or physical space for the ad, without commingling targeting or delivery of the advertisements. Moreover, the digital marketer's conduct in these circumstances is similar to a traditional media source (such as a newspaper or radio station) that offered advertisements directed at a particular market of the covered person's choosing, rather than a function traditionally performed by a covered person itself.
+
+Digital marketing providers may also target and deliver the advertisements to users with certain characteristics (such as demographics, geography, online behavior (such as particular keyword searches), or offline behavior). In some circumstances, the covered person may provide an audience of existing users and specify that advertisements be provided to similar consumers. While the covered person may specify certain parameters of the intended audience for a specific consumer financial product or service, it is the digital marketers' ad targeting and delivery algorithms that identify the audience with the desired characteristics and determine whether and/or when specific consumers see an advertisement. 
+
+Digital marketing providers do not fall within the “time or space” exception if they target and deliver advertisements to users with certain characteristics, even if those characteristics are specified by the covered person. In these circumstances, although the covered person also plays a role, the digital marketer selects, including through its algorithms and data, the specific audience that sees the advertisement for the covered person's consumer financial product or service. The selection of specific consumers to see specific ads goes beyond solely selling airtime or physical space as performed by traditional media sources such as newspapers or radio. When digital marketers target and deliver advertisements to users with certain characteristics, the digital marketer is materially involved in the development of content strategy and is not covered by the “time or space” exception.
+
+Moreover, when digital marketers target and deliver advertisements to users with certain characteristics, the selection of the audience through algorithms and data is akin to a customer acquisition function that would traditionally be performed in-house by a covered person (or a vendor other than a traditional media source, such as a consulting firm). Accordingly, digital marketers that target and deliver advertisements to users with certain characteristics specified by the covered person are typically service providers under the CFPA.
+
+Similarly, digital marketing providers do not fall into the “time or space” exception if a covered person identifies particular users by name and the digital marketer targets and delivers the advertisements to those users at specific times to increase or maximize engagement. The provision of the service of analyzing when advertisements should appear goes beyond “solely” selling airtime or physical space as performed by traditional media sources such as newspapers or radio. To be sure, a traditional media source might have provided some basic information to firms about when to air particular advertisements, but the business purchasing the ad was generally the entity that made the decision about when and where to place the ad. Here, the use of algorithms and business-specific data to determine when to display a specific business' ads to specific consumers to affect consumer engagement extends well beyond the activities performed by a traditional media source.
+
+There are also circumstances in which the digital marketing provider plays an even more significant role in determining which specific consumers see digital advertisements, such as by determining or suggesting to the covered person which users are the most appropriate audience for the covered person's advertisements (rather than receiving such direction from the covered person). Digital marketers may determine who is the appropriate audience to receive ads based on, for instance, the content of the particular ad, the type of businesses being advertised, the marketer's own knowledge of a particular user's characteristics and behavior (including offline behavior), the behavior of other users, and past user engagement with similar types of ads. 
+
+In circumstances such as these in which a digital marketing provider plays an even more significant role in determining which specific users see digital advertisements, such as by determining or suggesting which users are the appropriate audience for advertisements, the digital marketer does not fall within the “time or space” exception and is typically a service provider under the CFPA. Determining which users are the appropriate audience for a particular covered person's advertisement is well beyond providing airtime or physical space. To the contrary, determining the appropriate audience is much more similar to the function traditionally performed by a covered person's own customer acquisition or marketing group than by a traditional media source. Indeed, identifying or selecting prospective customers for a covered person's business is similar to the function of a “lead generator” that would be considered a service provider under the CFPA. Accordingly, digital marketers that, for example, determine or suggest which users are the appropriate audience for advertisements are materially involved in the development of content strategy, do not fall under the “time or space” exception, and are typically service providers under the CFPA.
+
+III. Regulatory Matters
+
+This is an interpretive rule issued under the Bureau's authority to interpret the CFPA, including under section 1022(b)(1) of the CFPA, which authorizes guidance as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectives of Federal consumer financial laws, such as the CFPA. 
+
+As an interpretive rule, this rule is exempt from the notice-and-comment rulemaking requirements of the Administrative Procedure Act. 
+
+Because no notice of proposed rulemaking is required, the Regulatory Flexibility Act does not require an initial or final regulatory flexibility analysis. 
+
+The Bureau also has determined that this interpretive rule does not impose any new or revise any existing recordkeeping, reporting, or disclosure requirements on covered entities or members of the public that would be collections of information requiring approval by the Office of Management and Budget under the Paperwork Reduction Act. 
+
+Pursuant to the Congressional Review Act, the Bureau will submit a report containing this interpretive rule and other required information to the U.S. Senate, the U.S. House of Representatives, and the Comptroller General of the United States prior to the rule's published effective date. The Office of Information and Regulatory Affairs has designated this interpretive rule as not a “major rule” as defined by 5 U.S.C. 804(2).
+
+Footnotes
+
+[Omitted.]

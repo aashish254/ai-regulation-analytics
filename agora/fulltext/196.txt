@@ -1,0 +1,12 @@
+SEC. 6303. ESTABLISHMENT OF THE CHIEF ARTIFICIAL INTELLIGENCE OFFICER OF THE DEPARTMENT OF STATE.
+
+Section 1 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a) is amended by adding at the end the following new subsection:
+``(n) Chief Artificial Intelligence Officer.--
+``(1) In general.--There shall be within the Department of State a Chief Artificial Intelligence Officer, which may be dual-hatted as the Department's Chief Data Officer, who shall be a member of the Senior Executive Service.``(2) Duties described.--The principal duties and responsibilities of the Chief Artificial Intelligence Officer shall be--
+``(A) to evaluate, oversee, and, if appropriate, facilitate the responsible adoption of artificial intelligence (AI) and machine learning applications to help inform decisions by policymakers and to support programs and management operations of the Department of State; and
+``(B) to act as the principal advisor to the Secretary of State on the ethical use of AI and advanced analytics in conducting data-informed diplomacy.``(3) Qualifications.--The Chief Artificial Intelligence Officer should be an individual with demonstrated skill and competency in--
+``(A) the use and application of data analytics, AI, and machine learning; and
+``(B) transformational leadership and organizational change management, particularly within large, complex organizations.
+``(4) Partner with the chief information officer on scaling artificial intelligence use cases.-- To ensure alignment between the Chief Artificial Intelligence Officer and the Chief Information Officer, the Chief Information Officer will consult with the Chief Artificial Intelligence Officer on best
+practices for rolling out and scaling AI capabilities across the Bureau of Information and Resource Management's broader portfolio of software applications.
+`(5) Artificial intelligence defined.--In this subsection, the term artificial intelligence' has the meaning given the term in section 238(g) of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. 4001 note).''.

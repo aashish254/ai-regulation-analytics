@@ -1,0 +1,93 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Living Wage for Musicians Act of 2024”.SEC. 2. ARTIST COMPENSATION ROYALTY FUND.
+(a) Establishment.—
+(1) IN GENERAL.—The Register, with the approval of the Librarian of Congress, shall designate an eligible entity to establish and administer a fund to be known as the Artist Compensation Royalty Fund.
+(2) NOTICE OF DESIGNATION IN FEDERAL REGISTER.—Not later than 30 days after the eligible entity is designated under paragraph (1), the Register shall publish a notice in the Federal Register that—
+(A) includes the contact information for the eligible entity; and
+(B) the reason for why the Register designated the eligible entity under such paragraph.(b) Deposit Of Amounts Into Fund.—
+(1) DEPOSIT.—The Fund Administrator shall deposit into the Fund any amounts received by the Fund Administrator under paragraph (2) or (3).
+(2) AMOUNTS FROM SERVICE PROVIDERS.—Not later than the last day of the first calendar quarter after the calendar quarter in which the Fund administrator is designated, and each calendar quarter thereafter, a service provider shall provide to the Fund Administrator, for deposit into the Fund—
+(A) the amounts collected by the service provider in the prior calendar quarter from the living wage royalty fee; and
+(B) 10 percent of any non-subscription revenue received by the service provider in the prior calendar quarter.
+(3) AMOUNTS FROM SOURCES OTHER THAN SERVICE PROVIDERS.—The Fund Administrator may receive amounts for deposit into the Fund from any source, including from a Federal, State, or local government.(c) Use Of Fund.—Amounts in the Fund shall be made available in accordance with section 3.
+SEC. 3. PAYMENTS TO MUSICAL ARTISTS FROM ARTIST COMPENSATION ROYALTY FUND.
+(a) In General.—
+(1) ALLOCATION OF PAYMENTS.—Amounts in the Fund shall be allocated as follows:
+(A) 90 percent of such amounts shall be allocated for payments to eligible featured artists.
+(B) 10 percent of such amounts shall be allocated for payments to eligible non-featured artists.
+(2) PAYMENTS FROM FUND.—Not later than the last day of the calendar quarter in which amounts are first deposited into the Fund under section 2(b)(2), and once each calendar quarter thereafter, the Fund Administrator shall promptly provide—
+(A) a percentage of the amount allocated under paragraph (1)(A) of this subsection to each eligible featured artist, that is equal to the percentage of qualifying streams accrued by the eligible featured artist in the prior calendar quarter out of all qualifying streams accrued by all eligible featured artists in the prior calendar quarter; and
+(B) payment from the amount allocated under paragraph (1)(B) of this subsection to the American Federation of Musicians and Screen Actors Guild and the American Federation of Television and Radio Artists Intellectual Property Rights Distribution Fund (or any successor Fund) for distribution to each eligible non-featured artist.
+(3) UNCLAIMED FUNDS.—If the Fund Administrator attempts to the best of the ability of the Fund Administrator to identify an eligible featured artist to provide payment to such artist under paragraph (2)(A), and is unable to identify such artist at such time, the Fund shall—
+(A) retain the required payment in a segregated trust account; and
+(B) if the Fund Administrator is not able to identify such artist after a period determined reasonable by the Fund Administrator, deposit the payment back into the Fund.(b) Retention Of Records.—The Fund Administrator shall—
+(1) keep books and records relating to—
+(A) amounts provided to the Fund Administrator under section 2(b)(2); and
+(B) amounts distributed from the Fund under subsection (a) of this section; and
+(2) retain any such book or record for a period of not less than 3 calendar years after the date on which such book or record is created.SEC. 4. SERVICE PROVIDER OBLIGATIONS.
+(a) Living Wage Royalty Fee.—Beginning on a date determined appropriate by the Fund Administrator, service provider shall charge each person charged a subscription fee by the provider an additional fee in an amount equal to 50 percent of the subscription fee charged by the service provider, except that such additional fee shall not be an amount less than $4 or more than $10.
+(b) Notice Of Additional Fee.—In each statement or receipt a service provider provides for the charge of a subscription fee and the additional fee required by subsection (a), the service provider shall include a line item describing such additional fee.
+(c) Treatment Of Royalty.—A service provider may not include the amounts collected by the service provider from the living wage royalty fee in any calculation by the service provider of the total costs or revenue of content for the service provider.(d) Records.—
+(1) RETENTION.—Beginning on the date on which the Fund administrator is designated—
+(A) each service provider shall keep books and records relating to activities carried out by the provider under this Act; and
+(B) retain such book and records for a period of not less than 3 calendar years after the date on which such book or record is created.
+(2) REGULATIONS.—The Fund Administrator may—
+(A) require, by regulation, that service providers provide the Fund Administrator information on—
+(i) non-subscription revenue received by the service provider;
+(ii) revenue received by the service provider from subscription fee;
+(iii) the collection of the living wage royalty fee by the provider; and
+(iv) data of the service provider with respect to the number streams accrued by artists through such provider; and
+(B) audit the books and records of a service provider to verify any information provided by that service provider under subparagraph (A).SEC. 5. ENFORCEMENT.
+The Fund Administrator may establish, by regulation, penalties for—
+(1) a violation of a prohibition under this Act by a service provider; or
+(2) a failure to comply with a requirement under this Act by a service provider.SEC. 6. DEFINITIONS.
+In this Act:
+(1) ARTIST.—The term “artist”—
+(A) means a human creator; and
+(B) does not include—
+(i) corporate entities; or
+(ii) fully generative artificial intelligence.
+(2) ELIGIBLE ENTITY.—The term “eligible entity” means—
+(A) a single non-profit entity that is—
+(i) established solely for the purpose of establishing and administering the Fund;
+(ii) governed by a Board of Directors that includes—
+(I) committees that are composed of a mix of voting and nonvoting members; and
+(II) artist representatives as members of the Board; and
+(iii) able to demonstrate to the Register that, by the date described under section 3(a)(2) the entity will have the administrative and technological capabilities to establish and administer the Fund in accordance with this Act; and
+(B) if no entity meets the criteria under subparagraph (A), an entity determined by the Register to most nearly fit such criteria.
+(3) ELIGIBLE FEATURED ARTIST.—The term “eligible featured artist” means a featured artist who—
+(A) registers with the Fund; and
+(B) provides the Fund Administrator with the information determined necessary by the Fund Administrator—
+(i) identify or locate such featured artist; and
+(ii) provide payment to such featured artist (or a person designated by such artist to receive such payment on behalf of such artist).
+(4) ELIGIBLE NON-FEATURED ARTIST DEFINED.—In this paragraph, the term “eligible non-featured artist” means a non-featured artist that provides the American Federation of Musicians and Screen Actors Guild and the American Federation of Television and Radio Artists Intellectual Property Rights Distribution Fund (or any successor Fund) with the information determined necessary by such Fund—
+(A) to identify or locate such non-featured artist; and
+(B) provide payment to the non-featured artist (or a person designated by such artist to receive such payment on behalf of such artist).
+(5) END USER.—The term “end user” means a unique person that receives an offering from the service provider, including the following:
+(A) A person who pays no fee for receiving the offering.
+(B) A person who pays a subscription fee for receiving the offering.
+(6) FEATURED ARTIST.—The term “featured artist” means an artist who is prominently featured on a sound recording made available through an offering.
+(7) FUND.—The term “Fund” means the Artist Compensation Royalty Fund established by the Fund Administrator under section 2(a).
+(8) FUND ADMINISTRATOR.—The term “Fund Administrator” means the eligible entity designated under section 2(a)(1).
+(9) LIVING WAGE ROYALTY FEE.—The term “living wage royalty fee” means the additional free required to be charged under section 4(a).
+(10) MASTER RECORDING.—The term “master recording” means the original sound recording of a song.
+(11) NON-FEATURED ARTIST.—The term “non-featured artist”—
+(A) means an artist who is not prominently featured on a sound recording made available through an offering; and
+(B) includes the following:
+(i) A session musician.
+(ii) A back-up vocalist.
+(12) NON-SUBSCRIPTION REVENUE.—The term “non-subscription revenue” means any revenue received from music streaming (including revenue received from advertising with respect to such music streaming), other than revenue from a subscription fee.
+(13) OFFERING.—The term “offering” means the provision of a stream by a service provider.
+(14) QUALIFYING STREAM.—The term “qualifying stream” means with respect to a master recording and a calendar month, the lesser of—
+(A) the number of streams of the master recording accrued by the eligible featured artist in that calendar month; and
+(B) 1,000,000 streams.
+(15) REGISTER.—The term “Register” means the Register of Copyrights.
+(16) SERVICE PROVIDER.—The term “service provider” means an entity, that—
+(A) provides a stream to an end user;
+(B) contracts with or has a direct relationship with an end user to provide such streams; and
+(C) controls which such streams are made available to such end users.
+(17) STREAM.—The term “stream”—
+(A) means an interactive, encrypted digital transmission that embodies a master recording that allows a person to receive and listen to such master recording upon request at a time chosen by the person;
+(B) does not include a temporary copy of such master recording—
+(i) generated by a service provider in the course of providing the transmission; and
+(ii) used solely for the purpose of caching or buffering.(18) SUBSCRIPTION FEE.—The term “subscription fee” means a monthly fee that a person pays to the service provider to access an offering of the service provider, whether or not the person pays the fee on a standalone basis or as part of a single transaction that includes such fee and another fee for one or more product or services having more than token value.

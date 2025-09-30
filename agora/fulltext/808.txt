@@ -1,0 +1,146 @@
+ SEC. 16. DEPARTMENT OF ENERGY QUANTUM INFORMATION SCIENCE RESEARCH PROGRAM.
+
+
+Section 401 of the National Quantum Initiative Act (15 U.S.C. 8851) is amended—
+
+
+(1) by amending subsection (a) to read as follows:
+
+ “(a) In General.—The Secretary of Energy shall carry out a research, development, and demonstration program on quantum information science, engineering, and technology.”;
+
+
+(2) in subsection (b)—
+
+
+(A) in paragraph (1), by inserting “, engineering, and technology” after “science”;
+
+
+(B) by redesignating paragraphs (3), (4), and (5) as paragraphs (5), (6), and (7), respectively;
+
+
+(C) by inserting after paragraph (2) the following new paragraphs:
+
+
+“(3) operate National Quantum Information Science Research Centers to accelerate and scale up scientific and technical breakthroughs in quantum information science, engineering, and technology, and maintain state-of-the-art infrastructure for quantum researchers and industry partners, in accordance with section 202;
+
+
+“(4) conduct cooperative research with industry, National Laboratories, institutions of higher education, and other research institutions to facilitate the development and demonstration of quantum information science, engineering, and technology, including in the fields of—
+
+
+“(A) quantum information theory;
+
+
+“(B) quantum physics;
+
+
+“(C) quantum computational science, including hardware and software, including artificial intelligence, machine learning and data science;
+
+
+“(D) applied mathematics and algorithm development;
+
+
+“(E) quantum communications and networking, including hardware and software for quantum communications and networking;
+
+
+“(F) quantum sensing and detection;
+
+
+“(G) materials science and engineering;
+
+
+“(H) quantum modeling and simulation, including molecular modeling;
+
+
+“(I) near- and long-term application development in a range of areas as determined by the Secretary, such as materials discovery, cybersecurity, energy storage and electric grid management. financial modeling, energy storage, traffic optimization, and improved weather climate forecasting;
+
+
+“(J) quantum chemistry;
+
+
+“(K) quantum biology;
+
+
+“(L) superconductive and high-performance microelectronics; and
+
+
+“(M) quantum security technologies;”;
+
+
+(D) by amending paragraph (5), as so redesignated, to read as follows:
+
+
+“(5) provide research experiences and training for additional undergraduate and graduate students in quantum information science, engineering, and technology, including in the fields specified in paragraph (4);”;
+
+
+(E) in paragraph (6), as so redesignated—
+
+
+(i) in subparagraph (E), by striking “and” after the semicolon;
+
+
+(ii) by redesignating subparagraph (F) as subparagraph (J); and
+
+
+(iii) by inserting after subparagraph (E) the following new subparagraphs:
+
+
+“(F) the Office of Electricity;
+
+
+“(G) the Office of Cybersecurity, Energy Security, and Emergency Response;
+
+
+“(H) the Office of Fossil Energy and Carbon Management;
+
+
+“(I) the Office of Technology Transitions; and”;
+
+
+(F) in paragraph (7), as so redesignated, by striking the period and inserting “and other relevant efforts as defined by the Secretary of Energy; and”; and
+
+
+(G) by adding at the end the following new paragraph:
+
+
+
+
+“(8) leverage the collective body of knowledge and data, including experience and resources from existing Federal research activities and commercially available quantum computing hardware and software to the extent practicable.”; and
+
+
+(3) by adding at the end the following:
+
+ “(c) Quantum High Performance Computing Strategic Plan.—Not later than one year after the date of the enactment of this subsection, the Secretary of Energy shall submit to Congress a report containing a 10-year strategic plan to guide Federal programs in designing, expanding, commercializing, and procuring hybrid, high performance computing systems featuring the ability to integrate a diverse set of resources, including artificial intelligence, and machine learning accelerated by quantum supercomputers to enable the Department of Energy’s computing facilities to continuously advance computing resources. Such strategic plan shall include the following:
+
+
+“(1) A conceptual plan to leverage capabilities and infrastructure from the exascale computing program, as the Secretary of Energy determines necessary.
+
+
+“(2) A plan to minimize disruptions to the advanced scientific computing workforce.
+
+
+“(3) A consideration of a diversity of quantum computing modalities.
+
+
+“(4) A plan to integrate cloud access of commercially available quantum hardware and software to complement on-premises high performance computing systems and resources consistent with section 404 of the CHIPS and Science Act.
+
+ “(d) Industry Outreach.—In carrying out the program under subsection (a) the Secretary of Energy shall support the quantum technology industry and promote commercialization of applications of quantum technology relevant to the Department’s activities by carrying out the following:
+
+
+“(1) Educating—
+
+
+“(A) the energy industry on near term and commercially available quantum technologies; and
+
+
+“(B) the quantum industry on potential energy applications.
+
+
+“(2) Accelerating the advancements of the United States quantum computing, communications, and networking, sensing and security capabilities to protect and optimize the energy sector.
+
+
+“(3) Advancing relevant domestic supply chains, manufacturing capabilities, and associated simulations or modeling capabilities.
+
+
+“(4) Facilitating commercialization of quantum technologies from the Department of Energy national labs and engaging with the Quantum Economic Development Consortium and other organizations, as applicable, to transition component technologies to help facilitate, as appropriate, the development of a quantum supply chain.
+
+ “(e) Funding.—Of the funds authorized to be appropriated for the Department of Energy’s Office of Science in section 10102(a)(4) of the Research and Development, Competition, and Innovation Act (Public Law 117–167), there is authorized to be appropriated to the Secretary to carry out the activities under this section up to $130,000,000 for each fiscal years 2024 through 2027.”.

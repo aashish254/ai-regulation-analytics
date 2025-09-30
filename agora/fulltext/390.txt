@@ -1,0 +1,55 @@
+ CHAPTER 392
+
+
+AN ACT concerning the modernization of State government websites, supplementing Title 52
+of the Revised Statutes, and amending P.L.2007, c.56.
+
+
+BE IT ENACTED by the Senate and General Assembly of the State of New Jersey:
+
+
+C.52:18A-233.1 Short title.
+1. This act shall be known and may be cited as the “21st Century Integrated Digital
+Experience Act.”
+
+ C.52:18A-233.2 Findings and declarations.
+1. The Legislature finds and declares that:
+a. Ensuring New Jersey’s global leadership position in technology and electronic government requires an approach that narrows the growing gap between the digital demands of citizens and the methods by which the government provides digital services to New Jersey.
+b. The enhancement of citizen-facing digital experiences can change the paradigm for the delivery of government services and dramatically reduce the cost of government operations.
+c. Many State websites are not equipped to provide an enhanced experience to the growing number of citizens who access government services through a mobile device.
+d. Government lags far behind the private sector in providing a modern, seamless, personalized, and consistent digital experience that provides useful information and services to citizens, businesses, and other stakeholders.
+e. The implementation of modern customer service experiences, such as citizen-centric design, comprehensive self-service capabilities, and uniform mobile rendering will be key to facilitating the transition to from an analog, paper-based government to a digital government that delivers information and government services in an efficient and effective manner.
+f. Transitioning from paper processes to adaptive and intuitive digital forms would significantly improve government services.
+g. All State websites should be accessible to individuals with disabilities.
+
+ C.52:18A-233.3 Definitions.
+1. As used in P.L.2021, c.392 (C.52:18A-233.1 et al.):
+“Agency” means any of the principal departments of the Executive Branch, including the
+Department of the Treasury, and any division, office, board, bureau, commission, authority, or entity therein or allocated thereto to comply with the provisions of Article V, Section IV, paragraph 1 of the New Jersey Constitution.
+“Cloud computing service” means a service that enables on-demand self-service network access to a shared pool of configurable computer resources including, but not limited to, data storage, analytics, electronic commerce, streaming services, mobile services, electronic mail, and document sharing and editing, which can be rapidly provided and released with minimal management effort or cloud computing service provider interaction.
+“Information technology modernization and improvement plan” or “plan” means the plan prepared by each agency pursuant to section 4 of P.L.2021, c.392 (C.52:18A-233.4).
+
+ C.52:18A-233.4 Information technology modernization and improvement plan submission,
+Chief Technology Officer.
+1. a. The Chief Technology Officer is authorized to request that any agency submit a plan in accordance with this subsection. Not later than one year following the date on which the Chief Technology Officer requests such plan, the agency shall develop and submit to the Chief Technology Officer an information technology modernization and improvement plan. The
+plan shall:
+(1) describe how the agency will improve the provision of digital services by leveraging data analytics and related tools to ensure an effective rendering of all publicly facing websites on mobile devices, increasing the use of data analytics to improve website operation, enhancing the delivery of digital services through the adoption of commercial cloud computing services, promoting the use of intuitive and adaptive electronic forms (HTML Living Standard), utilizing electronic signatures, and digitizing government processes and workflows;
+(2) outline a process to be utilized by the agency to ensure that each State website intended for public use is mobile-friendly and accessible by persons with disabilities within one year following the submission of each agency’s plan; and
+(3) be developed within the limits of fiscal and other resources available to the agency. Each agency shall make its plan available to the public electronically through a link displayed on its website, except that the agency may redact such information as necessary to address cybersecurity concerns.
+b. The Chief Technology Officer shall review the plans submitted pursuant to subsection a. of this section in collaboration with the Chief Innovation Officer for the State of New Jersey.
+
+1. Section 12 of P.L.2007, c.56 (C.52:18A-230) is amended to read as follows:
+
+
+C.52:18A-230 Authority of Chief Technology Officer.
+1. The Chief Technology Officer, in consultation with the Chief Innovation Officer, shall:
+a. be authorized to establish the internal organizational structure of the Office of Information Technology in a manner appropriate to carrying out the duties and functions, and fulfilling the responsibilities, of the office;
+b. be authorized to coordinate and conduct all information technology operations in the Executive Branch of State Government, including agency technology operations;
+c. be authorized to draft and establish Service Level Agreements with each department and agency in the Executive Branch of State Government;
+d. be authorized to review and analyze the results of the Statewide Information Technology Assessment Study;
+e. be authorized to enter into agreements, in accordance and consistent with applicable law, regulations, and existing contracts, with private and public entities or individuals to effectuate the purposes of sections 6 through 16 of P.L.2007, c.56 (C.52:18A-224 through C.52:18A-234);
+f. in consultation with the New Jersey Information Technology Project Review Board, evaluate on an annual basis the feasibility of using artificial intelligence, machine learning, and commercial cloud computing services, as well as other emerging technologies, by State agencies to provide public services and the development of data analytics capabilities to enable data-driven policy development by State agencies; and
+g. develop a process to promulgate, and update no less than every other year, a set of metrics to assess each State agency’s implementation of a modern digital experience. The set of metrics shall be reevaluated every three years.
+
+
+1. This act shall take effect immediately. Approved January 18, 2022.

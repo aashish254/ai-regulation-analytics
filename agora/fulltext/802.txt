@@ -1,0 +1,87 @@
+ SEC. 502. NATIONAL INTEGRATED DROUGHT INFORMATION SYSTEM.
+
+
+(a) In General.—Section 3 of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d) is amended—
+
+
+(1) in subsection (b)—
+
+
+(A) in paragraph (1)—
+
+
+(i) in subparagraph (A), by striking “and” after the semicolon;
+
+
+(ii) in subparagraph (B), by inserting “and” after the semicolon; and
+
+
+(iii) by adding at the end the following new subparagraph:
+
+
+“(C) incorporates flash drought research and tools to enhance timely response;”;
+
+
+(B) in paragraph (5), by striking “and” after the semicolon;
+
+
+(C) in paragraph (6)—
+
+
+(i) by inserting “(including ecological drought)” after “drought” each place it appears; and
+
+
+(ii) by striking the period and inserting a semicolon; and
+
+
+(D) by adding at the end the following new paragraphs:
+
+
+“(7) advance and deploy next generation technologies related to drought and related publicly available data, such as monitoring, preparedness, and forecasting capabilities utilizing artificial intelligence, machine learning, and cloud technologies; and
+
+
+“(8) utilize observational networks, including the National Weather Service cooperative observer program and State or regional hydrological monitoring projects, and refine drought indicators across a variety of spatial and temporal scales for decision-support products by optimizing data and resources from across the Federal Government, including snowpack, soil moisture, groundwater, and rapid intensification data.”;
+
+ (2) in subsection (c)—
+
+
+(A) in paragraph (2), by striking “and” after the semicolon;
+
+
+(B) in paragraph (3), by striking the period and inserting “; and”; and
+
+
+(C) by adding at the end the following new paragraph:
+
+
+
+
+“(4) in partnership with the National Mesonet Program, establish memoranda of understanding to provide coordinated, high-quality, nationwide drought information for the public good, including integrated soil moisture information in accordance with the 2021 report, ‘A Strategy for the National Coordinated Soil Moisture Monitoring Network’.”; and
+
+ (3) by amending subsection (f) to read as follows:
+
+
+“(f) Modeling Update.—The Under Secretary, in partnership with National Integrated Drought Information System and the Climate Prediction Center of the National Weather Service, shall undertake an effort to transition existing drought products to probabilistic forecasts and incorporate new and improved dynamical and statistical forecast modeling tools.”.
+
+
+(b) Authorization Of Appropriations.—Section 4 of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d note) is amended to read as follows:
+
+ “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+
+“From amounts made available to Operations, Research, and Facilities of the National Oceanic and Atmospheric Administration, there are authorized to be appropriated to carry out this section the following:
+
+
+“(1) $15,000,000 for fiscal year 2024.
+
+
+“(2) $15,500,000 for fiscal year 2025.
+
+
+“(3) $16,000,000 for fiscal year 2026.
+
+
+“(4) $16,500,000 for fiscal year 2027.
+
+
+“(5) $17,000,000 for fiscal year 2028.”.

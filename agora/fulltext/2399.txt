@@ -1,0 +1,87 @@
+A BILL
+To amend title 18, United States Code, to prohibit the production or distribution of digital forgeries of intimate visual depictions of identifiable individuals, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Protect Victims of Digital Exploitation and Manipulation Act of 2025”.
+
+
+SEC. 2. Digital forgeries of intimate visual depictions.
+
+
+(a) In general.—Chapter 88 of title 18, United States Code, is amended by adding at the end the following:
+
+
+“§ 1802. Prohibition of production or distribution of digital forgeries of intimate visual depictions of identifiable individuals
+
+
+“(a) Offense.—Except as provided in subsection (b), whoever, in any circumstance described in subsection (c), acts with reckless disregard to produce or distribute, or causes to be produced or distributed, a digital forgery of an identifiable individual, without the consent of the identifiable individual, shall be fined under this title, imprisoned not more than 5 years, or both.
+
+
+“(b) Exceptions.—
+
+
+“(1) IN GENERAL.—This section shall not apply with respect to a distribution made in good faith—
+“(A) to a law enforcement officer or agency;
+“(B) as part of a legal proceeding;
+“(C) as part of medical education, diagnosis, or treatment; or
+“(D) in the reporting or investigation of—
+“(i) unlawful content; or
+“(ii) unsolicited or unwelcome conduct.
+
+
+“(2) SERVICE PROVIDERS.—This section shall not apply to any provider of a communications service with regard to content provided by another information content provider unless the provider of the communications service recklessly distributes content in violation of this section.
+
+
+“(c) Circumstances described.—For the purposes of subsection (a), the circumstances described in this subsection are that the digital forgery is produced or distributed using a means, channel, facility, or instrumentality of interstate or foreign commerce or traveled in or affected interstate or foreign commerce.
+
+
+“(d) Extraterritorial application.—This section applies if the individual who has violated subsection (a) or the identifiable individual who is a victim of the violation of subsection (a) is a national of the United States (as such term is defined in section 101(a) of the Immigration and Nationality Act).
+
+
+“(e) Definitions.—In this section:
+
+
+“(1) CONSENT.—The term ‘consent’ means an affirmative, conscious, competent, and voluntary authorization made by the individual free from force, fraud, misrepresentation, or coercion, whether or not the individual is a public figure.
+
+
+“(2) DIGITAL FORGERY.—The term ‘digital forgery’ means any intimate visual depiction of an individual created through the use of software, machine learning, artificial intelligence, or any other computer-generated means, including by adapting, modifying, manipulating, or altering an authentic visual depiction, to appear to a reasonable person to be an authentic visual depiction of the individual.
+
+
+“(3) IDENTIFIABLE INDIVIDUAL.—The term ‘identifiable individual’ means an individual whose body appears in whole or in part in an intimate visual depiction and who is identifiable by virtue of the person’s face, likeness, or other distinguishing characteristic, such as a unique birthmark or other recognizable feature, or from information displayed in connection with the visual depiction.
+
+
+“(4) INTIMATE VISUAL DEPICTION.—The term ‘intimate visual depiction’ means a visual depiction, as that term is defined in section 2256(5), that depicts—
+“(A) the uncovered genitals, pubic area, anus, or female nipple of an identifiable individual;
+“(B) the display or transfer of bodily sexual fluids—
+“(i) on to any part of the body of an identifiable individual; or
+“(ii) from the body of an identifiable individual; or
+“(C) an identifiable individual engaging in sexually explicit conduct.
+
+
+“(5) SEXUALLY EXPLICIT CONDUCT.—The term ‘sexually explicit conduct’ has the meaning given the term in subparagraph (A) of section 2256(2).
+
+
+“(6) COMMUNICATIONS SERVICE.—The term ‘communications service’ means—
+“(A) a service provided by a person that is a common carrier, as that term is defined in section 3 of the Communications Act of 1934, insofar as the person is acting as a common carrier;
+“(B) an electronic communication service, as that term is defined in section 2510;
+“(C) an information service, as that term is defined in section 3 of the Communications Act of 1934; and
+“(D) an interactive computer service, as that term is defined in section 230(f) of the Communications Act of 1934.
+
+
+“(7) INFORMATION CONTENT PROVIDER.—The term ‘information content provider’ has the meaning given such term in section 230(f) of the Communications Act of 1934.”.
+
+
+(b) Clerical amendment.—The table of sections for chapter 88 of title 18, United States Code, is amended by adding at the end the following:
+
+
+“1802. Prohibition of production or distribution of digital forgeries of intimate visual depictions of identifiable individuals.”.
+SEC. 3. Severability.
+
+
+The provisions of this Act, or an amendment made by this Act, shall be severable. If any provision of this Act, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of the Act not so adjudicated.

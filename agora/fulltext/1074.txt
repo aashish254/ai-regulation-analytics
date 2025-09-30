@@ -1,0 +1,119 @@
+COMMISSION DECISION of 24.1.2024 establishing the European Artificial Intelligence Office
+
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union, Whereas:
+(1) Artificial intelligence (AI) is a fast evolving family of technologies that can contribute to a wide array of economic and societal benefits across the entire spectrum of industries and social activities. At the same time, depending on the circumstances regarding its specific application and use, AI can generate risks and cause harm to public interests and fundamental rights that are protected by Union law.
+
+
+(2) The Commission has proposed a Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts1, aiming to foster the development, use and uptake of artificial intelligence in the internal market that, at the same time, meets a high level of protection of public interests, such as health and safety and the protection of fundamental rights, as recognised and protected by Union law. The proposed Regulation is one of several measures of the Commission aimed to deliver on the twin objective of promoting the uptake of AI and of addressing the risks associated with certain uses of such technology. Further measures include the ‘Coordinated Plan on Artificial Intelligence’ in its review of 20212, initiatives of sectoral policies fostering the uptake of AI or Union funding programmes, such as those established by Regulations (EU) 2021/6943 and (EU) 2021/6954 of the European Parliament and of the Council.
+
+
+(3) The complexity and increasingly wide uptake of AI, especially when based on the most advanced models, and the necessity to accelerate progress towards the objectives and targets set in the Digital Decade policy programme established by Decision (EU) 2022/2481 of the European Parliament and of the Council5, demonstrate the need for additional action to foster an understanding of capabilities, trends and potential risks and to support the safe development and use of AI technologies in the Union.
+
+
+(4) It is necessary to develop expertise and capabilities at Union level with a view to foster such understanding, to contribute to the implementation and enforcement of the forthcoming Regulation laying down harmonised rules on artificial intelligence, and to contribute to the implementation of international rules and principles on AI, such as the G7 Code of Conduct and Guiding Principles for developers of advanced AI systems.
+
+
+(5) Against this background, the foundations for a single governance system for AI in the Union should be laid down by establishing a structure, which should oversee the advancements in artificial intelligence models, including as regards general-purpose AI models, the interaction with the scientific community, and should play a key role in investigations and testing, enforcement and have a global vocation.
+
+
+(6) Therefore, a European Artificial Intelligence Office should be established within the Commission as part of the administrative structure of the Directorate-General for Communication Networks, Content and Technology and subject to its annual management plan.
+
+
+(7) The European Artificial Intelligence Office should operate in accordance with Commission internal processes6 and its establishment should not affect the powers and competences of national competent authorities, and bodies, offices and agencies of the Union in the supervision of AI systems, as provided for by the forthcoming Regulation laying down harmonised rules on artificial intelligence and other sectoral Union legislation. It is without prejudice to the functions of other Commission departments in their respective areas of responsibility, and of the European External Action Service in the area of Common, Foreign and Security policy. The European Artificial Intelligence Office should exercise its tasks, in particular to issue guidance, in a way that does not duplicate activities of relevant bodies, offices and agencies of the Union under sector specific legislation.
+
+
+(8) In order to allow for the preparation of the implementation of the forthcoming Regulation laying down harmonised rules on artificial intelligence to start as soon as possible, this Decision should enter into force as a matter of urgency, ahead of the adoption of that Regulation, following the political agreement of the co-legislators achieved on 8 December 2023. Once the Regulation is adopted, this decision may be revised.
+
+
+HAS DECIDED AS FOLLOWS:
+
+
+Article 1 Establishment
+The European Artificial Intelligence Office (the ‘Office’) is established.
+
+
+The Office shall be part of the administrative structure of the Directorate-General for Communication Networks, Content and Technology (the ‘Directorate-General’).
+
+
+Article 2 Mission and tasks
+1. The Office shall perform the tasks set out in Article 3 for the purposes of implementing and enforcing the forthcoming Regulation laying down harmonised rules on artificial intelligence (the ‘forthcoming Regulation’).
+
+
+2. The Office shall have the following additional tasks:
+(a) contribute to the strategic, coherent and effective Union approach to international initiatives on AI pursuant to Article 7 in coordination with Member States and in line with Union positions and policies;
+(b) contribute to fostering actions and policies in the Commission that reap the societal and economic benefits of AI technologies pursuant to Article 5;
+(c) support the accelerated development, roll-out and use of trustworthy AI systems and applications that bring societal and economic benefits and that contribute to the competitiveness and the economic growth of the Union. In particular, the Office shall promote innovation ecosystems by working with relevant public and private actors and the startup community;
+(d) monitor the evolution of AI markets and technologies.
+
+
+3. In the performance of the tasks referred to in paragraphs 1 and 2 of this Article, the Office shall:
+(a) work together with stakeholders, in particular experts from the scientific community and AI developers, pursuant to Article 4;
+(b) collaborate with relevant Directorate-Generals and services of the Commission pursuant to Article 5;
+(c) cooperate with all relevant bodies, offices and agencies of the Union, including the European High Performance Computing Joint Undertaking (EuroHPC JU), pursuant to Article 6;
+(d) cooperate with authorities and bodies of the Member States on behalf of the Commission.
+
+
+Article 3 Implementation of the forthcoming Regulation
+
+
+1. The Office shall perform the following tasks stemming from the forthcoming Regulation:
+(a) developing tools, methodologies and benchmarks for evaluating capabilities of general-purpose AI models, in particular for very large general purpose AI models with systemic risks;
+(b) monitoring the implementation and application of rules on general-purpose AI models and systems, in particular where the model and the system are developed by the same provider;
+(c) monitoring the emergence of unforeseen risks stemming from general-purpose AI models, including by responding to alerts from the scientific panel;
+(d) investigating possible infringements of rules on general-purpose AI models and systems, including by collecting complaints and alerts, assisting in the preparation of decisions of the Commission and conducting evaluations pursuant to the forthcoming Regulation.;
+(e) ensuring that when an AI system falls within the scope of relevant Union legislation for which the Commission has powers of supervision and enforcement, such as under Regulation (EU) 2022/2065 of the European Parliament and of the Council7 or under Regulation (EU) 2022/1925 of the European Parliament and of the Council8 , the supervision and enforcement of that legislation is fully coordinated with the supervision and enforcement of the forthcoming Regulation;
+(f) supporting the implementation of rules on prohibited AI practices and high-risk AI systems in coordination with relevant bodies responsible under sectoral legislation, including facilitating information exchange and collaboration between national authorities, collecting notifications and establishing information platforms and databases, in particular when a general-purpose AI model or system is integrated into a high-risk AI system.
+
+
+2. Moreover, in order to contribute to the effective implementation of the forthcoming Regulation, the Office shall be tasked with:
+(a) assisting the Commission in the preparation of relevant Commission Decisions, and of implementing and delegated acts;
+(b) facilitating the uniform application of the forthcoming Regulation;
+(c) assisting the Commission in the preparation of guidance and guidelines to support the practical implementation of the forthcoming Regulation, as well as developing supportive tools, such as standardised protocols and best practices, in consultation with relevant Commission services and bodies, offices and agencies of the Union;
+(d) assisting the Commission in the preparation of standardisation requests, evaluation of existing standards and the preparation of common specifications for the implementation of the forthcoming Regulation;
+(e) contributing to the provision of technical support, advice and tools for the establishment and operation of AI regulatory sandboxes and coordination, as appropriate, with national competent authorities establishing such sandboxes;
+(f) conducting evaluations and reviews on and preparing reports related to the forthcoming Regulation;
+(g) coordinating the establishment of an effective governance system, including by preparing the set-up of advisory bodies at Union level, as well as monitoring the establishment of relevant national authorities and other bodies at national level;
+(h) providing the Secretariat for the AI Board and its subgroups, and providing administrative support to the advisory forum and the scientific panel, where applicable, including by providing the administrative set-up, organising meetings and preparing relevant documents; and
+(i) encouraging and facilitating the drawing up of codes of practices and codes of conducts at Union level, taking into account international approaches, as well as monitoring the implementation and evaluation of codes of practices.
+
+
+Article 4 Cooperation with stakeholders
+1. In the performance of its tasks pursuant to Article 3, the Office shall cooperate with stakeholders, in line with applicable competition rules, by:
+(a) establishing fora for cooperation of providers of AI models and systems to advance best practices and contribute to the development of codes of conduct and codes of practice;
+(b) conducting regular consultation of stakeholders, including experts from the scientific community and the educational sector, citizens, civil society and social partners, where relevant, to collect input for the performance of its tasks under Article 3(2);
+(c) establishing a forum for cooperation with the open-source community with a view to identify and develop best practices for the safe development and use of open-source AI models and systems.
+
+
+Article 5 Cross-sectoral cooperation within the Commission
+1. The Office shall contribute to fostering actions and policies that reap the societal and industrial benefit of AI technologies.
+2. In particular, the Office shall
+(a) work with other relevant Directorate-Generals and services of the Commission in the performance of its tasks pursuant to Article 2, notably with the European Centre for Algorithmic Transparency as regards the evaluation and testing of general-purpose AI models and systems;
+(b) support other relevant Directorate-Generals and services of the Commission with a view to facilitate the use of AI models and systems as transformative tools in the relevant domains of Union policies, as well as to raise awareness about emerging risks.
+
+
+Article 6 Inter-institutional cooperation
+In the performance of its tasks pursuant to Article 3, the Office shall establish the appropriate forms of cooperation with bodies, offices and agencies of the Union.
+
+
+Article 7 International cooperation
+1. The Office shall contribute to international cooperation on AI by the Commission, including innovation and excellence policy, with third countries and international organisations, in particular by:
+(a) advocating the responsible stewardship of AI and promoting the Union approach to trustworthy AI;
+(b) contributing to international cooperation related to AI regulation and governance;
+(c) contributing to the implementation of international agreements on rules on AI, including by providing support to Member States.
+
+
+Article 8 Financing
+1. For officials working in the Office, the human resources required shall be met by staff from the Directorate-General who are already assigned to management of the action or have been redeployed within the Directorate-General, in the light of budgetary constraints, without prejudice to the annual allocation procedure.
+2. For external statutory staff working in the Office, the human resources costs shall be covered by a redeployment of budget appropriations from the administrative support expenditure from the Digital Europe Programme.
+3. Operational expenditure of the Office shall be covered by the financial resources allocated to Specific Objective 2 “Artificial Intelligence” of the Digital Europe Programme.
+
+
+Entry into force
+This Decision shall enter into force on 21 February 2024. Done at Brussels, 24.1.2024
+
+
+For the Commission 
+Thierry BRETON
+Member of the Commission

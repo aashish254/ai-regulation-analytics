@@ -1,0 +1,94 @@
+AN ACT relative to prohibiting certain uses of deepfakes and creating a private claim of action.
+
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+
+243:1  New Section; Criminal Code; Fraud; Fraudulent Use of Deepfakes.  Amend RSA 638 by inserting after section 26 the following new section:
+
+
+638:26-a  Fraudulent Use of Deepfakes.
+
+
+I.  In this section:
+
+
+(a)  "Artificial intelligence" or "AI" means the ability of a machine to display human-like capabilities for cognitive tasks such as reasoning, learning, planning, and creativity. AI systems may adapt their behavior to a certain degree by analyzing the effects of previous actions and operating under varying and unpredictable circumstances without significant human oversight.
+
+
+(b)  "Deepfake" means a video, audio, or any other media of a person in which his or her face, body, or voice has been digitally altered so that he or she appears to be someone else, he or she appears to be saying something that he or she has never said, or he or she appears to be doing something that he or she has never done.
+
+
+II.  A person is guilty of a class B felony if the person knowingly creates, distributes, or presents any likeness in video, audio, or any other media of an identifiable individual that constitutes a deepfake for the purpose of embarrassing, harassing, entrapping, defaming, extorting, or otherwise causing any financial or reputational harm to the identifiable person.
+
+
+III.  If a person violates paragraph II, and the violation results in an identifiable individual's arrest based on the content of the deepfake, that person shall be guilty of a separate offense.  The level of the offense shall be a class B felony.  That person shall also be liable to the identifiable individual for his or her legal expenses and the costs of his or her defense, or to the state of New Hampshire for the same if the identifiable individual is indigent and the cost of defense has been borne by the state of New Hampshire.
+
+
+IV.  This section shall not apply to any of the following:
+
+
+(a) An interactive computer service as defined in 47 U.S.C. section 230 for content provided by another party.
+
+
+(b) Any radio or television broadcasting station or network, newspaper, magazine, cable or satellite radio or television operator, programmer, or producer, Internet website or online platform, or other periodical that publishes, distributes or broadcasts a deepfake prohibited by paragraph II as part of a bona fide news report, newscast, news story, news documentary or similar undertaking in which the deepfake is a subject of the report and in which publication, distribution, or broadcast there is contained a clear acknowledgment that there are questions about the authenticity of the materials which are the subject of the report.
+
+
+(c) Any radio or television broadcasting station or network, newspaper, magazine, cable or satellite television operator, Internet website or online platform, or other periodical when such entity is paid to publish, distribute or broadcast an election communication including a deepfake prohibited by paragraph II, provided that the entity does not remove or modify any disclaimer provided by the creator or sponsor of the election communication.
+
+
+(d)  A video, audio or any other media that constitutes satire or parody or the production of which is substantially dependent on the ability of one or more individuals to physically or verbally impersonate another person without reliance on artificial intelligence.
+
+
+V.  The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+
+243:2  New Section; Actions; Other Actions and Limitations on Liability; Civil Actions for Fraudulent Use of Deepfakes.  Amend RSA 507 by inserting after section 8-i the following new section:
+
+
+507:8-j  Civil Actions for Fraudulent Use of Deepfakes.
+
+
+I.  In this section:
+
+
+(a)  "Artificial intelligence" or "AI" means the ability of a machine to display human-like capabilities for cognitive tasks such as reasoning, learning, planning, and creativity. AI systems may adapt their behavior to a certain degree by analyzing the effects of previous actions and operating under varying and unpredictable circumstances without significant human oversight.
+
+
+(b)  "Deepfake" means a video, audio, or any other media of a person in which his or her face, body, or voice has been digitally altered so that he or she appears to be someone else, he or she appears to be saying something that he or she has never said, or he or she appears to be doing something that he or she has never done.
+
+
+II.  A person may bring an action against any person who knowingly uses any likeness in video, audio, or any other media of that person to create a deepfake for the purpose of embarrassing, harassing, entrapping, defaming, extorting, or otherwise causing any financial or reputational harm to that person for damages resulting from such use.
+
+
+III.  This section shall not apply to any of the following:
+
+
+(a)  An interactive computer service as defined in 47 U.S.C. section 230 for content provided by another party.
+
+
+(b) Any radio or television broadcasting station or network, newspaper, magazine, cable or satellite radio or television operator, programmer, or producer, Internet website or online platform, or other periodical that publishes, distributes or broadcasts a deepfake prohibited by paragraph II as part of a bona fide news report, newscast, news story, news documentary or similar undertaking in which the deepfake is a subject of the report and in which publication, distribution, or broadcast there is contained a clear acknowledgment that there are questions about the authenticity of the materials which are the subject of the report.
+
+
+(c) Any radio or television broadcasting station or network, newspaper, magazine, cable or satellite television operator, Internet website or online platform, or other periodical when such entity is paid to publish, distribute or broadcast an election communication including a deepfake prohibited by paragraph II, provided that the entity does not remove or modify any disclaimer provided by the creator or sponsor of the election communication.
+
+
+(d)  A video, audio or any other media that constitutes satire or parody or the production of which is substantially dependent on the ability of one or more individuals to physically or verbally impersonate another person without reliance on artificial intelligence.
+
+
+IV.  The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+
+243:3  New Paragraph; Lobbyists; Registration.  Amend RSA 15:1 by inserting after paragraph V the following new paragraph:
+
+
+VI.  The secretary of state shall not accept the registration of any person, partnership, firm, or corporation that has been convicted of an offense under RSA 638:26-a or found liable under RSA 507:8-j related to the person's, partnership's, firm's, or corporation's lobbying.
+
+
+243:4  Effective Date.  This act shall take effect January 1, 2025.
+
+
+Approved: July 19, 2024
+
+
+Effective Date: January 01, 2025

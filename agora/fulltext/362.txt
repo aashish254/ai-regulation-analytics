@@ -1,0 +1,482 @@
+ SENATE, No. 3876
+STATE OF NEW JERSEY
+220th LEGISLATURE
+
+
+INTRODUCED MAY 22, 2023
+
+
+Sponsored by:
+Senator  TROY SINGLETON
+District 7 (Burlington)
+
+
+SYNOPSIS
+Concerns regulation of automated systems and artificial intelligence used by State agencies.
+
+
+CURRENT VERSION OF TEXT
+
+
+As introduced.
+
+
+An Act concerning automated systems and artificial intelligence, and supplementing Title 52 of the Revised Statutes.
+
+
+Be It Enacted by the Senate and General Assembly of the State of New Jersey:
+
+1.  As used in P.L.    , c.    (C.        ) (pending before the Legislature as this bill):
+
+
+     “Artificial intelligence” means: (1) any artificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets; (2) an artificial system developed in computer software, physical hardware, or other context that solves tasks requiring human-like perception, cognition, planning, learning, communication, or physical action; (3) an artificial system designed to think or act like a human, including cognitive architectures and neural networks; (4) a set of techniques, including machine learning, that is designed to approximate a cognitive task; or (5) an artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting.
+
+
+     “Artificial Intelligence Implementation Officer” means the individual appointed pursuant to section 4 of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+
+
+     “Artificial Intelligence Officer” means the individual appointed pursuant to section 2 of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+
+
+     “Automated decision support system” means any automated decision system that provides material information for the purpose of informing a conclusion, decision, or judgment made by an individual on behalf of a State agency.
+
+
+     “Automated decision system” means any machine-based system or application, including, but not limited to, any such system or application that is derived from machine learning, statistics, or other data processing or artificial intelligence techniques, which system is developed, procured, or utilized to make, inform, or materially support a critical decision made by a State agency.  “Automated decision system” does not include passive computing infrastructure.
+
+
+     “Automated final decision system” means any automated decision system that makes a critical and final conclusion, decision, or judgment on behalf of a State agency without any intervention by an individual acting on behalf of the State agency.
+
+
+     “Automated system” means any automated decision support system, automated decision system, or automated final decision system.
+
+
+     “Automated systems procedures” means the procedures developed and adopted pursuant to subsection c. of section 2 of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+
+
+     “Chief Technology Officer” means the individual appointed pursuant to section 11 of P.L.2007, c.56 (C.52:18A-229).
+
+
+     “Critical decision” means any decision or judgment that has any legal, material, or similarly significant effect on an individual's life concerning access to, or the cost, terms, or availability of: (1) education and vocational training, including, but not limited to, assessment, accreditation, or certification; (2) employment, worker management, or self-employment; (3) essential utilities such as electricity, heat, water, Internet, telecommunications access, or transportation; (4) family planning services, including, but not limited to, adoption services or reproductive services; (5) financial services, including, but not limited to, any financial service provided by a mortgage company; (6) services from a creditor or mortgage broker; (7) health care, including, but not limited to, mental health care, dental care, or vision care; (8) housing or lodging, including, but not limited to, any rental, short-term housing, or permanent lodging; (9) legal services, including, but not limited to, private mediation or arbitration; (10) government benefits; or (11) public services.
+
+
+     “Individual” means a natural person.
+
+
+     “New Jersey Artificial Intelligence Advisory Board” or “board” means the board established in section 3 of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+
+
+     “Office of Information Technology” or “office” means the office established pursuant to section 9 of P.L.2007, c. 56 (C.52:18A-227).
+
+
+     “Passive computing infrastructure” means any intermediary technology, including, but not limited to, web hosting, domain registration, networking, caching, data storage, or cybersecurity technology, that does not influence or determine the outcome of a decision, make or aid in making a decision, inform policy implementation, or collect data or observations.
+
+
+     “Person” means an individual or an entity.
+
+
+     “State agency” means any of the principal departments in the Executive Branch of the State Government, and any division, board, bureau, office, commission, or other instrumentality within or created by such department; the Legislature of the State, and any office, board, bureau, or commission within or created by the Legislative Branch; and any independent State authority, commission, instrumentality, public benefit corporation, or agency.
+
+
+     “Trade secret” means information, held by one or more people, without regard to form, including a formula, pattern, business data compilation, program, device, method, technique, design, diagram, drawing, invention, plan, procedure, prototype or process, that: (1) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and (2) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
+
+2.  a.  No later than six months after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill), the Chief Technology Officer of the Office of Information Technology shall appoint an individual to serve as the Artificial Intelligence Officer, except that the Artificial Intelligence Officer shall not be under the supervision of the Chief Technology Officer or the Office of Information Technology.  The individual shall have:
+
+
+     (1) extensive knowledge concerning automated systems and artificial intelligence analysis, governance, principles, practices, technology, terminology, and trends; and
+
+
+     (2) experience in administration, planning, policy development, project management, and service coordination.
+
+
+     b.  The Artificial Intelligence Officer shall be responsible for performing the duties set forth in this section. The Office of Information Technology may contract with a third party, if the Artificial Intelligence Officer deems it necessary, to assist the Artificial Intelligence Officer in performing the Artificial Intelligence Officer’s duties under this section.
+
+
+     c.  (1)  No later than six months after the appointment of the Artificial Intelligence Office pursuant to subsection a. of this section, and every two years thereafter, the Artificial Intelligence Officer shall, in consultation with the directors and information technology officers of the State agencies, develop and adopt automated systems procedures for use by State agencies in developing, procuring, and utilizing automated systems for critical decisions. In developing the automated systems procedures, the Artificial Intelligence Officer shall consider imposing the following safeguards, where appropriate, to mitigate risk:
+
+
+     (a) requiring State agencies to develop, procure, and utilize automated systems in a manner that is consistent with both national and international standards;
+
+
+     (b) ensuring that State agencies develop, procure, and utilize automated systems in a manner that is consistent with State and federal laws, including, but not limited to, State and federal laws prohibiting discrimination and addressing privacy, civil rights, and civil liberties;
+
+
+     (c) ensuring that no automated system disproportionately or unlawfully impacts any individual or group of individuals on the basis of any actual or perceived differentiating characteristic, including, but not limited to, race, creed, color, national origin, nationality, ancestry, age, marital status, civil union status, domestic partnership status, affectional or sexual orientation, genetic information, pregnancy, sex, gender identity or expression, disability or atypical hereditary cellular or blood trait of any individual, or liability for service in the armed forces, for which characteristic the individual is provided protections against discriminatory practices pursuant to section 11 of P.L.1945, c.169 (C.10:5-12);
+
+
+     (d) ensuring that any benefits that a State agency gains by utilizing an automated system outweigh any risks inherent in utilizing the automated system;
+
+
+     (e) ensuring that each automated system is applied and utilized in a manner that is consistent with the use cases for which such automated system was trained in order to ensure accuracy, reliability, and efficacy;
+
+
+     (f) ensuring that each automated system is safe, secure, and resilient including, but not limited to, in circumstances in which such automated system is confronted with any systematic vulnerability, adversarial manipulation, or other malicious exploitation;
+
+
+     (g) ensuring that the operations of, and outcomes generated by, an automated system are sufficiently understandable by both subject matter experts and users;
+
+
+     (h) ensuring that individual roles and responsibilities are clearly defined, understood, and appropriately assigned in a manner that is consistent with the purpose for which each use of an automated system is intended;
+
+
+     (i) ensuring that the development, procurement, and utilization of an automated system is, and the inputs and outputs for applications of an automated system are, documented, and traceable;
+
+
+     (j) ensuring that the design, development, procurement, and monitoring of an automated system is, and intended purposes of an automated system are, appropriately transparent to the public under uniform protocols and public access requirements concerning releases and posting of appropriate information by each State agency utilizing the automated system;
+
+
+     (k) ensuring that data inputs utilized by each automated system are appropriately transparent under P.L.1963, c.73 (C.47:1A-1 et seq.) and P.L.2001, c.404 (C.47:1A-5 et seq.), commonly known as the open public records act; and
+
+
+     (l) ensuring that each State agency that utilizes an automated system;
+
+
+     (i) examines the automated system, at least once every two years, to ensure compliance with such automated systems procedures;
+
+
+     (ii) supersedes, disengages, and deactivates any application of the automated system that demonstrates performance that is, or outcomes that are, inconsistent with such automated systems procedures or any other provision of this section;
+
+
+     (iii) is appropriately transparent in disclosing any information that is relevant to the State agency's use of the automated system;
+
+
+     (iv) implements safeguards to ensure that the automated system is properly applied, utilized, and functioning; and
+
+
+     (v) provides appropriate training to all personnel responsible for developing, procuring, or utilizing the automated system.
+
+
+     (2)   No later than one year after the appointment of the Artificial Intelligence Officer pursuant to subsection a. of this section, and every two years thereafter, the Artificial Intelligence Officer shall submit a preliminary draft of the automated systems procedures, developed pursuant to paragraph (1) of this subsection, to the New Jersey Artificial Intelligence Advisory Board.  The New Jersey Artificial Intelligence Advisory Board shall hold a public hearing on the draft automated systems procedures and submit any suggested revisions to the Artificial Intelligence Officer, no later than 30 days after the board receives the draft automated systems procedures.
+
+
+     (3)   After the public hearing is held pursuant to paragraph (2) of this subsection and, if applicable, after receiving any recommended revisions from the New Jersey Artificial Intelligence Advisory Board, the Artificial Intelligence Officer shall finalize the automated systems procedures and submit the final automated systems procedures to the board.  The Artificial Intelligence Officer shall send a copy of the final automated systems procedures to the information technology officer of each State agency and the Office of Information Technology shall post a final version of the automated systems procedures on the office's Internet website.
+
+
+     d.  Upon the date that the board receives the final automated systems procedures from the Artificial Intelligence Officer pursuant to paragraph (3) of subsection c. of this section, no State agency shall develop, procure, or utilize any automated system, unless the automated system satisfies the requirements established in the automated systems procedures developed and updated, as applicable, pursuant subsection c. of this section.
+
+
+     e.  No later than one year after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill), and every two years thereafter, each State agency shall:
+
+
+     (1) conduct an inventory of the automated systems that are used by the State agency, which inventory shall be in a form prescribed by the Artificial Intelligence Officer; and
+
+
+     (2) submit the inventory to the Artificial Intelligence Officer and the New Jersey Artificial Intelligence Advisory Board.  The Office of Information Technology shall make each inventory available to the public on the office's Internet website.
+
+
+     f.  The Artificial Intelligence Officer shall be subject to P.L.1963, c.73 (C.47:1A-1 et seq.) and P.L.2001, c.404 (C.47:1A-5 et al.).
+
+
+     g.  Nothing in this section shall be construed to:
+
+
+     (1) require the disclosure of any trade secret;
+
+
+     (2) abrogate any work product protection; or
+
+
+     (3) restrict the Artificial Intelligence Officer's or any State agency's ability to:
+
+
+     (a) conduct any internal research to develop, improve, or repair any product, service, or technology;
+
+
+     (b) prevent, detect, protect against or respond to, or investigate, report, or prosecute any person responsible for, any security incident, identity theft, fraud, harassment, malicious or deceptive activity, or illegal activity; or
+
+
+     (c) preserve the integrity or security of any system.
+
+3.  a.  There is established the New Jersey Artificial Intelligence Advisory Board, which shall be part of the Legislative Branch.
+
+
+     b.  The board shall consist of the following 10 voting members:
+
+
+     (1) two public members appointed by the Speaker of the General Assembly;
+
+
+     (2) two public members appointed by the President of the Senate;
+
+
+     (3) two public members appointed by the Minority Leader of the General Assembly;
+
+
+     (4) two public members appointed by the Minority Leader of the Senate;
+
+
+     (5) the chairperson of the Assembly Consumer Affairs Committee, or its successor, or one member appointed by the chairperson of the committee; and
+
+
+     (6) the chairperson of the Senate Commerce Committee, or its successor, or one member appointed by the chairperson of the committee.
+
+
+     c.  All appointed public members shall have professional experience or academic qualifications in matters pertaining to automated systems, artificial intelligence, artificial intelligence governance, and accountability or other related fields of emerging technology.
+
+
+     d.  Additional non-voting ex-officio members to the board shall include the following officials, or their designees:
+
+
+     (1) the Executive Director of the Division of Administrative and Employee Services in the Civil Service Commission;
+
+
+     (2) the Chief Technology Officer;
+
+
+     (3) the Chair of the Government Records Council;
+
+
+     (4) the Commissioner of Community Affairs;
+
+
+     (5) the Attorney General;
+
+
+     (6) the Chief Court Administrator;
+
+
+     (7) the State Treasurer; and
+
+
+     (8) the State Comptroller.
+
+
+     e.  The Speaker of the General Assembly and the President of the Senate shall each select a co-chair of the board from among the voting members of the board.  All initial appointments to the board shall be made no later than three months after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).  The terms of the appointed members shall be coterminous with the terms of the appointing authority for each member.  Any vacancy shall be filled by the appointing authority.  Any vacancy occurring other than by expiration of a term shall be filled for the balance of the unexpired term.  A member of the board may serve more than one term.  The co-chairs shall jointly schedule the first meeting of the board, which shall be held no later than four months after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+
+
+     f.  Within the limits of available funds, the board may retain such administrative staff as are necessary to effectuate the powers and duties of the board.
+
+
+     g.  The board shall have the following powers and duties:
+
+
+     (1) to advise State agencies concerning artificial intelligence and automated systems policy, including, but not limited to, best practices for the use of artificial intelligence and automated systems;
+
+
+     (2)  to advise State agencies concerning other emerging technology, including, but not limited to, data warehousing and analytics, cybersecurity, virtual reality systems, and quantum computing.
+
+
+     (3) to perform the duties set forth in subsection c.  of section 2 of P.L.    , c.    (C.        ) (pending before the Legislature as this bill);
+
+
+     (4) to issue reports and recommendations to the Legislature concerning artificial intelligence and automated systems by State agencies pursuant to section 2 of P.L.1991, c.164 (C.52:14-19.1);
+
+
+     (5) upon the request of at least two members of the board, to request that any director or information technology officer of a State agency appear before the board to answer questions;
+
+
+     (6) to request from any State agency such assistance and information as may be necessary and available to carry out the purposes of this section; and
+
+
+     (7) to establish by-laws to govern the board's procedures.
+
+
+     h.  The board shall meet at least twice a year and may meet at such other times as deemed necessary by the co-chairs of the board jointly or by a majority of the members of the board.
+
+
+     i.  The board shall be subject to P.L.1963, c.73 (C.47:1A-1 et seq.) and P.L.2001, c.404 (C.47:1A-5 et al.).
+
+
+     j.  Nothing in this section shall be construed to:
+
+
+     (1) require the disclosure of any trade secret;
+
+
+     (2) abrogate any work product protection; or
+
+
+     (3) restrict the board's or any State agency's ability to:
+
+
+     (a) conduct any internal research to develop, improve, or repair any product, service, or technology;
+
+
+     (b) prevent, detect, protect against or respond to, or investigate, report, or prosecute any person responsible for, any security incident, identity theft, fraud, harassment, malicious or deceptive activity, or illegal activity; or
+
+
+     (c) preserve the integrity or security of any system.
+
+4.  a.  No later than one year after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill), the Chief Technology Officer shall appoint an individual to serve as the Artificial Intelligence Implementation Officer.  The individual shall have:
+
+
+     (1) extensive knowledge concerning automated systems and artificial intelligence analysis, governance, principles, practices, technology, and trends; and
+
+
+     (2) experience in administration, planning, policy development, project management, and service coordination.
+
+
+     b.  The Artificial Intelligence Implementation Officer shall be responsible for performing the duties set forth in this section and section 5 of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).  The Artificial Intelligence Implementation Officer may contract with a third party, if the Artificial Intelligence Implementation Officer deems it necessary, to assist the Artificial Intelligence Implementation Officer in performing the Artificial Intelligence Implementation Officer's duties under this section and section 5 of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+
+
+     c.  Beginning two years after the effective date of P.L.    , c.     (C.        ) (pending before the Legislature as this bill), any State agency that intends to develop, procure, or utilize any automated system shall provide to the Artificial Intelligence Implementation Officer, in a form and manner prescribed by the Artificial Intelligence Implementation Officer, at least 60 days' advance written notice disclosing that the State agency intends to develop, procure, or utilize such automated system.
+
+
+     d.  Not later than 90 days after the Artificial Intelligence Implementation Officer receives any notice submitted pursuant to subsection c. of this section, the Artificial Intelligence Implementation Officer may review such notice, together with any available documentation concerning the operation of the automated system that is the subject of such notice and any related safeguards, to determine whether developing, procuring, or utilizing the automated system would satisfy the requirements established in the automated systems procedures.  If the Artificial Intelligence Implementation Officer does not make a determination during the 90-day period, the State agency that submitted the notice may develop, procure, or utilize the automated system.
+
+
+     e.  Beginning three years after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill), the Artificial Intelligence Implementation Officer:
+
+
+     (1) may, at the Artificial Intelligence Implementation Officer’s discretion, periodically reevaluate any automated system that is developed, procured, or utilized by any State agency to ensure that the automated system satisfies the requirements established in the automated systems procedures;
+
+
+     (2) shall, at least biennially, reevaluate any automated system that is developed, procured, or utilized by any State agency if, in the officer's discretion, there is a determination that the automated system poses any significant risk; and
+
+
+     (3) may take any action not set forth in paragraphs (1) or (2) of this subsection that the Artificial Intelligence Implementation Officer may deem appropriate to carry out the purposes of this subsection.
+
+
+     f.  If the Artificial Intelligence Implementation Officer determines that any automated system that is developed, procured, or utilized by a State agency does not satisfy the requirements established in the automated systems procedures, the officer shall direct the State agency to immediately cease development, procurement, or utilization of the automated system.
+
+
+     g.  The Artificial Intelligence Implementation Officer shall be subject to P.L.1963, c.73 (C.47:1A-1 et seq.) and P.L.2001, c.404 (C.47:1A-5 et al.).
+
+
+     h.   Nothing in this section shall be construed to:
+
+
+     (1) require the disclosure of any trade secret;
+
+
+     (2) abrogate any work product protection; or
+
+
+     (3) restrict the Artificial Intelligence Implementation Officer's or any State agency's ability to:
+
+
+     (a) conduct any internal research to develop, improve, or repair any product, service, or technology;
+
+
+     (b) prevent, detect, protect against or respond to, or investigate, report, or prosecute any person responsible for, any security incident, identity theft, fraud, harassment, malicious or deceptive activity, or illegal activity; or
+
+
+     (c) preserve the integrity or security of any system.
+
+
+ 
+
+5.  a.  No later than two years after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill), the Artificial Intelligence Implementation Officer shall complete an inventory all automated systems that are used by State agencies for critical decisions.  The inventory shall include the following information for each automated system:
+
+
+     (1) the name of the automated system and the vendor, if any, that provided or developed such automated system; and
+
+
+     (2) a description of the general capabilities of the automated system, including, but not limited to:
+
+
+     (a) any reasonably foreseeable capability of the automated system that is outside of the State agency's intended use of the automated system;
+
+
+     (b) whether the automated system was used, or may be used, to independently make, inform, or materially support a conclusion, decision, or judgment, and a description of the resulting impact on residents of this State;
+
+
+     (c) each type of data input that was used by the automated system, how such inputted data was collected, generated, or processed, and the type or types of data that the automated system generated or is reasonably likely to generate;
+
+
+     (d) whether the automated system:
+
+
+     (i) discriminates against any individual or group of individuals in violation of State or federal law; or
+
+
+     (ii) disproportionately impacts any individual or group of individuals, in violation of State or federal law, on the basis of any actual or perceived differentiating characteristic, including, but not limited to, race, creed, color, national origin, nationality, ancestry, age, marital status, civil union status, domestic partnership status, affectional or sexual orientation, genetic information, pregnancy, sex, gender identity or expression, disability or atypical hereditary cellular or blood trait of any individual, or liability for service in the armed forces;
+
+
+     (e) a description of the purpose and intended use of the automated system, including, but not limited to:
+
+
+     (i) the decision or decisions that the automated system was used to make, inform, or materially support;
+
+
+     (ii) whether the automated system is an automated final decision system or automated decision support system; and
+
+
+     (iii) the benefit or benefits that the automated system was purported to confer and any data or research necessary to determine whether the automated system conferred such purported benefit or benefits; and
+
+
+     (f) how the data used or generated by the automated system was processed and stored, whether the State agency or agencies that developed, procured, or utilized the automated system intend to share access to the automated system or data with any other person, the name of such person, and why the State agency or agencies intend to share such access or data with such person.
+
+
+     b.  The Artificial Intelligence Implementation Officer shall, as part of the inventory performed pursuant to subsection a. of this section, determine whether any automated system included in the inventory:
+
+
+     (1) infringed any legal right of any resident of this State; and
+
+
+     (2) was publicly disclosed.
+
+
+     c.  Nothing in this section shall be construed to:
+
+
+     (1) require the disclosure of any trade secret;
+
+
+     (2) abrogate any work product protection; or
+
+
+     (3) restrict the Artificial Intelligence Implementation Officer's or any State agency's ability to:
+
+
+     (a) conduct any internal research to develop, improve, or repair any product, service, or technology;
+
+
+     (b) prevent, detect, protect against or respond to, or investigate, report, or prosecute any person responsible for, any security incident, identity theft, fraud, harassment, malicious or deceptive activity or illegal activity; or
+
+
+     (c) preserve the integrity or security of any system.
+
+
+     d.  Not later than one year after the inventory has been completed pursuant to this section, the Artificial Intelligence Implementation Officer shall prepare and submit a report, pursuant to section 2 of P.L.1991, c.164 (C.52:14-19.1), to the Legislature.
+
+6.  a.  There is created in the Office of Information Technology a task force to study artificial intelligence.  At a minimum, the task force shall:
+
+
+     (1) develop, and make recommendations concerning the adoption of, an artificial intelligence bill of rights based on the "Blueprint for an AI Bill of Rights," published by the White House Office of Science and Technology Policy; and
+
+
+     (2) study the feasibility of establishing, and make recommendations concerning the establishment of, a department of artificial intelligence to assist State agencies and municipalities with implementing artificial intelligence technologies.
+
+
+     b.  The task force shall consist of the following 11 members:
+
+
+     (1) two members appointed by the Governor;
+
+
+     (2) two members appointed by the Speaker of the General Assembly;
+
+
+     (3) two members appointed by the President of the Senate;
+
+
+     (4) one member appointed by the Majority Leader of the General Assembly;
+
+
+     (5) one member appointed by the Majority Leader of the Senate;
+
+
+     (6) one member appointed by the Minority Leader of the General Assembly;
+
+
+     (7) one member appointed by the Minority Leader of the Senate; and
+
+
+     (8) the Chief Technology Officer, serving ex officio, or the officer’s designee.
+
+
+     c.  All initial appointments to the task force shall be made no later than 30 days after the effective date of P.L.    , c.     (C.        ) (pending before the Legislature as this bill).  Any vacancy shall be filled in the same manner in which the original appointment was made.
+
+
+     d.  The Speaker of the General Assembly and the President of the Senate shall each select a co-chairperson for the task force from among the members of the task force, for a total of two co-chair persons.  The co-chairpersons shall schedule the first meeting of the task force, which shall be held no later than 60 days after the effective date of P.L.    , c.     (C.        ) (pending before the Legislature as this bill). 
+
+
+     e.  The task force shall be entitled to call to its assistance and avail itself of the services of the employees of any State department, board, bureau, commission or agency, as it may require and as may be available for its purposes.  The Office of Information Technology shall provide the support staff necessary for the task force to perform its duties.  Members of the task force shall serve without compensation but may be reimbursed for necessary expenses incurred in the performance of their duties to the extent that funds are made available for that purpose.  Funding shall be limited to funds appropriated or otherwise made available to the task force for its purposes.
+
+
+     f.  No later than one year after the effective date of P.L.    , c.    (C.        ) (pending before the Legislature as this bill), the task force shall submit a report on its findings and recommendations to the Governor and, pursuant to section 2 of P.L.1991, c.164 (C.52:14-19.1), to the Legislature.  The report submitted shall include the artificial intelligence bill of rights developed pursuant to subsection a. of this section.
+
+
+     g.  The task force shall terminate on the date that it submits the report required pursuant to subsection f. of this section.
+
+7.  This act shall take effect immediately.

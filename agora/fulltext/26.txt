@@ -1,0 +1,11 @@
+An Act
+
+To include certain computer-related projects in the Federal permitting program under title XLI of the FAST Act, and for other purposes. 
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. FEDERAL PERMITTING IMPROVEMENT.
+
+Section 41001(6)(A) of the FAST Act (42 U.S.C. 4370m(6)(A)) is amended, in the matter preceding clause (i), by inserting semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity,'' after manufacturing,''.
+
+Approved August 16, 2022.

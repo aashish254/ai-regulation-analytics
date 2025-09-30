@@ -1,0 +1,239 @@
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.—This Act may be cited as the “Future of Artificial Intelligence Innovation Act of 2024”.
+(b) Table Of Contents.—The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Sense of Congress.
+Sec. 3. Definitions.
+TITLE I—VOLUNTARY ARTIFICIAL INTELLIGENCE STANDARDS, METRICS, EVALUATION TOOLS, TESTBEDS, AND INTERNATIONAL COOPERATION
+Subtitle A—Artificial Intelligence Safety Institute And Testbeds
+Sec. 101. Artificial Intelligence Safety Institute.
+Sec. 102. Program on artificial intelligence testbeds.
+Sec. 103. National Institute of Standards and Technology and Department of Energy testbed to identify, test, and synthesize new materials.
+Sec. 104. National Science Foundation and Department of Energy collaboration to make scientific discoveries through the use of artificial intelligence.
+Sec. 105. Progress report.
+Subtitle B—International Cooperation
+Sec. 111. International coalition on innovation, development, and harmonization of standards with respect to artificial intelligence.
+Sec. 112. Requirement to support bilateral and multilateral artificial intelligence research collaborations.
+Subtitle C—Identifying Regulatory Barriers To Innovation
+Sec. 121. Comptroller General of the United States identification of risks and obstacles relating to artificial intelligence and Federal agencies.
+TITLE II—ARTIFICIAL INTELLIGENCE RESEARCH, DEVELOPMENT, CAPACITY BUILDING ACTIVITIES
+Sec. 201. Public data for artificial intelligence systems.
+Sec. 202. Federal grand challenges in artificial intelligence.SEC. 2. SENSE OF CONGRESS.
+It is the sense of Congress that policies governing artificial intelligence should maximize the potential and development of artificial intelligence to benefit all private and public stakeholders.SEC. 3. DEFINITIONS.
+In this Act:
+(1) AGENCY.—The term “agency” has the meaning given such term in section 3502 of title 44, United States Code, except such term shall include an independent regulatory agency, as defined in such section.
+(2) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(3) ARTIFICIAL INTELLIGENCE BLUE-TEAMING.—The term “artificial intelligence blue-teaming” means an effort to conduct operational network vulnerability evaluations and provide mitigation techniques to entities who have a need for an independent technical review of the network security posture of an artificial intelligence system.
+(4) ARTIFICIAL INTELLIGENCE MODEL.—The term “artificial intelligence model” means a component of an artificial intelligence system that is a model—
+(A) derived using mathematical, computational, statistical, or machine-learning techniques; and
+(B) used as part of an artificial intelligence system to produce outputs from a given set of inputs.
+(5) ARTIFICIAL INTELLIGENCE RED-TEAMING.—The term “artificial intelligence red-teaming” means structured adversarial testing efforts of an artificial intelligence system to identify risks, flaws, and vulnerabilities of the artificial intelligence system, such as harmful outputs from the system, unforeseen or undesirable system behaviors, limitations, or potential risks associated with the misuse of the system.
+(6) ARTIFICIAL INTELLIGENCE RISK MANAGEMENT FRAMEWORK.—The term “Artificial Intelligence Risk Management Framework” means the most recently updated version of the framework developed and updated pursuant to section 22A(c) of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1(c)).
+(7) ARTIFICIAL INTELLIGENCE SYSTEM.—The term “artificial intelligence system” has the meaning given such term in section 7223 of the Advancing American AI Act (40 U.S.C. 11301 note).
+(8) CRITICAL INFRASTRUCTURE.—The term “critical infrastructure” has the meaning given such term in section 1016(e) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (42 U.S.C. 5195c(e)).
+(9) FEDERAL LABORATORY.—The term “Federal laboratory” has the meaning given such term in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703).
+(10) FOUNDATION MODEL.—The term “foundation model” means an artificial intelligence model trained on broad data at scale and is adaptable to a wide range of downstream tasks.
+(11) GENERATIVE ARTIFICIAL INTELLIGENCE.—The term “generative artificial intelligence” means the class of artificial intelligence models that utilize the structure and characteristics of input data in order to generate outputs in the form of derived synthetic content. Such derived synthetic content can include images, videos, audio, text, software, code, and other digital content.
+(12) NATIONAL LABORATORY.—The term “National Laboratory” has the meaning given such term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+(13) SYNTHETIC CONTENT.—The term “synthetic content” means information, such as images, videos, audio clips, and text, that has been significantly modified or generated by algorithms, including by artificial intelligence.
+(14) TESTBED.—The term “testbed” means a facility or mechanism equipped for conducting rigorous, transparent, and replicable testing of tools and technologies, including artificial intelligence systems, to help evaluate the functionality, trustworthiness, usability, and performance of those tools or technologies.
+(15) TEVV.—The term “TEVV” means methodologies, metrics, techniques, and tasks for testing, evaluating, verifying, and validating artificial intelligence systems or components.
+(16) WATERMARKING.—The term “watermarking” means the act of embedding information that is intended to be difficult to remove, into outputs generated by artificial intelligence, including outputs such as text, images, audio, videos, software code, or any other digital content or data, for the purposes of verifying the authenticity of the output or the identity or characteristics of its provenance, modifications, or conveyance.TITLE I—VOLUNTARY ARTIFICIAL INTELLIGENCE STANDARDS, METRICS, EVALUATION TOOLS, TESTBEDS, AND INTERNATIONAL COOPERATION
+Subtitle A—Artificial Intelligence Safety Institute And Testbeds
+SEC. 101. ARTIFICIAL INTELLIGENCE SAFETY INSTITUTE.(a) Establishment Of Institute.—
+(1) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the Under Secretary of Commerce for Standards and Technology (in this section referred to as the “Under Secretary”) shall establish an institute on artificial intelligence.
+(2) DESIGNATION.—The institute established pursuant to paragraph (1) shall be known as the “Artificial Intelligence Safety Institute” (in this section referred to as the “Institute”).
+(3) MISSION.—The mission of the Institute is as follows:
+(A) To assist the private sector and agencies in developing voluntary best practices for the robust assessment of artificial intelligence systems.
+(B) To provide technical assistance for the adoption and use of artificial intelligence across the Federal Government to improve the quality of government services.
+(C) To develop guidelines, methodologies, and best practices to promote—
+(i) development and adoption of voluntary, consensus-based technical standards or industry standards;
+(ii) long-term advancements in artificial intelligence technologies; and
+(iii) innovation in the artificial intelligence industry by ensuring that companies of all sizes can succeed and thrive.(b) Director.—The Under Secretary shall appoint a director of the Institute, who shall be known as the “Director of the Artificial Intelligence Safety Institute” (in this section referred to as the “Director”) and report directly to the Under Secretary.(c) Staff And Authorities.—
+(1) STAFF.—The Director may hire such full-time employees as the Director considers appropriate to assist the Director in carrying out the functions of the Institute.
+(2) USE OF AUTHORITY TO HIRE CRITICAL TECHNICAL EXPERTS.—In addition to making appointments under paragraph (1) of this subsection, the Director, in coordination with the Secretary of Commerce, may make appointments of scientific, engineering, and professional personnel, and fix their basic pay, under subsection (b) of section 6 of the National Institute of Standards and Technology Act (15 U.S.C. 275) to hire critical technical experts.
+(3) EXPANSION OF AUTHORITY TO HIRE CRITICAL TECHNICAL EXPERTS.—Such subsection is amended, in the second sentence, by striking “15” and inserting “30”.
+(4) MODIFICATION OF SUNSET.—Subsection (c) of such section is amended by striking “the date that is 5 years after the date of the enactment of this section” and inserting “December 30, 2035”.
+(5) AGREEMENTS.—The Director may enter into such agreements, including contracts, grants, cooperative agreements, and other transactions, as the Director considers necessary to carry out the functions of the Institute and on such terms as the Under Secretary considers appropriate.(d) Consultation And Coordination.—In establishing the Institute, the Under Secretary shall—
+(1) coordinate with—
+(A) the Secretary of Energy;
+(B) the Secretary of Homeland Security;
+(C) the Secretary of Defense;
+(D) the Director of the National Science Foundation; and
+(E) the Director of the Office of Science and Technology Policy; and
+(2) consult with the heads of such other Federal agencies as the Under Secretary considers appropriate.(e) Functions.—The functions of the Institute, which the Institute shall carry out in coordination with the laboratories of the National Institute of Standards and Technology, are as follows:
+(1) RESEARCH, EVALUATION, TESTING, AND STANDARDS.—The following functions relating to research, evaluation, testing, and standards:
+(A) Conducting measurement research into system and model safety, validity and reliability, security, capabilities and limitations, explainability, interpretability, and privacy.
+(B) Working with the Department of Energy, the National Science Foundation, public-private partnerships, including the Artificial Intelligence Safety Institute Consortium established under subsection (f), and other private sector organizations to develop testing environments and perform regular benchmarking and capability evaluations, including artificial intelligence red-teaming as the Director considers appropriate.
+(C) Working with consensus-based, open, and transparent standards development organizations (SDOs) and relevant industry, Federal laboratories, civil society, and academic institutions to advance development and adoption of clear, implementable, technically sound, and technology-neutral voluntary standards and guidelines that incorporate appropriate variations in approach depending on the size of the entity, the potential risks and potential benefits of the artificial intelligence system, and the role of the entity (such as developer, deployer, or user) relating to artificial intelligence systems.
+(D) Building upon the Artificial Intelligence Risk Management Framework to incorporate guidelines on generative artificial intelligence systems.
+(E) Developing a companion resource to the Secure Software Development Framework to incorporate secure development practices for generative artificial intelligence and for foundation models.
+(F) Developing and publishing cybersecurity tools, methodologies, best practices, voluntary guidelines, and other supporting information to assist persons who maintain systems used to create or train artificial intelligence models to discover and mitigate vulnerabilities and attacks.
+(G) Coordinating or developing guidelines, metrics, benchmarks, and methodologies for evaluating artificial intelligence systems, including the following:
+(i) Cataloging existing artificial intelligence metrics, benchmarks, and evaluation methodologies used in industry and academia.
+(ii) Testing and validating the efficacy of existing metrics, benchmarks, and evaluations, as well as TEVV tools and products.
+(iii) Funding and facilitating research and other activities in a transparent manner, including at institutions of higher education and other nonprofit and private sector partners, to evaluate, develop, or improve TEVV capabilities, with rigorous scientific merit, for artificial intelligence systems.
+(iv) Evaluating foundation models for their potential effect in downstream systems, such as when retrained or fine-tuned.
+(H) Coordinating with counterpart institutions of international partners and allies to promote global interoperability in the development of research, evaluation, testing, and standards relating to artificial intelligence.
+(I) Developing tools, methodologies, best practices, and voluntary guidelines for identifying vulnerabilities in foundation models.
+(J) Developing tools, methodologies, best practices, and voluntary guidelines for relevant agencies to track incidents resulting in harm caused by artificial intelligence systems.
+(2) IMPLEMENTATION.—The following functions relating to implementation:
+(A) Using publicly available and voluntarily provided information, conducting evaluations to assess the impacts of artificial intelligence systems, and developing guidelines and practices for safe development, deployment, and use of artificial intelligence technology.
+(B) Aligning capability evaluation and red-teaming guidelines and benchmarks, sharing best practices, and coordinating on building testbeds and test environments with allies of the United States and international partners and allies.
+(C) Coordinating vulnerability and incident data sharing with international partners and allies.
+(D) Integrating appropriate testing capabilities and infrastructure for testing of models and systems.
+(E) Establishing blue-teaming capabilities to develop mitigation approaches and partner with industry to address risks and negative impacts.
+(F) Developing voluntary guidelines on—
+(i) detecting synthetic content, authenticating content and tracking of the provenance of content, labeling original and synthetic content, such as by watermarking, and evaluating software and systems relating to detection and labeling of synthetic content;
+(ii) ensuring artificial intelligence systems do not violate privacy rights or other rights; and
+(iii) transparency documentation of artificial intelligence datasets and artificial intelligence models.
+(G) Coordinating with relevant agencies to develop or support, as the heads of the agencies determine appropriate, sector- and application-specific profiles of the Artificial Intelligence Risk Management Framework for different use cases, integrating end-user experience and on-going development work into a continuously evolving toolkit.
+(3) OPERATIONS AND ENGAGEMENT.—The following functions relating to operations and engagement:
+(A) Managing the work of the Institute, developing internal processes, and ensuring that the Institute meets applicable goals and targets.
+(B) Engaging with the private sector to promote innovation and competitiveness.
+(C) Engaging with international standards organizations, multilateral organizations, and similar institutes among allies and partners.(f) Artificial Intelligence Safety Institute Consortium.—
+(1) ESTABLISHMENT.—
+(A) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Under Secretary shall establish a consortium of stakeholders from academic or research communities, Federal laboratories, private industry, including companies of all sizes with different roles in the use of artificial intelligence systems, including developers, deployers, and users, and civil society with expertise in matters relating to artificial intelligence to support the Institute in carrying out the functions set forth under subsection (e).
+(B) DESIGNATION.—The consortium established pursuant to subparagraph (A) shall be known as the “Artificial Intelligence Safety Institute Consortium”.
+(2) CONSULTATION.—The Under Secretary, acting through the Director, shall consult with the consortium established under this subsection not less frequently than quarterly.
+(3) REPORT TO CONGRESS.—Not later than 2 years after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the contributions of the members of the consortium established under this subsection in support the efforts of the Institute.(g) Artificial Intelligence System Testing.—In carrying out the Institute functions required by subsection (a), the Under Secretary shall support and contribute to the development of voluntary, consensus-based technical standards for testing artificial intelligence system components, including, as the Under Secretary considers appropriate, the following:
+(1) Physical infrastructure for training or developing artificial intelligence models and systems, including cloud infrastructure.
+(2) Physical infrastructure for operating artificial intelligence systems, including cloud infrastructure.
+(3) Data for training artificial intelligence models.
+(4) Data for evaluating the functionality and trustworthiness of trained artificial intelligence models and systems.
+(5) Trained or partially trained artificial intelligence models and any resulting software systems or products.(h) Gifts.—
+(1) AUTHORITY.—The Director may seek, accept, hold, administer, and use gifts from public and private sources whenever the Director determines it would be in the interest of the United States to do so.
+(2) REGULATIONS.—The Director, in consultation with the Director of the Office of Government Ethics, shall ensure that authority under this subsection is exercised consistent with all relevant ethical constraints and principles, including—
+(A) the avoidance of any prohibited conflict of interest or appearance of impropriety; and
+(B) a prohibition against the acceptance of a gift from a foreign government or an agent of a foreign government.(i) Rule Of Construction.—Nothing in this section shall be construed to provide the Director of the National Institute of Standards and Technology any enforcement authority that was not in effect on the day before the date of the enactment of this Act.SEC. 102. PROGRAM ON ARTIFICIAL INTELLIGENCE TESTBEDS.
+(a) Definitions.—In this section:
+(1) APPROPRIATE COMMITTEES OF CONGRESS.—The term “appropriate committees of Congress” means—
+(A) the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate; and
+(B) the Committee on Science, Space, and Technology of the House of Representatives.
+(2) DIRECTOR.—The term “Director” means the Director of the National Science Foundation.
+(3) INSTITUTE.—The term “Institute” means the Artificial Intelligence Safety Institute established by section 101.
+(4) SECRETARY.—The term “Secretary” means the Secretary of Energy.
+(5) UNDER SECRETARY.—The term “Under Secretary” means the Under Secretary of Commerce for Standards and Technology.(b) Program Required.—Not later than 180 days after the date of the enactment of this Act, the Under Secretary shall, in coordination with the Secretary and the Director, establish and commence carrying out a testbed program to encourage collaboration and support partnerships between the National Laboratories, the National Institute of Standards and Technology, the National Artificial Intelligence Research Resource pilot program established by the Director of the National Science Foundation, or any successor program, and public and private sector entities, including companies of all sizes, to conduct research and development, tests, evaluations, and risk assessments of artificial intelligence systems, including measurement methodologies developed by the Institute.(c) Activities.—In carrying out this program, the Under Secretary shall, in coordination with the Secretary—
+(1) use the advanced computing resources, testbeds, and expertise of the National Laboratories, the Institute, the National Science Foundation, and private sector entities to run tests and evaluations on the capabilities and limitations of artificial intelligence systems;
+(2) use existing solutions to the maximum extent practicable;
+(3) develop automated and reproducible tests, evaluations, and risk assessments for artificial intelligence systems to the extent that is practicable;
+(4) assess the computational resources necessary to run tests, evaluations, and risk assessments of artificial intelligence systems;
+(5) research methods to effectively minimize the computational resources needed to run tests, evaluations, and risk assessments of artificial intelligence systems;
+(6) consider developing tests, evaluations, and risk assessments for artificial intelligence systems that are designed for high-, medium-, and low-computational intensity; and
+(7) prioritize identifying and evaluating scenarios in which the artificial intelligence systems tested or evaluated by a testbed could be deployed in a way that poses security risks, and either establishing classified testbeds, or utilizing existing classified testbeds, at the National Laboratories if necessary, including with respect to—
+(A) autonomous offensive cyber capabilities;
+(B) cybersecurity vulnerabilities in the artificial intelligence software ecosystem and beyond;
+(C) chemical, biological, radiological, nuclear, critical infrastructure, and energy-security threats or hazards; and
+(D) such other capabilities as the Under Secretary determines necessary.(d) Consideration Given.—In carrying out the activities required by subsection (c), the Under Secretary shall, in coordination with the Secretary, take under consideration the applicability of any tests, evaluations, and risk assessments to artificial intelligence systems trained using primarily biological sequence data, including those systems used for gene synthesis.(e) Metrics.—The Under Secretary, in collaboration with the Secretary, shall develop metrics—
+(1) to assess the effectiveness of the program in encouraging collaboration and supporting partnerships as described in subsection (b); and
+(2) to assess the impact of the program on public and private sector integration and use of artificial intelligence systems.(f) Use Of Existing Program.—In carrying out the program required by subsection (a), the Under Secretary may, in collaboration with the Secretary and the Director, use a program that was in effect on the day before the date of the enactment of this Act.(g) Evaluation And Findings.—Not later than 3 years after the start of this program, the Under Secretary shall, in collaboration with the Secretary—
+(1) evaluate the success of the program in encouraging collaboration and supporting partnerships as described in subsection (b), using the metrics developed pursuant to subsection (e);
+(2) evaluate the success of the program in encouraging public and private sector integration and use of artificial intelligence systems by using the metrics developed pursuant to subsection (e); and
+(3) submit to the appropriate committees of Congress the evaluation supported pursuant to paragraph (1) and the findings of the Under Secretary, the Secretary, and the Director with respect to the testbed program.(h) Consultation.—In carrying out subsection (b), the Under Secretary shall consult, as the Under Secretary considers appropriate, with the following:
+(1) Industry, including private artificial intelligence laboratories, companies of all sizes, and representatives from the United States financial sector.
+(2) Academia and institutions of higher education.
+(3) Civil society.
+(4) Third-party evaluators.(i) Establishment Of Foundation Models Test Program.—In carrying out the program under subsection (b), the Under Secretary shall, acting through the Director of the Institute and in coordination with the Secretary of Energy, carry out a test program to provide vendors of foundation models the opportunity to voluntarily test foundation models across a range of modalities, such as models that ingest and output text, images, audio, video, software code, and mixed modalities, relative to the Artificial Intelligence Risk Management Framework, by—
+(1) conducting research and regular testing to improve and benchmark the accuracy, efficacy, and bias of foundation models;
+(2) conducting research to identify key capabilities, limitations, and unexpected behaviors of foundation models;
+(3) identifying and evaluating scenarios in which these models could pose risks;
+(4) establishing reference use cases for foundation models and performance criteria for assessing each use case, including accuracy, efficacy, and bias metrics;
+(5) enabling developers and deployers of foundation models to evaluate such systems for risks, incidents, and vulnerabilities if deployed in such use cases;
+(6) coordinating public evaluations, which may include prizes and challenges, to evaluate foundation models; and
+(7) as the Under Secretary and the Secretary consider appropriate, producing public-facing reports of the findings from such testing for a general audience.(j) Rule Of Construction.—Nothing in this section shall be construed to require a person to disclose any information, including information—
+(1) relating to a trade secret or other protected intellectual property right;
+(2) that is confidential business information; or
+(3) that is privileged.SEC. 103. NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY AND DEPARTMENT OF ENERGY TESTBED TO IDENTIFY, TEST, AND SYNTHESIZE NEW MATERIALS.
+(a) Testbed Authorized.—The Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology, and the Secretary of Energy shall jointly establish a testbed to identify, test, and synthesize new materials to advance materials science and to support advanced manufacturing for the benefit of the United States economy through the use of artificial intelligence, autonomous laboratories, and artificial intelligence integrated with emerging technologies, such as quantum hybrid computing and robotics.
+(b) Support For Accelerated Technologies.—The Secretary of Commerce and the Secretary of Energy shall ensure that technologies accelerated using the testbed established pursuant to subsection (a) are supported by advanced algorithms and models, uncertainty quantification, and software and workforce development tools to produce benchmark data, model comparison tools, and best practices guides.
+(c) Public-Private Partnerships.—In carrying out subsection (a), the Secretary of Commerce and the Secretary of Energy shall, in consultation with industry, civil society, and academia, enter into such public-private partnerships as the Secretaries jointly determine appropriate.
+(d) Resources.—In carrying out subsection (a), the Secretaries may use resources from National Laboratories and the private sector.
+SEC. 104. NATIONAL SCIENCE FOUNDATION AND DEPARTMENT OF ENERGY COLLABORATION TO MAKE SCIENTIFIC DISCOVERIES THROUGH THE USE OF ARTIFICIAL INTELLIGENCE.
+(a) In General.—The Director of the National Science Foundation (referred to in this section as the “Director”) and the Secretary of Energy (referred to in this section as the “Secretary”) shall collaborate to support new translational scientific discoveries and advancements for the benefit of the economy of the United States through the use of artificial intelligence, including artificial intelligence integrated with emerging technologies, such as quantum hybrid computing and robotics.
+(b) Public-Private Partnerships.—In carrying out subsection (a), the Director and the Secretary shall enter into such public-private partnerships as the Director and the Secretary jointly determine appropriate.
+(c) Resources.—In carrying out subsection (a), the Director and the Secretary may accept and use resources from the National Laboratories, resources from the private sector, and academic resources.SEC. 105. PROGRESS REPORT.
+Not later than 1 year after the date of the enactment of this Act, the Director of the Artificial Intelligence Safety Institute shall, in coordination with the Secretary of Commerce and the Secretary of Energy, submit to Congress a report on the implementation of this subtitle.Subtitle B—International Cooperation
+SEC. 111. INTERNATIONAL COALITION ON INNOVATION, DEVELOPMENT, AND HARMONIZATION OF STANDARDS WITH RESPECT TO ARTIFICIAL INTELLIGENCE.
+(a) In General.—The Secretary of Commerce, the Secretary of State, and the Director of the Office of Science and Technology Policy (in this section referred to as the “Director”), in consultation with the heads of relevant agencies, shall jointly seek to form an alliance or coalition with like-minded governments of foreign countries—
+(1) to cooperate on approaches to innovation and advancements in artificial intelligence and ecosystems for artificial intelligence;
+(2) to coordinate on development and use of interoperable international standards or harmonization of standards with respect to artificial intelligence;
+(3) to promote adoption of common artificial intelligence standards;
+(4) to develop the government-to-government infrastructure needed to facilitate coordination of coherent global application of artificial intelligence safety standards, including, where appropriate, putting in place agreements for information sharing between governments; and
+(5) to involve private-sector stakeholders from partner countries to help inform coalition partners on recent developments in artificial intelligence and associated standards development.(b) Criteria For Participation.—In forming an alliance or coalition of like-minded governments of foreign countries under subsection (a), the Secretary of Commerce, the Secretary of State, and the Director, in consultation with the heads of relevant agencies, shall jointly establish technology trust criteria—
+(1) to ensure all participating countries that have a high level of scientific and technological advancement;
+(2) to ensure all participating countries commit to using open international standards; and
+(3) to support the governance principles for international standards as detailed in the World Trade Organization Agreement on Technical Barriers to Trade, done at Geneva April 12, 1979, on international standards, such as transparency, openness, and consensus-based decision-making.(c) Consultation On Innovation And Advancements In Artificial Intelligence.—In forming an alliance or coalition under subsection (a), the Director, the Secretary of Commerce, and the Secretary of State shall consult with the Secretary of Energy and the Director of the National Science Foundation on approaches to innovation and advancements in artificial intelligence.(d) Security And Protection Of Intellectual Property.—The Director, the Secretary of Commerce, and the Secretary of State shall jointly ensure that an alliance or coalition formed under subsection (a) is only formed with countries that—
+(1) have in place sufficient intellectual property protections, safety standards, and risk management approaches relevant to innovation and artificial intelligence; and
+(2) develop and coordinate research security measures, export controls, and intellectual property protections relevant to innovation, development, and standard-setting relating to artificial intelligence.(e) Rule Of Construction.—Nothing in this section shall be construed to prohibit anyone from participating in other international standards bodies.SEC. 112. REQUIREMENT TO SUPPORT BILATERAL AND MULTILATERAL ARTIFICIAL INTELLIGENCE RESEARCH COLLABORATIONS.
+(a) In General.—The Director of the National Science Foundation shall support bilateral and multilateral collaborations to facilitate innovation in research and development of artificial intelligence.(b) Alignment With Priorities.—The Director shall ensure that collaborations supported under subsection (a) align with the priorities of the Foundation and United States research community and have the potential to benefit United States prosperity, security, health, and well-being.(c) Requirements.—The Director shall ensure that collaborations supported under subsection (a)—
+(1) support innovation and advancement in research on the development and use of artificial intelligence;
+(2) facilitate international collaboration on innovation and advancement in artificial intelligence research and development, including data sharing, expertise, and resources; and
+(3) leverage existing National Science Foundation programs, such as the National Science Foundation-supported National Artificial Intelligence Research Institutes and Global Centers programs.(d) Coordination Of Security Measures And Export Controls.—When entering into agreements in order to support collaborations pursuant to subsection (a), the Director shall ensure that participating countries have developed and coordinated security measures and export controls to protect intellectual property and research and development.Subtitle C—Identifying Regulatory Barriers To Innovation
+SEC. 121. COMPTROLLER GENERAL OF THE UNITED STATES IDENTIFICATION OF RISKS AND OBSTACLES RELATING TO ARTIFICIAL INTELLIGENCE AND FEDERAL AGENCIES.
+(a) Report Required.—Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on regulatory impediments to innovation in artificial intelligence systems.
+(b) Contents.—The report submitted pursuant to subsection (a) shall include the following:
+(1) Significant examples of Federal statutes and regulations that directly affect the innovation of artificial intelligence systems, including the ability of companies of all sizes to compete in artificial intelligence, which should also account for the effect of voluntary standards and best practices developed by the Federal Government.
+(2) An assessment of challenges that Federal agencies face in the enforcement of provisions of law identified pursuant to paragraph (1).
+(3) An evaluation of the progress in government adoption of artificial intelligence and use of artificial intelligence to improve the quality of government services.
+(4) Based on the findings of the Comptroller General with respect to paragraphs (1) through (4), such recommendations as the Comptroller General may have for legislative or administrative action to increase the rate of innovation in artificial intelligence systems.TITLE II—ARTIFICIAL INTELLIGENCE RESEARCH, DEVELOPMENT, CAPACITY BUILDING ACTIVITIES
+SEC. 201. PUBLIC DATA FOR ARTIFICIAL INTELLIGENCE SYSTEMS.
+(a) List Of Priorities.—
+(1) IN GENERAL.—To expedite the development of artificial intelligence systems in the United States, the Director of the Office of Science and Technology Policy shall, acting through the National Science and Technology Council and the Interagency Committee established or designated pursuant to section 5103 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9413), develop a list of priorities for Federal investment in creating or improving curated, publicly available Federal Government data for training and evaluating artificial intelligence systems.
+(2) REQUIREMENTS.—
+(A) IN GENERAL.—The list developed pursuant to paragraph (1) shall—
+(i) prioritize data that will advance novel artificial intelligence systems in the public interest; and
+(ii) prioritize datasets unlikely to independently receive sufficient private sector support to enable their creation, absent Federal funding.
+(B) DATASETS IDENTIFIED.—In carrying out subparagraph (A)(ii), the Director shall identify 20 datasets to be prioritized.
+(3) CONSIDERATIONS.—In developing the list under paragraph (1), the Director shall consider the following:
+(A) Applicability to the initial list of societal, national, and geostrategic challenges set forth by subsection (b) of section 10387 of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19107), or any successor list.
+(B) Applicability to the initial list of key technology focus areas set forth by subsection (c) of such section, or any successor list.
+(C) Applicability to other major United States economic sectors, such as agriculture, health care, transportation, manufacturing, communications, weather services, and positive utility to small and medium United States businesses.
+(D) Opportunities to improve datasets in effect before the date of the enactment of this Act.
+(E) Inclusion of data representative of the entire population of the United States.
+(F) Potential national security threats to releasing datasets, consistent with the United States Government approach to data flows.
+(G) Requirements of laws in effect.
+(H) Applicability to the priorities listed in the National Artificial Intelligence Research and Development Strategic Plan of the National Science and Technology Council, dated October 2016.
+(I) Ability to use data already made available to the National Artificial Intelligence Research Resource Pilot program or any successor program.
+(4) PUBLIC INPUT.—Before finalizing the list required by paragraph (1), the Director shall implement public comment procedures for receiving input and comment from private industry, academia, civil society, and other relevant stakeholders.(b) National Science And Technology Council Agencies.—The head of each agency with a representative included in the Interagency Committee pursuant to section 5103(c) of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9413(c)) or the heads of multiple agencies with a representative included in the Interagency Committee working cooperatively, consistent with the missions or responsibilities of each Executive agency—
+(1) subject to the availability of appropriations, shall award grants or otherwise establish incentives, through new or existing programs, for the creation or improvement of curated datasets identified in the list developed pursuant to subsection (a)(1), including methods for addressing data scarcity;
+(2) may establish or leverage existing initiatives, including public-private partnerships, to encourage private sector cost-sharing in the creation or improvement of such datasets;
+(3) may apply the priorities set forth in the list developed pursuant to subsection (a)(1) to the enactment of Federal public access and open government data policies;
+(4) in carrying out this subsection, shall ensure consistency with Federal provisions of law relating to privacy, including the technology and privacy standards applied to the National Secure Data Service under section 10375(f) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19085(f)); and
+(5) in carrying out this subsection, shall ensure data sharing is limited with any country that the Secretary of Commerce, in consultation with the Secretary of Defense, the Secretary of State, and the Director of National Intelligence, determines to be engaged in conduct that is detrimental to the national security or foreign policy of the United States.(c) Availability Of Datasets.—Datasets that are created or improved by Federal agencies may be made available to the National Artificial Intelligence Research Resource pilot program established by the Director of the National Science Foundation in accordance with Executive Order 14110 (88 Fed. Reg. 75191; relating to safe, secure, and trustworthy development and use of artificial intelligence), or any successor program.
+(d) Rule Of Construction.—Nothing in this subsection shall be construed to require the Federal Government or other contributors to disclose any information—
+(1) relating to a trade secret or other protected intellectual property right;
+(2) that is confidential business information; or
+(3) that is privileged.SEC. 202. FEDERAL GRAND CHALLENGES IN ARTIFICIAL INTELLIGENCE.
+(a) List Of Priorities For Federal Grand Challenges In Artificial Intelligence.—
+(1) LIST REQUIRED.—Not later than 1 year after the date of the enactment of this Act, the Director of the Office of Science and Technology Policy shall, acting through the National Science and Technology Council and the Interagency Committee established or designated pursuant to section 5103 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9413), in consultation with industry, civil society, and academia, establish a list of priorities for Federal grand challenges in artificial intelligence that seek—
+(A) to expedite the development of artificial intelligence systems in the United States; and
+(B) to stimulate artificial intelligence research, development, and commercialization that solves or advances specific, well-defined, and measurable challenges.
+(2) CONTENTS.—The list established pursuant to paragraph (1) may include the following priorities:
+(A) To overcome challenges with engineering of and applied research on microelectronics, including through integration of artificial intelligence with emerging technologies, such as machine learning and quantum computing, or with respect to the physical limits on transistors, electrical interconnects, and memory elements.
+(B) To promote transformational or long-term advancements in computing and artificial intelligence technologies through—
+(i) next-generation algorithm design;
+(ii) next-generation compute capability;
+(iii) generative and adaptive artificial intelligence for design applications;
+(iv) photonics-based microprocessors and optical communication networks, including electrophotonics;
+(v) the chemistry and physics of new materials;
+(vi) energy use or energy efficiency;
+(vii) techniques to establish cryptographically secure content provenance information; or
+(viii) safety and controls for artificial intelligence applications.
+(C) To develop artificial intelligence solutions, including through integration among emerging technologies such as quantum computing and machine learning, to overcome barriers relating to innovations in advanced manufacturing in the United States, including areas such as—
+(i) materials, nanomaterials, and composites;
+(ii) rapid, complex design;
+(iii) sustainability and environmental impact of manufacturing operations;
+(iv) predictive maintenance of machinery;
+(v) improved part quality;
+(vi) process inspections;
+(vii) worker safety; and
+(viii) robotics.
+(D) To develop artificial intelligence solutions in sectors of the economy, such as expanding the use of artificial intelligence in maritime vessels, including in navigation and in the design of propulsion systems and fuels.
+(E) To develop artificial intelligence solutions to improve border security, including solutions relevant to the detection of fentanyl, illicit contraband, and other illegal activities.
+(3) PERIODIC UPDATES.—The Director shall update the list established pursuant to paragraph (1) periodically as the Director determines necessary.(b) Federal Investment Initiatives Required.—Subject to the availability of appropriations, the head of each agency with a representative on the Interagency Committee pursuant to section 5103(c) of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9413(c)) or the heads of multiple agencies with a representative on the Interagency Committee working cooperatively, shall, consistent with the missions or responsibilities of each agency, establish 1 or more prize competitions under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), challenge-based acquisitions, or other research and development investments that each agency head deems appropriate consistent with the list of priorities established pursuant to subsection (a)(1).(c) Timing And Announcements Of Federal Investment Initiatives.—The President, acting through the Director, shall ensure that, not later than 1 year after the date on which the Director establishes the list required by subsection (a)(1), at least 3 prize competitions, challenge-based acquisitions, or other research and development investments are announced by heads of Federal agencies under subsection (b).(d) Requirements.—Each head of an agency carrying out an investment initiative under subsection (b) shall ensure that—
+(1) for each prize competition or investment initiative carried out by the agency under such subsection, there is—
+(A) a positive impact on the economic competitiveness of the United States;
+(B) a benefit to United States industry;
+(C) to the extent possible, leveraging of the resources and expertise of industry and philanthropic partners in shaping the investments; and
+(D) in a case involving development and manufacturing, use of advanced manufacturing in the United States; and
+(2) all research conducted for purposes of the investment initiative is conducted in the United States.

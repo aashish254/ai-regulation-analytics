@@ -1,0 +1,6 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Basic Allowance for Housing Calculation Improvement Act of 2023”.SEC. 2. BASIC ALLOWANCE FOR HOUSING: PILOT PROGRAM TO OUTSOURCE RATE CALCULATION.
+(a) In General.—Not later than September 30, 2024, the Secretary of Defense shall seek to enter into an agreement with a covered entity pursuant to which the covered entity shall calculate, using industry standard machine learning and artificial intelligence algorithms, the monthly rates of BAH for not fewer than 15 MHAs.(b) Report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the evaluation of the Secretary of the rates calculated by a covered entity pursuant to an agreement under subsection (a).(c) Definitions.—In this section:
+(1) The term “BAH” means the basic allowance for housing for members of the uniformed services under section 403 of title 37, United States Code.
+(2) The term “covered entity” means a nationally recognized entity in the field of single-family housing that has data on local rental rates in real estate markets across the United States.
+(3) The term “MHA” means military housing area.a

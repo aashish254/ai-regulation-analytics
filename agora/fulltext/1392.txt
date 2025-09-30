@@ -1,0 +1,12 @@
+SEC. 203. PROVIDING INFORMATION ON BEHAVIORAL HEALTH COVERAGE TO PROMOTE INFORMED CHOICE.
+Section 1851(d)(4) of the Social Security Act (42 U.S.C. 1395w–21(d)(4)) is amended by adding at the end the following new subparagraph:
+“(F) BEHAVIORAL HEALTH INFORMATION.—For 2025 and subsequent plan years, to the extent available, the following information with respect to the preceding plan year:
+“(i) Information on access to in-network behavioral health providers, disaggregated by those who prescribe and those who offer mental health or substance use disorder services, including—
+“(I) the average wait time (as defined by the Secretary) for an appointment for a new patient with an in-network provider for mental health or substance disorder services;
+“(II) the total number and percentage of providers who have participation agreements with the organization who submitted at least one request for payment for a mental health or substance use disorder service during a 6 month period (or other period specified by the Secretary); and
+“(III) the percentage of requests for payment for mental health or substance use disorder services that were submitted by—
+“(aa) in-network providers; and
+“(bb) out-of-network providers.
+“(ii) Information on the number of denials of prior authorization requests or denials of payment for mental health or substance use disorder services compared to non-mental health and substance use disorder services overall, categorized by the type of denial and by the type of service, as defined by the Secretary, including—
+“(I) the number and percent of such denials by the number of days to denial, the reason for denial, and the utilization of decision support technology, artificial intelligence technology, machine-learning technology, clinical decision-making technology, or any other technology specified by the Secretary; and
+“(II) the number and percent of such denials with respect to a mental health or substance use disorder service compared to such denials with respect to items and services for a similar physical health condition (such as depression compared to diabetes) by the number of days to denial, the reason for denial, and the utilization of decision support technology, artificial intelligence technology, machine-learning technology, clinical decision-making technology, or any other technology specified by the Secretary.”.

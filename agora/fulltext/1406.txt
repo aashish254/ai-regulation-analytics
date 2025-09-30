@@ -1,0 +1,89 @@
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:
+Section 1. Amend Chapter 90C, Title 29 of the Delaware Code by making deletions as shown by strike through
+and insertions as shown by underline as follows:
+Subchapter IV: Delaware Artificial Intelligence (AI) Commission
+§ 9041C. Purpose.
+The Delaware AI Commission is created to do all of the following:
+(a) Make recommendations to the General Assembly and to the Chief Information Officer of the Department on
+legislative and executive actions regarding AI in Delaware.
+(b) Develop and recommend statewide processes, principles, and guidelines for executive, legislative, and judicial
+agencies to follow regarding use of AI.
+(c) Encourage agencies to utilize AI to improve service delivery, where appropriate.
+(d) Examine, develop, and recommend legislative, executive, and judicial actions that ensure the use of AI in
+Delaware keeps citizens safe and does not violate any individual’s rights.
+(e) Conduct an inventory of all Generative AI usage in Delaware executive, legislative, and judicial agencies and
+identify high risk areas for the implementation of Generative AI.
+§ 9042C. Definitions.
+As used in this subchapter:
+(a) “Appointed member” means an individual appointed under § 9043C of this subchapter.
+(b) “Artificial Intelligence” or “AI” means a machine-based system that can, for a given set of human-defined
+objectives, make predictions, recommendations, or decisions influencing real or virtual environments.
+(c) “Commission” means the Delaware AI Commission.
+(d) “Generative AI” means the class of AI models that emulate the structure and characteristics of input data in
+order to generate derived synthetic content. This can include images, videos, audio, text, and other digital content.
+§ 9043C. Commission membership; qualifications; term of office.
+(a) The Commission is composed of 19 members, as follows:
+(1) Eight members serving by virtue of position, or their designee, as follows:
+a. The Chief Information Officer of the Department of Technology and Information.
+b. The Attorney General.
+c. The Secretary of the Department of Labor.
+d. The Secretary of the Department of Education.
+e. The Secretary of the Department of Transportation.
+f. The Director of the Office of Management and Budget.
+g. The Chief Justice of the Supreme Court.
+h. The Secretary of State.
+i. The Secretary of the Department of Health and Social Services.
+j. The Secretary of the Department of Safety and Homeland Security.
+k. The State Election Commissioner.
+l. The Executive Director of the Government Efficiency and Accountability Review Board.
+(2) Four members who are residents of the State and appointed by the Pro Tempore of the Senate as follows:
+a. One member of a higher education institution with specialization in AI.
+b. One member representing private sector entities with experience in developing or implementing AI.
+c. A member of the Senate from the Majority Caucus.
+d. A member of the Senate from the Minority Caucus.
+(3) Four members who are residents of the State and appointed by the Speaker of the House as follows:
+a. One member of a higher education institution with specialization in AI.
+b. One member representing private sector entities with experience in developing or implementing AI.
+c. A member of the House of Representatives from the Majority Caucus.
+d. A member of the House of Representatives from the Minority Caucus.
+(4) Three members who are residents of the State and appointed by the Governor as follows:
+a. One member of a higher education institution with specialization in AI. 
+b. One lawyer with expertise in U.S. and Delaware constitutional rights.
+c. One member representing private sector entities with experience in developing or implementing AI.
+(b) An appointed member serves for a term of up to 3 years and is eligible for reappointment.
+(c) If an appointed member fails to attend 3 successive meetings of the Commission without just cause, that
+member’s position may be deemed vacant, and their appointing authority may appoint a replacement.
+(d) Members of the Commission serve without compensation, except that the Commission may reimburse
+members for reasonable and necessary mileage and tolls incident to duties as members of the Commission.
+§ 9044C. Authority; staffing.
+(a) The Commission shall be placed within the Department and shall have such powers, duties, and functions as
+described in this subchapter and such other duties and functions as may be referred to it by the Governor, the Chief
+Information Officer of Department, or the General Assembly.
+(b) The Chief Information Officer of the Department shall provide staff support to the Commission.
+§ 9045C. Chair and Vice Chair; selection and duties.
+(a) The Commission shall elect a Chair and Vice Chair at its first meeting and the Chair and Vice Chair shall serve
+until a replacement is elected. If the Chair becomes vacant, the Vice Chair shall fulfill the duties of the Chair contained in
+subsection (b) of this section until a replacement is elected at its next meeting.
+(b) The Chair of the Commission shall do all of the following:
+(1) Set a date, time, and place for the meetings of the Commission.
+(2) Supervise the preparation and distribution of meeting notices, agendas, minutes, and other documents
+prepared by or on behalf of the Commission.
+§ 9046C. Quorum and conduct of business.
+(a) A majority of the membership of the Commission constitutes a quorum to conduct official business. Official
+action by the Commission, including making findings and recommendations, requires the approval of a majority of the
+members of the Commission present at a meeting with quorum.
+(b) The Commission may adopt rules necessary for its operation.
+(c) In carrying out the Commission’s duties under this subchapter, the Commission shall consider any related
+plans and programs developed by other organizations with expertise in AI.
+§ 9047C. Annual Report.
+On or before December 31, 2024, and on or before every December 31 thereafter, the Commission shall submit to
+the Governor, the President Pro Tempore of the Senate, the Speaker of the House of Representatives, and the Director and
+Librarian of the Division of Research, for distribution to the members of the General Assembly, an annual report of the
+Commission’s activities for the previous year and goals for the upcoming year. The report may also include proposals for
+legislation, administrative action, or other policy changes the Commission considers necessary to further the goals and
+purposes of this subchapter.
+Section 2. The Chief Information Officer of the Department of Technology and Information shall set the date,
+time, and place for the initial organizational meeting and the Commission shall hold its first meeting no later than August 1,
+2024.
+Section 3. This Act expires 10 years after its enactment into law, unless otherwise provided by a subsequent act of
+the General Assembly.

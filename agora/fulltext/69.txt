@@ -1,0 +1,887 @@
+SEC. 1501. AMERICAN COMPETITIVENESS OF A MORE PRODUCTIVE EMERGING 
+                          TECH ECONOMY.
+
+    (a) Short Title.--This title may be cited as the ``American 
+Competitiveness Of a More Productive Emerging Tech Economy Act'' or the 
+``American COMPETE Act''.
+    (b) Study to Advance Artificial Intelligence.--
+            (1) In general.--
+                    (A) Study required.--Not later 
+                than 1 year after the date of enactment of this Act, the 
+                Secretary of Commerce and the Federal Trade Commission 
+                shall complete a study on the state of the artificial 
+                intelligence industry and the impact of such industry on 
+                the United States economy.
+                    (B) Requirements for study.--In conducting the 
+                study, the Secretary and the Commission shall--
+                          (i) develop and 
+                      conduct a survey of the artificial intelligence 
+                      industry through outreach to participating 
+                      entities as appropriate to--
+                                    (I) establish a list of industry 
+                                sectors that implement and promote the 
+                                use of artificial intelligence;
+                                    (II) establish a list of public-
+                                private partnerships focused on 
+                                promoting the adoption and use of 
+                                artificial intelligence, as well as 
+                                industry-based bodies, including 
+                                international bodies, which have 
+                                developed, or are developing, mandatory 
+                                or voluntary standards for artificial 
+                                intelligence;
+                                    (III) the status of such industry-
+                                based mandatory or voluntary standards; 
+                                and
+                                    (IV) provide a description of the 
+                                ways entities or industry sectors 
+                                implement and promote the use of 
+                                artificial intelligence;
+                          (ii) develop a comprehensive 
+                      list of Federal agencies with jurisdiction over 
+                      the entities and industry sectors identified under 
+                      clause (i);
+                          (iii) identify which Federal agency or 
+                      agencies listed under clause (ii) each entity or 
+                      industry sector interacts with;
+                          (iv) identify all interagency activities that 
+                      are taking place among the Federal agencies listed 
+                      under clause (ii), such as working groups or other 
+                      coordinated efforts;
+                          (v) develop a brief description of the 
+                      jurisdiction and expertise of the Federal agencies 
+                      listed under clause (ii) with regard to such 
+                      entities and industry sectors;
+                          (vi) identify all regulations, guidelines, 
+                      mandatory standards, voluntary standards, and 
+                      other policies implemented by each of the Federal 
+                      agencies identified under clause (ii), as well as 
+                      all guidelines, mandatory standards, voluntary 
+                      standards, and other policies implemented by 
+                      industry-based bodies;
+                          (vii) identify Federal Government resources 
+                      that exist for consumers and small businesses to 
+                      evaluate the use of artificial intelligence; and
+                          (viii) consult with 
+                      the Office of Science and Technology Policy and 
+                      interagency efforts on artificial intelligence to 
+                      minimize duplication of activities among the 
+                      Federal agencies identified under clause (ii).            (2) Marketplace and supply chain survey.--The Secretary and 
+        Commission shall conduct a survey of the marketplace and supply 
+        chain of artificial intelligence to--
+                    (A) identify and assess risks 
+                posed to such marketplace and supply chain;
+                    (B) review the ability of foreign 
+                governments or third parties to exploit the supply chain 
+                in a manner that raises risks to the economic and 
+                national security of the United States; and
+                    (C) identify emerging risks and long-term trends in 
+                such marketplace and supply chain.            (3) Report to congress.--Not later than 6 months after the completion of the 
+        study required under paragraph (1), the Secretary and the 
+        Commission shall submit to the Committee on Energy and Commerce 
+        and the Committee on Science, Space, and Technology of the House 
+        of Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate, and make publicly available on 
+        their respective websites, a report that contains--
+                    (A) the results of the study conducted pursuant to 
+                paragraph (1) and the survey conducted pursuant to 
+                paragraph (2); and
+                    (B) 
+                recommendations to--
+                          (i) grow the United States economy through the 
+                      secure advancement of artificial intelligence;
+                          (ii) develop a national strategy to advance 
+                      the United States business sectors' position in 
+                      the world on the adoption of artificial 
+                      intelligence;
+                          (iii) develop strategies to mitigate current 
+                      and emerging risks to the marketplace and supply 
+                      chain of artificial intelligence; and
+                          (iv) develop legislation that--
+                                    (I) advances the expeditious 
+                                adoption of artificial intelligence 
+                                applications in interstate commerce that 
+                                takes into account findings from 
+                                available Federal advisory committees 
+                                that produce recommendations on 
+                                artificial intelligence to the extent 
+                                possible; and
+                                    (II) addresses societal priorities 
+                                related to the expeditious adoption of 
+                                artificial intelligence applications in 
+                                interstate commerce, including but not 
+                                limited to maintaining ethics, reducing 
+                                bias, and protecting privacy and 
+                                security.
+    (c) Study to Advance Internet of Things in Manufacturing.--
+            (1) In general.--
+                    (A) Study 
+                required.--Not later than 1 year after the date of 
+                enactment of this Act, the Secretary of Commerce, in 
+                coordination with the head of any other appropriate 
+                Federal agency, shall complete a study on the use of 
+                internet-connected devices and internet-connected 
+                solutions in manufacturing in the United States.
+                    (B) Requirements for study.--In conducting the 
+                study, the Secretary shall--
+                          (i) develop and 
+                      conduct a survey of the manufacturing industry 
+                      through outreach to participating entities as 
+                      appropriate to--
+                                    (I) establish a list of the industry 
+                                sectors that implement and promote the 
+                                use of internet-connected devices and 
+                                internet-connected solutions in 
+                                manufacturing;
+                                    (II) establish a list of public-
+                                private partnerships focused on 
+                                promoting the adoption and use of 
+                                internet-connected devices and internet-
+                                connected solutions in manufacturing, as 
+                                well as industry-based bodies, including 
+                                international bodies, that have 
+                                developed, or are developing, mandatory 
+                                or voluntary standards for such uses;
+                                    (III) the status of such industry-
+                                based mandatory or voluntary standards;
+                                    (IV) provide a description of the 
+                                ways entities or industry sectors 
+                                implement and promote the use of 
+                                internet-connected devices and internet-
+                                connected solutions in manufacturing;
+                          (ii) develop a comprehensive 
+                      list of Federal agencies with jurisdiction over 
+                      the entities and industry sectors identified under 
+                      clause (i);
+                          (iii) identify which Federal agency or 
+                      agencies listed under clause (ii) each entity or 
+                      industry sector interacts with;
+                          (iv) identify all interagency activities that 
+                      are taking place among the Federal agencies listed 
+                      under
+                      clause (ii), such as working groups or other 
+                      coordinated efforts;
+                          (v) develop a brief description of the 
+                      jurisdiction and expertise of the Federal agencies 
+                      listed under clause (ii) with regard to such 
+                      entities and industry sectors;
+                          (vi) identify all regulations, guidelines, 
+                      mandatory standards, voluntary standards, and 
+                      other policies implemented by each of the Federal 
+                      agencies identified under clause (ii), as well as 
+                      all guidelines, mandatory standards, voluntary 
+                      standards, and other policies implemented by 
+                      industry-based bodies; and
+                          (vii) identify Federal Government resources 
+                      that exist for consumers and small businesses to 
+                      evaluate the use of internet-connected devices and 
+                      internet-connected solutions in manufacturing.            (2) Marketplace and supply chain survey.--The Secretary 
+        shall conduct a survey of the marketplace and supply chain of 
+        internet-connected devices and internet-connected solutions used 
+        in manufacturing to--
+                    (A) assess the severity of 
+                risks posed to such marketplace and supply chain;
+                    (B) review the ability of foreign 
+                governments or third parties to exploit the supply chain 
+                in a manner that raises risks to the economic and 
+                national security of the United States; and
+                    (C) identify emerging risks and long-term trends in 
+                such marketplace and supply chain.            (3) Report to congress.--Not later than 6 months after the completion of the 
+        study required pursuant to paragraph (1), the Secretary shall 
+        submit to the Committee on Energy and Commerce and the Committee 
+        on Science, Space, and Technology of the House of 
+        Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate, and make publicly available on the 
+        website of the Department of Commerce, a report that contains--
+                    (A) the results of the study conducted pursuant to 
+                paragraph (1) and the surveys conducted pursuant to 
+                paragraph (2); and
+                    (B) 
+                recommendations to--
+                          (i) grow the United States economy through the 
+                      secure advancement of the use of internet-
+                      connected devices and internet-connected solutions 
+                      in manufacturing;
+                          (ii) develop a national strategy to advance 
+                      the United States business sectors' position in 
+                      the world on the adoption of internet-connected 
+                      devices and internet-connected solutions used in 
+                      manufacturing;
+                          (iii) develop strategies to mitigate current 
+                      and emerging risks to the marketplace and supply 
+                      chain of internet-connected devices and internet-
+                      connected solutions used in manufacturing;
+                          (iv) develop policies that States can adopt to 
+                      encourage the growth of manufacturing, including 
+                      the use of internet-connected devices and 
+                      internet-connected solutions in manufacturing; and
+                          (v) develop legislation that may advance the 
+                      expeditious adoption of the use of internet-
+                      connected devices and internet-connected solutions 
+                      in manufacturing.
+    (d) Study to Advance Quantum Computing.--
+            (1) In general.--
+                    (A) Study required.--Not later 
+                than 1 year after the date of enactment of this Act, the 
+                Secretary of Commerce and the Federal Trade Commission 
+                shall complete a study on the state of the quantum 
+                computing industry and the impact of such industry on 
+                the United States economy.
+                    (B) Requirements for study.--In conducting the 
+                study, the Secretary and the Commission shall--
+                          (i) develop and conduct a survey of the 
+                      quantum computing industry through outreach to 
+                      participating entities as appropriate to--
+                                    (I) 
+                                establish a list of industry sectors 
+                                that implement and promote the use of 
+                                quantum computing;
+                                    (II) establish a list of public-
+                                private partnerships focused on 
+                                promoting the adoption and use of 
+                                quantum computing, as well as industry-
+                                based bodies, including international 
+                                bodies, which have developed, or are 
+                                developing, mandatory or voluntary 
+                                standards for quantum computing;
+                                    (III) the status of such industry-
+                                based mandatory or voluntary standards; 
+                                and
+                                    (IV) provide a description of the 
+                                ways entities or industry sectors 
+                                implement and promote the use of quantum 
+                                computing;
+                          (ii) develop a comprehensive 
+                      list of Federal agencies with jurisdiction over 
+                      the entities and industry sectors identified under 
+                      clause (i);
+                          (iii) identify which Federal agency or 
+                      agencies listed under clause (ii) each entity or 
+                      industry sector interacts with;
+                          (iv) identify all interagency activities that 
+                      are taking place among the Federal agencies listed 
+                      under clause (ii), such as working groups or other 
+                      coordinated efforts;
+                          (v) develop a brief description of the 
+                      jurisdiction and expertise of the Federal agencies 
+                      listed under clause (ii) with regard to such 
+                      entities and industry sectors;
+                          (vi) identify all regulations, guidelines, 
+                      mandatory standards, voluntary standards, and 
+                      other policies implemented by each of the Federal 
+                      agencies identified under clause (ii), as well as 
+                      all guidelines, mandatory standards, voluntary 
+                      standards, and other policies implemented by 
+                      industry-based bodies;
+                          (vii) identify Federal Government resources 
+                      that exist for consumers and small businesses to 
+                      evaluate the use of quantum computing; and
+                          (viii) consult with 
+                      the Office of Science and Technology Policy and 
+                      interagency efforts on quantum authorized by 
+                      sections 102 and 103 of the National
+                      Quantum Initiative Act (Public Law 115-368) to 
+                      minimize duplication of activities in this 
+                      subparagraph among the Federal agencies listed 
+                      under clause (ii).            (2) Marketplace and supply chain survey.--The Secretary and 
+        Commission shall conduct a survey of the marketplace and supply 
+        chain of quantum computing to--
+                    (A) assess the severity of 
+                risks posed to such marketplace and supply chain;
+                    (B) review the ability of foreign 
+                governments or third parties to exploit the supply chain 
+                in a manner that raises risks to the economic and 
+                national security of the United States; and
+                    (C) identify emerging risks and long-term trends in 
+                such marketplace and supply chain.            (3) Report to congress.--Not later than 6 months after the completion of the 
+        study required pursuant to paragraph (1), the Secretary and the 
+        Commission shall submit to the Committee on Energy and Commerce 
+        and the Committee on Science, Space, and Technology of the House 
+        of Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate, and make publicly available on 
+        their respective websites, a report that contains--
+                    (A) the results of the study conducted pursuant to 
+                paragraph (1) and the survey conducted pursuant to 
+                paragraph (2); and
+                    (B) 
+                recommendations to--
+                          (i) grow the United States economy through the 
+                      secure advancement of quantum computing;
+                          (ii) develop a national strategy to advance 
+                      the United States business sectors' position in 
+                      the world on the adoption of quantum computing;
+                          (iii) develop strategies to mitigate current 
+                      and emerging risks to the marketplace and supply 
+                      chain of quantum computing; and
+                          (iv) develop legislation that may advance the 
+                      expeditious adoption of quantum computing.
+    (e) Study to Advance Blockchain Technology.--
+            (1) In general.--
+                    (A) Study required.--Not later 
+                than 1 year after the date of enactment of this Act, the 
+                Secretary of Commerce and the Federal Trade Commission 
+                shall complete a study on the state of the blockchain 
+                technology industry and the impact of such industry on 
+                the United States economy.
+                    (B) Requirements for study.--In conducting the 
+                study, the Secretary and the Commission shall--
+                          (i) develop and 
+                      conduct a survey of the blockchain technology 
+                      industry through outreach to participating 
+                      entities as appropriate to--
+                                    (I) establish a list of industry 
+                                sectors that implement and promote the 
+                                use of blockchain technology;
+                                    (II) establish a list of public-
+                                private partnerships focused on 
+                                promoting the adoption and use of 
+                                blockchain technology, as well as 
+                                industry-based bodies, including 
+                                international bodies, which have 
+                                developed, or are developing, mandatory 
+                                or voluntary standards for blockchain 
+                                technology;
+                                    (III) the status of such industry-
+                                based mandatory or voluntary standards; 
+                                and
+                                    (IV) provide a description of the 
+                                ways entities or industry sectors 
+                                implement and promote the use of 
+                                blockchain technology;
+                          (ii) develop a comprehensive 
+                      list of Federal agencies with jurisdiction over 
+                      the entities and industry sectors identified under 
+                      clause (i);
+                          (iii) identify which Federal agency or 
+                      agencies listed under clause (ii) each entity or 
+                      industry sector interacts with;
+                          (iv) identify all interagency activities that 
+                      are taking place among the Federal agencies listed 
+                      under clause (ii), such as working groups or other 
+                      coordinated efforts;
+                          (v) develop a brief description of the 
+                      jurisdiction and expertise of the Federal agencies 
+                      listed under clause (ii) with regard to such 
+                      entities and industry sectors;
+                          (vi) identify all regulations, guidelines, 
+                      mandatory standards, voluntary standards, and 
+                      other policies implemented by each of the Federal 
+                      agencies identified under clause (ii), as well as 
+                      all guidelines, mandatory standards, voluntary 
+                      standards, and other policies implemented by 
+                      industry-based bodies; and
+                          (vii) identify Federal Government resources 
+                      that exist for consumers and small businesses to 
+                      evaluate the use of blockchain technology.            (2) Marketplace and supply chain survey.--The Secretary and 
+        Commission shall conduct a survey of the marketplace and supply 
+        chain of blockchain technology to--
+                    (A) assess the severity of 
+                risks posed to such marketplace and supply chain;
+                    (B) review the ability of foreign 
+                governments or third parties to exploit the supply chain 
+                in a manner that raises risks to the economic and 
+                national security of the United States; and
+                    (C) identify emerging risks and long-term trends in 
+                such marketplace and supply chain.            (3) Report to 
+        congress.--Not later than 6 months after the completion of the 
+        study required pursuant to paragraph (1), the Secretary and the 
+        Commission shall submit to the Committee on Energy and Commerce 
+        and the Committee on Science, Space, and Technology of the House 
+        of Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate, and make publicly available on 
+        their respective websites, a report that contains--
+                    (A) the results of the study conducted pursuant to 
+                paragraph (1) and the survey conducted pursuant to 
+                paragraph (2); and
+                    (B) 
+                recommendations to--
+                          (i) grow the United States economy through the 
+                      secure advancement of blockchain technology;
+                          (ii) develop a national strategy to advance 
+                      the United States business sectors' position in 
+                      the world on the adoption of blockchain 
+                      technology;
+                          (iii) develop strategies to mitigate current 
+                      and emerging risks to the marketplace and supply 
+                      chain of blockchain technology; and
+                          (iv) develop legislation that may advance the 
+                      expeditious adoption of blockchain technology.
+    (f) Study to Advance New and Advanced Materials.--
+            (1) In general.--
+                    (A) Study 
+                required.--Not later than 1 year after the date of 
+                enactment of this Act, the Secretary of Commerce and the 
+                Federal Trade Commission, in coordination with the head 
+                of any other appropriate Federal agency, shall complete 
+                a study on the state of new and advanced materials 
+                industry, including synthetically derived or enhanced 
+                natural properties, and the impact of such industry on 
+                the United States economy.
+                    (B) Requirements for study.--In conducting the 
+                study, the Secretary and the Commission shall--
+                          (i) develop and 
+                      conduct a survey of the new and advanced materials 
+                      industry through outreach to participating 
+                      entities as appropriate to--
+                                    (I) establish a list of industry 
+                                sectors that implement and promote the 
+                                use of new and advanced materials;
+                                    (II) establish a list of public-
+                                private partnerships focused on 
+                                promoting the adoption and use of new 
+                                and advanced materials, as well as 
+                                industry-based bodies, including 
+                                international bodies, which have 
+                                developed, or are developing, mandatory 
+                                or voluntary standards for new and 
+                                advanced materials;
+                                    (III) the status of such industry-
+                                based mandatory or voluntary standards; 
+                                and
+                                    (IV) provide a description of the 
+                                ways entities or industry sectors 
+                                implement and promote the use of new and 
+                                advanced materials;
+                          (ii) develop a comprehensive 
+                      list of Federal agencies with jurisdiction over 
+                      the entities and industry sectors identified under 
+                      clause (i);
+                          (iii) identify which Federal agency or 
+                      agencies listed under clause (ii) each entity or 
+                      industry sector interacts with;
+                          (iv) identify all interagency activities that 
+                      are taking place among the Federal agencies listed 
+                      under clause (ii), such as working groups or other 
+                      coordinated efforts;
+                          (v) develop a brief description of the 
+                      jurisdiction and expertise of the Federal agencies 
+                      listed under clause (ii) with regard to such 
+                      entities and industry sectors;
+                          (vi) identify all regulations, guidelines, 
+                      mandatory standards, voluntary standards, and 
+                      other policies implemented by each of the Federal 
+                      agencies identified under clause (ii), as well as 
+                      all guidelines, mandatory standards, voluntary 
+                      standards, and other policies implemented by 
+                      industry-based bodies; and
+                          (vii) identify Federal Government resources 
+                      that exist for consumers and small businesses to 
+                      evaluate the use of new and advanced materials.            (2) Marketplace and supply chain survey.--The Secretary and 
+        Commission shall conduct a survey of the marketplace and supply 
+        chain of new and advanced materials to--
+                    (A) assess the severity of 
+                risks posed to such marketplace and supply chain;
+                    (B) review the ability of foreign 
+                governments or third parties to exploit the supply chain 
+                in a manner that raises risks to the economic and 
+                national security of the United States; and
+                    (C) identify emerging risks and long-term trends in 
+                such marketplace and supply chain.            (3) Report to 
+        congress.--Not later than 6 months after the completion of the 
+        study required pursuant to paragraph (1), the Secretary and the 
+        Commission shall submit to the Committee on Energy and Commerce 
+        and the Committee on Science, Space, and Technology of the House 
+        of Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate, and make publicly available on 
+        their respective websites, a report that contains--
+                    (A) the results of the study conducted pursuant to 
+                paragraph (1) and the survey conducted pursuant to 
+                paragraph (2); and
+                    (B) recommendations 
+                to--
+                          (i) grow the United States economy through the 
+                      secure advancement of new and advanced materials;
+                          (ii) develop a national strategy to advance 
+                      the United States business sectors' position in 
+                      the world on the adoption of new and advanced 
+                      materials;
+                          (iii) develop strategies to mitigate current 
+                      and emerging risks to the marketplace and supply 
+                      chain of new and advanced materials; and
+                          (iv) develop legislation that may advance the 
+                      expeditious adoption of new and advanced 
+                      materials.
+    (g) Study to Advance Unmanned Delivery Services.--
+            (1) In general.--
+                    (A) Study required.--Not later 
+                than 1 year after the date of enactment of this Act, the 
+                Secretary of Commerce, in coordination with the head of 
+                any other appropriate Federal agency, shall complete a 
+                study on the impact of unmanned delivery services on 
+                United States businesses conducting interstate commerce.
+                    (B) Requirements for study.--In conducting the 
+                study, the Secretary shall do the following:
+                          (i) Conduct a survey through outreach to 
+                      participating entities to--
+                                    (I) establish a 
+                                list of the industry sectors that 
+                                develop and use unmanned delivery 
+                                services, including the use of 
+                                autonomous vehicles, drones, and robots;
+                                    (II) review how 
+                                unmanned delivery services are currently 
+                                being used and any potential future 
+                                applications of such services;
+                                    (III) identify any challenges to the 
+                                development and adoption of unmanned 
+                                delivery services;
+                                    (IV) review how 
+                                such services may be used to--
+                                            (aa) deliver groceries, 
+                                        meals, medications, and other 
+                                        necessities to senior citizens, 
+                                        people with disabilities, and 
+                                        people without access to 
+                                        traditional public 
+                                        transportation;
+                                            (bb) address challenges 
+                                        public health emergencies 
+                                        present, including delivering 
+                                        groceries, meals, medications, 
+                                        medical supplies, and other 
+                                        necessities during such 
+                                        emergencies; and
+                                            (cc) any other potential use 
+                                        of such services;
+                                    (V) identify any safety risks 
+                                associated with the adoption of unmanned 
+                                delivery services on roads, in the air, 
+                                or other environments, including any 
+                                dangers posed to pedestrians, 
+                                bicyclists, motorcyclists, motorists, or 
+                                property;
+                                    (VI) identify the effect of unmanned 
+                                delivery services on traffic safety and 
+                                congestion;
+                                    (VII) 
+                                evaluate the extent to which software, 
+                                technology, and infrastructure behind 
+                                unmanned delivery services are developed 
+                                and manufactured in the United States;
+                                    (VIII) identify the number and types 
+                                of jobs that may be lost or 
+                                substantially changed due to the 
+                                development and adoption of unmanned 
+                                delivery services;
+                                    (IX) identify the number and types 
+                                of jobs that may be created due to the 
+                                development and adoption of unmanned 
+                                delivery services; and
+                                    (X) evaluate 
+                                the effect of the adoption unmanned 
+                                delivery services on job quality for 
+                                low, middle, and high-skilled workers.
+                          (ii) Develop and conduct a survey of Federal 
+                      activity related to unmanned delivery services 
+                      to--
+                                    (I) establish a list of Federal 
+                                agencies asserting jurisdiction over 
+                                industry sectors identified under clause 
+                                (i)(II);
+                                    (II) develop a brief description of 
+                                the jurisdiction and expertise of the 
+                                Federal agencies regarding unmanned 
+                                delivery services; and
+                                    (III) identify all interagency 
+                                activities regarding unmanned delivery 
+                                services.
+                          (iii) Conduct a survey of the marketplace and 
+                      supply chain of unmanned delivery services to--
+                                    (I) assess 
+                                the severity of risks posed to such 
+                                marketplace and supply chain;
+                                    (II) review the 
+                                ability of foreign governments or third 
+                                parties to exploit such supply chain in 
+                                a manner that raises risks to the 
+                                economic and national security of the 
+                                United States; and
+                                    (III) identify emerging risks and 
+                                long-term trends in such marketplace and 
+                                supply chain.                    (C) Report to congress.--Not later than 6 months 
+                after the completion of the study required pursuant to 
+                paragraph (1), the Secretary, in coordination with the 
+                head of any other appropriate Federal agency, shall submit to 
+                the Committee on Energy and Commerce and the Committee 
+                on Science, Space, and Technology of the House of 
+                Representatives, and the Committee on Commerce, Science, 
+                and Transportation of the Senate, and make publicly 
+                available on the website of the Department of Commerce, 
+                a report that contains--
+                          (i) the results of the study conducted under 
+                      paragraph (1); and
+                          (ii) 
+                      recommendations to--
+                                    (I) develop and implement a 
+                                comprehensive plan to promote the 
+                                development and adoption of unmanned 
+                                delivery services in the United States;
+                                    (II) develop policies that States 
+                                can adopt to encourage the development 
+                                and adoption of unmanned delivery 
+                                services;
+                                    (III) develop a national strategy to 
+                                advance the United States position in 
+                                the world on the development and 
+                                adoption of unmanned delivery services, 
+                                and manufacture of technology behind 
+                                unmanned delivery services;
+                                    (IV) develop strategies to mitigate 
+                                current and emerging risks to the 
+                                marketplace and supply chain of unmanned 
+                                delivery services; and
+                                    (V) develop legislation to 
+                                accomplish such recommendations.
+    (h) Study to Advance Internet of Things.--
+            (1) Study.--The Secretary of Commerce shall conduct a study 
+        on the state of the internet-connected devices industry 
+        (commonly known as the ``Internet of Things'') in the United 
+        States. In conducting the study, the Secretary shall--
+                    (A) develop and conduct a 
+                survey of the internet-connected devices industry 
+                through outreach to participating entities as 
+                appropriate, including--
+                          (i) a list of the industry sectors that 
+                      develop internet-connected devices;
+                          (ii) a list of public-private partnerships 
+                      focused on promoting the adoption and use of 
+                      internet-connected devices, as well as industry-
+                      based bodies, including international bodies, 
+                      which have developed, or are developing, mandatory 
+                      or voluntary standards for internet-connected 
+                      devices;
+                          (iii) the status of the industry-based 
+                      mandatory or voluntary standards identified in 
+                      clause (ii); and
+                          (iv) a description of the ways entities or 
+                      industry sectors develop, use, or promote the use 
+                      of internet-connected devices;
+                    (B) develop a comprehensive list of 
+                Federal agencies with jurisdiction over the entities and 
+                industry sectors identified under subparagraph (A);
+                    (C) identify which Federal agency or agencies listed 
+                under subparagraph (B) each entity or industry sector 
+                interacts with;
+                    (D) identify all interagency activities that are 
+                taking place among the Federal agencies listed under 
+                subparagraph (B), such as working groups or other 
+                coordinated efforts;
+                    (E) develop a brief description of the jurisdiction 
+                and expertise of the Federal agencies listed under 
+                subparagraph (B) with regard to such entities and 
+                industry sectors;
+                    (F) identify all regulations, guidelines, mandatory 
+                standards, voluntary standards, and other policies 
+                implemented by each of the Federal agencies identified 
+                under subparagraph (B), as well as all guidelines, 
+                mandatory standards, voluntary standards, and other 
+                policies implemented by industry-based bodies; and
+                    (G) identify Federal Government resources that exist 
+                for consumers and small businesses to evaluate internet-
+                connected devices.            (2) Report to 
+        congress.--Not later than 1 year after the date of enactment of 
+        this Act, the Secretary shall submit to the Committee on Energy 
+        and Commerce and the Committee on Science, Space, and Technology 
+        of the House of Representatives, and the Committee on Commerce, 
+        Science, and Transportation of the Senate, and make publicly 
+        available on the website of the Department of Commerce, a report 
+        that contains--
+                    (A) the results of the study conducted under 
+                paragraph (1); and
+                    (B) recommendations of 
+                the Secretary for growth of the United States economy 
+                through the secure advancement of internet-connected 
+                devices.
+            (3) Definitions.--In this subsection--
+                    (A) the term ``Federal agency'' means an agency, as 
+                defined in section 551 of title 5, United States Code; 
+                and
+                    (B) the term ``internet-connected device'' means a 
+                physical object that--
+                          (i) is capable of connecting to the internet, 
+                      either directly or indirectly through a network, 
+                      to communicate information at the direction of an 
+                      individual; and
+                          (ii) has computer processing capabilities for 
+                      collecting, sending, receiving, or analyzing data.
+    (i) Study to Advance Three-dimensional Printing.--
+            (1) In general.--
+                    (A) Study required.--Not later 
+                than 1 year after the date of enactment of this Act, the 
+                Secretary of Commerce, in coordination with the head of 
+                any other appropriate Federal agency, shall complete a 
+                study on the state of the three-dimensional printing 
+                industry and the impact of such industry on the United 
+                States economy.
+                    (B) Requirements for study.--In conducting the 
+                study, the Secretary shall--
+                          (i) develop and 
+                      conduct a survey of the three-dimensional printing 
+                      industry through outreach to participating 
+                      entities as appropriate to--
+                                    (I) establish a list of industry 
+                                sectors that implement and promote the 
+                                use of three-dimensional printing;
+                                    (II) establish a list of public-
+                                private partnerships focused on 
+                                promoting the adoption and use
+                                of three-dimensional printing, as well 
+                                as industry-based bodies, including 
+                                international bodies, which have 
+                                developed, or are developing, mandatory 
+                                or voluntary standards for three-
+                                dimensional printing;
+                                    (III) the status of such industry-
+                                based mandatory or voluntary standards; 
+                                and
+                                    (IV) provide a description of the 
+                                ways entities or industry sectors 
+                                implement and promote the use of three-
+                                dimensional printing;
+                          (ii) develop a comprehensive 
+                      list of Federal agencies with jurisdiction over 
+                      the entities and industry sectors identified under 
+                      clause (i);
+                          (iii) identify which Federal agency or 
+                      agencies listed under clause (ii) each entity or 
+                      industry sector interacts with;
+                          (iv) identify all interagency activities that 
+                      are taking place among the Federal agencies listed 
+                      under clause (ii), such as working groups or other 
+                      coordinated efforts;
+                          (v) develop a brief description of the 
+                      jurisdiction and expertise of the Federal agencies 
+                      listed under clause (ii) with regard to such 
+                      entities and industry sectors;
+                          (vi) identify all regulations, guidelines, 
+                      mandatory standards, voluntary standards, and 
+                      other policies implemented by each of the Federal 
+                      agencies identified under clause (ii), as well as 
+                      all guidelines, mandatory standards, voluntary 
+                      standards, and other policies implemented by 
+                      industry-based bodies; and
+                          (vii) identify Federal Government resources 
+                      that exist for consumers and small businesses to 
+                      evaluate the use of three-dimensional printing.
+            (2) Marketplace and supply chain survey.--The Secretary 
+        shall conduct a survey of the marketplace and supply chain of 
+        three-dimensional printing to--
+                    (A) assess the severity of 
+                risks posed to such marketplace and supply chain;
+                    (B) review the ability of foreign 
+                governments or third parties to exploit the supply chain 
+                in a manner that raises risks to the economic and 
+                national security of the United States; and
+                    (C) identify emerging risks and long-term trends in 
+                such marketplace and supply chain.
+            (3) Report to 
+        congress.--Not later than 6 months after the completion of the 
+        study required pursuant to paragraph (1), the Secretary shall 
+        submit to the Committee on Energy and Commerce and the Committee 
+        on Science, Space, and Technology of the House of 
+        Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate, and make publicly available on the 
+        website of the Department of Commerce, a report that contains--
+                    (A) the results of the study conducted pursuant to 
+                paragraph (1) and the survey conducted pursuant to 
+                paragraph (2); and
+                    (B) 
+                recommendations to--
+                          (i) grow the United States economy through the 
+                      secure advancement of three-dimensional printing;
+                          (ii) develop a national strategy to advance 
+                      the United States business sectors' position in 
+                      the world on the adoption of three-dimensional 
+                      printing;
+                          (iii) develop strategies to mitigate current 
+                      and emerging risks to the marketplace and supply 
+                      chain of three-dimensional printing; and
+                          (iv) develop legislation that may advance the 
+                      expeditious adoption of three-dimensional 
+                      printing.
+    (j) Study to Combat Online Harms Through Innovation.--
+            (1) In general.--
+                    (A) Study required.--Not later 
+                than 1 year after the date of enactment of this Act, the 
+                Federal Trade Commission shall conduct and complete a 
+                study on how artificial intelligence may be used to 
+                address the online harms described in subparagraph (B).
+                    (B) Requirements for study.--In conducting the 
+                study, the Commission shall consider whether and how 
+                artificial intelligence may be used to identify, remove, 
+                or take any other appropriate action necessary to 
+                address the following online harms:
+                          (i) Deceptive and fraudulent content intended 
+                      to scam or otherwise harm individuals, including 
+                      such practices directed at senior citizens.
+                          (ii) Manipulated content intended to mislead 
+                      individuals, including deepfake videos and fake 
+                      individual reviews.
+                          (iii) Website or mobile application interfaces 
+                      designed to intentionally mislead or exploit 
+                      individuals.
+                          (iv) Illegal content online, including the 
+                      illegal sale of opioids, child sexual exploitation 
+                      and abuse, revenge pornography, harassment, 
+                      cyberstalking, hate crimes, the glorification of 
+                      violence or gore, and incitement of violence.
+                          (v) Terrorist and violent extremists' abuse of 
+                      digital platforms, including the use of such 
+                      platforms to promote themselves, share propaganda, 
+                      and glorify real-world acts of violence.
+                          (vi) Disinformation campaigns coordinated by 
+                      inauthentic accounts or individuals to influence 
+                      United States elections.
+                          (vii) The sale of counterfeit products.
+            (2) <<NOTE: Public information. Web posting. Recommenda- 
+        tions.>>  Report to congress.--Not later than 6 months after the 
+        completion of the study required pursuant to paragraph (1), the 
+        Commission shall submit to the Committee on Energy and Commerce 
+        and the Committee on Science, Space, and Technology of the House 
+        of Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate, and make publicly available on its 
+        website, a report that contains--
+                    (A) the results of the study conducted under 
+                paragraph (1);
+                    (B) recommendations on how artificial intelligence 
+                may be used to address the online harms described in 
+                paragraph (1)(B);
+                    (C) recommendations on what reasonable policies, 
+                practices, and procedures may be implemented to utilize 
+                artificial intelligence to address such online harms; 
+                and
+                    (D) recommendations for any legislation that may 
+                advance the adoption and use of artificial intelligence 
+                to address such online harms.
+    (k) Combination of Studies Authorized.--The 
+Secretary of Commerce and the Federal Trade Commission, after notifying 
+the Committee on Energy and Commerce of the House of Representatives and 
+the Committee on Commerce, Science, and Transportation of the Senate, 
+may combine any of the studies required pursuant to this Act.
+
+    (l) Protection of National Security.--
+            (1) Information exempt from public disclosure.--Nothing in 
+        this Act shall be construed to require the disclosure of 
+        information, records, or reports that are exempt from public 
+        disclosure under section 552 of title 5, United States Code, or 
+        that may be withheld under section 552a of title 5, United 
+        States Code.
+            (2) Classified and certain other information.--Nothing in 
+        this Act shall be construed to require the publication, on a 
+        website or otherwise, of any report containing information that 
+        is classified, or the public release of which could have a 
+        harmful effect on national security.
+            (3) Form of reports to congress.--In the case of each report 
+        that is required by this Act to be submitted to a committee of 
+        Congress, such report shall be submitted in unclassified form, 
+        but may include a classified annex.
+            (4) Submission of reports to congressional intelligence 
+        committees.--In the case of each report that is required by this 
+        Act to be submitted to a committee of Congress, such report 
+        shall also be submitted to the Permanent Select Committee on 
+        Intelligence of the House of Representatives and the Select 
+        Committee on Intelligence of the Senate.
+
+    (m) Appropriations Required.--This Act is subject to appropriations 
+that may be available for the Department of Commerce or the Federal 
+Trade Commission, as applicable.

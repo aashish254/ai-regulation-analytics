@@ -1,0 +1,127 @@
+ H. R. 4235
+
+
+To direct the Secretary of Agriculture and the Secretary of the Interior to establish a wildfire technology testbed pilot program, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+June 21, 2023
+Mrs. Kim of California (for herself and Mr. Crow) introduced the following bill; which was referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To direct the Secretary of Agriculture and the Secretary of the Interior to establish a wildfire technology testbed pilot program, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Wildfire Technology Demonstration, Evaluation, Modernization, and Optimization Act” or the “Wildfire Technology DEMO Act”.
+
+ SEC. 2. PUBLIC-PRIVATE WILDFIRE TECHNOLOGY TESTBED PARTNERSHIP.
+
+
+(a) Definitions.—In this Act, the term:
+
+
+(1) COVERED AGENCY.—The term “covered agency” means—
+
+
+(A) each Federal land management agency (as such term is defined in the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801));
+
+
+(B) the National Oceanic and Atmospheric Administration;
+
+
+(C) the United States Fire Administration;
+
+
+(D) the Federal Emergency Management Agency;
+
+
+(E) the National Aeronautics and Space Administration;
+
+
+(F) the Bureau of Indian Affairs; and
+
+
+(G) any other Federal agency involved in wildfire response.
+
+
+(2) COVERED ENTITY.—The term “covered entity” means—
+
+
+(A) a private entity;
+
+
+(B) a nonprofit organization; or
+
+
+(C) an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
+
+
+(3) SECRETARIES.—The term “Secretaries” means the Secretary of Agriculture and the Secretary of the Interior, acting jointly.
+
+
+(4) TESTBED PILOT PROGRAM.—The term “Testbed Pilot Program” means the testbed pilot program developed under subsection (b).
+
+ (b) In General.—Not later than 60 days after the date of the enactment of this Act, the Secretaries, in coordination with the heads of the covered agencies, shall establish a testbed pilot program for new and innovative wildfire prevention, detection, communication, and mitigation technologies.
+
+
+(c) Functions.—In carrying out the Testbed Pilot Program, the Secretaries shall—
+
+
+(1) incorporate the Testbed Pilot Program into an existing interagency coordinating group on wildfires;
+
+
+(2) in consultation with the heads of covered agencies, identify key technology priority areas with respect to the deployment of wildfire prevention, detection, communication, and mitigation technologies, including—
+
+
+(A) hazardous fuels reduction treatments or activities;
+
+
+(B) dispatch communications;
+
+
+(C) remote sensing and tracking;
+
+
+(D) safety equipment; and
+
+
+(E) common operating pictures or operational dashboards; and
+
+
+(3) partner each covered entity selected to participate in the Testbed Pilot Program with the appropriate covered agency to coordinate real-time and on-the-ground testing of technology during wildland fire mitigation activities and training.
+
+
+(d) Applications.—To participate in the Testbed Pilot Program, a covered entity shall submit to the Secretaries an application at such time, in such manner, and containing such information as the Secretaries may require, which shall include a proposal to test technologies specific to key technology priority areas identified under subsection (c)(2).
+
+
+(e) Prioritization Of Emerging Technologies.—In selecting covered entities to participate in the Testbed Pilot Program, the Secretaries shall give priority to covered entities developing and applying emerging technologies, including artificial intelligence, quantum sensing, computing and quantum-hybrid applications, augmented reality, and 5G private networks and device-to-device communications supporting nomadic mesh networks, for wildfire mitigation.
+
+
+(f) Outreach.—The Secretaries, in coordination with the heads of covered agencies, shall make public the key technology priority areas identified under subsection (c)(2) and invite covered entities to apply to test and demonstrate their technologies to address those priority areas.
+
+
+(g) Reports And Recommendations.—Not later than 1 year after the date of the enactment of this Act, and each year thereafter for the duration of the Testbed Pilot Program, the Secretaries shall submit to the Committees on Agriculture, Natural Resources, and Science, Space, and Technology of the House of Representatives a report that includes the following with respect to the Testbed Pilot Program:
+
+
+(1) A list of participating covered entities.
+
+
+(2) A brief description of the technologies tested by such covered entities.
+
+
+(3) An estimate of the cost of acquiring the technology tested in the program and applying it at scale.
+
+
+(4) Outreach efforts by Federal agencies to covered entities developing wildfire technologies.
+
+
+(5) Assessments of, and recommendations relating to, new technologies with potential adoption and application at-scale in Federal land management agencies’ wildfire prevention, detection, communication, and mitigation efforts.
+
+
+(h) Termination.—The Testbed Pilot Program shall expire 4 years after the date of its establishment under subsection (b).

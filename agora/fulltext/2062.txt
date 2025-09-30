@@ -1,0 +1,164 @@
+Catalyzing the Responsible and Productive Use
+of Artificial Intelligence in Maryland State Government
+WHEREAS, Artificial intelligence (AI) is transforming society and work in myriad
+ways, and the pace of that change will continue to accelerate -
+unlocking new opportunities and risks for Maryland's residents,
+workers, and economy;
+WHEREAS, To meet the moment, the State must begin its work to ensure the use
+of AI in Maryland state government is responsible, ethical, beneficial,
+and trustworthy;
+WHEREAS, Maryland is home to a rich and growing AI ecosystem of academic,
+industry, government, and civil society experts, researchers, builders,
+organizers, and stakeholders;
+WHEREAS To foster an environment for innovation while respecting
+individuals, employees, and civil rights, as AI technologies are
+developed and evolve, they should be analyzed and monitored by
+government officials, industry experts, consumer protection
+advocates, and other stakeholders;
+WHEREAS Given the rapid rate of change in AI technologies and industry, the
+State must chart a principled yet adaptable, pragmatic path forward, so
+that the technology's benefits can be confidently harnessed on behalf
+of Marylanders and in service of our mission to Leave No One
+Behind; and
+WHEREAS, Leaders across Maryland government share a common interest in
+establishing effective AI governance, and are committed to working
+together to develop the legal and policy framework for its responsible
+use in the State.
+NOW, THEREFORE, I, WES MOORE, GOVERNOR OF THE STATE OF MARYLAND,
+BY VIRTUE OF THE AUTHORITY VESTED IN ME BY THE
+CONSTITUTION AND LAWS OF MARYLAND, HEREBY
+PROCLAIM THE FOLLOWING EXECUTIVE ORDER,
+EFFECTIVE IMMEDIATELY:
+A. Definitions. In this Executive Order, the following terms have the meaning indicated.
+1. The term "artificial intelligence" or "AI" has the meaning set forth in 15 U.S.C. §
+9401(3): a machine-based system that can, for a given set of human-defined
+objectives, make predictions, recommendations, or decisions influencing real or
+virtual environments. Artificial intelligence systems use machine- and humanbased inputs to perceive real and virtual environments; abstract such perceptions
+into models through analysis in an automated manner; and use model inference to
+formulate options for information or action.
+2. The term "generative AI" or "GenAI" refers to AI algorithms and models that can
+create new content, including audio, code, images, text, and video, based on the
+data they are trained on.
+B. Principles. Any use of AI in Maryland state agencies shall be rooted in the following.
+1. Fairness and equity.
+The State's use of AI must take into account the fact that AI systems can
+perpetuate harmful biases, and take stepsto mitigate those risks, in order to avoid
+discrimination or disparate impact to individuals or communities based on their
+race, color, ethnicity, sex, religion, age, ancestry or national origin, disability,
+veteran status, marital status, sexual orientation, gender identity, genetic
+information, or any other classification protected by law.
+2. Innovation.
+When used responsibly and in human-centered and mission-aligned ways, AI has
+the potential to be a tremendous force for good. The State commits to exploring
+ways AI can be leveraged to improve State services and resident outcomes.
+3. Privacy.
+Individuals' privacy rights should be preserved by design in the State's use of AI,
+while ensuring that data creation, collection, and processing are secure and in line
+with all applicable laws and regulations.
+4. Safety, security, and resiliency.
+AI presents new challenges and opportunities for ensuring the safety and security
+of Maryland residents, infrastructure, systems, and data. The State commits to
+adopting best practice guidelines and standards to surface and mitigate safety
+risks stemming from AI, while ensuring AI tools are resilient to threats.
+5. Validity and reliability.
+AI systems can change over time. The State should have mechanisms to ensure
+that these systems are working as intended, with accurate outputs and robust
+performance.
+6. Transparency, accountability, and explainability.
+The State's use of AI should be clearly and regularly documented and disclosed,
+in order to enable accountability. The outputs of AI systems in use by the State
+should be explainable and interpretable to oversight bodies and residents, with
+clear human oversight.
+C. Establishment of AI Subcabinet. To ensure these principles are at the root of all AI use by
+Maryland state government agencies, there is hereby established an AI Subcabinet of the
+Governor's Executive Council (the "AI Subcabinet").
+1. Purpose. The purpose of the AI Subcabinet isto:
+a. Promote the principles set forth in this executive order among all units of
+State government;
+b. Provide advice and recommendations to the Governor on matters related
+to AI; and
+c. Facilitate statewide coordination on the responsible, ethical, and
+productive use of AI, including by recommending approaches and State
+policies, setting objectives and priorities, structuring workstreams,
+establishing working groups, and building internal and external
+partnerships as needed.
+2. Membership. The AI Subcabinet shall include the following members.
+a. The Secretary of Information Technology;
+b. The Secretary of Budget and Management;
+c. The Secretary of General Services;
+d. The Secretary of Labor;
+e. The Secretary of Commerce;
+f. The Director of the Governor's Office of Homeland Security;
+g. The Chief Privacy Officer;
+h. The Chief Data Officer;
+1. The Senior Advisor for Responsible AI; and
+J. Any additional member of the Governor's Executive Council at the
+discretion of the Chair.
+3. Chair. The Secretary of the Department of Information Technology shall chair
+the AI Subcabinet.
+4. The AI Subcabinet may designate working groups from the members' agencies to
+assist in the performance of its duties.
+5. Each Executive Branch department and agency is hereby required, to the extent
+not inconsistent with law, to cooperate fully with the AI Subcabinet, and to
+furnish such assistance - including data, reports, or other information and
+assistance - on astimely a basis as is necessary to accomplish the purpose of the
+Executive Order.
+D. AI Action Plan. The AI Subcabinet shall develop and implement a comprehensive action
+plan that takes a phased approach to operationalizing the State's Al principles. The
+elements of this plan shall draw upon emerging and established guidance such as NIST's
+AI Risk Management Framework, while acknowledging that global best practices and
+standards in AI governance are still being formulated and evolving. It will include at a minimum:
+1. A path to establishing policies, processes, standards, contracts, and playbooks that
+ensure any AI tools procured by the State adhere to the AI principles.
+2. Developing an approach and timeline to embedding risk-based assessments for Al
+tools into state processes.
+3. Developing an approach and timeline to move towards continuous monitoring of
+AI tools, to ensure they continue to reflect the state's adopted values.
+4. An approach to conducting legal analyses on an ongoing basis to evaluate
+evolving AI impacts to existing laws, policies, and regulations, and any necessary
+changes therein.
+E. Promotion of AI Knowledge, Skills, and Talent in State Government. In order to upskill
+the state workforce and ensure access to needed AI talent, the AI Subcabinet shall:
+1. Find, evaluate, and offer training programs for state workers on the use of AI, and
+particularly Generative AI.
+2. Explore ways to provide external AI talent, such as in academic institutions or
+industry, an opportunity to serve Marylanders and State government agencies via
+targeted, short-term projects.
+F. Recommendations for Critical Domains.
+1. Over time, AI may have particular influence and impact on certain sectors of
+Maryland's economy, environment, and society. The AI Subcabinet shall oversee
+and coordinate efforts to study and provide recommendations to the Governor and
+the legislature for Maryland-specific approaches in the following critical domains:
+workforce, economic development, and security.
+a. Workforce: Potential impacts of AI on the Maryland workforce in the
+coming decade and responses - including opportunities to upskill the
+workforce - in collaboration, as appropriate, with external experts,
+workers, labor unions, business, and civil society.
+b. Economic development: Opportunities and approaches for AI to drive job
+and business creation and growth in Maryland.
+c. Security: Mapping emergent cyber and physical security and resiliency
+risks to Maryland infrastructure and residents stemming from AI, along
+with prioritized recommendations.
+2. The AI Subcabinet may determine, at its discretion, any additional sectorsthat
+will be identified and studied as critical domains.
+G. Identify AI Use Cases and Build Foundational Infrastructure.
+1. The Department of Information Technology shall evaluate relevant infrastructure
+to safely, securely, and efficiently test AI proofs of concept (PoCs) and pilots.
+2. The Department of General Services, in close consultation and partnership with
+the Department of Information Technology, shall create a repeatable playbook
+for running and procuring AI PoCs and pilots in compliance with applicable
+State laws, regulations, and policies.
+3. The Department of Information Technology, in consultation with the AI
+Subcabinet, will work with interested agencies to provide support in identifying
+and prioritizing use cases and executing PoCs/pilots for key areas in line with the
+Governor's priorities.
+H. Nothing in this Executive Order shall be construed to impair or otherwise affect the
+authority granted by law to an executive department or agency.
+I. This Executive Order shall be implemented in a manner that is consistent with all
+applicable statutes and regulations. Nothing in this Executive Order shall operate to
+contravene any State or federal law or to affect the State's receipt of federal funding.
+J. If any provision of this Executive Order is held invalid, or its application to a person,
+event or circumstances is held invalid by any court of competent jurisdiction, all other
+applications or provisions of the Executive Order shall remain in effect to the greatest
+extent possible without the invalid provision or application. To achieve this purpose, the
+provisions of this Executive Order are severable.

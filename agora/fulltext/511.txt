@@ -1,0 +1,86 @@
+H. R. 4913
+
+
+To establish in the National Oceanic and Atmospheric Administration a program to improve precipitation forecasts, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+July 26, 2023
+
+
+Mr. Jackson of North Carolina introduced the following bill; which was referred to the Committee on Science, Space, and Technology
+
+
+A BILL
+To establish in the National Oceanic and Atmospheric Administration a program to improve precipitation forecasts, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. ESTABLISHMENT OF NOAA PRECIPITATION FORECASTS PROGRAM.
+
+
+(a) Establishment.—There is established in the National Oceanic and Atmospheric Administration (NOAA) a program to improve precipitation forecasts (in this section referred to as the “program”).
+
+
+(b) Goal.—The goal of the program shall be to improve precipitation forecasts across all timescales through the research, development, and operational implementation of fully coupled Earth System Models. The program shall carry out the following:
+
+
+(1) Improve the understanding and prediction of precipitation extremes from a wide variety of weather systems and climate patterns.
+
+
+(2) Improve the development, production, management, assimilation, integration, availability, and curation of datasets for precipitation prediction.
+
+
+(3) Identify and improve observations and analyses necessary for precipitation prediction, including relating to water vapor, oceans, and boundary layers.
+
+
+(4) Utilize high performance computing and other technologies, as appropriate, to advance Earth System Models predictions skill of precipitation extreme phenomena, including atmospheric rivers, tropical cyclones, and winter storms across weather, subseasonal, and decadal timescales.
+
+
+(5) Advance understanding and modeling of precipitation processes key to improving models and precipitation forecasts from weather to subseasonal-to-seasonal (S2S) to seasonal-to-decadal (S2D) timescales.
+
+
+(6) Support research and development to improve the accuracy, reliability, and timeliness of precipitation prediction, in collaboration with academic and private sector partners to test and evaluate emerging technologies, including the use of machine learning and artificial intelligence.
+
+
+(7) Improve weather, subseasonal, seasonal, and decadal skill for precipitation forecasts through the use of emerging techniques and technologies.
+
+
+(8) Support research in social and behavioral sciences to improve precipitation forecast products and communication, in collaboration with the Director of the National Weather Service.
+
+
+(9) Lead the ongoing advancement of current and next-generation precipitation forecasting models.
+
+
+(10) Identify observational gaps, systematic errors, and model limitations in precipitation prediction systems.
+
+
+(11) Improve, expand, and sustain operational precipitation products and applications for decision support.
+
+
+(12) Coordinate across NOAA line offices to address priorities of the program.
+
+
+(13) Direct efforts to engage with Federal, State, local, Tribal, and academic entities and stakeholders, as appropriate, when conducting program activities.
+
+
+(14) Ensure adequate data management, access, and archive processes are in place to ensure data and metadata are findable, accessible, interoperable, and usable by the science community and public.(c) Updates.—The Administrator of NOAA shall revise and update, as necessary, the goals of the program at least once every two years. Such revisions and updates shall be incorporated into relevant NOAA strategic implementation plans as determined appropriate by the Administrator.
+
+
+(d) Authorization Of Appropriations.—There is authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this section the following:
+
+
+(1) $15,000,000 for fiscal year 2024.
+
+
+(2) $15,040,000 for fiscal year 2025.
+
+
+(3) $15,080,800 for fiscal year 2026.
+
+
+(4) $15,122,416 for fiscal year 2027.
+
+
+(5) $15,200,000 for fiscal year 2028.

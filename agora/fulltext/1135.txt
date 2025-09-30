@@ -1,0 +1,79 @@
+Measures have been formulated to fully implement the Implementation Plan for Accelerating the Development of a Globally Influential Artificial Intelligence Innovation Hub (2023-2025) in Beijing Municipality (hereinafter referred to as the Implementation Plan). These measures leverage government guidance and the dynamic force of innovation platforms. The primary objective is to promote innovation-based, rational, and sustainable growth of the Artificial General Intelligence (AGI) sector in Beijing. This will be achieved by integrating innovation resources, allocating developmental factors, creating a suitable environment for innovation, and emphasizing risk prevention.
+
+
+I. Boost Computing Power Resource Supply 
+
+
+1. Beijing shall take proactive measures to mobilize commercial computing resources, meeting the pressing requirements of the AGI sector. The Implementation Plan aims to foster closer cooperation with cloud service providers through the computing power partnership program, in order to provide the public with diverse computing power that is both high-quality and accessible.
+
+
+2. Beijing shall efficiently promote the construction of new computing power facilities. The Implementation Plan is set to efficiently promote the construction of relevant projects with the aim to help the city offer large-scale and advanced computing power. These projects include the Beijing AI Public Computing Power Center and Beijing Digital Economy Computing Power Center.
+
+
+3. Beijing shall establish an integrated multi-cloud computing power management platform. The Implementation Plan is dedicated to achieving integrated management and operations for a heterogeneous computing power ecosystem. To accomplish this objective, the Implementation Plan seeks to enhance the efficiency of the primary optical transport network linked to local computing clusters and strengthen the holistic management of computing power in the surrounding regions of Beijing.
+
+
+II. Increase High-quality Data Supply
+
+
+4. Beijing shall collect high-quality basic training datasets. The Implementation Plan aims to establish secure and accessible foundational training datasets that adhere to legal requirements. It also plans to develop high-quality pre-training Chinese corpora. Additionally, the Implementation Plan will facilitate the circulation and trading of data through legitimate data trading institutions.
+
+
+5. Beijing shall make plans to establish data training bases. The Implementation Plan efficiently creates a pilot demonstration zone for foundational data systems, while also expanding the scale and improving the quality of data annotation. Moreover, the Implementation Plan utilizes data contributions and model applications to explore collaborative opportunities in commercial contexts.
+
+
+6. Beijing aims to create a crowdsourcing service platform specifically designed for the fine-grained annotation of datasets. The Implementation Plan is actively establishing a crowdsourcing service platform for the fine-grained annotation of datasets. It also encourages professionals to contribute to the annotation efforts and develop platform incentive mechanisms.
+
+
+III. Create Large Models and Technological Systems for Orderly AGI Development
+
+
+7. Beijing shall delve into the exploration of innovative algorithms and technologies for developing large models. The Implementation Plan is committed to driving innovation in foundational data architecture and exploring advanced techniques for optimizing parameters in large models. This includes developing efficient parallel training technologies and cognitive reasoning methodologies. Additionally, the Implementation Plan provides extensive support for establishing an open-source technical ecosystem.
+
+
+8. Beijing shall strengthen research and development efforts in collecting training data and developing effective governance tools for large models. The Implementation Plan intends to establish comprehensive systems for data management platforms and actively foster the research and development of algorithms and tools across multiple domains. This includes areas such as data cleansing, labeling, classification, annotation, and content review.
+
+
+9. Beijing shall establish open service platforms dedicated to the evaluation of large models. The Implementation Plan plans to develop benchmarks and methodologies for evaluating basic models across multiple modalities and dimensions. Simultaneously, it will promote the research and development of evaluation algorithms and tools, aiming to establish open service platforms for automated model evaluation.
+
+
+10. Beijing shall establish fundamental software and hardware systems specifically designed for large models. The Implementation Plan aims to foster the advancement of distributed training systems, compilers, and automatic evaluation systems specifically designed for AI chips. Additionally, the Implementation Plan provides backing for ensuring fundamental software and hardware compatibility.
+
+
+11. Beijing shall pursue new paths to uncover the potential of AGI for further development. The Implementation Plan is committed to forging fundamental theoretical frameworks for AGI. Additionally, it will delve into new development paths within this realm, encompassing general intelligent agents, embodied intelligence, and brain-inspired intelligence.
+
+
+IV. Foster Innovative Technology Application for AGI
+
+
+12. Beijing shall promote the practical application of AGI technologies in government services. The Implementation Plan enhances Beijing's provision of tailored services and intelligent systems pertaining to government affairs, encompassing consultation, policy-related services, prompt responses to public demands, and streamlined government applications and procedures.
+
+
+13. Beijing shall explore the practical application of AGI technologies in medicine and healthcare. The Implementation Plan is dedicated to meeting the needs of the medical field, including intelligent medical service guidance, diagnosis assistance, and intelligent medical treatment. To accomplish this objective, the Implementation Plan will provide support for the advancement of intelligent applications that enhance diagnostics, treatment, disease prevention, and comprehensive disease management through increased intelligence.
+
+
+14. Beijing shall provide support for the practical application of AGI technologies in scientific research. The city will actively promote the scientific advancement of AGI, fostering research and development collaboration among relevant laboratories. It will enable the utilization of AI technologies to enhance scientific research in various sectors, including new materials and innovative drugs.
+
+
+15. Beijing shall support the practical application of AGI technologies in finance. The Implementation Plan will prioritize intelligent risk control, investment advisory services, and customer support as key areas for implementing projects under the "Open Competition Mechanism and Selection of the Best Projects" system. Additionally, the Implementation Plan fosters an environment that encourages financial institutions to disclose application scenarios.  
+
+
+16. Beijing shall explore the practical application of AGI technologies in autonomous driving. The city will provide assistance to the research and development of multi-modal sensor fusion technologies. It will also facilitate the sharing of autonomous driving datasets within cooperative vehicle-infrastructure systems, unlocking new possibilities for autonomous driving.
+
+
+17. Beijing shall foster the practical application of AGI technologies in urban governance. The Implementation Plan takes the lead in applying large models to drive urban brain development. The utilization of these advanced technologies will provide extensive support for decision-making in urban governance.
+
+
+V. Promote Inclusive and Prudential Supervision Systems
+
+
+18. Beijing shall maintain its focus on innovating regulatory policies and processes. The Implementation Plan will support innovation-driven entities in conducting technological advancements using secure and dependable tools and resources. Additionally, it facilitates pilot initiatives for inclusive and prudent supervision systems in the key regions of the Zhongguancun National Independent Innovation Demonstration Zone.
+
+
+19. Beijing shall establish regular mechanisms for service provision and guidance. The Implementation Plan provides regular contact services and offer guidance to innovation-driven entities, assisting them in strengthening security detection and ensuring the seamless progression of security assessment and algorithm filing procedures.
+
+
+20. Beijing shall strengthen security measures for network services and enhance the protection of personal data. The Implementation Plan enhances network and data security management by clarifying the responsibilities of relevant entities and strengthening security management systems. This comprehensive approach aims to improve network security and provide more robust protection for data security.
+
+
+21. Beijing shall maintain its focus on strengthening the management of principles and codes of conduct in scientific activities. The Implementation Plan establishes public service platforms dedicated to managing principles and codes of conduct in scientific activities. It will provide training sessions, including reviews, to foster a conducive environment for upholding principles and codes of conduct in scientific activities within the AI sector.

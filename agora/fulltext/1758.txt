@@ -1,0 +1,39 @@
+SEC. 221. Improvements relating to defining, identifying, and planning the artificial intelligence workforce of the Department of Defense.
+
+(a) Appointment of responsible official .--Section 230 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 10 U.S.C. note prec. 501) is amended by striking subsection (c) and inserting the following:
+
+"(c) Responsibility.--
+
+"(1) APPOINTMENT OF OFFICER.--Not later than April 30, 2025, the Secretary of Defense shall appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the 'Chief Digital Engineering Recruitment and Management Officer of the Department of Defense'.
+
+"(2) ADDITIONAL RESPONSIBILITIES.--In addition to the responsibilities specified in paragraph (1), the Officer appointed under such paragraph shall--
+
+"(A) fully define and identify the artificial intelligence workforce of the Department of Defense, including by--
+
+"(i) clarifying the roles and responsibilities of the artificial intelligence workforce and the relationship between the artificial intelligence workforce and the overall Department of Defense innovation workforce and digital workforce;
+
+"(ii) coding artificial intelligence workforce roles in workforce data systems; and
+
+"(iii) developing a qualification program for artificial intelligence workforce roles; and
+
+"(B) update the Department of Defense Human Capital Operating Plan to be consistent with the Strategic Management Plan of the Department and the Annual Performance Plan of the Department relating to artificial intelligence workforce issues, including--
+
+"(i) addressing the human capital implementation actions planned to support the strategic goals and priorities identified in the Agency Strategic Plan and Annual Performance Plan; and
+
+"(ii) ensuring the use of consistent artificial intelligence terminology.
+
+"(3) EXPIRATION OF APPOINTMENT.--The appointment of the Officer under paragraph (1) shall expire on September 30, 2030.".
+
+(b) Digital engineering implementation plan update.--Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes an update on any activities carried out in accordance with the implementation plan required under section 230(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 10 U.S.C. note prec. 501).
+
+(c) Briefing.--Not later than 240 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees a briefing on--
+
+(1) the positions included in the artificial intelligence workforce of the Department as of the date of the briefing;
+
+(2) any positions not identified under paragraph (1) that should be included in the artificial intelligence workforce of the Department;
+
+(3) which positions require Department of Defense personnel with artificial intelligence skills;
+
+(4) the current state of the artificial intelligence workforce of the Department as of the ate of the briefing; and
+
+(5) planned or proposed future requirements for the artificial intelligence workforce of the Department.

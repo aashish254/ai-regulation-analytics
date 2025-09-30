@@ -1,0 +1,100 @@
+A BILL
+To require the use of artificial intelligence to review agency regulations, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Leveraging Artificial Intelligence to Streamline the Code of Federal Regulations Act of 2025”.
+
+
+SEC. 2. Definitions.
+
+
+In this Act:
+
+
+(1) AGENCY.—The term “agency” has the meaning given that term in section 551 of title 5, United States Code.
+
+
+(2) ARTIFICIAL INTELLIGENCE SYSTEM.—The term “artificial intelligence system” means a machine-based system that, for an explicit or implicit objective, infers how to generate outputs, such as predictions, content, recommendations, or decisions that can influence physical or virtual environments, from the input the system receives.
+
+
+(3) REDUNDANT.—The term “redundant” means a regulation that duplicates, overlaps with, or serves the same purpose as another regulation, such that the elimination of the regulation would not result in a loss of essential information or regulatory function.
+
+
+(4) REGULATION.—The term “regulation” has the meaning given the term “rule” in section 551 of title 5, United States Code.
+
+
+(5) OUTDATED.—The term “outdated” means a regulation that has been superseded by more recent legislation, technological advances, or regulatory developments, rendering the regulation inapplicable or unenforceable.
+
+
+SEC. 3. Annual artificial intelligence review of the code of federal regulations.
+
+
+(a) In general.—Not later than 90 days after the date of enactment of this Act, and annually thereafter, the Director of the Office of Management and Budget, in consultation with the National Institute of Standards and Technology, shall implement a process for identifying redundant or outdated regulations in the Code of Federal Regulations using an artificial intelligence system.
+
+
+(b) Artificial intelligence system.—The process established under subsection (a) shall employ an artificial intelligence system that meets strict standards, as set out by the National Institute of Standards and Technology, for accuracy, transparency, accountability, and national security risk.
+
+
+(c) Review of process and artificial intelligence system.—Not less frequently than once per fiscal year, the Director of the Office of Management and Budget, in coordination with the head of the National Institute of Standards and Technology, shall review and, as appropriate, revise the process established under subsection (a) to ensure that—
+
+
+(1) the process is functioning properly and efficiently; and
+
+
+(2) the underlying artificial intelligence system involved in such process still meets the criteria under subsection (b).
+
+
+(d) Review of regulations.—
+
+
+(1) REFERRAL AND REVIEW.—A regulation that is identified as redundant or outdated using the process established under subsection (a) shall be immediately referred to the agency responsible for promulgating the regulation for review by that agency.
+
+
+(2) DETERMINATION.—
+(A) IN GENERAL.—Not later than 30 days after a regulation is referred to an agency under paragraph (1), personnel at that agency shall make a determination as to whether the regulation is outdated or redundant.
+(B) FINALITY OF DETERMINATION.—Any determination made under subparagraph (A) shall be final.
+
+
+(e) Rescission of regulations.—Not later than 30 days after the date on which a regulation has been determined to be redundant under subsection (d), the agency that promulgated the regulation shall rescind or remove such regulation from the Code of Federal Regulations, notwithstanding the requirements under subchapter II of chapter 5 of title 5, United States Code.
+
+
+(f) Amendment of regulations.—Not later than 30 days after the date on which a regulation has been determined to be outdated under subsection (d), the agency that promulgated the regulation shall—
+
+
+(1) amend the regulation, notwithstanding the requirements under subchapter II of chapter 5 of title 5, United States Code, for the purposes of bringing the outdated substance up to date; or
+
+
+(2) rescind or remove such regulation from the Code of Federal Regulations, notwithstanding the requirements under subchapter II of chapter 5 of title 5, United States Code.
+
+
+(g) Written determination.—
+
+
+(1) IN GENERAL.—Any determination made under subsection (d) shall be immediately published on the website of the relevant agency, including a brief written explanation of the determination, which shall be made publicly available.
+
+
+(2) CLASSIFIED ANNEX.—The head of the agency may, as necessary, submit a classified annex to Congress to supplement the explanation published under subsection (g).
+
+
+SEC. 4. Expedited rescission and amendment of redundant and outdated regulations.
+
+
+Section 553(b) of title 5, United States Code, is amended in the flush text at the end—
+
+
+(1) in subparagraph (A), by striking “or” at the end;
+
+
+(2) in subparagraph (B), by striking the period at the end and inserting “; or”; and
+
+
+(3) by adding at the end the following:
+
+
+“(C) a regulation determined to be redundant or outdated as part of the annual review of the Code of Federal Regulations under the Leveraging Artificial Intelligence to Streamline the Code of Federal Regulations Act of 2025.”.

@@ -1,0 +1,31 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Prohibition on information technology contracts with entities that provide certain services to China.
+
+(a) Prohibition.—The Secretary of Defense may not enter into, renew, or extend an information technology contract with an entity, including a parent, subsidiary, affiliate, or subcontractor (at any tier) of such an entity, that—
+
+(1) owns, operates, substantially funds, or has a material interest in a facility or research organization located on the mainland of the People’s Republic of China if such facility or research organization has a primary purpose, as determined by the Secretary, of researching or developing artificial intelligence;
+
+(2) has enabled a covered Chinese entity to access a source code of software to be used by or on behalf of the United States Government, if such contract is for such software;
+
+(3) provides software with a military or law enforcement application or a dual-use application to a covered Chinese entity; or
+
+(4) operates a data center (as such term is defined in section 453 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17112)) in the mainland of China, including a data center operated—
+
+(A) by a parent, subsidiary, or affiliate of an entity seeking to enter into, renew, or extend a contract with the Secretary; or
+
+(B) on behalf of such an entity by a covered Chinese entity.
+
+(b) Waiver authority.—The Secretary may waive the prohibition under this section for a contract if the Secretary determines such a waiver is necessary to advance the national security interests of the United States.
+
+(c) Applicability.—This section shall apply only with respect to contracts entered into, renewed, or extended within three years after the date of the enactment of this Act.
+
+(d) Definitions.—In this section:
+
+(1) The term “covered Chinese entity” means an entity that the Secretary of Defense, in consultation with the Director of National Intelligence or the Director of the Federal Bureau of Investigation, determines to be—
+
+(A) owned, controlled, directed, or subcontracted by, affiliated with, or otherwise connected to, the government of China, or a parent, subsidiary, or affiliate of such an entity; or
+
+(B) a subcontractor (at any tier) of the government of China.
+
+(2) The term “material interest” means a financial or other interest that the Secretary determines is significant enough to influence a decision or action of an individual.

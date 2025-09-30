@@ -1,0 +1,5 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “AI for National Security Act”.SEC. 2. DEPARTMENT OF DEFENSE ENTERPRISE-WIDE PROCUREMENT OF CYBER DATA PRODUCTS AND SERVICES.
+Section 1521 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 2224 note) is amended—
+(1) in subsection (a)(5), by inserting “, including the use of artificial intelligence-based endpoint security that prevents cyber attacks and does not require constant internet connectivity to function,” after “services”; and
+(2) in subsection (b), by inserting “, including by enhancing the security of the software supply chain of the Department” after “best interests of the Department”.

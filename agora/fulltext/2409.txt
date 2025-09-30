@@ -1,0 +1,8 @@
+SEC. 217. Report on wearable medical devices.
+Not later than 18 months after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a technology assessment of, and submit to Congress a report on, the capabilities and limitations of wearable medical devices used to support clinical decision-making. Such report shall include a description of—
+
+(1) the potential for such devices to accurately prescribe treatments;
+
+(2) an examination of the benefits and challenges of artificial intelligence to augment such capabilities; and
+
+(3) policy options to enhance the benefits and mitigate potential challenges of developing or using such devices.

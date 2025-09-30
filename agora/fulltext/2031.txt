@@ -1,0 +1,104 @@
+Overview: Data privacy and security are core values of our organization. To successfully provide a
+high quality of life for those that live, work, and play in Long Beach, it is critical that we build public
+trust through excellence in data privacy, data security, and community engagement. The following
+Data Privacy Guidelines assert the City’s core values on protecting the privacy and information
+security of our constituents. They are intended to provide a framework to help the City and partners
+incorporate privacy by design as we deploy new technologies and new services in Long Beach.
+Note: The California Consumer Protection Act (CCPA), which went into effect January 1, 2020,
+provides a set of consumer rights governing data collection requirements for businesses. It does not
+apply to public agencies at this time, though City vendors that meet CCPA eligibility requirements
+must comply. The City supports the intent behind the CCPA (and subsequent amendments such as
+the California Privacy Rights Act which passed in November 2020), and we strive to adhere to the
+guidelines below which are based upon CCPA requirements. The City is also required to comply with
+data transparency laws such as the California Public Records Act, which provides fundamental rights
+to the public to access government information.
+Key Terms:
+• Data privacy: The practices taken to govern the collection, protection, and sharing of personal
+and confidential information.
+• Smart city: A city that uses emerging technology and data to manage complex city
+operations, efficiently deliver services, and improve the quality of life.
+• Equity: When everyone can achieve their highest quality of life no matter their background.
+Often used in the context of race.
+• Personally identifiable information (PII): Data that can be used to distinguish or trace an
+individual’s identity, either alone or when combined with other personal data.
+• Algorithm: A process or set of rules that a computer needs to do to complete a task.
+• Artificial intelligence (AI): Machines that have the ability to “learn” and “problem solve.”
+• Data stewardship: The management and oversight of data to help provide individuals with
+high-quality data that is easily accessible in a consistent manner.
+Purpose: Every day, Long Beach residents, visitors, and business owners trade personal privacy for
+convenience. For example, a City app that allows you pay for parking with your phone could also
+transmit anonymized data to City officials to better manage demand for parking. As smart city
+technologies become more commonplace, the City and its vendors will inevitably collect data that if
+not managed properly may put certain communities and individuals at risk. These technologies aren’t
+inherently good or bad, however through their design and implementation, they can be exploited to
+do harm. In particular, underserved and marginalized communities face disproportionately negative
+impacts from misuse of data.
+The Data Privacy Guidelines are meant to augment – not replace - existing laws, rules, and
+regulations that apply to our technology projects and services. The City values privacy as an
+expectation and given right, and will advocate for our constituents to have greater control over the
+collection and use of their personal information.
+Methodology: The City’s Technology & Innovation Department worked closely with the resident-led
+Technology & Innovation Commission to develop the Data Privacy Guidelines. City staff and
+Commissioners led over 20 focus groups, workshops, and interviews with key community-based
+organizations and stakeholders. The Commission also developed a multi-lingual Data Privacy Survey,
+which yielded over 450 responses on residents’ data privacy preferences. 
+What’s Next: The Data Privacy Guidelines represent a first step towards operationalizing privacy in
+our City programs, technology projects, and services. Following the adoption of these Guidelines, the
+City will provide technical guidance to all City Departments and continue to work with appropriate
+City Commissions, Long Beach residents, and other local stakeholders to embed these guidelines
+within City policies, contracts, procedures, trainings, educational campaigns (for both City staff and
+Long Beach residents), software applications, and legacy systems.
+The City will advocate for state and federal legislation consistent with these Guidelines, and revisit
+and update these Guidelines on a recurring basis.
+Guidelines: The City of Long Beach and its partners will strive to uphold the following Data Privacy
+Guidelines:
+1. Long Beach will be publicly transparent and accountable in its collection and management
+practices of personal data, notwithstanding data requirements mandated by law. This
+pertains to both intended and potential uses of data, as well as data collection changes over
+time. The City will solicit individuals’ consent when their information is being collected and
+used. Information will be provided in non-technical language and in English, Spanish,
+Tagalog, and Khmer in compliance with the City’s Language Access Policy.
+2. Long Beach will work to provide participatory, responsive feedback channels for residents
+to inform the City’s data collection and usage practices, exercise privacy complaints, and
+ensure the City is held accountable to these Guidelines. The City will equitably educate
+communities on its data privacy practices and inform residents how and why the City may be
+using personal data.
+3. Long Beach will advance digital equity and prioritize the needs of marginalized
+communities on matters pertaining to data and information management. The City will enable
+underserved Long Beach communities to harness digital opportunities and will prioritize
+these same communities in providing access to data privacy protections.
+4. Long Beach will use data in an ethical and non-discriminatory manner to not reinforce
+existing racial biases and prejudiced decision-making. Emerging technology promises many
+benefits, but may exclude, harm, and even criminalize already marginalized populations if not
+carefully managed.
+a. Long Beach will leverage a racial equity lens to examine the burdens, benefits, and
+unintended consequences of data collected for technology projects and applications.
+The City will practice data integrity and use data for stated and public purposes.
+b. Long Beach will never sell, or permit vendors to sell, personally identifiable
+information (PII) data to third parties and will only use collected data to serve the
+public good and to bring value to our communities. Long Beach will limit collection
+and sharing of personal data for only purposes which are directly relevant and
+necessary to accomplish a clearly-communicated purpose. This extends to data
+sharing between third parties. Long Beach will never share PII data with independent
+third parties without first soliciting individuals’ consent unless we are legally required
+to do so in connection with law enforcement investigations, mandatory contractual
+obligations, Public Records Act (PRA) requirements, or other legal proceedings. In
+these cases where the City must disclose PII as required by law, Long Beach will 
+work to provide notice to affected individuals where possible unless doing so
+compromises a law enforcement investigation.
+c. Long Beach will ensure human review of decision frameworks made by algorithms
+and AI. Algorithmic and artificial intelligence (AI) technology is increasingly complex
+and mysterious. The City will use evidence-based practices to evaluate potentially
+discriminatory consequences of this technology and require human involvement on
+any decision-making schemas and training input that are informed by outcomes of AI,
+machine learning algorithms, and related technology.
+5. Long Beach will practice ethical data stewardship throughout the data lifecycle to
+minimize misuse of personal data.
+a. Long Beach will anonymize, deidentify, and/or aggregate personal information for
+any City purposes when access to individual records is not expressly needed.
+b. Long Beach will work to ensure residents can access and correct their personal
+data and provide individuals with the ability to opt out of data collection (without
+jeopardizing City service quality) when it is not required for a City service.
+c. Long Beach will securely retain and store data only as long as it is needed and in a
+manner that is consistent with both applicable laws and the context in which it was
+collected.

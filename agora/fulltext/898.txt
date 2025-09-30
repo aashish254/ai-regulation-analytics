@@ -1,0 +1,122 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “National Patient Safety Board Act of 2024”.SEC. 2. NATIONAL PATIENT SAFETY BOARD.
+(a) Establishment.—For the purpose of preventing and reducing patient safety events, there is hereby established, within the Office of the Secretary of Health and Human Services, an independent board, to be known as the National Patient Safety Board (in this section referred to as the “Board”).(b) Duties.—
+(1) IN GENERAL.—For the purpose stated in subsection (a), the Board shall—
+(A) support Federal departments and agencies in monitoring and anticipating patient safety events;
+(B) provide expertise to study the context and causes of patient safety events and prevented patient safety events; and
+(C) formulate recommendations and solutions to prevent patient safety events from occurring.
+(2) AUTHORITY.—The Board shall have the sole authority to—
+(A) request changes to, or approve, the patient safety measures and solutions recommended by the Patient Safety Research and Development Division under subsection (g);
+(B) review each report transmitted to the Board under subsection (g)(7) and based on such review require the Director of such Division—
+(i) to conduct further studies; or
+(ii) to make revisions to the report; and
+(C) make any such report publicly available.
+(3) TIMELINE FOR PUBLIC AVAILABILITY.—The Board shall ensure that each report transmitted to the Board under subsection (g)(7) is made publicly available not later than one year after commencement of the study that is the subject of the report.
+(4) ANNUAL AUDIT.—The Board shall undergo an annual audit.
+(5) ANNUAL REPORTS TO CONGRESS.—
+(A) SUBMISSION.—The Chair of the Board shall submit annual reports to the Congress on the progress of the Board in achieving the purpose stated in subsection (a).
+(B) CONTENTS.—Each annual report under subparagraph (A) shall include—
+(i) input from the director of each division of the Board;
+(ii) detailed solutions;
+(iii) unaddressed needs; and
+(iv) any other information determined by the Chair of the Board to be relevant to achieving the purpose stated in subsection (a).(c) Hearings; Reports.—
+(1) IN GENERAL.—The Board may, for the purpose of carrying out this Act, hold hearings, take testimony, receive evidence, and issue such reports as the Board considers appropriate.
+(2) NO INDIVIDUALLY IDENTIFIABLE INFORMATION IN PUBLICATIONS.—The Board (including any division, subdivision, or other component thereof) shall not include in any report or other publication information that can be used to identify any patient, health care provider, or health care setting.(d) Membership.—
+(1) IN GENERAL.—The Board shall be composed of 5 members—
+(A) each appointed by the President; and
+(B) each appointed for a term of 5 years, with the option to remain on the Board until another person is appointed to fill the position.
+(2) STAGGERED TERMS.—Notwithstanding paragraph (1)(B), of the initial 5 members of the Board—
+(A) 2 shall be appointed for a term of 3 years; and
+(B) 3 shall be appointed for a term of 5 years.
+(3) QUALIFICATIONS.—Of the 5 members of the Board—
+(A) at least 3 shall have expertise specifically in patient safety, or have demonstrated experience in increasing the safety of systems in complex, high-risk industries; and
+(B) at least 2 shall represent individuals who have experienced a patient safety event, or who have a family member who experienced a patient safety event.
+(4) CONFLICTS OF INTEREST.—Each member of the Board shall abide by all relevant conflict of interest policies.
+(5) CHAIR; VICE CHAIR.—The Board shall have a Chair and Vice Chair who shall each—
+(A) be designated by the President, in consultation with the Senate, from among the members of the Board appointed under paragraph (1);
+(B) serve for a 3-year term; and
+(C) have demonstrated complex, high-risk experience in patient safety.(e) Staffing.—The Chair of the Board may appoint such personnel as the Chair considers appropriate to carry out this section.
+(f) Organization.—The Board shall have—
+(1) an Office of the Chair of the Board;
+(2) a Patient Safety Research and Development Division, to be headed by a director appointed by the Board;
+(3) a Study Division, to be headed by a director appointed by the Board; and
+(4) an Administrative Division, to be headed by a director appointed by the Board.(g) Patient Safety Research And Development Division.—
+(1) HEALTH CARE SAFETY TEAM.—
+(A) IN GENERAL.—For the purpose stated in subsection (a), the Director of the Patient Safety Research and Development Division shall establish and maintain a public-private team (in this section referred to as the “Health Care Safety Team”) to identify, develop, review, update, prioritize, and recommend patient safety event measures and solutions, based on the precursors and causes of patient safety events, for the Board’s approval.
+(B) DATA SOURCES.—For each patient safety event measure and solution recommended under subparagraph (A), the Health Care Safety Team shall identify the data sources used, including survey data, electronic health records data, claims data, health information exchange data, and reports of patient safety events.
+(C) PATIENT SAFETY DATA TECHNOLOGIES.—The Health Care Safety Team shall recommend to public and private entities patient safety data surveillance technologies and specifications with the ability to identify and anticipate the patient safety measures and solutions.
+(D) MEMBERSHIP.—The membership of the Health Care Safety Team shall include—
+(i) representatives with demonstrated patient safety expertise from the following Federal agencies: the Agency for Healthcare Research and Quality, the Centers for Disease Control and Prevention, the Centers for Medicare & Medicaid, the Department of Veterans Affairs, the Office of the National Coordinator for Health Information Technology, the Indian Health Service, the Office of Minority Health of the Department of Health and Human Services, the Health Resources and Services Administration, the Substance Abuse and Mental Health Services Administration, the Food and Drug Administration, the National Institutes of Health, and the United States Preventive Services Task Force; and
+(ii) representatives of the private sector with demonstrated patient safety expertise, representing providers, including organized labor, health care organizations, patients, families, caregivers, payors, suppliers, vendors, manufacturers, measurement developers, and data technology experts.
+(2) OBTAINING OFFICIAL DATA.—To carry out the data analysis under paragraph (5), the Director of the Patient Safety Research and Development Division may secure directly from any office or agency of the Department of Health and Human Services or the Department of Veterans Affairs longitudinal, real-time, de-identified patient-level data relating to patient safety event measures and solutions. Upon request of the Director of the Patient Research and Development Division, the head of the respective office or agency shall furnish such data to the Director. The Director shall maintain and use such data consistent with applicable privacy and confidentiality law.
+(3) WEBSITE OR SYSTEM.—The Director of the Patient Safety Research and Development Division shall create and maintain a website or system, to be known as the Patient Safety Reporting System, that can be used by patients, health care providers, nonclinical staff, or any other person—
+(A) to report patient safety events to the Division, anonymously or not; and
+(B) to receive a response to any such report from the Board.
+(4) DATA ACCESS PORTAL.—The Director of the Patient Safety Research and Development Division shall—
+(A) enter into agreements with public and private entities, including at the State and local levels, to enable such entities to opt into allowing the Division to access their longitudinal, real-time, de-identified patient-level data relating to patient safety event measures and solutions;
+(B) maintain a data access portal to enable such entities to submit such data to the Division; and
+(C) maintain and use such data, consistent with applicable privacy and confidentiality law, including—
+(i) the Federal Information Security Management Act of 2002 (6 U.S.C. 511 et seq.);
+(ii) the Risk Management Framework and Artificial Intelligence Risk Management Framework of the National Institute of Standards and Technology;
+(iii) HIPAA privacy and security law (as defined in section 3009(a)(2) of the Public Health Service Act (42 U.S.C. 300jj–19(a)(2))); and
+(iv) the Blueprint for an AI Bill of Rights of the White House Office of Science Technology Policy.
+(5) ANALYZING DATA.—The Director of the Patient Safety Event Research and Development Division shall—
+(A) aggregate and analyze the patient-level data collected in accordance with this section to anticipate and identify patient safety events, including the precursors to and outcomes of patient safety events; and
+(B) analyze such patient-level data by race, ethnicity, gender, facility, age, social factors, and location to identify disparities in patient safety events.
+(6) MONITORING.—The Director of the Patient Safety Research and Development Division shall—
+(A) submit to the Health Care Safety Team bimonthly briefs on patient safety event surveillance; and
+(B) prompt the Study Division to conduct a study in accordance with subsection (h)(3) when any of the following types of findings are identified in a geographic area or health care organization:
+(i) The most frequently occurring major sources of patient safety events.
+(ii) Abnormal patterns of patient safety events.
+(iii) Unexpectedly low numbers of patient safety events.
+(iv) Persistent patterns of injury or harm.
+(v) Emergent risks of patient safety events.
+(vi) Racial, ethnic, social, gender, or geographic disparities.
+(vii) Unaddressed reoccurring patient safety events.
+(7) RECOMMENDING SOLUTIONS.—The Director of the Patient Safety Research and Development Division shall—
+(A) work with the Health Care Safety Team to identify, develop, review, update, prioritize, and recommend patient safety event measures and solutions, based on the precursors and causes of patient safety events, for the Board’s approval;
+(B) include the resulting recommendations in a report for the Board; and
+(C) transmit such report to the Board, together with the relevant report of the Study Division under subsection (h)(4) regarding probable precursors, causes, and outcomes.(h) Study Division.—
+(1) IN GENERAL.—The Director of the Study Division may conduct or support studies with respect to patient safety events.
+(2) DATA SHARING.—
+(A) REQUEST.—In conducting or supporting a study under paragraph (1), the Director of the Study Division may request from the Director of the Patient Safety Research and Development Division such information as may be collected by the Patient Safety Research and Development Division and relevant to the study.
+(B) SHARING.—Upon receipt of such a request, the Director of the Patient Safety Research and Development Division shall share such information with the Director of the Study Division.
+(3) STUDY REQUIREMENTS.—In conducting or supporting a study under paragraph (1):
+(A) STUDY LEAD.—The Director of the Study Division shall—
+(i) appoint an individual to serve as the person in charge of the study (in this paragraph referred to as the “Study Lead”); and
+(ii) vest such person with authority to determine the appropriate type of study, assemble a study team of experts, and identify the study site or sites.
+(B) STUDY TEAM.—The Study Lead shall—
+(i) assemble a team of multidisciplinary experts to conduct the study;
+(ii) include in such team—
+(I) individuals with the ability to study and understand the interaction of human abilities, expectations, and limitations with work environments, technologies, and system design; and
+(II) other appropriate experts from the public and private sectors;
+(iii) prohibit such team from releasing information obtained during the study prior to the public release of such information by the Board; and
+(iv) ensure that such team receives permission from each health care organization involved to—
+(I) enter health care facilities participating in the study; and
+(II) communicate with staff, health care providers, patients, vendors, suppliers, contractors, equipment manufacturers, and members of the Board.
+(C) APPROPRIATE TYPE OF STUDY.—The Director of the Study Division shall—
+(i) create guidelines and criteria to determine the appropriate type of study to be conducted or supported, including whether the study should be virtual, in-person, or a special board of inquiry; and
+(ii) in creating such guidelines and criteria, take into account the impact of the patient safety events to be studied, whether such patient safety events may indicate a systemic risk, and what may potentially be learned from the study.
+(D) NOVEL INFECTION AND EMERGING PANDEMICS.—In the case of a novel infection and emerging pandemic, the Director of the Study Division, in coordination with the Director of the Centers for Disease Control and Prevention, may establish a special board of inquiry—
+(i) to provide independent recommendations on a coordinated national preparedness and response plan;
+(ii) to independently monitor the implementation of the preparedness and response plan; and
+(iii) to recommend technologies to support logistics and autonomous real-time research to inform evidence-based treatment options and decisions.
+(4) REPORTING.—The Director of the Study Division shall—
+(A) provide for the submission to the Board and the Patient Safety Research and Development Division of—
+(i) at least one progress report on each study under this subsection over the course of the study; and
+(ii) a final report upon the conclusion of the study to inform the Patient Safety Research and Development Division’s recommendations and solutions to prevent patient safety events; and
+(B) include in a final report under subparagraph (A)(ii) factual information and analysis regarding the probable precursors, causes, and outcomes of the factors that prompted the study of the patient safety events.
+(5) RESPONSE BY SECRETARY.—Not later than 90 days after the submission of a final report under subsection (g)(7)(C), the Secretary of Health and Human Services and the Secretary of Veterans Affairs shall publish a response to the recommendations in such report.(i) Administrative Division.—The Director of the Administrative Division shall support the day-to-day activities of the Board, including with respect to communications, facility coordination, shipping and receiving, supply inventory, labor relations, and human resource management.(j) Nonpunitive Restrictions.—
+(1) INADMISSIBILITY AS EVIDENCE.—
+(A) IN GENERAL.—Any report or other publication of the Board (including any division, subdivision, or other component thereof) shall not be admissible as evidence of individual or organizational liability in a civil action for damages resulting from the events mentioned in the report.
+(B) SPECIAL RULE.—Subparagraph (A) does not apply with respect to data collected or housed outside of the Board.
+(2) STANDARDS OF CARE.—Nothing in this section shall be construed to prohibit the use of reports, recommendations, or publications of the Board to develop or inform standards of care.
+(3) USE OF INFORMATION BY HHS.—The Department of Health and Human Services shall not use data, reports, publications, or work product of the Board to impose, implement, or enforce any disciplinary or other punitive measure with respect to a health care provider.
+(4) LIMITATION ON AUTHORITY.—The Board and any study team of experts assembled under subsection (h)(3)(A)(ii) shall not have authority to determine the rights or liabilities of any person with respect to adverse patient safety events.(k) Protections For Employees.—Cooperation by an employee with the Board shall be treated as an activity for which the employee may not be discharged or discriminated against under section 40 of the Consumer Product Safety Act (15 U.S.C. 2087).
+(l) Definitions.—In this section:(1) The term “health care setting” means a hospital, nursing facility, comprehensive outpatient rehabilitation facility, home health agency, hospice program, renal dialysis facility, ambulatory surgical center, pharmacy, physician or other health care practitioner's office, long-term care facility, mental health treatment facility, substance use disorder treatment facility, clinical laboratory, health center, urgent care center, wound clinic, emergency room, or any other setting in which health care is delivered.
+(2) The term “patient safety event” means an action, interaction, inaction, condition, or outbreak occurring in a health care setting or as part of health care treatment that—
+(A) leads to patient injury, harm, or death;
+(B) could lead to—
+(i) patient injury, harm, or death; or
+(ii) a precursor or potential precursor to patient injury, harm, or death; or
+(C) could have harmed the patient but did not cause harm as a result of chance, prevention, mitigation, or other factors.

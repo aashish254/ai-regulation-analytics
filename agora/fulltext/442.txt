@@ -1,0 +1,53 @@
+S. 1626
+
+
+To require the Federal Communications Commission, in consultation with the Federal Trade Commission, to issue rules prohibiting entities from offering minor consumers artificial intelligence features in the products of those entities without parental consent, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+May 16, 2023
+
+
+Mr. Scott of Florida introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To require the Federal Communications Commission, in consultation with the Federal Trade Commission, to issue rules prohibiting entities from offering minor consumers artificial intelligence features in the products of those entities without parental consent, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “AI Shield for Kids Act” or the “ASK Act”.
+
+
+SEC. 2. ISSUANCE OF RULES.
+
+
+(a) Definitions.—In this section:
+
+
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 2358 note).
+
+
+(2) MINOR.—The term “minor” means an individual who is younger than 18 years of age.
+
+
+(3) PRODUCT.—The term “product” includes a program, service, application, or other product.
+
+
+(4) USER.—The term “user” means an individual who is a user or customer with respect to a product offered or operated by an entity.(b) Issuance Of Rules.—Not later than 180 days after the date of enactment of this Act, the Federal Communications Commission, in consultation with the Federal Trade Commission, shall issue rules that provide that, with respect to any product offered or operated by an entity—
+
+
+(1) the entity may not offer to a minor user of the product any artificial intelligence feature, including an artificial intelligence chat feature, as part of the product unless a parent or guardian of the minor user affirmatively grants consent to accept that artificial intelligence feature on behalf of the minor user;
+
+
+(2) after granting consent under paragraph (1), a parent or guardian of the applicable minor user may revoke that consent at any time; and
+
+
+(3) with respect to the revocation of consent under paragraph (2), the entity may not charge the parent or guardian revoking consent a fee for the removal by the entity of the applicable artificial intelligence feature.
+
+
+(c) Violations.—A violation of a rule issued under subsection (b) shall be considered to be a violation of the Communications Act of 1934 (47 U.S.C. 151 et seq.) or a rule issued under that Act.

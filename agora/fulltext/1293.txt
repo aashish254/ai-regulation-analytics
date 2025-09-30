@@ -1,0 +1,93 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act” or the “TAKE IT DOWN Act”.
+SEC. 2. CRIMINAL PROHIBITION ON INTENTIONAL DISCLOSURE OF NONCONSENSUAL INTIMATE VISUAL DEPICTIONS.
+(a) In General.—Section 223 of the Communications Act of 1934 (47 U.S.C. 223) is amended—
+(1) by redesignating subsection (h) as subsection (i); and
+(2) by inserting after subsection (g) the following:
+“(h) Intentional Disclosure Of Nonconsensual Intimate Visual Depictions.—
+“(1) DEFINITIONS.—In this subsection:
+“(A) CONSENT.—The term ‘consent’ means an affirmative, conscious, and voluntary authorization made by an individual free from force, fraud, duress, misrepresentation, or coercion.
+“(B) DEEPFAKE.—The term ‘deepfake’ means a video or image that is generated or substantially modified using machine-learning techniques or any other computer-generated or machine-generated means to falsely depict an individual’s appearance or conduct within an intimate visual depiction.
+“(C) IDENTIFIABLE INDIVIDUAL.—
+“(i) IN GENERAL.—The term ‘identifiable individual’ means an individual—
+“(I) who appears in whole or in part in an intimate visual depiction; and
+“(II) whose face, likeness, or other distinguishing characteristic (including a unique birthmark or other recognizable feature) is displayed in connection with such intimate visual depiction.
+“(ii) APPEARS.—For purposes of clause (i), an individual appears in an intimate visual depiction if—
+“(I) the individual is actually the individual identified in the intimate visual depiction; or
+“(II) a deepfake of the individual is used to realistically depict the individual such that a reasonable person would believe the individual is actually depicted in the intimate visual depiction.
+“(D) INTERACTIVE COMPUTER SERVICE.—The term ‘interactive computer service’ has the meaning given the term in section 230.
+“(E) INTIMATE VISUAL DEPICTION.—The term ‘intimate visual depiction’ has the meaning given such term in section 1309 of the Consolidated Appropriations Act, 2022 (15 U.S.C. 6851).
+“(F) MINOR.—The term ‘minor’ means any individual under the age of 18 years.
+“(2) OFFENSE.—
+“(A) INVOLVING ADULTS.—Except as provided in subparagraph (C), it shall be unlawful for any person, in interstate or foreign commerce, to use an interactive computer service to knowingly publish an intimate visual depiction of an identifiable individual who is not a minor if—
+“(i) the intimate visual depiction was obtained or created under circumstances in which the person knew or reasonably should have known the identifiable individual had a reasonable expectation of privacy;
+“(ii) what is depicted was not voluntarily exposed by the identifiable individual in a public or commercial setting;
+“(iii) what is depicted is not a matter of public concern; and
+“(iv) publication of the intimate visual depiction—
+“(I) is intended to cause harm; or
+“(II) causes harm, including psychological, financial, or reputational harm, to the identifiable individual.
+“(B) INVOLVING MINORS.—Except as provided in subparagraph (C), it shall be unlawful for any person, in interstate or foreign commerce, to use an interactive computer service to knowingly publish an intimate visual depiction of an identifiable individual who is a minor with intent to—
+“(i) abuse, humiliate, harass, or degrade the minor; or
+“(ii) arouse or gratify the sexual desire of any person.
+“(C) EXCEPTIONS.—Subparagraphs (A) and (B) shall not apply to—
+“(i) a lawfully authorized investigative, protective, or intelligence activity of—
+“(I) a law enforcement agency of the United States, a State, or a political subdivision of a State; or
+“(II) an intelligence agency of the United States;
+“(ii) a disclosure made reasonably and in good faith—
+“(I) to a law enforcement officer or agency;
+“(II) as part of a document production or filing associated with a legal proceeding;
+“(III) as part of medical education, diagnosis, or treatment or for a legitimate medical, scientific, or education purpose; or
+“(IV) in the reporting of unlawful content or unsolicited or unwelcome conduct or in pursuance of a legal, professional, or other lawful obligation; or
+“(V) to seek support or help with respect to the receipt of an unsolicited intimate visual depiction;
+“(iii) a disclosure reasonably intended to assist the identifiable individual; or
+“(iv) a person who possesses or publishes an intimate visual depiction of himself or herself engaged in nudity or sexually explicit conduct (as that term is defined in section 2256(2)(A) of title 18, United States Code).
+“(3) PENALTIES.—
+“(A) OFFENSES INVOLVING ADULTS.—Any person who violates paragraph (2)(A) shall be fined under title 18, United States Code, imprisoned not more than 2 years, or both.
+“(B) OFFENSES INVOLVING MINORS.—Any person who violates paragraph (2)(B) shall be fined under title 18, United States Code, imprisoned not more than 3 years, or both.
+“(4) RULES OF CONSTRUCTION.—For purposes of paragraph (2)—
+“(A) the fact that the identifiable individual provided consent for the creation of the intimate visual depiction shall not establish that the individual provided consent for the publication of the intimate visual depiction; and
+“(B) the fact that the identifiable individual disclosed the intimate visual depiction to another individual shall not establish that the identifiable individual provided consent for the publication of the intimate visual depiction by the person alleged to have violated paragraph (2).
+“(5) THREATS.—Any person who intentionally threatens to commit an offense under paragraph (2) for the purpose of intimidation, coercion, extortion, or to create mental distress shall be punished as provided in paragraph (3).
+“(6) FORFEITURE.—
+“(A) IN GENERAL.—The court, in imposing a sentence on any person convicted of a violation of subparagraph (2), shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that the person forfeit to the United States—
+“(i) any material distributed in violation of that paragraph;
+“(ii) the person’s interest in property, real or personal, constituting or derived from any gross proceeds of the violation, or any property traceable to such property, obtained or retained directly or indirectly as a result of the violation; and
+“(iii) any personal property of the person used, or intended to be used, in any manner or part, to commit or to facilitate the commission of the violation.
+“(B) PROCEDURES.—Section 413 of the Controlled Substances Act (21 U.S.C. 853), with the exception of subsections (a) and (d), shall apply to the criminal forfeiture of property under subparagraph (A).
+“(7) RESTITUTION.—The court shall order restitution for an offense under paragraph (2) in the same manner as under section 2264 of title 18, United States Code.”.
+(b) Defenses.—Section 223(e)(1) of the Communications Act of 1934 (47 U.S.C. 223(e)(1)) is amended by striking “or (d)” and inserting “, (d), or (h)”.
+(c) Technical And Conforming Amendment.—Subsection (i) of section 223 of the Communications Act of 1934 (47 U.S.C. 223), as so redesignated by subsection (a), is amended by inserting “Definitions.—” before “For purposes of this section”.SEC. 3. NOTICE AND REMOVAL OF NONCONSENSUAL INTIMATE VISUAL DEPICTIONS.
+(a) In General.—
+(1) NOTICE AND REMOVAL PROCESS.—
+(A) ESTABLISHMENT.—Not later than 1 year after the date of enactment of this Act, a covered platform shall establish a process whereby an identifiable individual (or an authorized representative of such individual) may—
+(i) notify the covered platform of an intimate visual depiction published on the covered platform that—
+(I) includes a depiction of the identifiable individual; and
+(II) was published without the consent of the identifiable individual; and
+(ii) submit a request for the covered platform to remove such intimate visual depiction.
+(B) REQUIREMENTS.—A notification and request for removal of an intimate visual depiction submitted under the process established under subparagraph (A) shall include, in writing—
+(i) a physical or electronic signature of the identifiable individual (or an authorized representative of such individual);
+(ii) an identification of the intimate visual depiction of the identifiable individual; and
+(iii) a brief statement that the identifiable individual has a good faith belief that any intimate visual depiction identified under clause (ii) is not consensual, including any relevant information for the covered platform to determine the intimate visual depiction was published without the consent of the identifiable individual.
+(2) NOTICE OF PROCESS.—A covered platform shall provide on the platform a clear and conspicuous notice of the notice and removal process established under paragraph (1)(A).
+(3) REMOVAL OF NONCONSENSUAL INTIMATE VISUAL DEPICTIONS.—Upon receiving a valid removal request from an identifiable individual (or an authorized representative of such individual) using the process described in paragraph (1)(A)(ii), a covered platform shall remove the intimate visual depiction and make reasonable efforts to remove any identical copies of such depiction as soon as possible, but not later than 48 hours after receiving such request.
+(4) LIMITATION ON LIABILITY.—A covered platform shall not be liable for any claim based on the covered platform’s good faith disabling of access to, or removal of, material claimed to be a nonconsensual intimate visual depiction based on facts or circumstances from which the unlawful publishing of an intimate visual depiction is apparent, regardless of whether the intimate visual depiction is ultimately determined to be unlawful or not.
+(b) Enforcement By The Commission.—
+(1) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.—A violation of this section shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+(2) POWERS OF THE COMMISSION.—
+(A) IN GENERAL.—Except as provided in subparagraph (D), the Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this section.
+(B) PRIVILEGES AND IMMUNITIES.—Any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+(C) AUTHORITY PRESERVED.—Nothing in this Act shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
+(D) SCOPE OF JURISDICTION.—Notwithstanding sections 4, 5(a)(2), or 6 of the Federal Trade Commission Act (15 U.S.C. 44, 45(a)(2), 46), or any jurisdictional limitation of the Commission, the Commission shall also enforce this section in the same manner provided in subparagraph (A), with respect to organizations that are not organized to carry on business for their own profit or that of their members.SEC. 4. DEFINITIONS.
+In this Act:
+(1) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+(2) CONSENT; DEEPFAKE; IDENTIFIABLE INDIVIDUAL; INTIMATE VISUAL DEPICTION.—The terms “consent”, “deepfake”, “identifiable individual”, “intimate visual depiction”, and “minor” have the meaning given such terms in section 223(h) of the Communications Act of 1934 (47 U.S.C. 223), as added by section 2.
+(3) COVERED PLATFORM.—
+(A) IN GENERAL.—The term “covered platform” means a website, online service, online application, or mobile application that—
+(i) serves the public; and
+(ii) primarily provides a forum for user-generated content, including messages, videos, images, games, and audio files.
+(B) EXCLUSIONS.—The term “covered platform” shall not include the following:
+(i) A provider of broadband internet access service (as described in section 8.1(b) of title 47, Code of Federal Regulations, or successor regulation).
+(ii) Electronic mail.
+(iii) An online service, application, or website—
+(I) that consists primarily of content that is not user generated but is preselected by the provider of such online service, application, or website; and
+(II) for which any chat, comment, or interactive functionality is incidental to, directly related to, or dependent on the provision of the content described in subclause (I).

@@ -1,0 +1,178 @@
+ Subtitle B—Next-Generation Energy, Biotechnology, And Artificial Intelligence
+
+
+SEC. 511. EXPANDED ANNUAL ASSESSMENT OF ECONOMIC AND TECHNOLOGICAL CAPABILITIES OF THE PEOPLE'S REPUBLIC OF CHINA.
+Section 6503(c)(3) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263) is amended by adding at the end the following:
+
+
+“(I) A detailed assessment, prepared in consultation with all elements of the working group—
+
+
+“(i) of the investments made by the People’s Republic of China in—
+
+
+“(I) artificial intelligence;
+
+
+“(II) next-generation energy technologies, especially small modular reactors and advanced batteries; and
+
+
+“(III) biotechnology; and
+
+
+“(ii) that identifies—
+
+
+“(I) competitive practices of the People’s Republic of China relating to the technologies described in clause (i);
+
+
+“(II) opportunities to counter the practices described in subclause (I);
+
+
+“(III) countries the People’s Republic of China is targeting for exports of civil nuclear technology;
+
+
+“(IV) countries best positioned to utilize civil nuclear technologies from the United States in order to facilitate the commercial export of those technologies;
+
+
+“(V) United States vulnerabilities in the supply chain of these technologies; and
+
+
+“(VI) opportunities to counter the export by the People’s Republic of China of civil nuclear technologies globally.
+
+
+“(J) An identification and assessment of any unmet resource or authority needs of the working group that affect the ability of the working group to carry out this section.”.
+
+ SEC. 512. PROCUREMENT OF PUBLIC UTILITY CONTRACTS.
+
+
+Subparagraph (B) of section 501(b)(1) of title 40, United States Code, is amended to read as follows:
+
+
+“(B) PUBLIC UTILITY CONTRACTS.—
+
+
+“(i) IN GENERAL.—A contract for public utility services may be made—
+
+
+“(I) except as provided in subclause (II), for a period of not more than 10 years; or
+
+
+“(II) for an executive agency that is, or has a component that is, an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)), for a period of not more than 30 years, if the executive agency determines the extended period is in the best interests of national security.
+
+
+“(ii) PAYMENT.—The cost of a public utility services contract for any year may be paid from annual appropriations for that year.”.
+
+ SEC. 513. ASSESSMENT OF USING CIVIL NUCLEAR ENERGY FOR INTELLIGENCE COMMUNITY CAPABILITIES.
+
+
+(a) Assessment Required.—The Director of National Intelligence shall, in consultation with the heads of such other elements of the intelligence community as the Director considers appropriate, conduct an assessment of capabilities identified by the Intelligence Community Continuity Program established pursuant to section E(3) of Intelligence Community Directive 118, or any successor directive, or such other facilities or capabilities as may be determined by the Director to be critical to United States national security, that have unique energy needs—
+
+
+(1) to ascertain the feasibility and advisability of using civil nuclear reactors to meet such needs; and
+
+
+(2) to identify such additional resources, technologies, infrastructure, or authorities needed, or other potential obstacles, to commence use of a nuclear reactor to meet such needs.
+
+
+(b) Report.—Not later than 180 days after the date of the enactment of this Act, the Director shall submit to the congressional intelligence committees a report, which may be in classified form, on the findings of the Director with respect to the assessment conducted pursuant to subsection (a).
+
+ SEC. 514. POLICIES ESTABLISHED BY DIRECTOR OF NATIONAL INTELLIGENCE FOR ARTIFICIAL INTELLIGENCE CAPABILITIES.
+
+
+(a) In General.—Section 6702 of the Intelligence Authorization Act for Fiscal Year 2023 (50 U.S.C. 3334m) is amended—
+
+
+(1) in subsection (a), in the matter preceding paragraph (1), by striking “subsection (b)” and inserting “subsection (c)”;
+
+
+(2) by redesignating subsection (b) as subsection (c); and
+
+
+(3) by inserting after subsection (a) the following:
+
+
+“(b) Policies.—
+
+
+“(1) IN GENERAL.—In carrying out subsection (a)(1), not later than 1 year after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2024, the Director of National Intelligence, in consultation with the heads of the elements of the intelligence community, shall establish the policies described in paragraph (2).
+
+
+“(2) POLICIES DESCRIBED.—The policies described in this paragraph are policies for the acquisition, adoption, development, use, coordination, and maintenance of artificial intelligence capabilities that—
+
+
+“(A) establish a lexicon relating to the use of machine learning and artificial intelligence developed or acquired by elements of the intelligence community;
+
+
+“(B) establish guidelines for evaluating the performance of models developed or acquired by elements of the intelligence community, such as by—
+
+
+“(i) specifying conditions for the continuous monitoring of artificial intelligence capabilities for performance, including the conditions for retraining or retiring models based on performance;
+
+
+“(ii) documenting performance objectives, including specifying how performance objectives shall be developed and contractually enforced for capabilities procured from third parties;
+
+
+“(iii) specifying the manner in which models should be audited, as necessary, including the types of documentation that should be provided to any auditor; and
+
+
+“(iv) specifying conditions under which models used by elements of the intelligence community should be subject to testing and evaluation for vulnerabilities to techniques meant to undermine the availability, integrity, or privacy of an artificial intelligence capability;
+
+
+“(C) establish guidelines for tracking dependencies in adjacent systems, capabilities, or processes impacted by the retraining or sunsetting of any model described in subparagraph (B);
+
+
+“(D) establish documentation requirements for capabilities procured from third parties, aligning such requirements, as necessary, with existing documentation requirements applicable to capabilities developed by elements of the intelligence community and, to the greatest extent possible, with industry standards;
+
+
+“(E) establish standards for the documentation of imputed, augmented, or synthetic data used to train any model developed, procured, or used by an element of the intelligence community; and
+
+
+“(F) provide guidance on the acquisition and usage of models that have previously been trained by a third party for subsequent modification and usage by such an element.
+
+
+“(3) POLICY REVIEW AND REVISION.—The Director of National Intelligence shall periodically review and revise each policy established under paragraph (1).”.
+
+
+(b) Conforming Amendment.—Section 6712(b)(1) of such Act (50 U.S.C. 3024 note) is amended by striking “section 6702(b)” and inserting “section 6702(c)”.
+
+ SEC. 515. STRATEGY FOR SUBMITTAL OF NOTICE BY PRIVATE PERSONS TO FEDERAL AGENCIES REGARDING CERTAIN RISKS AND THREATS RELATING TO ARTIFICIAL INTELLIGENCE.
+
+
+(a) Findings.—Congress finds the following:
+
+
+(1) Artificial intelligence systems demonstrate increased capabilities in the generation of synthetic media and computer programming code, and in areas such as object recognition, natural language processing, biological design, and workflow orchestration.
+
+
+(2) The growing capabilities of artificial intelligence systems in the areas described in paragraph (1), as well as the greater accessibility of large-scale artificial intelligence models to individuals, businesses, and governments, have dramatically increased the adoption of artificial intelligence products in the United States and globally.
+
+
+(3) The advanced capabilities of the systems described in paragraph (1), and their accessibility to a wide range of users, have increased the likelihood and effect of misuse or malfunction of these systems, such as to generate synthetic media for disinformation campaigns, develop or refine malware for computer network exploitation activity, design or develop dual-use biological entities such as toxic small molecules, proteins, or pathogenic organisms, enhance surveillance capabilities in ways that undermine the privacy of citizens of the United States, and increase the risk of exploitation or malfunction of information technology systems incorporating artificial intelligence systems in mission-critical fields such as health care, critical infrastructure, and transportation.
+
+
+(b) Strategy Required.—Not later than 180 days after the date of the enactment of this Act, the President shall establish a strategy by which vendors and commercial users of artificial intelligence systems, as well as independent researchers and other third parties, may effectively notify appropriate elements of the United States Government of—
+
+
+(1) information security risks emanating from artificial intelligence systems, such as the use of an artificial intelligence system to develop or refine malicious software;
+
+
+(2) information security risks such as indications of compromise or other threat information indicating a compromise to the confidentiality, integrity, or availability of an artificial intelligence system, or to the supply chain of an artificial intelligence system, including training or test data, frameworks, computing environments, or other components necessary for the training, management, or maintenance of an artificial intelligence system;
+
+
+(3) biosecurity risks emanating from artificial intelligence systems, such as the use of an artificial intelligence system to design, develop, or acquire dual-use biological entities such as putatively toxic small molecules, proteins, or pathogenic organisms;
+
+
+(4) suspected foreign malign influence (as defined by section 119C of the National Security Act of 1947 (50 U.S.C. 3059(f))) activity that appears to be facilitated by an artificial intelligence system; and
+
+
+(5) any other unlawful activity facilitated by, or directed at, an artificial intelligence system.
+
+
+(c) Elements.—The strategy established pursuant to subsection (b) shall include the following:
+
+
+(1) An outline of a plan for Federal agencies to engage in industry outreach and public education on the risks posed by, and directed at, artificial intelligence systems.
+
+
+(2) Use of research and development, stakeholder outreach, and risk management frameworks established pursuant to provisions of law in effect on the day before the date of the enactment of this Act or Federal agency guidelines.

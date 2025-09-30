@@ -1,0 +1,94 @@
+ SEC. 402. HAZARDOUS WEATHER OR WATER EVENT RISK COMMUNICATION.
+
+
+(a) In General.—Section 406 of the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25; 131 Stat. 109) is amended to read as follows:
+
+
+“SEC. 406. HAZARDOUS WEATHER OR WATER EVENT RISK COMMUNICATION.
+
+
+“(a) Definitions.—In this section:
+
+
+“(1) HAZARDOUS WEATHER OR WATER EVENTS.—The term ‘hazardous weather or water events’ means weather or water events that have a high risk of loss of life or property, including the following:
+
+
+“(A) Severe storms, such as hurricanes and short-fused, small-scale hazardous weather or hydrologic events produced by thunderstorms, including large hail, damaging winds, tornadoes, and flash floods.
+
+
+“(B) Winter storms, such as freezing or frozen precipitation (including freezing rain, sleet, and snow), or combined effects of freezing or frozen precipitation and strong winds.
+
+
+“(C) Other weather hazards, such as extreme heat or cold, wildfire, drought, dense fog, high winds, and river, coastal, or lakeshore flooding.
+
+
+“(2) INSTITUTION OF HIGHER EDUCATION.—The term ‘institution of higher education’ has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+
+“(3) WATCH; WARNING.—
+
+
+“(A) IN GENERAL.—The terms ‘watch’ and ‘warning’, with respect to a hazardous weather or water event, mean products issued by the National Oceanic and Atmospheric Administration, intended for consumption by the general public, to alert the general public to the potential for or presence of such event and to inform action to prevent loss of life or property.
+
+
+“(B) EXCEPTION.—The terms ‘watch’ and ‘warning’ do not include technical or specialized meteorological or hydrological forecasts, outlooks, or model guidance products.
+
+ “(b) System Communications.—The Under Secretary shall maintain and improve the system of the National Oceanic and Atmospheric Administration by which the risks of hazardous weather or water events are communicated to the general public, with the goal of informing response to prevent loss of life or property.
+
+ “(c) Hazard Risk Communication Improvement And Simplification.—
+
+
+“(1) IN GENERAL.—To carry out subsection (b), the Under Secretary shall maintain a social, behavioral, risk, communication, and economic sciences program (in this section referred to as the ‘Program’), for the purpose of simplifying and improving the communication of hazardous weather or water events.
+
+
+“(2) TERMINOLOGY.—The Program, in coordination with social, behavioral, risk, communication, and economic science community and user feedback, shall identify, eliminate, or modify unnecessary, redundant, or confusing terms for communications regarding hazardous weather or water events and add new terminology, as appropriate.
+
+
+“(3) COMMUNICATIONS IMPROVEMENT.—The Program shall improve the form, content, and methods of communications regarding hazardous weather or water events and associated risks to more clearly inform response to prevent the loss of life or property.
+
+
+“(4) EVALUATIONS.—The Program, in coordination with the performance and evaluation branches of the National Weather Service and Oceanic and Atmospheric Research, shall develop metrics for such branches to track and evaluate the degree to which communications regarding hazardous weather or water events inform response.
+
+
+“(5) SUPPORT PLAN.—The Program shall develop a plan for the purpose of carrying out paragraph (3). Such plan shall be periodically updated and informed by internal and extramural research and the results of the evaluation of communications regarding hazardous weather or water events and associated risks under paragraph (4).
+
+ “(6) METHODS.—In carrying out this section, the Program shall develop and implement recommendations that—
+
+
+“(A) are based on the best and most recent understanding from social, behavioral, economic, risk, and communications science research;
+
+
+“(B) are validated by social, behavioral, risk, and communications science, taking into account the importance of methods that support reproduction and replication of scientific studies, use of rigorous statistical analyses, and, as applicable, data analysis supported by artificial intelligence and machine learning technologies;
+
+
+“(C) account for the needs of various demographics, vulnerable populations, and geographic regions;
+
+
+“(D) account for the differences between various types of hazardous weather or water events;
+
+
+“(E) respond to the needs of Federal, State, and local government partners and media partners; and
+
+
+“(F) account for necessary changes in the infrastructure, technology, and protocols for developing and disseminating watches and warnings.
+
+
+“(7) COORDINATION.—In carrying out this section, the Program shall coordinate with the following:
+
+
+“(A) Federal partners, including National Laboratories, cooperative institutes, and regional integrated sciences and assessments programs.
+
+
+“(B) State and local government partners.
+
+
+“(C) Tribal governments.
+
+
+“(D) Institutions of higher education or a consortia thereof.
+
+
+“(E) Media partners.
+
+
+“(8) TIMELINESS AND CONSISTENCY.—The Program shall develop best practices and guidance for ensuring timely and consistent communications across public facing platforms that disseminate information related to hazardous weather or water events.”.

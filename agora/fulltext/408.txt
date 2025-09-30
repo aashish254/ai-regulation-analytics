@@ -1,0 +1,99 @@
+ S. 2346
+
+
+To require the Secretary of Health and Human Services to develop a strategy for public health preparedness and response to artificial intelligence threats, and for other purposes.
+
+ IN THE SENATE OF THE UNITED STATES
+
+
+July 18, 2023
+
+
+Mr. Budd (for himself and Mr. Markey) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions
+
+
+A BILL
+To require the Secretary of Health and Human Services to develop a strategy for public health preparedness and response to artificial intelligence threats, and for other purposes.
+
+ Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats”.
+
+ SEC. 2. STRATEGY FOR PUBLIC HEALTH PREPAREDNESS AND RESPONSE TO ARTIFICIAL INTELLIGENCE THREATS.
+
+
+(a) Definitions.—In this section:
+
+
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. note prec. 4061; Public Law 115–232).
+
+
+(2) PHSA DEFINITIONS.—The terms “qualified countermeasure”, “security countermeasure”, and “qualified pandemic or epidemic product” have the meanings given the terms in sections 319F–1(a)(2), 319F–2(c)(1)(B), and 319F–3(i), respectively, of the Public Health Service Act (42 U.S.C. 247d–6a(a)(2); (42 U.S.C. 247d–6b(c)(1)(B); (42 U.S.C. 247d–6d(i)).
+
+
+(3) SECRETARY.—The term “Secretary” means the Secretary of Health and Human Services.
+
+ (b) Strategy For Public Health Preparedness And Response To Artificial Intelligence Threats.—
+
+
+(1) STRATEGY.—Not later than 180 days after the date of enactment of this Act, the Secretary, in consultation with stakeholders, including stakeholders developing qualified countermeasures, security countermeasures, or qualified pandemic or epidemic products and stakeholders with an understanding of artificial intelligence technologies, shall prepare and submit to the relevant committees of Congress a strategy for public health preparedness and response and biodefense to address the risks of misuse of artificial intelligence that present a threat to national health security.
+
+
+(2) INCLUSIONS.—The strategy under paragraph (1) shall include—
+
+
+(A) a framework for public health preparedness and response to mitigate the risks of misuse of artificial intelligence that present a threat to national health security;
+
+
+(B) identifying the duties, functions, and preparedness goals for which the Secretary is responsible in order to prepare for, respond to, and mitigate the risks of such artificial intelligence threats, including metrics by which to measure success in meeting preparedness and risk mitigation goals;
+
+
+(C) identifying gaps in public health capabilities to achieve such preparedness and risk mitigation goals;
+
+
+(D) strategies to address identified gaps and strengthen public health emergency preparedness and response capabilities to address such artificial intelligence threats; and
+
+
+(E) strategies to mitigate—
+
+
+(i) the risks posed by the threat of the misuse of artificial intelligence, at a minimum of—
+
+
+(I) the development of biological weapons; and
+
+
+(II) the design of viruses and bacteria that are resistant to treatment; and
+
+
+(ii) such other risks posed by the threat of the misuse of artificial intelligence as are determined by the Secretary.
+
+
+(3) PROTECTION OF NATIONAL SECURITY.—The Secretary shall make the strategy under paragraph (1) available to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Energy and Commerce of the House of Representatives, and other congressional committees of jurisdiction, in a manner that does not compromise national security.
+
+ (c) Coordination Of Preparedness For And Response To All-Hazards Public Health Emergencies.—Section 2811(b)(4)(D) of the Public Health Service Act (42 U.S.C. 300hh–10(b)(4)(D)) is amended—
+
+
+(1) by striking “deployment of the Federal response” and inserting the following: “deployment of—
+
+
+“(i) the Federal response”;
+
+
+(2) in clause (i) (as so designated), by striking “and such Federal responses” and inserting the following:
+
+
+“(ii) such Federal responses”;
+
+
+(3) in clause (ii) (as so designated), by striking the period at the end and inserting “; and”; and
+
+
+(4) by adding at the end the following:
+
+
+“(iii) such Federal responses covered by the strategy for public health preparedness and response to address the risks of misuse of artificial intelligence that present a threat to national health security described in section 2(b) of the Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats”..”.

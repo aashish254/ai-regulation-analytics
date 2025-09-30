@@ -1,0 +1,16 @@
+SEC. 7510. REQUIREMENT TO ENSURE INTELLIGENCE COMMUNITY DIRECTIVES APPROPRIATELY ACCOUNT FOR ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TOOLS IN INTELLIGENCE PRODUCTS.
+
+(a) Requirement.--Not later than 120 days after the date of the enactment of this Act, the Director of National Intelligence shall provide to the appropriate committees of Congress a briefing on whether intelligence community directives in effect as of the date such briefing is provided furnish intelligence community analysts with sufficient guidance and direction with respect to the use of artificial intelligence and machine learning tools in intelligence products produced by the intelligence community.
+(b) Elements.--The briefing required under subsection (a) shall include--
+	(1) a determination by the Director as to--
+		(A) whether Intelligence Community Directive 203, Analytic Standards, Intelligence Community Directive 206, Sourcing Requirements for Disseminated Analytic Products, and any other intelligence community directive related to the production and dissemination of intelligence products by the intelligence community in effect as of the date the briefing under subsection (a) is provided furnish intelligence community analysts with sufficient guidance and direction on how to properly use, provide sourcing information about, and otherwise provide transparency to customers regarding the use of artificial intelligence and
+machine learning tools in intelligence products produced by the intelligence community; and
+		(B) whether any intelligence community directive described in subparagraph (A) requires an update to provide such guidance and direction; and
+	(2) with respect to the determination under paragraph (1)--
+		(A) in the case the Director makes a determination that no update to an intelligence community directive described in such paragraph is required, an explanation regarding why such intelligence community directives currently provide sufficient guidance and direction to intelligence community analysts; and
+		(B) in the case the Director makes a determination that an update to an intelligence community directive described in such paragraph is required, a plan and proposed timeline to update any such intelligence community directive.
+
+(c) Definition of Appropriate Committees of Congress.--In this section, the term ``appropriate committees of Congress'' means--
+	(1) the congressional intelligence committees;
+	(2) the Committee on Appropriations of the Senate; and
+	(3) the Committee on Appropriations of the House of Representatives.

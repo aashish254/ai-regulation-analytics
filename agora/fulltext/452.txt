@@ -1,0 +1,140 @@
+H. R. 4498
+
+
+To promote a 21st century artificial intelligence workforce.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+July 6, 2023
+
+
+Mr. Soto (for himself, Mrs. Chavez-DeRemer, Ms. Blunt Rochester, and Mr. Garbarino) introduced the following bill; which was referred to the Committee on Education and the Workforce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To promote a 21st century artificial intelligence workforce.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Jobs of the Future Act of 2023”.
+
+
+SEC. 2. SENSE OF CONGRESS.
+
+
+It is the sense of Congress that—
+
+
+(1) while the field of artificial intelligence is evolving quickly and has potential to disrupt jobs, there are opportunities to prepare the American workforce to develop and work alongside this new technology and mitigate job displacement; and
+
+
+(2) to ensure these opportunities, it is imperative to identify the following:
+
+
+(A) Data and data access necessary to properly analyze the impact of artificial intelligence on the United States workforce.
+
+
+(B) Industries projected to be most impacted by artificial intelligence.
+
+
+(C) Opportunities for workers and other stakeholders to influence the impact of artificial intelligence across industries.
+
+
+(D) Demographics whose career opportunities are most likely to be affected by growth of artificial intelligence.
+
+
+(E) The skills, expertise, and education needed to develop, operate, or work alongside artificial intelligence.
+
+
+(F) Methods to ensure necessary skills, expertise, and education are accessible to all segments of the current and future workforce.SEC. 3. REPORT ON ARTIFICIAL INTELLIGENCE.
+
+
+(a) In General.—The Secretary of Labor and the Director of the National Science Foundation shall, jointly and in collaboration with the individuals and entities described in subsection (c), prepare and submit to the Committee on Education and the Workforce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions and the Committee on Commerce, Science and Transportation of the Senate—
+
+
+(1) not later 1 year after the date of enactment of this Act, an interim report on artificial intelligence and its impact on the workforce of the United States, which shall include the information and recommendations listed in subsection (b); and
+
+
+(2) not later than 1 year after the date of enactment of this Act, a final report on artificial intelligence and its impact on the workforce of the United States, which shall include the information and recommendations listed in subsection (b).(b) Required Information.—The following shall be included in each report submitted under subsection (a):
+
+
+(1) An identification of the specific data relating to the workforce, and the availability of such data, necessary to properly analyze the impact and growth of artificial intelligence on the workforce of the United States and outline how much of this data is privately owned, and the effectiveness of Federal, State, or industry efforts (including public-private partnerships) to make privately owned data on the workforce of the United States available for Federal research purposes.
+
+
+(2) Identification of industries and occupations projected to have the most growth in artificial intelligence use, whether the technology is likely to result in the enhancement of workers’ capabilities or their replacement, and level of education currently consistent with industries and occupations identified.
+
+
+(3) Identification of opportunities for workers, educators, institutions of higher education, Congress, or other relevant stakeholders to influence the impact of artificial intelligence on workers across various industries.
+
+
+(4) Analysis of which demographics (including ethnic, gender, economic, age, and regional) currently stand to experience expanded career opportunities, and which demographics currently appear most vulnerable to career displacement, due to artificial intelligence.
+
+
+(5) Analysis of the skills, expertise, and education (including computer science literacy) needed to develop, operate, or work alongside artificial intelligence over the next two decades, as compared to the levels of such expertise and education among the workforce as of the date of enactment of this Act, with a differentiation between core competencies required across the entire workforce and competencies required within the industries and occupations identified in paragraph (2).
+
+
+(6) Identification of methods by which necessary skills, expertise, and education can be effectively delivered to various segments of the United States workforce.
+
+
+(7) Identification of industry leaders and institutions of higher education at the forefront of research and application of artificial intelligence in the industries and occupations identified in paragraph (2).
+
+
+(8) Identification of the resources and opportunities required for institutions of higher education, including two year institutions, minority-serving institutions, and institutions of higher education serving rural areas to deliver skills, expertise, and education identified in paragraph (5).
+
+
+(9) Recommendations to alleviate workforce displacement, prepare future workforce members for the artificial-intelligence economy, and any other relevant observations or recommendations within the field of artificial intelligence, which shall include recommendations on—
+
+
+(A) methods to expand public access to privately-owned workforce data, for the purpose of researching the effect of emerging technologies on the United States workforce;
+
+
+(B) avenues for stakeholders (workers, educators, institutions of higher education, Congress, or other relevant stakeholders) to effectively mitigate perceived negative impacts of artificial intelligence on segments of the United States workforce;
+
+
+(C) methods to reskill or otherwise offset socioeconomic harm to demographics identified in paragraph (4) as most vulnerable to career displacement, due to artificial intelligence;
+
+
+(D) methods to encourage low cost, open source sharing of industry valued credentials certifying the types of skills, expertise, and education identified in paragraph (5);
+
+
+(E) methods to ensure core skills and competencies identified in paragraph (5) can be evaluated, updated, and made public by relevant stakeholders as needed, given rapid developments in the field of artificial intelligence;
+
+
+(F) methods to ensure 2-year institutions of higher education, minority-serving institutions, and institutions of higher education serving rural areas receive resources and opportunities identified in paragraph (8);
+
+
+(G) methods to promote knowledge sharing and capacity building between industry leaders and institutions identified in paragraph (7) and two year institutions, minority-serving institutions, and rural institutions of higher education; and
+
+
+(H) other methods to ensure that the skills, expertise, and education needed to develop, operate, or work alongside artificial intelligence are delivered to vulnerable demographics identified in paragraph (4), rural workers, and other historically underserved segments of the United States workforce (to include workers with disabilities).(c) Collaboration.—In preparing the report under subsection (a), the Secretary of Labor and the Director of the National Science Foundation shall collaborate, through a series of public meetings, roundtables or other methods, with—
+
+
+(1) local educational agencies, institutions of higher education (including community colleges, minority-serving institutions of higher education, and institutions of higher education serving rural areas), workforce-training organizations, and National Laboratories;
+
+
+(2) a broad range of industrial stakeholders in the technology, manufacturing, employment, human resources, and service sectors, including companies (large and small), think tanks, and industry organizations;
+
+
+(3) the National Academies of Science, including by sharing relevant information obtained as a result of the study conducted under section 5105 of the National Artificial Intelligence Initiative Act of 2020; and
+
+
+(4) the Secretary of Commerce, the Secretary of Education, the Director of the White House Office of Science and Technology Policy, the Director of the National Artificial Intelligence Initiative Office, the National Cyber Director, and the heads of any other Federal agency the Secretary of Labor and the Director of the National Science Foundation determine appropriate.SEC. 4. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+
+
+(2) COMMUNITY COLLEGE.—The term “community college” has the meaning given the term “junior or community college” in section 312(f) of the Higher Education Act of 1965 (20 U.S.C. 1058(f)).
+
+
+(3) INSTITUTION OF HIGHER EDUCATION.—The term “institution of higher education” has the meaning given the term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
+
+
+(4) LOCAL EDUCATIONAL AGENCY.—The term “local educational agency” has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).

@@ -1,0 +1,322 @@
+A BILL
+To amend title 18, United States Code, to prohibit United States persons from advancing artificial intelligence capabilities within the People’s Republic of China, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Decoupling America's Artificial Intelligence Capabilities from China Act of 2025”.
+
+
+SEC. 2. Definitions.
+
+
+In this Act:
+
+
+(1) ARTIFICIAL INTELLIGENCE; GENERATIVE ARTIFICIAL INTELLIGENCE.—The terms “artificial intelligence” and “generative artificial intelligence” have the meanings given those terms in section 2741 of title 18, United States Code, as added by section 3.
+
+
+(2) ARTIFICIAL INTELLIGENCE OR GENERATIVE ARTIFICIAL INTELLIGENCE TECHNOLOGY OR INTELLECTUAL PROPERTY.—The term “artificial intelligence or generative artificial intelligence technology or intellectual property” means technology or intellectual property that could be used to contribute to artificial intelligence or generative artificial intelligence capabilities.
+
+
+(3) CHINESE ENTITY OF CONCERN.—The term “Chinese entity of concern” has the meaning given the term in section 2741 of title 18, United States Code, as added by section 4.
+
+
+(4) INTEREST.—The term “interest”, with respect to an entity, includes an interest in the entity—
+
+
+(A) held directly or indirectly through any chain of ownership; or
+
+
+(B) held as a derivative financial instrument or other contractual arrangement with the entity, including any financial instrument or other contract that seeks to replicate any financial return with respect to the entity or an interest in the entity.
+
+
+(5) MILITARY-CIVIL FUSION STRATEGY.—The term “military-civil fusion strategy” means the strategy of the Chinese Communist Party aiming to mobilize non-military resources and expertise for military application, including the development of technology, improvements in logistics, and other uses by the People’s Liberation Army.
+
+
+(6) INTELLECTUAL PROPERTY.—The term “intellectual property” means—
+(A) any work protected by a copyright under title 17, United States Code;
+(B) any property protected by a patent granted by the United States Patent and Trademark Office under title 35, United States Code;
+(C) any word, name, symbol, or device, or any combination thereof, that is registered as a trademark with the United States Patent and Trademark Office under the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (commonly known as the “Lanham Act” or the “Trademark Act of 1946”) (15 U.S.C. 1051 et seq.); or
+(D) a trade secret (as defined in section 1839 of title 18, United States Code).
+
+
+(7) TECHNOLOGY.—The term “technology”—
+(A) has the meaning given that term in section 1742 of the Export Control Reform Act of 2018 (50 U.S.C. 4801); and
+(B) includes—
+(i) any semiconductor, circuit board, operating system, graphics processing unit, central processing unit, tenor processing unit, field-programmable gate array, random access memory, hard drive, solid-state drive, dataflow architecture, or cloud-computing service, that is manufactured, designed, developed, supplied, deployed, completed, assembled, restored, converted, or replicated to function artificial intelligence or generative artificial intelligence; and
+(ii) any other hardware, software, equipment, device, component, robotic, computer, processor, network, machine, accelerator, circuit, storage, system or subsystem, server, or related good, tool, or service, that is manufactured, designed, developed, supplied, deployed, completed, assembled, restored, converted, or replicated to function artificial intelligence or generative artificial intelligence.
+
+
+(8) TERMS FROM EXPORT CONTROL REFORM ACT OF 2018.—The terms “export”, “in-country transfer”, and “reexport” have the meanings given those terms in section 1742 of the Export Control Reform Act of 2018 (50 U.S.C. 4801).
+
+
+(9) UNITED STATES PERSON.—The term “United States person” has the meaning given the term in section 2741 of title 18, United States Code, as added by section 4.
+
+
+SEC. 3. Prohibitions on import and export of artificial intelligence or generative artificial intelligence technology or intellectual property.
+
+
+(a) Prohibition on importation.—On and after the date that is 180 days after the date of the enactment of this Act, the importation into the United States of artificial intelligence or generative artificial intelligence technology or intellectual property developed or produced in the People's Republic of China is prohibited.
+
+
+(b) Prohibition on export.—On and after the date that is 180 days after the date of the enactment of this Act, the export, reexport, or in-country transfer of artificial intelligence or generative artificial intelligence technology or intellectual property to or within the People's Republic of China is prohibited.
+
+
+(c) Penalties.—
+
+
+(1) CRIMINAL.—A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids and abets in the commission of, the violation of a prohibition under subsection (a) or (b) shall be subject to the criminal penalties set forth in subsection (b) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819) to the same extent as a person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids and abets in the commission of an unlawful act described in subsection (a) of that section.
+
+
+(2) CIVIL.—A person who violates a prohibition under subsection (a) or (b) or any regulation, order, or license issued to carry out any such prohibition shall be subject to a civil penalty set forth in section 1760(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4819(c)) for each such violation to the same extent as a person who commits a violation described in that section.
+
+
+(d) Regulations.—Not later than 90 days after the date of enactment of this Act, the Secretary of Commerce shall issue regulations implementing this section.
+
+
+SEC. 4. Artificial intelligence research and development.
+
+
+(a) In general.—Part I of title 18, United States Code, is amended by adding at the end the following:
+
+
+“CHAPTER 124—RESEARCH AND DEVELOPMENT THAT BENEFITS THE PEOPLE'S REPUBLIC OF CHINA
+“§ 2741. Definitions
+
+
+“In this chapter:
+
+
+“(1) ARTIFICIAL INTELLIGENCE.—The term ‘artificial intelligence’—
+“(A) has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. note prec. 4061; Public Law 115–232); and
+“(B) includes—
+“(i) an artificial or automated system—
+“(I) that performs tasks under varying and unpredictable circumstances without significant human oversight;
+“(II) that can learn from experience and improve performance when exposed to data sets;
+“(III) developed in computer software, physical hardware, or another context that solves tasks requiring human-like perception, cognition, planning, learning, communication, or physical action;
+“(IV) designed to think or act like a human, including through cognitive architectures or neural networks;
+“(V) that has or is derived from a set of techniques, including machine learning, statistics, or other data processing or artificial intelligence techniques, that is designed to approximate a cognitive task;
+“(VI) designed to act rationally, including through an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision-making, and acting; or
+“(VII) that is intended to or capable of interacting with humans, detecting human emotions, determining associations with social categories based on biometric data, or generating or manipulating image, audio, video, or related material; and
+“(ii) any other artificial or automated system, software, or process that uses computation as whole or part of a system to determine outcomes, make or aid decisions, inform policy implementation, collect data or observations, or otherwise interact with humans or communities of humans.
+
+
+“(2) CONTROL.—The term ‘control’ has the meaning given the term in section 800.208 of title 31, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+
+
+“(3) CORPORATION.—The term ‘corporation’—
+“(A) means an entity with the business structure of a corporation, a company, a limited liability company, a limited partnership, a business trust, a business association, or another similar entity; and
+“(B) includes any subsidiary or branch of an entity described in subparagraph (A) tied to an entity described in subparagraph (A) through a series of contracts.
+
+
+“(4) DEVELOPMENT.—The term ‘development’ means creative and systematic work that draws upon knowledge gained from research and practical experience, which—
+“(A) is directed toward the production of new products or processes or improving existing products or processes; and
+“(B) like research, results in gaining additional knowledge.
+
+
+“(5) ENTITY OF CONCERN.—The term ‘entity of concern’ means—
+“(A) an institution of education, including a college and university, organized under the laws of the People’s Republic of China;
+“(B) a research institution, research lab, or research and development center organized under the laws of the People’s Republic of China;
+“(C) any corporation—
+“(i) that is organized under the laws of the People’s Republic of China;
+“(ii) that is headquartered in the People’s Republic of China;
+“(iii) that has its principal place of business in the People’s Republic of China; or
+“(iv) the equity securities of which are primarily traded on not less than 1 exchange based within the People’s Republic of China; and
+“(D) the Government of the People’s Republic of China (as defined in section 204 of the U.S.-China Relations Act of 2000 (22 U.S.C. 6903)) and any governmental department, agency, ministry, research institution, research lab, research and development center, or any other entity, subdivision, or affiliate of the People’s Republic of China, the Chinese Communist Party, or the People’s Liberation Army.
+
+
+“(6) FEDERAL AGENCY.—The term ‘Federal agency’ means a department, an independent establishment, a commission, an administration, an authority, a board or bureau of the United States, a corporation in which the United States has a proprietary interest, or any other agency of the executive branch of the Federal Government.
+
+
+“(7) FEDERAL FINANCIAL ASSISTANCE.—The term ‘Federal financial assistance’ means a grant, loan, or contribution provided by the Federal Government.
+
+
+“(8) GENERATIVE ARTIFICIAL INTELLIGENCE.—The term ‘generative artificial intelligence’ means an artificial intelligence system that is capable of generating novel text, video, images, audio, or other media based on prompts or other forms of data provided by an individual.
+
+
+“(9) PEOPLES'S REPUBLIC OF CHINA.—The term ‘People’s Republic of China’ includes Hong Kong and Macau.
+
+
+“(10) RESEARCH.—The term ‘research’—
+“(A) means a systematic study directed toward fuller scientific knowledge or understanding of a subject studied; and
+“(B) includes activities involving the training of individuals in research techniques if such activities—
+“(i) use the same facilities as other research and development activities; and
+“(ii) are not included in the instruction function.
+
+
+“(11) RESEARCH AND DEVELOPMENT.—The term ‘research and development’ means a basic or applied research activity and a development activity.
+
+
+“(12) STATE.—The term ‘State’ means each of the several States of the United States.
+
+
+“(13) TERRITORY.—The term ‘territory’ means—
+“(A) the District of Columbia;
+“(B) the Commonwealth of Puerto Rico;
+“(C) the United States Virgin Islands;
+“(D) Guam;
+“(E) the Commonwealth of the Northern Mariana Islands; and
+“(F) American Samoa.
+
+
+“(14) UNITED STATES PERSON.—The term ‘United States person’—
+“(A) has the meaning given the term in section 1711 of the National Defense Authorization Act for Fiscal Year 1993 (22 U.S.C. 6010); and
+“(B) includes—
+“(i) a corporation that is incorporated or organized under Federal law or the laws of a State or territory;
+“(ii) an institution of education, including a college and university, organized under Federal law or the laws of a State or territory;
+“(iii) a research institution organized under Federal law or the laws of a State or territory;
+“(iv) a person that is—
+“(I) a protected individual (as defined in section 274B(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1324b(a)(3), wherever located or employed; and
+“(II) an alien who has been admitted to the United States as a lawful permanent resident; and
+“(v) a person or corporation controlled by an individual or entity described in this paragraph.
+
+
+“§ 2742. Unlawful acts
+
+
+“(a) Research and development.—A United States person may not intentionally conduct, attempt or conspire to conduct, or aid and abet in conducting research or development of artificial intelligence or generative artificial intelligence—
+
+
+“(1) within the People’s Republic of China;
+
+
+“(2) for an entity of concern;
+
+
+“(3) on behalf of an entity of concern;
+
+
+“(4) in collaboration with an entity of concern;
+
+
+“(5) for a national of the People’s Republic of China working for or on behalf of an entity of concern;
+
+
+“(6) on behalf of a national of the People’s Republic of China working for or on behalf of an entity of concern; or
+
+
+“(7) in collaboration with a national of the People’s Republic of China working for, or on behalf of, an entity of concern.
+
+
+“(b) Transfer of research.—A United States person may not intentionally transfer, attempt or conspire to transfer, or aid and abet in transferring information relating to research of artificial intelligence or generative artificial intelligence—
+
+
+“(1) within the People’s Republic of China;
+
+
+“(2) directly to or from the People’s Republic of China;
+
+
+“(3) for an entity of concern;
+
+
+“(4) on behalf of an entity of concern;
+
+
+“(5) directly to or from an entity of concern;
+
+
+“(6) for a national of the People’s Republic of China working for or on behalf of an entity of concern;
+
+
+“(7) on behalf of a national of the People’s Republic of China working for or on behalf of an entity of concern; or
+
+
+“(8) directly to or from a national of the People’s Republic of China working for or on behalf of an entity of concern.
+
+
+“§ 2743. Penalties
+
+
+“(a) Fines; forfeiture.—
+
+
+“(1) ENTITIES.—
+“(A) IN GENERAL.—A United States person that violates section 2742 that is not an individual shall—
+“(i) be fined not more than $100,000,000; and
+“(ii) forfeit any license, contract, subcontract, grant, or public benefit awarded by any Federal agency.
+“(B) ASSOCIATES OF ENTITIES.—An officer, director, partner, agent, or employee that violates section 2742 shall—
+“(i) be fined not more than $1,000,000; and
+“(ii) forfeit any license, contract, subcontract, grant, or public benefit awarded by any Federal agency.
+
+
+“(2) INDIVIDUALS.—A United States person who is an individual that violates section 2742 shall—
+“(A) be fined not more than $1,000,000; and
+“(B) forfeit any license, contract, subcontract, grant, or public benefit awarded by any Federal agency.
+
+
+“(b) Ineligibility for Federal financial assistance.—A United States person that violates section 2742 shall be ineligible to receive Federal financial assistance during the 5-year period beginning on the date on which a penalty is imposed under subsection (a).
+
+
+“(c) Civil penalties.—
+
+
+“(1) CIVIL ACTION.—With respect to a United States person that violates section 2742, the United States may bring a civil action against the United States person in any district court of the United States in which the United States person resides, is found, or has an agent, without respect to the amount in controversy.
+
+
+“(2) DAMAGES.—In a civil suit brought under paragraph (1) against a United States person, the United States shall be entitled—
+“(A) to—
+“(i) relief in equity to restrain and prevent a violation or threat of violation of section 2742; and
+“(ii) other appropriate equitable relief;
+“(B) to relief in damages for—
+“(i) punitive and nominal damages;
+“(ii) three times the amount of damages sustained by the United States as a result of the violation; and
+“(iii) three times the cost of the civil action, including reasonable attorney’s fees;
+“(C) to a civil fine of not more than $100,000,000 if the United States person is not an individual; and
+“(D) to a civil fine of not more than $1,000,000 if the United States person is an individual”.
+
+
+(b) Citizenship and immigration consequences.—Section 101(a)(43) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(43)) is amended—
+
+
+(1) in subparagraph (T), by striking “; and” at the end;
+
+
+(2) by redesignating subparagraph (U) as subparagraph (V); and
+
+
+(3) by inserting after subparagraph (T) the following:
+
+
+“(U) an offense described in section 2742 of title 18, United States Code (relating to research and development on behalf of the People's Republic of China); and”.
+
+
+(c) Clerical amendment.—The table of sections for part I of title 18, United States Code, is amended by adding at the end the following:
+
+
+“CHAPTER 124—RESEARCH AND DEVELOPMENT ON BEHALF OF THE PEOPLE'S REPUBLIC OF CHINA
+
+
+“2741. Definitions.
+“2742. Unlawful acts.
+“2743. Penalties.”.
+(d) Regulations.—The Attorney General, in consultation with the Secretary of Defense, the Secretary of Commerce, the Secretary of Education, the Director of National Intelligence, and the Director of the Federal Bureau of Investigation, shall—
+
+
+(1) promulgate regulations to enforce the prohibitions under section 2742 of title 18, United States Code, as added by this Act; and
+
+
+(2) coordinate with the heads of other Federal agencies to ensure the enforcement of the prohibitions described in paragraph (1).
+
+
+SEC. 5. Prohibition on United States persons holding an interest in or providing financing to Chinese entities involved in artificial intelligence research and development.
+
+
+(a) In general.—On and after the date that is one year after the date of the enactment of this Act, a United States person is prohibited from knowingly holding or managing an interest in, or lending money or extending credit to, a Chinese entity of concern that—
+(1) (A) conducts research or development relating to artificial intelligence or generative artificial intelligence; or
+(B) produces goods, including hardware and software, that incorporate research or development relating to artificial intelligence or generative artificial intelligence; and
+
+
+(2) (A) assists in the implementation of the military-civil fusion strategy of the People's Republic of China;
+(B) assists in the development of surveillance capabilities; or
+(C) is implicated in human rights abuses.
+
+
+(b) Implementation; penalties.—
+(1) IMPLEMENTATION.—The President may exercise the authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to the extent necessary to carry out this section.
+(2) PENALTIES.—A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.

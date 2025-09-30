@@ -1,0 +1,59 @@
+SEC. 1509. ASSESSMENT OF CYBER POSTURE AND OPERATIONAL ASSUMPTIONS AND DEVELOPMENT OF TARGETING STRATEGIES AND SUPPORTING CAPABILITIES.
+
+(a) Assessment of Cyber Posture of Adversaries and Operational Assumptions of United States Government.--
+	(1) In general.--Not later than one year after the date of the enactment of this Act, the Commander of United States Cyber Command, the Under Secretary of Defense for Policy, and the Under Secretary of Defense for Intelligence and Security, shall jointly sponsor or conduct an assessment, including, if appropriate, a war-game or tabletop exercise, of the current and emerging offensive and defensive cyber posture of adversaries of the United States and the current operational assumptions and plans of the Armed Forces for offensive cyber operations during potential crises or conflict.	(2) Elements.--The assessment required under paragraph (1) shall include consideration of the following:
+		(A) Changes to strategies, operational concepts, operational preparation of the environment, and rules of engagement.
+		(B) Opportunities provided by armed forces in theaters of operations and other innovative alternatives.
+		(C) Changes in intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) targeting and operations in support of the Department of Defense.
+		(D) Adversary capabilities to deny or degrade United States activities in cyberspace.
+		(E) Adversaries' targeting of United States critical infrastructure and implications for United States policy.
+		(F) Potential effect of emerging technologies, such as fifth generation mobile networks, expanded use of cloud information technology services, and artificial intelligence.
+		(G) Changes in Department of Defense organizational design.
+		(H) The effect of private sector cybersecurity research.
+		(F) Adequacy of intelligence support to cyberspace operations by Combat Support Agencies and Service Intelligence Centers.
+(b) Development of Targeting Strategies, Supporting Capabilities, and Operational Concepts.--
+	(1) In general.--Not later than one year after the date of the enactment of this Act, the Commander of United States Cyber Command shall--
+		(A) assess and establish the capabilities, capacities, tools, and tactics required to support targeting strategies for--
+			(i) day-to-day persistent engagement of adversaries, including support to information operations;
+			(ii) support to geographic combatant commanders at the onset of hostilities and during sustained conflict; and
+			(iii) deterrence of attacks on United States critical infrastructure, including the threat of counter value responses;
+		(B) develop future cyber targeting strategies and capabilities across the categories of cyber missions and targets with respect to which--
+			(i) time-consuming and human effort-intensive stealthy operations are required to acquire and maintain access to targets, and the mission is so important it is worthwhile to expend such efforts to hold such targets at risk;
+			(ii) target prosecution requires unique access and exploitation tools and technologies, and the target importance justifies the efforts, time, and expense relating thereto;
+			(iii) operational circumstances do not allow for and do not require spending the time and human effort required for stealthy, nonattributable, and continuous access to targets;
+			(iv) capabilities are needed to rapidly prosecute targets that have not been previously planned and that can be accessed and exploited using known, available tools and techniques; and
+			(v) targets may be prosecuted with the aid of automated techniques to achieve speed, mass, and scale;
+		(C) develop strategies for appropriate utilization of Cyber Mission Teams in support of combatant command objectives as--
+			(i) adjuncts to or substitutes for kinetic operations; or(ii) independent means to achieve novel tactical, operational, and strategic objectives; and
+		(D) develop collection and analytic support strategies for the service intelligence centers to assist operations by United States Cyber Command and the Service Cyber Components.	(2) Briefing required.--
+		(A) In general.--Not later than 30 days after the date on which all activities required under paragraph (1) have been completed, the Commander of United States Cyber Command shall provide the congressional defense committees a briefing on such activities.
+		(B) Elements.--The briefing provided pursuant to subparagraph (A) shall include the following:
+			(i) Recommendations for such legislative or administrative action as the Commander of United States Cyber Command considers necessary to address capability shortcomings.
+			(ii) Plans to address such capability shortcomings.
+(c) Country-specific Access Strategies.--
+	(1) In general.--Not later than one year after the date on which all activities required under subsection (b)(1) have been completed, the Commander of United States Cyber Command shall complete development of country-
+specific access strategies for the Russian Federation, the People's Republic of China, the Democratic People's Republic of Korea, and the Islamic Republic of Iran.
+	(2) Elements.--Each country-specific access strategy developed under paragraph (1) shall include the following:
+		(A) Specification of desired and required--
+			(i) outcomes;
+			(ii) cyber warfighting architecture, including--
+		(I) tools and redirectors;
+		(II) access platforms; and
+		(III) data analytics, modeling, and simulation capacity;
+(iii) specific means to achieve and maintain persistent access and conduct command and control and exfiltration against hard targets and in operationally challenging environments across the continuum of conflict;
+(iv) intelligence, surveillance, and reconnaissance support;
+(v) operational partnerships with allies;
+(vi) rules of engagement;
+(vii) personnel, training, and equipment; and
+(viii) targeting strategies, including strategies that do not demand deliberate targeting and precise access to achieve effects; and
+		(B) recommendations for such policy or resourcing changes as the Commander of United States Cyber Command considers appropriate to address access shortfalls.	(3) Consultation required.--The Commander of United States Cyber Command shall develop the country-specific access strategies under paragraph (1) independently but in consultation with the following:
+		(A) The Director of the National Security Agency.
+		(B) The Director of the Central Intelligence Agency.
+		(C) The Director of the Defense Advanced Research Projects Agency.
+		(D) The Director of the Strategic Capabilities Office.
+		(E) The Under Secretary of Defense for Policy.
+		(F) The Principal Cyber Advisor to the Secretary of Defense.
+		(G) The Commanders of all other combatant commands.
+	(4) Briefing.--Upon completion of the country-specific access strategies under paragraph (1), the Commander of United States Cyber Command shall provide the Deputy Secretary of Defense, the Vice Chairman of the Joint Chiefs of Staff, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives a briefing on such strategies.
+
+(d) Definition.--In this section, the term ``critical infrastructure'' has the meaning given such term in section 1016(e) of Public Law 107-56 (42 U.S.C. 5195c(e)).

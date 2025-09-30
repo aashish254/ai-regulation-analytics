@@ -1,0 +1,105 @@
+Internet Information Service Algorithmic Recommendation Management Provisions 
+
+Chapter I: General Provisions
+
+Article 1: In order to standardize Internet information service algorithmic recommendation activities, carry forward the Socialist core value view, safeguard national security and the social and public interest, protect the lawful rights and interests of citizens, legal persons, and other organizations, and stimulate the healthy development of Internet information services; and on the basis of the “Cybersecurity Law of the People’s Republic of China," the “Data Security Law of the People’s Republic of China," the “Personal Information Protection Law of the People’s Republic of China," the “Internet Information Service Management Rules,” and other such laws and administrative regulations; these Provisions are formulated. 
+
+Article 2: These Provisions apply to the use of algorithmic recommendation technology to provide Internet information services (hereafter abbreviated as algorithmic recommendation services) within the mainland territory of the People’s Republic of China. Where laws and administrative regulations contain other provisions, those provisions are to be followed.
+
+The use of algorithmic recommendation technology as mentioned in the previous Paragraph refers to the use of generative or synthetic–type, personalized recommendation–type, ranking and selection–type, search filter–type, dispatching and decision-making–type, and other such algorithmic technologies to provide information to users.
+
+Article 3: The national cybersecurity and informatization department is responsible for the overall coordination of nationwide algorithmic recommendation service governance and related supervision and management work. The State Council telecommunications, public security, market regulation and other such relevant departments are are, on the basis of their respective duties and responsibilities, responsible for algorithmic recommendation service supervision and management work.
+
+Local cybersecurity and informatization departments are responsible for the overall coordination of nationwide algorithmic recommendation service governance and related supervision and management work within their administrative areas. The State Council telecommunications, public security, market regulation and other such relevant departments are, on the basis of their respective duties and responsibilities, responsible for algorithmic recommendation service supervision and management work within their administrative areas.
+
+Article 4: The provision of algorithmic recommendation services shall abide by laws and regulations, observe social morality and ethics, abide by commercial ethics and professional ethics, and respect the principles of fairness and justice, openness and transparency, science and reason, and sincerity and trustworthiness.
+
+Article 5: Relevant sectoral organizations are encouraged to strengthen sectoral self-discipline, establish and complete sectoral standards, sectoral norms and self-discipline management structures, supervise and guide algorithmic recommendation service providers in formulating and perfecting service standards, providing services according to the law and accepting social supervision.
+ 
+Chapter II: Information Service Norms
+
+Article 6: Algorithmic recommendation service providers shall uphold mainstream value orientations, optimize algorithmic recommendation service mechanisms, vigorously disseminate positive energy, and advance the use of algorithms upwards and in the direction of good.
+
+Algorithmic recommendation service providers may not use algorithmic recommendation services to engage in activities harming national security and the social public interest, upsetting the economic order and social order, infringing the lawful rights and interests of other persons, and other such acts prohibited by laws and administrative regulations. They may not use algorithmic recommendation services to disseminate information prohibited by laws and administrative regulations, and shall take measures to prevent and curb the dissemination of harmful information.
+
+Article 7: Algorithmic recommendation service providers shall: fulfil their primary responsibility for algorithmic security, establish and complete management systems and technical measures for algorithmic mechanism examination and verification, technology ethics review, user registration, information dissemination examination and verification, security assessment and monitoring, security incident response and handling, data security and personal information protection, countering telecommunications and online fraud, etc.; formulate and disclose algorithmic recommendation service–related norms; and allocate specialized personnel and technical support suited to the scale of algorithmic recommendation services.
+
+Article 8: Algorithmic recommendation service providers shall regularly examine, verify, assess, and check algorithmic mechanisms, models, data, and application outcomes, etc., and may not set up algorithmic models that violate laws and regulations or ethics and morals, such as by leading users to addiction or excessive consumption.
+
+Article 9: Algorithmic recommendation service providers shall strengthen information security management; establish and complete feature databases to be used to identify unlawful and harmful information; and perfect database entry standards, norms, and processes. Where it is discovered that algorithmically generated or synthetic information has not been marked with an indicator, it shall be marked with an indicator, and only then may dissemination continue. 
+
+Where unlawful information is discovered, transmission shall be ceased immediately, measures such as deletion adopted to handle it, information spread prevented, and relevant records preserved; and a report shall be made to the cybersecurity and informatization department and relevant departments. Where harmful information is discovered, it shall be dealt with according to online information content ecology management-related regulations. 
+
+Article 10: Algorithmic recommendation service providers shall strengthen user model and user tagging management and perfect norms for logging interests in user models and user tagging management norms. They may not enter unlawful or harmful information as keywords into user interests or make them into user tags to use them as a basis for recommending information content.
+
+Article 11: Algorithmic recommendation service providers shall strengthen algorithmic recommendation service display or page ecology management, establish and perfect mechanisms for manual intervention and autonomous user choice, and vigorously present information conform to mainstream value orientations in key segments such as front pages and main screens, hot search terms, selected topics, topic lists, pop-up windows, etc.
+
+Article 12: Algorithmic recommendation service providers are encouraged to comprehensively use tactics such as content de-weighting, scattering interventions, etc., and optimize the transparency and understandability of search, ranking, selection, push notification, display, and other such norms, to avoid creating harmful influence on users, and prevent or reduce controversies or disputes. 
+
+Article 13: Where algorithmic recommendation service providers provide Internet news information services, they shall obtain an Internet news information service permit according to the law; and standardize their deployment of Internet news information collection, editing and dissemination services, resharing services, and broadcast platform services. They may not generate or synthesize fake news information, and may not disseminate news information not published by work units in the State-determined scope.
+
+Article 14: Algorithmic recommendation service providers may not use algorithms to falsely register users, illegally trade accounts, or manipulate user accounts; or for false likes, comments, reshares, etc. They may not use algorithms to shield information, over-recommend, manipulate topic lists or search result rankings, or control hot search terms or selections and other such interventions in information presentation; or to carry out acts influencing online public opinion, or evading supervision and management. 
+
+Article 15: Algorithmic recommendation service providers may not use algorithms to impose unreasonable restrictions on other Internet information service providers, or obstruct or destroy the regular operation of their lawfully provided Internet information services, or carry out monopolistic or improper competition acts.
+
+Chapter III: User Rights Protection
+
+Article 16: Algorithmic recommendation service providers shall notify users in a clear manner about the situation of the algorithmic recommendation services they provide, and publicize the basic principles, purposes and motives, main operational mechanisms, etc., of the algorithmic recommendation services in a suitable manner. 
+
+Article 17: Algorithmic recommendation service providers shall provide users with a choice to not target their individual characteristics, or provide users with a convenient option to switch off algorithmic recommendation services. Where users choose to switch off algorithmic recommendation services, the algorithmic recommendation service provider shall immediately cease providing related services.
+
+Algorithmic recommendation service providers shall provide users with functions to choose or delete user tags used for algorithmic recommendation services aimed at their personal characteristics.
+
+Where algorithmic recommendation service providers use algorithms in a manner creating a major influence on users’ rights and interests, they shall give an explanation and bear related liability according to the law. 
+
+Article 18: Where algorithmic recommendation service providers provide services to minors, they shall fulfill duties for the online protection of minors according to the law, and make it convenient for minors to obtain information beneficial to their physical and mental health, through developing models suited for use with minors, providing services suited to the specific characteristics of minors, etc.
+
+Algorithmic recommendation service providers may not push information toward minors that may incite the minor to imitate unsafe conduct, or acts violating social morals, or lead the minor towards harmful tendencies or may influence minors’ physical and mental health in other ways; and they may not use algorithmic recommendation services to lead minors to online addiction. 
+
+Article 19: Where algorithmic recommendation service providers provide services to the elderly, they shall uphold the rights the elderly enjoy according to the law, fully consider the elderly's requirement in going out, undergoing medical treatment, consumption, handling affairs, etc., provide smart services suited to the elderly according to relevant State provisions, launch monitoring, identification, and handling of information on telecommunications and online fraud, and make it convenient for the elderly to use algorithmic recommendation services securely.
+
+Article 20: Where algorithmic recommendation service providers provide work dispatch services to workers, they shall protect workers' lawful rights and interests such as obtaining labor remuneration, rest and vacation, etc., and establish and perfect algorithms related to platform sign-on and allocation, remuneration composition and payment, work time, rewards, etc.
+
+Article 21: Where algorithmic recommendation service providers sell products or provide services to consumers, they shall protect consumers’ fair trading rights, they may not use algorithms to commit acts of extending unreasonably differentiated treatment in trading conditions such as trading prices, etc., and other such unlawful activities, on the basis of consumers’ tendencies, trading habits and other such characteristics. 
+
+Article 22: Algorithmic recommendation service operators shall install convenient and efficient user complaint and public complaint and reporting access points, clarify handling workflows and feedback time periods, and timely receive, handle and provide feedback on the handling results.
+
+Chapter IV: Supervision and Management
+
+Article 23: The national cybersecurity and informatization department will, together with telecommunications, public security, market regulation, and other such departments, establish a graded and categorized algorithm security management system, implement graded and categorized management of algorithmic recommendation service providers on the basis of the public opinion properties of algorithmic recommendation services or their social mobilization capability, content categories, scale of users, the degree of importance of data handled in algorithmic recommendation, the degree of interference in users’ activities, etc.
+
+Article 24: Providers of algorithmic recommendation services with public opinion properties or having social mobilization capabilities shall, within 10 working days of providing services, report the provider’s name, form of service, domain of application, algorithm type, algorithm self-assessment report, content intended to be publicized, and other such information through the Internet information service algorithm filing system, and carry out filing formalities.
+
+Where a change occurs in the filed information of algorithmic recommendation service providers, they shall carry out modification procedures within 10 working days of the change occurring. 
+
+Where algorithmic recommendation service providers cease services, they shall carry out filing cancellation procedures within 20 working days of ceasing services, and make appropriate arrangements.
+
+Article 25: The national and provincial, autonomous region, and municipal cybersecurity and informatization departments shall, after receiving filing materials submitted by a filing applicant, and where the materials are complete, grant filing within 30 working days, and issue a filing number and publish the matter; where materials are not complete, filing is not to be granted, and the filing applicant shall be notified within 30 working days, and the reason explained. 
+
+Article 26: Algorithmic recommendation service providers who have completed filing shall indicate their filing number in a clear position on their website, application program, etc., used for providing external services, and provide a link to the published information. 
+
+Article 27: The providers of algorithmic recommendation services with public opinion properties or social mobilization capabilities shall conduct a security assessment according to relevant State regulations. 
+
+Article 28: Cybersecurity and informatization department will, together with telecommunications, public security, market regulation, and other such relevant departments conduct algorithm security assessment according to the law, and timely give suggestions to correct discovered problems and provide a time limit for rectification.
+
+Algorithmic recommendation service providers shall preserve network records according to the law, cooperate with cybersecurity and informatization, telecommunications, public security, market regulation, and other such relevant departments carrying out security assessment, supervision, and inspection work according to the law, and provide the necessary technical, data, etc., support and assistance. 
+
+Article 29: Related bodies and personnel participating in algorithmic recommendation service security assessment, supervision, and inspection shall maintain confidentiality of the personal private [information], personal information, and commercial secrets they learn when exercising their duties and responsibilities, they may not disclose, sell, or illegally provide it to other persons.
+
+Article 30: Where any organization or individual discovers acts violating these Provisions, they may file a complaint or report with cybersecurity and informatization departments and relevant departments. Departments receiving complaints or reports shall handle them timely and according to the law.
+
+Chapter V: Legal Liability
+
+Article 31: Where algorithmic recommendation service providers violate the provisions of Article 7, Article 8, Article 9 Paragraph I, Article 10, Article 14, Article 16, Article 17, Article 16, Article 22, Article 24, or Article 26 of these Provisions, and laws or administrative regulations contain provisions, those provisions are followed; where laws or administrative regulations do not contain provisions, cybersecurity and informatization departments or telecommunications, public security or market regulation, or other such relevant departments will, on the basis of their duties and responsibilities, issue a warning or a report of criticism, and order rectification within a limited time; where rectification is refused or circumstances are grave, they are to order provisional suspension of information updates, and impose a fine between 10,000 and 100,000 yuan. Where an act violating public order management is constituted, public order management punishment is to be imposed according to the law; where a crime is constituted, criminal liability is to be prosecuted according to the law.
+
+Article 32: Where algorithmic recommendation service providers violate the provisions of Article 6, Article 9 Paragraph II, Article 11, Article 13, Article 15, Article 18, Article 19, Article 20, Article 21, Article 27, or Article 28 Paragraph II of these Provisions, the cybersecurity and informatization, telecommunications, public security or market regulation, or other relevant competent departments will, on the basis of their duties and responsibilities, handle the matter according to the provisions of relevant laws, administrative regulations, and departmental rules.
+
+Article 33: Where providers of algorithmic recommendation services with public opinion properties or social mobilization capabilities obtain filing through hiding relevant circumstances when reporting for filing, providing false materials, or other such improper means, the national and provincial, autonomous region, or municipal cybersecurity and informatization departments cancel filing according to the law, and issue a warning or a report of criticism; where circumstances are grave, they are to order provisional suspension of information updates, and impose a fine between 10,000 and 100,000 yuan. 
+
+Where providers of algorithmic recommendation services with public opinion properties or social mobilization capabilities cease services without carrying out filing cancellation formalities according to the requirements of Article 24 Paragraph III of these Provisions, or they receive administrative punishments such as website closure orders, cancellation of relevant business permits, revocation of the business license, etc., because grave unlawful situations occurred, the national, provincial, autonomous region, and municipal cybersecurity and informatization departments are to impose filing cancellation.
+
+Chapter VI: Supplementary provisions
+
+Article 34: The interpretation of these Provisions is the responsibility of the Cyberspace Administration of China together with the Ministry of Industry and Information Technology, the Ministry of Public Security and the State Administration of Market Regulation.
+
+Article 35: These Provisions take effect on March 1, 2022.

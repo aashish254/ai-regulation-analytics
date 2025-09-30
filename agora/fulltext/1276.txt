@@ -1,0 +1,8 @@
+A BILL
+To amend the Communications Act of 1934 to establish technical and procedural standards for artificial or prerecorded voice systems created through generative artificial intelligence, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Technical and procedural standards for artificial or prerecorded voice systems created through generative artificial intelligence.
+
+Section 227(d)(3) of the Communications Act of 1934 (47 U.S.C. 227(d)(3)) is amended by inserting “(including those created through generative artificial intelligence (genAI), for example voice cloning, and other subsequent technologies as may be deemed appropriate by the Commission)” after “telephone”.

@@ -1,0 +1,68 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Improving Seniors’ Timely Access to Care Act of 2024”.
+SEC. 2. ESTABLISHING REQUIREMENTS WITH RESPECT TO THE USE OF PRIOR AUTHORIZATION UNDER MEDICARE ADVANTAGE PLANS.
+(a) In General.—Section 1852 of the Social Security Act (42 U.S.C. 1395w–22) is amended by adding at the end the following new subsection:
+“(o) Prior Authorization Requirements.—
+“(1) IN GENERAL.—In the case of a Medicare Advantage plan that imposes any prior authorization requirement with respect to any applicable item or service (as defined in paragraph (5)) during a plan year, such plan shall—
+“(A) beginning with plan years beginning on or after January 1, 2027—
+“(i) establish the electronic prior authorization program described in paragraph (2); and
+“(ii) meet the enrollee protection standards specified pursuant to paragraph (4); and
+“(B) beginning with plan years beginning on or after January 1, 2026, meet the transparency requirements specified in paragraph (3).
+“(2) ELECTRONIC PRIOR AUTHORIZATION PROGRAM.—
+“(A) IN GENERAL.—For purposes of paragraph (1)(A), the electronic prior authorization program described in this paragraph is a program that provides for the secure electronic transmission of—
+“(i) a prior authorization request from a provider of services or supplier to a Medicare Advantage plan with respect to an applicable item or service to be furnished to an individual and a response, in accordance with this paragraph, from such plan to such provider or supplier; and
+“(ii) any supporting documentation relating to such request or response.
+“(B) ELECTRONIC TRANSMISSION.—
+“(i) EXCLUSIONS.—For purposes of this paragraph, a facsimile, a proprietary payer portal that does not meet standards specified by the Secretary, or an electronic form shall not be treated as an electronic transmission described in subparagraph (A).
+“(ii) STANDARDS.—An electronic transmission described in subparagraph (A) shall comply with applicable technical standards and other requirements to promote the standardization and streamlining of electronic transactions adopted by the Secretary.
+“(3) TRANSPARENCY REQUIREMENTS.—
+“(A) IN GENERAL.—For purposes of paragraph (1)(B), the transparency requirements specified in this paragraph are, with respect to a Medicare Advantage plan, the following:
+“(i) The plan, annually and in a manner specified by the Secretary, shall submit to the Secretary the following information:
+“(I) A list of all applicable items and services that were subject to a prior authorization requirement under the plan during the previous plan year.
+“(II) The percentage and number of specified requests (as defined in subparagraph (F)) approved during the previous plan year by the plan in an initial determination and the percentage and number of specified requests denied during such plan year by such plan in an initial determination (both in the aggregate and categorized by each item and service).
+“(III) The percentage and number of specified requests that were denied during the previous plan year by the plan in an initial determination and that were subsequently appealed.
+“(IV) The number of appeals of specified requests resolved during the preceding plan year, and the percentage and number of such resolved appeals that resulted in approval of the furnishing of the item or service that was the subject of such request, categorized by each applicable item and service and categorized by each level of appeal (including judicial review).“(V) The percentage and number of specified requests that were denied, and the percentage and number of specified requests that were approved, by the plan during the previous plan year through the utilization of decision support technology, artificial intelligence technology, machine-learning technology, clinical decision-making technology, or any other technology specified by the Secretary.
+“(VI) The average and the median amount of time (in hours) that elapsed during the previous plan year between the submission of a specified request to the plan and a determination by the plan with respect to such request for each such item and service, excluding any such requests that were not submitted with the medical or other documentation required to be submitted by the plan.
+“(VII) The percentage and number of specified requests that were excluded from the calculation described in subclause (VIII) based on the plan’s determination that such requests were not submitted with the medical or other documentation required to be submitted by the plan.“(VIII) Information on each occurrence during the previous plan year in which, during a surgical or medical procedure involving the furnishing of an applicable item or service with respect to which such plan had approved a prior authorization request, the provider of services or supplier furnishing such item or service determined that a different or additional item or service was medically necessary, including a specification of whether such plan subsequently approved the furnishing of such different or additional item or service.
+“(IX) A disclosure and description of any technology described in subclause (V) that the plan utilized during the previous plan year in making determinations with respect to specified requests.
+“(X) The number of grievances (as described in subsection (f)) received by such plan during the previous plan year that were related to a prior authorization requirement.
+“(XI) Such other information as the Secretary determines appropriate.
+“(ii) The plan shall provide—
+“(I) to each provider or supplier who seeks to enter into a contract with such plan to furnish applicable items and services under such plan, the list described in clause (i)(I) and any policies or procedures used by the plan for making determinations with respect to prior authorization requests;
+“(II) to each such provider and supplier that enters into such a contract, access to the criteria used by the plan for making such determinations and an itemization of the medical or other documentation required to be submitted by a provider or supplier with respect to such a request; and
+“(III) to an enrollee of the plan, upon request, access to the criteria used by the plan for making determinations with respect to prior authorization requests for an item or service.“(B) OPTION FOR PLAN TO PROVIDE CERTAIN ADDITIONAL INFORMATION.—As part of the information described in subparagraph (A)(i) provided to the Secretary during a plan year, a Medicare Advantage plan may elect to include information regarding the percentage and number of specified requests made with respect to an individual and an item or service that were denied by the plan during the preceding plan year in an initial determination based on such requests failing to demonstrate that such individuals met the clinical criteria established by such plan to receive such items or services.
+“(C) REGULATIONS.—The Secretary shall, through notice and comment rulemaking, establish requirements for Medicare Advantage plans regarding the provision of—
+“(i) access to criteria described in subparagraph (A)(ii)(II) to providers of services and suppliers in accordance with such subparagraph; and
+“(ii) access to such criteria to enrollees in accordance with subparagraph (A)(ii)(III).
+“(D) PUBLICATION OF INFORMATION.—The Secretary shall publish information described in subparagraph (A)(i) and subparagraph (B) on a public website of the Centers for Medicare & Medicaid Services. Such information shall be so published on an individual plan level and may in addition be aggregated in such manner as determined appropriate by the Secretary.
+“(E) MEDPAC REPORT.—Not later than 3 years after the date information is first submitted under subparagraph (A)(i), the Medicare Payment Advisory Commission shall submit to Congress a report on such information that includes a descriptive analysis of the use of prior authorization. As appropriate, the Commission should report on statistics including the frequency of appeals and overturned decisions. The Commission shall provide recommendations, as appropriate, on any improvement that should be made to the electronic prior authorization programs of Medicare Advantage plans.
+“(F) SPECIFIED REQUEST DEFINED.—For purposes of this paragraph, the term ‘specified request’ means a prior authorization request made with respect to an applicable item or service.
+“(4) ENROLLEE PROTECTION STANDARDS.—For purposes of paragraph (1)(A)(ii), with respect to the use of prior authorization by Medicare Advantage plans for applicable items and services, the enrollee protection standards specified in this paragraph are—
+“(A) the adoption of transparent prior authorization programs developed in consultation with enrollees and with providers and suppliers with contracts in effect with such plans for furnishing such items and services under such plans;
+“(B) allowing for the waiver or modification of prior authorization requirements based on the performance of such providers and suppliers in demonstrating compliance with such requirements, such as adherence to evidence-based medical guidelines and other quality criteria; and
+“(C) conducting annual reviews of such items and services for which prior authorization requirements are imposed under such plans through a process that takes into account input from enrollees and from providers and suppliers with such contracts in effect and is based on consideration of prior authorization data from previous plan years and analyses of current coverage criteria.
+“(5) APPLICABLE ITEM OR SERVICE DEFINED.—For purposes of this subsection, the term ‘applicable item or service’ means, with respect to a Medicare Advantage plan, any item or service for which benefits are available under such plan, other than a covered part D drug.“(6) REPORTS TO CONGRESS.—
+“(A) GAO.—Not later than January 1, 2032, the Comptroller General of the United States shall submit to Congress a report containing an evaluation of the implementation of the requirements of this subsection and an analysis of issues in implementing such requirements faced by Medicare Advantage plans.
+“(B) HHS.—
+“(i) THE SECRETARY.—Not later than the end of the fifth plan year beginning after the date of the enactment of this subsection, and biennially thereafter through the date that is 10 years after such date of enactment, the Secretary shall submit to Congress a report containing a description of the information submitted under paragraph (3)(A)(i) during—
+“(I) in the case of the first such report, the fourth plan year beginning after the date of the enactment of this subsection; and
+“(II) in the case of a subsequent report, the 2 plan years preceding the year of the submission of such report.
+“(ii) CMS.—Not later than January 1, 2027, the Centers for Medicare & Medicaid Services and the Office of National Coordinator for Health Information Technology shall submit to Congress and publish on the Internet website of the Centers for Medicare & Medicaid Services a report that—
+“(I) defines the term ‘real-time decision’ and details how the definition for such term may be updated based on any technological advances;
+“(II) using the data submitted to the Secretary under paragraph (3)(A)(i), details a process for real-time decisions for items and services for routinely approved services for purposes of the electronic prior authorization program described in paragraph (2); and
+“(III) includes an analysis of—
+“(aa) items and services that are routinely approved;
+“(bb) items and services identified in item (aa) that could be eligible for real-time decisions;
+“(cc) how establishing real-time decisions for such items and services could—
+“(AA) improve enrollee access to benefits under this part;
+“(BB) produce operational efficiencies for providers of services and suppliers and Medicare Advantage plans; and
+“(CC) reduce health disparities for Medicare Advantage enrollees in rural and low-income communities; and
+“(dd) how the use of automated decision-making and artificial intelligence by Medicare Advantage plans impact patient access, including disparities in access for rural and low-income beneficiaries, to routinely approved items and services.”.
+(b) Providing The Secretary Authority To Enforce Timely Responses For All Prior Authorization Requests Submitted Under Part C.—Section 1852(g) of the Social Security Act (42 U.S.C. 1395w–22(g)) is amended—
+(1) in paragraph (1)(A), by inserting “and in accordance with any timeframe established by the Secretary under paragraph (6)” after “paragraph (3)”;
+(2) in paragraph (3)(B)(iii), by inserting “(or, subject to subsection (o), with respect to prior authorization requests submitted on or after the first day of the third plan year beginning after the date of the enactment of the Improving Seniors’ Timely Access to Care Act of 2024, any timeframe established by the Secretary under paragraph (6))” after “72 hours”; and
+(3) by adding at the end the following new paragraph:
+“(6) TIMEFRAME FOR RESPONSE TO PRIOR AUTHORIZATION REQUESTS.—Subject to paragraph (3) and subsection (o), the Secretary may establish, for purposes of an organization determination made with respect to a prior authorization request for an item or service to be furnished to an individual, timeframes, such as 24 hours, for the organization to notify the enrollee (and the physician involved, as appropriate) of such determination for—
+“(A) a request for expedited determination described in paragraph (3)(A);
+“(B) a real time decision for routinely approved items and services; and
+“(C) any other prior authorization request.”.

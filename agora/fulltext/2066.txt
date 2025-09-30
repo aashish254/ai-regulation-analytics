@@ -1,0 +1,95 @@
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MISSISSIPPI:
+
+     SECTION 1.  This act shall be known and may be cited as the "Artificial Intelligence in Education Task Force Act."
+
+     SECTION 2.  The purpose of this act is to establish an Artificial Intelligence ("AI") in Education Task Force within the state to evaluate the potential applications of artificial intelligence in K-12 and to develop policy recommendations for responsible and effective uses by students and educators.  The task force may also identify workforce needs related to AI and provide policy recommendations to ensure the state develops education and workforce training programs that align with changing industry needs.
+
+	SECTION 3.  (1)  The State Superintendent of Education shall serve as the Chair of the Task Force.  The Department of Education shall provide administrative support for the task force, including, but not limited to, developing agendas, coordinating meetings and drafting reports for task force feedback.
+
+     (2)  The task force shall include members who possess knowledge or expertise in the following fields:  education, technology, AI, ethics, data privacy, industry demands, state and local policy, and state procurement.
+
+     (3)  The task force shall consist of twelve (12) members, as follows:
+
+          (a)  The Governor shall appoint four (4) members to the committee, as follows:
+
+               (i)  A representative from the State Board of Education;
+
+               (ii)  A representative from an institution of higher learning;
+
+               (iii)  A representative of the Mississippi Office of Workforce Development; and
+
+               (iv)  A representative from the Public Procurement Review Board with expertise on technology procurement and data privacy standards;
+
+          (b)  The Lieutenant Governor shall appoint four (4) members to the committee, as follows:
+
+               (i)  A representative from the State Attorney General's Office;
+
+               (ii)  A school board member from a school district with innovative technology practices;
+
+               (iii)  A school district superintendent from a school district with innovative technology practices;
+
+               (iv)  A school district educational technology director; and
+
+               (v)  The members appointed under subparagraphs (ii), (iii) and (iv) of this paragraph shall come from separate school districts.
+
+          (c)  The Speaker of the House shall appoint four (4) members to the committee, as follows:
+
+               (i)  A vice president of research from a public research university in Mississippi;
+
+               (ii)  An educator from a school district with innovative technology practices;
+
+               (iii)  A business leader in the technology industry sector in the state that is directly affected by developments in AI; and
+
+               (iv)  A representative from the Department of Information Technology Services.
+
+     (4)  All appointments to the task force shall be made by September 1, 2024.
+
+SECTION 4.  (1)  The task force shall meet no fewer than four (4) times beginning in September 2024, and continue to convene until December 15, 2024.  All meetings shall be open to the public.
+
+     (2)  The task force shall conduct the following activities:           (a)  Evaluate the current state of AI technology and its potential applications in K-12;
+
+          (b)  Assess the ethical, legal and data privacy implications of AI usage in education;
+
+          (c)  Develop policy recommendations for the responsible and effective use of AI in education for local boards of education, and the state as a whole.  The policy recommendations shall include, but are not limited to, the following topics:
+
+               (i)  Academic integrity and plagiarism;
+
+               (ii)  Acceptable uses of AI for students and educators;
+
+               (iii)  Student and teacher data privacy; and
+
+               (iv)  Parent/guardian access to information that students enter into AI systems;
+
+          (d)  Provide recommendations for incorporating AI into K-12 educational standards and higher education curricula, including general education courses as well as career and technical courses that align with evolving industry demands;
+
+          (e)  Develop guidelines for training K-12 educators to effectively use AI tools, especially to support personalized learning;
+
+          (f)  Propose criteria by which the state could monitor and evaluate the effects of AI on student learning outcomes;
+
+          (g)  Identify strategies to protect student and teacher data privacy when using AI systems;
+
+          (h)  Recommend a set of common requirements for state and district/institution procurement of AI-powered software, such as, but not limited to:
+
+               (i)  Requirements for content filters that protect students from accessing content that is inappropriate for their age;
+
+               (ii)  Requirements to allow parents/guardians to review the content their minor students enter into the AI software;
+
+               (iii)  Vendor-provided training and support for district/institution technology staff; and
+
+               (iv)  Prohibitions on the unauthorized sale of student or teacher data;
+
+          (i)  Identify opportunities for fostering collaboration between K-12 education, technical and community colleges, institutions of higher learning, workforce development programs and industry sectors affected by AI such that students are prepared for future careers that involve AI technologies; and
+
+          (j)  Promote strategies to bridge the digital divide and ensure equitable access to AI-powered educational resources.
+
+     (3)  The task force may invite outside experts, conduct surveys, hold public hearings or engage in other methods of gathering data on current use, opportunities and challenges related to AI and is encouraged to seek out the feedback of students, parents, teachers and other community members.
+
+SECTION 5.  (1)  The task force shall submit interim reports to the House and Senate Education Chairs and the Governor regarding progress and preliminary findings by November 15, 2024.
+
+     (2)  The task force shall submit its final report detailing its findings, conclusions and policy recommendations to the Governor, Lieutenant Governor and Speaker of the House by December 15, 2024.
+
+     (3)  The Department of Education shall post the final report on its website for public access.
+
+     SECTION 6.  The task force shall be dissolved on January 1, 2025.
+
+     SECTION 7.  This act shall take effect and be in force from and after July 1, 2024.

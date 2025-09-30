@@ -1,0 +1,208 @@
+ S. 3975
+
+
+To require companies to receive consent from consumers to having their data used to train an artificial intelligence system.
+
+
+IN THE SENATE OF THE UNITED STATES
+March 19, 2024
+Mr. Welch (for himself and Mr. Luján) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To require companies to receive consent from consumers to having their data used to train an artificial intelligence system.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Artificial Intelligence Consumer Opt-in, Notification, Standards, and Ethical Norms for Training Act” or the “AI CONSENT Act”.
+
+ SEC. 2. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) ARTIFICIAL INTELLIGENCE SYSTEM.—The term “artificial intelligence system” means a machine-based system that—
+
+
+(A) is capable of influencing the environment by producing an output, including predictions, recommendations or decisions, for a given set of objectives; and
+
+
+(B) uses machine or human-based data and inputs to—
+
+
+(i) perceive real or virtual environments;
+
+
+(ii) abstract these perceptions into models through analysis in an automated manner (such as by using machine learning) or manually; and
+
+
+(iii) use model inference to formulate options for outcomes.
+
+
+(2) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+
+
+(3) COVERED DATA.—The term “covered data” means information relating to an individual that—
+
+
+(A) is collected by a covered entity in the course of the individual using a product, tool, platform, or service offered by the covered entity; and
+
+
+(B) identifies or is linked or reasonably linkable, alone or in combination with other information, to the individual or a device that identifies or is linked or reasonably linkable to the individual, and shall include derived data and unique persistent identifiers.
+
+
+(4) COVERED ENTITY.—The term “covered entity” means a person, partnership, or corporation subject to the jurisdiction of the Commission under section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 45(a)(2)).
+
+
+(5) DE-IDENTIFIED DATA.—The term “de-identified data” means information that has been processed such that the information does not identify and is not linked or reasonably linkable to a distinct individual or a device, regardless of whether the information is aggregated, and if the covered entity holding such information—
+
+
+(A) takes reasonable technical measures to ensure that the information cannot, at any point, be used to re-identify any individual or device that identifies or is linked or reasonably linkable to an individual;
+
+
+(B) publicly commits in a clear and conspicuous manner—
+
+
+(i) to process and transfer the information solely in a de-identified form without any reasonable means for re-identification; and
+
+
+(ii) to not attempt to re-identify the information with any individual or device that identifies or is linked or reasonably linkable to an individual; and
+
+
+(C) contractually obligates any person or entity that receives the information from the covered entity—
+
+
+(i) to comply with all of the provisions of this paragraph with respect to the information; and
+
+
+(ii) to require that such contractual obligations be included contractually in all subsequent instances for which the data may be received.
+
+
+(6) DERIVED DATA.—The term “derived data” means covered data that is created by the derivation of information, data, assumptions, correlations, inferences, predictions, or conclusions from facts, evidence, or another source of information or data about an individual or an individual’s device.
+
+
+(7) DEVICE.—The term “device” means any electronic equipment capable of collecting, processing, or transferring covered data that is used by one or more individuals.
+
+
+(8) TRANSFER.—The term “transfer” means to disclose, release, disseminate, make available, license, rent, or share covered data orally, in writing, electronically, or by any other means.
+
+
+(9) UNIQUE PERSISTENT IDENTIFIER.—The term “unique persistent identifier”—
+
+
+(A) means an identifier to the extent that such identifier is reasonably linkable to an individual or device that identifies or is linked or reasonably linkable to 1 or more individuals, including a device identifier, Internet Protocol address, cookie, beacon, pixel tag, mobile ad identifier, or similar technology, customer number, unique pseudonym, user alias, telephone number or other form of persistent or probabilistic identifier that is linked or reasonably linkable to an individual or device; and
+
+
+(B) does not include an identifier assigned by a covered entity for the specific purpose of giving effect to an individual’s exercise of express informed consent or revocation of consent to the collection of covered data to train an artificial intelligence system.
+
+ SEC. 3. DISCLOSURE AND OPT-IN REQUIREMENTS FOR ENTITIES THAT USE DATA TO TRAIN ARTIFICIAL INTELLIGENCE SYSTEMS.
+
+
+(a) Prohibition.—Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate regulations under section 553 of title 5, United States Code, to prohibit covered entities from using or selling or transferring to a third party any covered data of an individual that is collected by the covered entity to train an artificial intelligence system except as provided in subsection (b).
+
+
+(b) Use Of Covered Data To Train Artificial Intelligence Systems Pursuant To Express Informed Consent.—The regulations promulgated by the Commission under subsection (a) shall include the following:
+
+
+(1) The regulations permit a covered entity to use covered data of an individual to train an artificial intelligence system or to sell or transfer such data to a third party for such purpose if the covered entity first—
+
+
+(A) provides the individual with a clear and conspicuous disclosure of how the covered entity or third party will use the individual's covered data; and
+
+
+(B) obtains the express informed consent of the individual for the covered entity or third party to use the individual's covered data for such purpose.
+
+
+(2) For purposes of the disclosure required under paragraph (1)(A), the regulations shall—
+
+
+(A) provide a standard for what constitutes a clear and conspicuous disclosure that takes into account—
+
+
+(i) different platform types, including websites, mobile applications, and search engines;
+
+
+(ii) the size, font, color, or other visual affects of such a disclosure;
+
+
+(iii) the brevity, accessibility, and clarity of such a disclosure such that it may be understood by a reasonable person;
+
+
+(iv) the medium of such a disclosure—including text, audio, and video components—and the efficacy of these media to ensure the individual's attention and information;
+
+
+(v) the timeliness and location of such a disclosure; and
+
+
+(vi) any other criteria determined appropriate by the Commission;
+
+
+(B) consider the possibility of consumer fatigue toward such disclosures and minimize its impact;
+
+
+(C) require that the disclosure clearly explains the individual's applicable rights related to consent, including that service shall not be conditioned on the granting of consent by the individual;
+
+
+(D) require that the disclosure state how an individual's covered data may be used to train artificial intelligence systems by the covered entity or sold or transferred to third parties that may do the same; and
+
+
+(E) require that the disclosure offer instructions on how an individual may grant or revoke consent.
+
+
+(3) For purposes of the consent required under paragraph (1)(B), the regulations shall require that—
+
+
+(A) individuals may grant or revoke consent at any time through an accessible and easily navigable mechanism;
+
+
+(B) the option to withhold or revoke consent shall be at least as prominent as the option to accept and shall take the same number of steps or fewer as the option to accept;
+
+
+(C) such consent is obtained independently from the covered entities’ terms of service agreement;
+
+
+(D) such consent cannot be inferred from an individual's action or inaction, such as hovering over or closing a window or piece of content;
+
+
+(E) services provided by a covered entity may not be reduced, restricted, or made conditional on whether an individual withholds consent; and
+
+
+(F) should an individual revoke consent, all covered data of the individual shall be expunged from datasets used to train an artificial intelligence system following the revocation of consent.
+
+ SEC. 4. FTC STUDY ON DATA DE-IDENTIFICATION METHODS.
+
+
+Not later than 1 year after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Technology of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on methods used by covered entities to convert covered data into de-identified data. Such report shall include an evaluation of whether, given advancements in artificial intelligence technology, there are any reasonable technical measures covered entities could take, in addition to those measures currently used by covered entities, to ensure that covered data that has been converted to de-identified data cannot at any point be used to re-identify an individual or their device.
+
+ SEC. 5. ENFORCEMENT.
+
+
+(a) Unfair And Deceptive Acts Or Practices.—A violation of a regulation promulgated under this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+
+(b) Powers Of The Commission.—
+
+
+(1) IN GENERAL.—The Commission shall enforce regulations promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of such regulations.
+
+
+(2) PRIVILEGES AND IMMUNITIES.—Any person that violates a regulation promulgated under this Act shall be subject to the penalties, and entitled to the privileges and immunities, provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+
+
+(3) REGULATIONS.—The Commission shall, pursuant to section 553 of title 5, United States Code, promulgate such regulations as the Commission determines necessary to carry out the provisions of this Act.
+
+
+(4) AUTHORITY PRESERVED.—Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.
+
+ SEC. 6. PREEMPTION.
+
+
+(a) In General.—Nothing in this Act shall be construed to preempt the law of any State that provides greater protections to users of the services provided by covered entities and individuals generally than the protections provided by the regulations promulgated under this Act.
+
+
+(b) Definition Of State.—In this section, the term “State” means any of the 50 states, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.

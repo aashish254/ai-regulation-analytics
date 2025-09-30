@@ -1,0 +1,25 @@
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Spam Communication Assessment and Mitigation Platform Act” or the “SCAM Platform Act”.
+
+SEC. 2. Scam identification tool.
+
+(a) In general.—Not later than 1 year after the date of the enactment of this Act, the Commission shall provide on the website of the Commission a tool that uses artificial intelligence to assist the public in identifying likely scams.
+
+(b) Requirements.—The tool described in subsection (a) shall—
+
+(1) accept a submission from an individual in a variety of formats, including emails, text messages, website addresses, and scans or photographs of physical materials;
+
+(2) evaluate the likelihood that such submission is a scam; and
+
+(3) provide such submission a rating, on a scale to be determined by the Commission, that reflects the likelihood that such submission is a scam.
+
+(c) Definitions.—In this section:
+
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+
+(2) COMMISSION.—The term “Commission” means the Federal Communications Commission.
+
+(3) SCAM.—The term “scam” means a scheme or artifice to defraud, including a communication that attempts through false or misleading information to induce a recipient to pay money, provide personal information, or otherwise act contrary to the interest of the recipient.

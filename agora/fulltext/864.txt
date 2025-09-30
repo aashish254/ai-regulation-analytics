@@ -1,0 +1,374 @@
+ S. 4140
+
+
+To require the Secretary of Energy to identify, analyze, and share available data for the purpose of improving the reliability and resilience of the electric grid, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+April 17, 2024
+Mr. Heinrich (for himself, Mr. Wyden, and Mr. Padilla) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources
+
+
+A BILL
+To require the Secretary of Energy to identify, analyze, and share available data for the purpose of improving the reliability and resilience of the electric grid, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Grid Reliability and Integrated Data Act of 2024” or the “GRIData Act of 2024”.
+
+ SEC. 2. DEFINITIONS.
+
+
+(a) In General.—In this Act:
+
+
+(1) CUSTOMER AVERAGE INTERRUPTION DURATION INDEX; CAIDI.—In accordance with IEEE 1366, the term “Customer Average Interruption Duration Index” or “CAIDI” means the average number of minutes per sustained interruption experienced by customers per year.
+
+
+(2) DEPARTMENT.—The term “Department” means the Department of Energy.
+
+
+(3) ENERGY COMMUNITY.—The term “energy community” has the meaning given the term in section 45(b)(11)(B) of the Internal Revenue Code of 1986.
+
+
+(4) IEEE 1366.—The term “IEEE 1366” means the standard published by the Institute of Electrical and Electronics Engineers Standards Association entitled “IEEE Guide for Electric Power Distribution Reliability Indices” and numbered 1366 (as in effect on the date of enactment of this Act).
+
+
+(5) INTEGRATED RESOURCE PLANNING.—The term “integrated resource planning” means modeling and evaluating how projected long-term electricity demands (such as electricity demands over periods of 5, 10, 20, or more years) within a service area can be met with a combination of electric generation resources that best achieve desired metrics, such as metrics relating to reliability, resilience, and cost.
+
+
+(6) MOMENTARY AVERAGE INTERRUPTION FREQUENCY INDEX; MAIFI.—In accordance with IEEE 1366, the term “Momentary Average Interruption Frequency Index” or “MAIFI” means the average number of momentary interruptions experienced by customers per year.
+
+
+(7) MOMENTARY INTERRUPTION.—
+
+
+(A) IN GENERAL.—In accordance with IEEE 1366, the term “momentary interruption” means a brief loss of power, as determined by the applicable electric utility, subject to subparagraph (B).
+
+
+(B) EXCLUSION.—The term “momentary interruption” does not include a loss of power lasting more than 5 minutes.
+
+
+(8) RELIABILITY.—The term “reliability”, with respect to the electric grid, means the ability of the electric grid or the components of the electric grid to withstand instability, uncontrolled events, cascading failures, or unanticipated loss of system components.
+
+
+(9) RESILIENCE.—The term “resilience”, with respect to the electric grid, means the ability of the electric grid or the components of the electric grid to adapt to changing conditions and withstand and rapidly recover from disruptions, including disruptions caused by extreme weather conditions or emerging threats.
+
+
+(10) RESOURCE ADEQUACY.—The term “resource adequacy” means the adequate supply and provision of electricity from various electric generation resources to meet projected electricity demands in a service area.
+
+
+(11) SECRETARY.—The term “Secretary” means the Secretary of Energy.
+
+
+(12) SUSTAINED INTERRUPTION.—In accordance with IEEE 1366, the term “sustained interruption” means an interruption in power service lasting more than 5 minutes.
+
+
+(13) SYSTEM AVERAGE INTERRUPTION DURATION INDEX; SAIDI.—In accordance with IEEE 1366, the term “System Average Interruption Duration Index” or “SAIDI” means the average number of minutes of sustained interruption per customer per year.
+
+
+(14) SYSTEM AVERAGE INTERRUPTION FREQUENCY INDEX; SAIFI.—In accordance with IEEE 1366, the term “System Average Interruption Frequency Index” or “SAIFI” means the average number of sustained interruptions per customer per year.
+
+
+(b) Disadvantaged Community; Low-Income Community; Rural Area.—
+
+
+(1) IN GENERAL.—The Secretary shall define the terms “disadvantaged community”, “low-income community”, and “rural area” for purposes of this Act.
+
+
+(2) REQUIREMENT.—In carrying out paragraph (1), the Secretary shall take into consideration, as applicable, the following:
+
+
+(A) The definition of the term “disadvantaged community” in each of—
+
+
+(i) section 6001 of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 1015); and
+
+
+(ii) section 50121(d) of Public Law 117–169 (commonly known as the “Inflation Reduction Act of 2022”) (42 U.S.C. 18795(d)).
+
+
+(B) The definition of the term “low-income community” in each of—
+
+
+(i) section 11406(a) of the Infrastructure Investment and Jobs Act (23 U.S.C. 149 note; Public Law 117–58); and
+
+
+(ii) section 45D(e) of the Internal Revenue Code of 1986.
+
+
+(C) The definition of the term “rural area” in each of—
+
+
+(i) section 609(a) of the Public Utility Regulatory Policies Act of 1978 (7 U.S.C. 918c(a));
+
+
+(ii) section 343(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1991(a)); and
+
+
+(iii) section 6702(a) of title 49, United States Code.
+
+ SEC. 3. IDENTIFICATION, ANALYSIS, AND SHARING OF DATA.
+
+
+(a) In General.—The Secretary shall work with appropriate entities, as necessary, to identify, analyze, and share available data in a manner necessary—
+
+
+(1) to inform and improve the reliability and resilience of the electric grid, especially in rural areas, low-income communities, disadvantaged communities, and energy communities; and
+
+
+(2) to improve long-term reliability assessments, resource adequacy models, and integrated resource planning.
+
+ (b) Data Identification And Analysis.—
+
+
+(1) RELIABILITY AND RESILIENCE DATA.—
+
+
+(A) TYPES OF RELIABILITY AND RESILIENCE DATA.—In identifying and analyzing relevant data under subsection (a), the Secretary shall consider the types of data to be shared, including—
+
+
+(i) existing IEEE 1366 reliability data and metrics, including—
+
+
+(I) the System Average Interruption Duration Index (SAIDI);
+
+
+(II) the System Average Interruption Frequency Index (SAIFI);
+
+
+(III) the Customer Average Interruption Duration Index (CAIDI);
+
+
+(IV) the Momentary Average Interruption Frequency Index (MAIFI); and
+
+
+(V) any other reliability data or metric defined in IEEE 1366, as the Secretary determines to be appropriate; and
+
+
+(ii) any new or modified data or metric, as the Secretary determines to be appropriate.
+
+
+(B) TEMPORAL FREQUENCY OF RELIABILITY AND RESILIENCE DATA.—In identifying and analyzing relevant data under subsection (a), the Secretary shall consider—
+
+
+(i) the temporal frequency of the production or collection of that data—
+
+
+(I) to inform the reporting and dissemination of information relating to the reliability and resilience of the electric grid on an annual basis, especially in rural areas, low-income communities, disadvantaged communities, and energy communities; and
+
+
+(II) to the maximum extent practicable, to inform customers experiencing power outages of anticipated recovery times on a real-time basis, such as through the Outage Data Initiative Nationwide (ODIN) program of the Department; and
+
+
+(ii) any other considerations relating to the temporal frequency of the production or collection of that data, as the Secretary determines to be appropriate.
+
+
+(C) SPATIAL RESOLUTION OF RELIABILITY AND RESILIENCE DATA.—In identifying and analyzing relevant data under subsection (a), the Secretary shall consider—
+
+
+(i) the spatial resolution of that data, with a goal—
+
+
+(I) to inform the reporting and dissemination of information relating to the reliability and resilience of the electric grid on an annual basis, especially in rural areas, low-income communities, disadvantaged communities, and energy communities; and
+
+
+(II) to the maximum extent practicable, to inform customers experiencing power outages of anticipated recovery times on a real-time basis, such as through the Outage Data Initiative Nationwide (ODIN) program of the Department; and
+
+
+(ii) any other considerations relating to the spatial resolution of that data, as the Secretary determines to be appropriate.
+
+
+(2) WEATHER DATA.—In identifying and analyzing relevant historical or simulated future weather data required for long-term reliability assessments, resource adequacy models, and integrated resource planning under subsection (a), the Secretary shall, as necessary, work with National Laboratories, the National Center for Atmospheric Research, the National Oceanic and Atmospheric Administration, and other agencies or entities to consider—
+
+
+(A) the type of data, which shall include meteorological variables that have significant impact on—
+
+
+(i) generation, transmission, storage, or distribution availability; or
+
+
+(ii) electricity demand;
+
+
+(B) the representativeness of the data, with a goal to approximate actual conditions as closely as reasonably possible with representativeness validated and uncertainty quantified;
+
+
+(C) the spatial resolution of observational data, with a goal to provide weather data over a grid with 2 kilometer spacing or smaller;
+
+
+(D) the frequency of the data, with a goal to report weather data not less frequently than hourly, and preferably every 15 minutes; and
+
+
+(E) the duration of the data, with a goal for the data to be—
+
+
+(i) chronologically consistent, complete, and span at least a 30-year period; and
+
+
+(ii) updated periodically, as determined by the Secretary.
+
+
+(3) POTENTIAL DATA NEEDS.—In identifying and analyzing relevant data under subsection (a), the Secretary shall consider potential future needs, including—
+
+
+(A) emerging technologies that employ machine learning or artificial intelligence for the purposes of improving—
+
+
+(i) the reliability and resilience of the electric grid, especially in rural areas, low-income communities, disadvantaged communities, and energy communities; and
+
+
+(ii) long-term reliability assessments, resource adequacy models, and integrated resource planning;
+
+
+(B) the changing mix of energy generation resources and demands on the electric grid, including energy efficiency as a resource;
+
+
+(C) the security and costs associated with collecting and sharing those data; and
+
+
+(D) ways to mitigate risks and cost impacts to utilities associated with data collection and sharing.
+
+
+(4) METHODS AND PLATFORMS.—In identifying and analyzing relevant data under subsection (a) with consideration of the factors described in paragraphs (1) through (3), the Secretary shall consider the available methods and platforms for acquiring and sharing the data, including—
+
+
+(A) existing surveys, such as the surveys carried out using Form EIA–861 of the Energy Information Administration;
+
+
+(B) existing data sharing platforms, such as—
+
+
+(i) the Open Energy Data Initiative of the Department;
+
+
+(ii) the Outage Data Initiative Nationwide (ODIN) program of the Department;
+
+
+(iii) the U.S. Energy Atlas of the Energy Information Administration;
+
+
+(iv) the Wind Data Hub of the Pacific Northwest National Laboratory; and
+
+
+(v) the National Solar Radiation Database of the National Renewable Energy Laboratory; and
+
+
+(C) other methods and platforms, as the Secretary determines to be appropriate, including automated data collection methods.
+
+ (c) Data And Information Sharing.—
+
+
+(1) REPORT.—
+
+
+(A) IN GENERAL.—Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to Congress and make publicly available a report that summarizes the findings from the activities conducted under subsection (b).
+
+
+(B) REQUIREMENT.—The report under subparagraph (A) shall provide recommendations on the data types, spatial and temporal resolution, collection methods, and sharing platforms that will better assist utilities, regulators, National Laboratories, academic institutions, and associated agencies and entities in improving long-term electric reliability, resilience, resource adequacy modeling, and integrated resource planning.
+
+
+(C) CONSIDERATION OF COSTS AND SECURITY RISKS.—To the extent practicable, the report under subparagraph (A) shall consider costs and potential security risks associated with data collection and sharing, with the goal of minimizing costs and maximizing privacy and security, as needed.
+
+
+(2) WEBSITES.—
+
+
+(A) IN GENERAL.—Not later than 18 months after the date of enactment of this Act, the Secretary shall identify existing websites administered by the Department or entities funded by the Department, including websites of the Energy Information Administration or the National Laboratories, or establish new websites, to share available data in a manner identified under subsection (b) and reported under paragraph (1).
+
+
+(B) PREFERENCE.—To improve accessibility and standardization, the Secretary, in carrying out subparagraph (A), shall give preference to fewer centralized and integrated websites with appropriate links and references, as necessary, rather than to multiple independent websites.
+
+
+(C) UPDATES.—The websites described in subparagraph (A) shall be updated as needed, as determined by the Secretary.
+
+ (d) Steering Committee.—
+
+
+(1) IN GENERAL.—The Secretary shall establish a steering committee comprising a group of stakeholders, including, as the Secretary determines to be appropriate—
+
+
+(A) representatives from relevant Federal agencies, such as—
+
+
+(i) the Office of Science and Technology Policy;
+
+
+(ii) the Office of Electricity of the Department;
+
+
+(iii) the Office of Energy Efficiency and Renewable Energy of the Department;
+
+
+(iv) the Office of Cybersecurity, Energy Security, and Emergency Response of the Department;
+
+
+(v) the Energy Information Administration; and
+
+
+(vi) the Federal Energy Regulatory Commission;
+
+
+(B) representatives of regulators and electric power sectors, such as—
+
+
+(i) the North American Electric Reliability Corporation;
+
+
+(ii) the National Association of Regulatory Utility Commissioners;
+
+
+(iii) State utility commissioners;
+
+
+(iv) grid asset owners and operators from the investor-owned utility segment;
+
+
+(v) grid asset owners and operators from the public power segment;
+
+
+(vi) grid asset owners and operators from the cooperative segment; and
+
+
+(vii) the Institute of Electrical and Electronics Engineers; and
+
+
+(C) subject matter experts.
+
+
+(2) PURPOSE.—The steering committee established under paragraph (1) shall help inform and guide the development and goals of the activities carried out under subsection (a) by identifying priorities for the identification, analysis, sharing, and use of data under that subsection, such as—
+
+
+(A) customer affordability;
+
+
+(B) feasibility;
+
+
+(C) the leveraging of existing capabilities to minimize duplication of effort; and
+
+
+(D) the protection of sensitive data or information.
+
+
+(3) APPLICABILITY OF FACA.—Chapter 10 of title 5, United States Code (commonly referred to as the “Federal Advisory Committee Act”), shall not apply to the steering committee established under paragraph (1).
+
+ (e) Responsibilities And Costs.—
+
+
+(1) COLLABORATION.—In administering the activities described in subsections (a) through (d), the Secretary may work with utilities, electric cooperatives, National Laboratories, and other agencies and entities, as the Secretary determines to be appropriate.
+
+
+(2) AVOIDANCE OF ADDITIONAL COSTS.—In administering the activities described in subsections (a) through (d), the Secretary shall use amounts appropriated under subsection (f) to avoid imposing additional costs on electric cooperatives, utilities, and assisting entities.
+
+
+(3) ADDITIONAL PROGRAMS.—The Secretary may establish new programs to carry out the activities described in subsections (a) through (d), as necessary, using amounts appropriated under subsection (f).
+
+
+(4) SAVINGS PROVISION.—Nothing in this Act precludes a State from continuing to collect, or adding to, specific data required to be submitted to a State agency.
+
+ (f) Authorization Of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for the first fiscal year beginning after the date of enactment of this Act, to remain available until expended.

@@ -1,0 +1,142 @@
+ TITLE II—NATIONAL DRONE AND ADVANCED AIR MOBILITY RESEARCH INSTITUTES
+
+
+SEC. 201. NATIONAL DRONE AND ADVANCED AIR MOBILITY RESEARCH INSTITUTES.
+
+
+(a) In General.—The Administrator of the National Aeronautics and Space Administration shall establish a program to award financial assistance for the planning, establishment, and support of a network of Institutes (as described in subsection (b)(2)) in accordance with this section.
+
+
+(b) Financial Assistance To Establish And Support National Drone And Advanced Air Mobility Research Institutes.—
+
+
+(1) IN GENERAL.—The Director of the National Institute of Standards and Technology, the Director of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration, and any other agency head may award financial assistance to an eligible entity, or consortia thereof, as determined by an agency head, to establish and support an Institute.
+
+ (2) DRONE AND ADVANCED AIR MOBILITY INSTITUTES.—An Institute described in this subsection is an unmanned aircraft systems research institute that—
+
+
+(A) may focus on—
+
+
+(i) a particular economic or social sector, including education, manufacturing, transportation, agriculture, security, energy, environment, and public safety, and includes a component that addresses the ethical, societal, safety, and security implications relevant to the application of advanced air mobility and unmanned aircraft systems in that sector; or
+
+
+(ii) a cross-cutting challenge for research, development, testing, or use of advanced air mobility and unmanned aircraft systems;
+
+
+(B) requires partnership among public and private organizations, including, as appropriate, Federal agencies, academic institutions, nonprofit research organizations, Federal laboratories, State, local, and Tribal governments, industry, and others (or consortia thereof);
+
+
+(C) has the potential to create an innovation ecosystem, or enhance existing ecosystems, to translate Institute research into applications and products, as appropriate to the topic of each Institute;
+
+
+(D) supports and coordinates interdisciplinary research and development across multiple institutions and organizations involved in unmanned aircraft systems research and related disciplines, which may include physics, engineering, mathematical sciences, computer and information science, robotics, material science, cybersecurity, and technology ethics;
+
+
+(E) supports interdisciplinary education activities at all levels, including curriculum development, research experiences, and faculty professional development across two-year, undergraduates, masters, and doctoral level programs;
+
+
+(F) establishes a robust data management strategy that ensures digital access and machine-readability; that promotes findability, interoperability, analysis- and decision-readiness and reusability; and ensures applicable scientific data are managed for wide use by the Federal Government, State, local, and Tribal governments, academia, and the public;
+
+
+(G) applies lessons learned from unmanned aircraft systems research, development, demonstration, and testing to advanced air mobility systems; and
+
+
+(H) supports workforce development in advanced air mobility and unmanned aircraft systems related disciplines in the United States, including broadening participation of underrepresented communities.
+
+ (3) USE OF FUNDS.—Financial assistance awarded under paragraph (1) may be used by an Institute for—
+
+
+(A) managing and making available to researchers accessible, curated, standardized, secure, and privacy protected data sets from the public and private sectors for the purposes of training and testing advanced air mobility systems and unmanned aircraft systems, and for research and development using advanced air mobility systems and unmanned aircraft systems;
+
+
+(B) developing and managing testbeds, Unmanned Aircraft Systems Test Ranges, for advanced air mobility or unmanned aircraft systems, including sector-specific test beds, designed to enable users to evaluate advanced air mobility systems and unmanned aircraft systems prior to deployment;
+
+
+(C) conducting research and education activities involving advanced air mobility and unmanned aircraft systems to solve challenges with economic, scientific, and national security implications;
+
+
+(D) conducting research and development on advanced air mobility and unmanned aircraft systems platform development and innovation;
+
+
+(E) providing or brokering access to computing resources, networking, and data facilities for advanced air mobility and unmanned aircraft systems research and development relevant to the Institute’s research goals;
+
+
+(F) providing technical assistance to users, including software engineering support, for advanced air mobility systems and unmanned aircraft systems research and development relevant to the Institute’s research goals;
+
+
+(G) supporting the purchase of advanced air mobility and unmanned aircraft systems software;
+
+
+(H) engaging in outreach and engagement to broaden participation in advanced air mobility and unmanned aircraft systems research, development and workforce;
+
+
+(I) supporting artificial intelligence and machine learning research related to advanced air mobility and unmanned aircraft systems; and
+
+
+(J) such other activities that an agency head whose agency’s missions contribute to or are affected by advanced air mobility and unmanned aircraft systems determines is appropriate to fulfill the agency’s missions.
+
+ (4) DURATION.—
+
+
+(A) INITIAL PERIODS.—An award of financial assistance under paragraph (1) shall be for an initial period of up to five years, subject to Office of Management and Budget uniform guidance for Federal assistance.
+
+
+(B) EXTENSION.—An established Institute may apply for, and the agency head may grant, extended funding for periods of up to five years on a merit-reviewed basis using the merit review criteria of the sponsoring agency, subject to Office of Management and Budget uniform guidance for Federal assistance.
+
+ (5) APPLICATION FOR FINANCIAL ASSISTANCE.—
+
+
+(A) IN GENERAL.—An entity seeking financial assistance under paragraph (1) shall submit to an agency head an application at such time, in such manner, and containing such information as the agency head may require.
+
+
+(B) REQUIREMENTS.—An application submitted under subparagraph (A) for an Institute shall, at a minimum, include the following:
+
+
+(i) A plan for the Institute, including—
+
+
+(I) the proposed goals and activities of the Institute;
+
+
+(II) a description of how the Institute will form partnerships with other research institutions, industry, nonprofits, academic institutions, and others to leverage expertise in advanced air mobility and unmanned aircraft systems and access to data;
+
+
+(III) a description of how the institute will support long-term and short-term education and workforce development in advanced air mobility and unmanned aircraft systems, including broadening participation of underrepresented communities; and
+
+
+(IV) a description of how the Institute will transition from planning into operations.
+
+
+(ii) A description of the anticipated sources and nature of any non-Federal contributions or other Federal agency funding.
+
+
+(iii) A data management plan that addresses the collection, use, retention, protection, dissemination, and management of data collected, consistent with the purposes of this Act.
+
+
+(iv) A description of the anticipated long-term impact of such Institute.
+
+ (6) COMPETITIVE MERIT REVIEW.—In awarding financial assistance under paragraph (1), the agency shall—
+
+
+(A) use a competitive merit review process that includes peer review by a diverse group of individuals with relevant expertise from both the private and public sectors; and
+
+
+(B) ensure the focus areas of the Institute do not substantially duplicate the efforts of any other Institute.
+
+ (7) COLLABORATION.—
+
+
+(A) IN GENERAL.—In awarding financial assistance under paragraph (1), an agency head may collaborate with Federal departments and agencies the missions of which contribute to or are affected by advanced air mobility and unmanned aircraft systems.
+
+
+(B) NONDUPLICATION.—In carrying out the program under this section, the Administrator of the National Aeronautics and Space Administration shall coordinate with the heads of other Federal departments and agencies to avoid duplication of research and other activities to ensure that the activities carried out by Institutes are complementary to those being undertaken by other agencies.
+
+
+(C) COORDINATING NETWORK.—The Administrator of the National Aeronautics and Space Administration shall establish a network of Institutes receiving financial assistance under this subsection, to be known as the “Drone Leadership Network”, to coordinate cross-cutting research and other activities carried out by the Institutes.
+
+
+(D) FUNDING.—The head of an agency may request, accept, and provide funds from other Federal departments and agencies, State, United States territory, local, or Tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support an Institute’s activities. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
+
+
+(c) Authorization Of Appropriations.—There is authorized to be appropriated to the National Aeronautics and Space Administration $5,000,000 for each of fiscal years 2024 through 2028 to carry out the activities authorized in section 201(a).

@@ -1,0 +1,239 @@
+SECTION ONE. Definitions 
+1. “Artificial Intelligence” means a machine-based system that can, for a given set of human defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action. This definition shall comply with the meaning outlined in 15 U.S.C. 9401(3). 
+
+
+2. “City Entity” means any agency, department, bureau, unit, or commission of the City of St. Louis or any person or entity acting on behalf of any agency, department, bureau, unit, or commission of the City of St. Louis. A Special Tax District shall not be considered a City Entity. 
+
+
+3. “Committee” means a committee to which, pursuant to the Rules of the Board of Aldermen, bills affecting matters that are subject to this Ordinance are assigned.  
+
+
+4. “Discrimination” means the disparate treatment or consideration of, or making a distinction in favor or against a person based on the characteristics, real or perceived, for which discriminatory treatment is prohibited under the laws and regulations of the United States, the State of Missouri, and the Charter and ordinances of the City of St. Louis, which shall include the following characteristics; race, religion, national origin, age, sex, sexual orientation, gender identity, pregnancy, familial status, disability, veteran status and genetic status.
+
+
+5. “Disparate Impact" means an adverse effect that is disproportionately experienced by individuals having traits, characteristics, or status as to which discrimination is prohibited under the Constitution or any laws of the United States, under the constitution or any law of the state of Missouri, or the Charter or any ordinance of the City of St. Louis. 
+
+
+6. “Exigent circumstances” means an emergency involving imminent danger of death or serious physical injury to any person that requires the immediate use of Surveillance Technology or the information it provides. 
+
+
+7. “New surveillance technology” shall mean any type of surveillance technology, the acquisition of which was not previously approved by the Board of Aldermen pursuant to the requirements of this ordinance. A surveillance technology is not considered a new surveillance technology where its capabilities and functionality do not differ in any significant way from a previously approved version of an equivalent surveillance technology. 
+
+
+8. “Surveillance Data” means any information or data collected, captured, recorded, retained, processed, intercepted, analyzed, or shared by surveillance technology. 
+
+
+9. “Surveillance Technology'' shall mean any electronic surveillance device, hardware, or software that is capable of collecting, capturing, recording, retaining, processing, intercepting, analyzing, monitoring, or sharing audio, visual, digital, location, thermal, biometric, behavioral, or similar information or communications specifically associated with, or capable of being associated with, any specific individual or group; or any system, device, or vehicle that is equipped with an electronic surveillance device, hardware, or software has the principal or an intended purpose of monitoring activities, behavior, or changing conditions to influence, manage, monitor, or protect the safety and welfare of individuals or groups, or to aid in the prevention of criminal activity or the investigation of suspected criminal activity. Surveillance technology includes but is not limited to these or their successor technologies: (a) international mobile subscriber identity (IMSI) catchers and other cell site simulators; (b) automatic license plate readers; (c) closed-circuit television cameras; (d) biometric surveillance technology, including facial, voice, iris, and gait-recognition software and databases; (e) mobile DNA capture technology; (f) gunshot detection and location hardware and services; (g) x-ray vans; (h) video and audio monitoring and/or recording technology, such as surveillance cameras, wide-angle cameras, and wearable body cameras; (i) surveillance enabled or capable light bulbs or light fixtures; (j) social media monitoring software; (k) through-the-wall radar or similar imaging technology; (l) passive scanners of radio networks; (m) long-range Bluetooth and other wireless-scanning devices; (n) radio-frequency I.D. (RFID) scanners; (o) software designed to integrate or analyze data from surveillance technology, including surveillance target tracking and predictive policing software. and (p) technology that includes Artificial Intelligence to deploy, direct, execute, analyze, or engage in surveillance. The enumeration of surveillance technology examples in this subsection shall not be interpreted as an endorsement or approval of their use by any city entity; “Surveillance technology” does not include the following unless they have been equipped with, or are modified to become or include, a surveillance technology as defined herein: a. Routine office hardware (such as televisions, computers, and printers) that are in widespread public use and will not be used for any surveillance or surveillance related functions; b. Parking Ticket Devices (PTD); c. Surveillance devices that cannot record or transmit audio or video or be remotely accessed, such as image stabilizing binoculars, night vision goggles, or similar imaging devices; d. City Entity databases that do not and will not contain any data or other information collected, captured, recorded, retained, processed, intercepted, or analyzed by surveillance technology including but not limited to databases containing private healthcare information required under the Health Insurance Portability and Accountability Act (HIPAA), disease outbreak management systems and e. Manually operated technological devices that are used primarily for internal city entity communications and are not designed to surreptitiously collect surveillance data, such as radios, tablets, city issued cell phones, and email systems. 
+
+
+10. “Viewpoint-based" shall mean targeted at any community or group or their members because of their exercise of rights protected under the First Amendment of the United States Constitution. 
+
+
+SECTION TWO. Board of Aldermen Approval Mandatory 
+
+
+A. A City Entity must obtain Board of Aldermen approval – in the form of a resolution that shall be introduced to the full Board of Aldermen, referred to the relevant Committee, and thereafter voted on by the Committee subsequent to a mandatory, properly-noticed, germane, hearing at which the public is afforded a fair and adequate opportunity to provide online, written, and oral testimony, as referenced in Section (3)(F) prior to engaging in any of the following: 
+1. Accepting funds for a new surveillance technology, including but not limited to grant funding, or accepting state or federal funds or in-kind or other donations; 
+2. Acquiring, borrowing, or sharing surveillance technology, including the surveillance data therefrom, whether or not that acquisition is made through the exchange of monies or other consideration; 
+3. Using new or existing surveillance technology for a purpose or in a manner not previously approved pursuant to this ordinance, or exceeding a quantitative limit as outlined within the Surveillance Use Plan previously approved by the Board of Aldermen in accordance with this ordinance, including the acquisition or sharing of surveillance data therefrom; or 
+4. Soliciting proposals for or entering into an agreement with any other person or entity, by  way of a Request for a Proposal (RFP), to acquire, share, or otherwise use surveillance  technology or surveillance data. 
+
+
+B. Nothing in this Section shall be deemed to prohibit: 
+1. A city law enforcement entity, in the course of a specific, active criminal investigation, from securing surveillance data from a non-city entity pursuant to a judicially-issued probable cause warrant, from receiving surveillance data voluntarily provided for no monetary or other consideration by a non-city entity or an individual not acting in their capacity as an employee or agent of a City Entity, or from allowing an individual not acting in their capacity as an employee or agent of a city entity to review but not possess surveillance data in possession of the city law enforcement entity; or 
+2. Any city entity from responding to a valid and lawful request for government records pursuant to Chapter 610 of the Revised Statutes of Missouri (the “Missouri Sunshine Law”). 
+
+
+C. In the event a City Entity operates an approved real-time crime center (RTCC) jointly with other counties or municipalities, nothing in this Act shall be deemed to restrict the RTCC's receipt or sharing of surveillance data from or with non-City Entity operators, or its use of surveillance technologies to analyze or process non-city entity-provided data for the benefit of non-city entities. Rather, with respect to jointly operated RTCCs, this Act shall only prohibit city entities from (1) providing, receiving, or reviewing surveillance data that was collected produced by, or derived from a surveillance technology that has not been approved by the Board of Alderman pursuant to this Act, and (2) permitting or allowing City Entity-provided data to be analyzed or processed using a surveillance technology that has not been approved by the Board of Alderman pursuant to this Act. 
+
+
+D. Once approval for a Surveillance Technology Use Plan has been obtained, it applies throughout the procurement or budgeting process. 
+
+
+SECTION THREE. Surveillance Use Plan (“SUP”) and Timing of Review, Hearings, and Votes 
+
+
+A. As a part of the process of seeking Board of Aldermen approval pursuant to Section 2, a City Entity shall submit to the Board of Aldermen and make publicly available a Surveillance Use  Plan concerning the surveillance technology at issue. No approval of the acquisition or use of surveillance technology by a City Entity pursuant to Section 2 shall be permitted without the Board of Aldermen's express approval of the related Surveillance Use Plan. The Board of Aldermen may request review and recommendations from the Civil Rights Enforcement Agency (CREA), Division of Civilian Oversight, the Information Technology Department, the City Counselor’s Office, or a functionally equivalent City organization prior to voting on a surveillance technology approval resolution and related Surveillance Use Plan. 
+1. Resolutions and related Surveillance Use Plans for the approval of new surveillance technologies may only be submitted to the Board of Aldermen between September 1 through January 15. 
+
+
+B. Prior to a vote on the resolution containing a Surveillance Use Plan, the Committee may request revisions be made by the submitting City Entity as outlined in Section 3(C), to be considered as amendments at the next regularly scheduled or specially called Committee meeting.
+
+
+ C. Upon submission of the SUP to the clerk of the Board of Alderman and the respective Committee chair, The President of the Board of Alderman shall assign the resolution with the SUP attached to the Committee. The President of the Board shall make these assignments in a timely manner, so as they may be announced by the clerk, no later than the second, subsequent regular meeting that the resolution was introduced. 
+
+
+1. Pursuant to Section 3 (E), the resolution and the initial SUP shall be publicly noticed for 21 days before a Committee hearing is held to discuss the resolution and the SUP. The Committee hearing, at which the opportunity for public testimony shall be required, shall be held within 14 days of the expiration of the public notice period. 
+
+
+2. After public testimony is taken on the resolution and the SUP pursuant to Sections 3(C)(1) and (10), the Committee shall take a vote on the resolution and SUP within 14 days, unless the Committee requests additional information from the City Entity or makes or requests changes to the resolution or SUP 
+
+
+3. If the Committee requests more information from the City Entity or changes to the resolution or SUP, the City Entity shall have a maximum of 30 days to submit the requested information and changes and to provide the Committee with comments on the proposed changes to the resolution or SUP. The City Entity may request an extension beyond 30 days by sending such request to the Chair of the Committee and the Clerk of the Board with the date that the City Entity will provide the requested information, documentation, or changes.
+
+
+4. Upon receipt of the information, changes, and/or comments provided by the City Entity the Committee shall make the provided information, changes, and comments available to the public, at a designated page on the City website.
+
+
+ 5. The Committee shall call a hearing within 14 days to review the information, changes, and/or comments provided by the City Entity and take public testimony.
+
+
+ 6. After public testimony is taken on the resolution and SUP pursuant to Section 3(C)(5) and (10), the Committee shall take a vote on the resolution and SUP within 14 days.
+
+
+ 7. If the resolution and SUP are approved by the Committee, the resolution and SUP shall advance to the full Board of Aldermen for a final vote, which shall be taken within 30 days.
+
+
+ 8. If the resolution and SUP are not approved by either the Committee or the full Board of Aldermen:
+ a. Any existing contract involving a surveillance technology that was not approved for use pursuant to this ordinance may continue to be honored in accordance with the terms of the contract and any ongoing criminal investigation utilizing said technology may continue until the investigation has concluded, but immediately cease once that investigation ends. However, the Surveillance Technology shall not be used in future investigations upon the disapproval of the Board of Alderman.
+c. The surveillance technology that was not approved may not be used, even if funds have been allocated for its acquisition, use, operation, or maintenance, including by the Board of Estimate and Apportionment.
+
+
+ 9. Weekdays on which the Board of Aldermen is in recess, and weekend days following a Friday on which the Board of Aldermen is in recess, shall not count toward the time periods in Section 3(C) that pertain to Committee or Board of Aldermen hearings and votes.
+
+
+ 10. All resolutions covered by this ordinance shall be properly noticed pursuant to Chapter 610 of the Revised Statutes of Missouri (“Missouri Sunshine Law”) before a committee hearing is held to discuss the resolution. Public testimony shall be required at all hearings mandated under Section 3(C) if members of the public appear to give testimony or submit written testimony.
+ 
+D. Surveillance Use Plan: A Surveillance Use Plan submitted pursuant to this Section shall be a publicly released, legally enforceable written report that includes, at a minimum, the following:
+
+
+ 1. General Description: Information describing the surveillance technology and how it works, including product descriptions from manufacturers.
+
+
+ 2. Purpose: What specific purpose(s) the surveillance technology is intended to advance.
+
+
+ 3. Authorized Use(s): For what specific capabilities and uses of the surveillance technology is authorization being sought, including amounts to be acquired and deployed, expected geographic areas and durations, organizational partnerships, and Memorandums of Understanding (MOUs) and:
+a. What legal and procedural rules will govern each authorized use, including where an application of Surveillance Technology requires a warrant;
+b. What potential uses of the surveillance technology will be expressly prohibited; and
+c. How and under what circumstances will surveillance data that was collected, captured, recorded, or intercepted by the surveillance technology be analyzed and reviewed.
+
+
+4. Deployment: If the surveillance technology will not be uniformly deployed or targeted throughout the city, what factors will be used to determine the specific geographic targeting, and what measures will be taken to ensure such targeting is racially and economically neutral.
+
+
+5. Cost: The fiscal impact of the surveillance technology, including costs of technology acquisition, operation, maintenance, personnel, and data storage, as well as all sources of funding and donations.
+
+
+6. Discriminatory Impact Avoidance: What specific, affirmative measures will be implemented to safeguard the public from the potential discriminatory impacts of the technology, including without limitation what measures will be used to avoid biases in surveillance targeting and data collection.
+
+
+7. Data Collection:
+a. What types of surveillance data will be collected, captured, recorded, intercepted, or retained by the surveillance technology;
+b. What surveillance data may be inadvertently collected during the authorized uses  of the surveillance technology, and what measures will be taken to minimize the  inadvertent collection of data; and
+ c. How inadvertently collected surveillance data will be expeditiously identified and  deleted.
+d. How the City Entity will ensure that, when it retains surveillance data, such  retention will be in compliance with Section Three(D)(9) of this ordinance, and that when it collects surveillance data, it (1) shall not collect surveillance data concerning an individual where there is no reasonable suspicion that the individual is involved in criminal conduct or activity and the information is relevant to that criminal conduct or activity and (2) shall not collect criminal intelligence information about the political, religious or social views, associations, or activities of any individual or any group, association, corporation, business, partnership, or other organization unless such information directly relates to criminal conduct or activity and there is reasonable suspicion that the subject of the information is involved in criminal conduct or activity.
+
+
+8. Data Protection: What safeguards will be used to protect surveillance data from unauthorized access, including encryption and access control mechanisms, and what protocols will be put in place to authorize access and monitor who has access.
+
+
+9. Data Retention: What rules and procedures will govern the retention and deletion of surveillance data, including how it will be ensured that the schedule for retaining and deleting data aligns with the guidelines specified in RSMo 109.200-109.310 and how data collected by the City Entity as a result of the use of surveillance technology shall be stored in a manner such that it cannot be modified, destroyed, accessed or purged contrary to the Missouri Police Clerks Records Retention Schedule.
+
+
+ 10. Surveillance Data Sharing: If a city entity is seeking authorization to share access to surveillance technology or surveillance data with any other persons, city entities, or governmental entities, it shall detail:
+ a. Which persons, city entities, or other governmental entities will be approved for (i) surveillance technology sharing, and for (ii) surveillance data sharing;
+b. How such sharing is necessary for the stated purpose and use of the surveillance technology;
+c. How will it ensure any person, city entity, or other governmental entity approved for access to the surveillance technology or surveillance data complies with the applicable Surveillance Use Plan and does not further disclose the surveillance data to unauthorized persons and entities; and
+
+
+11. Demands for Access to Surveillance Data: What legal standard must be met by government entities or third parties seeking or demanding access to surveillance data.
+
+
+12. Training: What training procedures will be implemented to ensure compliance with this ordinance, the Revised Code of the City of St. Louis, and applicable federal and state laws and regulations.
+
+
+13. Auditing and Oversight: What mechanisms will be implemented to ensure the Surveillance Use Plan is followed, including what independent or non-independent persons or entities will be given oversight authority, and what legally enforceable sanctions will be put in place for violations of the Plan.
+
+
+ 14. Complaints: What procedures will be put in place by which members of the public can register complaints or concerns, or submit questions about the deployment or use of a specific surveillance technology, and how the city entity will ensure each question and complaint is responded to in a timely manner.
+
+
+ E. In no event will access to surveillance technology be permitted to investigate, analyze, review,or gather information solely concerning any action or speech protected by the First Amendment to the United States Constitution. Additionally, in no event will access to surveillance technology be permitted to investigate, analyze, review, or gather information protected under HIPAA.
+
+
+F. The Committee hearing required pursuant to Section 2 may not be held until the required Surveillance Use Plan has been available to the public, at a designated page on the City website, for a period of at least twenty-one (21) calendar days.
+
+
+G. Open Records: All complete and unredacted Surveillance Technology Use Plans shall be considered “open records” as permitted under the Missouri Sunshine Law.
+
+
+H. Exceptions: Unless limitations are set forth in the Surveillance Technology Use Plan, the acquisition of additional units of Surveillance Technology, or the replacement of existing technology with like-kind units shall not be considered a modification to a Plan requiring approval subject to the approval procedures of this ordinance.
+
+
+SECTION FOUR. Review of Preexisting Uses Mandatory
+ No later than one hundred fifty (150) days following the effective date of this ordinance, any City Entity seeking to continue the use of any surveillance technology that was in use prior to the effective date of this ordinance, or the sharing of surveillance data therefrom, must commence a Board of Aldermen approval process in accordance with Section 2, and upon receipt of the required resolution and SUP, the Board of Aldermen must initiate the approval review process in accordance with the procedures and timelines set forth in Section 3. During this review process, the City Entity may continue the use of the Surveillance Technology, until the technology is approved or rejected during the review process in accordance with Section 3.
+
+
+ SECTION FIVE. Lead Entity Identification
+If more than one city entity will have access to the surveillance technology or surveillance data, a lead city entity shall be identified. The lead city entity shall be responsible for maintaining the surveillance technology and ensuring compliance with all related laws, regulations, and protocols.
+
+
+ SECTION SIX. Standard for Approval
+The Board of Aldermen shall only approve a request to fund, acquire, or use a surveillance technology if it determines the benefits of the surveillance technology outweigh its costs, that the proposal will safeguard civil liberties and civil rights, and that the uses and deployments of the surveillance technology will not be based upon discriminatory or viewpoint-based factors or have a disparate impact on any community or group. During such analysis, the Board of Alderman shall decide on the approval of surveillance technology based on their compliance with the requirements of this ordinance, notwithstanding the potential availability of third-party funding. To assist the public in participating in such an analysis, all approved Surveillance Use Plans shall be made available to the public, at a designated page on the relevant city entity's public website, for as long as the related surveillance technology remains in use. Approval for the funding, acquisition, and/or  use of a surveillance technology by the Board of Aldermen, where the risk of potential  discriminatory impacts on civil liberties or civil rights has been identified in the Surveillance Use  Plan, shall not be interpreted as an acquiescence to such impacts, but rather as an acknowledgment that a risk of such impacts exists and must be proactively avoided.
+
+
+ SECTION SEVEN. Annual Surveillance Reports
+ A. For each Surveillance Technology approved pursuant to this ordinance, the lead City Entity  must submit an annual report detailing its use during the preceding calendar year to the Clerk of the Board of Aldermen and Chair of the respective Committee on or before February 28th of each year. All annual surveillance reports shall be considered an “open record” under the Missouri Sunshine Law as permitted by law and shall be posted on the city entity’s website within five (5) days of submission for at least one calendar year.
+
+
+B. All annual surveillance reports shall contain the following information:
+1. A summary of how the surveillance technology was used, including frequency of use, numbers deployed, and duration of use;
+2. Whether and how often collected surveillance data was shared with and received from any external persons or entities, the name(s) of any recipient or entity, the type(s) of data disclosed, under what legal standard(s) the information was disclosed, and the justification for the disclosure(s);
+3. Where applicable, a breakdown of where the surveillance technology was deployed geographically, by individual census tract as defined in the relevant year by the United States Census Bureau, ward boundary, neighborhood boundary, or St. Louis Metropolitan Police Department district as applicable.
+ 4. A breakdown of how many Surveillance Technology deployments were utilized in pursuit of a crime/an active criminal investigation, and the classification of the offense.
+ 5. The number of Surveillance Technology requests submitted by Alderpersons per ward.
+ 6. A summary of complaints or concerns that were received about the surveillance technology with no identifying personal information;
+ 7. The results of any internal audits, any information about violations of the Surveillance Use Plan, and any actions taken in response;
+8. A good faith effort of an analysis of any discriminatory, disparate, and other adverse impacts the use of the technology may have had on the public’s civil rights and civil liberties, including but not limited to those guaranteed by the First, Fourth, and Fourteenth Amendment to the United States Constitution; and
+9. For the preceding fiscal year, an annual budget spending report detailing, by line item, all expenditures on Surveillance Technologies and the specific sources of funding or resources, both internal and external, for Surveillance Technologies.
+10. Total annual costs for the surveillance technology, including personnel and other ongoing costs, and what source of funding will fund the technology in the coming year.
+11. For purposes of this section, “external persons and entities” shall not include specifically identifying persons acting in their individual capacities.
+
+
+SECTION EIGHT. Remedies; Discipline; Whistleblower Protections; Exclusionary Rule; Deletion/Destruction Requirement
+A. Unless prohibited by state law, federal law, the Missouri Constitution, or the Missouri Supreme Court rules and procedures, any violation of this ordinance, including but not limited to funding, acquiring, or utilizing surveillance technology that has not been approved pursuant to this ordinance or utilizing surveillance technology in a manner or for a purpose that has not been approved pursuant to this ordinance, constitutes an injury and any person may institute any and all available civil legal proceedings, including but not limited to actions for damages in any court of competent jurisdiction to enforce this ordinance.
+B. Unless prohibited by state law, federal law, the Missouri Constitution, or the Missouri Supreme Court rules and procedures, a court shall award costs and reasonable attorneys’ fees to the plaintiff who if they are the prevailing party in an action brought to enforce this ordinance.
+C. City employees or agents, except in response to a declared municipal, state, or federal state of emergency, shall not use any surveillance technology except in a manner consistent with policies approved pursuant to the terms of this ordinance.
+D. Should an employee or agent of a City Entity violate any provisions of this Act, the City Entity shall take appropriate disciplinary action against the employee or agent, subject to and in accordance with the provisions of the RSMo. 590.502, RSMo. 84.341, Civil Service Rule IX, and all applicable Department of Personnel Regulations.
+E. Whistleblower protections: In accordance with provisions of Civil Service Rule IX, Chapter 15.14 of the City Code, and all applicable Department of Personnel Regulations, No City Entity or anyone acting on behalf of a City Entity may take or fail to take, or threaten to take or fail to take, a personnel action with respect to any employee or applicant for employment, including but not limited to discriminating with respect to compensation, terms, conditions, access to information, restrictions on due process rights, privileges of employment, or civil or criminal liability, because the employee or applicant was perceived to, about to, or assisted in any lawful disclosure of information concerning the funding, acquisition, or use of a surveillance technology or surveillance data to any relevant city agency, city law enforcement, prosecutorial, or investigatory office, or Alderman, based upon a good faith belief that the disclosure evidenced a violation of this ordinance.
+
+
+F. Exclusionary Rule; Deletion/Destruction Requirement: Unless prohibited by state law, federal law, the Missouri Constitution, the Missouri Supreme Court rules and procedures:
+1. Any data or other information created or collected in contravention of this ordinance, and any data or information derived therefrom, shall be immediately deleted and destroyed, and maynot:
+a. Be offered as evidence by any City government entity, agency, department, prosecutorial office, or any other subdivision thereof, in any criminal or civil action or proceeding against any member of the public, except as evidence of the violation of this ordinance; or
+b. Be voluntarily provided to another person or entity for use as evidence or for any other purpose.
+2. Notwithstanding the above, if, upon the discovery of data or other information that was created or collected in contravention of this ordinance, it appears such data or information may be material to the defense in a criminal prosecution, a copy of the relevant, potentially material data or other information shall be turned over to the defendant before it is deleted and destroyed, except where prohibited by local, state, or federal law.
+ G. Nothing in this ordinance, this section, or the administration or application thereof shall be construed to create a right of action between private parties.
+
+
+ SECTION NINE. Use of unapproved surveillance technology in exigent circumstances.
+ A. A City Entity may temporarily acquire, or temporarily use, surveillance technology in exigent circumstances without following the provisions of this ordinance provided that the City Entity does all of the following:
+ 1. Use the surveillance technology to solely respond to the exigent circumstances;
+
+
+2. Cease using the surveillance technology within 30 calendar days, or when the exigent circumstances end, whichever is sooner. If an exigent circumstance lasts longer than 30 days, the City Entity shall request an extension of no more than 30 days from the Board of Aldermen. Multiple extensions may be individually requested if exigent circumstances so require;
+
+
+3. Keep and maintain only data related to the exigent circumstances and dispose of any data that is not relevant to an ongoing investigation, unless its retention is:
+a. Necessary to address the exigent circumstance;
+b. Authorized by a court based on a finding of probable cause to believe the information constitutes evidence of a crime; or
+c. Otherwise required by law;
+
+
+4. Not disclose to any third party any information acquired during exigent circumstances unless such disclosure is:
+a. Authorized by a court based on a finding of probable cause to believe the information constitutes evidence of a crime; or
+ b. Otherwise required by law; and
+
+
+ 5. Within 45 days of the conclusion of the exigent circumstances submit a written report to the Board of Aldermen identifying the exigent circumstances and the surveillance technology acquisition and/or use;
+ 
+B. Any surveillance technology temporarily acquired in exigent circumstances shall not be used following the end of exigent circumstances unless approved by the Board of Aldermen pursuant to Section 3.
+
+
+ SECTION TEN. Severability
+The provisions of this are severable. If any part of this ordinance, or the application of this ordinance to any person or circumstance, is held invalid, the remainder of this ordinance, including the application of such part or provisions to other persons or circumstances, shall not be affected by such holding and shall continue to have force and effect.
+
+
+ SECTION ELEVEN. Effective Date
+This ordinance shall go into effect on July 1, 202

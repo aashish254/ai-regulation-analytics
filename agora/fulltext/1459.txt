@@ -1,0 +1,111 @@
+AN ACT to amend the Code of West Virginia, 1931, as amended, by adding thereto a new section, designated §5A-6-9, related to creating a "West Virginia Task Force on Artificial Intelligence”; setting forth the membership of the same; providing for appointment of members; delineating responsibilities of the task force; providing it complete a report and specifying contents of same; and providing a date for termination of the task force.
+
+
+Be it enacted by the Legislature of West Virginia:
+
+
+ARTICLE 6. Office of Technology.
+§5A-6-9. West Virginia Task Force on Artificial Intelligence.
+(a) As used in this Section, "Task Force" means the West Virginia Task Force on Artificial Intelligence established by this section.
+
+
+(b) The West Virginia Task Force on Artificial Intelligence is created and shall be organized within the Office of the Governor.
+
+
+(c) The Task Force shall be composed of the following members:
+
+
+(1) One ex officio, non-voting member from the House of Delegates, appointed by the Speaker of the House of Delegates.
+
+
+(2) One ex officio, non-voting member from the State Senate, appointed by the President of the Senate.
+
+
+(3) The Chief Information Officer of the Office of Technology or his or her designee.
+
+
+(4) The State Superintendent of Schools or his or her designee.
+
+
+(5) The Chancellor of the West Virginia Higher Education Policy Commission or his or her designee.
+
+
+(6) The Attorney General or his or her designee.
+
+
+(7) The Secretary of the Department of Administration or his or her designee.
+
+
+(8) The Secretary of the Department of Homeland Security or his or her designee.
+
+
+(9) The Secretary of Health or his or her designee.
+
+
+(10) One member representing the cybersecurity industry with experience relevant to the work of the Task Force, appointed by the Governor.
+
+
+(11) One member representing the artificial intelligence industry with experience relevant to the work of the Task Force, appointed by the Governor.
+
+
+(12) One member representing a statewide business association, appointed by the Governor.
+
+
+(13) One member from the West Virginia Fusion Center.
+
+
+(14) One member representing either the West Virginia University Health System or the Marshall Health Network, appointed by the Governor.
+
+
+(d) The Governor shall designate the Chair of the Task Force.
+
+
+(e) The responsibilities of the Task Force shall include, but not be limited to, the following:
+
+
+(1) Recommending a definition of artificial intelligence as it pertains to its use in technology for use in legislation.
+
+
+(2) Determining the relevant state agency or agencies to develop and oversee artificial intelligence policy and implementation of that policy.
+
+
+(3) Determining which public interest use cases exist or may exist for artificial intelligence;
+
+
+(4) Developing best practices for public sector uses of artificial intelligence in the State;
+
+
+(5) Recommending legislation to protect individual rights, civil liberties, and consumer data as it relates to generative artificial intelligence;
+
+
+(6) Recommending model policies for schools to address the use of artificial intelligence by students in the classroom;
+
+
+(7) Determining and making recommendations regarding whether the Task Force should be extended to monitor, analyze, and make findings and recommendations to keep pace with changes in artificial intelligence technology and uses of the technology.
+
+
+(8) Assessing the use of artificial intelligence in the workforce and its effect on employment levels, types of employment, and the deployment of workers;
+
+
+(9) Taking an inventory of the current or proposed use of artificial intelligence within state agencies;
+
+
+(10) Other topics related to artificial intelligence that may arise from testimony or reports to the Task Force submitted by its members, invited guests, or the public.
+
+
+(f) The Office of Technology shall provide administrative and technical support to the Task Force.
+
+
+(g) All initial appointments to the task force shall be made not later than 90 days after the effective date of this section. Any vacancy shall be filled by the appointing authority, as applicable, within 90 days of such vacancy arising.
+
+
+(h) The Task Force shall hold its first meeting not later than 120 days after the effective date of this section and shall meet quarterly thereafter with options to either attend in-person or online.
+
+
+(i) The Task Force shall submit an electronic report by July 1, 2025, to the Governor and the Legislature covering the Task Force's findings and recommendations related to the responsibilities under subsection (e) of this section.
+
+
+(j) The Task Force shall terminate on the date that it submits such report or July 1, 2025, whichever is later.
+
+
+ The Clerk of the House of Delegates and the Clerk of the Senate hereby certify that the foregoing bill is correctly enrolled.

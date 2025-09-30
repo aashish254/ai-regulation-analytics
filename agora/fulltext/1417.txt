@@ -1,0 +1,230 @@
+AN ACT to amend the Indiana Code concerning technology.
+
+
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 2-5-53.7 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2024]:
+
+
+Chapter 53.7. Artificial Intelligence Task Force
+
+
+Sec. 1. As used in this chapter, "artificial intelligence" has the meaning set forth in IC 4-13.1-5-1.
+
+
+Sec. 2. As used in this chapter, "college or university" has the meaning set forth in IC 21-7-13-10.
+
+
+Sec. 3. As used in this chapter, "task force" refers to the artificial intelligence task force established by section 4 of this chapter.
+
+
+Sec. 4. The artificial intelligence task force is established as a temporary task force serving the general assembly.
+
+
+Sec. 5. (a) The task force consists of the following fifteen (15) members:
+(1) A member of the house of representatives who is appointed to the task force by the speaker of the house of representatives.
+(2) A member of the senate who is appointed to the task force by the president pro tempore of the senate.
+(3) A member of the house of representatives who is appointed to the taskforce by the minority leader of the house
+of representatives.
+(4) A member of the senate who is appointed to the task force by the minority leader of the senate.
+(5) The chief information officer appointed under IC 4-13.1-2-3, who serves as an ex officio member of the task force.
+(6) The chief data officer appointed under IC 4-3-26-9, who serves as an ex officio member of the task force, or the chief data officer's designee.
+(7) The following members who are appointed to the task force by the governor:
+(A) An academic professional who:
+(i) is employed by a public or private college or university located in Indiana; and
+(ii) specializes in ethics.
+(B) An academic professional who:
+(i) is employed by a public or private college or university located in Indiana; and
+(ii) specializes in artificial intelligence technology.
+(C) An individual with expertise in the use of artificial intelligence by law enforcement agencies.
+(D) An individual with expertise in legal and constitutional rights.
+(E) An individual employed in the cloud technology industry.
+(8) A member with expertise in artificial intelligence or cybersecurity who is appointed to the task force as follows:
+(A) The president pro tempore of the senate shall appoint the member in odd-numbered years.
+(B) The speaker of the house of representatives shall appoint the member in even-numbered years.
+(9) The solicitor general who serves as an ex officio member of the task force, or the solicitor general's designee.
+(10)The director of information technology of the senate,who serves as an ex officio member of the task force.
+(11) The director of the legislative services agency's office of technology services, who serves as an ex officio member of the task force.
+(b) The members appointed under subsection (a)(1) and (a)(2) shall serve as co-chairs of the task force.
+(c) Members of the task force appointed to the task force under subsection (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), and(a)(8)serve a term that ends June 30 of each odd-numbered year but may be reappointed to subsequent terms.
+(d) If a vacancy occurs on the task force, the appointing authority who appointed the member whose position is vacant shall appoint an individual to fill the vacancy.
+(e) An individual appointed to fill a vacancy must meet the qualifications of the vacancy.
+(f) An individual appointed to fill a vacancy serves for the remainder of the term of the member the individual is appointed to replace.
+(g) The following shall serve as nonvoting members of the task force:
+(1) The chief information officer.
+(2) The chief data officer, or the chief data officer's designee.
+(h) Appointing authorities shall appoint the initial members of the task force under subsection (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), and (a)(8) not later than August 1, 2024, and not later than August 1 of each year thereafter.
+
+
+Sec. 6. (a) The task force shall meet at the call of the co-chairs.
+(b) The task force shall meet for the first time not later than September 1, 2024.
+(c) A majority of the members of the task force constitutes a quorum.
+(d) The affirmative votes of a majority of the voting members of the task force are required for the task force to take action on any measure, including adoption of the report under section 8(3)
+of this chapter.
+(e) All meetings of the task force are open to the public in accordance with and subject to IC 5-14-1.5. All records of the task force are subject to the requirements of IC 5-14-3.
+
+
+Sec. 7. (a) The legislative services agency shall staff the task force.
+(b) Except as otherwise provided in this chapter, the task force is subject to IC 2-5-1.2 and the policies and rules of the legislative council.
+
+
+Sec. 8. The task force shall do the following:
+(1) Conduct a study of:
+(A) artificial intelligence technology that has been used, developed, or considered for use by state agencies as reported under IC 4-13.1-5; and
+(B) recommendations issued by other state, institutional, or academic bodies regarding use of artificial intelligence technology in government.
+(2) Assess documented and potential:
+(A) benefits and risks to state agencies of state agency use of artificial intelligence technology; and
+(B) effects of state agency use of artificial intelligence technology on the rights and interests of Indiana residents, including on the:
+(i) constitutional and legal rights;
+(ii) privacy interests;
+(iii) employment; and
+(iv) economic welfare; of Indiana residents.
+(3) Not later than October 31, 2024, and not later than October 31 of each year thereafter, adopt and submit to the executive director of the legislative services agency, for distribution to the members of the general assembly, a report that includes the following:
+(A) The results of the task force's study under subdivision
+(1) and assessment under subdivision (2).
+(B) The taskforce's recommendations with regard to state policies,including any recommended legislation,governing state agency use of artificial intelligence technology, including any policies or legislation necessary to:
+(i) promote effective, informed, and beneficial use of artificial intelligence technology by state agencies; and
+(ii) protect the rights and interests of state residents, including the rights and interests described in subdivision (2)(B), from infringement or impairment by state agency use of artificial intelligence technology.
+
+
+Sec. 9. This chapter expires December 31, 2027.
+
+
+SECTION 2. IC 4-13.1-4 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+Chapter 4. Technology Resources, Cybersecurity, and Infrastructure Standards
+
+
+Sec. 1. As used in this chapter, "political subdivision" has the meaning set forth in IC 36-1-2-13.
+
+
+Sec. 2. As used in this chapter, "public entity" means a:
+(1) political subdivision;
+(2) state agency;
+(3) school corporation; or 
+(4) state educational institution.
+
+
+Sec. 3. As used in this chapter, "school corporation" has the meaning set forth in IC 20-18-2-16(a).
+
+
+Sec. 4. As used in this chapter, "state educational institution" has the meaning set forth in IC 21-7-13-32.
+
+
+Sec. 5. Each public entity may adopt the following:
+(1) A policy governing use of technology resources by the public entity's employees. The policy may:
+(A) prohibit an employee of the public entity from using the public entity's technology resources to:
+(i) engage in lobbying (as defined in IC 2-7-1-9) that is outside the scope of the employee's duties;
+(ii) engage in illegal activity; or
+(iii) violate the public entity's cybersecurity policy; and
+(B) include disciplinary procedures for violation of the technology resources policy.
+(2) A cybersecurity policy. If the public entity is:
+(A) a political subdivision or state educational institution, the policy may be based on standards and guidelines developed by the office;
+(B) a school corporation, the policy may be based on cyber security policy standards and guidelines developed by the office, in collaboration with the department of
+education; and
+(C) a state agency, the policy is developed by the office.
+(3) A training program regarding the public entity's technology resources policy adopted under subdivision(1) and cybersecurity policy adopted under subdivision (2), completion of which is mandatory for the public entity's employees.
+
+
+Sec. 6. (a) Not later than December 31 of each odd-numbered year, a public entity may submit to the office the public entity's cybersecurity policy adopted by the public entity under section 5
+of this chapter.
+(b) The office may establish a procedure for collecting and maintaining a record of cybersecurity policies submitted to the office under subsection (a).
+
+
+Sec. 7. (a) The technology resources policy adopted by a public entity under section 5 of this chapter is a public record under IC 5-14-3.
+(b) The cybersecurity policy adopted by a public entity under section 5 of this chapter is confidential and may not be disclosed to the public under IC 5-14-3.
+
+
+Sec. 8. (a) A public entity that connects to the technology infrastructure of the state after July 1, 2027, must:
+(1) have completed a cybersecurity assessment within the three (3) year period immediately preceding the first date after July 1, 2027, on which the public entity connects to the technology infrastructure of the state;
+(2) complete a cybersecurity assessment at least once every three (3) years after the first date after July 1, 2027, on which the public entity connects to the technology infrastructure of the state;
+(3) provide proof to the office of the public entity's compliance with subdivisions (1) and (2) upon request by the office;
+(4) if the public entity is a state agency or political subdivision, have an "in.gov" or ".gov" domain name; and
+(5) have a secondary end user authentication mechanism.
+(b) An entity that is not a public entity and that connects to the technology infrastructure of the state after July 1, 2026, must:
+(1) have completed a cybersecurity assessment within the two
+(2) year period immediately preceding the first date after July 1, 2026, on which the entity connects to the technology infrastructure of the state;
+(2) complete a cybersecurity assessment:
+(A) at least once every two (2) years after the first date after July 1, 2026, on which the entity connects to the technology infrastructure of the state; and
+(B) biennially for as long as the entity connects to the technology infrastructure of the state;
+(3) provide proof to the office of the entity's compliance with subdivisions (1) and (2) upon request by the office; and
+(4) have a secondary end user authentication mechanism.
+(c) At the discretion of the office:
+(1) a public entity that is not in compliance with subsection (a); or
+(2) an entity that is not in compliance with subsection (b); may be disconnected from the technology infrastructure of the state.
+
+
+Sec. 9.(a)This section applies to a contract entered into between a state agency and a person under which the state agency receives a license to use a software application designed to run on generally available desktop or server hardware.
+(b) A person with which a state agency enters into a contract described in subsection (a) may not, as a provision of the contract or as a condition of the person entering into the contract:
+(1) require that the state agency install or run the software on hardware dedicated solely to the state agency; or
+(2) otherwise restrict the state agency from installing or running the software on hardware of the state agency's choosing.
+(c) If a state agency enters into a contract with a person under which the state agency runs software on hardware owned or operated by the person, the office of technology established by IC 4-13.1-2-1 shall ensure that the state agency fully complies with the licensing terms of all software run on the person's hardware.
+
+
+SECTION 3. IC 4-13.1-5 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+Chapter 5. Inventory of Artificial Intelligence Systems
+
+
+Sec. 1. As used in this chapter, "artificial intelligence" means computing technology that is capable of simulating human learning, reasoning, and deduction through processes such as:
+(1) acquiring and analyzing information for the purpose of improving operational accuracy through improved contextual knowledge;
+(2) identifying patterns in data; and
+(3) improving operational outcomes by analyzing the results of a previous operation and using the analysis to modify the operation to achieve an improved result.
+
+
+Sec. 2. Notwithstanding IC 4-13.1-1-4, as used in this chapter, "state agency":
+(1) means an authority, a board, a branch, a commission, a committee, a department, a division, or another instrumentality of:
+(A) the executive, including the administrative; or
+(B) the legislative; department of state government; and
+(2) does not include the judicial department of state government.
+
+
+Sec. 3. (a) Not later than November 1, 2025, each state agency may:
+(1) compile, in a form specified by the office, an inventory of all artificial intelligence technologies that are:
+(A) in use; or
+(B) being developed or considered by the state agency for use; by the state agency; and
+(2) submit the inventory to:
+(A) the office; and
+(B) the executive director of the legislative services agency for distribution to the members of the artificial intelligence task force established by IC 2-5-53.7.
+(b) A state agency's inventory under subsection(a)must include
+the following information for each artificial intelligence technology included in the inventory:
+(1) The vendor of the artificial intelligence technology.
+(2) A description of the function and capabilities of the artificial intelligence technology.
+(3) A description of:
+(A) the purpose or purposes for which the state agency uses the artificial intelligence technology; and
+(B) any purpose in addition to the purpose or purposes described in clause (A) for which the state agency contemplates using the artificial intelligence technology in
+the future; and examples of the data or information produced by the artificial intelligence technology for each purpose described in clause (A).
+(4) Whether the artificial intelligence technology provides:
+(A) the state agency with information or data that is used by the state agency to inform decisions made by the state agency; or
+(B) decisions, without human intervention, that are implemented by the state agency.
+(5) The:
+(A) types of information or data used by the artificial intelligence technology; and
+(B)source of the information or data used by the artificial intelligence technology.
+(6) The manner in which the state agency secures the:
+(A) artificial intelligence technology;
+(B) information or data used by the artificial intelligence technology; and
+(C) information or data produced by the artificial intelligence technology; from unauthorized access.
+(7) Any person with which the state agency shares the information or data produced by the artificial intelligence technology and the purpose for which the state agency shares
+the information or data with the person.
+(8) The documented or anticipated benefits and risks of the state agency's use of the artificial intelligence technology for both:
+(A) the state agency; and
+(B) Indiana residents served by the state agency; and any information or data used by the state agency in the state agency's assessment of the benefits and risks of the state agency's use of the artificial intelligence technology.
+(9) The fiscal effect of the state agency's use of the artificial intelligence technology, including the following:
+(A) Costs associated with the artificial intelligence technology, including:
+(i) initial acquisition or development costs; and
+(ii) ongoing operating costs, including costs of licensing, maintenance, legal compliance, and data storage and security.
+(B) Any funding source that is used, or could be used, by the state agency to defray the costs described in clause (A).
+(C) An estimate of the degree to which the costs described in clause (A) are offset by a reduction in the state agency's operating costs attributable to the state agency's use of the
+artificial intelligence technology.
+(10) Whether the artificial intelligence technology has been tested or evaluated by an independent third party.
+(11) Whether the data or information produced by the artificial intelligence technology has been:
+(A) evaluated for bias; and
+(B) found to exhibit bias.
+
+
+Sec. 4. Not later than August 1, 2025, the office may prescribe a form for use by state agencies for compilation and submission of the inventory under section 3 of this chapter.
+
+
+Sec. 5. This chapter expires December 31, 2027.
+
+
+SECTION 4. IC 5-15-5.1-14, AS AMENDED BY P.L.222-2023, SECTION 8,IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 14. (a) A public official or agency may not mutilate, destroy, sell, loan, or otherwise dispose of any government record, except under a records retention schedule or with the written consent of the administration.
+(b) Subject to section 11 of this chapter, title to any record of state government is held by the state.
+(c) Subject to section 11 of this chapter, title to any record of a local government is held by that local government.

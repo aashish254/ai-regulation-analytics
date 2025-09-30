@@ -1,0 +1,82 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “National Windstorm Impact Reduction Program Reauthorization Act of 2024”.
+SEC. 2. NATIONAL WINDSTORM IMPACT REDUCTION PROGRAM.
+The National Windstorm Impact Reduction Act of 2004 (Public Law 108–360) is amended—
+(1) in section 204 (42 U.S.C. 15703)—
+(A) in subsection (a), by striking “the purpose of which is to achieve” through “cost-effective mitigation measures to reduce those impacts.” and inserting the following: “the purpose of which is to—
+“(1) achieve major measurable reductions in the losses of life and property from windstorms through a coordinated Federal effort, in cooperation with other levels of government, academia, scientific organizations, and the private sector, aimed at improving the understanding of windstorms and their impacts, including wind-driven rain and storm surge impacts;
+“(2) understand climate variability and climate change impacts on windstorms and the changing nature of windstorm risks and to provide the scientific basis for model building codes to be informed by future projections of storm frequency, intensity, and other factors; and
+“(3) develop and encourage the implementation of cost-effective mitigation measures to reduce the impacts described in paragraphs (1) and (2), which can be applied to communities with different types of housing and infrastructure in urban and rural areas across the United States.”;
+(B) in subsection (b)—
+(i) in paragraph (1)—
+(I) in subparagraph (A), by inserting “, including with respect to existing buildings and manufactured housing” before the semicolon;
+(II) by redesignating subparagraphs (B), (C), (D), and (E) as subparagraphs (C), (F), (G), and (H), respectively;
+(III) by inserting after subparagraph (A) the following new subparagraph:
+“(B) ensure the Program supports interdisciplinary research, including collaborations that include social scientists and emergency managers, and collaborations between atmospheric scientists and engineers, that seek to increase the relevance of atmospheric measurements and models for buildings engineering applications;”; and
+(IV) by inserting after subparagraph (C), as so redesignated, the following new subparagraphs:
+“(D) support integration of emerging tools and technologies in research and engineering activities carried out by the Program, including relating to machine learning, advanced manufacturing technologies, and new materials;
+“(E) support property owner utilization of products and construction methods which strengthen residential and commercial properties from the impact of windstorms, wind-driven rain, and storm surge impacts, including building methodologies and certification standards;”;
+(ii) in paragraph (2), by inserting “to increase resilience to windstorms and resulting wind-driven rain and storm surge impacts” before the period;
+(iii) in paragraph (3)—
+(I) in the matter preceding subparagraph (A), by striking “support research in”;
+(II) in subparagraph (A)—
+(aa) by inserting “support research in” before “engineering and the atmospheric sciences”; and
+(bb) by striking “and” after the semicolon;
+(III) by amending subparagraph (B) to read as follows:
+“(B) support research in economic, behavioral, and social factors influencing development, implementation, and adoption of windstorm and resulting wind-driven rain and storm surge impacts risk assessment, risk communication, and risk reduction measures by individuals, property owners, communities, and policymakers; and”; and
+(IV) by adding at the end the following new subparagraph:
+“(C) support an analysis of the scientific need, opportunity, and challenges to supporting the design, development, and construction of a tornado research facility for the study of tornado impacts on buildings at scale.”;
+(iv) in paragraph (4), by striking “behavior of windstorms and their impact on” and inserting “behavior of windstorms, and resulting wind-driven rain and storm surge, and their impacts on”; and
+(v) in paragraph (5)—
+(I) in subparagraph (A)(i), by inserting “, maintenance, and updating” after “development”; and
+(II) in subparagraph (B), by inserting “and scientific organizations” after “National Institutes of Standards and Technology”;
+(C) in subsection (c)—
+(i) in paragraph (2), by striking “and infrastructure” and inserting “infrastructure, and community response”;
+(ii) in paragraph (3)—
+(I) in subparagraph (B), by striking “and” after the semicolon;
+(II) in subparagraph (C), by striking the period and inserting “; and”; and
+(III) by adding at the end the following new subparagraph:
+“(D) research and development to enhance understanding of factors that influence public responses to windstorm risks.”; and
+(iii) in paragraph (4)(C), by inserting “academia, scientific organizations,” after “construction industry,”; and
+(D) in subsection (e)—
+(i) in paragraph (2)(A)—
+(I) in clause (iv), by striking “and” after the semicolon; and
+(II) by adding at the end the following new clause:
+“(vi) the Department of Housing and Urban Development; and”;
+(ii) in paragraph (5)—
+(I) in the matter preceding subparagraph (A), by striking “not later than 1 year after the date of the enactment of the National Windstorm Impact Reduction Act Reauthorization of 2015,” and inserting “not later than September 30, 2026,”;
+(II) in subparagraph (A), by inserting “and resulting wind-driven rain and storm surge impacts” before the semicolon;
+(III) in subparagraph (C), by inserting “, including efforts to cooperate with other levels of government, academia, scientific organizations, and the private sector” before the semicolon;
+(IV) in subparagraph (D), by striking “and” after the semicolon;
+(V) by redesignating subparagraph (E) as subparagraph (F); and
+(VI) by inserting after subparagraph (D) the following new subparagraph:
+“(E) an analysis of future research infrastructure needs in support of the Program, and a plan for meeting such needs; and”; and
+(iii) in paragraph (6)—
+(I) in the matter preceding subparagraph (A), by striking “Not later than 18 months after the date of the enactment of the National Windstorm Impact Reduction Act Reauthorization of 2015,” and inserting “Not later than March 30, 2027,”;
+(II) in subparagraph (B), by inserting “and” after the semicolon;
+(III) in subparagraph (C), by striking “; and” and inserting a period; and
+(IV) by striking subparagraph (D); and(2) in section 207 (42 U.S.C. 15706)—
+(A) in subsection (a), by striking paragraphs (1) through (3) and inserting the following new paragraphs:
+“(1) $6,246,000 for fiscal year 2025;
+“(2) $6,652,000 for fiscal year 2026;
+“(3) $7,085,000 for fiscal year 2027;
+“(4) $7,545,000 for fiscal year 2028; and
+“(5) $8,035,000 for fiscal year 2029.”;
+(B) in subsection (b), by striking paragraphs (1) through (3) and inserting the following new paragraphs:
+“(1) $46,745,000 for fiscal year 2025;
+“(2) $49,082,000 for fiscal year 2026;
+“(3) $51,536,000 for fiscal year 2027;
+“(4) $54,113,000 for fiscal year 2028; and
+“(5) $56,819,000 for fiscal year 2029.”;
+(C) in subsection (c), by striking paragraphs (1) through (3) and inserting the following new paragraphs:
+“(1) $6,390,000 for fiscal year 2025;
+“(2) $6,805,000 for fiscal year 2026;
+“(3) $7,248,000 for fiscal year 2027;
+“(4) $7,719,000 for fiscal year 2028; and
+“(5) $8,221,000 for fiscal year 2029.”; and
+(D) in subsection (d), by striking paragraphs (1) through (3) and inserting the following new paragraphs:
+“(1) $16,964,000 for fiscal year 2025;
+“(2) $17,812,000 for fiscal year 2026;
+“(3) $18,703,000 for fiscal year 2027;
+“(4) $19,638,000 for fiscal year 2028; and
+“(5) $20,620,000 for fiscal year 2029.”.

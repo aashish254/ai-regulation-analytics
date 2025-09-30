@@ -1,0 +1,15 @@
+SEC. 225. Duties of Chief Digital and Artificial Intelligence Officer Governing Council relating to artificial intelligence models and advanced artificial intelligence technologies.
+
+Section 238(d)(3)(E) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232; 10 U.S.C. note prec. 4061) is amended--
+
+(1) by redesignating clause (x) as clause (xi); and
+
+(2) by inserting after clause (ix) the following new clause (x):
+
+    "(x) With respect to artificial intelligence models and advanced artificial intelligence technologies--
+
+    "(I) to identify and assess artificial intelligence models and advanced artificial intelligence technologies that could pose a national security risk if accessed by an adversary of the United States;
+
+    "(II) to develop strategies to prevent unauthorized access and usage of potent artificial intelligence models by countries that are adversaries of the United States; and
+
+    "(III) to make recommendations to Congress and relevant Federal agencies for legislative or administrative action in the field of artificial intelligence.".

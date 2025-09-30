@@ -1,0 +1,149 @@
+AUTHORITY: Section 5.02 of the Miami-Dade County Home Rule Amendment and Charter.
+SCOPE: This Administrative Order applies to County employees under the purview of the Mayor.
+PURPOSE:
+The purpose of this Administrative Order (AO) is to guide Miami-Dade County employees in the
+responsible and ethical use of artificial intelligence (AI), including tools like ChatGPT. The objective is to
+utilize AI technologies in a manner that maximizes efficiency and security while adhering to the ethical
+standards and legal requirements specific to our County. The policy outlines key directives to:
+1. Comply with Miami-Dade County’s public records policies and retention rules.
+2. Ensure transparent use of AI in creating work products relevant to employee responsibilities.
+3. Set protocols for handling County data, including maintaining security and confidentiality.
+The County’s priority is to ensure the safety of all employees and residents, while maintaining openness,
+flexibility, and productivity. By setting forth guiding principles, objectives, and actionable strategies, this
+document establishes a foundation that safeguards County values, ensures fairness, and upholds the
+highest standards of data privacy, integrity, and security. Through this policy, the administration seeks to
+navigate the evolving landscape of AI with a human-centric approach, fostering innovation while
+minimizing risks and challenges associated with security breaches, and other potential unintended
+consequences.
+This AO is subject to modification based on further adjustments to, or the development of, other County
+policies or procedures on these matters. Failure of any employee to acknowledge receipt of this AO does
+not prevent its enforcement. Non-compliance with this policy will be addressed per Miami-Dade County
+HR policies.The responsible use of AI is a shared responsibility among all employees, and accountability
+will be enforced.
+This policy has been provided in advance to the collective bargaining agents for the applicable County
+employees. This AO is not intended to contradict the express terms of the applicable collective bargaining
+agreement without written consent from the applicable collective bargaining agent.
+More information can be found in the Miami-Dade County Artificial Intelligence Report that is posted at:
+https://www.miamidade.gov/global/technology/home.page 
+POLICY:
+The County administration recognizes the significant potential of AI in enhancing operational efficiency
+and service quality. Committed to ethical AI use, County employees are expected to use AI tools and
+deploy AI solutions to improve public services, promote equity, protect data privacy, and comply to all
+County ethics, ADA, and Florida public record standards. The Human Resources (HR) and Information
+Technology (ITD) Departments will provide guidance to Department Leadership and County Department
+HR Personnel to ensure that County employees receive necessary training, oversight, and safeguards
+that ensures the responsible integration of AI.
+Guidelines:
+1. Training: Employees utilizing AI will receive training on ethical AI usage, focusing on bias
+recognition, privacy concerns, and responsible data management. Miami-Dade County’s
+educational partners will offer no-cost AI technology training to enhance employee skills.
+2. Risk Assessment: Prior to AI implementation in County operations, comprehensive risk
+assessments will be conducted to identify and mitigate potential issues.
+3. Security: Regular audits of AI algorithms will be conducted to ensure secure networks and
+solutions.
+4. Data Privacy: Strict protocols will govern employee handling of sensitive County data.
+5. Community Engagement: The County will actively involve residents and stakeholders in
+discussions about AI deployment, addressing ethical and transparency concerns.
+CONFIDENTIALITY AND INFORMATION SECURITY:
+Miami-Dade County ITD is tasked with maintaining a robust framework for data security and ethical AI
+use managing a comprehensive security framework that safeguards government data, networks, and
+systems. Responsibilities include:
+• Overseeing AI system procurement, deployment, and maintenance.
+• Managing and maintaining AI systems to ensure their security and reliability.
+• Tracking AI projects, employee activities and toolsets across the enterprise.
+• Conducting regular audits and assessments to identify potential security vulnerabilities.
+Principles:
+1. Data Security: The County’s Security team and all Department leaders are committed to
+maintaining the highest standards of data security, ensuring that AI systems do not compromise
+the confidentiality, integrity, or availability of sensitive County data.
+2. Ethical Use: The County organization is dedicated to upholding ethical standards in the
+deployment of AI, which includes fairness, transparency, accountability, and respect for resident
+privacy.
+3. Compliance: The County and all its employees will adhere to all relevant laws, regulations, and
+ethical guidelines governing the use of AI in County government operations.
+4. Access Control: The County’s Security team will implement robust access controls to ensure
+proper access to County deployed AI systems and data to authorized personnel only to protect
+sensitive data.
+Information Technology and Customer Protection Guidelines:
+1. Data Governance: County data will be classified based on its sensitivity, and appropriate security
+measures will be implemented accordingly.
+2. Vendor Assessment: County employees and departments implementing vendor supported
+generative AI solutions must work closely with the ITD to assess the vendor's capabilities,
+security, and privacy practices before integrating their tools.
+3. Data Encryption: Sensitive data used or generated by AI systems will be encrypted to protect
+against unauthorized access.
+4. Responsible, Ethical and ADA Considerations in AI Use: AI initiatives will undergo proper
+assessments to ensure that they align with our organization's rules and standards for accessibility.
+5. Phishing and Social Engineering: Using AI-generated content for communication will be
+monitored as cybersecurity attackers now use generative AI to create convincing phishing emails
+or messages. Employee training will include recognizing AI-generated cybersecurity threats.
+6. Data Retention and Disposal: Data used by AI systems will be retained only as long as
+necessary by public record rules and disposed of securely when no longer required. (Section
+119.011 (12), Florida Statutes)
+ROLES AND RESPONSIBILITIES:
+The successful and ethical integration of artificial intelligence within the County requires clear delineation
+of responsibilities among Departments, directors, supervisors, and employees.
+Responsibilities of the Information Technology Department (ITD)
+1. Strategic Procurement: ITD is responsible for overseeing the entire process of AI tool
+procurement, including vendor evaluation, security and risk assessment, technical review, and
+compliance verification. County departments are required to collaborate with the IT department
+and adhere to established procedures for acquiring and using AI tools.
+2. Monitoring and Evaluation: ITD will monitor the performance and usage of AI tools, collecting
+feedback and data to assess their impact on operational efficiency, service delivery, and
+outcomes. Regular evaluations will be conducted to identify areas for improvement and
+optimization of AI applications, informing future procurement decisions and governance
+enhancements.
+3. Documentation and Reporting:ITD willmaintain comprehensive documentation of all AI-related
+procurement activities, including vendor evaluations, risk assessments, testing results,
+compliance records, and deployment reports. Regular reports and updates will be provided to
+senior management and oversight bodies to communicate the status, progress, and outcomes of
+AI initiatives, ensuring transparency and accountability.
+Responsibilities of Directors and Senior Executive Staff:
+1. Strategic Oversight: Define AI strategic direction, aligning with the County’s mission and
+strategic plan (Miami-Dade County Strategic Plan).
+2. Resource Allocation: Ensure adequate resources for AI projects within their Department.
+3. Ethical Leadership: Promote a culture of innovation and responsible AI use.
+Responsibilities of Supervisors:
+1. Project Management: Oversee AI project implementation and documentation.
+2. Training and Development: Ensure team training in AI technologies.
+3. Ethical Guidance: Promote adherence to ethical AI principles and County policies.
+4. Compliance Reporting: Report any ethical or policy violations.
+Responsibilities of Employees:
+1. Responsible Use: Employees are responsible for using AI technologies in a manner that aligns
+with their job responsibilities and daily work.
+a) Employees are to exercise good judgment and ethical considerations when utilizing AI
+tools as outlined in the County Administrative Order and ethics training.
+b) Employees must not use sensitive or confidential data as input for external and consumerfacing generative AI models, especially if the data includes personally identifiable
+information (PII).
+c) Employees should be cautious when sharing generated content that might inadvertently
+reveal sensitive information.
+2. Content Accuracy: Employees are responsible for verifying the accuracy and revising of AIgenerated information before making decisions based on it for County use.
+3. Ongoing Training:Employees are responsible for participating in AI training programs provided
+by Miami-Dade County to ensure new skills are developed and to maintain competence and stay
+informed about ethical AI use.
+4. Public Records and Retention:Employees are responsible for adhering to public records law
+and are open to public inspection. As such, employees must retain any content generated through
+AI for their County work.
+5. Compliance: Employees are required to comply with County policies, Administrative Orders, and
+ethical rules. Non-compliance may result in disciplinary actions.
+CONTINUOUS IMPROVEMENT:
+This Administrative Order will evolve with the advancement of AI technologies and changing ethical
+considerations. Regular assessments and updates will be conducted to ensure alignment with emerging 
+technical standards and best practices on an annual basis by the Information Technology Department
+and reported to the Board of County Commissioners as outlined in Resolution R-659-23.
+The County approach to innovation and exploration of new technologies requires cross-departmental
+participation and support. The IT Department is responsible for AI tracking, implementation activities and
+procurement. County Departments and Agencies are recommended to examine current processes and
+identify use cases where AI can improve their business and services.
+Continuous improvement of County AI programs involves:
+1. Multidisciplinary Teams: ITD will develop a Community of Practice AI group that will involve
+collaboration among AI experts, subject matter specialists, policymakers, community partners,
+and stakeholders.
+2. Beta Testing: The County Administration advocates for small-scale test projects before full-scale
+deployment.
+3. Human-AI Synergy: The County will focus the integration of AI technologies around enhancing
+employee work. This will enable employees to improve the quality and efficiency of County
+services.
+Updates to the County AI Report as well as resources for employees will be provided online at the IT
+Department website (https://www.miamidade.gov/global/technology/home.page).
+Approved by the County Attorney as to form and legal sufficiency

@@ -1,0 +1,40 @@
+A BILL
+
+To direct the Administrator of the Environmental Protection Agency to establish a consortium relating to exposures to toxic substances and identifying chemicals that are safe to use.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+SECTION 1. Short title.
+
+This Act may be cited as the “Supercomputing for Safer Chemicals Act” or the “SUPERSAFE Act”.
+SEC. 2. Supercomputing for Safer Chemicals (SUPERSAFE) consortium.
+
+(a) Establishment.—
+
+(1) IN GENERAL.—The Administrator of the Environmental Protection Agency (referred to in this section as the “Administrator”), in consultation with the heads of relevant Federal agencies (including the Secretary of Health and Human Services and the Secretary of Energy), shall form a consortium, to be known as the “Supercomputing for Safer Chemicals (SUPERSAFE) Consortium” (referred to in this section as the “Consortium”). The Consortium shall include the National Laboratories of the Department of Energy, academic and other research institutions, and other entities, as determined by the Administrator, to carry out the activities described in subsection (b).
+
+(2) INCLUSION OF STATE AGENCIES.—The Administrator shall allow the head of a relevant State agency to join the Consortium on request of the State agency.
+(b) Consortium activities.—
+
+(1) IN GENERAL.—The Consortium shall use supercomputing, machine learning, and other similar capabilities—
+
+(A) to establish rapid approaches for large-scale identification of toxic substances and the development of safer alternatives to toxic substances by developing and validating computational toxicology methods based on unique high-performance computing, artificial intelligence, machine learning, and precision measurements;
+
+(B) to address the need to identify safe chemicals for use in consumer and industrial products and in their manufacture to support the move away from toxic substances and toward safe-by-design alternatives; and
+
+(C) to make recommendations on how the information produced can be applied in risk assessments and other characterizations for use by the Environmental Protection Agency and other agencies in regulatory decisions, and by industry in identifying toxic and safer chemicals.
+(2) MODELS.—In carrying out paragraph (1), the Consortium—
+
+(A) shall use supercomputers and other virtual tools to develop, validate, and run models to predict adverse health effects caused by toxic substances and to identify safe chemicals for use in products and manufacturing; and
+
+(B) may utilize, as needed, appropriate biological test systems to test and evaluate approaches and improve their predictability and reliability in industrial and regulatory applications.
+
+(c) Public results.—The Consortium shall make model predictions, along with supporting documentation, available to the public in an accessible format.
+
+(d) Authorization of appropriations.—There is authorized to be appropriated to the Administrator to carry out this section—
+
+(1) for fiscal year 2023, $20,000,000;
+
+(2) for fiscal year 2024, $30,000,000; and
+
+(3) for each of fiscal years 2025 through 2027, $35,000,000.

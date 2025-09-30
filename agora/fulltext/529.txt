@@ -1,0 +1,21 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Autonomous Vehicle Accessibility Act” or the “AV Accessibility Act”.SEC. 2. DEFINITIONS.
+In this Act:
+(1) DISABILITY.—The term “disability” has the meaning given the term in section 12102 of title 42, United States Code.
+(2) PUBLIC TRANSPORTATION.—The term “public transportation” has the meaning given the term in section 5302 of title 49, United States Code.
+(3) RIDE-HAIL ADS-EQUIPPED VEHICLE.—The term “ride-hail ADS-equipped vehicle” means an ADS-equipped vehicle that is—
+(A) offered for pre-arranged transportation services for compensation, using an online-enabled application or electronic platform to connect passengers with vehicles; and
+(B) dispatched in driverless operation.
+(4) SECRETARY.—The term “Secretary” means the Secretary of Transportation.
+(5) SAE-DEFINED TERMS.—The terms “ADS-equipped vehicle”, “dispatch”, “Level 4”, “Level 5”, and “driverless operation” have the meanings given such terms in the document titled SAE International Recommended Practice J3016, published in April 2021, or by a revision of that such document subsequently adopted by the Secretary.SEC. 3. LICENSING.
+In accordance with title II of the Americans with Disabilities Act (42 U.S.C. 12132), a State shall not issue a motor vehicle operator’s license for the operation or use of an ADS-equipped vehicle operating at Level 4 or Level 5 in a manner that discriminates on the basis of disability against a qualified individual with a disability.SEC. 4. ACCESSIBLE INFRASTRUCTURE STUDY.
+The Secretary shall seek to enter into an agreement with the National Academies to conduct a study to—
+(1) determine changes to public transportation infrastructure that would improve the ability of individuals with disabilities to find, access, and use ride-hail ADS-equipped vehicles, including during pickup and dropoff; and
+(2) identify options to simplify safe access of ride-hail ADS-equipped vehicles, such as non-visual access for individuals with disabilities, including the consideration of—
+(A) technological solutions for dynamic curb management;
+(B) sidewalk and roadway design;
+(C) dedicated pick-up and drop-off zones;
+(D) curb extension;
+(E) infrastructure design; and
+(F) other factors that can better enable individuals with disabilities to safely locate, enter, use, and exit ride-hail ADS-equipped vehicles during pickup and dropoff.SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+There is authorized to be appropriated $5,000,000 to carry out section 4, to be available until expended.

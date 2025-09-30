@@ -1,0 +1,7 @@
+SEC. 4. Report on feasibility of leveraging artificial intelligence to identify duplicative Federal grant applications.
+
+The Director of the Office of Management and Budget, in consultation with the Secretary of Energy, the Director of the National Science Foundation, and the Director of the National Institute of Standards and Technology, shall submit to the appropriate Congressional committees a report on the feasibility of leveraging artificial intelligence to rapidly identify, with respect to an application for a grant submitted to the head of an executive agency—
+
+(1) whether an applicant for such grant has received, or submitted an application to the head of another executive agency for, another grant for the same or identical purpose; and
+
+(2) waste, fraud, and abuse.

@@ -1,0 +1,107 @@
+ TITLE VII—DEPARTMENT OF HOMELAND SECURITY ACTIVITIES
+
+
+SEC. 701. DEPARTMENT OF HOMELAND SECURITY ACTIVITIES.
+
+
+(a) In General.—The Secretary of Homeland Security, acting through the Under Secretary for Science and Technology of the Department of Homeland Security, shall—
+
+
+(1) support research, development, evaluation and testing for advanced air mobility, unmanned aircraft systems, counter-UAS systems, and detection systems capabilities, including for—
+
+
+(A) air domain awareness and advanced air mobility and unmanned aircraft systems traffic monitoring;
+
+
+(B) privacy, security, and cybersecurity of advanced air mobility systems, unmanned aircraft systems, and counter-UAS systems capabilities;
+
+
+(C) safety of advanced air mobility and unmanned aircraft systems;
+
+
+(D) safety of operations in the National Airspace System; and
+
+
+(E) testing and evaluation of unmanned aircraft systems and counter-UAS systems capabilities, performance systems engineering, and operational analysis;
+
+
+(2) coordinate with all relevant offices and programs of the Department of Homeland Security, including the Cybersecurity and Infrastructure Security Agency, U.S. Customs and Border Protection, the Federal Emergency Management Agency, the Federal Protective Service, the Transportation Security Administration, the United States Coast Guard, and the United States Secret Service;
+
+
+(3) produce curated, standardized, representative, secure, and privacy protected data sets for advanced air mobility systems, unmanned aircraft systems, and counter-UAS systems, including detection systems, development, archiving, and use, prioritizing data for high-value, high-risk research;
+
+
+(4) support one or more Institutes as described in section 201(a) for the purpose of advancing the field of advanced air mobility, unmanned aircraft systems, and counter-UAS systems, including detection systems capabilities;
+
+
+(5) apply lessons learned from unmanned aircraft systems research, development, evaluation, and testing to advanced air mobility systems; and
+
+
+(6) enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the Department and on such terms as the Secretary considers appropriate, in furtherance of the purposes of this Act.
+
+ (b) Counter–UAS Center Of Excellence.—
+
+
+(1) IN GENERAL.—The Secretary of Homeland Security shall establish in the Department of Homeland Security a center of excellence to carry out research and development that advances counter-UAS systems capabilities.
+
+
+(2) SELECTION OF HOST INSTITUTION.—
+
+
+(A) IN GENERAL.—The Secretary of Homeland Security shall make a grant to one institution of higher education, or a consortium of institutions of higher education, to host and maintain the center of excellence established under this subsection.
+
+
+(B) SELECTION CRITERIA.—In selecting such an institution or consortium, the Secretary of Homeland Security shall—
+
+
+(i) give preference to applicants with strong past performance related to counter-UAS systems research, education, and workforce development activities;
+
+
+(ii) give preference to applicants geographically collocated within 100 miles of Federal departments or agencies that currently possess or operate extant counter-UAS system facilities;
+
+
+(iii) give preference to applicants having proven abilities and strong research enterprises in systems engineering, radio frequency (RF) directed energy, radar and antenna research and development, atmospheric monitoring that can support chemical, biological, radiological and nuclear detection to include trace gases and particular matter (PM), target tracking, remote sensing, and the ability to leverage artificial intelligence and machine learning to support the required data analytics;
+
+
+(iv) consider the extent to which the applicant would involve the public and private sectors; and
+
+
+(v) consider the regional and national impacts of the applicant’s proposed research and development activities.
+
+
+(3) USE OF FUNDS.—The institution of higher education or consortium may use funds provided under this subsection to carry out fundamental research, evaluation, education, workforce development, and training efforts related to counter-UAS systems subject areas, including safety, privacy, security, cybersecurity, detecting, identifying, monitoring, tracking, disrupting and seizing control, confiscating, disabling, damaging, destruction, remote sensing, forensics, testing and evaluation of systems capabilities, performance, systems engineering, operational analysis, and advanced technologies.
+
+
+(4) FEDERAL SHARE.—The Department of Homeland Security share of a grant under this subsection shall not exceed 75 percent of the costs of establishing and operating the center of excellence and related research activities carried out by the grant recipient.
+
+
+(5) AUTHORIZATION OF APPROPRIATIONS.—
+
+
+(A) FISCAL YEAR 2024.—There is authorized to be appropriated to the Secretary of Homeland Security $10,000,000 for fiscal year 2024 for making grants under this subsection.
+
+
+(B) FISCAL YEARS 2025 THROUGH 2028.—There are authorized to be appropriated to the Secretary of Homeland Security $5,000,000 in each of fiscal years 2025 through 2028 for making grants under this subsection.
+
+
+(6) INSTITUTION OF HIGHER EDUCATION.—In this subsection, the term “institution of higher education” has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+ (c) Interagency Coordination.—In carrying out the activities under subsection (a), the Secretary of Homeland Security shall coordinate with the heads of other Federal departments and agencies to avoid duplication of research and other activities and to ensure such activities are complimentary to those currently being undertaken by such other departments and agencies.
+
+
+(d) Authorization Of Appropriations.—There are authorized to be appropriated to the Secretary of Homeland Security to carry out this section—
+
+
+(1) $30,000,000 for fiscal year 2024;
+
+
+(2) $31,500,000 for fiscal year 2025;
+
+
+(3) $33,075,000 for fiscal year 2026;
+
+
+(4) $34,728,750 for fiscal year 2027; and
+
+
+(5) $36,465,187 for fiscal year 2028.

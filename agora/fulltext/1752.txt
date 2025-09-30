@@ -1,0 +1,59 @@
+SEC. 236. Pilot program on development of near-term use cases and demonstration of artificial intelligence toward biotechnology applications for national security.
+
+(a) Pilot program required.--The Secretary of Defense shall carry out a pilot program to develop near-term use cases and demonstrations of artificial intelligence for national security-related biotechnology applications.
+
+(b) Public-private partnerships.--The Secretary of Defense shall carry out the pilot program required by subsection (a) through one or more public-private partnerships entered into for purposes of the pilot program.
+
+(c) Laboratory support and infrastructure.--In support of a public-private partnership entered into under subsection (b), the Secretary of Defense may, on a reimbursable basis, make available--
+
+(1) the facilities and services of a Department of Defense laboratory to perform experimentation for biotechnology applications to aid in the validation of artificial intelligence models; and
+
+(2) computing and data storage infrastructure and capabilities of the Department of Defense.
+
+(d) Duration.--The pilot program required by subsection (a) shall--
+
+(1) commence not later than one year after the date of the enactment of this Act; and
+
+(2) terminate five years after the date of the on which the program commences under paragraph (1).
+
+(e) Annual report.--
+
+(1) IN GENERAL.--Not later than one year after the date of the enactment of this Act, and not later than December 1 of every other year thereafter until the termination date specified in subsection (d)(2), the Secretary of Defense shall submit to the congressional defense committees a report on the pilot program.
+
+(2) CONTENTS.--Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
+
+(A) An assessment of existing Department of Defense biotechnology-related data resources and how they may be used in the pilot program.
+
+(B) An assessment of required cybersecurity measures for users under the pilot program.
+
+(C) A description of any mechanisms developed for collaboration among different parties associated with projects under the pilot program, including intellectual property agreements, funding agreements, and material transfer agreements.
+
+(D) An assessment of the role that artificial intelligence is playing in developing biotechnology applications for national security purposes, including identification of commercial or academic applications used in the pilot program.
+
+(E) A description of near-term use cases developed under the pilot program for artificial intelligence-enabled biotechnology applications for national security.
+
+(F) A description of planned, ongoing, and completed demonstrations or other pilot programs funded under the pilot program required by subsection (a) or otherwise funded by the Department of Defense.
+
+(G) An assessment of the viability of transitioning technology developed under the pilot program into operational use within the Department, including assessment of--
+
+(i) the resources needed for further development and scaling of such technology; and
+
+(ii) the potential benefits of such technology.
+
+(3) FORM.--Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+(f) Transition plan.--Not later than one year before the date on which the pilot program terminates under subsection (d)(2), the Secretary of Defense shall submit to the congressional defense committees a plan that outlines what steps the Department could take to turn the pilot program into an operational program if authorized and funded by Congress to do so. The plan shall include the following:
+
+(1) A transition timeline.
+
+(2) Associated projected annual cost of operating the program.
+
+(3) Additional infrastructure that might be needed, including associated costs.
+
+(4) A descriptive analysis of the relevant technical, engineering and commercial biotechnology ecosystem, including entities within the Department and external stakeholders.
+
+(5) Examples of projects from the pilot phase of the program and their outcomes.
+
+(6) The potential impact to Department capabilities of transitioning the program.
+
+(7) Any other details deemed necessary to include by the Secretary.

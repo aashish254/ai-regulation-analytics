@@ -1,0 +1,287 @@
+DOD DIRECTIVE 3000.09 
+AUTONOMY IN WEAPON SYSTEMS 
+
+Originating Component: 	Office of the Under Secretary of Defense for Policy 
+Effective: 	January 25, 2023 
+Releasability: 	Cleared for public release.  Available on the Directives Division Website at https://www.esd.whs.mil/DD/.  
+Reissues and Cancels: 	DoD Directive 3000.09, “Autonomy in Weapon Systems,” November 21, 2012 
+Approved by: 	Kathleen H. Hicks, Deputy Secretary of Defense 
+ 
+[Introductory material omitted.]
+SECTION 1:  GENERAL ISSUANCE INFORMATION 
+
+1.1.  APPLICABILITY. 
+
+a.	This directive applies to: 
+(1)	OSD, the Military Departments, the Office of the Chairman of the Joint Chiefs of Staff (CJCS) and the Joint Staff, the Combatant Commands, the Office of Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the DoD. 
+(2)	The design, development, acquisition, testing, fielding, and employment of autonomous and semi-autonomous weapon systems, including guided munitions that are capable of automated target selection. 
+(3)	The application of lethal or non-lethal, kinetic or non-kinetic, force by autonomous or semi-autonomous weapon systems. 
+
+b.	This directive does not apply to: 
+(1)	Autonomous or semi-autonomous cyberspace capabilities. 
+(2)	Unarmed platforms, whether remotely operated or operated by onboard personnel, and whether autonomous or semi-autonomous. 
+(3)	Unguided munitions. 
+(4)	Munitions manually guided by the operator (e.g., laser- or wire-guided munitions). 
+(5)	Mines. 
+(6)	Unexploded explosive ordnance. 
+(7)	Autonomous or semi-autonomous systems that are not weapon systems. 
+1.2.  POLICY. 
+
+a.	Autonomous and semi-autonomous weapon systems will be designed to allow commanders and operators to exercise appropriate levels of human judgment over the use of force. 
+(1)	Systems will go through rigorous hardware and software verification and validation (V&V) and realistic system developmental and operational test and evaluation (T&E) in accordance with Section 3.  Training, doctrine, and tactics, techniques, and procedures (TTPs) applicable to the system in question will be established.  These measures will provide sufficient confidence that autonomous and semi-autonomous weapon systems: 
+(a)	Function as anticipated in realistic operational environments against adaptive adversaries taking realistic and practicable countermeasures. 
+(b)	Complete engagements within a timeframe and geographic area, as well as other relevant environmental and operational constraints, consistent with commander and operator intentions.  If unable to do so, the systems will terminate the engagement or obtain additional operator input before continuing the engagement. 
+(c)	Are sufficiently robust to minimize the probability and consequences of failures. (2)	Consistent with the potential consequences of an unintended engagement or unauthorized parties interfering with the operation of the system, physical hardware and software will be designed with appropriate: 
+(a)	System safety, anti-tamper mechanisms, and cybersecurity in accordance with DoD Instruction (DoDI) 8500.01 and Military Standard 882E. 
+(b)	Human-machine interfaces and controls. 
+(c)	Technologies and data sources that are transparent to, auditable by, and explainable by relevant personnel. 
+(3)	For operators to make informed and appropriate decisions regarding the engagement of targets, the human-machine interface for autonomous and semi-autonomous weapon systems will: 
+(a)	Be readily understandable to trained operators, such as by clearly indicating what actions operators need to perform and which actions the system will perform. 
+(b)	Provide transparent feedback on system status. 
+(c)	Provide clear procedures for trained operators to activate and deactivate system functions. 
+b.	Persons who authorize the use of, direct the use of, or operate autonomous and semi-autonomous weapon systems will do so with appropriate care and in accordance with the law of war, applicable treaties, weapon system safety rules, and applicable rules of engagement (ROE).  The use of AI capabilities in autonomous or semi-autonomous weapons systems will be consistent with the DoD AI Ethical Principles, as provided in Paragraph 1.2.f. 
+
+c.	With the exception of systems intended to be used in a manner that falls within the 
+policies in Paragraphs 1.2.d.(1) through 1.2.d.(4), autonomous weapon systems, including weapon systems with both autonomous and semi-autonomous modes of operation, must be approved by the Under Secretary of Defense for Policy (USD(P)), the Under Secretary of Defense for Research and Engineering (USD(R&E)), and the Vice Chairman of the Joint Chiefs of Staff (VCJCS) before formal development.  They must be approved again by the USD(P), the Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)), and the VCJCS before fielding.  These requirements for approval are supplementary to the requirements in other applicable policies and issuances.  Autonomous weapon systems requiring these senior approvals in accordance with Section 4 of this directive before formal development and again before fielding include: 
+(1)	Autonomous weapon systems that have not previously been reviewed and approved in accordance with this directive, including autonomous weapon systems that are modifications of an existing non-autonomous weapon system. 
+(2)	Modified versions of previously approved autonomous weapon systems whose system algorithms, intended mission sets, intended operational environments, intended target sets, or expected adversarial countermeasures substantially differ from those applicable to the previously approved weapon systems so as to fall outside the scope of what was previously approved in the senior review.  Such modified systems require a new senior review and approval before formal development and again before fielding. 
+d.	The senior review described in Paragraph 1.2.c is not required for weapon systems intended to be used in the manner described in Paragraphs 1.2.d.(1) through 1.2.d.(4).  These will be considered for approval in accordance with applicable policies and issuances, such as applicable issuances related to the Defense Acquisition System.  Weapon systems that do not require the senior review provided in Paragraph 1.2.c are: 
+(1)	Semi-autonomous weapon systems used to apply lethal or non-lethal, kinetic or nonkinetic, force without any modes of operation in which they are intended to function as an autonomous weapon system. 
+(2)	Operator-supervised autonomous weapon systems used to select and engage materiel targets for local defense to intercept attempted time-critical or saturation attacks for: 
+(a)	Static defense of installations with personnel, including networked defense where the autonomous weapon system is not co-located with the installation. 
+(b)	Onboard and/or networked defense of platforms with onboard personnel. 
+(3)	Operator-supervised autonomous weapon systems used to select and engage materiel targets for defending operationally deployed remotely piloted or autonomous vehicles and/or vessels. 
+(4)	Autonomous weapon systems used to apply non-lethal, non-kinetic force against materiel targets in accordance with DoDD 3000.03E. 
+e.	International sales or transfers of autonomous and semi-autonomous weapon systems will be approved in accordance with existing technology security and foreign disclosure requirements and processes in accordance with DoDD 5111.21. 
+
+f.	The design, development, deployment, and use of AI capabilities in autonomous and semi-autonomous weapon systems will be consistent with the DoD AI Ethical Principles and the DoD Responsible Artificial Intelligence Strategy and Implementation Pathway.  The DoD AI Ethical Principles, as adopted in the February 21, 2020 Secretary of Defense Memorandum, are: 
+(1)	Responsible. 
+DoD personnel will exercise appropriate levels of judgment and care, while remaining responsible for the development, deployment, and use of AI capabilities. 
+(2)	Equitable. 
+The DoD will take deliberate steps to minimize unintended bias in AI capabilities. 
+(3)	Traceable. 
+The DoD’s AI capabilities will be developed and deployed such that relevant personnel possess an appropriate understanding of the technology, development processes, and operational methods applicable to AI capabilities, including with transparent and auditable methodologies, data sources, and design procedures and documentation. 
+(4)	Reliable. 
+The DoD’s AI capabilities will have explicit, well-defined uses, and the safety, security, and effectiveness of such capabilities will be subject to testing and assurance within those defined uses across their entire life cycles. 
+(5)	Governable. 
+The DoD will design and engineer AI capabilities to fulfill their intended functions while possessing the ability to detect and avoid unintended consequences, and the ability to disengage or deactivate deployed systems that demonstrate unintended behavior. 
+ SECTION 2:  RESPONSIBILITIES 
+
+2.1.  USD(P). 
+
+The USD(P): 
+a.	Provides policy oversight for developing and employing autonomous and semi-autonomous weapon systems. 
+b.	Receives requests for approval of systems submitted in accordance with Paragraph 1.2.c, and in coordination with the USD(A&S) or USD(R&E) and the VCJCS, reviews and considers for approval such systems. 
+c.	Issues guidance to help implement this directive, and reviews, as necessary, the appropriateness of such guidance given the continual advancement of new technologies and changing warfighter needs. 
+d.	Approves the DoD position on international sales or transfers of autonomous and semi-autonomous weapon systems in accordance with existing technology security and foreign disclosure requirements and processes. 
+e.	Supervises and assigns a chair for the Autonomous Weapon Systems Working Group, provides necessary logistical and administrative support for the working group, approves the charter for the working group, and provides guidance and terms of reference as needed. 
+2.2.  USD(A&S). 
+
+The USD(A&S): 
+a.	In coordination with the USD(P) and the VCJCS, reviews and considers for approval weapon systems submitted before fielding in accordance with Paragraph 1.2.c. 
+b.	Ensures that DoD guidance relating to the Defense Acquisition System includes a requirement to document the determination that an autonomous or semi-autonomous weapon system is intended to be used in a manner that falls within the policies in Paragraphs 1.2.d.(1) through 1.2.d.(4), and therefore does not require senior approval in accordance with this directive.  This documentation should occur before formal development and again before fielding, regardless of the acquisition pathway that is applicable to that weapon system. 
+2.3.  USD(R&E). 
+
+The USD(R&E): 
+a.	Oversees establishment of standards and evaluation metrics for developmental testing, safety certification, and reliability assessment of autonomous and semi-autonomous weapon systems, with particular attention to the risk of unintended engagements or operational interference by unauthorized parties. 
+b.	Oversees establishment of science and technology and research and development priorities for autonomy in weapon systems, including the development of new methods of V&V and T&E and the establishment of minimum thresholds of risk and reliability for the performance of autonomy in weapon systems. 
+c.	Oversees formulation of concrete, testable requirements for all non-AI elements of autonomous and semi-autonomous weapon systems. 
+d.	Collaborates with the Chief Digital and Artificial Intelligence Officer (CDAO) to formulate concrete, testable requirements for implementing the DoD AI Ethical Principles and the DoD Responsible AI Strategy and Implementation Pathway. 
+e.	Oversees and evaluates the developmental testing of autonomous and semi-autonomous weapon systems to assess the risk of failures. 
+f.	Develops and maintains workforce certification processes, talent management, and curricula to support T&E and V&V of autonomous and semi-autonomous weapon systems by DoD personnel. 
+g.	In coordination with the USD(P) and the VCJCS, reviews and considers for approval weapon systems submitted before entering formal development in accordance with Paragraph 1.2.c. 
+h.	Coordinates with the Director, Operational Test and Evaluation (DOT&E) and the appropriate Secretary of a Military Department or Commander, United States Special Operations Command (USSOCOM) to provide for monitoring to identify and address when changes to the system design or operational environment require additional T&E to provide sufficient confidence that the system will continue to avoid unintended engagements and resist interference by unauthorized parties. 
+2.4.  UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS. 
+
+In accordance with DoDD 1322.18, the Under Secretary of Defense for Personnel and Readiness oversees and establishes policy for: 
+a.	Individual military training programs for the Total Force relating to autonomous and semi-autonomous weapon systems. 
+b.	Individual and functional training programs for military personnel and the collective training programs of military units and staffs relating to autonomous and semi-autonomous weapon systems. 
+ 	 
+2.5.  DOT&E. 
+
+The DOT&E: 
+a.	Oversees development of realistic operational T&E standards for autonomous and semi-autonomous weapon systems, including requirements for data collection and standards for T&E of any changes to the system following initial operational T&E (IOT&E), in accordance with Paragraph 1.2.a.(1) and Section 3. 
+b.	Evaluates whether autonomous and semi-autonomous weapon systems under DOT&E oversight have met standards for rigorous V&V and T&E in realistic operational conditions, including potential adversary action, to provide sufficient confidence that the probability and consequences of failures have been minimized. 
+c.	Establishes standards for data collection post-fielding and monitoring and assessment by programs. 
+d.	Coordinates with the USD(R&E) and the appropriate Secretary of a Military Department or Commander, USSOCOM to provide for monitoring to identify and address when changes to the system design or operational environment require additional T&E to provide sufficient confidence that the system will continue to avoid unintended engagements and resist interference by unauthorized parties. 
+e.	Reviews and approves operational and live fire test plans for autonomous and semi-autonomous weapon systems for Major Defense Acquisition Programs and programs designated for DOT&E oversight. 
+2.6.	GENERAL COUNSEL OF THE DEPARTMENT OF DEFENSE (GC DOD). 
+
+In accordance with DoDD 5000.01, DoDD 2311.01, DoDD 5145.01, and, where applicable, DoDD 3000.03E, the GC DoD provides for guidance on, and coordination of, significant legal issues in autonomy in weapon systems.  The GC DoD also coordinates on the review of the legality of weapon systems submitted in accordance with Paragraph 1.2.c. 
+
+2.7.	ASSISTANT TO THE SECRETARY OF DEFENSE FOR PUBLIC AFFAIRS.  
+
+The Assistant to the Secretary of Defense for Public Affairs coordinates on the development of guidance on public affairs matters concerning autonomous and semi-autonomous weapon systems and the use of such guidance and approves final guidance release. 
+ 2.8.	CDAO. 
+
+The CDAO: 
+a.	Monitors and evaluates AI capabilities in and cybersecurity for autonomous and semi-autonomous weapon systems, in accordance with Paragraph 1.2.a.(2)(a) of this directive and DoDI 8500.01, and advises the Secretary of Defense on such matters. 
+b.	Collaborates with the USD(R&E) to formulate concrete, testable requirements for implementing the DoD AI Ethical Principles and the DoD Responsible AI Strategy and Implementation Pathway. 
+c.	Establishes policy and issues guidance on definitions of requirements and testability for AI-enabled systems to implement and demonstrate adherence to the DoD AI Ethical Principles and the DoD Responsible AI Strategy and Implementation Pathway. 
+d.	Issues guidance on T&E practices for AI capabilities in autonomous or semi-autonomous weapon systems. 
+e.	Coordinates with the USD(R&E) and DOT&E on developing and using common tools and infrastructure for T&E and V&V of AI capabilities in autonomous or semi-autonomous weapon systems. 
+2.9.  SECRETARIES OF THE MILITARY DEPARTMENTS; COMMANDER, USSOCOM; AND DIRECTORS OF THE DEFENSE AGENCIES AND DOD FIELD ACTIVITIES. 
+
+The Secretaries of the Military Departments; the Commander, USSOCOM; and, under the authority, direction, and control of their respective OSD Component head, the Directors of Defense Agencies and DoD Field Activities: 
+a.	Design and develop autonomous and semi-autonomous weapon systems that allow commanders and operators to exercise appropriate levels of human judgment over the use of force.  This will include developing and implementing: 
+(1)	Employment concepts, doctrine, experimentation strategies, TTPs, training, and logistics support. 
+(2)	V&V, anti-tamper mechanisms, physical hardware, and software system safety in accordance with Military Standard 882E. 
+(3)	Cyber survivability, operational resilience, and cybersecurity in accordance with DoDI 8500.01. 
+(4)	Appropriate developmental and operational T&E, regardless of acquisition pathway, the joint/non-joint nature of those system’s missions, or the lack of a survivability Key Performance Parameter for those systems. b.	For the systems in Paragraph 2.9.a: 
+(1)	Design autonomous and semi-autonomous weapon systems to minimize the probability and consequences of failures. 
+(2)	Perform rigorous and realistic developmental and operational T&E and V&V, including T&E of any changes to the system following IOT&E, in accordance with Paragraph 1.2.a.(1) and Section 3. 
+(3)	In coordination with the USD(R&E) and DOT&E, provide for monitoring to identify and address when changes to the system design or operational environment require additional T&E to provide sufficient confidence that the system will continue to avoid unintended engagements and resist interference by unauthorized parties. 
+(4)	For systems incorporating AI capabilities, design the system to utilize robust AI, in accordance with the DoD Responsible AI Strategy and Implementation Pathway, so that the system is resilient in real-world settings and against adversarial attacks and spoofing. 
+(5)	Design system safety, anti-tamper mechanisms, cyber survivability, operational resilience, and cybersecurity capabilities in accordance with Paragraph 1.2.a.(2) of this directive, DoDI 5000.83, the Joint Capabilities Integration and Development System Manual, and DoDI 8500.01. 
+(6)	Design human-machine interfaces to be readily understandable to trained operators, with clear procedures to activate and deactivate system functions, and to provide transparent feedback on system status in accordance with Paragraph 1.2.a.(3). 
+(7)	Certify that operators have been trained in system capabilities, doctrine, and TTPs to exercise appropriate levels of human judgment over the use of force and employ systems with appropriate care in accordance with the law of war, applicable treaties, weapon system safety rules, and ROE that are applicable or reasonably expected to be applicable. 
+(8)	Establish and periodically review training, TTPs, and doctrine to ensure operators and commanders understand the functioning, capabilities, and limitations of a system’s autonomy under realistic operational conditions, including as a result of possible adversary actions. c.	Ensure that legal reviews of the intended acquisition, procurement, or modification of 
+autonomous and semi-autonomous weapon systems are conducted in accordance with DoDD 5000.01, DoDD 2311.01, and, where applicable, DoDD 3000.03E.  Legal reviews must address consistency with all applicable domestic and international law and, in particular, the law of war. 
+d.	Consider for support only those autonomous and semi-autonomous weapon systems that 
+are technically feasible, consistent with applicable law, and consistent with the standards in this directive. 
+e.	In accordance with Paragraphs 1.2.c and 1.2.d, submit any autonomous weapon system for 
+which approval is required to the USD(P), USD(A&S) or USD(R&E), and the VCJCS before a decision to enter formal development, and again before fielding of any such system. 
+2.10.  CJCS. 
+
+The CJCS: 
+a.	Develops and implements joint employment concepts, doctrine, experimentation strategies, TTPs, training, and logistics support for autonomous and semi-autonomous weapon systems. 
+b.	Assesses military requirements for autonomous and semi-autonomous weapon systems, including applicable Key Performance Parameters and key system attributes. 
+c.	Develops and publishes joint doctrine, policy, and other guidance as appropriate to incorporate emerging capabilities of autonomous and semi-autonomous weapon systems into joint and combined operations, in accordance with this directive. 
+
+2.11.	VCJCS. 
+
+In coordination with the USD(P) and USD(A&S) or USD(R&E), the VCJCS reviews and considers for approval autonomous weapon systems submitted in accordance with Paragraph 1.2.c. 
+2.12.	COMBATANT COMMANDERS. 
+
+The Combatant Commanders: 
+a.	Use autonomous and semi-autonomous weapon systems in accordance with this directive and in a manner consistent with their design, testing, certification, operator training, doctrine, TTPs, and approval as autonomous or semi-autonomous weapon systems. 
+b.	Employ autonomous and semi-autonomous weapon systems with appropriate care and in accordance with the law of war, applicable treaties, weapon system safety rules, and applicable ROE, in accordance with Paragraph 1.2.b, and employ AI capabilities in autonomous and semiautonomous weapon systems consistent with the DoD AI Ethical Principles and the DoD Responsible Artificial Intelligence Strategy and Implementation Pathway, in accordance with Paragraph 1.2.f. 
+c.	Ensure that autonomous and semi-autonomous weapon systems are not employed or modified to operate in a manner that falls outside the policies in Paragraphs 1.2.d.(1) through 1.2.d.(4) without specific approval in accordance with Paragraph 1.2.c. 
+d.	Integrate autonomous and semi-autonomous weapon systems into operational mission planning as appropriate. 
+e.	Through the CJCS, identify warfighter priorities and operational needs that may be met by autonomous and semi-autonomous weapon systems. 
+ SECTION 3:  VERIFICATION AND VALIDATION AND TESTING AND EVALUATION OF AUTONOMOUS AND SEMI-AUTONOMOUS WEAPON SYSTEMS 
+
+Regardless of the acquisition pathway or OSD T&E oversight status for a given weapon system, to ensure autonomous and semi-autonomous weapon systems function as anticipated in realistic operational environments against adaptive adversaries and are sufficiently robust to minimize failures: 
+a.	Systems will go through rigorous hardware and software V&V and realistic system developmental and operational T&E, including analysis of unanticipated emergent behavior. 
+(1)	Hardware and software V&V will include iterative cyber T&E in accordance with DoDI 5000.89, to verify that the weapon system is resilient and survivable in contested cyberspace. 
+(2)	Systems incorporating AI capabilities will go through rigorous developmental and operational T&E to verify and validate that the AI is robust according to design requirements. 
+b.	T&E of systems incorporating AI capabilities will include testing to confirm that their autonomy algorithms can be rapidly reprogrammed on new input data. c.	After IOT&E, as directed by the DOT&E, system data will be collected and any further changes to the system will undergo appropriate V&V and T&E to ensure that critical safety features have not been degraded. 
+(1)	System software will be tested using best-available DoD means and methods to validate that critical safety features have not been degraded.  Automated testing tools, such as modeling and simulation, will be used whenever feasible.  The testing will identify any new operating states and other relevant changes in the autonomous or semi-autonomous weapon system. 
+(2)	As directed by the DOT&E: 
+(a)	Each new or revised operating state will undergo appropriate and tailored additional T&E to characterize the system behavior in that new operating state. 
+(b)	Changes to the state transition matrix may require whole system follow-on operational T&E. 
+d.	In coordination with the USD(R&E) and DOT&E, the owning Component will provide for monitoring to identify and address when changes to the system design or operational environment require additional T&E to provide sufficient confidence that the system will continue to avoid unintended engagements and resist interference by unauthorized parties. 
+SECTION 4:  GUIDELINES FOR REVIEW OF CERTAIN AUTONOMOUS WEAPON SYSTEMS 
+
+4.1.  Autonomous weapon systems intended to be used in a manner that falls outside the policies in Paragraphs 1.2.d.(1) through 1.2.d.(4) must be approved by the USD(P), USD(R&E), and VCJCS before formal development and by the USD(P), USD(A&S), and VCJCS before fielding.  If the weapon system in question is to be developed and then fielded by DoD, it will need to undergo both reviews and receive approvals.  A review is not needed if the weapon system is covered by a previous approval for formal development or fielding.  Requests for senior review and approval should be submitted to USD(P), attention to the Director of the Emerging Capabilities Policy Office. 
+a.	An autonomous weapon system that is a variant of an existing weapon system previously 
+approved through this review will not be covered by previous approval if changes to the system algorithms, intended mission set, intended operational environments, intended target sets, or expected adversarial countermeasures substantially differ from those applicable to the previously approved weapon system so as to fall outside the scope of what was previously approved in the senior review.  Such systems will require a new senior review before their formal development and again before fielding. 
+b.	An autonomous weapon system that is a modification of an existing weapon system not previously approved through this review requires the senior review described in Paragraph 1.2.c unless it is intended to be used in a manner that falls within the policies in Paragraphs 1.2.d.(1) through 1.2.d.(4). c.	Before a decision to enter formal development, the USD(P), USD(R&E), and VCJCS will verify that: 
+(1)	The system design incorporates the necessary capabilities to allow commanders and operators to exercise appropriate levels of human judgment over the use of force in the envisioned planning and employment processes for the weapon. 
+(2)	The system is designed to complete engagements within a timeframe and geographic area, as well as other applicable environmental and operational parameters, consistent with commander and operator intentions.  If unable to do so, the system will terminate engagements or obtain additional operator input before continuing the engagement. 
+(3)	The combination of the system’s design and concept of employment (e.g., its target selection and engagement logic and other relevant processes or measures) accounts for risks to non-targets, consistent with commander and operator intent. 
+(4)	The system design, including system safety, anti-tamper mechanisms, and cybersecurity in accordance with DoDI 8500.01, addresses and minimizes the probability and consequences of failures. 
+(5)	Plans are in place for V&V and T&E to establish system reliability, effectiveness, and suitability under realistic conditions, including possible adversary actions, to a sufficient standard consistent with the potential consequences of an unintended engagement or unauthorized parties interfering with the operation of the system. 
+(6)	For systems incorporating AI capabilities, plans are in place to ensure consistency with the DoD AI Ethical Principles and the DoD Responsible AI Strategy and Implementation Pathway. 
+(7)	A preliminary legal review of the weapon system has been completed in coordination with the GC DoD and in accordance with DoDD 5000.01, DoDD 2311.01 and, where applicable, DoDD 3000.03E. d.	Before fielding, the USD(P), USD(A&S), and VCJCS will verify that: 
+(1)	System capabilities, human-machine interfaces, doctrine, TTPs, and training have been demonstrated to allow commanders and operators to exercise appropriate levels of human judgment over the use of force and to employ systems with appropriate care and in accordance with the law of war, applicable treaties, weapon system safety rules, and ROE that are applicable or reasonably expected to be applicable. 
+(2)	System safety, anti-tamper mechanisms, cyber survivability, operational resilience, and cybersecurity capabilities have been implemented in accordance with DoDI 5000.83, the Joint Capabilities Integration and Development System Manual, and DoDI 8500.01 to minimize the probability and consequences of failures.  A monitoring regime is in place to identify and address changes in operational environment, data inputs, and use that could contribute to such failures. 
+(3)	V&V and T&E: 
+(a)	Assess system performance, capability, reliability, effectiveness, and suitability under realistic conditions, including possible adversary actions, consistent with the potential consequences of unintended engagement or unauthorized parties interfering with the operation of the system. 
+(b)	Have demonstrated that the system can be reprogrammed with sufficient rapidity to enable timely correction of any unintended system behaviors that may be observed or discovered during future system operations. 
+(4)	Adequate training, TTPs, and doctrine are available, periodically reviewed, and used by system operators and commanders to understand the functioning, capabilities, and limitations of the system’s autonomy in realistic operational conditions. 
+(5)	System design and human-machine interfaces are readily understandable to trained operators, provide transparent feedback on system status, and provide clear procedures for trained operators to activate and deactivate system functions. 
+(6)	For systems incorporating AI capabilities, the deployment and use of the AI capabilities in the weapon system will be consistent with the DoD AI Ethical Principles and the DoD Responsible AI Strategy and Implementation Pathway. 
+(7)	A legal review of the weapon system has been completed, in coordination with the GC DoD, and in accordance with DoDD 5000.01, DoDD 2311.01, and, where applicable, DoDD 3000.03E. 
+
+4.2.	In cases of urgent military need, the USD(P), USD(A&S), USD(R&E), or VCJCS may request a Deputy Secretary of Defense waiver of the requirements in this section and Paragraph 1.2.c. 
+
+4.3.	Figure 1 illustrates the senior review process and can help determine whether a weapon system needs to undergo senior review.  
+
+[Chart omitted from plaintext version.]
+ SECTION 5:  AUTONOMOUS WEAPON SYSTEM WORKING GROUP 
+
+5.1.  GENERAL. 
+The Autonomous Weapon System Working Group will: 
+a.	Support the USD(P), the USD(R&E), and the VCJCS in considering the full range of 
+relevant DoD interests during the review of autonomous weapon systems before formal development. 
+b.	Support the USD(P), the USD(A&S), and the VCJCS in considering the full range of 
+relevant DoD interests during the review of autonomous weapon systems before fielding. 
+c.	When requested by appropriate representatives of the Secretaries of the Military 
+Departments; the Commander, USSOCOM; or, when applicable, a Director of a Defense Agency or a DoD Field Activity: 
+(1)	Advise whether a given weapon system requires senior-level approval in accordance with this directive. 
+(2)	Help identify and advise on addressing potential issues presented by a given weapon system during a potential senior-level review in accordance with this directive. 
+5.2.  MEMBERSHIP. 
+
+In addition to representatives of the USD(P), the Autonomous Weapon System Working Group will consist of representatives of each of the following officials listed below.  All members of the working group will be full time Federal Government employees, permanent part-time Federal Government employees, or Service members on active duty.  The parent organizations for the representatives will be responsible for any expenses, to include travel related expenses, associated with participation in the working group: 
+a.	USD(A&S). 
+b.	USD(R&E). 
+c.	GC DoD. 
+d.	CDAO. 
+e.	DOT&E. 
+f.	CJCS representatives from: 
+(1) Director for Strategy, Plans and Policy (Joint Staff J5). 
+(2)	Director, Command, Control, Communications and Computers/Cyber, Chief Information Officer (Joint Staff J6). 
+(3)	Director for Force Structure, Resources and Assessment (Joint Staff J8). 
+(4)	Legal Counsel to the Chairman of the Joint Chiefs of Staff. 
+GLOSSARY 
+
+G.1.  ACRONYMS. 	
+ACRONYM 	MEANING 
+AI 	artificial intelligence 
+CJCS 	Chairman of the Joint Chiefs of Staff 
+CDAO 	Chief Digital and Artificial Intelligence Officer 
+DoDD 	DoD directive 
+DoDI 	DoD instruction 
+DOT&E 	Director of Operational Test and Evaluation 
+GC DoD 	General Counsel of the Department of Defense 
+IOT&E 	initial operational test and evaluation 
+ROE 	rules of engagement 
+T&E 	test and evaluation 
+TTPs 	tactics, techniques, and procedures 
+USD(A&S) 	Under Secretary of Defense for Acquisition and Sustainment 
+USD(P) 	Under Secretary of Defense for Policy 
+USD(R&E) 	Under Secretary of Defense for Research and Engineering 
+USSOCOM 	United States Special Operations Command 
+VCJCS 	Vice Chairman of the Joint Chiefs of Staff 
+V&V 	verification and validation 
+G.2.  DEFINITIONS. 
+Unless otherwise noted, these terms and their definitions are for the purpose of this directive. 
+ 
+autonomous weapon 	A weapon system that, once activated, can select and engage targets system 	without further intervention by an operator.  This includes, but is not limited to, operator-supervised autonomous weapon systems that are designed to allow operators to override operation of the weapon system, but can select and engage targets without further operator input after activation. 
+ 
+failure 	An actual or perceived degradation or loss of intended functionality or inability of the system to perform as intended or designed.  Failure can result from a number of causes, including, but not limited to, human error, faulty human-machine interaction, malfunctions, communications degradation, software coding errors, enemy cyber-attacks or infiltration into the industrial supply chain, jamming, spoofing, decoys, other enemy countermeasures or actions, or unanticipated situations on the battlefield.  For the purposes of this issuance, minimizing the probability and consequences of failure means reducing the probability and consequences of unintended engagements to acceptable levels while meeting mission objectives and does not mean achieving the lowest possible level of risk by never engaging targets. 
+ 
+fielding 	Making a weapon system available for, or placing it into, operational use (rather than testing, exercises, or experiments), regardless of the acquisition approach employed for the weapon system, including major defense acquisition programs, middle tier acquisitions, or prototyping efforts such as joint concept technology demonstrations. 
+ 
+formal development 	Begins at “Milestone B,” as described in Paragraph 3.10 of DoDI 5000.85, in the case of major defense acquisition programs. For cases other than major defense acquisition programs, begins after the preliminary design review that correlates with the end of the technology maturation and risk reduction phase. 
+ materiel 	Defined in the DoD Dictionary of Military and Associated Terms. 
+ 
+operator-supervised autonomous weapon system 	An autonomous weapon system that is designed to provide operators with the ability to intervene and terminate engagements, including in the event of a weapon system failure, before unacceptable levels of damage occur. 
+ 
+operating state 	A variable or vector reflecting the status of the system. 
+ 
+operator 	A person who operates a platform or weapon system. 
+ 
+remotely operated platform 	An air, land, surface, subsurface, or space platform that is actively controlled by an operator who is not physically on the platform. 
+ 
+robust AI 	Defined in the DoD Responsible Artificial Intelligence Strategy and Implementation Pathway. 
+ 
+semi-autonomous weapon system 	A weapon system that, once activated, is intended to only engage individual targets or specific target groups that have been selected by an operator.  This includes: 
+ 
+Weapon systems that employ autonomy for engagement-related functions including, but not limited to, acquiring, tracking, and identifying potential targets; cuing potential targets to operators; prioritizing selected targets; timing of when to fire; or providing terminal guidance to home in on selected targets, provided that operator control is retained over the decision to select individual targets and specific target groups for engagement. 
+ “Fire and forget” or lock-on-after-launch homing munitions that rely on TTPs to maximize the probability that the only targets within the seeker’s acquisition basket when the seeker activates are those individual targets or specific target groups that have been selected by an operator. 
+ 
+specific target group 	A discrete group of potential targets, such as a particular flight of enemy aircraft, a particular formation of enemy tanks, or a particular flotilla of enemy vessels.  A general class of targets or a specific type of target, such as a particular model of tank or aircraft, does not constitute a specific target group. 
+ 
+state transition matrix 	A matrix that characterizes the ability of a system to transition from one operating state to another. 
+ 
+target selection 	The identification of an individual target or a specific group of targets for engagement. 
+ 
+unintended engagement 	The use of force against persons or objects that commanders or operators did not intend to be the targets of U.S. military operations, including unacceptable levels of collateral damage beyond those consistent with the law of war, ROE, and commander’s intent. 
+ 
+weapon system 	Defined in the DoD Dictionary of Military and Associated Terms. 
+ 
+weapon system safety rules 	Guidance for personnel, issued by competent authority, focused on addressing weapon safety issues and concerns that present significant mishap risk and is applied with a view towards ensuring freedom from conditions that can cause occupational illness, unintended death or injury, unintended damage to or loss of equipment or property, or unintended damage to the environment. 
+ 
+[References omitted.]

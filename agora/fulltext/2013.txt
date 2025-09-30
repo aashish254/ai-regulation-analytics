@@ -1,0 +1,88 @@
+County of Santa Cruz Artificial Intelligence Appropriate Use Policy
+
+
+Purpose: The purpose of this policy is to establish County of Santa Cruz employee practices for the responsible and secure use of generative artificial intelligence (AI). The County is committed to utilizing Artificial Intelligence (AI) technologies responsibly and ethically to improve processes, enhance services to County residents, and support employees to do their best work. This AI Appropriate Use Policy provides simple, user-centric guidance for all employees, regardless of technical expertise. 
+
+
+AI tools are developing at an exponential rate. The County will regularly review and update this policy to keep it aligned with ethical and legal standards and technological advancements in generative AI as frequently as needed.
+
+
+Scope: This policy applies to all employees, contractors, and any other third-party individuals or entities who have access to generative AI technologies or are involved in using generative AI tools or platforms on behalf of our organization.
+
+
+1. Defining Artificial Intelligence (AI): For the purposes of this policy, Artificial Intelligence, also known as machine intelligence, is the simulation of human intelligence processes, such as problem solving by machines.
+
+
+2. Defining Generative AI Tools: Generative AI tools are computer programs capable of many activities, including but not limited to completing general administrative office tasks, data analysis, programming, and image creation. While these tools can improve productivity, it is crucial to use them responsibly to comply with various laws, maintain data privacy and security, and uphold County values.
+
+
+I. Principles for Responsible Generative AI Tools Use: Staff should be open to responsibly incorporating Generative AI into their work where it can be beneficial for making services better, more just, and more efficient. Each employee is responsible for using generative AI tools in a manner that ensures the security of sensitive information and aligns with County policies.  Here are key principles to follow:
+
+
+a)Data Privacy and Security: Comply with all data privacy and security standards such as Health Insurance Portability and Accountability Act (HIPAA), Criminal Justice Information Systems (CJIS), Internal Revenue Service (IRS), and the California Consumer Privacy Act (CCPA) to protect Personally Identifiable Information (PII), Protected Health Information (PHI), or any sensitive data in generative AI prompts. Treat AI prompts as if they were publicly visible online to anyone. Treat AI prompts, data inputs, and outputs as if they are subject to the Freedom of Information Act and Public Records Act.
+
+
+b)Informed Consent: Members of the public should be informed when they are interacting with an AI tool and have an “opt out” alternative to using AI tools available.
+
+
+c)Responsible Use: AI tools and systems shall only be used in an ethical manner.
+
+
+d) Continuous Learning: When County provided AI training becomes available, employees should participate to ensure appropriate use of AI, data handling, and adherence to County policies on a continuing basis. Employees using AI tools are encouraged to educate themselves on effective and appropriate AI usage for their work.
+
+
+e)Avoiding Bias: AI tools can create biased outputs. When using AI tools, develop AI usage practices that minimize bias and regularly review outputs to ensure fairness and accuracy, as you do for all content.
+
+
+f)Decision Making: Do not use AI tools to make impactful decisions. Be conscientious about how AI tools are used to inform decision making processes.
+
+
+g)Accuracy: AI tools can generate inaccurate and false information. Take time to review and verify AI-generated content to ensure quality, accuracy, and compliance with County guidelines and policies.
+
+
+h)Transparency: The use of AI systems should be explainable to those who use and are affected by their use. Commonly understood explanations of how AI features work will be maintained and available to convey a concrete sense of how or why a particular result has been arrived at based on inputs.
+i) To ensure transparency when using this rapidly evolving technology, indicate when Generative AI contributed substantially to the development of a work product. Use good judgement when considering citing use of AI tools. For example, when working with regulatory, legal, or life critical subjects, citations will be appropriate. When attributing AI usage in a work product indicate the product and version used. Some example citations include:
+i. Whole Document Example: [AI Assistance: This document was generated with the assistance of an Artificial Intelligence language model, OpenAI GPT-4, 2023, in compliance with the County of Santa Cruz Appropriate Use Policy.]
+ii. Whole Document Example: [Artificial Intelligence contributed to the development of this document using Google Bard, 2023, in compliance with the County of Santa Cruz Appropriate Use Policy.]
+iii. Specific Citation Example: OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]
+iv. In text Example for specific information: (OpenAI, 2023) Accountability: Employees are solely responsible for ensuring the quality, accuracy, and regulatory compliance of all AI generated content utilized in the scope of employment. The County will regularly monitor and evaluate approved AI products to ensure they are meeting security and risk management criteria.
+
+
+II. Prohibited Uses:
+a) Unauthorized Access: Do not use AI tools to access data or systems you are not authorized to use.
+
+
+b)Personally Identifiable Information: Do not enter personally identifiable information (PII) into AI systems.
+
+
+c)Unlawful Activities: AI tools must not be used for any illegal, harmful, or malicious activities. This includes activities that perpetuate unlawful bias, automate unlawful discrimination, and produce other harmful outcomes.
+
+
+d)Hiring Decisions: Do not use AI to make consequential decisions regarding hiring, benefits, or other sensitive matters in which bias could play a role.
+
+
+e)Data Entry: You may not enter internal, sensitive, or restricted data into any generative AI tool or service. No AI tool currently meets the County’s security, privacy, and compliance standards for handling anything besides public data.
+
+
+III. Use of AI Systems:
+1.Policy Compliance: Anyone who utilizes AI systems for County business, or supervises someone who does, is responsible for knowing the general intent of this policy. The user is responsible for complying with this policy and the County Worker Acceptable Use and Mobile Device Policies and exercising reasonable and prudent judgment related to AI usage for County business. Employees are encouraged to participate in AI workgroups and communities of practice.
+
+
+2.Voluntary Use: Employees are not currently required to use AI systems and tools. Members of the public should be informed when they are interacting with an AI tool and have an alternative to using AI tools available to them.
+
+
+3.Authorized AI Tools: Only use AI tools that are on the list of Approved AI tools and systems. If there is an AI tool that you would like to use but is not on the list, contact the Information Services Department at ITSupport@santacruzcountyca.gov so they can review and approve the tool for use. The current list of approved AI tools is as follows:
+a) Bard (Google)
+b) ChatGPT (Open AI)
+c) Claude (Anthropic)
+d) Scribe
+Artificial intelligence (AI) can be used maliciously to create malware, spread phishing emails, launch distributed denial of service (DDoS) attacks, and other types of damaging attacks. As AI becomes more advanced, the potential for cyber attacks using AI will increase.
+
+
+4.Use of County Email Address: When creating accounts with AI providers for generative AI tools, County staff should use their official County email address for better security and accountability.
+
+
+5.Reporting Concerns: If you come across any potential issues or concerns related to the use of generative AI tools, report them to ISD or a supervisor. For example, you may see a new feature in a software you use for your regular duties.
+
+
+6.Additional Rules: Departments may provide additional rules on the usage of generative AI for their staff

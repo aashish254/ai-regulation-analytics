@@ -1,0 +1,648 @@
+Chapter I General Provisions
+Article 1 This Regulation was formulated in accordance with relevant laws and
+administrative regulations and based on the actual situation of the municipality in order
+to promote the high-quality development of the artificial intelligence (AI) industry and
+strengthen the functions of new generation AI science and technology (S&T)
+innovation sources, promote the deep integration of AI with the economy, everyday life,
+urban governance, and other fields, and create a world-class AI industrial cluster.
+Article 2 As used in this Regulation, artificial intelligence refers to the system of
+theories, methods, technologies, and applications that uses computers and
+computer-controlled machines to simulate, extend, and expand human intelligence,
+perceive the environment, acquire knowledge, and use knowledge to achieve optimal
+results.
+The AI industry refers to industries that perform software and hardware product
+development and production, system applications, and service integration involved in
+the research, development, and application of AI technology, such as the key basic
+components industry, intelligent software industry, and smart terminal industry, as
+well as related industries driven by the integration and application of AI technology in
+fields such as the economy, everyday life, and urban governance.
+Article 3 This Regulation applies to activities such as AI S&T innovation,
+industrial development, application empowerment, and industrial governance within
+the administrative region of this municipality.
+
+Article 4 The development of the AI industry in this municipality should persist
+in the principles of being people-centered (以人为本), using S&T for the common good,
+being innovation-driven, and being market-led. It should build an AI industrial system
+with open ecosystem integration, active innovation clusters, ubiquitous super scenarios
+(超级场景), agile governance and security and create a “Shanghai bastion” of AI with
+international influence.
+Article 5 The Municipal People's Government shall strengthen its leadership
+over the development of the municipality's AI industry, organize the formulation of AI
+industry development plans and incorporate them into national economic and social
+development plans, and guide and coordinate the resolution of major issues in AI S&T
+innovation, industry cultivation, application scenario construction, and industrial
+ecosystem construction.
+The district people's governments shall, in accordance with the overall
+requirements and deployments of the municipality, do a good job in the development
+of the AI industry in their administrative areas and strengthen the application and
+promotion of AI scenarios and the construction of the industrial ecosystem.
+Township people's governments and sub-district offices shall strengthen AI S&T
+applications and improve the level of smartification (智慧化) of grassroots services and
+governance.
+Article 6 The municipal economic and informatization departments (经济和信息
+化部门) are the main oversight departments (主管部门) for the AI industry in the
+municipality. They are responsible for planning, implementing, coordinating, and
+promoting the development of the AI industry.
+The municipal development and reform departments shall coordinate major
+projects and infrastructure construction in the AI industry.
+The municipal S&T departments shall support R&D and innovation for
+cutting-edge basic theories and key technologies for AI, promote the construction of
+major S&T innovation bases, and promote AI technology governance.
+The municipal cybersecurity and informatization (网信) departments shall
+coordinate the cybersecurity and informatization work in the development of the AI
+industry and take responsibility for relevant network information content governance
+and supervision management work.
+The municipal market supervision departments shall be responsible for AI
+industry measurement, standards, inspection and testing, certification and
+accreditation, and other work related to product quality supervision.
+The municipal state-owned assets supervision and administration, human
+resources and social security, education, health, finance, statistics, national security,
+and other departments shall formulate relevant policies and measures within their
+respective jurisdictions to promote the development of the AI industry.
+
+Article 7 The Municipal People's Government shall establish a Municipal
+Artificial Intelligence Strategy Advisory Expert Committee (人工智能战略咨询专家委员
+会) composed of experts from institutions of higher learning, scientific research
+institutions, enterprises, and other organizations to provide advice on major strategies
+and major decisions concerning the development of the AI industry in the municipality.
+Article 8 AI industry associations and other AI-related industry organizations
+(collectively referred to as industry organizations) shall protect the legitimate rights
+and interests of their members in accordance with the law, promote the R&D and
+promotion of AI technology, promote industrial collaboration, strengthen industry
+self-discipline, carry out industry statistical monitoring, formulate standards and
+specifications, and promote the orderly development of the industry.
+Article 9 This Municipality encourages citizens, legal persons, and other
+organizations to carry out various innovative activities in the field of AI provided such
+activities are not explicitly prohibited by laws, regulations, and relevant national and
+municipal regulations. The municipal economic and informatization departments,
+together with other relevant departments, shall explore the establishment of a
+negative checklist (负面清单) for fields including AI scientific research and application.
+Article 10 This municipality shall promote the coordinated and integrated
+development of the AI industry in the Yangtze River Delta region and explore and
+jointly promote the convergence of cross-regional AI industry development plans,
+mutual recognition of technical standards, sharing and mutual recognition of test data
+in key fields, cost and benefit sharing for infrastructure construction, and other work.
+The municipality shall expand cooperation with the AI industry in other regions in
+China.
+Article 11 The municipality shall deepen international cooperation. Relying on
+the China International Import Expo, World Artificial Intelligence Conference, and other
+exhibition activities, we shall organize and introduce international high-level academic
+conferences and joint innovation institutions related to AI, and provide an international
+cooperation platform for relevant entities to participate in the development and
+governance of the AI industry.
+The municipality shall support enterprises, institutions of higher learning,
+scientific research institutions, and other organizations in strengthening international
+cooperation in areas such as AI basic research, technology development, industrial
+development, standards formulation, and personnel training.
+Article 12 The municipality shall promote the popularization of science and
+technology in the field of AI, publicize new developments and new achievements in the
+AI industry through media such as radio, television, newspapers, and the Internet, and
+strengthen ethics, security, and social values guidance in the field of AI.
+
+
+Chapter 2 Basic Factors of Production (要素) and S&T Innovation
+Section 1 Basic Factors of Production
+Article 13 The municipal economic and informatization departments, municipal
+development and reform departments, and other departments shall strengthen the
+planning of computing power (“compute”) infrastructure, promote the construction of
+public compute infrastructure, promote the green and low-carbon development of
+compute infrastructure, and support relevant entities as they carry out compute
+infrastructure construction and open applications based on self-developed
+AI-dedicated computing architectures.
+The municipal economic and informatization departments shall, in conjunction
+with the municipal development and reform departments and S&T departments, and
+other departments, formulate measures for the supply of public compute resources,
+promote the construction and utilization of public compute platforms, strengthen the
+scientific scheduling (调度) of compute, provide public computing power support for AI
+technology and industrial development through compute awards and other methods,
+and ensure that small and medium-sized enterprises (SMEs) can obtain inclusive public
+compute.
+The municipality shall encourage relevant entities to participate in the
+construction of compute infrastructure, carry out marketized compute resource
+transactions, guide the various industries to use compute resources in a reasonable and
+orderly manner, and improve the utilization efficiency of compute infrastructure.
+Article 14 In accordance with national deployments, the municipality shall
+implement the "East-West Compute Transfer" project, cooperate with other provinces
+and cities in the Yangtze River Delta to build a Yangtze River Delta national hub node
+for a national integrated big data center system, optimize the layout of data center
+infrastructure construction, improve the cross-network and cross-regional data
+interaction capabilities of data centers, guide the intensive, large-scale, and green
+development of data centers, and ensure the compute demand of AI industry
+development [can be met].
+Article 15 The municipality shall support algorithm innovation, use policy
+support, platform construction, and other methods to encourage relevant entities to
+carry out algorithm R&D, realize algorithm credibility, conversion into hardware,
+modularization, systematization, and platformization (平台化), and promote the
+innovative development, application, and promotion of algorithm models.
+The municipal economic and informatization departments shall support relevant
+entities in building and operating open-source platforms, open-source communities,
+and open-source projects for proprietary technologies, promote the compliant
+application of open-source software projects, accelerate commercialization training,
+and form a healthy open-source open ecosystem.
+Article 16 The municipality shall promote the trading and circulation of algorithm
+models. The municipal economic and informatization departments, together with other
+relevant departments, shall guide industry organizations to formulate a catalog of
+recommended AI algorithm models, reduce risks in algorithm model transactions, and
+improve the efficiency of algorithm model transactions.
+The municipality shall encourage enterprises or third-party institutions to carry
+out algorithm model testing and evaluation. For algorithm models involving the public
+interest, the municipality shall encourage relevant entities to actively submit evaluation
+reports to relevant main oversight departments such as the municipal economic and
+informatization departments and explain the basic principles and intended purposes of
+algorithms in a way that the public can understand.
+The municipality shall strengthen the protection of algorithm models and promote
+the application and promotion of algorithm models in compliance with laws. The
+municipal economic and informatization departments, together with other relevant
+departments, shall explore a filing system for algorithm models that have been tested
+and evaluated, focusing on AI-related data sets, algorithm design, and model training.
+This municipality shall encourage industry organizations to formulate guidelines
+for collaborative algorithm innovation and cooperation and improve benefit-sharing
+mechanisms in the trading and circulation of algorithm models.
+Article 17 The municipality shall promote the construction of high-quality data
+sets in the AI field. It shall support relevant entities to deeply integrate data and
+industry knowledge, develop data products, and serve algorithm design, model
+training, product verification, scenario applications, and other needs.
+The municipality shall encourage relevant entities to carry out collaborative R&D
+on big data and AI technology, develop dedicated tools and a series of standards for
+data labeling, build big data laboratories for AI training, and build a large-scale AI data
+resource library.
+The municipal economic and informatization departments shall, in conjunction
+with other relevant departments, conduct surveys of AI industry data resources,
+strengthen the organization of available data resources of key areas and key
+enterprises, summarize key industry data resources, and promote the development of
+the AI industry.
+Article 18 Relying on the public data opening mechanism, the municipality shall
+establish a dynamic open list of public data in areas such as economic development,
+people's livelihood services, and urban governance, promote the categorized, graded,
+and orderly opening of public data in fields such as life and health and autonomous
+driving, and expand the scope of public data supply for the AI industry. It shall support
+relevant entities to apply for public data opening individually or jointly and ensure the
+fair use of open data by SMEs and individual developers.
+The municipality shall support AI enterprises in developing and using data
+generated in AI applications, encourage enterprises to carry out transactions involving
+related data products through the Shanghai Data Exchange, create data value and
+distribute the added-value benefits of data in accordance with laws and regulations,
+and promote data circulation and trading in the AI industry.
+
+Section 2 S&T Innovation
+Article 19 The Municipal People's Government and its relevant departments shall
+formulate policies and encourage institutions of higher learning, scientific research
+institutions, and enterprises to carry out basic theoretical research and key general
+purpose technology R&D on major cutting-edge scientific issues in the AI field.
+The municipality shall support institutions of higher learning, scientific research
+institutions, and enterprises as they carry out research in interdisciplinary and
+cross-disciplinary fields related to AI and undertake major S&T and industrial
+innovation special projects.
+Article 20 The Municipal People's Government and its relevant departments shall
+strengthen their support for major AI S&T infrastructure and major scientific research
+platforms, serve and promote the innovation and development of relevant national
+laboratories and the improvement of the capabilities of state key laboratories, and
+support the construction of AI research institutions affiliated with institutions of higher
+learning, scientific research institutions, and enterprises.
+Article 21 Institutions of higher learning, scientific research institutions, and
+enterprises can adopt various methods to establish new research and development
+(R&D) institutions, explore an integrated model of R&D, testing, and application
+adapted to the rapid iteration of AI, use market mechanisms to integrate advanced AI
+technology and high-quality resources, and carry out activities such as R&D, innovative
+talent cultivation, and achievement application and promotion.
+Article 22 The municipality shall encourage institutions of higher learning,
+scientific research institutions, and enterprises to carry out AI innovation and
+independent R&D in all fields, support the research, development, and production of
+core systems and key software and hardware, and realize the independent
+controllability (自主可控) of cutting-edge technologies and their applications in the
+fields of underlying interfaces, general purpose algorithms, and data processing
+protocols.
+Article 23 The municipality shall encourage institutions of higher learning,
+scientific research institutions, and enterprises to open large-scale scientific
+instruments and facilities in the AI field to society.
+The municipal economic and informatization departments and S&T departments
+shall work with other relevant departments to improve the incentive mechanisms for
+the opening up and sharing of large-scale scientific instruments and facilities in the AI
+field.
+
+Article 24 The municipality shall increase the AI industry technology innovation
+layout in strategic emerging industry projects and increase support for AI industry
+technology innovation, industrial foundation reengineering, and industrial
+demonstration applications in high-quality industrial projects.
+Municipal S&T departments shall set up special AI projects in major municipal
+S&T innovation projects and support the development of basic theory and core
+technology research for AI technology.
+Article 25 The municipality shall promote the reform of scientific research project
+establishment and organizational management methods, empower AI innovation
+teams and leading talents with greater technical approach decision-making authority
+and authority to use funds, and support the adoption of flexible salary systems and
+incentive measures for scientific researchers who undertake major AI S&T research
+tasks.
+The municipality shall explore granting scientific researchers ownership or
+long-term use rights to S&T achievements in the AI field.
+Article 26 The municipality shall establish incentive mechanisms to help promote
+the conversion of S&T achievements into practical applications (科技成果转化) in the AI
+field, encourage relevant entities to carry out cooperation in the conversion of S&T
+achievements into practical applications, support researchers from institutions of
+higher learning and scientific research institutions in engaging in the conversion of S&T
+achievements into practical applications by starting businesses after leaving their
+current positions, while staying on at their current positions, or by working part-time in
+enterprises, and encourage the establishment of professional service institutions for
+the conversion of S&T achievements into practical applications in the AI field.
+
+Chapter 3 Industry Development
+Section 1 General Regulations
+Article 27 The municipality shall provide a good development environment for AI
+enterprises, take measures to improve the construction of an AI ecosystem featuring
+software and hardware integration, strengthen the concentration of AI enterprises, and
+establish a sound AI production chain.
+Article 28 The Municipal People's Government and relevant departments shall
+formulate measures to bring in leading Chinese and foreign AI enterprises to establish
+headquarters in the municipality and expand emerging businesses. For leading
+enterprises with strong innovation capabilities, the municipal government and relevant
+departments shall strengthen investment and financing, R&D, talent, market, and other
+policy support, improve the core technology level and business capabilities of
+enterprises, and cultivate world-class S&T leading enterprises (龙头企业).
+The municipality shall attract first-class Chinese and foreign research institutions
+and talent teams and incubate and cultivate AI startups.
+Article 29 The municipality shall support leading AI enterprises in opening up AI
+operating systems, algorithm frameworks, general purpose technologies, and data
+resources, drive the coordinated upstream and downstream development of the
+production chain, and build an AI industry ecosystem.
+Article 30 The municipality shall build characteristic AI industrial parks (人工智能
+特色产业园区), strengthen the attractiveness of projects, and promote the development
+of industry clusters.
+The municipality shall encourage characteristic AI industrial parks to provide
+services for talent recruitment, intellectual property protection, listing guidance,
+investment and financing matchmaking, and rent reduction and exemptions.
+The municipal economic and informatization departments and other departments
+shall evaluate the degree of intelligentization (智能化) of characteristic industrial parks
+in accordance with relevant regulations.
+Article 31 The municipality shall coordinate various special funds to support AI
+basic research, technological innovation, the conversion of achievements into practical
+applications, demonstration applications, talent recruitment, and important
+international cooperation and exchanges. For enterprises, institutions, or projects that
+have received municipal financial support, each district can provide corresponding
+auxiliary support.
+Municipal and district financial departments shall focus on new technologies and
+new products such as the first round of AI smart chips, the first units (sets) of major
+technical equipment for AI, the first version of AI software applications, and the first
+version of AI software products. They shall strengthen special support for qualified
+innovative projects and explore support methods such as loan interest discounts.
+The municipality shall encourage investment in AI R&D. Enterprises can include
+the innovation costs of AI products and technologies in R&D expenses and implement
+additional deductions in accordance with national regulations.
+Article 32 Relevant municipal and district departments can support key AI
+projects that follow the industrial development orientation in accordance with relevant
+regulations such as on the nature of land use, floor area ratio, and building height,
+giving priority guarantees to compute consumption indicators, terminal communication
+spectrum resources, and project power capacity connection.
+Article 33 The municipality shall channel social capital to support the
+development of the AI industry through various channels such as venture capital,
+venture capital funds, and capital market financing.
+The municipality shall encourage state-owned capital to participate in AI industry
+investment. The municipal state-owned assets supervision and administration
+departments shall establish and improve a state-owned assets supervision system
+adapted to the development of the AI industry in accordance with relevant national
+and municipal regulations. Through the establishment of government funds such as AI
+industry funds, the municipality shall allow industrial investment guidance funds to
+play their due roles, mobilize various resources from society, and focus on supporting
+early-stage projects and rapid-growth startup enterprises in the AI field.
+The municipality's local financial supervision and economic informatization
+departments shall support qualified AI companies in going public and raising funds in
+capital markets such as the STAR Market.
+The municipality shall encourage banks and other financial institutions to provide
+special loan support for AI enterprises.
+Article 34 The municipality shall encourage institutions of higher learning to set
+up AI-related disciplines and interdisciplinary programs, support enterprises,
+institutions of higher learning, and scientific research institutions to jointly build
+education bases that integrate industry and education, and strengthen the cultivation
+of hybrid talents (复合型人才).
+The municipality shall improve the evaluation standards for talents in the AI field
+and promote the evaluation of intermediate and senior professional titles of AI
+engineering and technical personnel and the evaluation of AI instructors. It shall
+explore the introduction and integration of international vocational training programs in
+the AI field and implement training and evaluation for digital technology engineers.
+The municipal economic and informatization departments shall, in conjunction
+with the municipal human resources and social security departments and other
+departments, include high-level, highly skilled, and scarce talents in the AI field in the
+scope of talent policy support and provide these talents conveniences in terms of
+household registration and residence permit processing, housing, medical assurance,
+and schooling for children.
+Article 35 The municipality shall strengthen the protection of intellectual
+property rights in the AI field, improve interactive support mechanisms for
+technological innovation, intellectual property protection, and standardization in the AI
+field, promote the intellectual property rights of AI innovation achievements, and
+promote the application and popularization of new AI technologies. According to the
+relevant national and municipal regulations, the municipality shall support the
+inclusion of patent applications related to AI in the scope of rapid patent examination
+and confirmation services and improve the collaborative protection, rapid rights
+protection, and foreign rights protection systems for intellectual property rights in the
+AI field.
+Article 36 The municipality shall encourage relevant insurance institutions to
+develop insurance products adapted to the characteristics of the AI industry in
+accordance with national regulations. These products shall cover the full lifecycle of
+business activities, such as product R&D, production, sales, and application.
+The municipality shall support relevant entities in purchasing relevant insurance
+products when applying AI products and services.
+Article 37 The Municipal People's Government and relevant departments shall
+support the municipality's AI enterprises and relevant industry organizations to take a
+leading role in the formulation of national standards, industry standards, and local
+standards for AI and participate in the formulation of technical standards for algorithm
+performance, data security, privacy protection, product compatibility, and performance
+testing.
+The municipal market supervision departments shall formulate local standards for
+AI based on the actual development of the municipality's AI industry and guide the
+Shanghai Artificial Intelligence Standardization Technical Committee to strengthen
+relevant local standards and related technical work (技术归口工作). Municipal market
+supervision departments, municipal economic and informatization departments, and
+other departments shall guide AI enterprises and relevant industry organizations in
+taking the lead in studying and formulating enterprise standards and group standards
+related to AI. After voluntary application and evaluation by a third-party organization,
+the special AI "Shanghai Standard" identifier can be placed in the text of standards that
+meet the requirements to be leaders in China and advanced internationally.
+Article 38 The municipality shall establish a statistical categorization system for
+the AI industry. The municipal statistics departments shall, in conjunction with the
+municipal economic and informatization departments, formulate statistical
+categorization standards for the AI industry, conduct statistical surveys, monitoring,
+and analysis on the AI industry, and provide support for industry development trend
+assessment and the formulation of policies and measures.
+
+Section 2 Key Advances to Promote
+Article 39 According to the development trends of global AI technology and the
+global AI industry, the municipality shall leverage the municipality's industrial
+advantages and development foundation to promote the high-quality development of
+basic hardware, key software, and smart products by increasing policy support,
+building an innovation system, and promoting cluster development (集群发展).
+Article 40 The municipality shall support relevant entities to carry out design
+innovations for high-efficiency smart chips based on advanced architectures, develop
+cloud chips and cloud smart servers, lay out neuromorphic chips (类脑芯片), strengthen
+software and hardware collaboration and adaptation, support joint construction of R&D
+testing and application platforms, strengthen technical collaboration and chip
+architecture interconnection, improve the competitiveness of smart chip products and
+technologies, and cultivate a smart chip application ecosystem.
+The municipal development and reform departments and municipal economic and
+informatization departments shall promote the application of smart chips with
+proprietary technology in major projects such as computing power infrastructure.
+Article 41 The municipality shall support relevant entities as they strengthen the
+R&D and application of AI framework software, develop engine framework tool
+systems, deepen AI framework and platform applications, and strengthen the mutual
+adaptation, performance optimization, and application popularization of AI framework
+software, chips, and other hardware.
+The municipality shall support relevant entities as they develop artificial AI
+system software, develop and popularize machine self-learning systems, encourage
+relevant entities to develop operating systems for intelligent products, and promote
+the development of various application functions.
+Article 42 The municipality shall promote the standardized and modularized
+construction of intelligent robot software and hardware systems, support the
+cultivation of intelligent robot system integrators, encourage relevant enterprises,
+product users, and financial institutions to adopt methods such as product leasing and
+service procurement, and expand the application scenarios of intelligent robots.
+The municipal economic and informatization departments and municipal market
+supervision departments shall promote industry organizations as they formulate
+standards such as those for robot intelligence level categorization and application
+safety testing, guide the iteration of intelligent robot technology, and ensure the
+information security and safe use of intelligent robots.
+Article 43 The municipality shall support the independent R&D and industrial
+application of key technologies, operating systems, dedicated chips, and core
+components of intelligent networked vehicles.
+The municipality shall support relevant entities as they carry out intelligent
+connected vehicle testing, demonstration applications, and demonstration operations
+on highways (including expressways), urban roads (including urban expressways), and
+specific areas in the municipality in accordance with relevant regulations. The specific
+regulations shall be formulated by the municipal departments of economy and
+informatization, transportation, public security, and other departments.
+Article 44 The municipality shall encourage the development of the unmanned
+aerial vehicle (UAV) industry, support the construction of civil unmanned aviation test
+bases (test areas), UAV take-off and landing points and general airports, and UAV
+operation and management service platforms, strengthen multi-department
+coordination and supervision, provide route planning, electronic fence setting, and
+other services through operation and management service platforms, and support the
+expansion of UAV application scenarios.
+The municipality shall encourage the development of the unmanned surface
+vehicle (USV) industry, improve the support systems such as USV electronic channel
+surveying and intelligent shipping communications, and carry out USV channel tests in
+specific areas.
+Article 45 The municipality shall support relevant entities in the R&D of key
+technologies for AI medical devices, strengthen breakthroughs in intelligence-assisted
+diagnostic algorithms, surgical positioning and navigation, and integrated
+brain-computer interfaces; strengthen the relevant guidance services for the
+registration and approval of AI medical devices and support the entry of relevant
+innovative products to the special approval process for national innovative medical
+devices; and support the exploration of fee charging models in the clinical applications
+of qualified AI medical devices.
+
+Chapter 4 Application Empowerment
+Section 1 General Regulations
+Article 46 The municipality shall promote the large-scale application of AI in the
+fields of the economy, everyday life, and urban governance, accelerate digital
+transformations, encourage relevant organizations to adopt methods such as product
+leasing, service procurement, system integration, and financial leasing, and use AI
+technology and products to conduct R&D, manufacturing, service, management, and
+other businesses.
+The municipal economic and informatization departments shall, in conjunction
+with relevant departments, formulate and regularly update the AI demonstration
+application list and guide relevant parties to strengthen AI application in the fields of
+the economy, everyday life, and urban governance.
+Municipal state institutions, public institutions, state-owned enterprises (SOEs),
+and other organizations authorized by laws and regulations to manage public affairs in
+this city shall take the lead in implementing the AI demonstration application list,
+optimize procurement systems as needed, improve transaction mechanisms, and
+procure and use safe and reliable AI-related products and services.
+Article 47 The municipality shall promote the application of innovative products
+and services in the AI field. For eligible new products and initial applications, support
+shall be provided in accordance with relevant policies. Government procurement
+purchasers may, upon approval in accordance with the law, purchase innovative
+products that meet the standards for public tender through non-public tender.
+The municipal economic and informatization departments, in conjunction with
+municipal S&T departments, shall include qualified AI products and services in the
+municipality's catalog of recommended innovative products.
+Article 48 The municipality shall establish an open system for AI application
+scenarios. The municipal economic and informatization departments shall establish and
+improve relevant incentive mechanisms, regularly solicit and publish application
+scenario requirements and demonstration solution lists, build a real-world scenario testing environment, and promote scenario cultivation, discovery, implementation, and demonstration scenario promotion.
+Relevant entities involved in AI applications shall promote the optimization,
+upgrading, and continuous operation of application scenarios. They shall encourage
+diverse entities such as third-party service institutions and financial institutions to
+participate in the construction and operation of AI scenarios.
+Article 49 Relevant municipal departments shall organize industry organizations
+to formulate evaluation methods for AI application effectiveness, establish evaluation
+mechanisms for the intelligence level of AI products and applications, explore and
+evaluate the comprehensive social impact of AI products and applications, and promote
+the in-depth application and continuous innovation of AI.
+Article 50 Pudong New Area shall serve as a pilot area for AI innovation and
+applications, carry out pilot projects for institutional innovation in the AI field, and
+accelerate the mutual development of leading industries such as AI, integrated circuits,
+and biotechnology, medicine, and pharmaceuticals.
+Pudong New Area shall explore the establishment of AI asset evaluation systems
+for assets such as compute, algorithm models, and high-quality datasets, encourage
+relevant industry organizations to formulate AI asset assessment guidelines, construct
+AI asset evaluation indicators, and support relevant institutions as they carry out AI
+asset evaluation in Pudong New Area.
+In accordance with the relevant national and municipal regulations, the relevant
+municipal departments and the Pudong New Area People's Government shall intensify
+innovative pilot efforts in areas such as the commercialized operation of intelligent
+connected vehicles, technological breakthroughs in the R&D of AI medical devices and
+AI-assisted drugs, and the testing and operation of UAVs and USVs.
+
+Section 2 Economic Applications
+Article 51 The municipality shall promote the deep integration and innovation of
+AI, information technology, and manufacturing and promote the integrated application
+of key technical equipment for smart manufacturing, core support software, and
+industrial internet systems. The municipality shall support enterprises as they carry out
+technological transformation and upgrading through special policies to promote
+high-quality industrial development and promote the digitalization and
+intelligentization transformation of the manufacturing industry.
+Article 52 The municipality shall promote the in-depth integration of AI, big data,
+and the financial industry, encourage the financial industry to improve multimedia
+financial data processing and understanding capabilities, promote the intelligentization
+transformation of the financial industry, and develop intelligent financial product and
+service innovations.
+The municipality shall support financial institutions and other market entities in
+the application of AI technologies and equipment such as intelligent investment
+advisors, intelligent customer service, and intelligent risk control and improve
+intelligent early warning and prevention and control capabilities for financial risks.
+Article 53 Relevant municipal departments shall support enterprises as they
+apply new AI-based business services and decision-making systems, encourage
+enterprises to develop and apply new technologies such as cross-media analysis and
+reasoning and knowledge computing engines (知识计算引擎) in the business field, and
+promote the intelligentization transformation of business.
+Article 54 The relevant municipal departments shall take measures to promote
+the digital and intelligentization upgrading of cargo management, transportation
+services, and station facilities, support enterprises as they develop and promote the
+application of emerging intelligent logistics equipment such as intelligent loading and
+unloading, sorting and packaging, and processing and distribution, and improve the
+level of automation and intelligentization in logistics processes.
+Section 3 Everyday Life Applications
+Article 55 The municipality shall encourage the application of AI technology on
+the Internet, promote AI to improve the matching and predictability of information
+searches, expand content production and interpersonal interaction methods in social
+media, and promote the integrated online and offline development of e-commerce.
+Article 56 The municipality shall promote the normalization of AI in teaching,
+management, resource construction, and other end-to-end applications and establish a
+new type of modern education system and innovative talent training system suited to
+the intelligence age; build digital twin schools and explore the construction of
+applications such as digitization experiments, training, and venues; and explore the
+application of AI technology to enrich the supply of educational resources and build
+intelligentized and open educational resource platforms.
+The municipality shall encourage educational institutions, enterprises, and other
+institutions to provide intelligent, targeted, and personalized services in various
+learning scenarios and help build an intelligent education ecosystem environment.
+Article 57 The municipality shall promote the application and innovation of AI in
+the medical field, build intelligent medical infrastructure, establish a new model for
+AI-empowered medical services, improve medical technology innovation capabilities,
+and promote the intelligentization transformation of the medical field. It shall support
+medical institutions, enterprises, and other applications, develop intelligent medical
+systems featuring human-computer coordination (人机协同), and encourage the
+development of flexible, wearable, and biocompatible intelligent physiological
+monitoring systems.
+Article 58 The municipality shall promote the application of AI to improve the
+quality of urban elder care and enhance the intelligentization transformation and
+upgrading of urban elder care infrastructure; encourage relevant entities to adopt AI
+technology, intelligent terminals, and digital platforms to provide convenient elder care
+services; and encourage relevant entities to develop intelligentized and
+age-appropriate elder care products and services.
+Section 4 Urban Governance Applications
+Article 59 The municipality shall promote the application of AI to improve the
+modernization level of urban governance capabilities and increase AI technology
+application and investment in the construction of informatized government systems.
+The municipality shall strengthen the integrated construction of "unified online
+government services" for government services and "unified online management" for
+urban operations, develop AI platforms for government services and decision-making,
+apply AI technology in innovative manners, and strengthen dynamic, intelligent, and
+precise monitoring of the urban operating status.
+Article 60 The municipality shall strengthen the construction of intelligentized
+urban infrastructure, promote the scientific deployment of intelligent terminals for
+video and images, monitoring and sensing, and control and implementation, strengthen
+the integration of AI technology and Internet of Things applications, and support the
+precise interaction between the physical city and digital city.
+Article 61 The municipality shall build an intelligent hub for urban operations,
+establish a distributed, multi-center urban data hub system, promote the realization of
+cross-department, cross-industry, and cross-regional data collaboration, technical
+collaboration, and business collaboration, encourage the development of AI solutions
+for the different application scenarios of digital cities, and build urban digital twin
+platforms.
+Article 62 The municipality shall comprehensively promote AI scenarios and
+applications in urban governance, focus on fields such as community governance,
+public safety, traffic management, emergency management, market supervision,
+ecological environment protection, planning and construction, and the management of
+glass curtain walls in buildings, deepen the comprehensive application of AI, improve
+overall urban operation and decision-making efficiency, and improve prevention and
+emergency response capabilities for public health and other emergencies.
+Article 63 The municipality shall support the construction of a smart justice (智慧
+司法) system, integrate functions such as data application, judicial disclosure, and
+dynamic tracking, promote the application of AI in case triage (案件分流), evidence
+collection, case analysis, legal document reading and analysis, and other areas, and
+improve the intelligentization level of the judicial system.
+
+Chapter 5 Industry Governance and Security
+Article 64 The municipality shall adhere to the holistic approach to national
+security (总体国家安全观), coordinate the development and security of the AI industry,
+and ensure the security of the production and supply chains. Relevant departments
+shall conduct security inspections and supervision of AI applications in accordance with
+the law.
+Article 65 The Municipal People's Government and relevant departments shall
+target new technologies, new industries, new business formats, and new models of AI,
+adapt to the rapid iteration that is a feature of AI, formulate, revise, or abolish
+corresponding regulatory rules and standards, explore level-by-level governance and
+sandbox regulation, stimulate the innovative vitality of various entities, and expand the
+space that AI has to develop.
+The municipality shall implement checklist-style management (清单式管理) for
+high-risk AI products and services and conduct compliance reviews in accordance with
+the principles of necessity, appropriateness, and controllability. The municipality shall
+adopt a governance model of disclosure in advance and control after the fact for lowand medium-risk AI products and services and promote pilot trials. The specific
+measures shall be formulated separately by the Municipal People's Government.
+Relevant municipal departments can formulate a list of non-administrative
+penalties for minor violations in the development of the AI industry and encourage
+citizens, legal persons, and other organizations to carry out production and business
+activities in compliance with laws and regulations through measures such as criticism
+and education and guidance through scheduled conversations (约谈).
+Article 66 The municipality shall establish an AI ethics expert committee to
+perform the following duties:
+(1) Organize the formulation of ethical norms and guidelines for the AI field;
+(2) Guide institutions of higher learning, scientific research institutions,
+enterprises, and relevant industry organizations to conduct research and explorations
+on ethical theories in the AI field and promote participation in discussions on major
+ethical issues in the AI field and the formulation of norms in China and abroad;
+(3) Encourage AI enterprises to explore and establish ethics and security
+governance systems;
+(4) Carrying out assessments of the potential risks of AI applications involving life,
+health, public safety, and other key areas;
+(5) Carry out ethical advisory activities in the AI field and provide decision-making
+consulting services for relevant departments;
+(6) Carry out education and propaganda on ethics and safety in the AI field.
+Article 67 Relevant entities that carry out AI R&D and application shall abide by
+laws and regulations, enhance their ethical awareness, and shall not engage in the
+following behaviors:
+(1) Providing products and services that endanger national security or social
+security and public security;
+(2) Providing products and services that endanger the safety of the persons or
+property of users or infringe on personal privacy or personal information rights;
+(3) Providing products and services that discriminate against users on the basis of
+ethnicity, race, gender, age, occupation, or religious beliefs;
+(4) Using algorithm technology to carry out price discrimination, consumption
+fraud, or other behaviors that infringe upon the rights and interests of consumers, or to
+conduct monopolistic or unfair competition behaviors;
+(5) Using deep synthesis (深度合成) technology to engage in conduct prohibited
+by the state;
+(6) Engaging in other behavior that violates relevant laws, regulations, public
+order, and good morals.
+Article 68 Entities that use biometric recognition technology to provide services
+and entities that provide corresponding technical support (hereinafter referred to as
+biometric service providers) shall adopt secure and controllable (安全可控) technical
+safeguard measures and establish sound algorithm management systems. The
+municipal cybersecurity and informatization departments and other departments shall
+strengthen the supervision of biometric information and supervise and guide biometric
+service providers in their provision of relevant services.
+Article 69 Employers shall comply with laws, regulations, and ethical norms in
+the application of AI technology to assist in labor discipline management, labor
+scheduling, and recruitment and promotion decisions. They shall not set discriminatory
+conditions and shall protect the legitimate rights and interests of laborers.
+Article 70 The municipality shall strengthen the application of AI in fields such as
+education, healthcare, elder care, child care, and assistance for the disabled to improve
+the quality of life of special groups such as the elderly, the disabled, women, and
+minors. In the provision of intelligentized public services, the needs of special groups
+such as the elderly, the disabled, women, and minors shall be fully considered and
+alternative solutions shall be set up when necessary.
+Chapter 7 Supplementary Provisions
+Article 71 The AI technology referred to in this Regulation is the AI technology
+listed in the State Council's New Generation Artificial Intelligence Development Plan,
+including machine learning, knowledge graphs, natural language processing, computer
+vision, human-computer interaction, biometric feature recognition, virtual reality
+(augmented reality), and other key technologies.
+Article 72 This Regulation shall come into force on October 1, 2022.

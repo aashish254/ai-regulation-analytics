@@ -1,0 +1,49 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2024”.
+SEC. 2. PROHIBITION ON FALSE AI-GENERATED ELECTION MEDIA.
+(a) Definitions.—In this section:
+(1) APPLICABLE FEDERAL ELECTION.—The term “applicable Federal election” means any general, primary, runoff, or special election held solely or in part for the purpose of nominating or electing a candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House of Representatives, or Delegate or Commissioner from a Territory or possession.
+(2) ELECTION OFFICIAL.—The term “election official” means any individual legally authorized to perform duties in connection with an applicable Federal election, including workers, volunteers, poll workers, and authorized poll observers.
+(3) FALSE AI-GENERATED ELECTION MEDIA.—The term “false AI-generated election media” means text. image, audio, or video that—
+(A) is the product of a computational process that uses machine learning, natural language processing, artificial intelligence techniques, or other computational processing techniques of similar or greater complexity; and
+(B) either—
+(i) contains materially false information relating to—
+(I) the time, place, or manner of holding any applicable Federal election; or
+(II) the qualifications for or restrictions on voter eligibility for any such election; or
+(ii) falsely depicts an election official.
+(b) Prohibition.—Except as provided in subsection (c), a person may not—
+(1) knowingly distribute false AI-generated election media described in subsection (a)(3)(B)(i) if such person—
+(A) knows such media contains materially false information described in such subsection; and
+(B) has the purpose of impeding or preventing another person from exercising the right to vote in an applicable Federal election; or
+(2) knowingly distribute false AI-generated election media described in subsection (a)(3)(B)(ii) if such person—
+(A) knows the depiction of the election official in such media is materially false; and
+(B) has the intent to—
+(i) intimidate or harass an election official; or
+(ii) deter another person from exercising the right to vote in an applicable Federal election.
+(c) Inapplicability To Certain Entities.—This section shall not apply to the following:
+(1) A radio or television broadcasting station, a cable or satellite television operator, programmer, or producer, or a streaming service that broadcasts false AI-generated election media prohibited by this section as part of a bona fide newscast, news interview, news documentary, or on-the-spot coverage of bona fide news events, if the broadcast clearly acknowledges through content or a disclosure, in a manner that can be easily heard or read by the average listener or viewer, that the information contained in the media and described in subsection (a)(2)(B) is false.
+(2) A regularly published newspaper, magazine, or other periodical of general circulation, including an internet or electronic publication, that routinely carries news and commentary of general interest, and that publishes false AI-generated election media prohibited under this section, if the publication clearly states that the information contained in the media and described in subsection (a)(2)(B) is false.
+(d) Enforcement.—The Attorney General may bring a civil action against any person who violates subsection (b) in an appropriate United States District Court for such declaratory and injunctive relief (including a temporary restraining order, a permanent or temporary injunction, or other order).SEC. 3. PROHIBITION ON REMOVAL OF NAMES FROM VOTING ROLLS USING UNVERIFIED VOTER CHALLENGE DATABASES.
+(a) In General.—The National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.) is amended by inserting after section 8 the following new section:
+“SEC. 8A. RESTRICTIONS ON REMOVAL OF VOTERS FROM OFFICIAL LISTS OF VOTERS.
+“(a) In General.—A State may not remove the name of any registrant from the official list of voters eligible to vote in elections for Federal office or take any action with respect to a voter eligibility challenge unless the registrant or voter is determined to be ineligible to vote based on—
+“(1) source information received from governmental entities and obtained by such entities in the course of carrying out official actions or duties; and
+“(2) source information approved by the Attorney General as sufficient to protect the integrity and completeness of voter registration lists.
+“(b) Approval Of Voter Information Data.—
+“(1) IN GENERAL.—The Attorney General, in consultation with the Director of the National Institute of Standards and Technology and the members of the Election Assistance Commission, may approve source information under subsection (a)(3) if such information meets the following requirements:
+“(A) The source information contains qualifying data sets that allow the State match the individual identified by the source information with an individual on the official list of voters eligible to vote in elections for Federal office.
+“(B) The source information is updated not less than a monthly.
+“(C) The source information was not obtained in violation of section 1030 of title 18, United States Code (commonly known as the ‘Computer Fraud and Abuse Act’).
+“(2) QUALIFYING DATA SETS.—For purposes of paragraph (1)(A), the term ‘qualifying data sets’ means the following sets of data with respect to an individual:
+“(A) Last name, first name, and full social security number.
+“(B) Last name, first name, and driver’s license or other unique identifying number assigned by the State.
+“(C) Last name, first name, last four digits of a social security number, and date of birth.
+“(D) Last name, full social security number, and date of birth.
+“(c) Coordination With Other Methods.—Nothing in this section be construed to preclude—
+“(1) the removal of names from official lists of voters on a basis described in paragraph (3) (A) or (B) or (4)(A) of section 8(a);
+“(2) the removal of names from official lists of voters on a basis described in section 8(c); or
+“(3) correction of registration records pursuant to this Act.”.
+(b) Conforming Amendments.—Section 8(a) of such Act (52 U.S.C. 20507(a)) is amended—
+(1) in paragraph (3), by striking “provide” and inserting “subject to section 8A, provide”; and
+(2) in paragraph (4), by striking “conduct” and inserting “subject to section 8A, conduct”.SEC. 4. SEVERABILITY.
+If any provision of this Act, or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected.

@@ -1,0 +1,53 @@
+S. 3162
+
+
+To improve the requirement for the Director of the National Institute of Standards and Technology to establish testbeds to support the development and testing of trustworthy artificial intelligence systems and to improve interagency coordination in development of such testbeds, and for other purposes.
+
+
+IN THE SENATE OF THE UNITED STATES
+
+
+October 30, 2023
+
+
+Mr. Luján (for himself, Mr. Durbin, Mr. Thune, Mrs. Blackburn, and Mr. Risch) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+
+
+A BILL
+To improve the requirement for the Director of the National Institute of Standards and Technology to establish testbeds to support the development and testing of trustworthy artificial intelligence systems and to improve interagency coordination in development of such testbeds, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Testing and Evaluation Systems for Trusted Artificial Intelligence Act of 2023” or the “TEST AI Act of 2023”.SEC. 2. INTERAGENCY COORDINATION TO FACILITATE TESTBEDS.
+
+
+Subsection (g) of section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1) is amended to read as follows:
+
+
+“(g) Testbeds.—
+
+
+“(1) DEFINITION OF ARTIFICIAL INTELLIGENCE.—In this subsection, the term ‘artificial intelligence’ has the meaning given such term in section 5002 of the National Artificial Intelligence Act of 2020 (15 U.S.C. 9401).
+
+
+“(2) IN GENERAL.— The Director shall, in coordination with the Secretary of Energy, the head of the interagency committee established under section 5103(a) of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9413(a)), and such heads of such Federal agencies, private sector entities, and institutions of higher education as the head of such interagency committee considers appropriate, establish testbeds, including virtual and experimental environments, to support the development and testing of trustworthy artificial intelligence systems, including testbeds that support development of artificial intelligence guardrails, examine risks of misuse of such systems, and evaluate the vulnerabilities and conditions that may lead to failure in, malfunction of, or attacks on such systems.
+
+
+“(3) MEMORANDUM OF UNDERSTANDING.—
+
+
+“(A) IN GENERAL.—The Secretary of Commerce and the Secretary of Energy shall enter into a memorandum of understanding to implement the coordination between the Secretary of Energy and the Director required by paragraph (2).
+
+
+“(B) REQUIREMENTS.—The memorandum shall be sufficient to ensure the Institute and other Federal agencies have access as may be necessary to the resources, personnel, and facilities at the Department of Energy, including the cross-cutting research and development programs—
+
+
+“(i) to advance artificial intelligence tools, systems, facilities, capabilities, and workforce needs;
+
+
+“(ii) to improve the reliability and trustworthiness of artificial intelligence methods and solutions relevant to the mission of the Federal agencies conducting development or testing of artificial intelligence systems for use by the agency, or in conducting Federal oversight of commercial uses of artificial intelligence systems; and
+
+
+“(iii) to establish testbeds, including a classified testbed as necessary, to support safeguards and systems to prevent the misuse of artificial intelligence systems, particularly in but not limited to weapons of mass destruction proliferation, undertake annual risk assessments of artificial intelligence misuse, formulate evaluation strategies, and employ testing and evaluation resources to support Federal oversight of artificial intelligence systems.”.

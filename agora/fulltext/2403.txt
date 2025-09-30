@@ -1,0 +1,139 @@
+A BILL
+To expand the functions of the National Institute of Standards and Technology to include workforce frameworks for critical and emerging technologies, to require the Director of the National Institute of Standards and Technology to develop an artificial intelligence workforce framework, and periodically review and update the NICE Workforce Framework for Cybersecurity, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Artificial Intelligence and Critical Technology Workforce Framework Act of 2025”.
+
+
+SEC. 2. Workforce frameworks for critical and emerging technologies.
+
+
+(a) Definitions.—
+
+
+(1) IN GENERAL.—In this section, the terms “competencies”, “workforce categories”, and “workforce framework” have the meanings given such terms in subsection (f) of section 2 of the National Institute of Standards and Technology Act (15 U.S.C. 272), as added by subsection (b) of this section.
+
+
+(2) AMENDMENT TO NIST ACT.—Section 2 of such Act (15 U.S.C. 272) is amended by adding at the end the following:
+
+
+“(f) Definitions.—In this section:
+
+
+“(1) COMPETENCIES.—The term ‘competencies’ means knowledge and skills.
+
+
+“(2) WORKFORCE CATEGORIES.—The term ‘workforce categories’ means a high-level grouping of tasks across an organization as defined by work roles within the category.
+
+
+“(3) WORKFORCE FRAMEWORK.—The term ‘workforce framework’ means a common taxonomy and lexicon for any given domain that includes the building blocks of tasks, knowledge, or skills that can be structured to form work roles or competency areas.”.
+
+
+(b) Expansion of functions of Director of National Institute of Standards and Technology To include workforce frameworks for critical and emerging technologies.—Section 2(b) of such Act (15 U.S.C. 272(b)) is amended—
+
+
+(1) in paragraph (12), by striking “; and” and inserting a semicolon;
+
+
+(2) in paragraph (13), by striking the period at the end and inserting “; and”; and
+
+
+(3) by adding at the end the following:
+
+
+“(14) (A) to develop, maintain, and provide industry, government, research, nonprofit, labor organizations, and educational institutions with workforce frameworks for critical and emerging technologies and other science, technology, engineering, and mathematics domains for the purpose of bolstering scientific and technical education, training, and workforce development;
+
+
+“(B) at least once every 3 years—
+“(i) to determine if an update to any workforce framework, or its components or associated materials, including work roles or competency areas, provided pursuant to subparagraph (A) are appropriate; and
+“(ii) if the Director determines it is appropriate under clause (i), to update such frameworks and components;
+
+
+“(C) consider including in all workforce frameworks, or associated materials—
+“(i) relevant professional skills or employability skills;
+“(ii) relevant support or operations work roles and competency areas such as administration and finance, law and policy, ethics, privacy, human resources, information technology, operational technology, supply chain security, and acquisition and procurement;
+“(iii) information that promotes the discovery of careers in critical and emerging technologies and the multiple career pathways for learners from a variety of backgrounds, including individuals with nontechnical or other nontraditional backgrounds and education; and
+“(iv) information for how individuals can acquire relevant credentials (e.g., academic degrees, certificates, certifications, etc.) that qualify individuals for employment and career advancement;
+
+
+“(D) consult, as the Director considers appropriate, with Federal agencies, industry, State, local, Tribal, and territorial government, nonprofit, labor organizations, research, and academic institutions in the development of workforce frameworks, or associated materials;
+
+
+“(E) to produce resources in multiple languages to support global adoption of the frameworks provided pursuant to subparagraph (A); and
+
+
+“(F) after each determination under subparagraph (B), to submit to Congress a report on such determination and any plans to review and update any workforce frameworks under this paragraph.”.
+
+
+(c) NICE workforce framework for cybersecurity update.—
+
+
+(1) REPORT ON UPDATES.—
+
+
+(A) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, and subsequently pursuant to paragraph (14)(F) of section (2)(b) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)), as added by subsection (b) of this section, the Director of the National Institute of Standards and Technology shall submit to Congress a report that describes the process for ongoing review and updates to the National Initiative for Cybersecurity Education Workforce Framework for Cybersecurity (NIST Special Publication 800–181), or a successor framework.
+
+
+(B) REQUIREMENTS.—Each report submitted pursuant to subparagraph (A) shall—
+(i) summarize proposed changes to the framework;
+(ii) identify, with regard to the work roles, tasks, knowledge, and skills included in the framework, how industry, academia, labor organizations, and relevant government agencies are consulted in the update; and
+(iii) describe—
+(I) the ongoing process and timeline for updating the framework; and
+(II) the incorporation of any additional work roles or competency areas in domains such as administration and finance, law and policy, ethics, privacy, human resources, information technology, operational technology, supply chain security, and acquisition and procurement.
+
+
+(2) REPORT ON APPLICATION AND USE OF NICE FRAMEWORK.—Not later than 3 years after the date of the enactment of this Act and not less frequently than once every 3 years thereafter for 9 years, the Director shall, in consultation with industry, government, nonprofit, labor organizations, research, and academic institutions, submit to Congress a report that identifies—
+
+
+(A) applications and uses of the framework described in paragraph (1)(A) in practice;
+
+
+(B) any guidance that the program office of the National Initiative for Cybersecurity Education provides to increase adoption by employers and education and training providers of the work roles and competency areas for individuals who perform cybersecurity work at all proficiency levels;
+
+
+(C) available information regarding employer and education and training provider use of the framework;
+
+
+(D) an assessment of the use and effectiveness of the framework by and for individuals with nontraditional backgrounds or education, especially individuals making a career change or not pursuing a bachelor’s degree or higher; and
+
+
+(E) any additional actions taken by the Director to increase the use of the framework.
+
+
+(3) CYBERSECURITY CAREER EXPLORATION RESOURCES.—The Director, acting through the National Initiative for Cybersecurity Education, shall disseminate cybersecurity career resources for all age groups, including kindergarten through secondary and postsecondary education and adult workers.
+
+
+(d) Additional workforce frameworks.—
+
+
+(1) FRAMEWORK ASSESSMENT.—Not later than 180 days after the date of the enactment of this Act, the Director shall assess the need for additional workforce frameworks for critical and emerging technologies, such as quantum information science.
+
+
+(2) DEVELOPMENT OF ADDITIONAL FRAMEWORKS.—
+
+
+(A) IN GENERAL.—The Director shall develop and publish a workforce framework for each additional workforce framework that the Director determines is needed pursuant to an assessment carried out pursuant to paragraph (1).
+
+
+(B) REQUIRED AI FRAMEWORK.—Notwithstanding paragraph (1) and subparagraph (A) of this paragraph, not less than 540 days after the date of the enactment of this Act, the Director shall develop and publish a workforce framework, workforce categories, work roles, and competency areas for artificial intelligence.
+
+
+(3) MODEL.—In developing a workforce framework under paragraph (2), the Director may use the Playbook for Workforce Frameworks developed by the National Initiative for Cybersecurity Education that is modeled after the National Initiative for Cybersecurity Education Workforce Framework for Cybersecurity (NIST Special Publication 800–181), or a successor framework.
+
+
+(4) FRAMEWORK COMPONENTS.—Each framework developed pursuant to paragraph (2) shall include relevant support or operations work roles and competency areas such as administration and finance, law and policy, ethics, privacy, human resources, information technology, operational technology, supply chain security, and acquisition and procurement, as the Director considers appropriate, in alignment with paragraph (14)(C) of section 2(b) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)), as added by subsection (b).
+
+
+(5) PROFESSIONAL SKILLS REQUIRED.—Each framework developed pursuant to paragraph (2) shall include professional skills or employability skills, as the Director considers appropriate, in alignment with paragraph (14)(C) of section 2(b) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)), as added by subsection (b).
+
+
+(6) NONTRADITIONAL BACKGROUNDS.—Each framework developed under paragraph (2), or materials associated with each framework, shall include information for how individuals with nontechnical or other nontraditional backgrounds and education may utilize their skills for such frameworks’ roles and tasks, in alignment with paragraph (14)(D) of section 2(b) of the such Act (15 U.S.C. 272(b)(14)(D)), as so added.
+
+
+(7) UPDATES.—The Director shall update each framework developed under paragraph (2) in accordance with subparagraph (B) of paragraph (14) of section 2(b) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)), as added by subsection (b) of this section, and submit to Congress reports in accordance with subparagraph (F) of such paragraph.

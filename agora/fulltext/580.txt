@@ -1,0 +1,208 @@
+ H. R. 7314
+
+
+To create a task force within the Department of Commerce to oversee and promote diversity, equity, inclusion, and accessibility in the tech industry.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+
+
+February 9, 2024
+
+
+Mr. Meeks (for himself and Ms. Lee of California) introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+
+A BILL
+To create a task force within the Department of Commerce to oversee and promote diversity, equity, inclusion, and accessibility in the tech industry.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Diversify Tech Act”.
+
+ SEC. 2. ESTABLISHMENT AND POWERS OF THE TASK FORCE.
+
+
+(a) Establishment.—Not later than 60 days after the date of enactment of this Act, the Secretary of Commerce shall establish, within the Office of Policy and Strategic Planning, the Tech Industry Diversity, Equity, Inclusion, and Accessibility Task Force (in this Act referred to as the “Task Force”).
+
+
+(b) Composition.—
+
+
+(1) MEMBERS.—The Task Force shall consist of the following members:
+
+
+(A) The Chief Diversity and Equity Officer of the Department of Labor.
+
+
+(B) The Chair of the Communications Equity and Diversity Council of the Federal Trade Commission.
+
+
+(C) The Director of the Women’s Bureau of the Department of Labor.
+
+
+(D) The Under Secretary of Commerce for the Minority Business Development Agency.
+
+
+(E) The Chief Diversity, Equity, and Inclusion Officer of the Department of Commerce.
+
+
+(F) The four temporary members selected pursuant to paragraph (2).
+
+
+(2) TEMPORARY MEMBERS.—The members described in subparagraphs (A) through (E) of paragraph (1) shall, by a majority vote, select the following temporary members for two-year terms:
+
+
+(A) Two experts in the field of diversity, equity, inclusion, and accessibility who work in the tech industry and have a diverse background, including diversity related to race, ethnicity, gender, and sexual orientation.
+
+
+(B) Two non-voting representatives-at-large who may attend meetings to provide insight into—
+
+
+(i) any matter that the Task Force may request; and
+
+
+(ii) the diversity operations of the entity in the tech industry for which such representative-at-large is employed.
+
+
+(c) Meetings.—
+
+
+(1) IN GENERAL.—The Task Force shall meet quarterly to carry out the duties and responsibilities of the Task Force under section 3.
+
+
+(2) CLOSED MEETINGS.—Notwithstanding section 1009(a)(1) of title 5, United States Code, the meetings of the Task Force shall be closed to the public and shall be limited to the members described in subsection (b) and any such individuals as the members of the Task Force allow.
+
+
+(d) Prohibition Of Compensation Of Federal Employees.—Members of the Commission who are full-time officers or employees of the United States may not receive additional pay, allowances, or benefits by reason of their service on the Commission.
+
+ SEC. 3. DUTIES AND RESPONSIBILITIES OF THE TASK FORCE.
+
+
+(a) Initial Audit.—Not later than 60 days after the establishment of the Task Force, the Task force shall—
+
+
+(1) conduct an audit to inform how the Task Force will carry out the activities in subsections (b), (c), and (d), which shall include—
+
+
+(A) the percentage of employees in the tech industry who are minorities;
+
+
+(B) the hiring and retainment policies of entities in the tech industry; and
+
+
+(C) an identification of any trends in layoffs in the tech industry; and
+
+
+(2) submit to Congress a report that includes the information collected from the audit described in paragraph (1).
+
+ (b) Duties And Responsibilities.—The Task Force shall—
+
+
+(1) promote DEIA in the tech industry, including issues related to race, ethnicity, gender, and sexual orientation;
+
+
+(2) provide guidance to entities in the tech industry on how to achieve DEIA goals and how to measure progress in achieving such goals;
+
+
+(3) through the non-voting members described in subsection (b)(2)(B) of section 2, consult with stakeholders in the tech industry, including employees and investors about DEIA in the tech industry;
+
+
+(4) monitor the treatment of minorities in the tech industry, and consider releasing to the public any information collected pursuant to such monitoring;
+
+
+(5) promote minority-owned startups in the tech industry as described in subsection (c); and
+
+
+(6) carry out the reporting requirements in subsection (d).
+
+ (c) Promotion Of Minority-Owned Startups In The Tech Industry.—The Task Force shall—
+
+
+(1) advise the Secretary of Labor, the Secretary of Commerce, and the Chair of the Federal Trade Commission regarding—
+
+
+(A) the development of outreach programs to minority-owned startups to ensure such startups are aware of grant opportunities; and
+
+
+(B) existing outreach programs to minority-owned startups to ensure such Secretaries and such Chair are aware of all available resources, including technical assistance, training, and mentorship; and
+
+
+(2) encourage venture capital investment into minority-owned startups in the tech industry.
+
+ (d) Reporting Requirements.—
+
+
+(1) REPORT ON LAYOFFS IN 2023.—Not later than 180 days after the date of enactment of this Act, the Task Force shall submit to the President and Congress a publicly available report that—
+
+
+(A) identifies the number of individuals that were laid off during calendar year 2023 by entities in the tech industry;
+
+
+(B) evaluates how the layoffs affected DEIA at entities in the tech industry, including whether—
+
+
+(i) DEIA departments were eliminated;
+
+
+(ii) overall diversity in the tech industry decreased; and
+
+
+(iii) any Federal civil rights or labor laws may have been violated; and
+
+
+(C) identifies the process and procedures each entity in the tech industry followed in laying off such individuals.
+
+
+(2) ANNUAL REPORT.—Not later than 180 days after the date of enactment of this Act, and on an annual basis thereafter, the Task Force shall submit to the President and Congress a publicly available report that—
+
+
+(A) evaluates the progress of entities in the tech industry in achieving the DEIA goals of such entities;
+
+
+(B) makes recommendations regarding policies and programs that can promote DEIA in the tech industry;
+
+
+(C) evaluates how artificial intelligence can be used to promote DEIA and identify the ways in which artificial intelligence is affecting social, socio-economic, and gender discrimination; and
+
+
+(D) proposes policy solutions to increase accountability in the tech industry concerning such discrimination.
+
+ SEC. 4. DEFINITIONS.
+
+
+In this Act:
+
+
+(1) DEIA.—The term “DEIA” means diversity, equity, inclusion, and accessibility.
+
+
+(2) ENTITY IN THE TECH INDUSTRY .—The term “entity in the tech industry” means an entity that—
+
+
+(A) has its principal office located in the United States or has a subsidiary the principal office of which is located in the United States;
+
+
+(B) has over 10 million aggregate subscribers or users of social media platforms that are provided by such entity; and
+
+
+(C) manufactures, supports, researches, and develops technology products and services on a large scale.
+
+
+(3) MINORITY-OWNED STARTUP.—The term “minority-owned startup” means a business that is owned, managed, or controlled by one or more minority persons who have, collectively, at least 51 percent of an ownership interest in such business.
+
+
+(4) TECH INDUSTRY.—The term “tech industry” means the sector of the economy comprised of the entities described in paragraph (2).
+
+
+(5) TECHNOLOGY PRODUCT AND SERVICE.—The term “technology product and service” means—
+
+
+(A) a computing, telecommunications, or consumer electronics-based technology intensive product, including products related to digital electronics, software, optics, or new energy; and
+
+
+(B) a technology service, including an internet-related service, such as services related to software, hardware, social media and digital platforms, cloud storage, or e-commerce.

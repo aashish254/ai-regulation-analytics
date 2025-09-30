@@ -1,0 +1,65 @@
+A BILL
+To provide for Federal civilian agency laboratory development for testing and certification of artificial intelligence for civilian agency use, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Federal civilian agency laboratory development for testing and certification of artificial intelligence for civilian agency use.
+
+
+(a) In general.—The Secretary of Homeland Security, acting through the Administrator of the Federal Emergency Management Agency, shall assess the competency and capacity required across the Federal Government to make recommendations on the design and equipping of Federal civilian agency laboratories for the conduct of artificial intelligence training engine development and test beds for generative artificial intelligence relating to sustaining the following:
+
+
+(1) Democratic norms, values, and legal protections for institutions.
+
+
+(2) The independence of personnel, government networks, the courts, and elected and appointed persons at all levels to fulfill their oaths of office and official duties.
+
+(b) Development.—To carry out subsection (a), the Secretary of Homeland Security, acting through the Administrator of the Federal Emergency Management Agency, shall develop artificial intelligence training and testing centers to score artificial intelligence systems that may be acquired for Federal civilian agency use with the following objectives:
+
+
+(1) Preserving privacy, transparency, accountability, self-determination, and autonomy in the use of artificial intelligence, and the rights of families and individuals to opt-out of the use of artificial intelligence.
+
+
+(2) Protection of the rights of individuals, children, the elderly, persons with disabilities, and racial minorities regarding the use of artificial intelligence.
+
+
+(3) Protection of gender identification and the intimate lives of consenting adults.
+
+
+(4) Guarding against automated decision making that threatens due process rights, constitutional protections, or the rule of law.
+
+(c) Implementation.—To carry out subsections (a) and (b), the Secretary of Homeland Security, acting through the Administrator of the Federal Emergency Management Agency, shall, in accordance with subsection (d), utilize real world use cases and associated outputs provided by artificial intelligence systems to determine outcomes in specific Federal civilian agency settings, including in situations in which artificial intelligence replaces with automated systems workers in decision-making scenarios.
+
+
+(d) Certain requirements.—In carrying out subsection (c) relating to the utilization of real world use cases, the Secretary of Homeland Security, acting through the Administrator of the Federal Emergency Management Agency, shall ensure the following:
+
+
+(1) The development of a digital repository of real world use cases that do not contain personally identifiable information or can be used to identify any individuals.
+
+
+(2) The determination of modes and methods for converting real world use case data into training and testing applications uniquely suited for each Federal agency’s training and testing systems.
+
+
+(3) Real world use cases are used to test and ensure that artificial intelligence systems accurately capture real world knowledge of each Federal agency’s delivery of benefits or services to employees, other Federal agencies or to non-Federal persons seeking information, or assistance relating to the application for benefits or services.
+
+
+(4) The prohibition of automatic decision making regarding any denial of such benefits or services.
+
+
+(5) Each Federal agency utilizes the information contained in such digital repository in a manner consistent with the intent of the permitting each such Federal agency to train and test artificial intelligence systems intended for each such Federal agency’s adoption and use.
+
+(e) Office of Artificial Intelligence Incident Reporting.—The Secretary of Homeland Security shall establish in the Department of Homeland Security an Office of Artificial Intelligence Incident Reporting to enable Federal civilian agencies to share, collaborate, and report on experiences with artificial intelligence systems.
+
+
+(f) Reports.—
+
+
+(1) DHS REPORTS.—Not later than six months after the date of the enactment of this Act and biannually thereafter, the Secretary of Homeland Security, acting through the Administrator of the Federal Emergency Management Agency, shall submit to Congress a report on the implementation of this section, including regarding objectives and associated challenges, and resource needs. Each report under this subsection shall also include recommendations on how to overcome roadblocks.
+
+
+(2) AGENCY REPORTS.—The head of each Federal civilian agency shall report to the Secretary of Homeland Security any adverse experiences encountered by such agency with deployed artificial intelligent systems and what steps have been taken to address such adverse experiences.
+
+
+(g) Authorization of appropriations.—There is authorized to be appropriated $20,000,000,000, to remain available until expended, to carry out this section.

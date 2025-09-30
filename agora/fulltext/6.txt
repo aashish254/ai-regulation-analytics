@@ -1,0 +1,19 @@
+SEC. 1513. ESTABLISHING PROJECTS FOR DATA MANAGEMENT, ARTIFICIAL INTELLIGENCE, AND DIGITAL SOLUTIONS.
+
+(a) Establishment of Priority Projects.--The Deputy Secretary of Defense shall--
+	(1) establish priority enterprise projects for data management, artificial intelligence, and digital solutions for both business efficiency and warfighting capabilities intended to accelerate decision advantage; and
+	(2) assign responsibilities for execution and funding of the projects established under paragraph (1).
+(b) Actions Required.--To ensure implementation of the priority projects of the Deputy Secretary of Defense under subsection (a), and to instill data science and technology as a core discipline in the Department of Defense, the Deputy Secretary shall--
+	(1) hold the heads of components accountable for--
+		(A) making their component's data available for use pursuant to the memorandum of the Deputy Secretary of Defense dated May 5, 2021, and titled ``Creating Data Advantage'', in accordance with plans developed and approved by the head of the component and the Deputy Secretary;
+		(B) developing, implementing, and reporting measurable actions to acquire, preserve, and grow the population of government and contractor personnel with expertise in data management, artificial intelligence, and digital solutions;
+		(C) making their components use data management practices, analytics processes, enterprise cloud computing environments, and operational test environments that are made available and specifically approved by the head of the component and the Deputy Secretary;
+		(D) identifying and reporting on an annual basis for Deputy Secretary approval those ongoing programs and activities and new initiatives within their components to which the component head determines should be applied advanced analytics, digital technology, and artificial intelligence; and
+		(E) developing and implementing cybersecurity and artificial intelligence security solutions, including preventative and mitigative technical solutions, red team assessments, to protect artificial intelligence systems, data, development processes, and applications from adversary actions;
+	(2) require the Chief Digital and Artificial Intelligence Officer, in coordination with the heads of components, to develop and report on an actionable plan for the Deputy Secretary to reform the technologies, policies, and processes used to support accreditation and authority to operate decisions to enable rapid deployment into operational environments of newly developed government, contractor, and commercial data management, artificial intelligence, and digital solutions software;
+	(3) require the Under Secretary of Defense for Personnel and Readiness, in coordination with the Chief Digital and Artificial Intelligence Officer and heads of components to define and establish career paths, work roles, and occupational specialties for civilian and military personnel in the fields of data management, artificial intelligence, and digital solutions for the Deputy Secretary's approval; and
+	(4) establish a Departmental management reform goal for adoption and integration artificial intelligence or machine learning into business and warfighting processes, including the tracking of metrics, milestones, and initiatives to measure the progress of the Department in meeting that goal.
+
+(c) Briefings Required.--Not later than 180 days after the date of the enactment of this Act, and annually thereafter until December 31, 2025, the Deputy Secretary shall provide to the congressional defense committees a briefing on directives issued by the Deputy Secretary to implement the requirements of this section and the status of implementation actions.
+
+(d) Component Defined.--In this section, the term ``component'' means a military department, a combatant command, or a Defense Agency of the Department of Defense.

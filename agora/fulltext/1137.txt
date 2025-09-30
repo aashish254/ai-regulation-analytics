@@ -1,0 +1,119 @@
+Chapter I： General Provisions
+
+Article 1: These Provisions are drafted on the basis of the Cybersecurity Law of the PRC, the PRC Data Security Law, the Personal Information Protection Law of the PRC, the PRC Law on the Scientific and Technological Progress, and other relevant laws and administrative regulations, so as promote the healthy development and regulated use of generative AI, preserve national security and the societal public interest, and protect the lawful rights and interests of citizens, legal persons, and other organizations.
+
+Article 2: These measures apply to the use of generative AI technologies to provide services to the public in the [mainland] PRC for the generation of text, images, audio, video, or other content (hereinafter generative AI services).
+
+Where the state has other provisions on the use of generative AI services to engage in activities such as news and publication, film and television production, and artistic creation, those provisions are to be followed.
+
+These Measures do not apply where industry associations, enterprises, education and research institutions, public cultural bodies, and related professional bodies, etc., research, develop, and use generative AI technology, but have not provided generative AI services to the (mainland) public.
+
+Article 3: The state is to adhere to the principle of placing equal emphasis on development and security, merging the promotion of innovation with governance in accordance with law; employing effective measures to encourage innovation and development in generative AI, and carrying out tolerant and cautious graded management by category of generative AI services.
+
+Article 4: The provision and use of generative AI services shall comply with the requirements of laws and administrative regulations, respect social mores, ethics, and morality, and obey the following provisions:
+
+(1) Uphold the Core Socialist Values; content that is prohibited by laws and administrative regulations such as that inciting subversion of national sovereignty or the overturn of the socialist system, endangering national security and interests or harming the nation’s image, inciting separatism or undermining national unity and social stability, advocating terrorism or extremism, promoting ethnic hatred and ethnic discrimination, violence and obscenity, as well as fake and harmful information;
+
+(2) During processes such as algorithm design, the selection of training data, model generation and optimization, and the provision of services, effective measures are to be employed to prevent the creation of discrimination such as by race, ethnicity, faith, nationality, region, sex, age, profession, or health;
+
+(3) Respect intellectual property rights and commercial ethics, and protect commercial secrets, advantages in algorithms, data, platforms, and so forth must not be used for monopolies or to carry out unfair competition;
+
+(4) Respect the lawful rights and interests of others, the physical and psychological well-being of others must not be endangered, and the rights and interests of others, such as in their image, reputation, honor, privacy, and personal information, must not be infringed;
+
+(5) Based on the characteristics of the service type, employ effective measures to increase transparency in generative AI services and to increase the accuracy and reliability of generated content.
+
+Chapter II: Development and Governance of Technology
+
+Article 5: Encourage the innovative application of generative AI technology in each industry and field, generate exceptional content that is positive, healthy, and uplifting, and explore the optimization of usage scenarios in building an application ecosystem.
+
+Support industry associations, enterprises, education and research institutions, public cultural bodies, and relevant professional bodies, etc. to coordinate in areas such as innovation in generative AI technology, the establishment of data resources, applications, and risk prevention.
+
+Article 6: Encourage independent innovation in basic technologies for generative AI such as algorithms, frameworks, chips, and supporting software platforms, carry out international exchanges and cooperation in an equal and mutually beneficial way, and participate in the formulation of international rules related to generative AI.
+
+Promote the establishment of generative AI infrastructure and public training data resource platforms. Promote collaboration and sharing of algorithm resources, increasing efficiency in the use of computing resources. Promote the orderly opening of public data by type and grade, expanding high-quality public training data resources. Encourage the adoption of safe and reliable chips, software, tools, computational power, and data resources.
+
+Article 7: The providers of generative AI services (hereinafter “providers”) shall carry out pre-training, optimization training, and other activities handling training data in accordance with law, and comply with the following provisions:
+
+(1) Use data and foundational models that have lawful sources;
+
+(2) Where intellectual property rights are involved, the intellectual property rights that are lawfully enjoyed by others must not be infringed;
+
+(3) Where personal information is involved, the consent of the personal information subject shall be obtained or it shall comply with other situations provided by laws and administrative regulations;
+
+(4) Employ effective measures to increase the quality of training data, and increase the truth, accuracy, objectivity, and diversity of training data;
+
+(5) Other provisions in laws and administrative regulations such as the PRC Cybersecurity Law, The PRC Data Security Law, and the PRC Personal Information Protection Law, and the regulatory requirements of relevant departments in charge.
+
+Article 8: When manual tagging is conducted in the course of researching and developing generative AI technology, the providers shall formulate clear, specific, and feasible tagging rules that meet the requirements of these Measures; carry out assessments of the quality of data tagging, with spot checks to verify the accuracy of tagging content; and conduct necessary training for tagging personnel to increase their awareness of legal compliance and oversee and guide them to carry out tagging efforts in a standardized way.
+
+Chapter III Service Specifications
+
+Article 9: Providers shall bear responsibility as the producers of online information content in accordance with law and are to fulfill the online information security obligations. Where personal information is involved, they are to bear responsibility as personal information handlers and fulfill obligations to protect personal information.
+
+Providers shall sign service agreements with users who register for their generative AI services (hereinafter “users”), clarifying the rights and obligations of both parties.
+
+Article 10: Providers shall clarify and disclose the user groups, occasions, and uses of their services, guide users’ scientific understanding and lawful use of generative AI technology, and employ effective measures to prevent minor users from overreliance or addiction to generative AI services.
+
+Article 11: Providers shall fulfill confidentiality obligations towards information input by users and users’ usage records in accordance with law; they must not collect unnecessary personal information, must not illegally retain user input information and usage records from which users’ identities can be determined, and must not illegally provide user input information and usage records to others.
+
+Providers shall lawfully and promptly accept and address requests from individuals such as to access, reproduce, modify, supplement, or delete their personal information.
+
+Article 12: Providers shall label generated content such as images and video in accordance with the Provisions on the Administration of Deep Synthesis Internet Information Services.
+
+Article 13: Providers shall provide safe, stable, and sustained services throughout the course of services to ensure users’ normal usage.
+
+Article 14: Where providers discover illegal content they shall promptly employ measures to address it such as stopping generation, stopping transmission, and removal, employ measures such as model optimization training to make corrections and report to the relevant departments in charge.
+
+Where providers discover that users are using generative AI services to engage in illegal activities, they shall employ measures in accordance with laws and agreements to address it, including warnings, limiting functions, and suspending or concluding the provision of services, and store the relevant records and report to the relevant departments in charge.
+
+Article 15: Providers shall establish and complete mechanisms for making complaints and reports, setting up easy complaint and reporting portals, disclosing the process for handling them and the time limits for giving responses, and promptly accepting and handling complaints and reports from the public and giving feedback on the outcome.
+
+Chapter IV Oversight Inspections and Legal Responsibility
+
+Article 16: Based on their respective duties, departments such as for internet information, reform and development, education, science and technology, industry and informatization, public security, radio and television, and press and publication are to strengthen the management of generative AI services in accordance with law.
+
+In light of the characteristics of generative AI technology and its service applications in relevant industries and fields, the state’s competent departments are to improve scientific regulatory methods that are compatible with innovation and development, and formulate rules or guidelines for corresponding regulation by type and grade.
+
+Article 17: Those providing generative AI services with public opinion properties or the capacity for social mobilization shall carry out security assessments in accordance with relevant state provisions and perform formalities for the filing, modification, or canceling of filings on algorithms in accordance with the “Provisions on the Management of Algorithmic Recommendations in Internet Information Services”.
+
+Article 18: Where users discover that generative AI services do not comply with laws, administrative regulations, or these Measures, they have the right to make a complaint or report to the relevant departments in charge.
+
+Article 19: Providers shall cooperate with the relevant departments in charge that are carrying out oversight inspections of generative AI services on the basis of their duties, explaining the sources, models, types, tagging rules, algorithm mechanisms, etc. for training data as required, and providing necessary technical, data, and other supports and assistance.
+
+Relevant bodies and personnel participating in security assessments and oversight inspections of generative AI services shall strictly keep the confidentiality of state secrets, commercial secrets, personal privacy, and personal information that they learn of in performing their duties, and must not leak or unlawfully provide it to others.
+
+Article 20: Where generative AI services provided from outside the [mainland] PRC do not meet the requirements of laws, administrative regulations, or these Measures, the state internet information department shall notify the relevant organs to employ technical measures and other necessary measures to address it.
+
+Article 21: Where providers violate these Measures, penalties are to be given by the relevant regulatory departments in accordance with the provisions of the PRC Cybersecurity Law, The PRC Data Security Law, the PRC Law on the Protection of Personal Information, The PRC Law on Scientific and Technological Progress, and other such laws and administrative regulations; and where laws and administrative regulations are silent, the relevant departments in charge are to give warnings, circulate criticism, or order corrections in a set period of time on the basis of their duties, and if corrections are refused or the circumstances are serious, an order is to be given to suspend the provision of the related services.
+
+Where violations of public security are constituted, a public security administrative sanction is lawfully given; where a crime is constituted, criminal responsibility is to be pursued in accordance with law.
+
+Chapter V: Supplementary Provisions
+
+Article 22: The meanings of the following terms used in these Measures are:
+
+(1) "Generative AI technology" refers to models and relevant technologies that have the ability to generate content such as texts, images, audio, or video.
+
+(2) "Generative AI service providers" refers to organizations and individuals that use generative AI technology to provide generative AI services (including providing generative AI services through programmable interfaces and other means).
+
+(3) "Generative AI service users" refers to organizations and individuals that use generative AI services to generate content.
+
+Article 23: Where laws and administrative regulations provide that administrative permits shall be acquired for the provision of generative AI services, the provides shall obtain permits in accordance with law.
+
+Foreign investment in generative AI services shall comply with laws and administrative regulations related to foreign investment.
+
+Article 24: These measures take effect on August 15, 2023.
+
+Cybersecurity Administration
+
+People's Republic of China National Development and Reform Commission
+
+Ministry of Education of the People's Republic of China
+
+Ministry of Science and Technology of the People's Republic of China
+
+Ministry of Industry and Information Technology of the People's Republic of China
+
+Ministry of Public Security of the People's Republic of China
+
+State Administration of Radio and Television

@@ -1,0 +1,34 @@
+The wave of artificial intelligence (Al) is sweeping across the globe, actively generating technological dividends and exerting profound influence on global economic and social development as well as the progress of human civilization. At the same time, we are acutely aware that Al brings about unpredictable risks and complicated challenges. To seize this new round of development opportunities, we solemnly launch the Al Safety Commitments. Through industry self-regulation, we will leverage high-level safety and security measures to support high-quality development, and collaborate to promote the robust development of Al. We deeply understand that self-discipline commitments are key to earning the trust of the global community. Guided by the Commitments as our code of conduct, and subject to the oversight of all stakeholders, we will continuously improve and refine our approach. By doing so, we will ensure that the application of Al technologies always remains people-centered and aligned with the principle of Al for good.
+ 
+Commitment I: Establish safety teams or organizational structures and build safety and security risk management mechanisms. Designate leader responsible for Al safety and security, establish specialized teams to conduct Al risk assessments and safety governance within the enterprise. Proactively define realistic safety risk baselines, adopt appropriate safety measures for open-source initiatives, and implement risk management practices throughout the entire Al development and deployment life cycle.
+Clearly outline processes and measures for risk identification and mitigation.
+ 
+Commitment II: Conduct safety and security testing for Al models to enhance the performance, safety, and reliability. Through dedicated simulation and red-teaming experts to rigorously test Al models prior to their release or update. For large models in particular, prioritize safety and reliability evaluations focusing on their general understanding, reasoning, and decision-making capabilities, as well as their performance in critical domains such as industry, education, healthcare, finance, and law.
+ 
+Commitment III: Implement measures to safeguard the security of training data and operational data. Establish data security protection policies and deploy corresponding technical measures to detect and promptly address data poisoning incidents, ensuring the accuracy and reliability of training data. Encrypt operational data and enforce access controls to protect business secrets, user privacy, and user-uploaded database, ensuring access is restricted to authorized use only. Prevent unauthorized outputs by Al models, thereby safeguarding data security and privacy rights.
+ 
+Commitment IV: Enhance infrastructure security. Develop robust capabilities for monitoring and protecting the software and hardware used in Al system deployments. Conduct regular and dynamic security penetration tests to simulate potential risks, identify and report security vulnerabilities in the infrastructure, and assess associated risks. Establish an infrastructure security incident response mechanism, including emergency response procedures, clear accountability assignments, and post-incident improvement solutions.
+ 
+Commitment V: Enhance model transparency. Proactively disclose safety and security governance measures and improve transparency for all stakeholders. Provide clear information about the model's capabilities, applicable fields, and limitations. Inform potential risks to the public through model documentation, service agreements, or others.
+ 
+Commitment VI: Vigorously advance frontier safety and security research. Assess security risks in cutting-edge application domains, including potential biases, discrimination, or uncontrollable elements in frontier applications such as agents based on large models and embodied intelligence. Share research findings with the public transparently. Innovate in the development and deployment of Al systems that embody the principle of Al for good, contributing to addressing the most pressing challenges faced by society.
+
+List of the first companies to sign the "Artificial Intelligence Safety Commitments":
+
+Alibaba (China) Co., Ltd.
+Beijing Baidu Network Technology Co., Ltd.
+Beijing Volcano Engine Technology Co., Ltd.
+Beijing Megvii Technology Co., Ltd.
+Beijing Zero One Everything Technology Co., Ltd.
+Beijing DeepQuest AI Basic Technology Research Co., Ltd.
+Beijing Zhipu Huazhang Technology Co., Ltd.
+Fourth Paradigm (Beijing) Technology Co., Ltd.
+Huawei Technologies Co., Ltd.
+iFlytek Co., Ltd.
+Ant Technology Group Co., Ltd.
+360 Security Technology Co., Ltd.
+Shanghai SenseTime Intelligent Technology Co., Ltd.
+Shanghai Xiyu Technology Co., Ltd.
+Shenzhen Tencent Computer Systems Co., Ltd.
+China Telecom Artificial Intelligence Technology Co., Ltd.
+China Mobile Communications Group Co., Ltd.

@@ -1,0 +1,31 @@
+A Local Law to amend the administrative code of the city of New York, in relation to reporting on algorithmic tools used by city agencies 
+
+
+Be it enacted by the Council as follows: 
+
+
+Section 1. Subchapter 1 of chapter 1 of title 3 of the administrative code of the city of New York is amended by adding a new section 3-119.5 to read as follows: 
+
+
+§ 3-119.5 Annual reporting on algorithmic tools. a. For purposes of this section, the term “algorithmic tool” means any technology or computerized process that is derived from machine learning, artificial intelligence, predictive analytics, or other similar methods of data analysis, that is used to make or assist in making decisions about and implementing policies that materially impact the rights, liberties, benefits, safety or interests of the public, including their access to available city services and resources for which they may be eligible. Such term includes, but is not limited to tools that analyze datasets to generate risk scores, make predictions about behavior, or develop classifications or categories that determine what resources are allocated to particular groups or individuals, but does not include tools used for basic computerized processes, such as calculators, spellcheck tools, autocorrect functions, spreadsheets, electronic communications, or any tool that relates only to internal management affairs such as ordering office supplies or processing payments, and does not materially affect the rights, liberties, benefits, safety or interests of the public. 
+
+
+b. Each agency shall report to the mayor’s office of operations, or any other office or agency designated by the mayor, no later than December 31 of every year, every algorithmic tool that the agency has used one or more times during the prior calendar year
+
+
+c. Each agency shall provide the following information about each algorithmic tool reported pursuant to subdivision b of this section: 
+1. The name or commercial name, and a brief description of such algorithmic tool; 
+2. The purpose for which the agency is using such an algorithmic tool; 
+3. The type of data collected or analyzed by the algorithmic tool and the source of such data; 
+4. A description of how the information received from such algorithmic tool is used; 
+5. Whether a vendor or contractor was involved in the development or ongoing use of the algorithmic tool, a description of such involvement, and the name of such vendor or contractor when feasible; and 
+6. The month and year in which such algorithmic tool began to be used, if known. 
+
+
+d. The mayor’s office of operations, or any other office or agency designated by the mayor, shall compile the information received pursuant to subdivisions b and c of this section and report it to the mayor and the speaker of the council, disaggregated by agency, no later than March 31 of every year. 
+
+
+e. No agency shall disclose any information pursuant to this section where such disclosure would violate local, state, or federal law, or endanger the safety of the public, or interfere with an active agency investigation. 
+
+
+§ 2. This local law takes effect immediately.

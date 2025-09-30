@@ -1,0 +1,22 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Eliminating Bias in Algorithmic Systems Act of 2023”.SEC. 2. DEFINITIONS.
+In this Act:
+(1) AGENCY.—The term “agency” has the meaning given the term in section 3502 of title 44, United States Code.
+(2) COVERED AGENCY.—The term “covered agency” means an agency that—
+(A) uses, funds, or procures a covered algorithm, or funds or otherwise participates in the development of a covered algorithm; or
+(B) oversees, regulates, or advises on the development or use of a covered algorithm.
+(3) COVERED ALGORITHM.—The term “covered algorithm” means a process that—(A) is—
+(i) a computational process that uses machine learning, natural language processing, artificial intelligence techniques, or other computational processing techniques of similar or greater complexity; or
+(ii) a computational process derived from a process described in clause (i); and
+(B) has the potential to have a material effect on the impact of, access to, availability of, eligibility for, cost of, terms of, or conditions of—
+(i) a program operated or funded by an agency;
+(ii) an economic opportunity regulated by an agency; or
+(iii) rights protected by an agency.SEC. 3. CIVIL RIGHTS OFFICES AND REPORTING ON AI BIAS, DISCRIMINATION, AND OTHER HARMS.
+
+(a) Offices Of Civil Rights.—The head of each covered agency shall ensure that the covered agency has an office of civil rights that employs experts and technologists focused on bias, discrimination, and other harms resulting from covered algorithms.(b) Bias, Discrimination, And Other Harms Reports.—Not later than 1 year after the date of enactment of this Act, and every 2 years thereafter, each office of civil rights of a covered agency established under subsection (a) shall submit to each congressional committee with jurisdiction over the covered agency a report that details—
+(1) the state of the field and technology of covered algorithms with respect to jurisdiction of the covered agency, including risks relating to bias, discrimination, and other harms;
+(2) any relevant steps the covered agency has taken to mitigate harms from covered algorithms due to bias, discrimination, and other harms;
+(3) actions the covered agency has taken to engage with relevant stakeholders, including industry representatives, businesses, civil rights advocates, consumer protection organizations, other relevant civil society organizations, academic experts, individuals with technical expertise, organizations representing workers, and affected populations, regarding bias, discrimination, and other harms from covered algorithms; and
+(4) any relevant recommendations for legislation or administrative action to mitigate bias, discrimination, and other harms from covered algorithms, as determined appropriate by the head of the office.
+(c) Interagency Working Group.—Not later than 1 year after the date of enactment of this Act, the Assistant Attorney General in charge of the Civil Rights Division of the Department of Justice shall establish an interagency working group on covered algorithms and civil rights, of which each office of civil rights of a covered agency established under subsection (a) shall be a member.
+(d) Authorization Of Appropriations.—There are authorized to be appropriated to each covered agency such sums as may be necessary to carry out this Act.

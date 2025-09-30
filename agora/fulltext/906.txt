@@ -1,0 +1,465 @@
+ H. R. 7532
+
+
+To amend chapter 35 of title 44, United States Code, to establish Federal AI system governance requirements, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+March 5, 2024
+Mr. Comer (for himself, Mr. Raskin, Ms. Mace, Ms. Ocasio-Cortez, Mr. Higgins of Louisiana, Mr. Connolly, Mr. Langworthy, and Mr. Khanna) introduced the following bill; which was referred to the Committee on Oversight and Accountability
+
+
+A BILL
+To amend chapter 35 of title 44, United States Code, to establish Federal AI system governance requirements, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Federal AI Governance and Transparency Act”.
+
+ SEC. 2. ESTABLISHMENT OF FEDERAL AGENCY ARTIFICIAL INTELLIGENCE SYSTEM GOVERNANCE REQUIREMENTS.
+
+
+(a) Federal AI System Governance.—
+
+
+(1) AMENDMENT.—Chapter 35 of title 44, United States Code, is amended by adding at the end the following:
+
+
+“SUBCHAPTER IV—ARTIFICIAL INTELLIGENCE SYSTEM GOVERNANCE
+
+ “§ 3591. Purposes
+
+
+“The purposes of this subchapter, with respect to the design, development, acquisition, use, management, and oversight of artificial intelligence in the Federal Government, are to ensure the following:
+
+
+“(1) Actions that are consistent with the Constitution and any other applicable law and policy, including those addressing freedom of speech, privacy, civil rights, civil liberties, and an open and transparent Government.
+
+
+“(2) Any such action is purposeful and performance-driven, including ensuring the following:
+
+
+“(A) Such action promotes the consistent and systemic treatment of all individuals in a fair, just, and impartial manner.
+
+
+“(B) The public benefits of such action significantly outweigh the risks.
+
+
+“(C) The risks and operations of such action do not unfairly and disproportionately benefit or harm an individual or subgroup of the public.
+
+
+“(D) The risk of such action is assessed and responsibly managed, including before the use of artificial intelligence.
+
+
+“(3) Any application of artificial intelligence is consistent with the use cases for which the artificial intelligence was trained, and the deployers of such application promote verifiably accurate, ethical, reliable, and effective use.
+
+
+“(4) The safety, security, and resiliency of artificial intelligence applications, including resilience when confronted with any systematic vulnerability, adversarial manipulation, and other malicious exploitation.
+
+
+“(5) The purpose, operations, risks, and outcomes of artificial intelligence applications are sufficiently explainable and understandable, to the extent practicable, by subject matter experts, users, impacted parties, and others, as appropriate.
+
+
+“(6) Such action is responsible and accountable, including by ensuring the following:
+
+
+“(A) Human roles and responsibilities are clearly defined, understood, and appropriately assigned.
+
+
+“(B) Artificial intelligence is used in a manner consistent with the purposes described in this section and the purposes for which each use of artificial intelligence is intended.
+
+
+“(C) Such action, as well as relevant inputs and outputs of artificial intelligence applications, are well documented and accountable.
+
+
+“(7) Responsible management and oversight by ensuring the following:
+
+
+“(A) Artificial intelligence applications are regularly tested against the purposes described in this section.
+
+
+“(B) Mechanisms are maintained to supersede, disengage, or deactivate applications of artificial intelligence that demonstrate performance or outcomes that are inconsistent with the intended use or this subchapter.
+
+
+“(C) Engagement with impacted communities.
+
+
+“(8) Transparency in publicly disclosing relevant information regarding the use of artificial intelligence to appropriate stakeholders, to the extent practicable and in accordance with any applicable law and policy, including with respect to the protection of privacy, civil liberties, and of sensitive law enforcement, national security, trade secrets or proprietary information, and other protected information.
+
+
+“(9) Accountability for the following:
+
+
+“(A) Implementing and enforcing appropriate safeguards necessary to comply with the purposes described in this section and the requirements of this subchapter, for the proper use and functioning of the applications of artificial intelligence.
+
+
+“(B) Monitoring, auditing, and documenting compliance with those safeguards, as appropriate.
+
+
+“(C) Providing appropriate training to all agency personnel responsible for the design, development, acquisition, use, management, and oversight of artificial intelligence.
+
+ “§ 3592. Definitions
+
+
+“In this subchapter:
+
+
+“(1) IN GENERAL.—Except as provided in paragraph (2), the definitions under sections 3502 shall apply to this subchapter.
+
+
+“(2) ADDITIONAL DEFINITIONS.—In this subchapter:
+
+
+“(A) ADMINISTRATOR.—The term ‘Administrator’ means the Administrator of General Services.
+
+
+“(B) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘appropriate congressional committees’ means the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+
+“(C) ARTIFICIAL INTELLIGENCE.—The term ‘artificial intelligence’ has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061).
+
+
+“(D) ARTIFICIAL INTELLIGENCE SYSTEM.—The term ‘artificial intelligence system’ means any data system, software, application, tool, or utility that operates in whole or in part using dynamic or static machine learning algorithms or other forms of artificial intelligence, whether—
+
+
+“(i) the data system, software, application, tool, or utility is established primarily for the purpose of researching, developing, or implementing artificial intelligence technology; or
+
+
+“(ii) artificial intelligence capability is integrated into another system or business process, operational activity, or technology system.
+
+
+“(E) FEDERAL ARTIFICIAL INTELLIGENCE SYSTEM.—The term ‘Federal artificial intelligence system’ means an artificial intelligence system used in connection with a Federal information system.
+
+
+“(F) FEDERAL INFORMATION SYSTEM.—The term ‘Federal information system’ has the meaning given the term in section 11331 of title 40.
+
+
+“(G) NATIONAL SECURITY SYSTEM.—The term ‘national security system’ has the meaning given that term in section 3552(b) of title 44.
+
+ “§ 3593. Authority and functions of the Director
+
+
+“The Director shall oversee the design, development, acquisition, use, management, and oversight of Federal artificial intelligence systems by agencies to implement the purposes described in section 3591. In performing such oversight, the Director shall do the following:
+
+
+“(1) Develop, coordinate, and oversee the implementation of policies, purposes, standards, and guidelines to ensure appropriate use of Federal artificial intelligence systems and the protection of civil rights, civil liberties, and privacy, including in conformity with section 552a of title 5 and other applicable laws, as well as the integrity of Federal information systems and information technology in accordance with the other requirements of this chapter.
+
+
+“(2) Oversee agency compliance with the requirements of this subchapter, including through any authorized enforcement action under section 11303(b)(5) of title 40 to ensure agency accountability and compliance.
+
+
+“(3) Issue and update, as necessary, guidance to agencies to take steps to advance the governance of Federal artificial intelligence systems, manage risk, and remove relevant barriers to innovation, which shall be consistent with the requirements of this subchapter and, as appropriate the standards promulgated under section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1) pursuant to section 5302 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9441). The guidance shall address the following:
+
+
+“(A) The development of policies regarding Federal acquisition, procurement, and use by agencies regarding artificial intelligence, including an identification of the responsibilities of agency officials managing the use of such technology.
+
+
+“(B) The ownership and protection of data and other information created, used, processed, stored, maintained, disseminated, disclosed, or disposed of by a contractor or subcontractor (at any tier) on behalf of the Federal Government.
+
+
+“(C) The protection of training data, algorithms, and other components of any Federal artificial intelligence system against misuse, unauthorized alteration, degradation, or being rendered inoperable.
+
+
+“(D) The removal of barriers to responsible agency use of artificial intelligence, such as information technology, data, workforce, and budgetary barriers, in order to promote the innovative application of those technologies while protecting privacy, civil liberties, civil rights, and economic and national security.
+
+
+“(E) The establishment of best practices for identifying, assessing, and mitigating any discrimination in violation of title VI of the Civil Rights Act of 1964 (42. U.S.C. 2000d et seq.), or any unintended consequence of the use of artificial intelligence, including policies to—
+
+
+“(i) identify data used to train artificial intelligence;
+
+
+“(ii) identify data analyzed or ingested by Federal artificial intelligence systems used by the agencies; and
+
+
+“(iii) require periodic evaluation of Federal artificial intelligence systems, as appropriate.
+
+
+“(4) Issue guidance for agencies to establish a plain language notification process, as necessary and appropriate and in conformity with applicable law, including section 552a of title 5, for individuals, or entities impacted by an agency determination that has been based solely on an output from, or substantively and meaningfully informed, augmented, or assisted by a Federal artificial intelligence system, including the contents of any notice, including examples of what the notice may look like in practice.
+
+
+“(5) Issue guidance for agencies to review their appeals process and to make modifications, as necessary and appropriate, to account for determinations made solely by or substantively and meaningfully informed, augmented, or assisted by a Federal artificial intelligence system, including guidance on how an agency provides the impacted individual or entity the opportunity for an alternative review independent of the Federal artificial intelligence system, as appropriate.
+
+
+“(6) Provide guidance and a template for the required contents of the agency plans described in section 3594(6) that uses a uniform resource locator that is in a consistent format across agencies such as the format ‘agencyname.gov/AI’.
+
+
+“(7) Issue guidance, including a uniform required submission format and criteria for updating entries after significant changes, for the establishment of agency AI governance charters under section 3595, including defining high-risk Federal artificial intelligence systems, and publication under section 3596.
+
+ “§ 3594. Federal agency responsibilities
+
+
+“The head of each agency shall do the following:
+
+
+“(1) Comply with the requirements of this subchapter and related policies, purposes, standards, and guidelines, including those under section 552a of title 5 and in guidance issued by the Director under section 3593.
+
+
+“(2) Ensure that Federal artificial intelligence system management processes are integrated with agency strategic, operational, data, workforce planning, and budgetary planning processes, and other requirements under this chapter.
+
+
+“(3) Ensure that senior agency officials, including the Chief Information Officer, the Chief Data Officer, and the senior agency official for privacy, implement policies and procedures regarding Federal artificial intelligence systems under the control of such officers, assess and reduce any risks to such systems to an acceptable level, and periodically assess and validate management procedures and controls to ensure effective implementation of this subchapter.
+
+
+“(4) Delegate to the agency Chief Information Officer established under section 3506 (or comparable official in an agency not covered by such section) the primary authority and accountability to ensure compliance with the agency requirements under this subchapter in coordination with any other appropriate senior agency official designated by the head of the agency.
+
+
+“(5) Ensure that contracts for the acquisition and procurement of a Federal artificial intelligence system are consistent with the requirements of this subchapter and any guidance issued by the Director under section 3593(3).
+
+
+“(6) Maintain a plan, posted on a publicly available and centralized webpage of the agency and prepared in accordance with the template provided by the Director under section 3593(6), to—
+
+
+“(A) achieve consistency with the requirements of this subchapter and guidance issued by the Director; and
+
+
+“(B) provide the public information about agency policies and procedures for governing Federal artificial intelligence systems, including the inventory of artificial intelligence use cases required by section 7225(a) of the Advancing American AI Act (subtitle B of title LXXII of Public Law 117–263; 40 U.S.C. 11301 note).
+
+
+“(7) Establish procedures for notifying an individual or entity impacted by an agency determination made solely by an output from, or substantively and meaningfully informed, augmented, or assisted by a Federal artificial intelligence system in accordance with guidance issued by the Director under section 3593(4).
+
+
+“(8) Modify the agency appeals process, as necessary and appropriate, to account for determinations made solely by or substantively and meaningfully informed, augmented, or assisted by a Federal artificial intelligence system, and to provide the impacted individual, group, or entity the opportunity for an alternative review independent of the Federal artificial intelligence system, as appropriate, as established by the Director under section 3593(5).
+
+
+“(9) In accordance with guidance issued by the Director under section 3593(7), oversee the establishment of AI governance charters for Federal artificial intelligence systems, including by—
+
+
+“(A) establishing a process, led by the official or officials identified in section 3594(4) to ensure that each Federal artificial intelligence system has an established AI governance charter that is regularly updated in accordance with the requirements under section 3595 and made publicly available on the webpage under paragraph (6);
+
+
+“(B) submitting each AI governance charter to the Federal Register not later than 30-days after the initial establishment or termination of the charter, in conformity with guidance from the Director; and
+
+
+“(C) submitting each AI governance charter to the Administrator for publication in a format established in the Directors guidance in accordance with section 3596.
+
+
+“(10) In consultation with the Director, the Director of the Office of Personnel Management, and the Administrator of the General Services Administration, conduct regular training programs to educate relevant agency program and management officials, including employees supporting the functions of the Chief Information Officer, the Chief Data Officer, the Evaluation Officer, the senior privacy official, and the statistical official, as appropriate, about the management of Federal artificial intelligence systems and compliance with the requirements of this subchapter, which may be integrated with the training requirements and covered topics established by the Artificial Intelligence Training for the Acquisition Workforce Act (Public Law 117–207; 41 U.S.C. 1703 note).
+
+ “§ 3595. Agency AI Governance Charters
+
+
+“(a) In General.—In accordance with the guidance established under section 3593(7), the head of each agency shall ensure that an accurate and complete AI governance charter is established for each Federal artificial intelligence system in use by the agency that is designated as a high-risk Federal artificial intelligence system or was trained on, uses, or produces a record maintained on an individual (as defined under section 552a(a) of title 5).
+
+
+“(b) Contents Of Charters.—An AI governance charter for a Federal artificial intelligence system shall, at a minimum, include the following:
+
+
+“(1) The name and an identifying summary of the Federal artificial intelligence system, including the following:
+
+
+“(A) A descriptive summary of the purpose or purposes and relevant use case or use cases of the system, as may be documented on the inventory established under section 7225 of the Advancing American AI Act (subtitle B of title LXXII of Public Law 117–263; 40 U.S.C. 11301 note).
+
+
+“(B) The bureau, department, or office using or operating the system, and to the extent practicable, the program or programs designated on the website required under section 1122(a)(2) of title 31 associated with use of the system.
+
+
+“(C) The name and direct contact information for a designated agency official responsible for the system’s overall outputs.
+
+
+“(D) The name and direct contact information for a designated agency official responsible for the ongoing maintenance of the system which may be the same official designated under subparagraph (C).
+
+
+“(2) Information about how the Federal artificial intelligence system was developed and funded, including the following:
+
+
+“(A) Other individuals or entities that have developed, maintained, managed, and operated the system.
+
+
+“(B) Information about any relevant Federal award including any associated contract, grant, cooperative agreement, or other transaction agreement.
+
+
+“(3) Information about the training, validation, and testing of the Federal artificial intelligence system, including the following:
+
+
+“(A) A description of the type of data or data assets used in the training, validation, and testing of the Federal artificial intelligence system or, if such information is not available, a statement describing why such information is not available.
+
+
+“(B) A designation of whether any of the data or data assets used in training, validating, or testing the Federal artificial intelligence system are classified as an open Government data asset or a public data asset or a designated system of record described under paragraph (7).
+
+
+“(C) Information on how to access any open Government data asset or public data asset identified under subparagraph (B).
+
+
+“(D) A listing of audits, testing, or other risk assessments of the Federal artificial intelligence system, including contact information of the individual or entity that conducted such assessments.
+
+
+“(4) Information about ongoing oversight and maintenance of the Federal artificial intelligence system, including a description of the ongoing testing, monitoring, or auditing of the Federal artificial intelligence system, including information about the cadence of testing, as appropriate, and the entity responsible for such testing.
+
+
+“(5) Information about how the system is used by the agency, including—
+
+
+“(A) the date the agency began using the system and the intended life span of use, if appropriate; and
+
+
+“(B) whether any agency determinations have been or are intended to be based solely on an output from, or informed, augmented, or assisted by the Federal artificial intelligence system, and—
+
+
+“(i) a summary of how the Federal artificial intelligence system or the data or data assets produced by the Federal artificial intelligence system is used to inform, augment, or assist in making these determinations;
+
+
+“(ii) information about other agencies or federally funded entities that use or rely on these determinations; and
+
+
+“(iii) a description of any associated notice or modified appeal process as required under sections 3593(4) and 3593(5).
+
+
+“(6) Information about data or data assets produced by the Federal artificial intelligence system, including a description of the data or data assets produced, altered, or augmented by the system, including—
+
+
+“(A) a designation of whether any of the data or data assets are classified as an open Government data asset or a public data asset or are included in a designated system of record described under paragraph (7);
+
+
+“(B) information on how to access any such open Government data asset or public data asset identified under subparagraph (A); and
+
+
+“(C) information about any other agency or federally funded entity known to use or otherwise rely upon the data or data assets identified under this paragraph.
+
+
+“(7) Information on whether the system was trained on, uses, or produces a record maintained on an individual (as defined under section 552a(a) of title 5), including—
+
+
+“(A) a listing of any designated system of record including a reference to any associated notice in the Federal Register for the establishment or revision of such system of record, as required under section 552a(d) of title 5; or
+
+
+“(B) a description of any system of record that has been exempted under subsection (j) or (k) of section 552a of title 5, including the statement required under section 553(c) of title 5 that documents the reasons why the system of records is exempted.
+
+
+“(c) Regular Updates Required.—The head of each agency shall establish procedures to ensure that each AI governance charter for the agency is updated to capture any significant change to the Federal artificial intelligence system, consistent with guidance established in section 3593(7) and not less than 30 days after such change has been implemented.
+
+
+“(d) Requirement For Publication.—An AI governance charter required under subsection (a) shall be made public on the agency webpage noticed in the Federal Register, and published on the Federal AI System Inventory established under section 3596, in accordance with procedures established by the agency under section 3594(9) in conformity with guidance issued by the Director under section 3593(7) before a Federal artificial intelligence system is used by an agency, except that—
+
+
+“(1) the head of an agency may, with advance approval of the Director and notification to the appropriate congressional committees, including the relevant authorizing committee in the House of Representatives and the Senate, and the relevant agency Inspector General, waive the publication requirement under this subsection; or
+
+
+“(2) in order to protect properly classified national security information, a charter may be submitted to the Director, appropriate congressional committees, including the relevant authorizing committee in the House of Representatives and the Senate, and the relevant agency Inspector General in lieu of the publication requirement of this subsection.
+
+
+“(e) Exemptions.—A Federal artificial intelligence system is exempt from the requirements of this section if the system is used—
+
+
+“(1) solely for the purpose of research or development, except that the purposes described and guidance promulgated under this subchapter should inform any such research, development, testing, or evaluation directed at future applications of Federal artificial intelligence systems; or
+
+
+“(2) in a national security system (as defined in this subchapter), in whole or in part, if the agency maintains a complete and regularly updated nonpublic version of each AI governance charter in accordance with subsections (a) and (b) and the guidance required by section 3593(5).
+
+
+
+ “§ 3596. IA Governance Charter Inventory
+
+
+“The Administrator of General Services shall maintain a single, public online interface for centrally cataloging agency AI governance charters which shall be known as the ‘Federal AI System Inventory’. The Administrator and the Director shall—
+
+
+“(1) ensure that each agency, as appropriate, submits AI governance charters for publication on the interface, in a publicly accessible machine-readable and open format to facilitate searchability and bulk download of the inventory; and
+
+
+“(2) provide a clear process and mechanism for each agency to make timely revisions and updates.
+
+ “§ 3597. Independent evaluation
+
+
+“(a) In General.—Not later than 2 years after the date of the enactment of this subchapter, and every 2 years thereafter, the Inspector General appointed under chapter 4 of title 5 for each agency shall perform an independent evaluation of the Federal artificial intelligence governance policies and practices of the agency and submit to the head of the agency, the Director, and the appropriate congressional committees, a report which may include a classified annex. The report shall include at a minimum—
+
+
+“(1) an assessment of the comprehensive compliance of the agency with the requirement under section 3595 for each Federal artificial intelligence system in use or maintained by an agency to have an established, and appropriately noticed, AI governance charter, including timely revisions to reflect significant changes and appropriate use of the exemptions described under section 3595(e); and
+
+
+“(2) an assessment of compliance by the agency with artificial intelligence governance policies and practices with the requirements of this subchapter.
+
+ “(b) Comptroller General.—The Comptroller General shall periodically evaluate and submit to Congress a report on the—
+
+
+“(1) effectiveness of agency Federal artificial intelligence system governance policies and practices;
+
+
+“(2) implementation of the requirements of this subchapter by the Director, Administrator, and agencies; and
+
+
+“(3) extent to which the requirements of this subchapter and related implementing guidance and policies reflect technology advancements and provide any legislative recommendations as appropriate.”.
+
+
+(2) TABLE OF SECTIONS.—The table of sections for chapter 35 of title 44, United States Code, is amended by adding at the end the following:
+
+
+“SUBCHAPTER IV—ARTIFICIAL INTELLIGENCE SYSTEM GOVERNANCE
+
+
+“3591. Purposes.
+“3592. Definitions.
+“3593. Authority and functions of the Director.
+“3594. Federal agency responsibilities.
+“3595. Agency AI Governance Charters.
+“3596. Federal AI System Inventory.
+“3597. Independent evaluation.”.
+(b) OMB Guidance.—Not later than 1 year after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Director of the National Institute of Standards and Technology, the Administrator of General Services, the Director of the Office of Science and Technology Policy, and the head of any other relevant agency as determined by the Director of the Office of Management and Budget, shall issue a memorandum to the head of each agency establishing guidance that implements the requirements of subchapter IV of title 35 of title 44, as added by this section, that—
+
+
+(1) does not conflict with the requirements of and uses the working group established under section 7224(d) of the Advancing American AI Act (Public Law 117–263; 40 U.S.C. 11301 note); and
+
+
+(2) shall be reviewed and updated, as necessary, every 2 years for the next 10 years after the first such issuance and periodically thereafter.
+
+ (c) Requirement To List AI Governance Charters In Agency System Of Records Notice Under The Privacy Act.—Section 552a(e) of title 5, United States Code, is amended—
+
+
+(1) in paragraph (4), by adding at the end the following new subparagraph:
+
+
+“(J) a reference to any agency AI governance charter required under section 3595 of title 44 that is associated with a Federal artificial intelligence system which was trained on, uses, or produces records contained within the system of record;”;
+
+
+(2) by redesignating paragraphs (11) and (12) as paragraphs (12) and (13), respectively; and
+
+
+(3) by inserting after paragraph (10) the following new paragraph:
+
+
+
+
+“(11) establish appropriate policies and procedures, in accordance with the requirements of subchapter IV of chapter 35 of title 44 to ensure the security, confidentiality, and integrity of records that a Federal artificial intelligence system uses, produces, or modifies;”.
+
+ (d) Technical And Conforming Repeals.—The following are repealed:
+
+
+(1) Subsections (a) and (d) of section 7224 of the Advancing American AI Act (subtitle B of title LXXII of Public Law 117–263; 40 U.S.C. 11301 note).
+
+
+(2) Section 104 of the AI in Government Act of 2020 (Public Law 116–260; 40 U.S.C. 11301 note).
+
+ (e) Contracting Regulations.—Not later than 6 months after the initial issuance of the guidance required under subsection (b) of this Act, the Federal Acquisition Regulation shall be revised to—
+
+
+(1) implement the amendments made by this section; and
+
+
+(2) require that any contractor or subcontractor (at any tier) with the Federal Government that builds, provides, operates, or maintains (pursuant to a contract entered into on or after such date of enactment) Federal artificial intelligence systems is required to provide the information that the agency is required to report in accordance with the guidance issued pursuant to section 3593(5) of title 44, United States Code, as added by subsection (a), and any agency requirement under section 3595(a) of such title.
+
+ (f) Rules Of Construction.—
+
+
+(1) AGENCY ACTIONS.—Nothing in this Act, or an amendment made by this Act, shall be construed to authorize the head of an agency to take an action that is not authorized by this Act, an amendment made by this Act, or other law.
+
+
+(2) PROTECTION OF RIGHTS.—Nothing in this Act, or an amendment made by this Act, shall be construed to permit the violation of the rights of any individual protected by the Constitution of the United States, including through censorship of speech protected by the Constitution of the United States or unauthorized surveillance.
+
+
+(3) PROTECTION OF PRIVACY.—Nothing in this Act, or any amendment made by this Act, shall be construed to impinge on the privacy rights of individuals or allow unauthorized access, sharing, or use of personal data.
+
+
+(4) PROTECTION OF INFORMATION.—Nothing in this Act, or any amendment made by this Act, shall be construed to require, or otherwise compel, the public disclosure of information that could be withheld under section 552(b) of title 5, United States Code.
+
+ (g) Definitions.—In this section:
+
+
+(1) AGENCY.—The term “agency” has the meaning given that term in section 3502 of title 44, United States Code.
+
+
+(2) DIRECTOR.—The term “Director” means the Director of the Office of Management and Budget, unless otherwise indicated.

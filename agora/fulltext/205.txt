@@ -1,0 +1,107 @@
+SEC. 903. ESTABLISHMENT OF OFFICE OF STRATEGIC CAPITAL.
+
+(a) Establishment of Office.--Chapter 4 of title 10, United States Code, as amended by section 241, is further amended by adding at the end the following new section:
+``Sec. 149. Office of Strategic Capital
+`(a) Establishment.--There is in the Office of the Secretary of Defense an office to be known as the Office of Strategic Capital (in this section referred to as the Office').
+`(b) Director.--The Office shall be headed by a Director (in this section referred to as the Director'), who shall be appointed
+by the Secretary from among employees in Senior Executive Service positions (as defined in section 3132 of title 5), or from outside the civil service who have successfully held equivalent positions.
+``(c) Duties.--The Office shall--
+``(1) develop, integrate, and implement capital investment strategies proven in the commercial sector to shape and scale investment in critical technologies and assets;
+``(2) identify and prioritize promising critical technologies and assets that require capital assistance and have the potential to benefit the Department of Defense; and
+``(3) make eligible investments in such technologies and assets, such as supply chain technologies not always supported through direct investment.
+``(d) Non-Federal Funding Requirements for Certain Investments.--In the case of an eligible investment made through a direct loan, not less than 80 percent of the total capital provided for the specific technology to be funded by the investment shall be derived from non-
+Federal sources as of the time of the investment.
+``(e) Definitions.--In this section:
+`(1) The term capital assistance' means a loan, loan guarantee, or technical assistance.
+`(2) The term covered technology category' means the following:
+``(A) Advanced bulk materials.
+``(B) Advanced manufacturing.
+``(C) Autonomous mobile robots.
+``(D) Battery storage.
+``(E) Biochemicals.
+``(F) Bioenergetics.
+``(G) Biomass.
+``(H) Cybersecurity.
+``(I) Data fabric.
+``(J) Decision science.
+``(K) Edge computing.
+``(L) External communication.
+``(M) Hydrogen generation and storage.
+``(N) Mesh networks.
+``(O) Microelectronics assembly, testing, or packaging.
+``(P) Microelectronics design and development.
+``(Q) Microelectronics fabrication.
+``(R) Microelectronics manufacturing equipment.
+``(S) Microelectronics materials.
+``(T) Nanomaterials and metamaterials.
+``(U) Open RAN.
+``(V) Optical communications.
+``(W) Sensor hardware.
+``(X) Solar.
+``(Y) Space launch.
+``(Z) Spacecraft.
+``(AA) Space-enabled services and equipment.
+``(BB) Synthetic biology.
+``(CC) Quantum computing.
+``(DD) Quantum security.
+``(EE) Quantum sensing.
+`(3) The term eligible entity' means--
+``(A) an individual;
+``(B) a corporation;
+``(C) a partnership, which may include a public-
+private partnership, limited partnership, or general partnership;
+``(D) a joint venture;
+``(E) a trust;
+``(F) a State, including a political subdivision or any other instrumentality of a State;
+``(G) a Tribal government or consortium of Tribal governments;
+``(H) any other governmental entity or public agency in the United States, including a special purpose district or public authority, including a port authority;
+(I) a multi-State or multi-jurisdictional group of public entities; or(J) a strategic alliance among two or more entities described in subparagraphs (A) through (I).
+`(4) The term eligible investment' means an investment, in the form of capital assistance provided to an eligible entity, for a technology that--
+``(A) is in a covered technology category; and
+``(B) is not a technology that solely has defense applications.''.
+(b) Pilot Program on Capital Assistance to Support Defense Investment in the Industrial Base.--
+	(1) Capital assistance.--To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Secretary of Defense, acting through the Director of the Office of Strategic Capital (referred to in this section as the ``Director''), may carry out a pilot program under this subsection to provide capital assistance to eligible entities for eligible investments to develop technologies that support the duties and elements of the Office and meet the needs of the Department of Defense.
+	(2) Eligibility and application process.--
+		(A) In general.--An eligible entity seeking capital assistance for an eligible investment under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require.
+		(B) Selection of investments. --
+The Director shall establish criteria for selecting among eligible investments for which applications are submitted under subparagraph (A). The criteria shall include--
+(i) the extent to which an investment supports the national security or economic interests of the United States;
+(ii) the likelihood that capital assistance provided for an investment would enable the investment to proceed sooner than the investment would otherwise be able to proceed; and
+(iii) the creditworthiness of an investment.	(3) Capital assistance.--
+		(A) Loans and loan guarantees.--
+(i) In general.--To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director may provide loans or loan guarantees to finance or refinance the costs of an eligible investment selected pursuant to paragraph (2)(B).
+(ii) Administration of loans.--
+		(I) Interest rate.--
+(aa) In general.--Except as provided under item (bb), the interest rate on a loan provided under clause (i) shall be not less than the yield on marketable United States Treasury securities of a similar maturity to the maturity of the loan on the date of execution of the loan agreement.
+(bb) Exception. --The Director may waive the requirement under item (aa) with respect to an investment if the investment is determined by the Secretary of Defense to be vital to the national security of the United States.
+(cc) Criteria.--The Director shall establish separate and distinct criteria for interest rates for loan guarantees with private sector lending institutions.
+		(II) Final maturity date.--The final maturity date of a loan provided under clause (i) shall be not later than 50 years after the date on which the loan was provided.
+		(III) Prepayment.--A loan provided under clause (i) may be paid earlier than is provided for under the loan agreement without a penalty.
+		(IV) Nonsubordination.--
+(aa) In general.--A loan provided under clause (i) shall not be subordinated to the claims of any holder of investment obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+(bb) Exception. --The Director may waive the requirement under item (aa) with respect to the investment in order to mitigate risks to loan repayment.
+		(V) Sale of loans.--The Director may sell to another entity or reoffer into the capital markets a loan provided under clause (i) if the Director determines that the sale or reoffering can be made on favorable terms.
+		(VI) Loan guarantees.--Any loan guarantee provided under clause (i) shall specify the percentage of the principal amount guaranteed. If the Secretary determines that the holder of a loan guaranteed by the Department of Defense defaults on the loan, the Director shall pay the holder as specified in the loan guarantee agreement.
+		(VII) Investment-grade rating.--The Director shall establish a credit rating system to ensure a reasonable reassurance of repayment.
+The system may include use of existing credit rating agencies where appropriate.
+		(VIII) Terms and conditions.--Loans and loan guarantees provided under clause (i) shall be subject to such other terms and conditions and contain such other covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
+		(IX) Applicability of federal credit reform act of 1990.--Loans and loan guarantees provided under clause (i) shall be subject to the requirements of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).		(B) Technical assistance.--Subject to appropriations Acts, the Director may provide technical assistance with respect to developing and financing investments to eligible entities seeking capital assistance for eligible investments and eligible entities receiving capital assistance under this subsection.
+		(C) Terms and conditions.--
+			(i) Amount of capital assistance.--To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director shall provide to an eligible investment selected pursuant to paragraph (2)(B) the amount of capital assistance necessary to carry out the investment.
+			(ii) Use of united states dollars.--All financial transactions conducted under this section shall be conducted in United States dollars.
+	(4) Non-federal funding requirements.--The requirements of section 149(d) of title 10, United States Code (as added by subsection (a)) shall apply to eligible investments under this subsection.	(5) Establishment of accounts.--
+		(A) Credit program account.--
+			(i) Establishment.--There is established in the Treasury of the United States a Department of Defense Credit Program Account to make and guarantee loans under this subsection in accordance with section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a).
+			(ii) Funding.--The Credit Program Account shall consist of amounts appropriated pursuant to the authorization of appropriations.
+		(B) Use of funds.--To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director is authorized to pay, from amounts in the Department of Defense Credit Program Account--
+			(i) the cost, as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a), of loans and loan guarantees and other capital assistance;
+			(ii) administrative expenses associated with activities under this section;
+			(iii) project-specific transaction costs; and
+(iv) the cost of providing support authorized by this subsection.	(6) Regulations.--The Secretary of Defense may prescribe such regulations as the Secretary determines to be appropriate to carry out this subsection.
+	(7) Annual report.--Not later than the first Monday in February of a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report describing activities carried out pursuant to this subsection in the preceding fiscal year and the goals of the Department of Defense in accordance with this subsection for the next fiscal year.
+	(8) Notification requirement. --The Secretary of Defense shall notify the congressional defense committees not later than 30 days after a use of loans, loan guarantees, or technical assistance under this subsection.
+	(9) Sunset.--The authorities provided under this subsection shall expire on October 1, 2028.
+	(10) Definitions.--In this subsection:
+		(A) The term ``capital assistance'' means loans, loan guarantees, or technical assistance provided under paragraph (3).
+		(B) The terms eligible entity'' and eligible investment'' have the meanings given those terms in section 149(e) of title 10, United States Code (as added by subsection (a)).
+		(C) The term ``obligor'' means a party that is primarily liable for payment of the principal of or interest on a loan.

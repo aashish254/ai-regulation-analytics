@@ -1,0 +1,121 @@
+AN ACT concerning civil law.
+ 
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+ 
+Section 5. The Right of Publicity Act is amended by changing Sections 5, 20, 30, and 35 as follows:
+ 
+(765 ILCS 1075/5)
+Sec. 5. Definitions. As used in this Act:
+
+
+"Artificial intelligence" means a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. "Artificial intelligence" includes generative artificial intelligence.
+
+
+"Commercial purpose" means the public use or holding out of an individual's identity (i) on or in connection with the offering for sale or sale of a product, merchandise, goods, or services; (ii) for purposes of advertising or promoting products, merchandise, goods, or services; or (iii) for the purpose of fundraising.
+
+
+"Application software provider" means a person providing a digital distribution service for other software applications and that allows users to search for and download such applications.
+
+
+"Cloud service provider" means a cloud service provider as defined by 6 U.S.C. 650.
+
+
+"Digital replica" means a newly created, electronic representation of the voice, image, or likeness of an actual individual created using a computer, algorithm, software, tool, artificial intelligence, or other technology that is fixed in a sound recording or audiovisual work in which that individual did not actually perform or appear, and which a reasonable person would believe is that particular individual's voice, image, or likeness being imitated.
+
+
+"Generative artificial intelligence" means an automated computing system that, when prompted with human prompts, descriptions, or queries, can produce outputs that simulate human-produced content, including, but not limited to, the following:
+(1) textual outputs, such as short answers, essays, poetry, or longer compositions or answers;
+(2) image outputs, such as fine art, photographs, conceptual art, diagrams, and other images;
+(3) multimedia outputs, such as audio or video in the form of compositions, songs, or short-form or long-form audio or video; and
+(4) other content that would be otherwise produced by human means.
+
+
+"Identity" means any attribute of an individual that serves to identify that individual to an ordinary, reasonable viewer or listener, including but not limited to: (i) name, (ii) signature, (iii) photograph, (iv) image, (v) likeness, or (vi) voice.
+
+
+"Individual" means a living or deceased natural person, regardless of whether the identity of that individual has been used for a commercial purpose during the individual's lifetime.
+
+
+"Juristic person" means a partnership, trust, estate, corporation, unincorporated association, or other organization capable of suing and being sued in a court of law.
+
+
+"Name" means the actual name or other name by which an individual is known that is intended to identify that individual.
+
+
+"Person" means a natural or juristic person. "Person" only includes a service provider under subsections (b) and (d) of Section 30 if the service provider created the unauthorized digital replica. "Person" does not include a data center, as defined by the Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois, under subsections (b) and (d) of Section 30.
+
+
+"Service provider" means any entity offering broadband service as that term is used in Section 10 of the Broadband Advisory Council Act, a wireless carrier as defined by 47 U.S.C. 615b(4), or a telecommunication carrier as that term is used in Section 13-202 of the Public Utilities Act.
+
+
+"Unauthorized digital replica" means the use of a digital replica of an individual without the consent of the appropriate person or persons identified in Section 20 or their authorized representative.
+
+
+"Work of Fine Art" means (i) a visual rendition including, but not limited to, a painting, drawing, sculpture, mosaic, videotape, or photograph; (ii) a work of calligraphy; (iii) a work of graphic art including, but not limited to, an etching, lithograph, serigraph, or offset print; (iv) a craft work in materials including, but not limited to, clay, textile, fiber, wood, metal, plastic, or glass; or (v) a work in mixed media including, but not limited to, a collage, assemblage, or work consisting of any combination of items (i) through (iv). (Source: P.A. 90-747, eff. 1-1-99.)
+ 
+(765 ILCS 1075/20)
+Sec. 20. Enforcement of rights and remedies.
+(a) The rights and remedies set forth in this Act may be exercised and enforced by:
+(1) an individual or his or her authorized representative;
+(2) a person to whom the recognized rights have been transferred by written transfer under Section 15 of this Act; or
+(3) after the death of an individual who has not transferred the recognized rights by written transfer under this Act, any person or persons who possesses an interest in those rights.
+(a-5) In addition to the enforcement of rights and remedies in subsection (a), the rights and remedies set forth in this Act may, in the case of an individual who is a recording artist, be enforced by:
+(1) the individual who is the recording artist; or
+(2) a person who has entered into a contract for the individual's exclusive personal services as a recording artist or who has entered into a contract for an exclusive license to distribute sound recordings that capture the recording artist's audio performances.
+(b) Each person described in paragraph (3) of subsection
+(a) shall make a proportional accounting to, and shall act at all times in good faith with respect to, any other person in whom the rights being enforced have vested.
+(Source: P.A. 90-747, eff. 1-1-99.)
+ 
+(765 ILCS 1075/30)
+Sec. 30. Limitations regarding use of an individual's identity.
+(a) A person may not use an individual's identity for commercial purposes during the individual's lifetime without having obtained previous written consent from the appropriate person or persons specified in Section 20 of this Act or their authorized representative.
+
+
+(b) A person may not knowingly distribute, transmit, or make available to the general public a sound recording or audiovisual work with actual knowledge that the work contains an unauthorized digital replica.
+
+
+(c) If an individual's death occurs after the effective date of this Act, a person may not use that individual's identity or digital replica in violation of this Act for commercial purposes for 50 years after the date of the individual's death without having obtained previous written consent from the appropriate person or persons specified in Section 20 of this Act.
+
+
+(d) Any person who materially contributes to, induces, or otherwise facilitates a violation of subsection (b) by another person after having obtained actual knowledge that the other
+person is infringing upon an individual's rights under this Section may be found liable for the violation.
+
+
+(e) Subsection (d) does not apply to a person that solely transmits, stores, or provides access to data or software, including interactive entertainment software, application software providers, or cloud service providers with respect to any unauthorized digital replica stored or transmitted at the direction of a user of material that resides on a system or network, if the person:
+(1) does not have actual knowledge that the material or an activity using the material on the system or network is unauthorized;
+(2) in the absence of such actual knowledge, does not willfully disregard facts or circumstances that would create actual knowledge; or
+(3) upon obtaining actual knowledge, facts or circumstances that would create actual knowledge, or written notification of claimed unauthorized activity, acts expeditiously to remove or disable access to the material that is the subject of infringing activity; if the person does not personally have the ability to remove or disable access to the material, the person acts expeditiously to notify the person that has the ability to remove or disable access to the material. As used in this subsection, "expeditiously" has the same meaning as it does in 17 U.S.C. 512. 
+
+
+(f) Subject to the limitations in subsection (e), all of the elements of 17 U.S.C. 512 shall be incorporated mutatis mutandis with respect to claims relating to unauthorized digital replicas. This exemption shall apply without regard to whether the unauthorized version infringes copyright.
+
+
+(g) Nothing in this Act may be construed in a manner inconsistent with 47 U.S.C. 230 or any other federal law. (Source: P.A. 90-747, eff. 1-1-99.)
+ 
+(765 ILCS 1075/35)
+Sec. 35. Applicability.
+
+
+(a) This Act applies to acts or events that take place after the effective date of this Act.
+
+
+(b) Subsections (a) and (c) of Section 30 do This Act does not apply to the following:
+(1) use of an individual's identity in an attempt to portray, describe, or impersonate that individual in a live performance, a single and original work of fine art, play, book, article, musical work, film, radio, television, or other audio, visual, or audio-visual work, provided that the performance, work, play, book, article, or film does not constitute in and of itself a commercial advertisement for a product, merchandise, goods, or services;
+(2) use of an individual's identity for non-commercial purposes, including any news, public affairs, or sports broadcast or account, or any political campaign;
+(3) use of an individual's name in truthfully identifying the person as the author of a particular work or program or the performer in a particular performance;
+(4) promotional materials, advertisements, or commercial announcements for a use described under paragraph (1), (2), or (3) of this subsection; or
+(5) use of photographs, videotapes, and images by a person, firm, or corporation practicing the profession of photography ("professional photographer") to exhibit in or about the professional photographer's place of business or portfolio, specimens of the professional photographer's work, unless the exhibition is continued by the professional photographer after written notice objecting to the exhibition has been given by the individual portrayed.
+
+
+(c) Subsections (b) and (c) of Section 30 do not apply to the use of identity or digital replicas in the following:
+(1) news, public affairs, or a sports broadcast or account, or any political campaign;(2) for a purpose that has political, public interest, educational, or newsworthy value, unless use of the audiovisual digital replica is intended to create, and does create, the false impression to a reasonable viewer or listener that the work is an authentic recording in which the individual participated;
+(3) use of a digital replica to depict the individual in a documentary, docudrama, or historical or biographical audiovisual work, or any other representation of the individual as such individual, regardless of the degree of fictionalization, unless the use of the audiovisual digital replica creates the false impression to a reasonable viewer or listener that the digital replica is an authentic recording or that the individual participated in the work, including, for example, in a live performance of a musical work an individual did not participate in;
+(4) use of digital replica for the purposes of comment, criticism, scholarship, satire, or parody; or
+(5) promotional materials, advertisements, or commercial announcements for a use described in paragraphs (1), (2), (3), and (4).
+(d) The provisions of this amendatory Act of the 103rd General Assembly do not apply to any action filed before, nor to any action pending on, its effective date.
+(Source: P.A. 90-747, eff. 1-1-99.)
+
+
+
+
+Effective Date: 1/1/2025

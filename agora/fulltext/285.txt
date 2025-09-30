@@ -1,0 +1,38 @@
+An Act concerning the use of automated tools to assist with hiring decisions and supplementing Title 34 of the Revised Statutes.
+
+     Be It Enacted by the Senate and General Assembly of the State of New Jersey:
+
+    a.    a.  As used in P.L.    , c.    (C.        ) (pending before the Legislature as this bill):
+
+     “Automated employment decision tool” means any system the function of which is governed by statistical theory, or systems the parameters of which are defined by systems, including inferential methodologies, linear regression, neural networks, decision trees, random forests, and other learning algorithms, which automatically filters candidates or prospective candidates for hire or for any term, condition or privilege of employment in a way that establishes a preferred candidate or candidates.
+
+     “Bias audit” means an impartial evaluation, including but not limited to testing, of an automated employment decision tool to assess its predicted compliance with the provisions of the “Law Against Discrimination,” P.L. 1945, c. 169 (C. 10:5-1 et seq.), and any other applicable law relating to discrimination in employment.
+
+     “Commissioner” means the Commissioner of Labor and Workforce Development.
+
+     “Department” means Department of Labor and Workforce Development.
+
+     “Employment decision” means to screen candidates for employment or otherwise to help to decide compensation or any other terms, conditions or privileges of employment in the State.
+     b.    It shall be unlawful to sell or offer for sale in the State an automated employment decision tool unless:
+
+     (1)   The tool is the subject of a bias audit conducted in the past year prior to selling the tool or offering the tool for sale;
+
+     (2)   The sale of the tool includes, at no additional cost, an annual bias audit service that provides the results of the audit to the purchaser; and
+
+     (3)   The tool is sold or offered for sale with a notice stating that the tool is subject to the provisions of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+     c.     Any person who uses an automated employment decision tool to screen a candidate for an employment decision shall notify each candidate of the following within 30 days of the use of the tool:
+
+     (1)   That an automated employment decision tool, which is subject to an audit for bias pursuant to P.L.    , c.    (C.         ) (pending before the Legislature as this bill), was used in connection with the candidate’s application for employment; and
+
+     (2)   The tool assessed the job qualifications or characteristics of the candidate.
+     d.    (1) Any person that violates any provision of P.L.    , c.    (C.        ) (pending before the Legislature as this bill) shall be liable for a civil penalty of not more than $500 for that person’s first violation and each additional violation occurring on the same day as the first violation, and not less than $500 nor more than $1,500 for each subsequent violation.  Violations shall accrue on a daily basis for each automated employment decision tool that is sold or offered for sale in violation of P.L.    c.    (C.        ) (pending before the Legislature as this bill).
+
+     (2)   Each instance in which notice is not provided to a candidate within 30 days in violation of subsection b. of this section constitutes a single violation, and each 30-day period thereafter in which the notice is not provided to the candidate constitutes a separate violation.
+
+     e.     All penalties assessed under this section shall be payable to the State Treasurer and may be recovered with costs in a summary proceeding commenced by the commissioner pursuant to the "Penalty Enforcement Law of 1999," P.L.1999, c.274 (C.2A:58-10 et seq.).
+
+     f.     The department, in consultation with the Division on Civil Rights, pursuant to the "Administrative Procedure Act," P.L.1968, c.410 (C.52:14B-1 et seq.), shall promulgate rules and regulations to effectuate the purposes of P.L.    , c.    (C.        ) (pending before the Legislature as this bill).
+
+     g.    This act is intended to affirm certain rights of candidates for employment under the circumstances specified in this act, and shall not be construed to reduce, limit, or curtail any rights of any candidate provided by law, or to limit the authority of the State or its agencies to investigate and enforce rights relating to bias and discrimination in employment, or to promulgate rules and regulations relating to bias and discrimination in employment.
+
+    a.    This act shall take effect immediately.

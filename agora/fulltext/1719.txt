@@ -1,0 +1,21 @@
+0511-001-0001—For support of Secretary of Government Operations ........................
+18,756,000
+Schedule:
+(1)	
+0250-Office of the Secretary of Government Operations ........................
+7,161,000	
+(2)	
+0257-Cradle to Career ........................
+15,401,000	
+(3)	
+Reimbursements to 0250-Office of the Secretary of Government Operations ........................
+−3,806,000	
+Provisions:
+1.	The Government Operations Agency shall establish monthly Generative Artificial Intelligence meetings with designated legislative staff of the Assembly and Senate to discuss the agency’s ongoing efforts regarding the implementation of Executive Order N-12-23. The Speaker of the Assembly and President pro tempore of the Senate shall each designate staff persons to attend these monthly meetings. During the meetings, the agency shall provide updates on the completion of, and compliance with, each deliverable in the executive order. In addition, the agency shall report on the implementation and results of any proof of concepts implemented pursuant to the Executive Order. Proof of concept reporting shall also include the identification of the funding source for the proof of concepts. To the extent additional budgetary resources above the levels appropriated in this budget act are needed to implement or procure a generative artificial intelligence technology solution for a proof a concept, the agency shall support the impacted department’s efforts to submit a request for budgetary resources through the annual budget process.	
+2.	For purposes of these provisions, the following definitions apply:	
+(a)	“Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.	
+(b)	“Generative artificial intelligence” or “GenAI” means artificial intelligence that can generate derived synthetic content, such as text, images, video, and audio, that emulates the structure and characteristics of the artificial intelligence’s training data.	
+3.	Any individual data collected, maintained, or used under the GenAI pilot projects shall be treated as personal information, as defined in Section 1798.3 of the Civil Code.	
+4.	The Government Operations Agency shall not operate the GenAI pilot projects with departments that will knowingly include sensitive personal information as defined in subdivision (ae) of Section 1798.140 of the Civil Code, personal information on minors, educational records subject to the federal Family Educational Rights and Privacy Act of 2001 (20 U.S.C. Sec. 1232g), or medical information subject to the federal Health Insurance Portability and Accountability Act (Public Law 104-191).	
+5.	The Government Operations Agency shall require departments participating in the GenAI pilot projects to comply with the State of California GenAI Guidelines for Public Sector Procurement, Uses and Training.	
+6.	During the implementation of the GenAI pilot projects, the Government Operations Agency may allow departments to use de-identified data to conduct research to justify requests for resources if the department seeks approval to expand the scope of the pilot program.

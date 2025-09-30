@@ -1,0 +1,21 @@
+SEC. 346. PILOT PROGRAM ON OPTIMIZATION OF AERIAL REFUELING AND FUEL MANAGEMENT IN CONTESTED LOGISTICS ENVIRONMENTS THROUGH USE OF ARTIFICIAL INTELLIGENCE.
+
+(a) Design of Pilot Program.--
+	(1) Design.--Not later than 90 days after the date of the enactment of this Act, the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in collaboration with the Under Secretary of Defense for Acquisition and Sustainment and the Chief of Staff of the Air Force, shall design a pilot program to optimize the logistics of aerial refueling and fuel management in the context of contested logistics environments through the use of advanced digital technologies and artificial intelligence (in this section referred to as the ``pilot program'').
+	(2) Coordination and consultation.--In designing the pilot program, the Chief Digital and Artificial Intelligence Officer shall--
+		(A) coordinate with the Commander of the United States Transportation Command and the Commander of the United States Indo-Pacific Command regarding the activities to be carried out under the pilot program, to ensure the pilot program will align with existing operational requirements; and
+		(B) seek to consult with relevant experts in the fields of artificial intelligence, logistics, aviation, and fuel management.
+(b) Objectives.--The objectives of the pilot program shall include the following:
+	(1) Assessing the feasibility and effectiveness of artificial intelligence-driven approaches in enhancing aerial refueling operations and fuel management processes compared to existing mission planning processes executed by members of the Air Force with relevant training.
+	(2) Identifying opportunities to reduce fuel consumption, decrease operational costs, and minimize the environmental impact of fuel management while maintaining military readiness.
+	(3) Evaluating the interoperability and compatibility of artificial intelligence-enabled systems with the existing logistics infrastructure of the Department of Defense.
+	(4) Enhancing situational awareness and decision-making capabilities through real-time data analysis and predictive modeling.
+	(5) Addressing potential challenges and risks associated with the integration of artificial intelligence and other advanced digital technologies, including challenges and risks involving cybersecurity concerns.
+(c) Commencement.--Not later than one year after the date of the enactment of this Act, the Chief Digital and Artificial Intelligence Officer, in collaboration with the Under Secretary of Defense for Acquisition and Sustainment and the Chief of Staff of the Air Force, shall commence the pilot program.
+
+(d) Report.--Not later than one year after the date of the enactment of this Act, the Chief Digital and Artificial Intelligence Officer shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on--
+	(1) the design of the pilot program under subsection (a);
+	(2) the status of any efforts underway to commence the pilot program under subsection (c); and
+	(3) any planned future activities to be carried out under the pilot program to test expected outcomes regarding improved efficiencies or other benefits that may be derived from artificial intelligence-driven approaches to aerial refueling operations and fuel management.
+
+(e) Termination.--The authority to conduct the pilot program under this section shall terminate on January 1, 2027.

@@ -1,0 +1,59 @@
+SEC. 1547. Joint partner-sharing network capabilities for Middle East defense integration.
+
+(a) Initiative required.--
+
+(1) IN GENERAL.--Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on how to improve cooperation between the Department of Defense and allies and partners of the United States located in the Middle East to improve the use of partner-sharing network capabilities to facilitate joint defense efforts among the United States and such allies and partners to protect the people, infrastructure, and territory of the United States and such allies and partners from state and non-state actors determined by the Secretary to undermine the national security interests of the United States.
+
+(2) CONTENTS.--The report submitted pursuant to paragraph (1) shall include the following:
+
+(A) A summary of ongoing efforts by United States Central Command, or in which United States Central Command is participating, to implement a joint partner-sharing network capability integrated with the assets of allies and partners of the United States who are located in the Middle East.
+
+(B) A summary of challenges to further facilitate the implementation of a joint partner-sharing network capability integrated with the assets of Middle Eastern allies and partners, including actions or decisions that need to be taken by other organizations.
+
+(C) A recommendation of actions that can be taken to address the challenges summarized pursuant to subparagraph (B).
+
+(D) An assessment of how the implementation of a joint partner-sharing network capability that would be available to integrate with allies and partners of the United States in the Middle East--
+
+(i) could demonstrate new tools, techniques, or methodologies for data-driven decision making;
+
+(ii) accelerate sharing of relevant data, data visualization, and data analysis implemented through cryptographic data access controls and enforcing existing data sharing restrictions across multiple security levels; and
+
+(iii) leverage current activities in multi-cloud computing environments to reduce the reliance on solely hardware-based networking solutions.
+
+(E) A recommendation of actions that can be taken to implement a joint partner-sharing network capability integrated with allies and partners of the United States in the Middle East, including identification of policy, resource, workforce, or other shortfalls.
+
+(F) Such other matters as the Secretary of Defense considers relevant.
+
+(3) METRICS.--The Secretary of Defense shall include in the report required by paragraph (1) recommended metrics for assessing progress towards improving the use of partner-sharing network capabilities to facilitate the joint defense efforts described in such paragraph.
+
+(4) FORM.--The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+(5) PROTECTION OF SENSITIVE INFORMATION.--No activity may be carried out under this section without an approved program protection plan and overarching classification guide to enforce technology and information protection protocols that protect sensitive information and the national security interests of the United States.
+
+(b) Assessment of the establishment of a combatant command warfighter forum for artificial intelligence.--
+
+(1) ASSESSMENT.--Not later than 180 days after the date of the enactment of this Act, the Chief Data and Artificial Intelligence Officer of the Department of Defense shall determine the policies and procedures required to establish a forum for warfighters in the combatant commands on artificial intelligence that would help promote coordination and interchange on issues relating to artificial intelligence tools, methodologies, training, exercises, and operational research within and among the combatant commands.
+
+(2) PURPOSES FOR CONSIDERATION.--In developing the policies and procedures required by paragraph (1), the Chief Data and Artificial Intelligence Officer of the Department of Defense shall consider the following as primary purposes of the forum:
+
+(A) Identification of use cases for the near-term application of artificial intelligence tools, including commercially available artificial intelligence tools, data, methodologies, or techniques.
+
+(B) Categorization of risk for the use cases identified pursuant to subparagraph (A), and consideration of risk-management process or other procedural guidelines for enforcing current policy.
+
+(C) Identification and prioritization of current artificial intelligence tools or emerging technologies applicable to the use-cases identified pursuant to subparagraph (A) that also meet policy guidelines and standards set by the Department.
+
+(D) Identification of shortfalls in training or billets for artificial intelligence-related expertise or personnel within the combatant commands.
+
+(E) Coordination on training and experimentation venues, including with regional partners and allies.
+
+(F) Identification of opportunities for enhanced cooperation with regional partners and allies.
+
+(G) Identification of opportunities for the combatant commands, working with other elements of the Department of Defense, such as the Defense Innovation Unit, to better procure commercial artificial intelligence capabilities, including from partner and allied industrial bases.
+
+(3) REPORT.-- (A) Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the assessment described in paragraph (1).
+
+(B) The report submitted pursuant to subparagraph (A) shall include the following:
+
+(i) A summary of the policies and procedures needed pursuant to paragraph (1).
+
+(ii) A summary of the efforts described in paragraph (1) to fulfill each of the purposes considered under paragraph (2).

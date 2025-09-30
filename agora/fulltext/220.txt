@@ -1,0 +1,15 @@
+SEC. 801. REPORT ON ACQUISITION RISK ASSESSMENT AND MITIGATION AS PART OF ADAPTIVE ACQUISITION FRAMEWORK IMPLEMENTATION. 
+
+(a) IN GENERAL.—Each service acquisition executive shall submit to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Chief Information Officer of the Department of Defense a report on how such service acquisition executive is, with respect to the risks in acquisition programs described in subsection (b)— 
+(1) assessing such risks; 
+(2) mitigating such risks; and 
+(3) reporting within the Department of Defense and to Congress on such risks. 
+(b) ACQUISITION PROGRAM RISKS.—The risks in acquisition programs described in this subsection are the following: 
+(1) Technical risks in engineering, software, manufacturing and testing. 
+(2) Integration and interoperability risks, including complications related to systems working across multiple domains while using machine learning and artificial intelligence capabilities to continuously change and optimize system performance. 
+(3) Operations and sustainment risks, including as mitigated by appropriate sustainment planning earlier in the lifecycle of a program, access to technical data, and intellectual property rights. 
+(4) Workforce and training risks, including consideration of the role of contractors as part of the total workforce. 
+(5) Supply chain risks, including cybersecurity, foreign control and ownership of key elements of supply chains, and the consequences that a fragile and weakening defense industrial base, combined with barriers to industrial cooperation with allies and partners, pose for delivering systems and technologies in a trusted and assured manner. 
+(c) REPORT TO CONGRESS.—Not later than March 31, 2021, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report including— 
+(1) the input received from the service acquisition executives pursuant to subsection (a); and 
+(2) the views of the Under Secretary with respect to the matters described in paragraphs (1) through (5) of subsection (b).

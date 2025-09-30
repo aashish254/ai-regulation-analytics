@@ -1,0 +1,83 @@
+A BILL
+To require a strategy to defend against the economic and national security risks posed by the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Artificial Intelligence Practices, Logistics, Actions, and Necessities Act” or the “AI PLAN Act”.
+
+
+SEC. 2. Strategy to defend against risks posed by the use of artificial intelligence.
+
+
+(a) Sense of Congress.—It is the sense of Congress that the development and use of artificial intelligence in the commission of financial crimes by adversarial actors poses a significant risk to the national and economic security of the United States.
+
+
+(b) Strategy To defend against risks posed by misinformation, fraud, and financial crime conducted with artificial intelligence.—
+
+
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Secretary of the Treasury, the Secretary of Homeland Security, and the Secretary of Commerce, in consultation with the officials specified in paragraph (3), shall jointly submit to Congress a report that includes the following:
+
+
+(A) A description of interagency policies and procedures to defend United States financial markets, United States persons, United States businesses, and global supply chains from the national and economic security risks posed by the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
+
+
+(B) An itemized list of readily available resources, hardware, software, and technologies that can be immediately utilized to combat the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
+
+
+(C) An itemized list of resources, hardware, software, technologies, people, and budgetary estimates needed to help Federal departments and agencies to combat the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
+
+
+(2) CONSIDERATIONS.—Reports required pursuant to paragraph (1) shall take the following risks into consideration:
+
+
+(A) Deepfakes.
+
+
+(B) Voice cloning.
+
+
+(C) Foreign election interference.
+
+
+(D) Synthetic Identities.
+
+
+(E) False flags and false signals that disrupt market operations.
+
+
+(F) Overall digital fraud.
+
+
+(3) OFFICIALS SPECIFIED.—The officials specified in this paragraph are the following:
+
+
+(A) The United States Trade Representative.
+
+
+(B) The Attorney General.
+
+
+(C) The Chairman of the Board of Governors of the Federal Reserve System.
+
+
+(D) The Director of the National Institute of Standards and Technology.
+
+
+(E) The Under Secretary of Commerce for Industry and Security.
+
+
+(F) The Chairman of the Securities and Exchange Commission.
+
+
+(c) Recommendations.—Not later than 90 days after each report under subsection (b) is submitted, the Secretary of the Treasury, the Secretary of Homeland Security, and the Secretary of Commerce shall jointly submit to Congress a set of recommendations relating to each such respective report that contain the following:
+
+
+(1) Legislative recommendations to address the risks posed by the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
+
+
+(2) Best practices to assist American businesses and government entities with risk mitigation and incident response to address the risks posed by the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.

@@ -1,0 +1,7 @@
+SEC. 253. ANNUAL REVIEW OF STATUS OF IMPLEMENTATION PLAN FOR DIGITAL ENGINEERING CAREER TRACKS.
+
+Not less frequently than once each year until December 31, 2029, the Secretary of Defense shall--
+	(1) conduct an internal review of the status of the implementation of the plan submitted to Congress pursuant to section 230(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 10 U.S.C. 501 note prec.), which shall include consideration of how the rapid rate of technological change in data science and machine learning may affect the implementation of the plan; and
+	(2) submit to the congressional defense committees a report that includes--
+		(A) a summary of the status of the implementation of the plan described in paragraph (1);
+		(B) the findings of the Secretary with respect to the most recent review conducted under such paragraph; and(C) the plan of the Secretary for addressing the digital engineering personnel needs of the Department of Defense in the years following the date of the report.

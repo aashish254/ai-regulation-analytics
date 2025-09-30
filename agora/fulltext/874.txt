@@ -1,0 +1,90 @@
+ H. R. 7913
+
+
+To require a notice be submitted to the Register of Copyrights with respect to copyrighted works used in building generative AI systems, and for other purposes.
+
+
+IN THE HOUSE OF REPRESENTATIVES
+April 9, 2024
+Mr. Schiff introduced the following bill; which was referred to the Committee on the Judiciary
+
+
+A BILL
+To require a notice be submitted to the Register of Copyrights with respect to copyrighted works used in building generative AI systems, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+ SECTION 1. SHORT TITLE.
+
+
+This Act may be cited as the “Generative AI Copyright Disclosure Act of 2024”.
+
+ SEC. 2. NOTICE TO BE SUBMITTED TO THE REGISTER OF COPYRIGHTS WITH RESPECT TO COPYRIGHTED WORKS USED IN BUILDING GENERATIVE AI SYSTEMS.
+
+
+(a) Notice.—
+
+
+(1) REQUIREMENT.—A person who creates a training dataset, or alters a training dataset (including by making an update to, refining, or retraining the dataset) in a significant manner, that is used in building a generative AI system shall submit to the Register a notice that contains—
+
+
+(A) a sufficiently detailed summary of any copyrighted works used—
+
+
+(i) in the training dataset (in the case that the person creates the dataset); or
+
+
+(ii) to alter the training dataset (in the case that the person alters the training data in a significant manner); and
+
+
+(B) the URL for such dataset (in the case of a training dataset that is publicly available on the internet at the time the notice is submitted).
+
+
+(2) TIME FOR FILING NOTICE.—The notice required by paragraph (1) shall be submitted—
+
+
+(A) not later than 30 days before the generative AI system with respect to which the training dataset is used is made available to consumers, in the case that the generative AI system is first made available to consumers after the date on which this Act takes effect; and
+
+
+(B) not later than 30 days after the date on which this Act takes effect, in the case that the generative AI system with respect to which the training dataset was used was made available to consumers before the effective date of this Act.
+
+ (b) Civil Penalty.—
+
+
+(1) ASSESSMENT.—Any person described under paragraph (1) of subsection (a) that fails to comply with a requirement under such subsection shall be assessed a civil penalty in an amount not less than $5,000.
+
+
+(2) REGULATIONS.— Not later than 180 days after the date on which this Act takes effect, the Register shall issue regulations to implement the requirement under paragraph (1).
+
+
+(c) Database.—The Register shall establish and maintain a publicly available online database that contains each notice filed under subsection (a)(1).
+
+ (d) Definitions.—In this section:
+
+
+(1) ARTIFICIAL INTELLIGENCE.—The term “Artificial Intelligence” means an automated system designed to perform a task typically associated with human intelligence or cognitive function.
+
+
+(2) COPYRIGHTED WORK.—The term “copyrighted work” means a work protected in the United States under a law relating to copyrights.
+
+
+(3) GENERATIVE AI MODEL.—The term “generative AI model” means a combination of computer code and numerical values designed to use Artificial Intelligence to generate outputs in the form of expressive material such as text, images, audio, or video.
+
+
+(4) GENERATIVE AI SYSTEM.—The term “generative AI system” means a software product or service that—
+
+
+(A) substantially incorporates one or more generative AI models; and
+
+
+(B) is designed for use by consumers.
+
+
+(5) REGISTER.—The term “Register” means the Register of Copyrights.
+
+
+(6) TRAINING DATASET.—The term “training dataset” means a collection of individual units of material (including a combination of text, images, audio, or other categories of expressive material, as well as annotations describing the material) used to train a generative AI model.
+
+
+(e) Effective Date.—This Act shall take effect on the date that is 180 days after the date of the enactment of this Act.

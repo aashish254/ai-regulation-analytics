@@ -1,0 +1,23 @@
+An Act concerning discrimination and automated decision systems and supplementing P.L.1945, c.169 (C.10:5-1 et seq.).
+
+     Be It Enacted by the Senate and General Assembly of the State of New Jersey:
+
+    1.    As used in this act:
+
+     “Automated decision system” means a computational process, including one derived from machine learning, statistics, or other data processing or artificial intelligence techniques, that makes a decision or facilitates human decision making.
+
+     “Health care provider" means an individual or entity, which, acting within the scope of its licensure or certification, provides health care services, and includes, but is not limited to, a physician, dentist, nurse, or other health care professional whose professional practice is regulated pursuant to Title 45 of the Revised Statutes, and a health care facility licensed pursuant to P.L.1971, c.136 (C.26:2H-1 et seq.).
+
+     “Member of a protected class” means an individual who has one or more characteristics, including race, creed, color, national origin, nationality, ancestry, age, marital status, civil union status, domestic partnership status, affectional or sexual orientation, genetic information, pregnancy, sex, gender identity or expression, disability or atypical hereditary cellular or blood trait of any individual, or liability for service in the armed forces, for which the individual is provided protections against discriminatory practices pursuant to section 11 of P.L.1945, c.169 (C.10:5-12).
+    2.    A person, bank, banking organization, credit reporting agency, mortgage company, or other financial institution, lender or credit institution involved in the making or purchasing of any loan or extension of credit shall not discriminate through the use of an automated decision system against any person or group of persons who is a member of a protected class.
+
+     An automated decision system shall be discriminatory pursuant to this section if the system selects individuals who are members of a protected class for participation or eligibility for granting, withholding, extending, modifying, renewing, or purchasing, or in the fixing of the rates, terms, conditions or provisions of any loan, extension of credit or financial assistance, at a rate that is disproportionate to the rate at which the system selects individuals who are not members of the protected class.
+    3.    An insurance company licensed, registered, or otherwise authorized to do business under the laws of this State shall not discriminate through the use of an automated decision system against any person or group of persons who is a member of a protected class.
+
+     An automated decision system shall be discriminatory pursuant to this section if the system selects individuals who are members of a protected class for participation or eligibility for insurance or continuance of insurance, limiting the amount, extent, or kind of insurance coverage, or charging a different rate for the same insurance coverage, at a rate that is disproportionate to the rate at which the system selects individuals who are not members of the protected class.
+    4.    A health care provider shall not discriminate through the use of an automated decision system against any person or group of persons who is a member of a protected class.
+
+     An automated decision system shall be discriminatory pursuant to this section if the system selects individuals who are members of a protected class for participation or eligibility for health care services at a rate that is disproportionate to the rate at which the system selects individuals who are not members of the protected class.
+    5.    A violation of this act shall be unlawful discrimination and a violation of section 11 of P.L.1945, c.169 (C.10:5-12).
+
+    6.    This act shall take effect on the first day of the third month next following enactment.

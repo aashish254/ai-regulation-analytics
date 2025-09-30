@@ -1,0 +1,366 @@
+Subpart D—Infrastructure as a Service Providers' Responsibility To Verify the Identity of Their Customers, Special Measures, and the Use of Their Products for Large AI Model Training
+7.300
+Purpose and scope.
+7.301
+Definitions and application.
+7.302
+Customer Identification Program.
+7.303
+Foreign reseller requirements.
+7.304
+Customer Identification Program reporting requirements.
+7.305
+Compliance assessments.
+7.306
+Customer Identification Program exemptions.
+7.307
+Special measures for certain foreign jurisdictions or foreign persons.
+7.308
+Reporting of large AI model training.
+7.309
+Enforcement.
+7.310
+Reporting violations.
+
+
+§ 7.300
+Purpose and scope.
+Foreign actors may use United States Infrastructure as a Service (IaaS) products for a variety of malicious cyber-enabled activities. In light of these threats, it is the purpose of this subpart to:
+(a) Require U.S. IaaS providers of U.S. IaaS products to implement programs to maintain certain records related to IaaS Accounts in which foreign persons have an interest and verify the identity of such persons, and to require their foreign resellers to do the same, in order to facilitate law enforcement requests for such records and otherwise implement the provisions of Executive Order 13984 and Executive Order 14110;
+(b) Prevent foreign persons from using U.S. IaaS products to conduct malicious cyber-enabled activities; and
+(c) Safeguard the national security of the United States.
+§ 7.301
+Definitions and application.
+For the purposes of this subpart:
+Artificial intelligence or AI has the meaning set forth in 15 U.S.C. 9401(3).
+AI model means a component of an information system that implements AI technology and uses computational, statistical, or machine-learning techniques to produce outputs from a given set of inputs.
+AI system means any data system, software, hardware, application, tool, or utility that operates in whole or in part using AI.
+Availability means ensuring timely and reliable access to and use of information and information systems by an authorized person or system, including resources provided as part of a product or service.
+Beneficial owner means an individual who either:
+(1) Exercises substantial control over a customer; or
+(2) Owns or controls at least 25 percent of the ownership interests of a customer.
+Confidentiality means preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.
+Customer means any individual or entity who contracts with an IaaS provider to create or maintain an IaaS Account with an IaaS provider.
+Customer Identification Program or CIP means a program created by a United States IaaS provider of U.S. IaaS products that dictates how the provider will collect identifying information about its customers, how the provider will verify the identity of its foreign customers, store and maintain identifying information, and notify its customers about the disclosure of identifying information.
+Department means the United States Department of Commerce.
+Disassociability means enabling the processing of data or events without association to individuals or devices beyond the operational requirements of the system.
+Dual-use foundation model means:
+(1) An AI model that is trained on broad data; generally uses self-supervision; contains at least tens of billions of parameters; is applicable across a wide range of contexts; and that exhibits, or could be easily modified to exhibit, high levels of performance at tasks that pose a serious risk to security, national economic security, national public health or safety, or any combination of those matters, such as by:
+(i) Substantially lowering the barrier of entry for non-experts to design, synthesize, acquire, or use chemical, biological, radiological, or nuclear (CBRN) weapons;
+(ii) Enabling powerful offensive cyber operations through automated vulnerability discovery and exploitation against a wide range of potential targets of cyber attacks; or
+(iii) Permitting the evasion of human control or oversight through means of deception or obfuscation.
+(2) Models meet this definition even if they are provided to end users with technical safeguards that attempt to prevent users from taking advantage of the relevant unsafe capabilities.
+Entity means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
+Floating-point operation means any mathematical operation or assignment involving floating-point numbers, which are a subset of the real numbers typically represented on computers by an integer of fixed precision scaled by an integer exponent of a fixed base.
+Foreign beneficial owner means a beneficial owner that is not a United States person.
+Foreign customer means a customer that is not a United States person.
+Foreign jurisdiction means any country, subnational territory, or region, other than those subject to the civil or military jurisdiction of the United States, in which any person or group of persons exercises sovereign de facto or de jure authority, including any such country, subnational territory, or region in which a person or group of persons is assuming to exercise governmental authority whether such a person or group of persons has or has not been recognized by the United States.
+Foreign person means a person that is not a United States person.
+Foreign reseller or foreign reseller of U.S. Infrastructure as a Service products mean a foreign person who has established an Infrastructure as a Service Account to provide Infrastructure as a Service products subsequently, in whole or in part, to a third party.
+Generative AI means the class of AI models that emulate the structure and characteristics of input data in order to generate derived synthetic content. This can include images, videos, audio, text, and other digital content.
+Individual means any natural person.
+Infrastructure as a Service Account or Account means a formal business relationship established to provide IaaS products to a person in which details of such transactions are recorded.
+Infrastructure as a Service product or IaaS product means a product or service offered to a consumer, including complimentary or “trial” offerings, that provides processing, storage, networks, or other fundamental computing resources, and with which the consumer is able to deploy and run software that is not predefined, including operating systems and applications. The consumer typically does not manage or control most of the underlying hardware but has control over the operating systems, storage, and any deployed applications. The term is inclusive of “managed” products or services, in which the provider is responsible for some aspects of system configuration or maintenance, and “unmanaged” products or services, in which the provider is only responsible for ensuring that the product is available to the consumer. The term is also inclusive of “virtualized” products and services, in which the computing resources of a physical machine are split between virtualized computers accessible over the internet ( e.g., “virtual private servers”), and “dedicated” products or services in which the total computing resources of a physical machine are provided to a single person ( e.g., “bare-metal servers”).
+Integer operation means any mathematical operation or assignment involving only integers, or whole numbers expressed without a decimal point.
+Integrity means guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
+Knowledge has the meaning set out in 15 CFR 772.1.
+Large AI model with potential capabilities that could be used in malicious cyber-enabled activity means any AI model with the technical conditions of a dual-use foundation model or otherwise has technical parameters of concern, that has capabilities that could be used to aid or automate aspects of malicious cyber-enabled activity, including but not limited to social engineering attacks, vulnerability discovery, denial-of-service attacks, data poisoning, target selection and prioritization, disinformation or misinformation generation and/or propagation, and remote command-and-control of cyber operations. A model shall be considered to be a large AI model with potential capabilities that could be used in malicious cyber-enabled activity under this definition if it meets the technical conditions described in interpretive rules issued by the Department and published in the Federal Register .
+Machine learning means a set of techniques that can be used to train AI algorithms on data to improve performance at a task or tasks.
+Malicious cyber-enabled activities means activities, other than those authorized by or in accordance with U.S. law, that seek to compromise or impair the confidentiality, integrity, or availability of computer, information, or communications systems, networks, physical or virtual infrastructure controlled by computers or information systems, or information resident thereon.
+Manageability means providing the capability for granular administration of data, including alteration, deletion, and selective disclosure.
+Model weight means a numerical parameter within an AI model that helps determine the model's outputs in response to inputs.
+Predictability means enabling reliable assumptions by individuals, owners, and operators about data and their processing by a system, product, or service.
+Person means an individual or entity.
+Privacy-preserving data sharing and analytics means the use of privacy-enhancing technologies to achieve disassociability, predictability, manageability, and confidentiality when performing analytics on data.
+Red Flag means a pattern, practice, or specific activity that indicates the possible existence of malicious cyber-enabled activities.
+Reseller means a person that maintains a Reseller Account.
+Reseller Account means an Infrastructure as a Service Account established to provide IaaS products to a person who will then offer those products subsequently, in whole or in part, to a third party.
+Risk-based means based on an appropriate assessment of the relevant risks, including those presented by the various types of service offerings maintained by the provider, the methods used to open an Account, the varying types of identifying information available to the provider, and the provider's customer base.
+Secretary means the Secretary of Commerce or the Secretary's designee.
+Threat landscape means the broad environment of geopolitical, economic, and technological factors that must be evaluated when developing risk-based procedures that enable the provider to form a reasonable belief of the true identity of each account owner and beneficial owner to deter facilitating significant Malicious cyber-enabled activities.
+Training or training run refers to any process by which an AI model learns from data using computing power.
+Transaction means any transfer of value including any of the following, whether proposed or completed: an exchange of value for a good or service; a merger, acquisition, or takeover; an investment; and any other transfer, agreement, or arrangement, the structure of which is designed or intended to evade or circumvent the application of § 7.307.
+United States Infrastructure as a Service product or U.S. IaaS product means any Infrastructure as a Service product owned by any United States person or operated within the territory of the United States.
+United States Infrastructure as a Service provider or U.S. IaaS provider means any United States person that offers any Infrastructure as a Service product.
+United States person or U.S. person means any U.S. citizen, lawful permanent resident of the United States as defined by the Immigration and Nationality Act, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person located in the United States.
+United States Reseller or U.S. Reseller means a reseller that is a United States person.
+§ 7.302
+Customer Identification Program.
+(a) In general. Each U.S. IaaS provider of U.S. IaaS products must maintain and implement a written Customer Identification Program (CIP) that meets the requirements in this section.
+(b) Scope of CIP. The CIP must be appropriate for the IaaS providers' size, type of IaaS products offered, and relevant risks (including those presented by the various types of service offerings maintained by the IaaS providers, the various methods of opening Accounts, the varying types of identifying information available, and the IaaS providers' customer base) that, at a minimum, include each of the requirements of this section. Any IaaS provider who is only a reseller of U.S. IaaS products, may, by agreement with the initial U.S. IaaS provider, reference, use, or adopt the initial U.S. IaaS provider's CIP for purposes of meeting the requirements of this section.
+(c) Foreign reseller CIP. As specified in § 7.303(a), U.S. IaaS providers of U.S. IaaS products must ensure that foreign resellers of their U.S. IaaS products maintain and implement a written CIP that meets the requirements in this paragraph (c) and paragraphs (d) and (e) of this section.
+(d) Identity verification procedures. The CIP must include risk-based procedures for verifying the identity of each foreign customer to the extent it enables the U.S. IaaS provider or foreign reseller of U.S. IaaS products to form a reasonable belief that it knows the true identity of each customer.
+(1) Customer information required. (i) The CIP must contain procedures that enable the U.S. IaaS provider or foreign reseller of U.S. IaaS products to determine whether a potential customer and all beneficial owners are U.S. persons. If the IaaS provider determines the potential customer and all beneficial owners are U.S. persons, this subpart will not apply to any IaaS Account opened for use by that U.S. person. U.S. IaaS providers and foreign resellers of U.S. IaaS products must exercise reasonable due diligence to ascertain the true identity of any customer or beneficial owner of an Account who claims to be a U.S. person.
+(ii) The CIP must contain procedures for opening an Account that specify the identifying information that will be obtained from each potential customer and beneficial owner(s) of an Account that will be used to determine whether they are U.S. persons. These procedures must provide U.S. IaaS providers or foreign resellers of U.S. IaaS products with a sound basis to verify the true identity of their customer and beneficial owners and reflect reasonable due diligence efforts.
+(iii) All U.S. IaaS providers and all of their foreign resellers of U.S. IaaS products must obtain, at a minimum, the following information from any potential foreign customer or foreign beneficial owner prior to opening an Account:
+(A) Name, which shall be:
+(1) For an individual, full legal name; or
+(2) For an entity, business name, including all names under which the business is known to be or has been doing business.
+(B) Address, which shall be:
+(1) For an individual, a residential or business street address and the location(s) from which the IaaS product will be used.
+(2) For an individual who does not have a residential or business street address, an Army Post Office (APO) or Fleet Post Office (FPO) box number, and the location(s) from which the IaaS product will be used.
+(3) For an entity, a principal place of business, or if an entity is not a business, the address to which inquiries should be directed, and the location(s) from which the IaaS product will be used.
+(4) For a person other than an individual (such as a corporation, partnership, or trust), the jurisdiction under whose laws the person is constituted or organized; and
+(5) For a person other than an individual (such as a corporation, partnership, or trust), the name(s) of the beneficial owner(s) of that Account.
+(C) Means and source of payment for the Account including:
+( 1) Credit card number;
+( 2) Account number;
+( 3) Customer identifier;
+( 4) Transaction identifier;
+( 5) Virtual currency wallet or wallet address identifier;
+( 6) Equivalent payment processing information, for alternative sources of payment; or
+( 7) Any other payment sources or types used.
+(D) Email address.
+(E) Telephonic contact information.
+(F) internet protocol (IP) addresses used for access or administration and the date and time of each such access or administrative action, related to ongoing verification of such foreign person's ownership or control of such Account.
+(2) Customer verification. The CIP must contain procedures for verifying the identity of the potential foreign customer and beneficial owners of the Account, including by using information obtained in accordance with paragraph (d)(1) of this section, prior to opening the Account. The procedures must include a documentary verification method, as provided in paragraph (d)(2)(i) of this section, a non-documentary verification method, as described in paragraph (d)(2)(ii) of this section or a combination of both methods.
+(i) Verification through documents. For an IaaS provider relying on documents, the CIP must contain procedures that set forth the documents the IaaS provider will use and its method for ascertaining the documents are valid.
+(ii) Verification through non-documentary methods. For an IaaS provider relying on non-documentary methods, the CIP must contain procedures that describe the non-documentary methods the IaaS provider will use.
+(iii) Additional verification for certain customers. The CIP must address situations where, based on the IaaS provider's risk assessment of a new Account opened by an entity, the IaaS provider will obtain further information about individuals and beneficial owners of the Account, including signatories, in order to verify the potential customer's identity. This verification method applies only when the IaaS provider cannot verify the potential customer's identity using the verification methods described in paragraphs (d)(2)(i) and (ii) of this section or when the attempted verification leads the IaaS provider to doubt the true identity of the potential customer.
+(iv) U.S. person accounts. If the IaaS provider verifies, through the procedures outlined in paragraphs (d)(2)(i) through (iii) of this section, that the customer and all beneficial owners are U.S. persons, the Account will not be subject to any other regulation in this subpart.
+(3) Lack of verification. The CIP must include procedures for responding to circumstances in which the U.S. IaaS provider or foreign reseller of U.S. IaaS products cannot form a reasonable belief that it knows the identity of a customer or beneficial owner. These procedures should describe:
+(i) When the IaaS provider should not open an Account for the potential customer;
+(ii) The terms under which a customer may use an Account while the IaaS provider attempts to verify the identity of a customer or beneficial owner of the Account, such as restricted permission or enhanced monitoring of the Account;
+(iii) When the IaaS provider should close an Account or subject it to other measures, such as additional monitoring, permitted to be used under paragraph (d)(3)(ii) of this section, after attempts to verify the identity of a customer or beneficial owner of the Account have failed; and
+(iv) Other measures for account management or redress for customers whose identification could not be verified or whose information may have been compromised.
+(e) Recordkeeping. The CIP must include procedures for making and maintaining a record of all information obtained under the procedures implementing paragraph (d) of this section.
+(1) Required records. At a minimum, the record must include for any foreign customer or beneficial owner buying from a U.S. IaaS provider or foreign reseller of U.S. IaaS products:
+(i) All identifying information about a customer or beneficial owner obtained under paragraph (d) of this section;
+(ii) A copy or description of any document that was relied on under paragraph (d)(2)(i) of this section;
+(iii) A description of any methods and the results of any measures undertaken to verify the identity of the customer and beneficial owners under paragraph (d)(2)(ii) or (iii) of this section; and
+(iv) A description of the resolution of any substantive discrepancy discovered when verifying the identifying information obtained.
+(2) Retention of records. U.S. IaaS providers of U.S. IaaS products must retain the records required under paragraph (e)(1) of this section for at least two years after the date the Account is closed or the date the Account was last accessed.
+(3) Limits on third-party access to records created and maintained pursuant to this subpart. The CIP must include methods to ensure that records created and maintained pursuant to this subpart will not be shared with any third party, except insofar as such access is otherwise consistent with this subpart or lawful. Such methods should include methods to prevent unauthorized access to such records by a third party or employee of the IaaS provider without a need-to-know, including encryption and/or other methods to protect the availability, integrity, and confidentiality of such records. However, these limits need not apply when sharing security best practices or other threat information with other U.S. IaaS providers of U.S. IaaS products, or relevant consortia.
+(f) Periodic review. The CIP must include risk-based procedures for:
+(1) Requiring a customer to notify the IaaS provider when the customer adds beneficial owners to its account; and
+(2) Periodic continued verification of the accuracy of the information provided by a customer.
+§ 7.303
+Foreign reseller requirements.
+(a) In general. U.S. IaaS providers that contract with, enable, or otherwise allow foreign resellers to resell their U.S. IaaS products will be subject to certain requirements. Each U.S. IaaS provider must ensure that any foreign reseller of its U.S. IaaS products maintains and implements a written CIP as specified in paragraph (b) of this section and must furnish a foreign reseller's written CIP upon request from the Department, as specified in paragraph (c) of this section.
+(b) CIP requirements. Each U.S. IaaS provider must require that any foreign reseller of its U.S. IaaS products maintains and implements a written CIP that meets the requirements set forth in § 7.302(d) through (f).
+(c) Collecting and reporting on foreign reseller CIPs. Each U.S. IaaS provider must follow procedures related to reporting on the implementation of CIPs for each of the U.S. IaaS provider's foreign resellers as required in § 7.304(e) and (f) and according to requirements described in § 7.304(a) through (d).
+(d) Furnishing records. Upon receiving a request from the Department for a foreign reseller's written CIP, the U.S. IaaS provider of U.S. IaaS products must provide the foreign reseller's written CIP to the Department within ten calendar days of the Department's request.
+(e) Investigation, remediation, and termination of foreign reseller relationship. A U.S. IaaS provider must ensure that its foreign resellers maintain CIPs that comply with the requirements set forth in § 7.302(c) through (e). A U.S. IaaS provider must, upon receipt of evidence that indicates the failure of a foreign reseller to maintain or implement a CIP or the lack of good-faith efforts by the foreign reseller to prevent the use of U.S. IaaS products for malicious cyber-enabled activities, take steps to close the foreign reseller account and, if relevant, to report the suspected or actual malicious cyber-enabled activity discovered to relevant authorities according to the procedures the U.S. IaaS provider has described in their CIP according to § 7.304(a)(2)(v). The U.S. IaaS provider must terminate the reseller relationship within 30 calendar days if the U.S. IaaS provider has knowledge that the foreign reseller has not remediated the issues identified or discovered by the U.S. IaaS provider, or if the continuation of the reseller relationship otherwise increases the risk its U.S. IaaS products may be used for malicious cyber-enabled activity.
+§ 7.304
+Customer Identification Program reporting requirements.
+(a) Certification form. Each U.S. IaaS provider must notify the Department of implementation of its CIP and, if relevant, the CIPs of each foreign reseller of its U.S. IaaS products, through submission of a CIP certification form, which will include:
+(1) A description of:
+(i) The mechanisms, services, software, systems, or tools the IaaS provider uses to verify the identity of foreign persons according to criteria described in § 7.302(d);
+(ii) The procedures the IaaS provider uses to require a customer to notify the IaaS provider of any changes to the customer's ownership—such as adding or removing beneficial owners—and the IaaS provider's process for ongoing verification of the accuracy of the information provided by a customer;
+(iii) The mechanisms, services, software, systems, or tools used by the IaaS provider to detect malicious cyber activity;
+(iv) The IaaS provider's procedures for requiring each foreign reseller to maintain a CIP;
+(v) The IaaS provider's procedures for identifying when a foreign person transacts to train a large AI model with potential capabilities that could be used in malicious cyber-enabled activity, pursuant to § 7.308; and
+(vi) Name, title, email, and phone number of the Primary Contact responsible for managing the CIP;
+(2) Information pertaining to the IaaS provider's provision of U.S. IaaS products, including:
+(i) A description of the IaaS provider's service offerings and customer bases in foreign jurisdictions;
+(ii) The number of employees in IaaS provision and related services;
+(iii) The mechanisms, services, software, systems, or tools used by the IaaS provider to detect malicious cyber-enabled activity, to include a description of how the mechanisms, services, software, systems, or tools are used;
+(iv) The mechanisms, services, software, systems, or tools used by the IaaS provider to detect a training run that could result in the training of a large AI model with potential capabilities that could be used in malicious cyber-enabled activity;
+(v) The process the IaaS provider uses to report any suspected or actual malicious cyber activity discovered to relevant authorities;
+(vi) The number of IaaS customers;
+(vii) The number and locations of the IaaS provider's foreign beneficial owners;
+(viii) A list of all foreign resellers of IaaS products; and
+(ix) The number of IaaS customer accounts held by foreign customers whose identity has not been verified, including details on:
+(A) The date the IaaS provider provisioned the account, or accounts, for each customer whose identity is unverified;
+(B) A description and timeline of actions the IaaS provider will take to verify the identity of each customer;
+(C) Any other information available to the IaaS provider on the nature of the account, or accounts, provided to each unverified customer;
+(D) The date the IaaS provider will deprovision the accounts if the identity of the customer continues to be unverified; and
+(E) Steps the IaaS provider will take to ensure that foreign persons who failed to verify their identities do not reestablish new accounts; and
+(3) An attestation that the written CIP of the IaaS provider meets the standards enumerated in § 7.302.
+(b) Annual certification. U.S. IaaS providers must submit to the Department certifications of their CIPs on an annual basis and, if relevant, the CIPs of each foreign reseller of its U.S. IaaS products. Annual certifications may be submitted to the Department at any time within one year of their previous notification, but no earlier than 60 calendar days prior to that date. Annual certifications must include any updates to the information required in paragraph (a) of this section. Each annual certification must also include attestations that the IaaS provider has:
+(1) Reviewed its CIP since the date of the last certification;
+(2) Updated its CIP to account for any changes in its service offerings since its last certification;
+(3) Updated its CIP to account for any changes in the threat landscape since its last certification;
+(4) Ensured its CIP complies with this subpart since its last certification;
+(5) Tracked the number of times the IaaS provider was unable to verify the identity of any customer since its last certification; and
+(6) Recorded the resolution of each situation in which the IaaS provider was unable to verify the identity of a customer since its last certification.
+(c) Irregular updates. Each U.S. IaaS provider must notify the Department if, outside of the normal reporting schedule described in paragraphs (a) and (b) of this section, a significant change in business operations or corporate structure has occurred or a material change to a CIP has been implemented, to include, for example, a material change in the documentary or non-documentary methods of identity verification or in the procedures for handling unverified accounts. Each U.S. IaaS provider must also notify the Department when there is a change in the Primary Contact responsible for the CIP, or when there is a change in the Primary Contact responsible for managing the CIP of one of its foreign resellers.
+(d) New providers. Prior to furnishing any foreign customer with an IaaS Account, any newly established U.S. IaaS provider must notify the Department of implementation of their CIP through submission of their CIP certification form in accordance with the requirements in paragraphs (a) through (c) of this section. U.S. IaaS providers must notify the Department according to procedures described in paragraphs (e) and (f) of this section prior to the provision of U.S. IaaS products to a new foreign reseller of its U.S. IaaS products.
+(e) Collection of information from foreign resellers. Each U.S. IaaS provider of U.S. IaaS products must collect from its foreign resellers the information necessary for the initial and annual reporting requirements in paragraphs (a) and (b) of this section.
+(f) Reporting of information from foreign resellers. Each U.S. IaaS provider of U.S. IaaS products must submit on an annual basis CIP certification forms for all foreign resellers' CIPs, containing the information specified in paragraph (a) of this section. Foreign reseller certifications may be submitted by the U.S. IaaS provider—in compiled format—to the Department at any time within one year of their previous notification, and no earlier than 60 calendar days prior to that date.
+§ 7.305
+Compliance assessments.
+(a) Government inspection. All U.S. IaaS providers of U.S. IaaS products must maintain a written CIP and copies of the CIPs of any of their foreign resellers and must provide any copy of these CIPs to the Department within ten calendar days of a request from the Department. If upon inspection the Department finds a CIP from either a U.S. IaaS provider or their foreign reseller fails to meet the requirements in § 7.302(b) through (f), then the Department will notify the relevant IaaS provider of the specific shortcomings identified in its CIP or, if necessary, any required special measures as described in § 7.307. The IaaS provider shall then resolve the identified shortcomings within a reasonable time period, as determined by the Department, and shall resubmit its CIP for further inspection.
+(b) In general. The Department will review information submitted to the Department in CIP certification forms and compiled foreign reseller CIP certification forms as described in § 7.304. The Department shall, at its sole discretion as to time and manner, conduct compliance assessments of U.S. IaaS providers based on the Department's own evaluation of risks associated with a given CIP, U.S. IaaS provider, or any of its foreign resellers.
+(c) Information available. The Department will evaluate risk and conduct compliance assessments based on available information, including but not limited to:
+(1) Any information provided by U.S. IaaS provider in CIP certifications;
+(2) Any additional information or communications provided to the Department;
+(3) Any publicly available information or communications; and
+(4) Any information otherwise obtained by or made available to the Department.
+(d) Evaluating risk. The Department shall maintain sole discretion to evaluate risks based on criteria including, but not limited to:
+(1) Assessing whether the services or products of a U.S. IaaS provider or a foreign reseller are being used or are likely to be used:
+(i) By foreign malicious cyber actors; or
+(ii) By a foreign person to train a large AI model with potential capabilities that could be used in malicious cyber-enabled activity; or
+(2) The failure of any U.S. IaaS provider of U.S. IaaS products to:
+(i) Submit a CIP certification; or
+(ii) Implement measures recommended by the Department as the result of a compliance assessment.
+(e) Compliance assessments. The Department shall conduct compliance assessments of certain U.S. IaaS providers according to the Department's evaluation of risk based on information described in paragraph (b) of this section. The Department may:
+(1) Conduct compliance assessments annually or as determined by the Department based on the Department's evaluation of risk of the provider's CIP;
+(2) Conduct follow-up compliance assessments of providers to ensure remediation of any findings or determinations made by the Department; and
+(3) Request an audit of the U.S. IaaS provider's CIP processes and procedures.
+(f) Actions. Based on the results of compliance assessments, the Department may:
+(1) Recommend remediation measures to be taken by the U.S. IaaS providers of U.S. IaaS products, including but not limited to:
+(i) Measures to address any risk of U.S. IaaS products being used in support of malicious cyber activity or to train a foreign-owned large AI model with potential capabilities that could be used in malicious cyber-enabled activity; and
+(ii) Any special measures the IaaS provider must take in accordance with § 7.307; and
+(2) Determine to review a transaction or class of transactions of an IaaS provider according to procedures described in subpart B of this part.
+§ 7.306
+Customer Identification Program exemptions.
+(a) Exemptions. The Secretary, in accordance with such standards and procedures as outlined in this section, may exempt any U.S. IaaS provider, any specific type of Account or lessee, or any specific foreign reseller of a U.S. IaaS provider's IaaS products, from the requirements of this subpart, except §§ 7.308 and 7.309. Such standards and procedures will include a finding by the Secretary that a U.S. IaaS provider, U.S. IaaS provider's foreign reseller, Account, or lessee implements security best practices to otherwise deter abuse of IaaS products.
+(b) Abuse of IaaS Products Deterrence Program for IaaS providers. The Secretary may make a finding that an IaaS provider complies with security best practices to deter abuse of IaaS products, provided that the IaaS provider has established an Abuse of IaaS Products Deterrence Program (ADP) consistent with this paragraph (b) and has requested a finding in accordance with the procedures in paragraph (e) of this section. Such a finding exempts an IaaS provider from the CIP requirements in §§ 7.302 and 7.304. The Secretary may also make a finding that a foreign reseller of U.S. IaaS products complies with security best practices to deter abuse of IaaS products. Such a finding exempts the U.S. IaaS provider from the requirements in §§ 7.303 and 7.304 with regard to that specific foreign reseller. Each IaaS provider that offers or maintains one or more Accounts may develop, document, and implement an ADP that is designed to detect, prevent, and mitigate malicious cyber-enabled activities in connection with their Accounts and the IaaS Accounts of its foreign resellers. The ADP must be appropriate to the size and complexity of the IaaS provider and the nature and scope of its product offerings. A U.S. IaaS provider or foreign reseller ADP must include reasonable policies and procedures to:
+(1) Identify relevant Red Flags for the Accounts that the IaaS provider offers or maintains, and incorporate those Red Flags into its ADP including considering:
+(i) Risk Factors such as:
+(A) The types of Accounts it offers or maintains;
+(B) The methods it implements for an Account to be opened;
+(C) The methods it implements for an Account to be accessed;
+(D) The methods it implements to monitor and assess activities related to its Accounts; or
+(E) Its current or previous experiences with malicious cyber-enabled activities.
+(ii) Sources of Red Flags such as:
+(A) Incidents of malicious cyber-enabled activities that IaaS providers have experienced;
+(B) Vulnerabilities that could contribute to malicious cyber-enabled activities if left unmitigated;
+(C) Methods of malicious cyber-enabled activities that IaaS providers have identified; or
+(D) Alerts, notifications, or other warnings about malicious cyber-enabled activities or improved analytic tools that the IaaS provider receives, including through engagement with the consortium under paragraph (c) of this section.
+(iii) Categories of Red Flags such as:
+(A) Presentation of suspicious personally identifiable information or identity evidence;
+(B) Suspicious or anomalous activity detected in relation to an Account; or
+(C) Notice from customers, victims of identity theft, law enforcement authorities, or other persons regarding possible fraud or abuse conducted in association with the Account, Account compromise, a newly identified vulnerability that may impact an IaaS product offering if exploited, or identity theft in connection with Accounts serviced by the IaaS provider.
+(2) Detect Red Flags that have been incorporated into the ADP, including by implementing privacy-preserving data sharing and analytics methods as feasible.
+(3) Respond appropriately to any Red Flags that are detected to prevent and mitigate malicious cyber-enabled activities, which may include:
+(i) Monitoring an Account for evidence of malicious cyber-enabled activities;
+(ii) Contacting the customer;
+(iii) Changing any passwords, security codes, or other security devices that permit access to an Account;
+(iv) Reopening an Account with a new account number;
+(v) Rejecting a request to open a new Account;
+(vi) Closing or suspending an existing Account;
+(vii) Allowing only certain trusted methods of payment;
+(viii) Notifying law enforcement; or
+(ix) Determining that no response or a different response is warranted under the particular circumstances.
+(4) Ensure the ADP (including the relevant Red Flags) is updated regularly to reflect changes in risks to Accounts, including factors such as:
+(i) The experiences of the IaaS provider with malicious cyber-enabled activities;
+(ii) Changes in methods of malicious cyber-enabled activities;
+(iii) Changes in methods to detect, prevent, and mitigate malicious cyber-enabled activities;
+(iv) Changes in the types of accounts that the IaaS provider offers or maintains; and
+(v) Changes in the business arrangements of the IaaS provider including mergers, acquisitions, alliances, joint ventures, and service provider or foreign reseller arrangements.
+(5) Establish procedures for the ongoing administration of the ADP. Each IaaS provider implementing an ADP must provide for the continued administration of the ADP and must:
+(i) Obtain approval of the initial written ADP from either its board of directors, an appropriate committee of the board of directors, or a designated employee at the level of senior management;
+(ii) Involve the board of directors, an appropriate committee thereof, or a designated employee at the level of senior management in the oversight, development, implementation, and administration of the ADP;
+(iii) Train staff, as necessary, to effectively implement the ADP; and
+(iv) Exercise appropriate and effective oversight of reseller arrangements with respect to detecting and mitigating Red Flags.
+(c) Public-private sector collaboration. One factor to be considered by the Department in granting an exemption is the participation of U.S. IaaS providers or a foreign reseller of U.S. IaaS products in a consortium to develop and maintain privacy-preserving data sharing and analytics to enable improved detection and mitigation of malicious cyber-enabled activities. Before implementing privacy-preserving data sharing and analytics, IaaS providers may initially evaluate solutions in a test environment which may be established and maintained by either industry or the Federal Government. The consortium will make available tools and expertise to assist smaller IaaS providers with conducting privacy-preserving data sharing and analytics, as well as providing insights, policies, and practices for improving their ADPs under paragraph (a) of this section. IaaS providers must document their process and capabilities for integrating insights and responding to intelligence generated through consortium interaction within their ADP as described in paragraph (a) of this section.
+(d) Investigative cooperation. One factor to be considered by the Department in granting an exemption is voluntary cooperation with law enforcement, consistent with otherwise applicable law, to provide forensic information for investigations of identified malicious cyber-enabled activities.
+(e) Procedures for requests for exemptions from CIP requirements. In consultation with the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence, or, as the Secretary deems appropriate, the heads of other executive departments and agencies, the Secretary may make a finding exempting a U.S. IaaS provider from the requirements in §§ 7.302, 7.304, and 7.305 if the finding determines that the U.S. IaaS provider complies with security best practices to otherwise deter the abuse of IaaS products. In consultation with these same agencies, the Secretary may also make a finding to exempt a U.S. IaaS provider with respect to any specific foreign reseller of their services from the requirements in §§ 7.303 and 7.304, if the finding determines that the foreign reseller, account, or lessee complies with security best practices to otherwise deter abuse of United States IaaS products.
+(1) Any U.S. IaaS provider of U.S. IaaS products seeking to obtain the Secretary's finding exempting it or one of its foreign resellers from CIP requirements shall initiate the process by providing a written submission to the Secretary describing its establishment of an ADP consistent with paragraph (a) of this section. Such submission should be made electronically.
+(2) Upon receipt of a written submission, the Secretary will review the submission and may request additional information from the submitter. Prior to making a finding, the Secretary will consult with the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence, or their designees.
+(3) The Secretary will make a finding based on an evaluation of the following factors:
+(i) Whether the ADP is an appropriate size and complexity commensurate with the nature and scope of product offerings;
+(ii) Whether the Program's ability to deter, detect, and respond to Red Flags is sufficiently robust;
+(iii) Whether oversight of reseller arrangements is effective;
+(iv) The extent of cooperation by providers with law enforcement, consistent with otherwise applicable law, to provide forensic information for investigations of identified malicious cyber-enabled activities; and
+(v) Whether they participate in public-private collaborative efforts as described in paragraph (c) of this section.
+(f) Maintenance of exemption. U.S. IaaS providers of U.S. IaaS products have a continuing obligation to update their ADPs in response to the changing threat landscape and must notify the Secretary of any significant deviations or changes to their ADP. U.S. IaaS providers must also require their foreign resellers to do the same. All U.S. IaaS providers must provide information on such updates by submitting annual notifications for themselves or any of their exempt foreign resellers to the Department to ensure that exemptions from the CIP requirements continue to be warranted.
+(g) Revocation of exemption. The exemption from CIP requirements may be revoked at any time, including to impose special measures as described in § 7.307.
+§ 7.307
+Special measures for certain foreign jurisdictions or foreign persons.
+(a) International counter-malicious cyber-enabled activity requirements —(1) In general. The Secretary may require U.S. IaaS providers of U.S. IaaS products to take either of the special measures described in paragraph (b) of this section if the Secretary determines that reasonable grounds exist for concluding that a foreign jurisdiction or foreign person is conducting malicious cyber-enabled activities using U.S. IaaS products, in accordance with paragraph (c) of this section.
+(2) Evaluation. If the Secretary, based on the Secretary's own initiative or upon referral from other executive departments and agencies or U.S. IaaS providers, is informed that reasonable grounds may exist to apply special measures to a particular foreign jurisdiction or foreign person, the Secretary will evaluate the relevant factors provided in paragraph (b) of this section and consult with the heads of other agencies as appropriate, to determine whether to impose either of the special measures described in paragraph (b), and which special measure the Secretary will impose.
+(3) Determination. Upon completion of the evaluation, the Secretary shall issue an unclassified written determination that summarizes the elements of the evaluation. The determination shall identify whether the Secretary established, through the investigation, that reasonable grounds exist to determine that:
+(i) A foreign jurisdiction has any significant number of foreign persons offering U.S. IaaS products that are used for malicious cyber-enabled activities or any significant number of foreign persons directly obtaining U.S. IaaS products for use in malicious cyber-enabled activities; or
+(ii) A foreign person has established a pattern of conduct of offering U.S. IaaS products that are used for malicious cyber-enabled activities or directly obtaining U.S. IaaS products for use in malicious cyber-enabled activities.
+(4) Special measure. The determination shall also explain how it is consistent with the terms of Executive Order 13984 and this subpart. The special measure will be imposed as soon as the Secretary issues the determination.
+(5) Duration of special measure. Any determination by which a special measure described in paragraphs (b)(1) and (2) of this section is imposed may not remain in effect for more than 365 calendar days, except pursuant to the publication in the Federal Register , on or before the end of the 365-day period beginning on the date of the issuance of such determination, of a notice of extension finding that the measure remains necessary for an additional period of time.
+(6) Effective date. No U.S. IaaS providers shall be required to take any of the special measures adopted pursuant to this section earlier than 180 calendar days following the issuance of determinations.
+(7) No limitation on other authorities. This section shall not be construed as superseding or otherwise restricting any other authorities granted to the Secretary, or to any other agency, by this subpart or otherwise.
+(b) Special measures. The special measures referred to in paragraph (a) of this section, with respect to a foreign jurisdiction or foreign person, are as follows:
+(1) Prohibitions or conditions on customers, potential customers, or accounts within certain foreign jurisdictions. The Secretary may prohibit or impose conditions on the opening or maintaining with any U.S. IaaS provider of an Account, including a Reseller Account, by any foreign person located in a foreign jurisdiction found to have any significant number of foreign persons offering U.S. IaaS products used for malicious cyber-enabled activities, or by any U.S. IaaS provider of U.S. IaaS products for or on behalf of a foreign person.
+(2) Prohibitions or conditions on certain foreign persons. The Secretary may prohibit or impose conditions on the opening or maintaining of an Account, including a Reseller Account, by any U.S. IaaS provider of U.S. IaaS products for or on behalf of a foreign person, if such an Account involves any such foreign person found to be directly obtaining or engaged in a pattern of conduct of obtaining U.S. IaaS products for use in malicious cyber-enabled activities or offering U.S. IaaS products used in malicious cyber-enabled activities.
+(3) Reasonable grounds determination factors. In making a determination described in paragraph (a) of this section, the Secretary shall consider, in addition to any and all such information as the Secretary determines to be relevant, the following potentially relevant factors:
+(i) Factors related to a particular foreign jurisdiction. (A) Evidence that foreign malicious cyber actors have obtained U.S. IaaS products from persons offering U.S. IaaS products in that foreign jurisdiction, including whether such actors obtained such U.S. IaaS products through foreign resellers;
+(B) The extent to which that foreign jurisdiction is a source of malicious cyber-enabled activities; and
+(C) Whether the United States has a mutual legal assistance treaty with that foreign jurisdiction, and the experience of law enforcement officials and regulatory officials in obtaining information about activities involving U.S. IaaS products originating in or routed through such foreign jurisdiction.
+(ii) Factors related to a particular foreign person. (A) The extent to which a foreign person uses U.S. IaaS products to conduct, facilitate, or promote malicious cyber-enabled activities;
+(B) The extent to which U.S. IaaS products offered by a foreign person are used to facilitate or promote malicious cyber-enabled activities;
+(C) The extent to which U.S. IaaS products offered by a foreign person are used for legitimate business purposes in the foreign jurisdiction; and
+(D) The extent to which actions short of the imposition of special measures pursuant to this paragraph (b) are sufficient, with respect to transactions involving the foreign person offering U.S. IaaS products, to guard against malicious cyber-enabled activities.
+(4) Special measure determination factors. In selecting which special measure(s) to take under this section, the Secretary shall consider:
+(i) Whether the imposition of any special measure would create a significant competitive disadvantage, including any undue cost or burden associated with compliance, for U.S. IaaS providers;
+(ii) The extent to which the imposition of any special measure(s) or the timing of any special measure(s) would have a significant adverse effect on legitimate business activities involving the particular foreign jurisdiction or foreign person; and
+(iii) The effect of any special measure(s) on United States national security, law enforcement investigations, U.S. supply chains, foreign policy, or any serious effect on U.S. public health or safety.
+(c) Consultations and information to be considered in finding foreign jurisdictions or foreign persons to be of primary malicious cyber-enabled activity concern. In general, in making a determination described in paragraph (a) of this section, the Secretary shall consult with the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of National Intelligence, and, as the Secretary deems appropriate, the heads of other executive departments and agencies.
+(d) Notification of special measures invoked by the Secretary. Not later than 10 calendar days after the date of any determination under paragraph (a)(4) of this section, the Secretary shall notify, in writing, the Committee on Energy and Commerce of the U.S. House of Representatives and the Committee on Commerce, Science, and Transportation of the U.S. Senate of any such action.
+§ 7.308
+Reporting of large AI model training.
+(a) Reporting requirements. (1) In general, each U.S. IaaS provider must submit a report to the Department whenever they have “knowledge” of a covered transaction, as specified in paragraph (b) of this section, at the time specified in paragraph (c) of this section.
+(2) Each U.S. IaaS provider must also require that their foreign resellers submit a report whenever they have “knowledge” of a covered transaction, as specified in paragraph (b) of this section, at the time specified in paragraph (c) of this section to the U.S. IaaS provider.
+(3) Reports must be submitted to the Department in the form and manner specified in paragraph (d) of this section and, at a minimum, include responses for each of the requirements of paragraphs (d)(1)(i) through (ii) of this section.
+(b) Covered transactions. (1) Transactions that are covered transactions for the purposes of this section include:
+(i) A transaction by, for, or on behalf of a foreign person which results or could result in the training of a large AI model with potential capabilities that could be used in malicious cyber-enabled activity (see the examples in paragraphs (b)(3)(i) and (ii) of this section); or
+(ii) A transaction by, for, or on behalf of a foreign person, in which the original arrangements provided for in the terms of the transaction would not result in a training of a large AI model with potential capabilities that could be used in malicious cyber-enabled activity, but a development or update in the arrangements means the transaction now does or could result in the training of a large AI model with potential capabilities that could be used in malicious cyber-enabled activity (see the example in paragraph (b)(3)(iii) of this section).
+(2) A model shall be considered to be a large AI model with potential capabilities that could be used in malicious cyber-enabled activity under the definition provided in § 7.301 if it meets the requirements laid out by the Department in interpretive rules published in the Federal Register .
+(3)(i) Example 1. Corporation A, a foreign person, proposes to train a model on the computing infrastructure of Corporation B, a U.S. IaaS provider, and signs an agreement with Corporation B to train the proposed model. The technical specifications of the model that Corporation A seeks to train meet the technical conditions of a large AI model with potential capabilities that could be used in malicious cyber-enabled activity. The transaction is a covered transaction.
+(ii) Example 2. Corporation A, a U.S. person, makes an equity investment in Corporation B, a foreign person, and a portion of that investment is in the form of credits to use Corporation A's computing infrastructure. Corporation A has reason to believe that Corporation B intends to use those credits to train a large AI model with potential capabilities that could be used in malicious cyber-enabled activity. The transaction is a covered transaction.
+(iii) Example 3. Corporation A, a U.S. person, agrees to train an AI model for Corporation B, a foreign person. At the outset, the agreed-upon technical specifications for the model do not meet the technical conditions of a dual-use foundation model or a model with technical conditions of concern. However, after training commences, adjustments in the training procedure or new insights about the model's capabilities provide Corporation A with reason to believe that the model will in fact have the technical conditions of a large AI model with potential capabilities that could be used in malicious cyber-enabled activity. The transaction becomes a covered transaction.
+(iv) Example 4. Corporation A, a U.S. person, agrees to train an AI model for Corporation B, a foreign person, on a computing infrastructure co-located in a facility owned by Corporation C. The model will have the technical conditions of a large AI model with potential capabilities that could be used in malicious cyber-enabled activity. The transaction is a covered transaction, and Corporation A is responsible for reporting the training run to the Department.
+(c) Timing of reports —(1) Initial U.S. IaaS provider report. U.S. IaaS providers shall file with the Department a report within 15 calendar days of a covered transaction occurring or the provider or reseller having “knowledge” that a covered transaction has occurred.
+(2) Initial foreign reseller report. U.S. IaaS providers must require their foreign resellers to file with the U.S. IaaS provider a report within 15 calendar days of a covered transaction occurring or the provider or reseller having “knowledge” that a covered transaction has occurred. The U.S. IaaS provider must file this report with the Department within 30 calendar days of the covered transaction.
+(3) Follow-up report. Any U.S. IaaS provider that receives a request from the Department for additional information, as outlined in paragraph (d) of this section, whether in regard to a covered transaction of itself or its foreign reseller, will file a follow-up report responsive to the request within 15 calendar days of receiving the request for additional information.
+(4) Corrected report. If any report filed under this section is found to have been inaccurate when filed, the U.S. IaaS provider shall file a corrected report in the form and manner specified in paragraph (d) of this section within 15 calendar dates after the date on which the U.S. IaaS provider has “knowledge” of the inaccuracy.
+(d) Content, form, and manner of reports. Each report submitted under this section shall be filed with the Department in the form and manner that the Department shall prescribe in the forms and instructions for such report, and each person filing such report shall certify that the report or application is true, correct, and complete.
+(1) Initial U.S. IaaS provider and foreign reseller report. An initial report of an IaaS provider shall include the following:
+(i) Information about the foreign person. (A) Name of the foreign customer or foreign beneficial owner of the customer, which shall be:
+(1) For an individual, full legal name; or
+(2) For an entity, business name, including all names under which the business is known to be or has been doing business.
+(3) For both individuals and entities, the ultimate beneficial owner, if it is not the same as the individual or entity.
+(B) Address, which shall be:
+(1) For an individual, a residential or business street address.
+(2) For an individual who does not have a residential or business street address, an Army Post Office (APO) or Fleet Post Office (FPO) box number.
+(3) For an entity, principal places of business, or if an entity is not a business, the address to which inquiries should be directed, and the location(s) from which the training request originates.
+(4) For a person other than an individual (such as a corporation, partnership, or trust), the jurisdiction under whose laws the person is constituted or organized; and
+(5) For a person other than an individual (such as a corporation, partnership, or trust), the name(s) of the beneficial owner(s) of that account, including the ultimate beneficial owner(s).
+(C) Means and source of payment for the account including:
+( 1) Credit card number;
+( 2) Account number;
+( 3) Customer identifier;
+( 4) Transaction identifier;
+( 5) Virtual currency wallet or wallet address identifier;
+( 6) Equivalent payment processing information, for alternative sources of payment; or
+( 7) Any other payment sources or types used.
+(D) Email address.
+(E) Telephonic contact information.
+(F) IP addresses used for access or administration and the date and time of each such access or administrative action, related to ongoing verification of such foreign person's ownership or control of such Account.
+(ii) Information about the training run. (A) Estimated number of computational operations ( e.g., integer operations or floating-point operations) used in the training run.
+(B) Anticipated start date and completion date of the training run.
+(C) Information on training practices, including the model of the primary AI used in the training run accelerators.
+(D) Information on cybersecurity practices including:
+( 1) Policies and procedures for ensuring secure storage of, and protecting access to, trained model weights; and
+( 2) Any cybersecurity or insider threat events that have occurred in the last four years that have resulted in unauthorized access to model weights or model source code, or other damages of major concern.
+(2) Follow-up report. A follow-up report filed pursuant to a request for additional information in paragraph (c) of this section shall include all information responsive to the request.
+(3) Corrected report. A corrected report required to be filed pursuant to paragraph (c) of this section shall correct all inaccuracies in the information previously reported to BIS.
+(e) Request for additional information. Upon receiving an initial report, follow-up report, or corrected report, BIS may request that a U.S. IaaS provider or foreign reseller of U.S. IaaS products submit additional information pertaining to activities or risks that present concerns to U.S. national security.
+(f) Prohibition. No U.S. IaaS provider shall provide U.S. IaaS products to foreign resellers, unless the U.S. IaaS provider has made all reasonable efforts to ensure that the foreign reseller complies with the requirements of this section. Upon receipt of evidence, or upon discovery of facts and circumstances that indicate that a foreign reseller has not complied with the requirements of this section, the U.S. IaaS provider shall notify the foreign reseller of the alleged violation and request written confirmation and supporting evidence of compliance, remediation, or both. Upon subsequent receipt of evidence, or discovery of facts and circumstances that indicate the foreign reseller did not remediate, or remains out of compliance, the U.S. IaaS provider must suspend the provision of U.S. IaaS products to the foreign reseller, and shall resume provision of U.S. IaaS products only after the foreign reseller has provided adequate assurances to prevent future violations.
+§ 7.309
+Enforcement.
+(a) Prohibitions. The following are prohibited:
+(1) Engaging in, or conspiring to engage in, any conduct prohibited by the regulations issued in this part.
+(2) Failing to submit reports, certifications, or recertifications, as appropriate, or failing to comply with terms of notices or orders provided by the Department, and as required by this subpart.
+(3) Failing to implement or maintain CIPs as required by § 7.302, or continuing to transact with a foreign reseller that fails to implement or maintain a CIP as set forth in § 7.303.
+(4) Providing IaaS products to a foreign person while failing to comply with any direction, determination, or condition issued under this part.
+(5) Aiding, abetting, counseling, commanding, inducing, procuring, permitting, approving, or otherwise supporting any act prohibited by any direction, determination, or condition issued under this part.
+(6) Attempting or soliciting a violation of any direction, determination, or condition issued under this part.
+(7) Failing to implement any prohibition or suspension as set forth in § 7.308.
+(8) Making a false or misleading representation, statement, notification, or certification, whether directly or indirectly through any other person, or falsifying or concealing any material fact to the Department in connection with compliance under this part.
+(b) Additional obligations. (1) Any person who makes a representation, statement, or certification to the Department relating to the creation or maintenance of a CIP, reporting required under the CIP, in a written request for an exemption, an annual notification related to exemptions, or in relation to their own or another entities ADP shall notify the Department of any material change to the CIP or to the IaaS provider's business, that renders the CIP unnecessary.
+(2) Any person who has been granted, or has had a foreign reseller granted, an exemption on the basis of their ADP shall notify the Department of any material change to the ADP or to the IaaS provider's business that may impact the ADP.
+(3) For purposes of paragraph (a)(8) of this section, any representation, statement, or certification, such as (though not limited to) CIPs, written request for exemption, or written statements on ADPs made by any person shall be deemed to be continuing in effect until the person notifies the Department in accordance with this part.
+(c) Maximum penalties —(1) Civil penalty. A civil penalty not to exceed the amount set forth in section 206 of IEEPA, 50 U.S.C. 1705, may be imposed on any person who violates, attempts to violate, conspires to violate, or knowingly causes any violation of paragraph (a) of this section. IEEPA provides for a maximum civil penalty not to exceed the greater of $250,000 per violation, subject to inflationary adjustment, or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(i) Notice of the penalty, including a written explanation of the penalized conduct specifying the laws and regulations allegedly violated and the amount of the proposed penalty, and notifying the recipient of a right to make a written petition within 30 calendar days as to why a penalty should not be imposed, shall be served on the notified party or parties.
+(ii) The Secretary shall review any presentation and issue a final administrative decision within 30 calendar days of receipt of the petition.
+(2) Criminal penalty. A person who willfully commits, attempts to commit, or conspires to commit, or aids and abets in the commission of a violation of paragraph (a) of this section shall, upon conviction of a violation of IEEPA, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
+(3) Civil penalty recovery. Any civil penalties authorized in this section may be recovered in a civil action brought by the United States in U.S. district court.
+(d) Adjustments to penalty amounts. (1) The civil penalties provided in IEEPA are subject to adjustment pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, as amended, 28 U.S.C. 2461 note).
+(2) The criminal penalties provided in IEEPA are subject to adjustment pursuant to 18 U.S.C. 3571.
+(e) Other penalities. The penalties available under this section are without prejudice to other penalties, civil or criminal, available under law. Attention is directed to 18 U.S.C. 1001, which provides that whoever, in any matter within the jurisdiction of any department or agency in the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined under title 18, United States Code, or imprisoned not more than 5 years, or both.
+§ 7.310
+Reporting violations.
+(a) Where to report. If a person learns of facts or circumstances that indicate a violation of any of the requirements in this subpart may have occurred, or are likely to occur, that person may notify: Office of Information and Communications Technology and Services, Bureau of Industry and Security, U.S. Department of Commerce, 14th Street and Constitution Avenue NW, Room A-100, Washington, DC 20230.
+(b) Reporting distinguished. The reporting provisions in paragraph (a) of this section are not the “reporting of violations” contained within the Export Administration Regulations (EAR) in 15 CFR chapter VII, subchapter C, nor the “voluntary self-disclosure” within the same.
+Alan F. Estevez,
+Under Secretary of Commerce for Industry and Security, U.S. Department of Commerce.

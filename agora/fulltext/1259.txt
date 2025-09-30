@@ -1,0 +1,95 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Validation and Evaluation for Trustworthy (VET) Artificial Intelligence Act” or the “VET Artificial Intelligence Act”.
+SEC. 2. PURPOSES.
+The purposes of this Act are—
+(1) to develop consensus-driven, evidence-based voluntary guidelines and specifications for internal and external assurances through the testing, evaluation, validation, and verification of artificial intelligence systems, as appropriate based on the intended application, use-case, and risk profile of the artificial intelligence system;
+(2) to use meaningful assurance to supplement methodologies used to build trust in artificial intelligence systems, increase adoption of artificial intelligence systems, and provide for accountability and governance of artificial intelligence systems; and
+(3) to further the goals of the Artificial Intelligence Risk Management Framework, including any successor framework, published by the National Institute of Standards and Technology and the Artificial Intelligence Safety Institute pursuant to section 22A(c) of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1(c)).SEC. 3. DEFINITIONS.
+In this Act:
+(1) ARTIFICIAL INTELLIGENCE.—The term “artificial intelligence” has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+(2) ARTIFICIAL INTELLIGENCE SYSTEM.—The term “artificial intelligence system” has the meaning given such term in section 7223 of the Advancing American AI Act (40 U.S.C. 11301 note).
+(3) DEPLOYER.—The term “deployer” means an entity that operates an artificial intelligence system for internal use or for use by a third party.
+(4) DEVELOPER.—The term “developer”—
+(A) means an entity that builds, designs, codes, produces, trains, or owns an artificial intelligence system for internal use or for use by a third party; and
+(B) does not include an entity that is solely a deployer of the artificial intelligence system.
+(5) DIRECTOR.—The term “Director” means the Director of the National Institute of Standards and Technology.
+(6) EXTERNAL ARTIFICIAL INTELLIGENCE ASSURANCE.—The term “external artificial intelligence assurance” means an independent and impartial evaluation of an artificial intelligence system conducted by a nonaffiliated third party in accordance with the voluntary assurance guidelines and specifications described in section 4 or consensus-driven voluntary standards, for the purpose of—
+(A) verifying claims with respect to the functionality and testing of the artificial intelligence system, including verifying whether it is fit for its intended purpose; or
+(B) identifying any significant error or inconsistency in the testing, risk management processes, or internal governance, any substantial vulnerability, or any negative societal impact of the artificial intelligence system.
+(7) INTERNAL ARTIFICIAL INTELLIGENCE ASSURANCE.—The term “internal artificial intelligence assurance” means an independent evaluation of an artificial intelligence system conducted by the party being evaluated with an internal reporting structure that encourages impartial evaluations and prevents conflicts of interest, for the purpose of—
+(A) verifying claims with respect to the functionality and testing of the artificial intelligence system, including verifying whether it is fit for its intended purpose; or
+(B) identifying any significant error or inconsistency in the testing, risk management processes, or internal governance, any substantial vulnerability, or any negative societal impact of the artificial intelligence system.
+(8) NONAFFILIATED THIRD PARTY.—The term “nonaffiliated third party” with respect to the evaluation of an artificial intelligence system, means a person who—
+(A) is not related by common ownership or affiliated by common corporate control with the developer or deployer of the artificial intelligence system;
+(B) can demonstrate financial independence from the developer or deployer of the artificial intelligence system;
+(C) does not employ any individual, who is also employed by the developer or deployer of the artificial intelligence system; and
+(D) is a qualified evaluator of artificial intelligence systems as determined by the voluntary guidelines and specifications recommended under section 4(b)(6), with—
+(i) demonstrated expertise in relevant technical domains, including—
+(I) data privacy and security principles; and
+(II) risk management practices in artificial intelligence; and
+(ii) familiarity with the relevant details regarding the type of artificial intelligence system being evaluated.
+(9) SECRETARY.—The term “Secretary” means the Secretary of Commerce.SEC. 4. VOLUNTARY ASSURANCE GUIDELINES AND SPECIFICATIONS FOR ARTIFICIAL INTELLIGENCE SYSTEMS.
+(a) Voluntary Guidelines And Specifications For Assurance.—Not later than 1 year after the date of the enactment of this Act, the Director, in collaboration with public and private sector organizations, including the National Science Foundation and the Department of Energy, shall develop and periodically update as the Director considers appropriate, a set of voluntary guidelines and specifications for internal artificial intelligence assurance and external artificial intelligence assurance.
+(b) Contents.—The guidelines and specifications required by subsection (a) shall—
+(1) identify consensus-driven, voluntary standards for internal artificial intelligence assurance and external artificial intelligence assurance that address—
+(A) safeguards for consumer privacy;
+(B) methods to assess and mitigate harms to individuals by artificial intelligence systems;
+(C) dataset quality;
+(D) documentation, disclosure, and provenance communications to external parties; and
+(E) governance and process controls;
+(2) provide guidelines, best practices, methodologies, procedures, and processes, as appropriate, for internal artificial intelligence assurance and external artificial intelligence assurance that effectively address the elements listed in paragraph (1);
+(3) establish common definitions and characterizations for testing, evaluating, verifying, and validating methods for internal artificial intelligence assurance and external artificial intelligence assurance;
+(4) recommend criteria or approaches for a developer or deployer to determine the frequency and circumstances under which internal artificial intelligence assurance and external artificial intelligence assurance activities should be conducted, accounting for the relevant risk and use-case profile of the artificial intelligence system, and any additional circumstance under which an assurance should be conducted;
+(5) recommend criteria or approaches for a developer or deployer to determine the scope of internal artificial intelligence assurance and external artificial intelligence assurance conducted through testing and evaluating, accounting for the relevant risk and use-case profile of the artificial intelligence system, including the minimum information or technical resources that should be provided to the party conducting the assurance to enable assurance activities;
+(6) recommend the appropriate qualifications, expertise, professional licensing, and accountability that a party conducting internal artificial intelligence assurance or external artificial intelligence assurance should have with respect to—
+(A) the type of artificial intelligence system under evaluation; and
+(B) the internal and external assurance processes;
+(7) provide guidance for the manner in which a developer or deployer may disclose, as appropriate, the results of an internal or external assurance or carry out corrective actions with respect to an artificial intelligence system following the completion of an internal or external assurance of such system, and guidance on the manner in which a developer or deployer may properly document any corrective action taken;
+(8) align with the voluntary consensus standards, including international standards, identified pursuant to paragraph (1) to the fullest extent possible;
+(9) incorporate the relevant voluntary consensus standards identified pursuant to paragraph (1) and industry best practices to the fullest extent possible;
+(10) not prescribe or otherwise require—
+(A) the use of any specific solution; or
+(B) the use of any specific information or any communications technology product or service; and
+(11) recommend methods to protect the confidentiality of sensitive information, including personal data and proprietary knowledge of an artificial intelligence system, that may be obtained during the assurance process.
+(c) Stakeholder Outreach.—In developing the voluntary guidelines and specifications required by subsection (a), the Director shall—
+(1) solicit public comment on at least 1 draft of the guidelines and specifications, and provide a reasonable period of not less than 30 days for the submission of comments by interested stakeholders;
+(2) make each draft of the voluntary guidelines and specifications developed under subsection (a) available to the public on the website of the National Institute of Standards and Technology; and
+(3) convene workshops, roundtables, and other public forums, as the Director considers appropriate, to consult with relevant stakeholders in industry, academia, civil society, consumer advocacy, workforce development organizations, labor organizations, conformance assessment bodies, and any other sector the Director considers appropriate, on the development of the voluntary guidelines and specifications.
+(d) Publication.—The Director shall publish the voluntary guidelines and specifications required by subsection (a)—
+(1) as a standalone framework or document available to the public on the website of the National Institute of Standards and Technology; or
+(2) as a component of—
+(A) any successor of the Artificial Intelligence Risk Management Framework developed and updated pursuant to section 22A(c) of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1(c)); or
+(B) any guidance issued by the Artificial Intelligence Safety Institute.SEC. 5. QUALIFICATIONS ADVISORY COMMITTEE.
+(a) Advisory Committee.—Not later than 90 days after the date on which the Director publishes the voluntary guidelines and specifications required under section 4(a), the Secretary shall establish the Artificial Intelligence Assurance Qualifications Advisory Committee (referred to in this section as the “Advisory Committee”).
+(b) Membership.—The Secretary shall appoint to the Advisory Committee not more than 15 individuals with expertise relating to artificial intelligence systems, including at least 1 representative from each of the following:
+(1) Institutions of higher education.
+(2) Organizations developing artificial intelligence systems.
+(3) Organizations deploying artificial intelligence systems.
+(4) Organizations assessing artificial intelligence systems.
+(5) Consumers or consumer advocacy groups.
+(6) Public health organizations.
+(7) Public safety organizations.
+(8) Civil rights organizations.
+(9) Professional accreditation organizations.
+(10) Workforce development organizations.
+(11) Labor organizations.
+(c) Duties.—The Advisory Committee shall—
+(1) review and assess case studies from entities that provide licensure, certification, or accreditation to independent organizations with a primary mission of verifying compliance with applicable statutes, regulations, standards, or guidelines; and
+(2) determine the applicability of the case studies reviewed and assessed under paragraph (1) to the development, maintenance, and use of artificial intelligence systems for the purpose of developing recommendations under subsection (d).
+(d) Recommendations.—Not later than 1 year after the date on which the Secretary establishes the Advisory Committee under this section, the Advisory Committee shall submit to the Secretary and Congress and make publicly available a report that includes recommendations for the Secretary to consider regarding—
+(1) the qualifications, expertise, professional licensing, independence, and accountability that a party conducting an assurance of an artificial intelligence system should have, including with respect to the type of artificial intelligence system under evaluation and the internal and external assurance processes; and
+(2) whether accreditation for internal artificial intelligence assurance and external artificial intelligence assurance can be met through a combination of existing licensure, certification, or accreditation programs.
+(e) Termination.—The Advisory Committee shall terminate not later than 1 year after the date on which the Advisory Committee submits the recommendations required under subsection (d).SEC. 6. STUDY AND REPORT ON ENTITIES THAT CONDUCT ASSURANCES OF ARTIFICIAL INTELLIGENCE SYSTEMS.
+(a) Study.—Not later than 90 days after the date on which the Director publishes the voluntary guidelines and specifications required under section 4(a), the Secretary shall commence a study to evaluate the capabilities of the sector of entities that conduct internal artificial intelligence assurances and external artificial intelligence assurances.
+(b) Considerations.—In carrying out the study required by subsection (a), the Secretary shall—
+(1) assess the capabilities of the sector of entities described in subsection (a) with respect to personnel, technical tools, evaluation methods, computing infrastructure, and physical infrastructure and whether such capabilities are adequate for providing internal artificial intelligence assurances or external artificial intelligence assurances that comport with the voluntary guidelines and specifications required under section 4(a);
+(2) review the features, best practices, and safeguards employed by such entities to maintain the integrity of confidential or proprietary information of a developer or deployer during an internal artificial intelligence assurance or an external artificial intelligence assurance;
+(3) assess the market demand for internal artificial intelligence assurances and external artificial intelligence assurances and the availability of such assurers; and
+(4) assess the feasibility of leveraging an existing facility accredited by the Director under the National Voluntary Laboratory Accreditation Program established under section 285 of title 15, Code of Federal Regulations, to conduct external assurances of artificial intelligence systems.
+(c) Report.—Not later than 1 year after the date on which the Secretary commences the study required by subsection (a), the Secretary shall submit to the appropriate committees of Congress and the head of any Federal agency that the Secretary considers relevant, a report that contains the results of the study required by subsection (a), including—
+(1) recommendations for improving the capabilities and the availability of the entities assessed in the study;
+(2) descriptions of the features, best practices, and safeguards of the entities studied and the effectiveness of such features, practices, or safeguards at implementing the voluntary guidelines and specifications required under section 4(a) and at maintaining the integrity of confidential and proprietary information, as described under subsection (b)(2); and
+(3) any conclusions drawn from the assessment of the facilities described in subsection (b)(4).
+(d) Appropriate Committees Of Congress Defined.—In this section, the term the “appropriate committees of Congress” means—
+(1) the Committee of Commerce, Science, and Transportation of the Senate; and
+(2) the Committee on Science, Space, and Technology of the House of Representatives.

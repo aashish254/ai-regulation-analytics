@@ -1,0 +1,175 @@
+A BILL
+To amend title 10, United States Code, to preserve and recapitalize the fighter aircraft capabilities of the Air Force and its reserve components, and for other purposes.
+
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+
+SECTION 1. Short title.
+
+
+This Act may be cited as the “Fighter Force Preservation and Recapitalization Act of 2025”.
+
+
+SEC. 2. Minimum number of fighter aircraft in the Air Force and reserve components of the Air Force.
+
+
+Section 9062(i) of title 10, United Stats Code, is amended—
+
+
+(1) in paragraph (1)—
+(A) by striking “During” and inserting “Except as provided in paragraph (2), during”;
+(B) by striking “October 1, 2026” and inserting “October 1, 2030”;
+(C) by striking “1,800” and inserting “1,900”; and
+(D) by striking “1,145” and inserting “1,200”;
+
+
+(2) by redesignating paragraph (2) as paragraph (3);
+
+
+(3) by inserting after paragraph (1) the following new paragraph (2):
+
+
+“(2) (A) Subject to subparagraphs (B) and (C), the Secretary of Defense may temporarily reduce the total aircraft inventory required by paragraph (1) to enable recapitalization of units transitioning from one combat-coded mission fighter aircraft to a new combat-coded fighter aircraft.
+
+
+“(B) A temporary reduction authorized under subparagraph (A) shall not—
+“(i) result in less than 1,800 aircraft in the total aircraft inventory of fighter aircraft at any given time; or
+“(ii) exceed two years.
+
+
+“(C) (i) Before authorizing a temporary reduction under subparagraph (A), the Secretary of Defense shall—
+“(I) provide notification to the congressional defense committees; and
+“(II) identify in such notification the specific units to be recapitalized.
+“(ii) The Secretary of Defense may satisfy the requirement for notification under this subparagraph if the Secretary includes such notification in a fiscal-year quarterly report required by subsection (n).”; and
+
+
+(4) in paragraph (3), as redesignated by paragraph (2), by striking “In this subsection:” and all that follows through “The term ‘primary mission aircraft inventory’ means” and inserting “In this subsection, the term ‘primary mission aircraft inventory’ means”.
+
+
+SEC. 3. Annual report on status of total fighter aircraft inventory.
+
+
+Section 9062 of title 10, United States Code, as amended by section 2, is further amended by adding at the end the following new subsection:
+
+
+“(n) (1) Not later than 90 days after the date of the enactment of the Fighter Force Preservation and Recapitalization Act of 2025, and at the end of each fiscal-year quarter thereafter through September 30, 2030, the Secretary of the Air Force shall submit to the congressional defense committees a report describing the status of the total aircraft inventory requirement for fighter aircraft established by subsection (i).
+
+
+“(2) Each report required by paragraph (1) shall include the following:
+“(A) The overall number of new advanced capability fighter aircraft, fifth-generation fighter aircraft, and next-generation air dominance fighter aircraft received by the Air Force during the fiscal-year quarter covered by the report.
+“(B) The mission design series prefix of each airframe received.
+“(C) The vendor from which each new fighter aircraft was received.
+“(D) The number of new advanced capability fighter aircraft and fifth-generation fighter aircraft assigned to units of the Regular Air Force, the Air Force Reserve, and the Air National Guard during the fiscal-year quarter covered by the report.
+“(E) The distribution ratios of new fighter aircraft received from vendors during the fiscal-year covered by the report and assigned to units of the Regular Air Force, the Air Force Reserve, and the Air National Guard, including—
+“(i) the percentage of total new advanced capability fighter aircraft and new fifth-generation fighter aircraft received that were assigned to each component (Regular Air Force, Air Force Reserve, and Air National Guard); and
+“(ii) the percentage of aircraft assigned to each component, disaggregated by mission design series prefix.
+“(F) The number of legacy capability fighter aircraft retired or divested by the Regular Air Force, the Air Force Reserve, and the Air National Guard during the fiscal-year quarter covered by the report, disaggregated by unit.
+“(G) An identification of fighter aircraft units scheduled for recapitalization, including any associated authorizations for a temporary reduction in the minimum total aircraft inventory level for fighter aircraft established by subsection (i).
+“(H) Any notable trends, issues, or challenges related to the receipt and assignment of new fighter aircraft during the fiscal-year quarter covered by the report, including any delays, discrepancies, or other factors that may have impacted such receipt or assignment.
+
+
+“(3) Each report required by paragraph (1) shall be submitted in unclassified form, unless the Secretary of the Air Force determines that the inclusion of classified information in the report is necessary, in which case the report may be submitted in classified form or with classified annexes or sections.
+
+
+“(4) Notwithstanding any other provision of law, if the Secretary of the Air Force does not submit a report required by paragraph (1) to the congressional defense committees by the deadline established by such paragraph, no funds may be obligated or expended for travel by the Secretary of the Air Force until the report is submitted.”.
+
+
+SEC. 4. Recapitalization prioritization of Air Force service-retained fighter fleet.
+
+
+Section 9062 of title 10, United States Code, as amended by sections 2 and 3, is further amended by adding at the end the following new subsection:
+
+
+“(o) (1) The Secretary of the Air Force shall ensure that for every four new advanced capability fighter aircraft, fifth-generation fighter aircraft, and next-generation air dominance fighter aircraft accepted by the Air Force, not less than three shall be assigned and delivered to a fighter aircraft squadron of the Air Force that—
+“(A) exists as of the date of the enactment of the Fighter Force Preservation and Recapitalization Act of 2025; and
+“(B) is service retained.
+
+
+“(2) For each new advanced capability fighter aircraft, fifth-generation fighter aircraft, or next-generation air dominance fighter aircraft assigned and delivered to a fighter aircraft squadron under paragraph (1), the Secretary of the Air Force may retire a legacy capability fighter aircraft from that squadron on a one-for-one basis.”.
+
+
+SEC. 5. Preservation and recapitalization of Air National Guard fighter fleet.
+
+
+Section 9062 of title 10, United States Code, as amended by sections 2 through 4, is further amended by adding at the end the following new subsection:
+
+
+“(p) (1) Except as provided in paragraphs (2) and (3), during the period beginning on December 23, 2024, and ending on October 1, 2030, the Secretary of the Air Force—
+“(A) shall maintain not less than 25 fighter aircraft squadrons of the Air National Guard, including the 25 fighter aircraft squadrons of the Air National Guard in existence as of December 23, 2024; and
+“(B) may not retire, reduce funding for, or place in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as ‘XJ’ status) any legacy capability fighter aircraft or fifth-generation fighter aircraft assigned to any of the 25 fighter aircraft squadrons of the Air National Guard in existence as of December 23, 2024.
+
+
+“(2) The prohibition under paragraph (1)(B) shall not apply to individual legacy capability fighter aircraft, advanced capability fighter aircraft, or fifth-generation fighter aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+
+
+“(3) For each new advanced capability fighter aircraft or fifth-generation fighter aircraft assigned and delivered to a fighter aircraft squadron maintained under paragraph (1)(A), the Secretary of the Air Force may retire a legacy capability fighter aircraft from that squadron on a one-for-one basis.
+
+
+“(4) Section 2244a of this title shall not apply to the implementation of this subsection.”.
+
+
+SEC. 6. Annual recapitalization plan for Air National Guard fighter fleet.
+
+
+Section 9062 of title 10, United States Code, as amended by sections 2 through 5, is further amended by adding at the end the following new subsection:
+
+
+“(q) (1) The Secretary of the Air Force, in consultation with the Director of the Air National Guard, shall annually develop a plan to recapitalize the fighter fleet of the Air National Guard.
+
+
+“(2) The plan required under paragraph (1) shall—
+“(A) identify each of the 25 fighter aircraft squadrons of the Air National Guard in existence on the date of the enactment of this subsection;
+“(B) provide a plan for recapitalization of all such squadrons at a similar rate as the fighter aircraft squadrons of the active components of the Armed Forces, with the same combination of legacy capability fighter aircraft and advanced capability fighter aircraft found in fighter aircraft squadrons of the active Air Force;
+“(C) establish a timetable for a plan or actions for the recapitalization proposed under subparagraph (B) through October 1, 2030, disaggregated by fighter aircraft squadron and fiscal year, which shall identify funding required for each fiscal year;
+“(D) assess budgetary effects on the active components of the Armed Forces if the recapitalization plan proposed under subparagraph (B) were implemented in accordance with the timeline established under subparagraph (C);
+“(E) assess the effects of such plan on the operational readiness and personnel readiness of the active and reserve components of the Armed Forces, including the effects of such plan on the ability of such components to meet steady state and contingency force presentation and mission requirements of combatant commanders; and
+“(F) examine the feasibility of acquiring F–16 Block 70 fighter aircraft for the Air National Guard.
+
+
+“(3) (A) Not later than July 1 of each year through July 1, 2030, the Secretary of the Air Force shall submit to the congressional defense committees a report that includes the plan required under paragraph (1).
+“(B) The report required under subparagraph (A) shall be submitted in unclassified form, but may contain a classified annex.”.
+
+
+SEC. 7. Definitions.
+
+
+Section 9062 of title 10, United States Code, as amended by sections 2 through 6, is further amended by adding at the end the following new subsection:
+
+
+“(r) In this section:
+
+
+“(1) The term ‘advanced capability fighter aircraft’—
+“(A) means any new production variant of an airframe type specified in paragraph (4), including—
+“(i) the F–16 Block 70/72 and any subsequent block; and
+“(ii) the F–15EX and any subsequent variant; and
+“(B) does not include a modified or upgraded version of a legacy capability fighter aircraft.
+
+
+“(2) The term ‘fifth-generation fighter aircraft’ means an F–22 aircraft or an F–35 aircraft.
+
+
+“(3) The term ‘fighter aircraft’ means an aircraft that—
+“(A) is designated by a mission design series prefix of F– or A–;
+“(B) includes one or two crewmembers on board the aircraft when in operation; and
+“(C) (i) executes single-role or multi-role missions, including air-to-air combat, air-to-ground attack, air interdiction, suppression or destruction of enemy air defenses, close air support, strike control and reconnaissance, combat search and rescue support, or airborne forward air control; or
+“(ii) operates collaboratively with an uncrewed aircraft operating semi-autonomously in proximity.
+
+
+“(4) The term ‘legacy capability fighter aircraft’ means a pre-fifth-generation fighter aircraft, including—
+“(A) an F–16 aircraft, whether pre-block or post-block;
+“(B) an F–15C/D/E aircraft; or
+“(C) an A–10C aircraft.
+
+
+“(5) The term ‘next-generation air dominance fighter aircraft’—
+“(A) means—
+“(i) a sixth-generation fighter aircraft capable of interacting collaboratively with uncrewed aircraft operating semi-autonomously in proximity; or
+“(ii) any other fighter aircraft referenced or designated as a sixth-generation airframe; and
+“(B) does not include uncrewed fighter-type aircraft.
+
+
+“(6) The term ‘service retained’, with respect to a fighter aircraft unit or a fighter aircraft, means that the unit or aircraft—
+“(A) is controlled by the Regular Air Force, the Air Force Reserve, or the Air National Guard for operational, training, or administrative purposes of the component concerned; and
+“(B) is not assigned to, or under the operational control of, a combatant command or joint task force.”.

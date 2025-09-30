@@ -1,0 +1,38 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Expanding AI Voices through Capacity Building Act” or the “Expanding AI Voices Act”.
+SEC. 2. EXPANDING CAPACITY IN ARTIFICIAL INTELLIGENCE SCIENCE.
+Section 5401 of the National AI Initiative Act (15 U.S.C. 9451; enacted as part of title LIV of division E of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021; Public Law 116–283) is amended by—
+(1) redesignating subsection (g) as subsection (h); and
+(2) inserting after subsection (f) the following new subsection:
+“(g) Expanding Capacity In Artificial Intelligence.—
+“(1) IN GENERAL.—The Director of the National Science Foundation, in consultation with the heads of Federal agencies the Director considers appropriate, shall make awards on a competitive, merit-reviewed basis to eligible institutions of higher education specified in paragraph (2) or eligible nonprofit organizations (or consortia thereof) to broaden participation in artificial intelligence research, education, and workforce development by increasing the ability of the United States to increase capacity and partnerships for artificial intelligence research and development.
+“(2) ELIGIBLE INSTITUTIONS OF HIGHER EDUCATION SPECIFIED.—Eligible institution of higher education specified in this paragraph the following:
+“(A) An institution of higher education, that, according to the data published by the National Center for Science and Engineering Statistics, is not, on average, among the top 100 institutions in Federal research and development expenditures during the 3-year period prior to the year of the award concerned.
+“(B) A historically Black college or university.
+“(C) A minority-serving institution.
+“(C) A Tribal College or University.
+“(D) A consortia of any of the entities specified in subparagraphs (A) through (C).
+“(3) COLLABORATIONS.—A consortia receiving an award under this subsection may include the following:
+“(A) Mutually beneficial partnerships with institutions of higher education, nonprofit organizations, Federal agencies, State, territorial, local, and Tribal governments, and private sector entities.
+“(B) Developing partnerships with artificial intelligence research institutes established as part of section 5201 of this Act (15 U.S.C. 9431) or recipients of other relevant awards made by the Foundation.
+“(4) USE OF FUNDS.—In carrying out the activities under this subsection, an eligible institutions of higher education or eligible nonprofit organization (or consortia thereof) shall carry out one or more of the following:
+“(A) Development or expansion of research programs in artificial intelligence and related disciplines.
+“(B) Faculty recruitment and professional development in artificial intelligence and related disciplines.
+“(C) Bridge programs focused on preparing post-baccalaureate students for graduate programs in artificial intelligence and related disciplines.
+“(D) To provide or broker access to research resources, including computing resources, networking, data facilities, and software engineering support for artificial intelligence research and development.
+“(E) Community building activities to foster mutually beneficial public-private collaboration with Federal research agencies, industry, Federal laboratories, academia, and nonprofit organizations.
+“(F) Development and hosting of intra- or inter-institutional workshops to broaden workforce participation in artificial intelligence research and development.
+“(G) Activities to integrate ethical and responsible practices and principles into education programs in artificial intelligence and related disciplines.
+“(H) Other activities necessary to build research capacity, education pathways, and workforce development pathways in artificial intelligence and related disciplines.
+“(5) OUTREACH.—The Director of the National Science Foundation shall—
+“(A) conduct outreach to eligible institutions of higher education and eligible nonprofit organizations to apply for awards under this subsection; and
+“(B) engage participants from all regions of the United States, especially individuals from underserved communities and groups historically underrepresented in science, technology, engineering, and mathematics.
+“(6) DUPLICATION.—The Director of the National Science Foundation shall ensure awards made under this section are complimentary to, and not duplicative of, awards made under existing programs.“(7) ADDITIONAL CONSIDERATIONS.—In making awards under this subsection, the Director of the National Science Foundation may also consider the following:
+“(A) The extent to which the eligible institutions of higher education and eligible nonprofit organizations applying for awards under this subsection support students from diverse backgrounds, including first-generation undergraduate students.
+“(B) The geographic diversity of such institutions and organizations.
+“(C) Relative resource constraints of such institutions and organizations.
+“(8) DEFINITIONS.—In this subsection:
+“(A) HISTORICALLY BLACK COLLEGE OR UNIVERSITY.—The term ‘historically Black college or university’ has the meaning given the term ‘part B institution’ in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+“(B) MINORITY-SERVING INSTITUTION.—The term ‘minority-serving institution’ means a Hispanic-serving institution as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)); an Alaska Native-serving institution or Native Hawaiian-serving institution as defined in section 317(b) of such Act (20 U.S.C. 1059d(b)); or a predominantly Black institution, Asian American and Native American Pacific Islander-serving institution, or Native American-serving nontribal institution as defined in section 371(c) of such Act (20 U.S.C. 1067q(c)).
+“(C) NONPROFIT ORGANIZATION.—The term ‘nonprofit organization’ means an organization which is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such code.
+“(D) TRIBAL COLLEGE OR UNIVERSITY.—The term ‘Tribal College or University’ has the meaning given such term in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).”.

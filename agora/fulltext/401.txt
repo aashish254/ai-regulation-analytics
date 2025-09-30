@@ -1,0 +1,19 @@
+SECTION 1. SHORT TITLE.
+This Act may be cited as the “Closing Loopholes for the Overseas Use and Development of Artificial Intelligence Act” or the “CLOUD AI Act”.SEC. 2. FINDINGS.
+Congress makes the following findings:
+(1) The People’s Republic of China, the Russian Federation, and other adversarial countries have taken actions to undermine global stability as well as the United States national security and foreign policy objectives.
+(2) China has used commercially available civilian technology to modernize its military forces in a policy known as military-civil fusion.
+(3) As part of its policy of military-civil fusion, China is working to modernize its nuclear, chemical, missile, and biological weapons capacity.
+(4) The United States and its allies have long regulated items and activities that support the development, production, or use of otherwise commercial items if those items are aid in the development, production, or use of nuclear, chemical, missile, or biological weapons.
+(5) Artificial intelligence tools could be used to support the development, production, or use of nuclear, chemical, missile, or biological weapons or enhance the destructive capabilities of those weapons.
+(6) Advanced semiconductors and supercomputer components such as graphics processing units can be used to develop or train artificial intelligence tools and models.
+(7) In October 2022, the Department of Commerce promulgated export control rules to prevent the export of advanced semiconductors and supercomputer components to China or Macau.
+(8) Notwithstanding these controls, recent reporting indicates that though entities located in China and Macau can no longer purchase and import advanced semiconductors and supercomputer components because of the October 2022 export controls, Chinese entities are still developing artificial intelligence tools and models by purchasing remote and cloud access to these same advanced components to train artificial intelligence models and tools.SEC. 3. PROHIBITION ON SUPPORT FOR REMOTE USE OR CLOUD USE OF INTEGRATED CIRCUITS LISTED UNDER EXPORT CONTROL CLASSIFICATION NUMBER 3A090 AND 4A090 OF THE EXPORT ADMINISTRATION REGULATIONS BY ENTITIES LOCATED IN THE PEOPLE’S REPUBLIC OF CHINA OR MACAU.
+
+(a) In General.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Commerce shall prohibit United States persons and United States subsidiaries from providing support for the remote use or cloud use of any integrated circuit listed under Export Control Classification Number 3A090 and 4A090 of the Export Administration Regulations by an entity located in the People’s Republic of China or Macau.
+(b) Regulations.—The Secretary of Commerce shall issue such regulations as may be necessary to carry out this section.
+(c) Definitions.—In this section—
+(1) the term “Export Administration Regulations” means the regulations set forth in subchapter C of chapter VII of title 15, Code of Federal Regulations;
+(2) the term “support” has the meaning given that term in section 744.6 of title 15, Code of Federal Regulations;
+(3) the term “United States person” has the meaning given the term “U.S. Person” in section 772.1 of title 15, Code of Federal Regulations; and
+(4) the term “United States subsidiary” has the meaning given the term “U.S. Subsidiary” in section 772.1 of title 15, Code of Federal Regulations, notwithstanding the limitation applied with respect to encryption items in that definition.

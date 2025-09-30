@@ -1,0 +1,874 @@
+SECTION 1. Short title; table of contents.
+(a) Short title.—This Act may be cited as the “Artificial Intelligence Civil Rights Act of 2024”.
+
+(b) Table of contents.—The table of contents for this Act is as follows:
+
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+TITLE I—CIVIL RIGHTS
+
+Sec. 101. Discrimination.
+Sec. 102. Pre-deployment evaluations and post-deployment impact assessments.
+TITLE II—COVERED ALGORITHM AND CONTRACT STANDARDS
+
+Sec. 201. Covered algorithm standards.
+Sec. 202. Relationships between developers and deployers.
+Sec. 203. Human alternatives and other protections.
+TITLE III—TRANSPARENCY
+
+Sec. 301. Notice and disclosure.
+Sec. 302. Study on explanations regarding the use of covered algorithms.
+Sec. 303. Consumer awareness.
+TITLE IV—ENFORCEMENT
+
+Sec. 401. Enforcement by the Commission.
+Sec. 402. Enforcement by States.
+Sec. 403. Private right of action.
+Sec. 404. Severability.
+Sec. 405. Rules of construction.
+TITLE V—FEDERAL RESOURCES
+
+Sec. 501. Occupational series relating to algorithm auditing.
+Sec. 502. United States Digital Service algorithm auditors.
+Sec. 503. Additional Federal resources.
+
+SEC. 2. Definitions.
+In this Act:
+
+(1) COLLECT; COLLECTION.—The terms “collect” and “collection”, with respect to personal data, mean buying, renting, gathering, obtaining, receiving, accessing, or otherwise acquiring such data by any means.
+
+(2) COMMISSION.—The term “Commission” means the Federal Trade Commission.
+
+(3) CONSEQUENTIAL ACTION.—The term “consequential action” means an act that is likely to have a material effect on, or to materially contribute to, access to, security and authentication relating to, eligibility for, cost of, terms of, or conditions related to any of the following:
+
+(A) Employment, including hiring, pay, independent contracting, worker management, promotion, and termination.
+
+(B) Education and vocational training, including assessment, proctoring, promotion of academic integrity, accreditation, certification, admissions, and provision of financial aid and scholarships.
+
+(C) Housing and lodging, including rental and short-term housing and lodging, home appraisals, rental subsidies, and publicly supported housing.
+
+(D) Essential utilities, including electricity, heat, water, municipal trash or sewage services, internet and telecommunications service, and public transportation.
+
+(E) Health care, including mental health care, and dental, vision, and adoption services.
+
+(F) Credit, banking, and other financial services.
+
+(G) Insurance.
+
+(H) Actions of the criminal justice system, law enforcement or intelligence operations, immigration enforcement, border control (vetting, screening, and inspection), child protective services, child welfare, and family services, including risk and threat assessments, situational awareness and threat detection, investigations, watchlisting, bail determinations, sentencing, administration of parole, surveillance, use of unmanned vehicles and machines, and predictive policing.
+
+(I) Legal services, including court-appointed counsel services and alternative dispute resolution services.
+
+(J) Elections, including voting, redistricting, voter eligibility and registration, support or advocacy for a candidate for Federal, State, or local office, distribution of voting information, election security, and election administration.
+
+(K) Government benefits and services, as well as identity verification, fraud prevention, and assignment of penalties.
+
+(L) A public accommodation.
+
+(M) Any other service, program, product, or opportunity which has a comparable legal, material, or similarly significant effect on an individual’s life as determined by the Federal Trade Commission through rules promulgated pursuant to section 553 of title 5, United States Code.
+
+(4) COVERED ALGORITHM.—
+
+(A) IN GENERAL.—The term “covered algorithm” means a computational process derived from machine learning, natural language processing, artificial intelligence techniques, or other computational processing techniques of similar or greater complexity, that, with respect to a consequential action—
+
+(i) creates or facilitates the creation of a product or information;
+
+(ii) promotes, recommends, ranks, or otherwise affects the display or delivery of information that is material to the consequential action;
+
+(iii) makes a decision; or
+
+(iv) facilitates human decision making.
+
+(B) MODIFIED DEFINITION BY RULEMAKING.—The Commission may promulgate regulations under section 553 of title 5, United States Code, to modify the definition of the term “covered algorithm” as the Commission considers appropriate.
+
+(5) COVERED LANGUAGE.—The term “covered language” means the 10 languages with the most speakers in the United States, according to the most recent data collected by the United States Census Bureau.
+
+(6) DE-IDENTIFIED DATA.—The term “de-identified data” means information—
+
+(A) that does not identify and is not linked or reasonably linkable to an individual or a device, regardless of whether the information is aggregated; and
+
+(B) with respect to which any developer or deployer using such information—
+
+(i) takes reasonable technical measures to ensure that the information cannot, at any point, be used to re-identify any individual or device that identifies or is linked or reasonably linkable to an individual;
+
+(ii) publicly commits in a clear and conspicuous manner—
+
+(I) to process and transfer the information solely in a de-identified form without any reasonable means for re-identification; and
+
+(II) to not attempt to re-identify the information with any individual or device that identifies or is linked or reasonably linkable to an individual; and
+
+(iii) contractually obligates any person that receives the information from the developer or deployer—
+
+(I) to comply with all of the provisions of this paragraph with respect to such information; and
+
+(II) to require that such contractual obligations be included in all subsequent instances for which the information may be received.
+
+(7) DEPLOYER.—
+
+(A) IN GENERAL.—The term “deployer” means any person, other than an individual acting in a non-commercial context, that uses a covered algorithm in or affecting interstate commerce.
+
+(B) RULE OF CONSTRUCTION.—The terms “deployer” and “developer” shall not be interpreted to be mutually exclusive.
+
+(8) DEVELOPER.—
+
+(A) IN GENERAL.—The term “developer” means any person, other than an individual acting in a non-commercial context, that designs, codes, customizes, produces, or substantially modifies an algorithm that is intended or reasonably likely to be used as a covered algorithm for such person's own use, or use by a third party, in or affecting interstate commerce.
+
+(B) ASSUMPTION OF DEVELOPER RESPONSIBILITIES.—In the event that a deployer uses an algorithm as a covered algorithm, and no person is considered the developer of the algorithm for purposes of subparagraph (A), the deployer shall be considered the developer of the covered algorithm for the purposes of this Act.
+
+(C) RULE OF CONSTRUCTION.—The terms “developer” and “deployer” shall not be interpreted to be mutually exclusive.
+
+(9) DISPARATE IMPACT.—
+
+(A) IN GENERAL.—The term “disparate impact” means an unjustified differential effect on an individual or group of individuals on the basis of an actual or perceived protected characteristic.
+
+(B) UNJUSTIFIED DIFFERENTIAL EFFECT.—For purposes of subparagraph (A), with respect to the action, policy, or practice of a person, a differential effect is unjustified if—
+
+(i) the person fails to demonstrate that such action, policy, or practice causing the differential effect is necessary to achieve a substantial, legitimate, and nondiscriminatory interest; or
+
+(ii) in the event the person demonstrates such interest, an alternative action, policy, or practice could serve such interest with less differential effect.
+
+(C) APPLICATION TO COVERED ALGORITHMS.—With respect to demonstrating that a covered algorithm causes or contributes to a differential effect, the covered algorithm is presumed to be not separable for analysis and may be analyzed holistically as a single action, policy, or practice, unless the developer or deployer proves that the covered algorithm is separable by a preponderance of the evidence.
+
+(10) HARM.—The term “harm”, with respect to a consequential action, means a non-de minimis adverse effect on an individual or group of individuals—
+
+(A) on the basis of a protected characteristic;
+
+(B) that involves the use of force, coercion, harassment, intimidation, or detention; or
+
+(C) that involves the infringement of a right protected under the Constitution of the United States.
+
+(11) INDEPENDENT AUDITOR.—
+
+(A) IN GENERAL.—The term “independent auditor” means an individual that conducts a pre-deployment evaluation or impact assessment of a covered algorithm in a manner that exercises objective and impartial judgment on all issues within the scope of such evaluation or assessment.
+
+(B) EXCLUSION.—An individual is not an independent auditor of a covered algorithm if such individual—
+
+(i) is or was involved in using in a commercial context, developing, offering, licensing, or deploying the covered algorithm;
+
+(ii) at any point during the pre-deployment evaluation or impact assessment, has an employment relationship (including a contractor relationship) with a developer or deployer that uses, offers, or licenses the covered algorithm; or
+
+(iii) at any point during the pre-deployment evaluation or impact assessment, has a direct financial interest or a material indirect financial interest in a developer or deployer that uses, offers, or licenses a covered algorithm, not including routine payment for the auditing services described in subparagraph (A).
+
+(12) INDIVIDUAL.—The term “individual” means a natural person in the United States.
+
+(13) PERSONAL DATA.—
+
+(A) IN GENERAL.—The term “personal data”—
+
+(i) means information that identifies or is linked or reasonably linkable, alone or in combination with other information, to an individual or an individual's device; and
+
+(ii) shall include derived data and unique persistent identifiers.
+
+(B) EXCLUSION.—The term “personal data” does not include de-identified data.
+
+(14) PROCESS.—The term “process”, with respect to personal data, means to conduct or direct any operation or set of operations performed on such data, including analyzing, organizing, structuring, retaining, storing, using, or otherwise handling such data.
+
+(15) PROTECTED CHARACTERISTIC.—The term “protected characteristic” means any of the following actual or perceived traits of an individual or group of individuals:
+
+(A) Race.
+
+(B) Color.
+
+(C) Ethnicity.
+
+(D) National origin or nationality.
+
+(E) Religion.
+
+(F) Sex (including a sex stereotype, pregnancy, childbirth, or a related medical condition, sexual orientation or gender identity, and sex characteristics, including intersex traits).
+
+(G) Disability.
+
+(H) Limited English proficiency.
+
+(I) Biometric information.
+
+(J) Familial status.
+
+(K) Source of income.
+
+(L) Income level (not including the ability to pay for a specific good or service being offered).
+
+(M) Age.
+
+(N) Veteran status.
+
+(O) Genetic information or medical conditions.
+
+(P) Any other classification protected by Federal law.
+
+(16) PUBLIC ACCOMMODATION.—
+
+(A) IN GENERAL.—The term “public accommodation” means—
+
+(i) a business that offers goods or services to the general public, regardless of whether the business is operated for profit or operates from a physical facility;
+
+(ii) a park, road, or pedestrian pathway open to the general public;
+
+(iii) a means of public transportation; or
+
+(iv) a publicly owned or operated facility open to the general public.
+
+(B) EXCLUSIONS.—The term “public accommodation” does not include a private club or establishment described in section 101(b)(2).
+
+(17) STATE.—The term “State” means each of the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+(18) STATE DATA PROTECTION AUTHORITY.—The term “State data protection authority” means an independent public authority of a State that supervises, investigates, and regulates data protection and security law in the State, including handling complaints lodged against persons for violations of State and relevant Federal laws.
+
+(19) TRANSFER.—The term “transfer”, with respect to personal data, means to disclose, release, disseminate, make available, license, rent, or share such data orally, in writing, electronically, or by any other means.
+
+TITLE I—Civil rights
+
+SEC. 101. Discrimination.
+(a) In general.—A developer or deployer shall not offer, license, promote, sell, or use a covered algorithm in a manner that—
+
+(1) causes or contributes to a disparate impact in;
+
+(2) otherwise discriminates in; or
+
+(3) otherwise makes unavailable,
+
+the equal enjoyment of goods, services, or other activities or opportunities, related to a consequential action, on the basis of a protected characteristic.
+(b) Exceptions.—This section shall not apply to—
+
+(1) the offer, licensing, or use of a covered algorithm for the sole purpose of—
+
+(A) a developer’s or deployer’s self-testing (or auditing by an independent auditor at a developer's or deployer's request) to identify, prevent, or mitigate discrimination, or otherwise to ensure compliance with obligations, under Federal law; or
+
+(B) expanding an applicant, participant, or customer pool to raise the likelihood of increasing diversity or redressing historic discrimination; or
+
+(2) any private club or other establishment not in fact open to the public, as described in section 201(e) of the Civil Rights Act of 1964 (42 U.S.C. 2000a(e)).
+
+
+SEC. 102. Pre-deployment evaluations and post-deployment impact assessments.
+(a) Pre-Deployment evaluations.—Prior to deploying, licensing, or offering a covered algorithm (including deploying a material change to a previously-deployed covered algorithm or a material change made prior to deployment) for a consequential action, a developer or deployer shall conduct a pre-deployment evaluation in accordance with the following:
+
+(1) PRELIMINARY EVALUATION.—
+
+(A) PLAUSIBILITY OF HARM.—
+
+(i) DEVELOPERS.—The developer shall conduct a preliminary evaluation of the plausibility that any expected use of the covered algorithm may result in a harm.
+
+(ii) DEPLOYERS.—The deployer shall conduct a preliminary evaluation of the plausibility that any intended use of the covered algorithm may result in a harm.
+
+(B) RESULTS.—Based on the results of the preliminary evaluation, the developer or deployer shall—
+
+(i) in the event that a harm is not plausible, record a finding of no plausible harm, including a description of the developer’s expected use or the deployer’s intended use of the covered algorithm, how the preliminary evaluation was conducted, and an explanation for the finding, and submit such record to the Commission; and
+
+(ii) in the event that a harm is plausible, conduct a full pre-deployment evaluation as described in paragraph (2).
+
+(C) PREVIOUSLY-DEPLOYED COVERED ALGORITHMS.—When conducting a preliminary evaluation of a material change to, or new use of, a previously-deployed covered algorithm, the developer or deployer may limit the scope of the evaluation to whether use of the covered algorithm may result in a harm as a result of the material change or new use.
+
+(2) FULL PRE-DEPLOYMENT EVALUATION.—
+
+(A) FOR DEVELOPERS.—
+
+(i) INDEPENDENT AUDITOR EVALUATION.—If a developer determines a harm is plausible during the preliminary evaluation described in paragraph (1), the developer shall engage an independent auditor to conduct a pre-deployment evaluation.
+
+(ii) PRE-DEPLOYMENT EVALUATION REQUIREMENTS.—The evaluation required under clause (i) shall include a detailed review and description, sufficient for an individual having ordinary skill in the art to understand the functioning, risks, uses, benefits, limitations, and other pertinent attributes of the covered algorithm, including—
+
+(I) the covered algorithm’s design and methodology, including the inputs the covered algorithm is designed to use to produce an output and the outputs the covered algorithm is designed to produce;
+
+(II) how the covered algorithm was created, trained, and tested, including—
+
+(aa) any metric used to test the performance of the covered algorithm;
+
+(bb) defined benchmarks and goals that correspond to such metrics, including whether there was sufficient representation of demographic groups that are reasonably likely to use or be affected by the covered algorithm in the data used to create or train the algorithm, and whether there was sufficient testing across such demographic groups;
+
+(cc) the outputs the covered algorithm actually produces in testing;
+
+(dd) a description of any consultation with relevant stakeholders, including any communities that will be impacted by the covered algorithm, regarding the development of the covered algorithm, or a disclosure that no such consultation occurred;
+
+(ee) a description of which protected characteristics, if any, were used for testing and evaluation, and how and why such characteristics were used, including—
+
+(AA) whether the testing occurred in comparable contextual conditions to the conditions in which the covered algorithm is expected to be used; and
+
+(BB) if protected characteristics were not available to conduct such testing, a description of alternative methods the developer used to conduct the required assessment;
+
+(ff) any other computational algorithm incorporated into the development of the covered algorithm, regardless of whether such precursor computational algorithm involves a consequential action; and
+
+(gg) a description of the data and information used to develop, test, maintain, or update the covered algorithm, including—
+
+(AA) each type of personal data used, each source from which the personal data was collected, and how the each type of personal data was inferred and processed;
+
+(BB) the legal authorization for collecting and processing the personal data; and
+
+(CC) an explanation of how the data (including personal data) used is representative, proportional, and appropriate to the development and intended uses of the covered algorithm;
+
+(III) the potential for the covered algorithm to produce a harm or to have a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities, and a description of such potential harm or disparate impact;
+
+(IV) alternative practices and recommendations to prevent or mitigate harm and recommendations for how the developer could monitor for harm after offering, licensing, or deploying the covered algorithm; and
+
+(V) any other information the Commission deems pertinent to prevent the covered algorithm from causing harm or having a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities, as prescribed by rules promulgated by the Commission pursuant to section 553 of title 5, United States Code.
+
+(iii) REPORT.—The independent auditor shall submit to the developer a report on the evaluation conducted under this subparagraph, including the findings and recommendations of such independent auditor.
+
+(B) FOR DEPLOYERS.—
+
+(i) INDEPENDENT AUDITOR EVALUATION.—If a deployer determines a harm is plausible during the preliminary evaluation described in paragraph (1), the deployer shall engage an independent auditor to conduct a pre-deployment evaluation.
+
+(ii) PRE-DEPLOYMENT EVALUATION REQUIREMENTS.—The evaluation required under clause (i) shall include a detailed review and description, sufficient for an individual having ordinary skill in the art to understand the functioning, risks, uses, benefits, limitations, and other pertinent attributes of the covered algorithm, including—
+
+(I) the manner in which the covered algorithm makes or contributes to a consequential action and the purpose for which the covered algorithm will be deployed;
+
+(II) the necessity and proportionality of the covered algorithm in relation to its planned use, including the intended benefits and limitations of the covered algorithm and a description of the baseline process being enhanced or replaced by the covered algorithm, if applicable;
+
+(III) the inputs that the deployer plans to use to produce an output, including—
+
+(aa) the type of personal data and information used and how the personal data and information will be collected, inferred, and processed;
+
+(bb) the legal authorization for collecting and processing the personal data; and
+
+(cc) an explanation of how the data used is representative, proportional, and appropriate to the deployment of the covered algorithm;
+
+(IV) the outputs the covered algorithm is expected to produce and the outputs the covered algorithm actually produces in testing;
+
+(V) a description of any additional testing or training completed by the deployer for the context in which the covered algorithm will be deployed;
+
+(VI) a description of any consultation with relevant stakeholders, including any communities that will be impacted by the covered algorithm, regarding the deployment of the covered algorithm;
+
+(VII) the potential for the covered algorithm to produce a harm or to have a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities in the context in which the covered algorithm will be deployed and a description of such potential harm or disparate impact;
+
+(VIII) alternative practices and recommendations to prevent or mitigate harm in the context in which the covered algorithm will be deployed and recommendations for how the deployer could monitor for harm after offering, licensing, or deploying the covered algorithm; and
+
+(IX) any other information the Commission deems pertinent to prevent the covered algorithm from causing harm or having a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities as prescribed by rules promulgated by the Commission pursuant to section 553 of title 5, United States Code.
+
+(iii) REPORT.—The independent auditor shall submit to the deployer a report on the evaluation conducted under this subparagraph, including the findings and recommendations of such independent auditor.
+
+(b) Deployer annual impact assessment.—After the deployment of a covered algorithm, a deployer shall, on an annual basis, conduct an impact assessment in accordance with the following:
+
+(1) PRELIMINARY IMPACT ASSESSMENT.—The deployer shall conduct a preliminary impact assessment of the covered algorithm to identify any harm that resulted from the covered algorithm during the reporting period and—
+
+(A) if no resulting harm is identified by such assessment, shall record a finding of no harm, including a description of the developer's expected use or the deployer's intended use of the covered algorithm, how the preliminary evaluation was conducted, and an explanation for such finding, and submit such finding to the Commission; and
+
+(B) if a resulting harm is identified by such assessment, shall conduct a full impact assessment as described in paragraph (2).
+
+(2) FULL IMPACT ASSESSMENT.—In the event that the covered algorithm resulted in harm during the reporting period, the deployer shall engage an independent auditor to conduct a full impact assessment with respect to the reporting period, including—
+
+(A) an assessment of the harm that resulted or was reasonably likely to have been produced during the reporting period;
+
+(B) a description of the extent to which the covered algorithm produced a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities, including the methodology for such evaluation, of how the covered algorithm produced or likely produced such disparity;
+
+(C) a description of the types of data input into the covered algorithm during the reporting period to produce an output, including—
+
+(i) documentation of how data input into the covered algorithm to produce an output is represented and complete descriptions of each field of data; and
+
+(ii) whether and to what extent the data input into the covered algorithm to produce an output was used to train or otherwise modify the covered algorithm;
+
+(D) whether and to what extent the covered algorithm produced the outputs it was expected to produce;
+
+(E) a detailed description of how the covered algorithm was used to make a consequential action;
+
+(F) any action taken to prevent or mitigate harms, including how relevant staff are informed of, trained about, and implement harm mitigation policies and practices, and recommendations for how the deployer could monitor for and prevent harm after offering, licensing, or deploying the covered algorithm; and
+
+(G) any other information the Commission deems pertinent to prevent the covered algorithm from causing harm or having a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities as prescribed by rules promulgated by the Commission pursuant to section 553 of title 5, United States Code.
+
+(3) REPORTS.—
+
+(A) TO THE DEPLOYER.—After the engagement of the independent auditor, the independent auditor shall submit to the deployer a report on the impact assessment conducted under paragraph (2), including the findings and recommendations of such independent auditor.
+
+(B) TO THE DEVELOPER.—Not later than 30 days after the submission of a report on an impact assessment under subparagraph (A), a deployer shall submit to the developer of the covered algorithm a summary of such report, subject to the trade secret and privacy protections described in subsection (e)(3).
+
+(c) Developer annual review of assessments.—A developer shall, on an annual basis, review each impact assessment summary submitted by a deployer of its covered algorithm under subsection (b)(3)(B) for the following purposes:
+
+(1) To assess how the deployer is using the covered algorithm, including the methodology for assessing such use.
+
+(2) To assess the type of data the deployer is inputting into the covered algorithm to produce an output and the types of outputs the covered algorithm is producing.
+
+(3) To assess whether the deployer is complying with any relevant contractual agreement with the developer and whether any remedial action is necessary.
+
+(4) To compare the covered algorithm’s performance in real-world conditions versus pre-deployment testing, including the methodology used to evaluate such performance.
+
+(5) To assess whether the covered algorithm is causing harm or is reasonably likely to be causing harm.
+
+(6) To assess whether the covered algorithm is causing, or is reasonably likely to be causing, a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities, and, if so, how and with respect to which protected characteristic.
+
+(7) To determine whether the covered algorithm needs modification.
+
+(8) To determine whether any other action is appropriate to ensure that the covered algorithm remains safe and effective.
+
+(9) To undertake any other assessment or responsive action the Commission deems pertinent to prevent the covered algorithm from causing harm or having a disparate impact in the equal enjoyment of goods, services, or other activities or opportunities, as prescribed by rules promulgated by the Commission pursuant to section 553 of title 5, United States Code.
+
+(d) Joint developer and deployer obligations.—If a person is both the developer and deployer of a covered algorithm, the person may conduct combined pre-deployment evaluations and annual assessments, provided that each combined evaluation or assessment satisfies all requirements for both developers and deployers.
+
+(e) Reporting and retention requirements.—
+
+(1) REPORTING.—A developer or deployer that conducts a full pre-deployment evaluation, full impact assessment, or developer annual review of assessments shall—
+
+(A) not later than 30 days after completion, submit the evaluation, assessment, or review to the Commission;
+
+(B) upon request, make the evaluation, assessment, or review available to Congress; and
+
+(C) not later than 30 days after completion—
+
+(i) publish a summary of the evaluation, assessment, or review on the website of the developer or deployer in a manner that is easily accessible to individuals; and
+
+(ii) submit such summary to the Commission.
+
+(2) RETENTION.—A developer or deployer shall retain all evaluations, assessments, and reviews described in this section for a period of not fewer than 5 years.
+
+(3) TRADE SECRETS AND PRIVACY.—A developer or deployer—
+
+(A) may redact and segregate any trade secret (as defined in section 1839 of title 18, United States Code) from public disclosure under this subsection; and
+
+(B) shall redact and segregate personal data from public disclosure under this subsection.
+
+(f) Rulemaking.—
+
+(1) AUTHORITY.—The Commission may, in accordance with section 553 of title 5, United States Code, promulgate such rules as may be necessary to carry out this section.
+
+(2) ADDITIONAL REGULATIONS.—Not later than 18 months after the date of enactment of this Act, the Commission shall—
+
+(A) promulgate rules, pursuant to section 553 of title 5, United States Code, specifying—
+
+(i) what information and factors a developer or deployer shall consider in making the preliminary evaluation or preliminary impact assessment described in subsections (a)(1) and (b)(1), respectively;
+
+(ii) what information a developer or deployer shall include in a summary of an evaluation, assessment, or developer review described in subsection (e)(1)(C); and
+
+(iii) the extent to and process by which a developer may request additional information from a deployer, including the purposes for which a developer is permitted to use such additional information; and
+
+(B) in promulgating such rules, consider the need to protect the privacy of personal data, as well as the need for information sharing by developers and deployers to comply with this section and inform the public.
+
+TITLE II—Covered algorithm and contract standards
+
+SEC. 201. Covered algorithm standards.
+(a) Covered algorithm use.—A developer or deployer shall do the following:
+
+(1) Take reasonable measures to prevent and mitigate any harm identified by a pre-deployment evaluation described in section 102(a) or an impact assessment described in section 102(b).
+
+(2) Take reasonable measures to ensure that an independent auditor has all necessary information to complete an accurate and effective pre-deployment evaluation described in section 102(a) or an impact assessment described in section 102(b).
+
+(3) With respect to a covered algorithm, consult stakeholders, including any communities that will be impacted by the covered algorithm, regarding the development or deployment of the covered algorithm prior to the deploying, licensing, or offering the covered algorithm.
+
+(4) With respect to a covered algorithm, certify that, based on the results of a pre-deployment evaluation described in section 102(a) or an impact assessment described in section 102(b)—
+
+(A) use of the covered algorithm is not likely to result in harm or disparate impact in the equal enjoyment of goods, services, or other activities or opportunities;
+
+(B) the benefits from the use of the covered algorithm to individuals affected by the covered algorithm likely outweigh the harms from the use of the covered algorithm to such individuals; and
+
+(C) use of the covered algorithm is not likely to result in deceptive practices.
+
+(5) Ensure that any covered algorithm of the developer or deployer functions—
+
+(A) at a level that would be considered reasonable performance by an individual with ordinary skill in the art; and
+
+(B) in a manner that is consistent with its expected and publicly-advertised performance, purpose, or use.
+
+(6) Ensure any data used in the design, development, deployment, or use of the covered algorithm is relevant and appropriate to the deployment context and the publicly-advertised purpose or use.
+
+(7) Ensure use of the covered algorithm as intended is not likely to result in a violation of this Act.
+
+(b) Deceptive marketing of a product or service.—It shall be unlawful for a developer or deployer to engage in false, deceptive, or misleading advertising, marketing, or publicizing of a covered algorithm of the developer or deployer.
+
+(c) Off-Label use.—
+
+(1) DEVELOPERS.—It shall be unlawful for a developer to knowingly offer or license a covered algorithm for any consequential action other than those evaluated in the pre-deployment evaluation described in section 102(a).
+
+(2) DEPLOYERS.—It shall be unlawful for a deployer to knowingly use a covered algorithm for any consequential action other than a use evaluated in the pre-deployment evaluation described in section 102(a), unless the deployer agrees to assume the responsibilities of a developer required by this Act.
+
+
+SEC. 202. Relationships between developers and deployers.
+(a) Developer responsibilities.—A developer shall do the following:
+
+(1) Upon the reasonable request of the deployer, make available to the deployer information necessary to demonstrate the compliance of the deployer with the requirements of this Act, including—
+
+(A) making available a report of the pre-deployment evaluation described in section 102(a) or the annual review of assessments conducted by the developer under section 102(c); and
+
+(B) providing information necessary to enable the deployer to conduct and document a pre-deployment evaluation under section 102 (a) or an impact assessment under section 102(b).
+
+(2) Either—
+
+(A) allow and cooperate with reasonable assessments conducted by the deployer or the deployer’s designated independent auditor; or
+
+(B) arrange for an independent auditor to conduct an assessment of the developer’s policies and practices in support of the obligations under this Act using an appropriate and accepted control standard or framework and assessment procedure for such assessments, and provide a report of such assessment to the deployer upon request.
+
+(b) Contracts between developers and deployers.—
+
+(1) REQUIREMENTS.—A developer may offer or license a covered algorithm to a deployer pursuant to a written contract between the developer and deployer, provided that the contract—
+
+(A) clearly sets forth the data processing procedures of the developer with respect to any collection, processing, or transfer of data performed on behalf of the deployer;
+
+(B) clearly sets forth—
+
+(i) instructions for collecting, processing, or transferring data by the developer or deployer in the context of the use of the covered algorithm;
+
+(ii) instructions for deploying the covered algorithm as intended;
+
+(iii) the nature and purpose of any collection, processing, or transferring of data;
+
+(iv) the type of data subject to such collection, processing, or transferring;
+
+(v) the duration of such processing of data; and
+
+(vi) the rights and obligations of both parties, including a method by which the developer shall notify the deployer of material changes to its covered algorithm;
+
+(C) shall not relieve a developer or deployer of any requirement or liability imposed on such developer or deployer under this Act;
+
+(D) prohibits both the developer and deployer from combining data received from or collected on behalf of the other party with data the developer or deployer received from or collected on behalf of another party; and
+
+(E) shall not prohibit a developer or deployer from raising concerns to any relevant enforcement agency with respect to the other party.
+
+(2) RETENTION OF CONTRACT.—Each developer shall retain for a period of 10 years a copy of each contract entered into with a deployer to which it provides requested products or services.
+
+(c) Rule of construction.—For purposes of this section, any requirement for a developer to contract with, assist, and follow the instructions of a deployer shall be read to include a requirement to contract with, assist, and follow the instructions of a government entity if the developer is providing a service to a government entity.
+
+
+SEC. 203. Human alternatives and other protections.
+(a) Right to human alternatives.—
+
+(1) RULEMAKING.—Not later than 2 years after the date of enactment of this Act, the Commission shall promulgate regulations in accordance with section 553 of title 5, United States Code, to identify the circumstances and manner in which a deployer shall provide to an individual a means to opt-out of the use of a covered algorithm for a consequential action and to elect to have the consequential action concerning the individual undertaken by a human without the use of a covered algorithm.
+
+(2) CONSIDERATIONS.—In promulgating the regulations under paragraph (1), the Commission shall consider the following:
+
+(A) How to ensure that any notice or request from a deployer regarding the right to a human alternative is clear and conspicuous, in plain language, easy to execute, and at no cost to an individual.
+
+(B) How to ensure that any such notice to individuals is effective, timely, and useful.
+
+(C) The specific types of consequential actions for which a human alternative is appropriate, considering the magnitude of the action and risk of harm.
+
+(D) The extent to which a human alternative would be beneficial to individuals and the public interest.
+
+(E) The extent to which a human alternative can prevent or mitigate harm.
+
+(F) The risk of harm to individuals beyond the requestor if a human alternative is available or not available.
+
+(G) The technical and economic feasibility of providing a human alternative in different circumstances.
+
+(H) Any other considerations the Commission deems appropriate to balance the need to give an individual control over a consequential action related to such individual with the practical feasibility and effectiveness of granting such control.
+
+(b) Individual autonomy.—A developer or deployer may not condition, effectively condition, attempt to condition, or attempt to effectively condition the exercise of any individual right under this Act or individual choice through—
+
+(1) the use of any false, fictitious, fraudulent, or materially misleading statement or representation; or
+
+(2) the design, modification, or manipulation of any user interface with the purpose or substantial effect of obscuring, subverting, or impairing a reasonable individual’s autonomy, decision making, or choice to exercise any such right.
+
+(c) Right To appeal.—
+
+(1) RULEMAKING.—Not later than 2 years after the date of enactment of this Act, the Commission shall promulgate regulations in accordance with section 553 of title 5, United States Code, to identify the circumstances and manner in which a deployer shall provide to an individual a mechanism to appeal to a human a consequential action resulting from the deployer’s use of a covered algorithm.
+
+(2) CONSIDERATIONS.—In promulgating the regulations under paragraph (1), the Commission shall do the following:
+
+(A) Ensure that the appeal mechanism is clear and conspicuous, in plain language, easy-to-execute, and at no cost to individuals.
+
+(B) Ensure that the appeal mechanism is proportionate to the consequential action.
+
+(C) Ensure that the appeal mechanism is reasonably accessible to individuals with disabilities, timely, usable, effective, and non-discriminatory.
+
+(D) Require, where appropriate, a mechanism for individuals to identify and correct any personal data used by the covered algorithm.
+
+(E) Specify training requirements for human reviewers with respect to a consequential action.
+
+(F) Consider any other circumstances, procedures, or matters the Commission deems appropriate to balance the need to give an individual a right to appeal a consequential action related to such individual with the practical feasibility and effectiveness of granting such right.
+
+(d) Prohibition on retaliation.—
+
+(1) IN GENERAL.—A developer or deployer may not discriminate or retaliate against an individual (including by denying or threatening to deny the equal enjoyment of goods, services, or other activities or opportunities in relation to a consequential action) because the individual exercised any right under this Act or refused to waive any such right.
+
+(2) RULES OF CONSTRUCTION.—
+
+(A) DIFFERENTIAL IN SERVICE OR GOODS.—Nothing in this subsection shall prohibit a developer or deployer from denying service to an individual, charging an individual a different price or rate, or providing a different level or quality of goods or services to an individual if the differential in service is necessary and directly related to the value provided to the developer or deployer by the covered algorithm.
+
+(B) LOYALTY PROGRAMS.—Nothing in this subsection shall prohibit a developer or deployer from offering loyalty, rewards, premium features, discounts, or club card programs that provide benefits or rewards based on frequency of patronizing, or the amount of money spent at, a business consistent with this Act.
+
+(e) Whistleblower protection.—A developer or deployer may not, directly or indirectly, discharge, demote, suspend, threaten, harass, or otherwise discriminate or retaliate against an individual for reporting or attempting to report a violation of this Act.
+
+TITLE III—Transparency
+
+SEC. 301. Notice and disclosure.
+(a) In general.—Each developer or deployer shall make publicly available, in plain language and in a clear, conspicuous, not misleading, easy-to-read, and readily accessible manner, a disclosure that provides a detailed and accurate representation of the developer or deployer's practices regarding the requirements under this Act.
+
+(b) Content of disclosure.—The disclosure required under subsection (a) shall include, at a minimum, the following:
+
+(1) The identity and the contact information of—
+
+(A) the developer or deployer to which the disclosure applies (including the developer or deployer’s point of contact and electronic mail address, as applicable for any inquiry concerning a covered algorithm or individual rights under this Act); and
+
+(B) any other entity within the same corporate structure as the developer or deployer to which personal data is transferred by the developer or deployer.
+
+(2) A link to the website containing the developer or deployer’s summaries of pre-deployment evaluations, impact assessments, and annual review of assessments, as applicable.
+
+(3) The categories of personal data the developer or deployer collects or processes in the development or deployment of a covered algorithm and the processing purpose for each such category.
+
+(4) Whether the developer or deployer transfers personal data, and, if so, each third party to which the developer or deployer transfers such data and the purpose for which such data is transferred, except with respect to a transfer to a governmental entity pursuant to a court order or law that prohibits the developer or deployer from disclosing such transfer.
+
+(5) A prominent description of how an individual can exercise the rights described in this Act.
+
+(6) A general description of the developer or deployer’s practices for compliance with the requirements described in sections 102 and 201.
+
+(7) The following disclosure:
+
+
+“ The audit of this algorithm was conducted to comply with the Artificial Intelligence Civil Rights Act of 2024, which seeks to avoid the use of any algorithm that has a disparate impact on certain protected classes of individuals. The audit does not guarantee that this algorithm is safe or in compliance with all applicable laws.”.
+
+(8) The effective date of the disclosure.
+
+(c) Languages.—The disclosure required under subsection (a) shall be made available in each covered language in which the developer or deployer operates or provides a good or service.
+
+(d) Accessibility.—The disclosure required under subsection (a) shall be made available in a manner that is reasonably accessible to and usable by individuals with disabilities.
+
+(e) Material changes.—
+
+(1) NOTIFICATION.—If a developer or deployer makes a material change to the disclosure required under subsection (a), the developer or deployer shall notify each individual affected by such material change prior to implementing the material change.
+
+(2) REQUIREMENTS.—Each developer or deployer shall take all reasonable measures to provide to each affected individual a direct electronic notification regarding any material change to the disclosure, in each covered language in which the disclosure is made available, and taking into account available technology and the nature of the relationship with such individual.
+
+(3) LOG OF MATERIAL CHANGES.—
+
+(A) RETENTION PERIOD.—Beginning after the date of enactment of this Act, each developer or deployer shall retain a copy of each previous version of the disclosure required under subsection (a) for a period of at least 10 years after the last day on which such version was effective and publish each such version on its website.
+
+(B) LOG OF MATERIAL CHANGES.—Each developer or deployer shall make publicly available, in a clear, conspicuous, and readily accessible manner, a log describing the date and nature of each material change to its disclosure during the retention period described in subparagraph (A), and such descriptions shall be sufficient for a reasonable individual to understand the material effect of each material change.
+
+(C) CLARIFICATION.—The obligations described in this paragraph shall not apply to any previous version of a developer or deployer’s disclosure of practices regarding the collection, processing, and transfer of personal data, or any material change to such disclosure, that precedes the date of enactment of this Act.
+
+(f) Short-Form notice.—
+
+(1) IN GENERAL.—A deployer shall provide a short-form notice regarding a covered algorithm it develops, offers, licenses, or uses in a manner that—
+
+(A) is concise, clear, conspicuous, in plain language, and not misleading;
+
+(B) is readily accessible to individuals with disabilities;
+
+(C) is based on what is reasonably anticipated within the context of the relationship between the individual and the deployer;
+
+(D) includes an overview of each applicable individual right and disclosure in a manner that draws attention to any practice that may be unexpected to a reasonable individual or that involves a consequential action; and
+
+(E) is not more than 500 words in length.
+
+(2) TIMING OF NOTICE.—
+
+(A) EXISTING RELATIONSHIP.—If a deployer has a relationship with an individual, the deployer shall provide an electronic version of the short-form notice directly to the individual upon the individual’s first interaction with the covered algorithm.
+
+(B) NO RELATIONSHIP.—If a deployer does not have a relationship with an individual, the deployer shall provide the short-form notice in a clear, conspicuous, accessible, and not misleading manner on their website.
+
+(3) RULEMAKING.—The Commission shall promulgate regulations in accordance with section 553 of title 5, United States Code, to establish the minimum content required to be included in the short-form notice described in paragraph (1), which—
+
+(A) shall not exceed the content requirements described in subsection (b); and
+
+(B) shall include a template or model for such short-form notice.
+
+(g) Reporting mechanism.—Each developer or deployer shall make publicly available, in a clear, conspicuous, and readily accessible manner, a mechanism for an individual impacted by a covered algorithm to report to the developer or deployer potential violations of this Act.
+
+
+SEC. 302. Study on explanations regarding the use of covered algorithms.
+(a) Study.—
+
+(1) IN GENERAL.—The Commission shall conduct a study, with notice and public comment, on the feasibility of requiring deployers to provide a clear, conspicuous, easy-to-use, no-cost mechanism that is accessible for individuals with disabilities and allows an individual to receive an explanation as to whether and how a covered algorithm used by the deployer affects or affected an individual.
+
+(2) REQUIREMENTS.—The study required under paragraph (1) shall include the following:
+
+(A) How explanations can be provided in a manner that is clear, conspicuous, easy-to-use, no-cost, accessible to individuals with disabilities, and calibrated to the level of risk based on the covered algorithm.
+
+(B) An assessment of the feasibility of a requirement for deployers to provide a mechanism for individuals who may be affected or were affected by a covered algorithm to request an explanation that—
+
+(i) includes information—
+
+(I) regarding why the covered algorithm produced the result it produced with respect to the individual making the request; and
+
+(II) that is truthful, accurate, and scientifically valid;
+
+(ii) identifies at least the most significant factors used to inform the covered algorithm’s outputs; and
+
+(iii) includes any other information deemed relevant by the Commission to provide an explanation for an individual who may be affected or was affected by a covered algorithm.
+
+(C) An assessment of what information a developer must provide a deployer in order to ensure explanations can be provided to individuals upon request.
+
+(D) The extent to which current technical capabilities of covered algorithms impacts the feasibility of providing explanations.
+
+(E) How a deployer can take reasonable measures to verify the identity of an individual making a request for an explanation to ensure that the deployer provides an explanation only to the affected individual, including steps a deployer should take to ensure the safe and secure storage, collection, and deletion of personal information.
+
+(F) Recommendations for Congress on how to implement regulations around mechanisms for explanations.
+
+(3) CONSULTATION.—In conducting the study required under this subsection, the Commission shall consult with the National Institute of Science of Technology, the National Telecommunications and Information Administration, the Office of Science and Technology Policy, and any other agency deemed relevant by the Commission.
+
+(b) Report.—Not later than 18 months after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes the findings of the study conducted under subsection (a), together with recommendations for such legislation and administrative action as the Commission determines appropriate.
+
+
+SEC. 303. Consumer awareness.
+(a) Notice of consumer rights.—
+
+(1) IN GENERAL.—Not later than 90 days after the date of enactment of this Act, the Commission shall publish, on the internet website of the Commission, a web page that describes each provision, right, obligation, and requirement of this Act (categorized with respect to individuals, deployers, and developers) and the remedies, exemptions, and protections associated with this Act, in plain and concise language, in each covered language, and in an easy-to-understand manner.
+
+(2) UPDATES.—The Commission shall update the information published under paragraph (1) on a quarterly basis as necessitated by any change in law, regulation, guidance, or judicial decision.
+
+(b) Annual report.—Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Commission shall publish on the internet website of the Commission a report that—
+
+(1) describes and summarizes the information contained in any pre-deployment evaluation, impact assessment, and developer review submitted to the Commission in accordance with this Act;
+
+(2) describes broad trends, aggregated statistics, and anonymized information about performing impact assessments of covered algorithms, for the purposes of updating guidance related to impact assessments and summary reporting, oversight, and making recommendations to other regulatory agencies; and
+
+(3) is accessible and machine readable in accordance with the 21st Century Integrated Digital Experience Act (44 U.S.C. 3501 note).
+
+(c) Publicly accessible repository.—
+
+(1) ESTABLISHMENT.—
+
+(A) IN GENERAL.—Not later than 180 days after the Commission publishes the first annual report under subsection (b), the Commission shall develop a publicly accessible repository to publish each pre-deployment evaluation, impact assessment, and developer review submitted to the Commission in accordance with section 102.
+
+(B) REQUIREMENTS.—The Commission shall design the repository established under subparagraph (A) to—
+
+(i) be publicly available and easily discoverable on the internet website of the Commission;
+
+(ii) allow users to sort and search the repository by multiple characteristics (such as by developer or deployer and date reported) simultaneously;
+
+(iii) allow users to make a copy of or download the information obtained from the repository, including any subsets of information obtained by sorting or searching as described in clause (ii), in accordance with current guidance from the Office of Management and Budget, such as the Open, Public, Electronic, and Necessary Government Data Act (44 U.S.C. 101 note);
+
+(iv) be in accordance with user experience and accessibility best practices, such as those described in the 21st Century Integrated Digital Experience Act (44 U.S.C. 3501 note); and
+
+(v) include information about the design, use, and maintenance of the repository, including any other information determined appropriate by the Commission.
+
+(2) PUBLICATION OF ADDITIONAL SUMMARIES.—The Commission shall publish in the repository any pre-deployment evaluation, impact assessment, and developer review not later than 30 days after receiving such evaluation, assessment, or review, except if the Commission has good cause to delay such publication.
+
+(3) TRADE SECRETS AND PRIVACY.—The Commission—
+
+(A) may redact and segregate any trade secret (as defined in section 1839 of title 18, United States Code) from public disclosure under this subsection; and
+
+(B) shall redact and segregate personal data from public disclosure under this subsection.
+
+TITLE IV—Enforcement
+
+SEC. 401. Enforcement by the Commission.
+(a) Unfair or deceptive acts or practices.—A violation of title I, II, or III or a regulation promulgated thereunder shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+(b) Powers of the Commission.—
+
+(1) IN GENERAL.—Except as provided in subsection (c), the Commission shall enforce this Act and the regulations promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
+
+(2) PRIVILEGES AND IMMUNITIES.—Any person who violates title I, II, or III or a regulation promulgated thereunder shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+
+(3) AUTHORITY PRESERVED.—Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.
+
+(4) RULEMAKING.—The Commission may promulgate in accordance with section 553 of title 5, United States Code, such rules as may be necessary to carry out this Act.
+
+(c) Jurisdiction .—Notwithstanding section 4, 5(a)(2), or 6 of the Federal Trade Commission Act (15 U.S.C. 44, 45(a)(2), 46) or any jurisdictional limitation of the Commission, the Commission shall also enforce this Act and the regulations promulgated under this Act, in the same manner provided in subsections (a) and (b), with respect to—
+
+(1) organizations not organized to carry on business for their own profit or that of their members;
+
+(2) common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and all Acts amendatory thereof and supplementary thereto;
+
+(3) a bank, savings and loan institution described in section 18(f)(3) of the Federal Trade Commission Act (15 U.S.C. 57a(f)(3)), or Federal credit union described in section 18(f)(4) of such Act;
+
+(4) an air carrier or foreign air carrier subject to the Federal Aviation Act of 1958 (49 U.S.C. App. 1301 et seq.); or
+
+(5) a person, partnership, or corporation subject to the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et seq.), as amended.
+
+
+SEC. 402. Enforcement by States.
+(a) In general.—In any case in which the attorney general of a State or a State data protection authority has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of a person in a practice that violates title I, II, or III, or a regulation promulgated thereunder, the attorney general may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate Federal district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code, to—
+
+(1) enjoin any such violation by the person;
+
+(2) enforce compliance with the requirements of this Act;
+
+(3) obtain a permanent, temporary, or preliminary injunction or other appropriate equitable relief;
+
+(4) obtain civil penalties in the amount of $15,000 per violation, or 4 percent of the defendant’s average gross annual revenue over the preceding 3 years, whichever is greater;
+
+(5) obtain damages, restitution, or other compensation on behalf of the residents of such State;
+
+(6) obtain reasonable attorneys' fees and litigation costs; and
+
+(7) obtain such other relief as the court may consider to be appropriate.
+
+(b) Rights of the Commission.—
+
+(1) NOTICE TO THE COMMISSION.—
+
+(A) IN GENERAL.—Subject to subparagraph (C), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under subsection (a) before the filing of the civil action.
+
+(B) CONTENTS.—The notification required under subparagraph (A) with respect to a civil action shall include a copy of the complaint to be filed to initiate the civil action.
+
+(C) EXCEPTION.—The notification described in subparagraph (A) shall not be required if the attorney general of the State determines that it is not feasible to provide such notice before filing the action.
+
+(2) INTERVENTION BY THE COMMISSION.—Upon receiving notice under paragraph (1), the Commission shall have the right to intervene in the action that is the subject of the notice.
+
+(3) EFFECT OF INTERVENTION.—If the Commission intervenes in an action under subsection (a), it shall have the right—
+
+(A) to be heard with respect to any matter that arises in that action; and
+
+(B) file a petition for appeal.
+
+(c) Investigatory powers.—Nothing in this section may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of the State to—
+
+(1) conduct investigations;
+
+(2) administer oaths or affirmations; or
+
+(3) compel the attendance of witnesses or the production of documentary or other evidence.
+
+
+SEC. 403. Private right of action.
+(a) Enforcement by individuals.—
+
+(1) IN GENERAL.—Any individual or class of individuals alleging a violation of title I, II, or III, or a regulation promulgated thereunder, may bring a civil action in any court of competent jurisdiction.
+
+(2) RELIEF.—In a civil action brought under paragraph (1) in which the plaintiff prevails, the court may award—
+
+(A) treble damages or $15,000 per violation, whichever is greater;
+
+(B) nominal damages;
+
+(C) punitive damages;
+
+(D) reasonable attorney’s fees and litigation costs; and
+
+(E) any other relief, including equitable or declaratory relief, that the court determines appropriate.
+
+(3) RIGHTS OF THE COMMISSION AND STATE ATTORNEYS GENERAL.—
+
+(A) IN GENERAL.—Prior to an individual bringing a civil action under paragraph (1), such individual shall notify the Commission and the attorney general of the State where such individual resides, in writing and including a description of the allegations included in the civil action, that such individual intends to bring a civil action under such paragraph. Not later than 60 days after receiving such notice, the Commission and State attorney general shall each or jointly make a determination and respond to such individual as to whether they will intervene in such action. The Commission and State attorney general shall have a right to intervene in any civil action under paragraph (1), and upon intervening, to be heard on all matters arising in such action and file petitions for appeal of a decision in such action. If a State attorney general does intervene, they shall only be heard with respect to the interests of the residents of their State.
+
+(B) RETAINED AUTHORITY.—Subparagraph (A) shall not be construed to limit the authority of the Commission or any applicable State attorney general to, at a later date, commence a civil action or intervene by motion if the Commission or State attorney general does not commence a proceeding or civil action within the 60-day period described in such subparagraph.
+
+(b) Invalidity of pre-Dispute arbitration agreements and pre-Dispute joint action waivers.—
+
+(1) IN GENERAL.—Notwithstanding any other provision of law, no pre-dispute arbitration agreement or pre-dispute joint action waiver shall be valid or enforceable with regard to a dispute arising under this Act.
+
+(2) APPLICABILITY.—Any determination as to whether or how this subsection applies to any dispute shall be made by a court, rather than an arbitrator, without regard to whether such agreement purports to delegate such determination to an arbitrator.
+
+(3) DEFINITIONS.—For purposes of this subsection:
+
+(A) PRE-DISPUTE ARBITRATION AGREEMENT.—The term “pre-dispute arbitration agreement” means any agreement to arbitrate a dispute that has not arisen at the time of the making of the agreement.
+
+(B) PRE-DISPUTE JOINT-ACTION WAIVER.—The term “pre-dispute joint-action waiver” means an agreement, whether or not part of a pre-dispute arbitration agreement, that would prohibit or waive the right of 1 of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other related forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.
+
+
+SEC. 404. Severability.
+If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by the invalidation.
+
+
+SEC. 405. Rules of construction.
+Nothing in this Act shall be construed to—
+
+(1) waive or otherwise limit any requirement under the National Labor Relations Act (29 U.S.C. 151 et seq.) for an employer (as such term is defined in section 2 of such Act (29 U.S.C. 152)) to bargain collectively regarding the deployment or effects of a covered algorithm;
+
+(2) absolve an employer of any obligation to ensure a covered algorithm and its effects comply with health and safety laws;
+
+(3) allow an employer to deploy a covered algorithm that interferes with the rights of employees under any Federal, State, or local law; or
+
+(4) absolve any other duty or requirement under any other Federal, State, or local law.
+
+TITLE V—Federal resources
+
+SEC. 501. Occupational series relating to algorithm auditing.
+Not later than 270 days after the date of enactment of this Act, the Director of the Office of Personnel Management shall exercise the authority of the Director under section 5105 of title 5, United States Code, to establish a new occupational series and associated policies covering Federal Government positions in the field of algorithm auditing (as described in the report of the Government Accountability Office entitled “Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities” (GAO–21–519SP), dated June 30, 2021), which shall include algorithm auditing practices, platform auditing, evaluation and assessment of artificial intelligence systems, computer security, independent evaluation and audits of computer systems, data science, statistics, auditing of anticompetitive practices, and related fields.
+
+
+SEC. 502. United States Digital Service algorithm auditors.
+(a) In general.—Not later than 180 days after the date of enactment of this Act, the Administrator of the United States Digital Service shall—
+
+(1) establish a track for algorithm auditing; and
+
+(2) hire algorithm audit practitioners.
+
+(b) FTC priority.—The Administrator of the United States Digital service, in coordination with the Commission, shall ensure—
+
+(1) the algorithm auditing track staffing and expertise meets the needs of the Commission and other relevant Federal agencies with obligations to implement Office of Management and Budget Memorandum M–24–10; and
+
+(2) once hired, algorithm auditing track personnel and projects prioritize the efforts of the Commission.
+
+
+SEC. 503. Additional Federal resources.
+(a) Authorization of appropriations.—There is authorized to be appropriated to the Commission and other Federal agencies enumerated in this Act such sums as may be necessary to carry out this Act.
+
+(b) Commission personnel.—Notwithstanding any other provision of law, the Commission may hire not more than 500 additional personnel to accomplish the work of the Commission with respect to unfair or deceptive acts or practices relating to the development or deployment of covered algorithms in accordance with this Act.

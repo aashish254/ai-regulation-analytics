@@ -1,0 +1,76 @@
+Article 1
+Subject matter and scope
+1. This Directive lays down common rules on:
+(a) the disclosure of evidence on high-risk artificial intelligence (AI) systems to enable a claimant to substantiate a non-contractual fault-based civil law claim for damages;
+(b) the burden of proof in the case of non-contractual fault-based civil law claims brought before national courts for damages caused by an AI system.
+1. This Directive applies to non-contractual fault-based civil law claims for damages, in cases where the damage caused by an AI system occurs after [the end of the transposition period].  
+This Directive does not apply to criminal liability.
+1. This Directive shall not affect:
+(a) rules of Union law regulating conditions of liability in the field of transport;
+(b) any rights which an injured person may have under national rules implementing Directive 85/374/EEC;
+(c) the exemptions from liability and the due diligence obligations as laid down in [the Digital Services Act] and
+(d) national rules determining which party has the burden of proof, which degree of certainty is required as regards the standard of proof, or how fault is defined, other than in respect of what is provided for in Articles 3 and 4.
+1. Member States may adopt or maintain national rules that are more favourable for claimants to substantiate a non-contractual civil law claim for damages caused by an AI system, provided such rules are compatible with Union law.Article 2
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1) ‘AI system’ means an AI system as defined in [Article 3 (1) of the AI Act];
+(2) ‘high-risk AI system’ means an AI system referred to in [Article 6 of the AI Act];
+(3) ‘provider’ means a provider as defined in [Article 3 (2) of the AI Act];
+(4) ‘user’ means a user as defined in [Article 3 (4) of the AI Act];
+(5) ‘claim for damages’ means a non-contractual fault-based civil law claim for compensation of the damage caused by an output of an AI system or the failure of such a system to produce an output where such an output should have been produced;
+(6) ‘claimant’ means a person bringing a claim for damages that:
+(a) has been injured by an output of an AI system or by the failure of such a system to produce an output where such an output should have been produced;
+(b) has succeeded to or has been subrogated to the right of an injured person by virtue of law or contract; or
+(c) is acting on behalf of one or more injured persons, in accordance with Union or national law.
+(7)    ‘potential claimant’ means a natural or legal person who is considering but has not yet brought a claim for damages;
+(8)    ‘defendant’ means the person against whom a claim for damages is brought;
+(9)    ‘duty of care’ means a required standard of conduct, set by national or Union law, in order to avoid damage to legal interests recognised at national or Union law level, including life, physical integrity, property and the protection of fundamental rights.Article 3
+Disclosure of evidence and rebuttable presumption of non-compliance
+1.Member States shall ensure that national courts are empowered, either upon the request of a potential claimant who has previously asked a provider, a person subject to the obligations of a provider pursuant to [Article 24 or Article 28(1) of the AI Act] or a user to disclose relevant evidence at its disposal about a specific high-risk AI system that is suspected of having caused damage, but was refused, or a claimant, to order the disclosure of such evidence from those persons.
+In support of that request, the potential claimant must present facts and evidence sufficient to support the plausibility of a claim for damages
+1. In the context of a claim for damages, the national court shall only order the disclosure of the evidence by one of the persons listed in paragraph 1, if the claimant has undertaken all proportionate attempts at gathering the relevant evidence from the defendant.
+2. Member States shall ensure that national courts, upon the request of a claimant, are empowered to order specific measures to preserve the evidence mentioned in paragraph 1.
+3. National courts shall limit the disclosure of evidence to that which is necessary and proportionate to support a potential claim or a claim for damages and the preservation to that which is necessary and proportionate to support such a claim for damages.
+In determining whether an order for the disclosure or preservation of evidence is proportionate, national courts shall consider the legitimate interests of all parties, including third parties concerned, in particular in relation to the protection of trade secrets within the meaning of Article 2(1) of Directive (EU) 2016/943 and of confidential information, such as information related to public or national security.
+Member States shall ensure that, where the disclosure of a trade secret or alleged trade secret which the court has identified as confidential within the meaning of Article 9(1) of Directive (EU) 2016/943 is ordered, national courts are empowered, upon a duly reasoned request of a party or on their own initiative, to take specific measures necessary to preserve confidentiality when that evidence is used or referred to in legal proceedings.
+Member States shall also ensure that the person ordered to disclose or to preserve the evidence mentioned in paragraphs 1 or 2 has appropriate procedural remedies in response to such orders.
+1. Where a defendant fails to comply with an order by a national court in a claim for damages to disclose or to preserve evidence at its disposal pursuant to paragraphs 1 or 2, a national court shall presume the defendant’s non-compliance with a relevant duty of care, in particular in the circumstances referred to in Article 4(2) or (3), that the evidence requested was intended to prove for the purposes of the relevant claim for damages.
+The defendant shall have the right to rebut that presumption.Article 4
+Rebuttable presumption of a causal link in the case of fault
+1. Subject to the requirements laid down in this Article, national courts shall presume, for the purposes of applying liability rules to a claim for damages, the causal link between the fault of the defendant and the output produced by the AI system or the failure of the AI system to produce an output, where all of the following conditions are met:
+(a) the claimant has demonstrated or the court has presumed pursuant to Article 3(5), the fault of the defendant, or of a person for whose behaviour the defendant is responsible, consisting in the non-compliance with a duty of care laid down in Union or national law directly intended to protect against the damage that occurred;
+(b) it can be considered reasonably likely, based on the circumstances of the case, that the fault has influenced the output produced by the AI system or the failure of the AI system to produce an output;  
+(c) the claimant has demonstrated that the output produced by the AI system or the failure of the AI system to produce an output gave rise to the damage.
+1. In the case of a claim for damages against a provider of a high-risk AI system subject to the requirements laid down in chapters 2 and 3 of Title III of [the AI Act] or a person subject to the provider’s obligations pursuant to [Article 24 or Article 28(1) of the AI Act], the condition of paragraph 1 letter (a) shall be met only where the complainant has demonstrated that the provider or, where relevant, the person subject to the provider’s obligations, failed to comply with any of the following requirements laid down in those chapters, taking into account the steps undertaken in and the results of the risk management system pursuant to [Article 9 and Article 16 point (a) of the AI Act]:
+(a) the AI system is a system which makes use of techniques involving the training of models with data and which was not developed on the basis of training, validation and testing data sets that meet the quality criteria referred to in [Article 10(2) to (4) of the AI Act];
+(b) the AI system was not designed and developed in a way that meets the transparency requirements laid down in [Article 13 of the AI Act];
+(c) the AI system was not designed and developed in a way that allows for an effective oversight by natural persons during the period in which the AI system is in use pursuant to [Article 14 of the AI Act];
+(d) the AI system was not designed and developed so as to achieve, in the light of its intended purpose, an appropriate level of accuracy, robustness and cybersecurity pursuant to [Article 15 and Article 16, point (a), of the AI Act]; or
+(e) the necessary corrective actions were not immediately taken to bring the AI system in conformity with the obligations laid down in [Title III, Chapter 2 of the AI Act] or to withdraw or recall the system, as appropriate, pursuant to [Article 16, point (g), and Article 21 of the AI Act].
+1. In the case of a claim for damages against a user of a high-risk AI system subject to the requirements laid down in chapters 2 and 3 of Title III of [the AI Act], the condition of paragraph 1 letter (a) shall be met where the claimant proves that the user:
+(a) did not comply with its obligations to use or monitor the AI system in accordance with the accompanying instructions of use or, where appropriate, suspend or interrupt its use pursuant to [Article 29 of the AI Act]; or
+(b) exposed the AI system to input data under its control which is not relevant in view of the system’s intended purpose pursuant to [Article 29(3) of the Act].
+1. In the case of a claim for damages concerning a high-risk AI system, a national court shall not apply the presumption laid down in paragraph 1 where the defendant demonstrates that sufficient evidence and expertise is reasonably accessible for the claimant to prove the causal link mentioned in paragraph 1.
+2. In the case of a claim for damages concerning an AI system that is not a high-risk AI system, the presumption laid down in paragraph 1 shall only apply where the national court considers it excessively difficult for the claimant to prove the causal link mentioned in paragraph 1.
+3. In the case of a claim for damages against a defendant who used the AI system in the course of a personal, non-professional activity, the presumption laid down in paragraph 1 shall apply only where the defendant materially interfered with the conditions of the operation of the AI system or if the defendant was required and able to determine the conditions of operation of the AI system and failed to do so.
+4. The defendant shall have the right to rebut the presumption laid down in paragraph 1.Article 5
+Evaluation and targeted review
+1. By [DATE five years after the end of the transposition period], the Commission shall review the application of this Directive and present a report to the European Parliament, to the Council and to the European Economic and Social Committee, accompanied, where appropriate, by a legislative proposal.
+2. The report shall examine the effects of Articles 3 and 4 on achieving the objectives pursued by this Directive. In particular, it should evaluate the appropriateness of no-fault liability rules for claims against the operators of certain AI systems, as long as not already covered by other Union liability rules, and the need for insurance coverage, while taking into account the effect and impact on the roll-out and uptake of AI systems, especially for SMEs.
+3. The Commission shall establish a monitoring programme for preparing the report pursuant to paragraphs 1 and 2, setting out how and at what intervals the data and other necessary evidence will be collected. The programme shall specify the action to be taken by the Commission and by the Member States in collecting and analysing the data and other evidence. For the purposes of that programme, Member States communicate the relevant data and evidence to the Commission, by [31 December of the second full year following the end of the transposition period] and by the end of each subsequent year.Article 6
+Amendment to Directive (EU) 2020/1828
+In Annex I to Directive (EU) 2020/1828 40 , the following point (67) is added:
+"(67) Directive (EU) …/… of the European Parliament and of the Council of … on adapting non contractual civil liability rules to artificial intelligence (AI Liability Directive) (OJ L …, …, p. …).".
+Article 7
+Transposition
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by [two years after the entry into force] at the latest. They shall forthwith communicate to the Commission the text of those provisions.
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+1. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.Article 8
+Entry into force
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.Article 9
+Addressees
+This Directive is addressed to the Member States.
+Done at Brussels,
+For the European Parliament
+For the Council
+The President 

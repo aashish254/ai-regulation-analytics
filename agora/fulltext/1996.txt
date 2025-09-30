@@ -1,0 +1,102 @@
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+SECTION 1. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 501 of Title 25, unless there is created a duplication in numbering, reads as follows:
+This act shall be known and may be cited as the "Responsible Deployment of AI Systems Act."
+
+SECTION 2. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 502 of Title 25, unless there is created a duplication in numbering, reads as follows:
+As used in this act:
+1. "AI system" means an artificial intelligence or machine learning–based or algorithmic technology designed to perform tasks that typically require human intelligence, including decision-making, prediction, or recommendation;
+2. "Deployer" means any public entity, private organization, or individual that implements AI systems for operational use;
+3. "Risk classification" means one of the following:
+a. Unacceptable Risk: (1) Means AI applications incompatible with social values and fundamental rights, (2) Includes social scoring, manipulative AI targeting vulnerable groups, and real-time biometric identification systems or may include any of the following: (a) deployment of AI systems for discriminatory lending practices or biased law enforcement profiling, (b) unauthorized use of biometric analysis tools for surveillance purposes in public and private spaces, (c) integration of AI into systems with unregulated access to sensitive government databases, or (d) AI-driven misinformation campaigns targeting elections, public health, or emergency response systems, and (3) AI systems under this category are prohibited from development, deployment, or use,
+b. High Risk: (1) Means AI systems with significant potential to impact safety, civil liberties, or fundamental rights, (2) Includes AI in health care, critical infrastructure, law enforcement, financial services, and public welfare, and (3) AI systems under this category are subject to rigorous pre-deployment risk assessments, independent audits, strict operational requirements, and ongoing real-time monitoring including mandatory human oversight by qualified overseers,
+c. Limited Risk: (1) Means AI systems that pose moderate risks, such as manipulation or deceit, but not classified as high risk, (2) Includes chatbots and content creation tools such as deepfake generators, and (3) AI systems under this category require providers to ensure transparency, informing users when they interact with AI systems or consume AI-generated content and requires basic safeguards to prevent manipulation, and
+d. Minimal Risk: (1) Means AI systems with little to no risk to users, (2) Examples include most consumer-facing AI applications such as virtual assistants, and (3) AI systems under this category require minimal oversight, with adherence to basic data protection standards; and
+4. "Qualified human overseer" means a trained individual responsible for monitoring and validating high-risk AI system outputs, with authority to amend or override them when necessary.
+
+SECTION 3. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 503 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. This act is applicable to all public sector agencies and private entities deploying artificial intelligence (AI) systems affecting individuals within this state.
+B. All AI systems shall comply with existing laws, including:
+1. Federal and state civil rights protections;
+2. Data protection laws and state privacy laws; and
+3. Consumer protection laws and regulations.
+
+SECTION 4. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 504 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. Deployers must classify artificial intelligence (AI) systems into one of four risk categories outlined in Section 2 of this act before deployment.
+B. Deployers shall conduct assessments of AI systems to identify:
+1. Potential biases in training data;
+2. Risks to safety, civil liberties, and fundamental right; and
+3. Mitigation strategies for identified risks.
+C. High-risk AI systems must undergo ongoing performance evaluations, with documentation of findings and actions taken to address deficiencies.
+D. Qualified overseers must validate AI outputs before they are enacted and retain authority to override system recommendations.
+E. Deployers shall notify affected individuals when high-risk AI systems influence decisions about the individuals and provide avenues for appeal or human review.
+
+SECTION 5. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 505 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. All deployers shall establish governance groups to oversee the classification, deployment, and monitoring of high-risk artificial intelligence (AI) systems.
+B. Deployers shall maintain the following:
+1. Updated inventories of deployed AI systems;
+2. Documentation on system design, intended use, and training data; and
+3. Records of audits, risk assessments, and oversight activities.
+C. High-risk AI systems must undergo annual independent audits to ensure compliance with legal and ethical standards.
+D. Deployers shall implement protocols to address identified deficiencies, including suspension or recalibration of systems.
+
+SECTION 6. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 506 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. Deployers shall provide accessible channels for public and stakeholder feedback on the operation and impact of artificial intelligence (AI) systems.
+B. Aggregated feedback data must be included in an annual performance report made available by January 1 of each year to the Artificial Intelligence Council (AI Council), created in Section 8 of this act.
+C. The AI Council will analyze feedback and make annual recommendations to inform updates to state and industry-specific artificial intelligence and machine-learning regulations.
+
+SECTION 7. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 507 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. Violations of this act may result in the Artificial Intelligence Council (AI Council) issuing any of the following:
+1. Financial penalties proportional to the severity of the infraction;
+2. Suspension or prohibition of noncompliant systems; and
+3. Mandatory external oversight until compliance is restored.
+B. Deployers shall publicly disclose noncompliance incidents and the corrective actions taken.
+
+SECTION 8. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 508 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. There is hereby established the Artificial Intelligence Council (AI Council) which shall oversee the regulation, deployment, and ethical use of AI systems within this state.
+B. The AI Council shall be responsible for:
+1. Overseeing the AI Regulatory Sandbox Program to foster innovation while maintaining safety and accountability;
+2. Manage the AI Workforce Development Program, including administering grants to small businesses and educational institutions, with a focus on underserved communities;
+3. Develop and update guidelines for AI system classification, risk assessments, and ethical standards;
+4. Facilitate public and stakeholder engagement on AI policies and regulations; and
+5. Provide annual reports to the Legislature on the status of AI deployment, innovation, and workforce initiatives.
+C. The AI Council shall include nine (9) members:
+1. Three appointed by the Governor;
+2. Three appointed by the Speaker of the Oklahoma House of Representatives; and
+3. Three appointed by the President Tempore of the Oklahoma State Senate.
+D. Selected members shall come from one or more of the following backgrounds:
+1. Experts in artificial intelligence ethics, law, and technology;
+2. Representatives from public agencies and private industry; and
+3. Advocates for civil rights and underserved communities.
+
+SECTION 9. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 509 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. The Artificial Intelligence Council (AI Council) shall develop the AI Regulatory Sandbox Program.
+B. The AI Regulatory Sandbox Program shall provide a controlled environment for deployers to test innovative AI systems while ensuring compliance with ethical and safety standards.
+C. The AI Council shall:
+1. Approve or deny applications for participation in the sandbox;
+2. Set limits and safeguards for testing activities; and
+3. Monitor and evaluate sandbox outcomes for compliance and potential risks.
+D. Applicants must demonstrate:
+1. The potential for societal benefit or economic development;
+2. Compliance with data privacy and security requirements; and
+3. Alignment with ethical principles set by the AI Council.
+E. Participants shall submit periodic progress reports and a final evaluation detailing the system’s performance, risks identified, and mitigation measures taken.
+
+SECTION 10. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 510 of Title 25, unless there is created a duplication in numbering, reads as follows:
+A. The Artificial Intelligence Council (AI Council) shall develop the Artificial Intelligence Workforce Development Program (AI Program), the purpose of which shall be to enhance AI-related workforce capabilities by focusing on small businesses and underserved communities, particularly rural and low-income areas.
+B. The AI Council shall:
+1. Develop grant criteria for small businesses and educational institutions; and
+2. Monitor program outcomes and report annually to the Legislature.
+C. Eligible applicants may include:
+1. Small businesses integrating AI systems to improve operations; and
+2. Educational institutions offering AI-related training or certification programs targeting underserved populations.
+D. The program shall prioritize:
+1. Rural outreach programs to introduce AI literacy and training;
+2. Partnerships with local schools to create STEM pathways focused on AI; and
+3. Affordable training opportunities for individuals from low-income backgrounds.
+
+SECTION 11. NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 511 of Title 25, unless there is created a duplication in numbering, reads as follows:
+The Artificial Intelligence Council (AI Council) shall have the authority to establish rules to enforce this act.
+
+SECTION 12. This act shall become effective November 1, 2025.
+

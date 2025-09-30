@@ -1,0 +1,59 @@
+ SEC. 906. PROGRAMS FOR NEXT-GENERATION MICROELECTRONICS IN SUPPORT OF ARTIFICIAL INTELLIGENCE.
+
+
+(a) Program Establishment.—The Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Activity, shall establish or otherwise oversee a program to advance microelectronics research.
+
+ (b) Research Focus.—The Director of National Intelligence shall ensure that the research carried out under the program established under subsection (a) is focused on the following:
+
+
+(1) Advanced engineering and applied research into next-generation computing models, materials, devices, architectures, and algorithms to enable the advancement of artificial intelligence and machine learning.
+
+
+(2) Efforts to—
+
+
+(A) overcome challenges with engineering and applied research of microelectronics, including with respect to the physical limits on transistors, electrical interconnects, and memory elements;
+
+
+(B) promote long-term advancements in computing technologies, including by fostering a unified and multidisciplinary approach encompassing research and development into—
+
+
+(i) next-generation algorithm design;
+
+
+(ii) next-generation compute capability;
+
+
+(iii) generative and adaptive artificial intelligence for design applications;
+
+
+(iv) photonics-based microprocessors, including electrophotonics;
+
+
+(v) the chemistry and physics of new materials;
+
+
+(vi) optical communication networks, including electrophotonics; and
+
+
+(vii) safety and controls for generative artificial intelligence applications for the intelligence community.
+
+
+(3) Any other activity the Director determines would promote the development of microelectronics research for future technologies, including optical communications or quantum technologies.
+
+ (c) Collaboration And Partnerships.—In carrying out the program established under subsection (a), the Director of National Intelligence shall actively collaborate with relevant Government agencies, academic institutions, and private industry to leverage expertise and resources in conducting research.
+
+
+(d) Authorization Of Appropriations.—Amounts authorized to be appropriated for the National Intelligence Program of the Office of the Director of National Intelligence may be made available to award contracts and grants, and to enter into transactions other than contracts, to carry out the program established under subsection (a).
+
+
+(e) Reporting Requirements.—The Director of the Intelligence Advanced Research Projects Activity shall provide to the congressional intelligence committees regular briefings on—
+
+
+(1) the progress, achievements, and outcomes of the program established under subsection (a);
+
+
+(2) the partnerships and collaborations conducted pursuant to subsection (c); and
+
+
+(3) recommendations for future research priorities.

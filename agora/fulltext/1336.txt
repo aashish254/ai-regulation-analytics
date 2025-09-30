@@ -1,0 +1,517 @@
+ Public Act 103-0804
+ 
+HB3773 Enrolled	LRB103 27562 SPS 53938 b
+
+    AN ACT concerning business.
+ 
+    Be it enacted by the People of the State of Illinois,
+represented in the General Assembly:
+ 
+    Section 5. The Illinois Human Rights Act is amended by
+changing Sections 2-101 and 2-102 as follows:
+ 
+    (775 ILCS 5/2-101)    Sec. 2-101. Definitions. The following definitions are
+applicable strictly in the context of this Article.
+    (A) Employee.
+        (1) "Employee" includes:
+            (a) Any individual performing services for
+        remuneration within this State for an employer;
+            (b) An apprentice;
+            (c) An applicant for any apprenticeship.
+        For purposes of subsection (D) of Section 2-102 of
+    this Act, "employee" also includes an unpaid intern. An
+    unpaid intern is a person who performs work for an
+    employer under the following circumstances:
+            (i) the employer is not committed to hiring the
+        person performing the work at the conclusion of the
+        intern's tenure;
+            (ii) the employer and the person performing the
+        work agree that the person is not entitled to wages for
+        the work performed; and
+            (iii) the work performed:
+                (I) supplements training given in an
+            educational environment that may enhance the
+            employability of the intern;
+                (II) provides experience for the benefit of
+            the person performing the work;
+                (III) does not displace regular employees;
+                (IV) is performed under the close supervision
+            of existing staff; and
+                (V) provides no immediate advantage to the
+            employer providing the training and may
+            occasionally impede the operations of the
+            employer.
+        (2) "Employee" does not include:
+            (a) (Blank);
+            (b) Individuals employed by persons who are not
+        "employers" as defined by this Act;
+            (c) Elected public officials or the members of
+        their immediate personal staffs;
+            (d) Principal administrative officers of the State
+        or of any political subdivision, municipal corporation
+        or other governmental unit or agency;
+            (e) A person in a vocational rehabilitation
+        facility certified under federal law who has been
+        designated an evaluee, trainee, or work activity
+        client.
+    (B) Employer.
+        (1) "Employer" includes:
+            (a) Any person employing one or more employees
+        within Illinois during 20 or more calendar weeks
+        within the calendar year of or preceding the alleged
+        violation;
+            (b) Any person employing one or more employees
+        when a complainant alleges civil rights violation due
+        to unlawful discrimination based upon his or her
+        physical or mental disability unrelated to ability,
+        pregnancy, or sexual harassment;
+            (c) The State and any political subdivision,
+        municipal corporation or other governmental unit or
+        agency, without regard to the number of employees;
+            (d) Any party to a public contract without regard
+        to the number of employees;
+            (e) A joint apprenticeship or training committee
+        without regard to the number of employees.
+        (2) "Employer" does not include any place of worship,
+    religious corporation, association, educational
+    institution, society, or non-profit nursing institution
+    conducted by and for those who rely upon treatment by
+    prayer through spiritual means in accordance with the
+    tenets of a recognized church or religious denomination
+    with respect to the employment of individuals of a
+    particular religion to perform work connected with the
+    carrying on by such place of worship, corporation,
+    association, educational institution, society or
+    non-profit nursing institution of its activities.
+    (C) Employment Agency. "Employment Agency" includes both
+public and private employment agencies and any person, labor
+organization, or labor union having a hiring hall or hiring
+office regularly undertaking, with or without compensation, to
+procure opportunities to work, or to procure, recruit, refer
+or place employees.    (D) Labor Organization. "Labor Organization" includes any
+organization, labor union, craft union, or any voluntary
+unincorporated association designed to further the cause of
+the rights of union labor which is constituted for the
+purpose, in whole or in part, of collective bargaining or of
+dealing with employers concerning grievances, terms or
+conditions of employment, or apprenticeships or applications
+for apprenticeships, or of other mutual aid or protection in
+connection with employment, including apprenticeships or
+applications for apprenticeships.
+    (E) Sexual Harassment. "Sexual harassment" means any
+unwelcome sexual advances or requests for sexual favors or any
+conduct of a sexual nature when (1) submission to such conduct
+is made either explicitly or implicitly a term or condition of
+an individual's employment, (2) submission to or rejection of
+such conduct by an individual is used as the basis for
+employment decisions affecting such individual, or (3) such
+conduct has the purpose or effect of substantially interfering
+with an individual's work performance or creating an
+intimidating, hostile or offensive working environment.
+    For purposes of this definition, the phrase "working
+environment" is not limited to a physical location an employee
+is assigned to perform his or her duties.    (E-1) Harassment. "Harassment" means any unwelcome conduct
+on the basis of an individual's actual or perceived race,
+color, religion, national origin, ancestry, age, sex, marital
+status, order of protection status, disability, military
+status, sexual orientation, pregnancy, unfavorable discharge
+from military service, citizenship status, or work
+authorization status that has the purpose or effect of
+substantially interfering with the individual's work
+performance or creating an intimidating, hostile, or offensive
+working environment. For purposes of this definition, the
+phrase "working environment" is not limited to a physical
+location an employee is assigned to perform his or her duties.
+    (F) Religion. "Religion" with respect to employers
+includes all aspects of religious observance and practice, as
+well as belief, unless an employer demonstrates that he is
+unable to reasonably accommodate an employee's or prospective
+employee's religious observance or practice without undue
+hardship on the conduct of the employer's business.
+    (G) Public Employer. "Public employer" means the State, an
+agency or department thereof, unit of local government, school
+district, instrumentality or political subdivision.    (H) Public Employee. "Public employee" means an employee
+of the State, agency or department thereof, unit of local
+government, school district, instrumentality or political
+subdivision. "Public employee" does not include public
+officers or employees of the General Assembly or agencies
+thereof.
+    (I) Public Officer. "Public officer" means a person who is
+elected to office pursuant to the Constitution or a statute or
+ordinance, or who is appointed to an office which is
+established, and the qualifications and duties of which are
+prescribed, by the Constitution or a statute or ordinance, to
+discharge a public duty for the State, agency or department
+thereof, unit of local government, school district,
+instrumentality or political subdivision.
+    (J) Eligible Bidder. "Eligible bidder" means a person who,
+prior to contract award or prior to bid opening for State
+contracts for construction or construction-related services,
+has filed with the Department a properly completed, sworn and
+currently valid employer report form, pursuant to the
+Department's regulations. The provisions of this Article
+relating to eligible bidders apply only to bids on contracts
+with the State and its departments, agencies, boards, and
+commissions, and the provisions do not apply to bids on
+contracts with units of local government or school districts.    (K) Citizenship Status. "Citizenship status" means the
+status of being:
+        (1) a born U.S. citizen;
+        (2) a naturalized U.S. citizen;
+        (3) a U.S. national; or
+        (4) a person born outside the United States and not a
+    U.S. citizen who is lawfully present and who is protected
+    from discrimination under the provisions of Section 1324b
+    of Title 8 of the United States Code, as now or hereafter
+    amended.
+    (L) Work Authorization Status. "Work authorization status"
+means the status of being a person born outside of the United
+States, and not a U.S. citizen, who is authorized by the
+federal government to work in the United States.    (M) Artificial Intelligence. "Artificial intelligence"
+means a machine-based system that, for explicit or implicit
+objectives, infers, from the input it receives, how to
+generate outputs such as predictions, content,
+recommendations, or decisions that can influence physical or
+virtual environments. "Artificial intelligence" includes
+generative artificial intelligence.
+    (N) Generative Artificial Intelligence. "Generative
+artificial intelligence" means an automated computing system
+that, when prompted with human prompts, descriptions, or
+queries, can produce outputs that simulate human-produced
+content, including, but not limited to, the following: (1)
+textual outputs, such as short answers, essays, poetry, or
+longer compositions or answers; (2) image outputs, such as
+fine art, photographs, conceptual art, diagrams, and other
+images; (3) multimedia outputs, such as audio or video in the
+form of compositions, songs, or short-form or long-form audio
+or video; and (4) other content that would be otherwise
+produced by human means.
+(Source: P.A. 101-221, eff. 1-1-20; 101-430, eff. 7-1-20;
+102-233, eff. 8-2-21; 102-558, eff. 8-20-21; 102-1030, eff.
+5-27-22.)
+ 
+    (775 ILCS 5/2-102)  (from Ch. 68, par. 2-102)    Sec. 2-102. Civil rights violations - employment. It is a
+civil rights violation:
+        (A) Employers. For any employer to refuse to hire, to
+    segregate, to engage in harassment as defined in
+    subsection (E-1) of Section 2-101, or to act with respect
+    to recruitment, hiring, promotion, renewal of employment,
+    selection for training or apprenticeship, discharge,
+    discipline, tenure or terms, privileges or conditions of
+    employment on the basis of unlawful discrimination,
+    citizenship status, or work authorization status. An
+    employer is responsible for harassment by the employer's
+    nonmanagerial and nonsupervisory employees only if the
+    employer becomes aware of the conduct and fails to take
+    reasonable corrective measures.
+        (A-5) Language. For an employer to impose a
+    restriction that has the effect of prohibiting a language
+    from being spoken by an employee in communications that
+    are unrelated to the employee's duties.
+        For the purposes of this subdivision (A-5), "language"
+    means a person's native tongue, such as Polish, Spanish,
+    or Chinese. "Language" does not include such things as
+    slang, jargon, profanity, or vulgarity.
+        (A-10) Harassment of nonemployees. For any employer,
+    employment agency, or labor organization to engage in
+    harassment of nonemployees in the workplace. An employer
+    is responsible for harassment of nonemployees by the
+    employer's nonmanagerial and nonsupervisory employees only
+    if the employer becomes aware of the conduct and fails to
+    take reasonable corrective measures. For the purposes of
+    this subdivision (A-10), "nonemployee" means a person who
+    is not otherwise an employee of the employer and is
+    directly performing services for the employer pursuant to
+    a contract with that employer. "Nonemployee" includes
+    contractors and consultants. This subdivision applies to
+    harassment occurring on or after the effective date of
+    this amendatory Act of the 101st General Assembly.
+        (B) Employment agency. For any employment agency to
+    fail or refuse to classify properly, accept applications
+    and register for employment referral or apprenticeship
+    referral, refer for employment, or refer for
+    apprenticeship on the basis of unlawful discrimination,
+    citizenship status, or work authorization status or to
+    accept from any person any job order, requisition or
+    request for referral of applicants for employment or
+    apprenticeship which makes or has the effect of making
+    unlawful discrimination or discrimination on the basis of
+    citizenship status or work authorization status a
+    condition of referral.
+        (C) Labor organization. For any labor organization to
+    limit, segregate or classify its membership, or to limit
+    employment opportunities, selection and training for
+    apprenticeship in any trade or craft, or otherwise to
+    take, or fail to take, any action which affects adversely
+    any person's status as an employee or as an applicant for
+    employment or as an apprentice, or as an applicant for
+    apprenticeships, or wages, tenure, hours of employment or
+    apprenticeship conditions on the basis of unlawful
+    discrimination, citizenship status, or work authorization
+    status.
+        (D) Sexual harassment. For any employer, employee,
+    agent of any employer, employment agency or labor
+    organization to engage in sexual harassment; provided,
+    that an employer shall be responsible for sexual
+    harassment of the employer's employees by nonemployees or
+    nonmanagerial and nonsupervisory employees only if the
+    employer becomes aware of the conduct and fails to take
+    reasonable corrective measures.
+        (D-5) Sexual harassment of nonemployees. For any
+    employer, employee, agent of any employer, employment
+    agency, or labor organization to engage in sexual
+    harassment of nonemployees in the workplace. An employer
+    is responsible for sexual harassment of nonemployees by
+    the employer's nonmanagerial and nonsupervisory employees
+    only if the employer becomes aware of the conduct and
+    fails to take reasonable corrective measures. For the
+    purposes of this subdivision (D-5), "nonemployee" means a
+    person who is not otherwise an employee of the employer
+    and is directly performing services for the employer
+    pursuant to a contract with that employer. "Nonemployee"
+    includes contractors and consultants. This subdivision
+    applies to sexual harassment occurring on or after the
+    effective date of this amendatory Act of the 101st General
+    Assembly.
+        (E) Public employers. For any public employer to
+    refuse to permit a public employee under its jurisdiction
+    who takes time off from work in order to practice his or
+    her religious beliefs to engage in work, during hours
+    other than such employee's regular working hours,
+    consistent with the operational needs of the employer and
+    in order to compensate for work time lost for such
+    religious reasons. Any employee who elects such deferred
+    work shall be compensated at the wage rate which he or she
+    would have earned during the originally scheduled work
+    period. The employer may require that an employee who
+    plans to take time off from work in order to practice his
+    or her religious beliefs provide the employer with a
+    notice of his or her intention to be absent from work not
+    exceeding 5 days prior to the date of absence.
+        (E-5) Religious discrimination. For any employer to
+    impose upon a person as a condition of obtaining or
+    retaining employment, including opportunities for
+    promotion, advancement, or transfer, any terms or
+    conditions that would require such person to violate or
+    forgo a sincerely held practice of his or her religion
+    including, but not limited to, the wearing of any attire,
+    clothing, or facial hair in accordance with the
+    requirements of his or her religion, unless, after
+    engaging in a bona fide effort, the employer demonstrates
+    that it is unable to reasonably accommodate the employee's
+    or prospective employee's sincerely held religious belief,
+    practice, or observance without undue hardship on the
+    conduct of the employer's business.
+        Nothing in this Section prohibits an employer from
+    enacting a dress code or grooming policy that may include
+    restrictions on attire, clothing, or facial hair to
+    maintain workplace safety or food sanitation.
+        (F) Training and apprenticeship programs. For any
+    employer, employment agency or labor organization to
+    discriminate against a person on the basis of age in the
+    selection, referral for or conduct of apprenticeship or
+    training programs.
+        (G) Immigration-related practices.
+            (1) for an employer to request for purposes of
+        satisfying the requirements of Section 1324a(b) of
+        Title 8 of the United States Code, as now or hereafter
+        amended, more or different documents than are required
+        under such Section or to refuse to honor documents
+        tendered that on their face reasonably appear to be
+        genuine or to refuse to honor work authorization based
+        upon the specific status or term of status that
+        accompanies the authorization to work; or
+            (2) for an employer participating in the E-Verify
+        Program, as authorized by 8 U.S.C. 1324a, Notes, Pilot
+        Programs for Employment Eligibility Confirmation
+        (enacted by PL 104-208, div. C title IV, subtitle A) to
+        refuse to hire, to segregate, or to act with respect to
+        recruitment, hiring, promotion, renewal of employment,
+        selection for training or apprenticeship, discharge,
+        discipline, tenure or terms, privileges or conditions
+        of employment without following the procedures under
+        the E-Verify Program.
+        (H) (Blank).
+        (I) Pregnancy. For an employer to refuse to hire, to
+    segregate, or to act with respect to recruitment, hiring,
+    promotion, renewal of employment, selection for training
+    or apprenticeship, discharge, discipline, tenure or terms,
+    privileges or conditions of employment on the basis of
+    pregnancy, childbirth, or medical or common conditions
+    related to pregnancy or childbirth. Women affected by
+    pregnancy, childbirth, or medical or common conditions
+    related to pregnancy or childbirth shall be treated the
+    same for all employment-related purposes, including
+    receipt of benefits under fringe benefit programs, as
+    other persons not so affected but similar in their ability
+    or inability to work, regardless of the source of the
+    inability to work or employment classification or status.
+        (J) Pregnancy; reasonable accommodations.
+            (1) If after a job applicant or employee,
+        including a part-time, full-time, or probationary
+        employee, requests a reasonable accommodation, for an
+        employer to not make reasonable accommodations for any
+        medical or common condition of a job applicant or
+        employee related to pregnancy or childbirth, unless
+        the employer can demonstrate that the accommodation
+        would impose an undue hardship on the ordinary
+        operation of the business of the employer. The
+        employer may request documentation from the employee's
+        health care provider concerning the need for the
+        requested reasonable accommodation or accommodations
+        to the same extent documentation is requested for
+        conditions related to disability if the employer's
+        request for documentation is job-related and
+        consistent with business necessity. The employer may
+        require only the medical justification for the
+        requested accommodation or accommodations, a
+        description of the reasonable accommodation or
+        accommodations medically advisable, the date the
+        reasonable accommodation or accommodations became
+        medically advisable, and the probable duration of the
+        reasonable accommodation or accommodations. It is the
+        duty of the individual seeking a reasonable
+        accommodation or accommodations to submit to the
+        employer any documentation that is requested in
+        accordance with this paragraph. Notwithstanding the
+        provisions of this paragraph, the employer may require
+        documentation by the employee's health care provider
+        to determine compliance with other laws. The employee
+        and employer shall engage in a timely, good faith, and
+        meaningful exchange to determine effective reasonable
+        accommodations.
+            (2) For an employer to deny employment
+        opportunities or benefits to or take adverse action
+        against an otherwise qualified job applicant or
+        employee, including a part-time, full-time, or
+        probationary employee, if the denial or adverse action
+        is based on the need of the employer to make reasonable
+        accommodations to the known medical or common
+        conditions related to the pregnancy or childbirth of
+        the applicant or employee.
+            (3) For an employer to require a job applicant or
+        employee, including a part-time, full-time, or
+        probationary employee, affected by pregnancy,
+        childbirth, or medical or common conditions related to
+        pregnancy or childbirth to accept an accommodation
+        when the applicant or employee did not request an
+        accommodation and the applicant or employee chooses
+        not to accept the employer's accommodation.
+            (4) For an employer to require an employee,
+        including a part-time, full-time, or probationary
+        employee, to take leave under any leave law or policy
+        of the employer if another reasonable accommodation
+        can be provided to the known medical or common
+        conditions related to the pregnancy or childbirth of
+        an employee. No employer shall fail or refuse to
+        reinstate the employee affected by pregnancy,
+        childbirth, or medical or common conditions related to
+        pregnancy or childbirth to her original job or to an
+        equivalent position with equivalent pay and
+        accumulated seniority, retirement, fringe benefits,
+        and other applicable service credits upon her
+        signifying her intent to return or when her need for
+        reasonable accommodation ceases, unless the employer
+        can demonstrate that the accommodation would impose an
+        undue hardship on the ordinary operation of the
+        business of the employer.
+        For the purposes of this subdivision (J), "reasonable
+    accommodations" means reasonable modifications or
+    adjustments to the job application process or work
+    environment, or to the manner or circumstances under which
+    the position desired or held is customarily performed,
+    that enable an applicant or employee affected by
+    pregnancy, childbirth, or medical or common conditions
+    related to pregnancy or childbirth to be considered for
+    the position the applicant desires or to perform the
+    essential functions of that position, and may include, but
+    is not limited to: more frequent or longer bathroom
+    breaks, breaks for increased water intake, and breaks for
+    periodic rest; private non-bathroom space for expressing
+    breast milk and breastfeeding; seating; assistance with
+    manual labor; light duty; temporary transfer to a less
+    strenuous or hazardous position; the provision of an
+    accessible worksite; acquisition or modification of
+    equipment; job restructuring; a part-time or modified work
+    schedule; appropriate adjustment or modifications of
+    examinations, training materials, or policies;
+    reassignment to a vacant position; time off to recover
+    from conditions related to childbirth; and leave
+    necessitated by pregnancy, childbirth, or medical or
+    common conditions resulting from pregnancy or childbirth.
+        For the purposes of this subdivision (J), "undue
+    hardship" means an action that is prohibitively expensive
+    or disruptive when considered in light of the following
+    factors: (i) the nature and cost of the accommodation
+    needed; (ii) the overall financial resources of the
+    facility or facilities involved in the provision of the
+    reasonable accommodation, the number of persons employed
+    at the facility, the effect on expenses and resources, or
+    the impact otherwise of the accommodation upon the
+    operation of the facility; (iii) the overall financial
+    resources of the employer, the overall size of the
+    business of the employer with respect to the number of its
+    employees, and the number, type, and location of its
+    facilities; and (iv) the type of operation or operations
+    of the employer, including the composition, structure, and
+    functions of the workforce of the employer, the geographic
+    separateness, administrative, or fiscal relationship of
+    the facility or facilities in question to the employer.
+    The employer has the burden of proving undue hardship. The
+    fact that the employer provides or would be required to
+    provide a similar accommodation to similarly situated
+    employees creates a rebuttable presumption that the
+    accommodation does not impose an undue hardship on the
+    employer.
+        No employer is required by this subdivision (J) to
+    create additional employment that the employer would not
+    otherwise have created, unless the employer does so or
+    would do so for other classes of employees who need
+    accommodation. The employer is not required to discharge
+    any employee, transfer any employee with more seniority,
+    or promote any employee who is not qualified to perform
+    the job, unless the employer does so or would do so to
+    accommodate other classes of employees who need it.
+        (K) Notice.
+            (1) For an employer to fail to post or keep posted
+        in a conspicuous location on the premises of the
+        employer where notices to employees are customarily
+        posted, or fail to include in any employee handbook
+        information concerning an employee's rights under this
+        Article, a notice, to be prepared or approved by the
+        Department, summarizing the requirements of this
+        Article and information pertaining to the filing of a
+        charge, including the right to be free from unlawful
+        discrimination, the right to be free from sexual
+        harassment, and the right to certain reasonable
+        accommodations. The Department shall make the
+        documents required under this paragraph available for
+        retrieval from the Department's website.
+            (2) Upon notification of a violation of paragraph
+        (1) of this subdivision (K), the Department may launch
+        a preliminary investigation. If the Department finds a
+        violation, the Department may issue a notice to show
+        cause giving the employer 30 days to correct the
+        violation. If the violation is not corrected, the
+        Department may initiate a charge of a civil rights
+        violation.        (L) Use of artificial intelligence.
+            (1) With respect to recruitment, hiring,
+        promotion, renewal of employment, selection for
+        training or apprenticeship, discharge, discipline,
+        tenure, or the terms, privileges, or conditions of
+        employment, for an employer to use artificial
+        intelligence that has the effect of subjecting
+        employees to discrimination on the basis of protected
+        classes under this Article or to use zip codes as a
+        proxy for protected classes under this Article.
+            (2) For an employer to fail to provide notice to an
+        employee that the employer is using artificial
+        intelligence for the purposes described in paragraph
+        (1).        The Department shall adopt any rules necessary for the
+    implementation and enforcement of this subdivision,
+    including, but not limited to, rules on the circumstances
+    and conditions that require notice, the time period for
+    providing notice, and the means for providing notice.
+(Source: P.A. 101-221, eff. 1-1-20; 102-233, eff. 8-2-21.)
+ 
+    Section 99. Effective date. This Act takes effect January
+1, 2026.

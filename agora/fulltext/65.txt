@@ -1,0 +1,12 @@
+(g) Advanced Geothermal Computing and Data Science Research and Development.--
+	(1) In general.--Section 618 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17197) is amended to read as follows:
+``SEC. 618. ADVANCED GEOTHERMAL COMPUTING AND DATA SCIENCE RESEARCH AND DEVELOPMENT.
+
+``(a) In General.--The Secretary shall carry out a program of research and development of advanced computing and data science tools for geothermal energy.
+``(b) Programs.--The program authorized in subsection (a) shall include the following:
+``(1) Advanced computing for geothermal systems technologies.--Research, development, and demonstration of technologies to develop advanced data, machine learning, artificial intelligence, and related computing tools to assist in locating geothermal resources, to increase the reliability of site characterization, to increase the rate and efficiency of drilling, to improve induced seismicity mitigation, and to support enhanced geothermal systems technologies.
+``(2) Geothermal systems reservoir modeling.--Research, development, and demonstration of models of geothermal reservoir performance and enhanced geothermal systems reservoir stimulation technologies and techniques, with an emphasis on accurately modeling fluid and heat flow, permeability evolution, geomechanics, geochemistry, seismicity, andoperational performance over time, including collaboration with industry and field validation.
+``(c) Coordination.--In carrying out these programs, the Secretary shall ensure coordination and consultation with the Department of Energy's Office of Science. The Secretary shall ensure, to the maximum extent practicable, coordination of these activities with the Department of Energy National Laboratories, institutes of higher education, and the private sector.''.
+	(2) Conforming amendment.--Section 1(b) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17001 note) is amended in the table of contents by amending the item related to section 618 to read as follows:
+
+``Sec. 618. Advanced geothermal computing and data science research and development.''.
